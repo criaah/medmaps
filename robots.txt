@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tu-usuario.github.io/medmaps/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow ninguna carpeta por ahora
+# Disallow: /admin
+# Disallow: /private

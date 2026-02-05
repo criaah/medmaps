@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MedMaps - Mapas mentales médicos interactivos para estudiantes y profesionales de la salud">
+  <title>MedMaps - Mapas Mentales Médicos</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <a href="/" class="logo">🧠 MedMaps</a>
+    <button class="hamburger" aria-label="Menú">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav>
+      <ul>
+        <li><a href="#especialidades">Especialidades</a></li>
+        <li><a href="planes.html">Planes</a></li>
+        <li><a href="especialidades.html">Todos los Mapas</a></li>
+        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>🧠 MedMaps</h1>
+      <p>Mapas mentales médicos interactivos para estudiantes y profesionales de la salud</p>
+      <div class="hero-buttons">
+        <a href="especialidades.html" class="btn btn-primary">Explorar Mapas</a>
+        <a href="planes.html" class="btn btn-outline">Ver Planes</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEARCH SECTION -->
+  <section class="container section">
+    <h2 class="section-title">Buscar Tema</h2>
+    <div class="search-container">
+      <div class="search-bar">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Busca por especialidad, tema o enfermedad..."
+        >
+        <button id="searchBtn">Buscar</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ESPECIALIDADES SECTION -->
+  <section class="container section" id="especialidades">
+    <h2 class="section-title">Especialidades Disponibles</h2>
+    <p class="section-subtitle">Accede a mapas mentales de más de 30 especialidades médicas</p>
+
+    <div class="grid" id="especialidadesGrid">
+      <!-- Cards generados por especialidades -->
+    </div>
+  </section>
+
+  <!-- STATS SECTION -->
+  <section class="stats-section">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item" data-reveal>
+          <h3>1,473</h3>
+          <p>Mapas Mentales</p>
+        </div>
+        <div class="stat-item" data-reveal>
+          <h3>34</h3>
+          <p>Especialidades</p>
+        </div>
+        <div class="stat-item" data-reveal>
+          <h3>100%</h3>
+          <p>Contenido Verificado</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section class="container section" style="text-align: center;">
+    <h2 class="section-title">¿Listo para mejorar tu aprendizaje?</h2>
+    <p class="section-subtitle">Accede a todos los mapas mentales con una suscripción premium</p>
+    <a href="planes.html" class="btn btn-secondary">Ver Planes de Suscripción</a>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2026 MedMaps - Mapas Mentales Médicos</p>
+  <p>Creado por Dr. Cristian Acevedo | <a href="https://github.com/criaah">GitHub</a></p>
+  <p style="font-size: 0.85rem; margin-top: 1rem;">Este sitio es una herramienta educativa. Consulta siempre con profesionales médicos calificados.</p>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+// Especialidades con datos reales
+const especialidades = [
+  { id: 'cardiologia', nombre: 'Cardiología', mapas: 85, emoji: '❤️' },
+  { id: 'pediatria', nombre: 'Pediatría', mapas: 205, emoji: '👶' },
+  { id: 'hematologia', nombre: 'Hematología', mapas: 81, emoji: '🩸' },
+  { id: 'neurologia', nombre: 'Neurología', mapas: 78, emoji: '🧠' },
+  { id: 'infectologia', nombre: 'Infectología', mapas: 78, emoji: '🦠' },
+  { id: 'geriatria', nombre: 'Geriatría', mapas: 69, emoji: '👴' },
+  { id: 'endocrinologia', nombre: 'Endocrinología', mapas: 66, emoji: '🦋' },
+  { id: 'cirugia', nombre: 'Cirugía', mapas: 48, emoji: '🔪' },
+  { id: 'nefrologia', nombre: 'Nefrología', mapas: 45, emoji: '🫘' },
+  { id: 'gastroenterologia', nombre: 'Gastroenterología', mapas: 45, emoji: '🫃' },
+  { id: 'urologia', nombre: 'Urología', mapas: 44, emoji: '💧' },
+  { id: 'traumatologia', nombre: 'Traumatología', mapas: 36, emoji: '🦴' },
+  { id: 'neumologia', nombre: 'Neumología', mapas: 36, emoji: '🫁' },
+  { id: 'otorrinolaringologia', nombre: 'ORL', mapas: 36, emoji: '👂' },
+  { id: 'uci', nombre: 'UCI-Medicina Crítica', mapas: 36, emoji: '🏥' },
+  { id: 'psiquiatria', nombre: 'Psiquiatría', mapas: 29, emoji: '🧩' },
+  { id: 'reumatologia', nombre: 'Reumatología', mapas: 29, emoji: '🤲' },
+  { id: 'ortogeriatria', nombre: 'Ortogeriatría', mapas: 28, emoji: '🦿' },
+  { id: 'dermatologia', nombre: 'Dermatología', mapas: 27, emoji: '🧴' },
+  { id: 'obstetricia', nombre: 'Gineco-Obstetricia', mapas: 23, emoji: '🤰' },
+  { id: 'atencion-primaria', nombre: 'Atención Primaria', mapas: 19, emoji: '🏠' },
+  { id: 'bioestadistica', nombre: 'Bioestadística', mapas: 18, emoji: '📊' },
+  { id: 'fisiatria', nombre: 'Fisiatría', mapas: 18, emoji: '🏃' },
+  { id: 'eunacom', nombre: 'EUNACOM', mapas: 17, emoji: '📝' },
+  { id: 'oncologia', nombre: 'Oncología', mapas: 11, emoji: '🎗️' },
+];
+
+const grid = document.getElementById('especialidadesGrid');
+
+especialidades.forEach(esp => {
+  const card = document.createElement('div');
+  card.className = 'card';
+  card.setAttribute('data-searchable', esp.nombre + ' ' + esp.id);
+  card.innerHTML = `
+    <div class="card-header">
+      <h3>${esp.emoji} ${esp.nombre}</h3>
+      <p class="specialty-count">${esp.mapas} mapas disponibles</p>
+    </div>
+    <div class="card-body">
+      <p>Accede a mapas mentales comprensivos sobre todos los temas de ${esp.nombre}.</p>
+    </div>
+    <div class="card-footer">
+      <a href="especialidades.html#${esp.id}" class="btn btn-secondary">Ver Mapas</a>
+    </div>
+  `;
+  grid.appendChild(card);
+});
+</script>
+
+</body>
+</html>

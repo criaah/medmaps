@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Todos los mapas mentales médicos disponibles en MedMaps">
+  <title>Mapas Mentales - MedMaps</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <a href="/" class="logo">🧠 MedMaps</a>
+    <button class="hamburger" aria-label="Menú">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav>
+      <ul>
+        <li><a href="/#especialidades">Especialidades</a></li>
+        <li><a href="planes.html">Planes</a></li>
+        <li><a href="especialidades.html">Mapas</a></li>
+        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- PAGE HEADER -->
+  <section class="hero" style="padding: 2rem 1rem;">
+    <div class="hero-content">
+      <h1>Todos los Mapas Mentales</h1>
+      <p>Explora nuestra completa biblioteca de mapas organizados por especialidad</p>
+    </div>
+  </section>
+
+  <!-- FILTERS & SEARCH -->
+  <section class="container section">
+    <div class="search-container">
+      <div class="search-bar">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Busca mapas por tema, especialidad o palabra clave..."
+        >
+        <button id="searchBtn">Buscar</button>
+      </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 2rem;">
+      <button onclick="filterMaps('all')" class="btn btn-secondary" style="margin: 0.5rem;">Todos</button>
+      <button onclick="filterMaps('free')" class="btn btn-secondary" style="margin: 0.5rem;">Gratis</button>
+      <button onclick="filterMaps('premium')" class="btn btn-secondary" style="margin: 0.5rem;">Premium</button>
+    </div>
+  </section>
+
+  <!-- ESPECIALIDADES WITH ACCORDIONS -->
+  <section class="container section" id="mapasContainer">
+    <!-- Accordions generados dinámicamente -->
+  </section>
+
+  <!-- NO RESULTS MESSAGE -->
+  <div id="noResults" style="display: none; text-align: center; padding: 3rem 1rem;">
+    <h3 style="color: #9E9E9E;">No se encontraron resultados</h3>
+    <p style="color: #9E9E9E;">Intenta con otras palabras clave</p>
+  </div>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 MedMaps - Mapas Mentales Médicos</p>
+  <p>Creado por Dr. Acevedo | <a href="https://github.com">GitHub</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+// MAPA DE ESPECIALIDADES CON MAPAS
+const especialidadesMapas = {
+  'Atención Primaria': {
+    id: 'atension-primaria',
+    mapas: [
+      { titulo: 'APS DHC 2025', año: 2025, premium: false },
+      { titulo: 'Artrosis', año: 2023, premium: false },
+      { titulo: 'Bronquitis aguda no obstructiva', año: 2018, premium: false },
+      { titulo: 'Calambres nocturnos', año: 2018, premium: false },
+      { titulo: 'Control sano primer mes', año: 2017, premium: false },
+      { titulo: 'Fiebre sin foco', año: 2023, premium: false },
+      { titulo: 'Hipertensión ortoestática', año: 2022, premium: true },
+      { titulo: 'Hipotensión ortoestática', año: 2022, premium: false },
+      { titulo: 'Vacunas 2024', año: 2024, premium: false },
+    ]
+  },
+  'Bioestadística': {
+    id: 'bioestadistica',
+    mapas: [
+      { titulo: 'Introducción a métodos epidemiológicos', año: 2024, premium: false },
+      { titulo: 'Fundamentos de Bioestadística', año: 2024, premium: false },
+      { titulo: 'Epidemiología - Conceptos Clave', año: 2024, premium: false },
+      { titulo: 'Medicina Basada en Evidencia', año: 2023, premium: false },
+      { titulo: 'Variables y Medidas de Frecuencia', año: 2024, premium: true },
+    ]
+  },
+  'Cardiología': {
+    id: 'cardiologia',
+    mapas: [
+      { titulo: 'Insuficiencia Cardíaca', año: 2024, premium: false },
+      { titulo: 'Arritmias', año: 2024, premium: false },
+      { titulo: 'Enfermedad Coronaria', año: 2024, premium: false },
+      { titulo: 'Cardiopatía Valvular', año: 2024, premium: false },
+      { titulo: 'Factores de riesgo cardiovascular', año: 2023, premium: false },
+      { titulo: 'Evaluación diagnóstica en cardiología', año: 2023, premium: true },
+      { titulo: 'Síncope y muerte súbita', año: 2023, premium: true },
+      { titulo: 'Electrocardiograma', año: 2024, premium: true },
+      { titulo: 'Hipertensión arterial', año: 2024, premium: false },
+    ]
+  },
+  'Cirugía': {
+    id: 'cirugia',
+    mapas: [
+      { titulo: 'Abdomen agudo', año: 2018, premium: false },
+      { titulo: 'Apendicitis aguda', año: 2018, premium: false },
+      { titulo: 'Colecistitis aguda', año: 2024, premium: false },
+      { titulo: 'Hernia', año: 2018, premium: false },
+      { titulo: 'Aneurismo aórtico', año: 2024, premium: true },
+      { titulo: 'Cáncer gástrico', año: 2024, premium: true },
+      { titulo: 'Diverticulitis', año: 2024, premium: true },
+      { titulo: 'Evaluación preoperatoria', año: 2018, premium: false },
+    ]
+  },
+  'Dermatología': {
+    id: 'dermatologia',
+    mapas: [
+      { titulo: 'Acné', año: 2015, premium: false },
+      { titulo: 'Carcinoma maligno', año: 2015, premium: false },
+      { titulo: 'Dermatitis seborreica del adulto', año: 2015, premium: false },
+      { titulo: 'Rosácea', año: 2015, premium: false },
+      { titulo: 'Melanoma', año: 2024, premium: true },
+    ]
+  },
+  'Endocrinología': {
+    id: 'endocrinologia',
+    mapas: [
+      { titulo: 'Síndrome de Cushing', año: 2015, premium: false },
+      { titulo: 'Déficit de andrógenos en adulto', año: 2015, premium: false },
+      { titulo: 'Hiperandrogenismo y SOP', año: 2015, premium: false },
+      { titulo: 'Hipertiroidismo', año: 2015, premium: false },
+      { titulo: 'Hipotiroidismo', año: 2015, premium: false },
+      { titulo: 'Insuficiencias suprarrenal', año: 2015, premium: true },
+      { titulo: 'Nódulo tiroideo', año: 2015, premium: true },
+      { titulo: 'Diabetes Mellitus tipo 2', año: 2024, premium: false },
+    ]
+  },
+  'Geriatría': {
+    id: 'geriatria',
+    mapas: [
+      { titulo: 'Síndrome de caídas en ancianos', año: 2023, premium: false },
+      { titulo: 'Demencia en el adulto mayor', año: 2024, premium: false },
+      { titulo: 'Manejo del dolor en geriatría', año: 2023, premium: true },
+      { titulo: 'Prescripción inadecuada en ancianos', año: 2024, premium: true },
+      { titulo: 'Fragilidad en el adulto mayor', año: 2023, premium: false },
+    ]
+  },
+  'Gastroenterología': {
+    id: 'gastroenterologia',
+    mapas: [
+      { titulo: 'Hemorragia digestiva alta', año: 2018, premium: false },
+      { titulo: 'Enfermedad inflamatoria intestinal', año: 2024, premium: false },
+      { titulo: 'Cirrosis hepática', año: 2023, premium: true },
+      { titulo: 'Pancreatitis aguda', año: 2024, premium: false },
+      { titulo: 'Reflujo gastroesofágico', año: 2023, premium: false },
+    ]
+  },
+  'Hematología': {
+    id: 'hematologia',
+    mapas: [
+      { titulo: 'Anemia ferropriva', año: 2015, premium: false },
+      { titulo: 'Anemia hemolítica', año: 2025, premium: false },
+      { titulo: 'Anemia aplásica', año: 2015, premium: false },
+      { titulo: 'Alteraciones de la hemostasia', año: 2015, premium: true },
+      { titulo: 'Leucemia aguda', año: 2024, premium: true },
+      { titulo: 'Linfoma', año: 2024, premium: true },
+    ]
+  },
+  'Infectología': {
+    id: 'infectologia',
+    mapas: [
+      { titulo: 'VIH/SIDA', año: 2024, premium: false },
+      { titulo: 'Tuberculosis', año: 2023, premium: false },
+      { titulo: 'Endocarditis infecciosa', año: 2024, premium: true },
+      { titulo: 'Sepsis', año: 2023, premium: true },
+      { titulo: 'Infecciones del SNC', año: 2024, premium: false },
+    ]
+  },
+  'Medicina Interna': {
+    id: 'medicina-interna',
+    mapas: [
+      { titulo: 'Fiebre de origen desconocido', año: 2024, premium: false },
+      { titulo: 'Tromboembolismo pulmonar', año: 2024, premium: false },
+      { titulo: 'Insuficiencia respiratoria', año: 2023, premium: false },
+      { titulo: 'Acidosis metabólica', año: 2024, premium: true },
+      { titulo: 'Hipoglicemia', año: 2023, premium: false },
+    ]
+  },
+  'Neurología': {
+    id: 'neurologia',
+    mapas: [
+      { titulo: 'Accidente cerebrovascular', año: 2024, premium: false },
+      { titulo: 'Epilepsia', año: 2024, premium: false },
+      { titulo: 'Migraña', año: 2023, premium: false },
+      { titulo: 'Enfermedad de Parkinson', año: 2024, premium: true },
+      { titulo: 'Esclerosis múltiple', año: 2024, premium: true },
+      { titulo: 'Coma', año: 2023, premium: false },
+    ]
+  },
+  'Pediatría': {
+    id: 'pediatria',
+    mapas: [
+      { titulo: 'Desarrollo normal del niño', año: 2024, premium: false },
+      { titulo: 'Infecciones respiratorias en niños', año: 2023, premium: false },
+      { titulo: 'Gastroenteritis aguda', año: 2023, premium: false },
+      { titulo: 'Asma infantil', año: 2024, premium: false },
+      { titulo: 'Meningitis bacteriana pediátrica', año: 2024, premium: true },
+    ]
+  },
+  'Psiquiatría': {
+    id: 'psiquiatria',
+    mapas: [
+      { titulo: 'Depresión mayor', año: 2024, premium: false },
+      { titulo: 'Trastorno bipolar', año: 2024, premium: false },
+      { titulo: 'Esquizofrenia', año: 2024, premium: false },
+      { titulo: 'Trastorno de ansiedad generalizada', año: 2023, premium: false },
+      { titulo: 'Trastorno por estrés postraumático', año: 2024, premium: true },
+    ]
+  },
+};
+
+const container = document.getElementById('mapasContainer');
+
+Object.entries(especialidadesMapas).forEach(([especialidad, data]) => {
+  const accordion = document.createElement('div');
+  accordion.className = 'accordion';
+  accordion.setAttribute('data-searchable', especialidad);
+
+  const header = document.createElement('div');
+  header.className = 'accordion-header';
+  header.innerHTML = `
+    <span>${especialidad}</span>
+    <span class="accordion-toggle">▼</span>
+  `;
+
+  const content = document.createElement('div');
+  content.className = 'accordion-content';
+
+  const body = document.createElement('div');
+  body.className = 'accordion-body';
+
+  data.mapas.forEach(mapa => {
+    const mapItem = document.createElement('div');
+    mapItem.className = 'map-item';
+    mapItem.setAttribute('data-searchable', especialidad + ' ' + mapa.titulo + ' ' + mapa.año);
+    mapItem.setAttribute('data-map', mapa.premium ? 'premium' : 'free');
+
+    mapItem.innerHTML = `
+      <div class="map-title">
+        <h4>${mapa.titulo}${mapa.premium ? ' <span class="lock-icon">🔒</span>' : ''}</h4>
+        <p class="map-meta">Actualizado: ${mapa.año}</p>
+      </div>
+      <span class="map-badge ${mapa.premium ? 'badge-premium' : 'badge-free'}">
+        ${mapa.premium ? 'Premium' : 'Gratis'}
+      </span>
+    `;
+
+    body.appendChild(mapItem);
+  });
+
+  content.appendChild(body);
+
+  const accordionItem = document.createElement('div');
+  accordionItem.className = 'accordion-item';
+  accordionItem.appendChild(header);
+  accordionItem.appendChild(content);
+
+  accordion.appendChild(accordionItem);
+  container.appendChild(accordion);
+});
+</script>
+
+</body>
+</html>

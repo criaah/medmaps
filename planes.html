@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Planes de suscripción para MedMaps - Acceso a todos los mapas mentales médicos">
+  <title>Planes de Suscripción - MedMaps</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <a href="/" class="logo">🧠 MedMaps</a>
+    <nav>
+      <ul>
+        <li><a href="/#especialidades">Especialidades</a></li>
+        <li><a href="planes.html">Planes</a></li>
+        <li><a href="especialidades.html">Mapas</a></li>
+        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- PAGE HEADER -->
+  <section class="hero" style="padding: 2rem 1rem;">
+    <div class="hero-content">
+      <h1>Planes de Suscripción</h1>
+      <p>Elige el plan perfecto para tus necesidades educativas</p>
+    </div>
+  </section>
+
+  <!-- PRICING CARDS -->
+  <section class="container section">
+    <div class="pricing-grid">
+
+      <!-- FREE PLAN -->
+      <div class="pricing-card" data-reveal>
+        <div class="pricing-header">
+          <div class="pricing-name">Gratis</div>
+          <div class="pricing-price">$0</div>
+          <div class="pricing-period">para siempre</div>
+        </div>
+        <div class="pricing-body">
+          <div class="pricing-feature highlight">3 mapas por mes</div>
+          <div class="pricing-feature">Acceso a especialidades principales</div>
+          <div class="pricing-feature">Búsqueda básica</div>
+          <div class="pricing-feature">Modo oscuro</div>
+          <div class="pricing-feature">Actualizaciones mensuales</div>
+          <div class="pricing-feature" style="color: #9E9E9E; text-decoration: line-through;">Descargas ilimitadas</div>
+          <div class="pricing-feature" style="color: #9E9E9E; text-decoration: line-through;">Acceso a mapas premium</div>
+        </div>
+        <div class="pricing-footer">
+          <a href="/" class="btn btn-secondary" style="width: 100%;">Comenzar Gratis</a>
+        </div>
+      </div>
+
+      <!-- PREMIUM PLAN -->
+      <div class="pricing-card featured" data-reveal>
+        <div class="pricing-header">
+          <div class="pricing-name">Premium</div>
+          <div class="pricing-price">$4.99</div>
+          <div class="pricing-period">por mes</div>
+        </div>
+        <div class="pricing-body">
+          <div class="pricing-feature highlight">Acceso ilimitado</div>
+          <div class="pricing-feature">400+ mapas mentales</div>
+          <div class="pricing-feature">30+ especialidades</div>
+          <div class="pricing-feature">Búsqueda avanzada</div>
+          <div class="pricing-feature">Descargas en PDF</div>
+          <div class="pricing-feature">Modo oscuro y luz</div>
+          <div class="pricing-feature">Actualizaciones mensuales</div>
+          <div class="pricing-feature">Soporte por email</div>
+        </div>
+        <div class="pricing-footer">
+          <button onclick="initiatePremiumPayment('premium')" class="btn btn-primary" style="width: 100%; color: #0D47A1;">
+            Suscribirse Ahora
+          </button>
+        </div>
+      </div>
+
+      <!-- ANNUAL PLAN -->
+      <div class="pricing-card" data-reveal>
+        <div class="pricing-header">
+          <div class="pricing-name">Premium Anual</div>
+          <div class="pricing-price">$49.99</div>
+          <div class="pricing-period">por año</div>
+        </div>
+        <div class="pricing-body">
+          <div class="pricing-feature highlight">Ahorra 17%</div>
+          <div class="pricing-feature">Todo de Premium</div>
+          <div class="pricing-feature">Acceso ilimitado</div>
+          <div class="pricing-feature">Descargas en PDF</div>
+          <div class="pricing-feature">Soporte prioritario</div>
+          <div class="pricing-feature">Mapas exclusivos</div>
+          <div class="pricing-feature">Acceso a comunidad</div>
+          <div class="pricing-feature">Certificado de estudio</div>
+        </div>
+        <div class="pricing-footer">
+          <button onclick="initiatePremiumPayment('annual')" class="btn btn-primary" style="width: 100%; color: #0D47A1;">
+            Suscribirse Ahora
+          </button>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- COMPARISON TABLE -->
+  <section class="container section">
+    <h2 class="section-title">Comparativa de Planes</h2>
+
+    <div style="overflow-x: auto; margin-top: 2rem;">
+      <table style="width: 100%; border-collapse: collapse;">
+        <thead>
+          <tr style="background-color: #0D47A1; color: white;">
+            <th style="padding: 1rem; text-align: left; border: 1px solid #ddd;">Característica</th>
+            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Gratis</th>
+            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Premium</th>
+            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Premium Anual</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="padding: 1rem; border: 1px solid #ddd;">Mapas disponibles</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">3/mes</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Ilimitado</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Ilimitado</td>
+          </tr>
+          <tr style="background-color: #f5f5f5;">
+            <td style="padding: 1rem; border: 1px solid #ddd;">Especialidades</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Principales</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Todas (30+)</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Todas (30+)</td>
+          </tr>
+          <tr>
+            <td style="padding: 1rem; border: 1px solid #ddd;">Mapas Premium</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+          </tr>
+          <tr style="background-color: #f5f5f5;">
+            <td style="padding: 1rem; border: 1px solid #ddd;">Descargas PDF</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+          </tr>
+          <tr>
+            <td style="padding: 1rem; border: 1px solid #ddd;">Modo oscuro</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+          </tr>
+          <tr style="background-color: #f5f5f5;">
+            <td style="padding: 1rem; border: 1px solid #ddd;">Búsqueda avanzada</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Básica</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+          </tr>
+          <tr>
+            <td style="padding: 1rem; border: 1px solid #ddd;">Soporte</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Community</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Email</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Prioritario</td>
+          </tr>
+          <tr style="background-color: #f5f5f5;">
+            <td style="padding: 1rem; border: 1px solid #ddd;">Acceso a comunidad</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
+            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- FAQ SECTION -->
+  <section class="container section" style="background-color: #f5f5f5; margin-left: -1rem; margin-right: -1rem; padding-left: 1rem; padding-right: 1rem;">
+    <h2 class="section-title">Preguntas Frecuentes</h2>
+
+    <div style="max-width: 800px; margin: 0 auto;">
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-header">
+            <span>¿Puedo cambiar de plan en cualquier momento?</span>
+            <span class="accordion-toggle">▼</span>
+          </div>
+          <div class="accordion-content">
+            <div class="accordion-body">
+              <p>Sí, puedes cambiar, mejorar o cancelar tu suscripción en cualquier momento desde tu panel de control. Si cambias a un plan inferior, los cambios entrarán en vigor en tu próximo ciclo de facturación.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-header">
+            <span>¿Necesito una tarjeta de crédito para el plan gratuito?</span>
+            <span class="accordion-toggle">▼</span>
+          </div>
+          <div class="accordion-content">
+            <div class="accordion-body">
+              <p>No, el plan gratuito es completamente gratuito y no requiere información de pago. Solo necesitarás crear una cuenta con tu email.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-header">
+            <span>¿Cómo funciona la descarga de mapas en PDF?</span>
+            <span class="accordion-toggle">▼</span>
+          </div>
+          <div class="accordion-content">
+            <div class="accordion-body">
+              <p>Una vez que estés suscrito a Premium, puedes descargar cualquier mapa como PDF directamente desde la página del mapa. Los archivos se optimizan para impresión y lectura en dispositivos móviles.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-header">
+            <span>¿Hay período de prueba gratuita?</span>
+            <span class="accordion-toggle">▼</span>
+          </div>
+          <div class="accordion-content">
+            <div class="accordion-body">
+              <p>El plan gratuito con 3 mapas al mes es tu período de prueba perfecto. Puedes explorar la plataforma sin comprometerte a una suscripción de pago.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-header">
+            <span>¿Qué métodos de pago aceptan?</span>
+            <span class="accordion-toggle">▼</span>
+          </div>
+          <div class="accordion-content">
+            <div class="accordion-body">
+              <p>Aceptamos todas las tarjetas de crédito principales (Visa, MasterCard, American Express), PayPal y transferencias bancarias para suscriptores anuales. Los pagos se procesan de forma segura a través de Lemon Squeezy.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section class="container section" style="text-align: center;">
+    <h2 class="section-title">¿Listo para mejorar tu aprendizaje?</h2>
+    <p class="section-subtitle">Accede a 400+ mapas mentales médicos ahora mismo</p>
+    <button onclick="initiatePremiumPayment('premium')" class="btn btn-secondary">
+      Comenzar Suscripción Premium
+    </button>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2025 MedMaps - Mapas Mentales Médicos</p>
+  <p>Creado por Dr. Acevedo | <a href="https://github.com">GitHub</a></p>
+  <p style="font-size: 0.85rem; margin-top: 1rem;">
+    <a href="#" style="color: var(--accent); margin-right: 1rem;">Términos de Servicio</a>
+    <a href="#" style="color: var(--accent);">Política de Privacidad</a>
+  </p>
+</footer>
+
+<script src="js/app.js"></script>
+
+</body>
+</html>
