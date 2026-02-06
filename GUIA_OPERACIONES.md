@@ -7,26 +7,45 @@
 
 ### 1. Configurar Notion (Una sola vez)
 
-**Paso 1: Crear página en Notion**
-1. Abre Notion y crea una nueva página llamada "MedMaps Dashboard"
-2. Esta será tu centro de control
+✅ **COMPLETADO**: La base de datos de MedMaps ya fue creada en tu página "MedMaps Dashboard".
 
-**Paso 2: Compartir con la integración**
-1. En la página creada, haz clic en "..." (tres puntos) arriba a la derecha
-2. Selecciona "Add connections"
-3. Busca tu integración y agrégala
-4. ⚠️ **IMPORTANTE**: Sin esto, el script no puede acceder
+**Propiedades configuradas:**
+- ✅ Nombre (título)
+- ✅ Especialidad (selector)
+- ✅ TAG (selector)
 
-**Paso 3: Obtener el ID de la página**
-1. Abre la página en Notion
-2. Copia la URL: `https://notion.so/Tu-Pagina-XXXXXXXXXXXX`
-3. El ID es la parte después del último guión: `XXXXXXXXXXXX`
+**Propiedades pendientes de agregar manualmente:**
 
-**Paso 4: Crear la base de datos**
+Para agregar cada propiedad, haz clic en el "+" al final de las columnas:
+
+| Propiedad | Tipo | Opciones/Descripción |
+|-----------|------|---------------------|
+| Estado | Estado | No Subido (gris), En Revisión (amarillo), Gratis (verde), Premium (azul), Archivado (rojo) |
+| Nodos | Número | Cantidad de nodos del mapa |
+| ID Mapa | Texto | Identificador único (ej: map_0001) |
+| URL Portal | URL | Link al mapa en el portal |
+| Notas | Texto | Observaciones |
+
+**Opciones para Especialidad:**
+Geriatría, Cardiología, Neurología, Nefrología, Endocrinología, UCI-Medicina Crítica,
+Infectología, Hematología, Gastroenterología, Neumología, Reumatología, Psiquiatría,
+Ortogeriatría, Pediatría, General, Continuum, Estudios Pivotales
+
+**Opciones para TAG:**
+📄 Paper, 📚 Revisión, ⭐ Estudio Pivotal, 📋 Guía Clínica, 🔬 Fisiopatología,
+💊 Farmacología, 🏥 Caso Clínico
+
+### 2. Sincronización API
+
+⚠️ **NOTA**: La API de Notion no está disponible desde Cowork (proxy bloqueado).
+Para sincronizar automáticamente, ejecuta el script desde tu terminal local:
+
 ```bash
 cd medmaps_repo
-python sync_notion.py --setup TU_PAGE_ID
+python sync_notion.py --sync
 ```
+
+Alternativamente, puedes agregar mapas manualmente en Notion copiando los datos.
 
 ---
 
