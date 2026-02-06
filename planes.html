@@ -1,280 +1,252 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Planes de suscripción para MedMaps - Acceso a todos los mapas mentales médicos">
-  <title>Planes de Suscripción - MedMaps</title>
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planes y Precios - MedMaps</title>
+    <meta name="description" content="Elige el plan perfecto para acceder a más de 1400 mapas mentales médicos.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://sdk.mercadopago.com/js/v2"></script>
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --accent: #8b5cf6;
+            --secondary: #059669;
+            --background: #f8fafc;
+            --surface: #ffffff;
+            --text: #1e293b;
+            --text-secondary: #64748b;
+            --border: #e2e8f0;
+            --success: #10b981;
+            --warning: #f59e0b;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--text); line-height: 1.6; }
+        .header { background: linear-gradient(135deg, var(--primary), var(--accent)); color: white; padding: 1rem 2rem; position: sticky; top: 0; z-index: 100; }
+        .header-content { max-width: 1200px; margin: 0 auto; display: flex; justify-content: space-between; align-items: center; }
+        .logo { font-size: 1.5rem; font-weight: 700; text-decoration: none; color: white; display: flex; align-items: center; gap: 0.5rem; }
+        .logo-icon { width: 36px; height: 36px; background: rgba(255,255,255,0.2); border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+        .nav-links { display: flex; gap: 2rem; }
+        .nav-links a { color: rgba(255,255,255,0.9); text-decoration: none; font-weight: 500; }
+        .hero { background: linear-gradient(135deg, var(--primary), var(--accent)); color: white; padding: 4rem 2rem 6rem; text-align: center; }
+        .hero h1 { font-size: 2.5rem; font-weight: 700; margin-bottom: 1rem; }
+        .hero p { font-size: 1.2rem; opacity: 0.9; max-width: 600px; margin: 0 auto; }
+        .pricing-section { max-width: 1200px; margin: -3rem auto 4rem; padding: 0 2rem; }
+        .pricing-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; }
+        .pricing-card { background: var(--surface); border-radius: 20px; padding: 2.5rem; box-shadow: 0 10px 40px rgba(0,0,0,0.1); position: relative; transition: transform 0.3s; border: 2px solid transparent; }
+        .pricing-card:hover { transform: translateY(-8px); }
+        .pricing-card.popular { border-color: var(--primary); transform: scale(1.05); }
+        .popular-badge { position: absolute; top: -12px; left: 50%; transform: translateX(-50%); background: linear-gradient(135deg, var(--primary), var(--accent)); color: white; padding: 0.4rem 1.5rem; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+        .plan-icon { width: 60px; height: 60px; background: linear-gradient(135deg, #3b82f6, var(--accent)); border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 1.8rem; margin-bottom: 1.5rem; }
+        .pricing-card.free .plan-icon { background: linear-gradient(135deg, #64748b, #475569); }
+        .pricing-card.institutional .plan-icon { background: linear-gradient(135deg, var(--secondary), #047857); }
+        .plan-name { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+        .plan-description { color: var(--text-secondary); margin-bottom: 1.5rem; }
+        .plan-price { margin-bottom: 2rem; }
+        .price-amount { font-size: 3rem; font-weight: 700; }
+        .price-currency { font-size: 1.5rem; vertical-align: top; }
+        .price-period { color: var(--text-secondary); }
+        .plan-features { list-style: none; margin-bottom: 2rem; }
+        .plan-features li { padding: 0.75rem 0; display: flex; align-items: center; gap: 0.75rem; border-bottom: 1px solid var(--border); }
+        .feature-icon { width: 24px; height: 24px; background: #dcfce7; color: var(--success); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.8rem; flex-shrink: 0; }
+        .feature-icon.limited { background: #fef3c7; color: var(--warning); }
+        .cta-button { width: 100%; padding: 1rem 2rem; border: none; border-radius: 12px; font-size: 1rem; font-weight: 600; cursor: pointer; transition: all 0.3s; }
+        .cta-button.primary { background: linear-gradient(135deg, var(--primary), var(--accent)); color: white; }
+        .cta-button.primary:hover { transform: translateY(-2px); box-shadow: 0 8px 20px rgba(37,99,235,0.4); }
+        .cta-button.secondary { background: var(--background); color: var(--text); border: 2px solid var(--border); }
+        .guarantee { text-align: center; margin: 3rem 0; }
+        .guarantee-badge { display: inline-flex; align-items: center; gap: 1rem; background: linear-gradient(135deg, #f0fdf4, #dcfce7); padding: 1rem 2rem; border-radius: 50px; border: 2px solid #86efac; }
+        .faq-section { max-width: 800px; margin: 4rem auto; padding: 0 2rem; }
+        .section-title { text-align: center; font-size: 2rem; font-weight: 700; margin-bottom: 3rem; }
+        .faq-item { background: var(--surface); border-radius: 12px; margin-bottom: 1rem; box-shadow: 0 2px 10px rgba(0,0,0,0.05); overflow: hidden; }
+        .faq-question { padding: 1.25rem 1.5rem; font-weight: 600; cursor: pointer; display: flex; justify-content: space-between; align-items: center; }
+        .faq-question::after { content: '+'; font-size: 1.5rem; color: var(--primary); transition: transform 0.3s; }
+        .faq-item.active .faq-question::after { transform: rotate(45deg); }
+        .faq-answer { padding: 0 1.5rem; max-height: 0; overflow: hidden; transition: max-height 0.3s, padding 0.3s; color: var(--text-secondary); }
+        .faq-item.active .faq-answer { padding: 0 1.5rem 1.5rem; max-height: 500px; }
+        .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6); backdrop-filter: blur(4px); display: none; align-items: center; justify-content: center; z-index: 1000; padding: 1rem; }
+        .modal-overlay.active { display: flex; }
+        .modal-content { background: var(--surface); border-radius: 20px; max-width: 500px; width: 100%; max-height: 90vh; overflow-y: auto; }
+        .modal-header { padding: 2rem 2rem 1rem; border-bottom: 1px solid var(--border); }
+        .modal-header h2 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+        .modal-body { padding: 2rem; }
+        .form-group { margin-bottom: 1.5rem; }
+        .form-group label { display: block; font-weight: 500; margin-bottom: 0.5rem; }
+        .form-group input { width: 100%; padding: 0.875rem 1rem; border: 2px solid var(--border); border-radius: 10px; font-size: 1rem; }
+        .form-group input:focus { outline: none; border-color: var(--primary); }
+        .plan-summary { background: var(--background); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; }
+        .plan-summary-row { display: flex; justify-content: space-between; margin-bottom: 0.5rem; }
+        .plan-summary-row.total { font-weight: 700; font-size: 1.2rem; border-top: 2px solid var(--border); padding-top: 0.75rem; margin-top: 0.75rem; }
+        .payment-methods { display: flex; gap: 1rem; margin-bottom: 1.5rem; }
+        .payment-method { flex: 1; padding: 1rem; border: 2px solid var(--border); border-radius: 10px; cursor: pointer; text-align: center; transition: all 0.2s; }
+        .payment-method:hover, .payment-method.selected { border-color: var(--primary); background: rgba(37,99,235,0.05); }
+        .payment-method-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+        .transfer-info { background: #f0fdf4; border: 1px solid #bbf7d0; border-radius: 12px; padding: 1.5rem; display: none; }
+        .transfer-info.active { display: block; }
+        .transfer-info h4 { color: var(--secondary); margin-bottom: 1rem; }
+        .transfer-detail { display: flex; justify-content: space-between; padding: 0.5rem 0; border-bottom: 1px solid #bbf7d0; }
+        .copy-btn { background: var(--secondary); color: white; border: none; padding: 0.25rem 0.75rem; border-radius: 6px; font-size: 0.8rem; cursor: pointer; }
+        .footer { background: var(--text); color: white; padding: 3rem 2rem; text-align: center; }
+        .footer-links { display: flex; justify-content: center; gap: 2rem; margin-bottom: 1.5rem; }
+        .footer-links a { color: rgba(255,255,255,0.7); text-decoration: none; }
+        @media (max-width: 768px) { .hero h1 { font-size: 1.8rem; } .pricing-card.popular { transform: none; } .nav-links { display: none; } }
+    </style>
 </head>
 <body>
-
-<header>
-  <div class="header-container">
-    <a href="/" class="logo">🧠 MedMaps</a>
-    <nav>
-      <ul>
-        <li><a href="/#especialidades">Especialidades</a></li>
-        <li><a href="planes.html">Planes</a></li>
-        <li><a href="especialidades.html">Mapas</a></li>
-        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
-      </ul>
-    </nav>
-  </div>
-</header>
-
-<main>
-
-  <!-- PAGE HEADER -->
-  <section class="hero" style="padding: 2rem 1rem;">
-    <div class="hero-content">
-      <h1>Planes de Suscripción</h1>
-      <p>Elige el plan perfecto para tus necesidades educativas</p>
+    <header class="header">
+        <div class="header-content">
+            <a href="index.html" class="logo"><span class="logo-icon">🧠</span>MedMaps</a>
+            <nav class="nav-links">
+                <a href="index.html">Inicio</a>
+                <a href="explorar.html">Explorar Mapas</a>
+                <a href="planes.html">Planes</a>
+            </nav>
+        </div>
+    </header>
+    <section class="hero">
+        <h1>Elige tu Plan de Estudio</h1>
+        <p>Accede a más de 1,400 mapas mentales médicos organizados por especialidad.</p>
+    </section>
+    <section class="pricing-section">
+        <div class="pricing-grid">
+            <div class="pricing-card free">
+                <div class="plan-icon">📚</div>
+                <h3 class="plan-name">Estudiante</h3>
+                <p class="plan-description">Perfecto para comenzar</p>
+                <div class="plan-price"><span class="price-amount">Gratis</span></div>
+                <ul class="plan-features">
+                    <li><span class="feature-icon limited">◐</span>50 mapas mentales</li>
+                    <li><span class="feature-icon">✓</span>Visualización básica</li>
+                    <li><span class="feature-icon">✓</span>Búsqueda por especialidad</li>
+                    <li><span class="feature-icon limited">◐</span>Referencias limitadas</li>
+                </ul>
+                <button class="cta-button secondary" onclick="location.href='explorar.html'">Comenzar Gratis</button>
+            </div>
+            <div class="pricing-card popular">
+                <span class="popular-badge">⭐ Más Popular</span>
+                <div class="plan-icon">🎯</div>
+                <h3 class="plan-name">Premium</h3>
+                <p class="plan-description">Todo para tu residencia</p>
+                <div class="plan-price">
+                    <span class="price-currency">$</span><span class="price-amount">9.990</span>
+                    <span class="price-period">CLP/mes</span>
+                </div>
+                <ul class="plan-features">
+                    <li><span class="feature-icon">✓</span><strong>1,473 mapas completos</strong></li>
+                    <li><span class="feature-icon">✓</span>Todas las especialidades</li>
+                    <li><span class="feature-icon">✓</span>Referencias Vancouver</li>
+                    <li><span class="feature-icon">✓</span>Exportar a PDF</li>
+                    <li><span class="feature-icon">✓</span>Actualizaciones mensuales</li>
+                </ul>
+                <button class="cta-button primary" onclick="openPaymentModal('premium')">Suscribirse Ahora</button>
+            </div>
+            <div class="pricing-card institutional">
+                <div class="plan-icon">🏥</div>
+                <h3 class="plan-name">Institucional</h3>
+                <p class="plan-description">Para universidades y hospitales</p>
+                <div class="plan-price">
+                    <span class="price-currency">$</span><span class="price-amount">49.990</span>
+                    <span class="price-period">CLP/mes</span>
+                </div>
+                <ul class="plan-features">
+                    <li><span class="feature-icon">✓</span>Todo de Premium +</li>
+                    <li><span class="feature-icon">✓</span>Hasta 50 usuarios</li>
+                    <li><span class="feature-icon">✓</span>Panel de administración</li>
+                    <li><span class="feature-icon">✓</span>Estadísticas de uso</li>
+                    <li><span class="feature-icon">✓</span>Soporte 24/7</li>
+                </ul>
+                <button class="cta-button primary" onclick="openPaymentModal('institutional')">Contactar Ventas</button>
+            </div>
+        </div>
+        <div class="guarantee">
+            <div class="guarantee-badge">
+                <span style="font-size:2rem">🛡️</span>
+                <div><strong style="color:var(--secondary)">Garantía de 7 días</strong><br><span style="font-size:0.9rem;color:var(--text-secondary)">Te devolvemos tu dinero si no quedas satisfecho</span></div>
+            </div>
+        </div>
+    </section>
+    <section class="faq-section" id="faq">
+        <h2 class="section-title">Preguntas Frecuentes</h2>
+        <div class="faq-item"><div class="faq-question">¿Qué métodos de pago aceptan?</div><div class="faq-answer">Tarjetas de crédito/débito (Visa, Mastercard) y transferencia bancaria via MercadoPago.</div></div>
+        <div class="faq-item"><div class="faq-question">¿Puedo cancelar en cualquier momento?</div><div class="faq-answer">Sí, sin penalización. Mantienes acceso hasta fin del período pagado.</div></div>
+        <div class="faq-item"><div class="faq-question">¿Con qué frecuencia se actualizan los mapas?</div><div class="faq-answer">Premium: mensualmente. Institucional: semanalmente con acceso anticipado.</div></div>
+        <div class="faq-item"><div class="faq-question">¿Ofrecen descuento para estudiantes?</div><div class="faq-answer">¡Sí! 20% de descuento con correo universitario válido. Contáctanos para tu código.</div></div>
+    </section>
+    <footer class="footer">
+        <div class="footer-links"><a href="#">Términos</a><a href="#">Privacidad</a><a href="#">Contacto</a></div>
+        <p style="color:rgba(255,255,255,0.5);font-size:0.9rem">© 2026 MedMaps. Dr. Cristian Acevedo. Todos los derechos reservados.</p>
+    </footer>
+    <div class="modal-overlay" id="paymentModal">
+        <div class="modal-content">
+            <div class="modal-header"><h2>Completar Suscripción</h2><p id="modalPlanName">Plan Premium - $9.990 CLP/mes</p></div>
+            <div class="modal-body">
+                <div class="plan-summary">
+                    <div class="plan-summary-row"><span>Plan</span><span id="summaryPlan">Premium</span></div>
+                    <div class="plan-summary-row"><span>Período</span><span>Mensual</span></div>
+                    <div class="plan-summary-row total"><span>Total</span><span id="summaryTotal">$9.990 CLP</span></div>
+                </div>
+                <div class="form-group"><label>Nombre completo</label><input type="text" id="customerName" placeholder="Dr. Juan Pérez"></div>
+                <div class="form-group"><label>Email</label><input type="email" id="customerEmail" placeholder="juan@email.com"></div>
+                <div class="form-group"><label>RUT</label><input type="text" id="customerRut" placeholder="12.345.678-9"></div>
+                <label style="display:block;margin-bottom:0.5rem;font-weight:500">Método de pago</label>
+                <div class="payment-methods">
+                    <div class="payment-method selected" onclick="selectPaymentMethod('card')"><div class="payment-method-icon">💳</div><div>Tarjeta</div></div>
+                    <div class="payment-method" onclick="selectPaymentMethod('transfer')"><div class="payment-method-icon">🏦</div><div>Transferencia</div></div>
+                </div>
+                <div id="mp-container" style="min-height:100px;background:#f1f5f9;border-radius:12px;padding:1.5rem;text-align:center;color:#64748b">
+                    Formulario MercadoPago se cargará aquí.<br><small>Requiere configuración backend.</small>
+                </div>
+                <div class="transfer-info" id="transferInfo">
+                    <h4>Datos para transferencia:</h4>
+                    <div class="transfer-detail"><span>Banco:</span><span>Banco Estado</span></div>
+                    <div class="transfer-detail"><span>Cuenta RUT:</span><span>17700400-6 <button class="copy-btn" onclick="copyToClipboard('177004006')">Copiar</button></span></div>
+                    <div class="transfer-detail"><span>Nombre:</span><span>Cristian Acevedo</span></div>
+                    <div class="transfer-detail"><span>Email:</span><span>criaah@gmail.com</span></div>
+                    <p style="margin-top:1rem;font-size:0.9rem;color:var(--text-secondary)">Envía el comprobante a <strong>criaah@gmail.com</strong> con tu nombre y email. Activación en menos de 24 hrs.</p>
+                </div>
+                <button class="cta-button primary" id="payButton" style="margin-top:1.5rem" onclick="processPayment()">Pagar $9.990 CLP</button>
+                <button class="cta-button secondary" style="margin-top:0.75rem" onclick="closePaymentModal()">Cancelar</button>
+            </div>
+        </div>
     </div>
-  </section>
-
-  <!-- PRICING CARDS -->
-  <section class="container section">
-    <div class="pricing-grid">
-
-      <!-- FREE PLAN -->
-      <div class="pricing-card" data-reveal>
-        <div class="pricing-header">
-          <div class="pricing-name">Gratis</div>
-          <div class="pricing-price">$0</div>
-          <div class="pricing-period">para siempre</div>
-        </div>
-        <div class="pricing-body">
-          <div class="pricing-feature highlight">3 mapas por mes</div>
-          <div class="pricing-feature">Acceso a especialidades principales</div>
-          <div class="pricing-feature">Búsqueda básica</div>
-          <div class="pricing-feature">Modo oscuro</div>
-          <div class="pricing-feature">Actualizaciones mensuales</div>
-          <div class="pricing-feature" style="color: #9E9E9E; text-decoration: line-through;">Descargas ilimitadas</div>
-          <div class="pricing-feature" style="color: #9E9E9E; text-decoration: line-through;">Acceso a mapas premium</div>
-        </div>
-        <div class="pricing-footer">
-          <a href="/" class="btn btn-secondary" style="width: 100%;">Comenzar Gratis</a>
-        </div>
-      </div>
-
-      <!-- PREMIUM PLAN -->
-      <div class="pricing-card featured" data-reveal>
-        <div class="pricing-header">
-          <div class="pricing-name">Premium</div>
-          <div class="pricing-price">$4.99</div>
-          <div class="pricing-period">por mes</div>
-        </div>
-        <div class="pricing-body">
-          <div class="pricing-feature highlight">Acceso ilimitado</div>
-          <div class="pricing-feature">400+ mapas mentales</div>
-          <div class="pricing-feature">30+ especialidades</div>
-          <div class="pricing-feature">Búsqueda avanzada</div>
-          <div class="pricing-feature">Descargas en PDF</div>
-          <div class="pricing-feature">Modo oscuro y luz</div>
-          <div class="pricing-feature">Actualizaciones mensuales</div>
-          <div class="pricing-feature">Soporte por email</div>
-        </div>
-        <div class="pricing-footer">
-          <button onclick="initiatePremiumPayment('premium')" class="btn btn-primary" style="width: 100%; color: #0D47A1;">
-            Suscribirse Ahora
-          </button>
-        </div>
-      </div>
-
-      <!-- ANNUAL PLAN -->
-      <div class="pricing-card" data-reveal>
-        <div class="pricing-header">
-          <div class="pricing-name">Premium Anual</div>
-          <div class="pricing-price">$49.99</div>
-          <div class="pricing-period">por año</div>
-        </div>
-        <div class="pricing-body">
-          <div class="pricing-feature highlight">Ahorra 17%</div>
-          <div class="pricing-feature">Todo de Premium</div>
-          <div class="pricing-feature">Acceso ilimitado</div>
-          <div class="pricing-feature">Descargas en PDF</div>
-          <div class="pricing-feature">Soporte prioritario</div>
-          <div class="pricing-feature">Mapas exclusivos</div>
-          <div class="pricing-feature">Acceso a comunidad</div>
-          <div class="pricing-feature">Certificado de estudio</div>
-        </div>
-        <div class="pricing-footer">
-          <button onclick="initiatePremiumPayment('annual')" class="btn btn-primary" style="width: 100%; color: #0D47A1;">
-            Suscribirse Ahora
-          </button>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- COMPARISON TABLE -->
-  <section class="container section">
-    <h2 class="section-title">Comparativa de Planes</h2>
-
-    <div style="overflow-x: auto; margin-top: 2rem;">
-      <table style="width: 100%; border-collapse: collapse;">
-        <thead>
-          <tr style="background-color: #0D47A1; color: white;">
-            <th style="padding: 1rem; text-align: left; border: 1px solid #ddd;">Característica</th>
-            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Gratis</th>
-            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Premium</th>
-            <th style="padding: 1rem; text-align: center; border: 1px solid #ddd;">Premium Anual</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td style="padding: 1rem; border: 1px solid #ddd;">Mapas disponibles</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">3/mes</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Ilimitado</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Ilimitado</td>
-          </tr>
-          <tr style="background-color: #f5f5f5;">
-            <td style="padding: 1rem; border: 1px solid #ddd;">Especialidades</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Principales</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Todas (30+)</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Todas (30+)</td>
-          </tr>
-          <tr>
-            <td style="padding: 1rem; border: 1px solid #ddd;">Mapas Premium</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-          </tr>
-          <tr style="background-color: #f5f5f5;">
-            <td style="padding: 1rem; border: 1px solid #ddd;">Descargas PDF</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-          </tr>
-          <tr>
-            <td style="padding: 1rem; border: 1px solid #ddd;">Modo oscuro</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-          </tr>
-          <tr style="background-color: #f5f5f5;">
-            <td style="padding: 1rem; border: 1px solid #ddd;">Búsqueda avanzada</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Básica</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-          </tr>
-          <tr>
-            <td style="padding: 1rem; border: 1px solid #ddd;">Soporte</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Community</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">Email</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓ Prioritario</td>
-          </tr>
-          <tr style="background-color: #f5f5f5;">
-            <td style="padding: 1rem; border: 1px solid #ddd;">Acceso a comunidad</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✗</td>
-            <td style="padding: 1rem; border: 1px solid #ddd; text-align: center;">✓</td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </section>
-
-  <!-- FAQ SECTION -->
-  <section class="container section" style="background-color: #f5f5f5; margin-left: -1rem; margin-right: -1rem; padding-left: 1rem; padding-right: 1rem;">
-    <h2 class="section-title">Preguntas Frecuentes</h2>
-
-    <div style="max-width: 800px; margin: 0 auto;">
-      <div class="accordion">
-        <div class="accordion-item">
-          <div class="accordion-header">
-            <span>¿Puedo cambiar de plan en cualquier momento?</span>
-            <span class="accordion-toggle">▼</span>
-          </div>
-          <div class="accordion-content">
-            <div class="accordion-body">
-              <p>Sí, puedes cambiar, mejorar o cancelar tu suscripción en cualquier momento desde tu panel de control. Si cambias a un plan inferior, los cambios entrarán en vigor en tu próximo ciclo de facturación.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion">
-        <div class="accordion-item">
-          <div class="accordion-header">
-            <span>¿Necesito una tarjeta de crédito para el plan gratuito?</span>
-            <span class="accordion-toggle">▼</span>
-          </div>
-          <div class="accordion-content">
-            <div class="accordion-body">
-              <p>No, el plan gratuito es completamente gratuito y no requiere información de pago. Solo necesitarás crear una cuenta con tu email.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion">
-        <div class="accordion-item">
-          <div class="accordion-header">
-            <span>¿Cómo funciona la descarga de mapas en PDF?</span>
-            <span class="accordion-toggle">▼</span>
-          </div>
-          <div class="accordion-content">
-            <div class="accordion-body">
-              <p>Una vez que estés suscrito a Premium, puedes descargar cualquier mapa como PDF directamente desde la página del mapa. Los archivos se optimizan para impresión y lectura en dispositivos móviles.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion">
-        <div class="accordion-item">
-          <div class="accordion-header">
-            <span>¿Hay período de prueba gratuita?</span>
-            <span class="accordion-toggle">▼</span>
-          </div>
-          <div class="accordion-content">
-            <div class="accordion-body">
-              <p>El plan gratuito con 3 mapas al mes es tu período de prueba perfecto. Puedes explorar la plataforma sin comprometerte a una suscripción de pago.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="accordion">
-        <div class="accordion-item">
-          <div class="accordion-header">
-            <span>¿Qué métodos de pago aceptan?</span>
-            <span class="accordion-toggle">▼</span>
-          </div>
-          <div class="accordion-content">
-            <div class="accordion-body">
-              <p>Aceptamos todas las tarjetas de crédito principales (Visa, MasterCard, American Express), PayPal y transferencias bancarias para suscriptores anuales. Los pagos se procesan de forma segura a través de Lemon Squeezy.</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- CTA SECTION -->
-  <section class="container section" style="text-align: center;">
-    <h2 class="section-title">¿Listo para mejorar tu aprendizaje?</h2>
-    <p class="section-subtitle">Accede a 400+ mapas mentales médicos ahora mismo</p>
-    <button onclick="initiatePremiumPayment('premium')" class="btn btn-secondary">
-      Comenzar Suscripción Premium
-    </button>
-  </section>
-
-</main>
-
-<footer>
-  <p>&copy; 2025 MedMaps - Mapas Mentales Médicos</p>
-  <p>Creado por Dr. Acevedo | <a href="https://github.com">GitHub</a></p>
-  <p style="font-size: 0.85rem; margin-top: 1rem;">
-    <a href="#" style="color: var(--accent); margin-right: 1rem;">Términos de Servicio</a>
-    <a href="#" style="color: var(--accent);">Política de Privacidad</a>
-  </p>
-</footer>
-
-<script src="js/app.js"></script>
-
+    <script>
+        const plans = { premium: { name: 'Premium', price: 9990, formatted: '$9.990 CLP' }, institutional: { name: 'Institucional', price: 49990, formatted: '$49.990 CLP' } };
+        let selectedPlan = 'premium', selectedPaymentMethod = 'card';
+        function openPaymentModal(plan) {
+            selectedPlan = plan;
+            const p = plans[plan];
+            document.getElementById('modalPlanName').textContent = 'Plan ' + p.name + ' - ' + p.formatted + '/mes';
+            document.getElementById('summaryPlan').textContent = p.name;
+            document.getElementById('summaryTotal').textContent = p.formatted;
+            document.getElementById('payButton').textContent = 'Pagar ' + p.formatted;
+            document.getElementById('paymentModal').classList.add('active');
+        }
+        function closePaymentModal() { document.getElementById('paymentModal').classList.remove('active'); }
+        function selectPaymentMethod(method) {
+            selectedPaymentMethod = method;
+            document.querySelectorAll('.payment-method').forEach(el => el.classList.remove('selected'));
+            event.currentTarget.classList.add('selected');
+            document.getElementById('mp-container').style.display = method === 'card' ? 'block' : 'none';
+            document.getElementById('transferInfo').classList.toggle('active', method === 'transfer');
+            document.getElementById('payButton').textContent = method === 'card' ? 'Pagar ' + plans[selectedPlan].formatted : 'Ya realicé la transferencia';
+        }
+        function processPayment() {
+            const name = document.getElementById('customerName').value, email = document.getElementById('customerEmail').value;
+            if (!name || !email) { alert('Completa nombre y email'); return; }
+            if (selectedPaymentMethod === 'transfer') {
+                alert('¡Gracias ' + name + '!\\n\\nTu solicitud fue registrada. Activaremos tu cuenta al verificar la transferencia.\\n\\nConfirmación a: ' + email);
+                closePaymentModal();
+            } else { alert('Pago con tarjeta requiere configuración backend.\\nUsa transferencia bancaria por ahora.'); }
+        }
+        function copyToClipboard(text) { navigator.clipboard.writeText(text).then(() => { event.target.textContent = '✓'; setTimeout(() => event.target.textContent = 'Copiar', 2000); }); }
+        document.querySelectorAll('.faq-question').forEach(q => q.addEventListener('click', () => {
+            const item = q.parentElement, active = item.classList.contains('active');
+            document.querySelectorAll('.faq-item').forEach(i => i.classList.remove('active'));
+            if (!active) item.classList.add('active');
+        }));
+        document.getElementById('paymentModal').addEventListener('click', e => { if (e.target.id === 'paymentModal') closePaymentModal(); });
+    </script>
 </body>
 </html>

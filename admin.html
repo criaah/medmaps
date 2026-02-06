@@ -1,0 +1,939 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Administración - MedMaps</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #2563eb;
+            --primary-dark: #1d4ed8;
+            --accent: #8b5cf6;
+            --secondary: #059669;
+            --background: #f1f5f9;
+            --surface: #ffffff;
+            --text: #1e293b;
+            --text-secondary: #64748b;
+            --border: #e2e8f0;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --error: #ef4444;
+            --pending: #f59e0b;
+            --approved: #10b981;
+            --rejected: #ef4444;
+            --draft: #64748b;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--text); line-height: 1.6; }
+        
+        /* Login Screen */
+        .login-screen {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+        }
+        .login-card {
+            background: var(--surface);
+            padding: 3rem;
+            border-radius: 20px;
+            box-shadow: 0 25px 80px rgba(0,0,0,0.3);
+            max-width: 400px;
+            width: 90%;
+            text-align: center;
+        }
+        .login-card h1 { margin-bottom: 0.5rem; font-size: 1.75rem; }
+        .login-card p { color: var(--text-secondary); margin-bottom: 2rem; }
+        .login-input {
+            width: 100%;
+            padding: 1rem;
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+        .login-input:focus { outline: none; border-color: var(--primary); }
+        .login-btn {
+            width: 100%;
+            padding: 1rem;
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s;
+        }
+        .login-btn:hover { transform: translateY(-2px); }
+        .login-error { color: var(--error); font-size: 0.9rem; margin-top: 1rem; display: none; }
+        
+        /* Admin Panel */
+        .admin-panel { display: none; }
+        .admin-panel.active { display: block; }
+        
+        .header {
+            background: linear-gradient(135deg, var(--primary), var(--accent));
+            color: white;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header h1 { font-size: 1.5rem; display: flex; align-items: center; gap: 0.5rem; }
+        .header-actions { display: flex; gap: 1rem; align-items: center; }
+        .header-btn {
+            background: rgba(255,255,255,0.2);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+        }
+        .header-btn:hover { background: rgba(255,255,255,0.3); }
+        
+        /* Stats Bar */
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            padding: 1.5rem 2rem;
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+        }
+        .stat-card {
+            background: var(--background);
+            padding: 1.25rem;
+            border-radius: 12px;
+            text-align: center;
+        }
+        .stat-value { font-size: 2rem; font-weight: 700; }
+        .stat-label { color: var(--text-secondary); font-size: 0.9rem; }
+        .stat-card.pending .stat-value { color: var(--pending); }
+        .stat-card.approved .stat-value { color: var(--approved); }
+        .stat-card.published .stat-value { color: var(--primary); }
+        
+        /* Main Layout */
+        .main-content {
+            display: grid;
+            grid-template-columns: 350px 1fr;
+            min-height: calc(100vh - 180px);
+        }
+        
+        /* Sidebar - Queue List */
+        .queue-sidebar {
+            background: var(--surface);
+            border-right: 1px solid var(--border);
+            overflow-y: auto;
+        }
+        .sidebar-header {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid var(--border);
+            font-weight: 600;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .filter-tabs {
+            display: flex;
+            padding: 0.5rem;
+            gap: 0.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .filter-tab {
+            flex: 1;
+            padding: 0.5rem;
+            border: none;
+            background: transparent;
+            border-radius: 8px;
+            cursor: pointer;
+            font-weight: 500;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+        .filter-tab.active {
+            background: var(--primary);
+            color: white;
+        }
+        .queue-list { padding: 0.5rem; }
+        .queue-item {
+            padding: 1rem;
+            border-radius: 10px;
+            margin-bottom: 0.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            border-left: 4px solid transparent;
+        }
+        .queue-item:hover { background: var(--background); }
+        .queue-item.selected { background: rgba(37, 99, 235, 0.1); border-left-color: var(--primary); }
+        .queue-item.status-pending { border-left-color: var(--pending); }
+        .queue-item.status-approved { border-left-color: var(--approved); }
+        .queue-item.status-rejected { border-left-color: var(--rejected); }
+        .queue-item-title { font-weight: 600; margin-bottom: 0.25rem; font-size: 0.95rem; }
+        .queue-item-meta { font-size: 0.8rem; color: var(--text-secondary); display: flex; gap: 1rem; }
+        .status-badge {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .status-pending { background: #fef3c7; color: #92400e; }
+        .status-approved { background: #d1fae5; color: #065f46; }
+        .status-rejected { background: #fee2e2; color: #991b1b; }
+        .status-published { background: #dbeafe; color: #1e40af; }
+        
+        /* Review Panel */
+        .review-panel {
+            padding: 2rem;
+            overflow-y: auto;
+        }
+        .review-empty {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            color: var(--text-secondary);
+        }
+        .review-empty-icon { font-size: 4rem; margin-bottom: 1rem; opacity: 0.5; }
+        .review-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 1.5rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+        .review-title { font-size: 1.5rem; font-weight: 700; margin-bottom: 0.5rem; }
+        .review-meta { color: var(--text-secondary); font-size: 0.9rem; }
+        .review-actions { display: flex; gap: 0.75rem; }
+        .action-btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 10px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        .action-btn.approve { background: var(--approved); color: white; }
+        .action-btn.reject { background: var(--error); color: white; }
+        .action-btn.publish { background: var(--primary); color: white; }
+        .action-btn.edit { background: var(--background); color: var(--text); border: 2px solid var(--border); }
+        .action-btn:hover { transform: translateY(-2px); }
+        
+        /* Map Preview */
+        .map-preview {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 2rem;
+            margin-bottom: 1.5rem;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+        .tree-node { margin-left: 1.5rem; }
+        .tree-node[data-level="0"] { margin-left: 0; }
+        .tree-header {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+            padding: 0.4rem 0;
+            cursor: pointer;
+            border-radius: 6px;
+        }
+        .tree-header:hover { background: rgba(37, 99, 235, 0.05); }
+        .tree-toggle {
+            width: 20px;
+            height: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-secondary);
+            font-size: 0.7rem;
+            transition: transform 0.2s;
+            flex-shrink: 0;
+        }
+        .tree-header.expanded .tree-toggle { transform: rotate(90deg); }
+        .tree-text { flex: 1; }
+        .tree-children { display: none; }
+        .tree-children.visible { display: block; }
+        
+        /* Notes Section */
+        .notes-section {
+            background: var(--background);
+            border-radius: 12px;
+            padding: 1.5rem;
+        }
+        .notes-section h3 { margin-bottom: 1rem; font-size: 1rem; }
+        .notes-textarea {
+            width: 100%;
+            min-height: 120px;
+            padding: 1rem;
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            font-family: inherit;
+            font-size: 0.95rem;
+            resize: vertical;
+        }
+        .notes-textarea:focus { outline: none; border-color: var(--primary); }
+        
+        /* Upload New Map */
+        .upload-section {
+            background: var(--surface);
+            border: 2px dashed var(--border);
+            border-radius: 16px;
+            padding: 3rem;
+            text-align: center;
+            margin-top: 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .upload-section:hover { border-color: var(--primary); background: rgba(37, 99, 235, 0.02); }
+        .upload-icon { font-size: 3rem; margin-bottom: 1rem; }
+        .upload-title { font-weight: 600; margin-bottom: 0.5rem; }
+        .upload-desc { color: var(--text-secondary); font-size: 0.9rem; }
+        
+        /* Modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.6);
+            backdrop-filter: blur(4px);
+            display: none;
+            align-items: center;
+            justify-content: center;
+            z-index: 1000;
+        }
+        .modal-overlay.active { display: flex; }
+        .modal-content {
+            background: var(--surface);
+            border-radius: 20px;
+            max-width: 600px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .modal-header {
+            padding: 1.5rem 2rem;
+            border-bottom: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .modal-header h2 { font-size: 1.25rem; }
+        .modal-close {
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: var(--text-secondary);
+        }
+        .modal-body { padding: 2rem; }
+        .form-group { margin-bottom: 1.5rem; }
+        .form-group label { display: block; font-weight: 500; margin-bottom: 0.5rem; }
+        .form-group input, .form-group select, .form-group textarea {
+            width: 100%;
+            padding: 0.875rem 1rem;
+            border: 2px solid var(--border);
+            border-radius: 10px;
+            font-size: 1rem;
+        }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus {
+            outline: none;
+            border-color: var(--primary);
+        }
+        .modal-actions {
+            display: flex;
+            gap: 1rem;
+            justify-content: flex-end;
+            padding: 1.5rem 2rem;
+            border-top: 1px solid var(--border);
+        }
+        
+        @media (max-width: 900px) {
+            .main-content { grid-template-columns: 1fr; }
+            .queue-sidebar { max-height: 300px; }
+        }
+    </style>
+</head>
+<body>
+    <!-- Login Screen -->
+    <div class="login-screen" id="loginScreen">
+        <div class="login-card">
+            <h1>🔐 Admin MedMaps</h1>
+            <p>Panel de revisión y publicación de mapas mentales</p>
+            <input type="password" class="login-input" id="adminPassword" placeholder="Contraseña de administrador">
+            <button class="login-btn" onclick="login()">Iniciar Sesión</button>
+            <p class="login-error" id="loginError">Contraseña incorrecta</p>
+        </div>
+    </div>
+
+    <!-- Admin Panel -->
+    <div class="admin-panel" id="adminPanel">
+        <header class="header">
+            <h1>🛠️ Panel de Administración</h1>
+            <div class="header-actions">
+                <button class="header-btn" onclick="openUploadModal()">📤 Subir Mapa</button>
+                <button class="header-btn" onclick="syncWithDropbox()">🔄 Sincronizar</button>
+                <button class="header-btn" onclick="logout()">Cerrar Sesión</button>
+            </div>
+        </header>
+
+        <div class="stats-bar">
+            <div class="stat-card pending">
+                <div class="stat-value" id="statPending">0</div>
+                <div class="stat-label">Pendientes de Revisión</div>
+            </div>
+            <div class="stat-card approved">
+                <div class="stat-value" id="statApproved">0</div>
+                <div class="stat-label">Aprobados</div>
+            </div>
+            <div class="stat-card published">
+                <div class="stat-value" id="statPublished">0</div>
+                <div class="stat-label">Publicados</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="statTotal">0</div>
+                <div class="stat-label">Total Mapas</div>
+            </div>
+        </div>
+
+        <div class="main-content">
+            <aside class="queue-sidebar">
+                <div class="sidebar-header">
+                    <span>Cola de Revisión</span>
+                    <span id="queueCount">0 mapas</span>
+                </div>
+                <div class="filter-tabs">
+                    <button class="filter-tab active" data-filter="all" onclick="filterQueue('all')">Todos</button>
+                    <button class="filter-tab" data-filter="pending" onclick="filterQueue('pending')">Pendientes</button>
+                    <button class="filter-tab" data-filter="approved" onclick="filterQueue('approved')">Aprobados</button>
+                </div>
+                <div class="queue-list" id="queueList">
+                    <!-- Items rendered by JS -->
+                </div>
+            </aside>
+
+            <main class="review-panel" id="reviewPanel">
+                <div class="review-empty" id="reviewEmpty">
+                    <div class="review-empty-icon">📋</div>
+                    <p>Selecciona un mapa para revisar</p>
+                </div>
+                <div id="reviewContent" style="display: none;">
+                    <div class="review-header">
+                        <div>
+                            <h2 class="review-title" id="reviewTitle">Título del Mapa</h2>
+                            <div class="review-meta">
+                                <span id="reviewSpecialty">Especialidad</span> • 
+                                <span id="reviewDate">Fecha</span> •
+                                <span class="status-badge" id="reviewStatus">Estado</span>
+                            </div>
+                        </div>
+                        <div class="review-actions">
+                            <button class="action-btn edit" onclick="editMap()">✏️ Editar</button>
+                            <button class="action-btn reject" onclick="rejectMap()">❌ Rechazar</button>
+                            <button class="action-btn approve" onclick="approveMap()">✅ Aprobar</button>
+                            <button class="action-btn publish" id="publishBtn" onclick="publishMap()">🚀 Publicar</button>
+                        </div>
+                    </div>
+                    
+                    <div class="map-preview" id="mapPreview">
+                        <!-- Tree rendered here -->
+                    </div>
+                    
+                    <div class="notes-section">
+                        <h3>📝 Notas de Revisión</h3>
+                        <textarea class="notes-textarea" id="reviewNotes" placeholder="Agrega notas, correcciones o comentarios sobre este mapa..."></textarea>
+                    </div>
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <!-- Upload Modal -->
+    <div class="modal-overlay" id="uploadModal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2>📤 Subir Nuevo Mapa Mental</h2>
+                <button class="modal-close" onclick="closeUploadModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+                <div class="form-group">
+                    <label>Título del Mapa</label>
+                    <input type="text" id="uploadTitle" placeholder="Ej: Manejo del Delirium en UCI">
+                </div>
+                <div class="form-group">
+                    <label>Especialidad</label>
+                    <select id="uploadSpecialty">
+                        <option value="">Seleccionar especialidad...</option>
+                        <option value="Geriatría">Geriatría</option>
+                        <option value="UCI-Medicina Crítica">UCI-Medicina Crítica</option>
+                        <option value="Cardiología">Cardiología</option>
+                        <option value="Neurología">Neurología</option>
+                        <option value="Infectología">Infectología</option>
+                        <option value="Nefrología">Nefrología</option>
+                        <option value="Neumología">Neumología</option>
+                        <option value="Hematología">Hematología</option>
+                        <option value="Endocrinología">Endocrinología</option>
+                        <option value="Gastroenterología">Gastroenterología</option>
+                        <option value="Reumatología">Reumatología</option>
+                        <option value="Ortogeriatría">Ortogeriatría</option>
+                        <option value="Pediatría">Pediatría</option>
+                        <option value="General">General</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label>Contenido del Mapa (formato texto con tabulaciones)</label>
+                    <textarea id="uploadContent" rows="15" placeholder="Pega aquí el contenido del mapa mental generado por el skill..."></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Fuente / Referencias</label>
+                    <textarea id="uploadReferences" rows="4" placeholder="Referencias en formato Vancouver..."></textarea>
+                </div>
+            </div>
+            <div class="modal-actions">
+                <button class="action-btn edit" onclick="closeUploadModal()">Cancelar</button>
+                <button class="action-btn approve" onclick="submitNewMap()">Agregar a Cola</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const ADMIN_PASSWORD = 'medmaps2026'; // TODO: Change to secure method
+        let currentFilter = 'all';
+        let selectedMapId = null;
+        let reviewQueue = [];
+        let publishedMaps = [];
+
+        // Authentication
+        function login() {
+            const password = document.getElementById('adminPassword').value;
+            if (password === ADMIN_PASSWORD) {
+                document.getElementById('loginScreen').style.display = 'none';
+                document.getElementById('adminPanel').classList.add('active');
+                loadData();
+            } else {
+                document.getElementById('loginError').style.display = 'block';
+            }
+        }
+
+        function logout() {
+            document.getElementById('adminPanel').classList.remove('active');
+            document.getElementById('loginScreen').style.display = 'flex';
+            document.getElementById('adminPassword').value = '';
+        }
+
+        // Data Loading
+        async function loadData() {
+            try {
+                // Load review queue
+                const queueRes = await fetch('data/review_queue.json');
+                const queueData = await queueRes.json();
+                reviewQueue = queueData.queue || [];
+                
+                // Load published maps index
+                const indexRes = await fetch('data/maps_index.json');
+                publishedMaps = await indexRes.json();
+                
+                updateStats();
+                renderQueue();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                // Initialize with empty data
+                reviewQueue = [];
+                publishedMaps = [];
+                updateStats();
+                renderQueue();
+            }
+        }
+
+        function updateStats() {
+            const pending = reviewQueue.filter(m => m.status === 'pending').length;
+            const approved = reviewQueue.filter(m => m.status === 'approved').length;
+            const published = publishedMaps.length;
+            
+            document.getElementById('statPending').textContent = pending;
+            document.getElementById('statApproved').textContent = approved;
+            document.getElementById('statPublished').textContent = published;
+            document.getElementById('statTotal').textContent = published + reviewQueue.length;
+        }
+
+        // Queue Rendering
+        function filterQueue(filter) {
+            currentFilter = filter;
+            document.querySelectorAll('.filter-tab').forEach(tab => {
+                tab.classList.toggle('active', tab.dataset.filter === filter);
+            });
+            renderQueue();
+        }
+
+        function renderQueue() {
+            const list = document.getElementById('queueList');
+            let items = reviewQueue;
+            
+            if (currentFilter !== 'all') {
+                items = items.filter(m => m.status === currentFilter);
+            }
+            
+            document.getElementById('queueCount').textContent = items.length + ' mapas';
+            
+            if (items.length === 0) {
+                list.innerHTML = '<div style="padding: 2rem; text-align: center; color: var(--text-secondary);">No hay mapas en esta categoría</div>';
+                return;
+            }
+            
+            list.innerHTML = items.map(map => `
+                <div class="queue-item status-${map.status} ${selectedMapId === map.id ? 'selected' : ''}" 
+                     onclick="selectMap('${map.id}')">
+                    <div class="queue-item-title">${map.title}</div>
+                    <div class="queue-item-meta">
+                        <span>${map.specialty || 'Sin especialidad'}</span>
+                        <span class="status-badge status-${map.status}">${getStatusLabel(map.status)}</span>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function getStatusLabel(status) {
+            const labels = {
+                'pending': 'Pendiente',
+                'approved': 'Aprobado',
+                'rejected': 'Rechazado',
+                'published': 'Publicado'
+            };
+            return labels[status] || status;
+        }
+
+        // Map Selection & Review
+        function selectMap(mapId) {
+            selectedMapId = mapId;
+            const map = reviewQueue.find(m => m.id === mapId);
+            
+            if (!map) return;
+            
+            document.getElementById('reviewEmpty').style.display = 'none';
+            document.getElementById('reviewContent').style.display = 'block';
+            
+            document.getElementById('reviewTitle').textContent = map.title;
+            document.getElementById('reviewSpecialty').textContent = map.specialty || 'Sin especialidad';
+            document.getElementById('reviewDate').textContent = formatDate(map.created_at);
+            
+            const statusBadge = document.getElementById('reviewStatus');
+            statusBadge.textContent = getStatusLabel(map.status);
+            statusBadge.className = 'status-badge status-' + map.status;
+            
+            // Show/hide publish button based on status
+            document.getElementById('publishBtn').style.display = map.status === 'approved' ? 'flex' : 'none';
+            
+            // Render map content
+            renderMapPreview(map);
+            
+            // Load notes
+            document.getElementById('reviewNotes').value = map.review_notes || '';
+            
+            renderQueue();
+        }
+
+        function renderMapPreview(map) {
+            const preview = document.getElementById('mapPreview');
+            
+            if (map.content) {
+                // Text-based content
+                preview.innerHTML = '<pre style="white-space: pre-wrap; font-family: inherit; line-height: 1.8;">' + 
+                    escapeHtml(map.content) + '</pre>';
+            } else if (map.root) {
+                // JSON tree structure
+                preview.innerHTML = renderTree(map.root);
+                initTreeToggle();
+            } else {
+                preview.innerHTML = '<p style="color: var(--text-secondary);">Sin contenido disponible</p>';
+            }
+        }
+
+        function renderTree(node, level = 0) {
+            const hasChildren = node.children && node.children.length > 0;
+            const text = formatText(node.text || '(Sin texto)');
+            const isExpanded = level < 2;
+            
+            return `
+                <div class="tree-node" data-level="${level}">
+                    <div class="tree-header ${hasChildren ? (isExpanded ? 'expanded' : '') : 'leaf'}">
+                        <span class="tree-toggle">${hasChildren ? '▶' : '•'}</span>
+                        <span class="tree-text">${text}</span>
+                    </div>
+                    ${hasChildren ? `
+                        <div class="tree-children ${isExpanded ? 'visible' : ''}">
+                            ${node.children.map(child => renderTree(child, level + 1)).join('')}
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }
+
+        function formatText(text) {
+            return text.replace(/\\n/g, '<br>')
+                      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        }
+
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function initTreeToggle() {
+            document.querySelectorAll('.tree-header').forEach(header => {
+                header.addEventListener('click', () => {
+                    if (header.classList.contains('leaf')) return;
+                    header.classList.toggle('expanded');
+                    const children = header.nextElementSibling;
+                    if (children) children.classList.toggle('visible');
+                });
+            });
+        }
+
+        function formatDate(dateStr) {
+            if (!dateStr) return 'Sin fecha';
+            const date = new Date(dateStr);
+            return date.toLocaleDateString('es-CL', { 
+                year: 'numeric', 
+                month: 'short', 
+                day: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+        }
+
+        // Review Actions
+        function approveMap() {
+            if (!selectedMapId) return;
+            const map = reviewQueue.find(m => m.id === selectedMapId);
+            if (map) {
+                map.status = 'approved';
+                map.reviewed_at = new Date().toISOString();
+                map.review_notes = document.getElementById('reviewNotes').value;
+                saveQueue();
+                selectMap(selectedMapId);
+                showNotification('✅ Mapa aprobado', 'success');
+            }
+        }
+
+        function rejectMap() {
+            if (!selectedMapId) return;
+            const notes = document.getElementById('reviewNotes').value;
+            if (!notes) {
+                alert('Por favor agrega notas explicando el rechazo');
+                return;
+            }
+            const map = reviewQueue.find(m => m.id === selectedMapId);
+            if (map) {
+                map.status = 'rejected';
+                map.reviewed_at = new Date().toISOString();
+                map.review_notes = notes;
+                saveQueue();
+                selectMap(selectedMapId);
+                showNotification('❌ Mapa rechazado', 'error');
+            }
+        }
+
+        async function publishMap() {
+            if (!selectedMapId) return;
+            const map = reviewQueue.find(m => m.id === selectedMapId);
+            
+            if (!map || map.status !== 'approved') {
+                alert('Solo se pueden publicar mapas aprobados');
+                return;
+            }
+            
+            // In a real implementation, this would:
+            // 1. Convert the map to the published format
+            // 2. Save to data/maps/
+            // 3. Update maps_index.json
+            // 4. Remove from review queue
+            
+            const publishedMap = {
+                id: 'map_' + Date.now(),
+                title: map.title,
+                specialty: map.specialty,
+                created_at: map.created_at,
+                published_at: new Date().toISOString(),
+                content: map.content,
+                root: map.root,
+                references: map.references
+            };
+            
+            // Remove from queue
+            reviewQueue = reviewQueue.filter(m => m.id !== selectedMapId);
+            
+            // Add to published (simulated - in reality would save to files)
+            publishedMaps.push({
+                id: publishedMap.id,
+                title: publishedMap.title,
+                specialty: publishedMap.specialty
+            });
+            
+            saveQueue();
+            selectedMapId = null;
+            document.getElementById('reviewEmpty').style.display = 'flex';
+            document.getElementById('reviewContent').style.display = 'none';
+            updateStats();
+            renderQueue();
+            
+            showNotification('🚀 Mapa publicado exitosamente', 'success');
+            
+            // Show instructions for actual publishing
+            alert(`Para completar la publicación:\n\n1. El mapa "${map.title}" ha sido marcado como publicado\n2. Ejecuta el script de sincronización para actualizar los archivos\n3. Haz push a GitHub para que aparezca en el portal`);
+        }
+
+        function editMap() {
+            if (!selectedMapId) return;
+            const map = reviewQueue.find(m => m.id === selectedMapId);
+            if (map) {
+                // Open edit modal (simplified - could be more elaborate)
+                document.getElementById('uploadTitle').value = map.title;
+                document.getElementById('uploadSpecialty').value = map.specialty || '';
+                document.getElementById('uploadContent').value = map.content || '';
+                document.getElementById('uploadReferences').value = map.references || '';
+                openUploadModal();
+            }
+        }
+
+        // Save Queue
+        function saveQueue() {
+            // In a real implementation, this would save to the server
+            // For now, we update local state and show the data
+            const queueData = {
+                queue: reviewQueue,
+                stats: {
+                    pending: reviewQueue.filter(m => m.status === 'pending').length,
+                    approved: reviewQueue.filter(m => m.status === 'approved').length,
+                    rejected: reviewQueue.filter(m => m.status === 'rejected').length,
+                    total_reviewed: reviewQueue.filter(m => m.status !== 'pending').length
+                },
+                last_updated: new Date().toISOString()
+            };
+            
+            console.log('Queue data to save:', JSON.stringify(queueData, null, 2));
+            localStorage.setItem('medmaps_review_queue', JSON.stringify(queueData));
+            updateStats();
+        }
+
+        // Upload Modal
+        function openUploadModal() {
+            document.getElementById('uploadModal').classList.add('active');
+        }
+
+        function closeUploadModal() {
+            document.getElementById('uploadModal').classList.remove('active');
+            // Clear form
+            document.getElementById('uploadTitle').value = '';
+            document.getElementById('uploadSpecialty').value = '';
+            document.getElementById('uploadContent').value = '';
+            document.getElementById('uploadReferences').value = '';
+        }
+
+        function submitNewMap() {
+            const title = document.getElementById('uploadTitle').value;
+            const specialty = document.getElementById('uploadSpecialty').value;
+            const content = document.getElementById('uploadContent').value;
+            const references = document.getElementById('uploadReferences').value;
+            
+            if (!title || !content) {
+                alert('Título y contenido son requeridos');
+                return;
+            }
+            
+            const newMap = {
+                id: 'review_' + Date.now(),
+                title: title,
+                specialty: specialty,
+                content: content,
+                references: references,
+                status: 'pending',
+                created_at: new Date().toISOString(),
+                source: 'manual_upload'
+            };
+            
+            reviewQueue.push(newMap);
+            saveQueue();
+            renderQueue();
+            closeUploadModal();
+            showNotification('📋 Mapa agregado a la cola de revisión', 'success');
+        }
+
+        // Sync with Dropbox (placeholder)
+        function syncWithDropbox() {
+            showNotification('🔄 Sincronizando con Dropbox...', 'info');
+            // In reality, this would trigger a backend process to:
+            // 1. Scan Dropbox for new .smmx files
+            // 2. Convert them to JSON
+            // 3. Add to review queue
+            setTimeout(() => {
+                showNotification('✅ Sincronización completada', 'success');
+            }, 2000);
+        }
+
+        // Notifications
+        function showNotification(message, type) {
+            const notification = document.createElement('div');
+            notification.style.cssText = `
+                position: fixed;
+                bottom: 2rem;
+                right: 2rem;
+                padding: 1rem 2rem;
+                background: ${type === 'success' ? 'var(--success)' : type === 'error' ? 'var(--error)' : 'var(--primary)'};
+                color: white;
+                border-radius: 10px;
+                font-weight: 500;
+                box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+                z-index: 9999;
+                animation: slideIn 0.3s ease;
+            `;
+            notification.textContent = message;
+            document.body.appendChild(notification);
+            
+            setTimeout(() => {
+                notification.style.animation = 'slideOut 0.3s ease';
+                setTimeout(() => notification.remove(), 300);
+            }, 3000);
+        }
+
+        // Load saved queue from localStorage on init
+        document.addEventListener('DOMContentLoaded', () => {
+            const saved = localStorage.getItem('medmaps_review_queue');
+            if (saved) {
+                try {
+                    const data = JSON.parse(saved);
+                    reviewQueue = data.queue || [];
+                } catch (e) {}
+            }
+        });
+
+        // Enter key to login
+        document.getElementById('adminPassword').addEventListener('keypress', (e) => {
+            if (e.key === 'Enter') login();
+        });
+
+        // CSS animation
+        const style = document.createElement('style');
+        style.textContent = `
+            @keyframes slideIn { from { transform: translateX(100%); opacity: 0; } to { transform: translateX(0); opacity: 1; } }
+            @keyframes slideOut { from { transform: translateX(0); opacity: 1; } to { transform: translateX(100%); opacity: 0; } }
+        `;
+        document.head.appendChild(style);
+    </script>
+</body>
+</html>

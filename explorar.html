@@ -824,14 +824,11 @@
     </div>
 
     <div class="map-viewer-toolbar">
-      <button class="toolbar-btn active" onclick="expandAll()">
+      <button class="toolbar-btn" onclick="expandAll()">
         <span>📂</span> Expandir todo
       </button>
-      <button class="toolbar-btn" onclick="collapseAll()">
+      <button class="toolbar-btn active" onclick="collapseAll()">
         <span>📁</span> Colapsar todo
-      </button>
-      <button class="toolbar-btn" onclick="copyContent()">
-        <span>📋</span> Copiar
       </button>
     </div>
 
@@ -860,6 +857,26 @@ const SPECIALTY_CONFIG = {
   'General': { emoji: '📚', color: '#64748b' },
   'Estudios Pivotales': { emoji: '⭐', color: '#eab308' },
   'Continuum': { emoji: '📖', color: '#22c55e' },
+  'UCI-Medicina Crítica': { emoji: '🏥', color: '#dc2626' },
+  'Infectología': { emoji: '🦠', color: '#84cc16' },
+  'Hematología': { emoji: '🩸', color: '#b91c1c' },
+  'Gastroenterología': { emoji: '🫁', color: '#059669' },
+  'Neumología': { emoji: '💨', color: '#0ea5e9' },
+  'Reumatología': { emoji: '🦴', color: '#f59e0b' },
+  'Psiquiatría': { emoji: '🧩', color: '#7c3aed' },
+  'Ortogeriatría': { emoji: '🦿', color: '#6366f1' },
+  'Pediatría': { emoji: '👶', color: '#f472b6' },
+};
+
+// Sistema de TAGS para clasificación
+const TAG_CONFIG = {
+  '📄 Paper': { color: '#3b82f6', label: 'Paper' },
+  '📚 Revisión': { color: '#8b5cf6', label: 'Revisión' },
+  '⭐ Estudio Pivotal': { color: '#f59e0b', label: 'Estudio Pivotal' },
+  '📋 Guía Clínica': { color: '#10b981', label: 'Guía Clínica' },
+  '🔬 Fisiopatología': { color: '#ec4899', label: 'Fisiopatología' },
+  '💊 Farmacología': { color: '#06b6d4', label: 'Farmacología' },
+  '🏥 Caso Clínico': { color: '#ef4444', label: 'Caso Clínico' },
 };
 
 const MAPS_PER_PAGE = 24;
@@ -1102,7 +1119,8 @@ function renderTree(node, level = 0) {
 
   const hasChildren = node.children && node.children.length > 0;
   const text = formatText(node.text || '(Sin texto)');
-  const isExpanded = level < 2; // Auto-expand first 2 levels
+  // Siempre colapsado por defecto - solo mostrar título raíz expandido
+  const isExpanded = level === 0;
 
   return `
     <div class="tree-node" data-level="${level}">
@@ -1212,13 +1230,6 @@ function expandAll() {
 function collapseAll() {
   document.querySelectorAll('.tree-header').forEach(h => h.classList.remove('expanded'));
   document.querySelectorAll('.tree-children').forEach(c => c.classList.remove('visible'));
-}
-
-function copyContent() {
-  const content = document.getElementById('viewerContent').innerText;
-  navigator.clipboard.writeText(content).then(() => {
-    alert('Contenido copiado al portapapeles');
-  });
 }
 
 // ========================================
