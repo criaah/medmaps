@@ -1,21 +1,1780 @@
 [
-  {"id": "map_0", "title": "MedMaps - Índice Completo", "specialty": "General", "folder": "root", "filename": "00_INDICE_MEDMAPS", "node_count": 36, "has_references": false},
-  {"id": "map_2", "title": "HYVET (2008) - HTA en muy ancianos", "specialty": "Geriatría", "folder": "- Estudios Pivotales", "filename": "HYVET-2026", "node_count": 291, "has_references": false},
-  {"id": "map_3", "title": "ASPREE (2018) - Aspirina en ancianos sanos", "specialty": "Geriatría", "folder": "- Estudios Pivotales", "filename": "ASPREE-2026", "node_count": 185, "has_references": false},
-  {"id": "map_4", "title": "DAPA-HF - Dapagliflozina en IC", "specialty": "Cardiología", "folder": "- Estudios Pivotales", "filename": "DAPA-HF-2026", "node_count": 156, "has_references": false},
-  {"id": "map_5", "title": "ARISTOTLE - Apixaban vs Warfarina", "specialty": "Cardiología", "folder": "- Estudios Pivotales", "filename": "ARISTOTLE-2026", "node_count": 142, "has_references": false},
-  {"id": "map_6", "title": "PROSPER - Estatinas en ancianos", "specialty": "Geriatría", "folder": "- Estudios Pivotales", "filename": "PROSPER-2026", "node_count": 128, "has_references": false},
-  {"id": "map_7", "title": "STOPP-START v2 - Criterios prescripción", "specialty": "Geriatría", "folder": "- Estudios Pivotales", "filename": "STOPP-START-v2-2026", "node_count": 312, "has_references": false},
-  {"id": "map_8", "title": "HIP-ATTACK - Cirugía precoz fractura cadera", "specialty": "Geriatría", "folder": "- Estudios Pivotales", "filename": "HIP-ATTACK-2026", "node_count": 98, "has_references": false},
-  {"id": "map_10", "title": "CREDENCE - Canagliflozina en ERC", "specialty": "Nefrología", "folder": "- Estudios Pivotales", "filename": "CREDENCE-2026", "node_count": 167, "has_references": false},
-  {"id": "map_12", "title": "Enfermedad de Pequeños Vasos Cerebrales", "specialty": "Neurología", "folder": "Continuum", "filename": "CSVD-2025", "node_count": 534, "has_references": false},
-  {"id": "map_15", "title": "Demencia Frontotemporal", "specialty": "Neurología", "folder": "Continuum", "filename": "DFT-2025", "node_count": 487, "has_references": false},
-  {"id": "map_18", "title": "Esclerosis Lateral Amiotrófica", "specialty": "Neurología", "folder": "Continuum", "filename": "ELA-2025", "node_count": 412, "has_references": false},
-  {"id": "map_20", "title": "Parkinson y Parkinsonismos", "specialty": "Neurología", "folder": "Continuum", "filename": "Parkinson-2025", "node_count": 623, "has_references": false},
-  {"id": "map_25", "title": "Delirium en el Adulto Mayor", "specialty": "Geriatría", "folder": "- Entidades clínicas", "filename": "Delirium-2024", "node_count": 378, "has_references": false},
-  {"id": "map_30", "title": "Fragilidad - Definición y Manejo", "specialty": "Geriatría", "folder": "- Entidades clínicas", "filename": "Fragilidad-2024", "node_count": 289, "has_references": false},
-  {"id": "map_35", "title": "Insuficiencia Cardíaca con FE preservada", "specialty": "Cardiología", "folder": "- Entidades clínicas", "filename": "ICFEp-2024", "node_count": 445, "has_references": false},
-  {"id": "map_40", "title": "Fibrilación Auricular", "specialty": "Cardiología", "folder": "- Entidades clínicas", "filename": "FA-2024", "node_count": 512, "has_references": false},
-  {"id": "map_45", "title": "ACV Isquémico Agudo", "specialty": "Neurología", "folder": "- Entidades clínicas", "filename": "ACV-isquemico-2024", "node_count": 398, "has_references": false},
-  {"id": "map_50", "title": "Hipertiroidismo", "specialty": "Endocrinología", "folder": "- Entidades clínicas", "filename": "Hipertiroidismo-2024", "node_count": 267, "has_references": false}
+  {
+    "id": "map_719",
+    "title": "# Curvas ROC en Investigación Clínica",
+    "specialty": "General",
+    "node_count": 45,
+    "has_references": false
+  },
+  {
+    "id": "map_760",
+    "title": "# Interpretación de Pruebas Diagnósticas (PD)",
+    "specialty": "General",
+    "node_count": 79,
+    "has_references": false
+  },
+  {
+    "id": "map_1505",
+    "title": "- Hipogonadismo Masculino",
+    "specialty": "General",
+    "node_count": 1345,
+    "has_references": false
+  },
+  {
+    "id": "map_1493",
+    "title": "- Tiroides",
+    "specialty": "General",
+    "node_count": 1025,
+    "has_references": false
+  },
+  {
+    "id": "map_1",
+    "title": "00_TEMARIO_MEDMAPS",
+    "specialty": "General",
+    "node_count": 0,
+    "has_references": false
+  },
+  {
+    "id": "map_31",
+    "title": "ABCDEF Bundle",
+    "specialty": "Estudios Pivotales",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_22",
+    "title": "ACOVE-2001",
+    "specialty": "Estudios Pivotales",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1504",
+    "title": "ACROMEGALIA",
+    "specialty": "General",
+    "node_count": 318,
+    "has_references": false
+  },
+  {
+    "id": "map_1633",
+    "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA",
+    "specialty": "Neurología",
+    "node_count": 188,
+    "has_references": false
+  },
+  {
+    "id": "map_13",
+    "title": "AFFIRM (2002)",
+    "specialty": "Cardiología",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1128",
+    "title": "ANEMIA HEMOLÍTICA RELACIONADA CON DEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS",
+    "specialty": "General",
+    "node_count": 98,
+    "has_references": false
+  },
+  {
+    "id": "map_1151",
+    "title": "ANEMIA ORIGINADA POR OTRAS DEFICIENCIAS NUTRICIONALES",
+    "specialty": "General",
+    "node_count": 151,
+    "has_references": false
+  },
+  {
+    "id": "map_1177",
+    "title": "ANEMIA POR INFILTRACIÓN DE LA MÉDULA ÓSEA",
+    "specialty": "General",
+    "node_count": 79,
+    "has_references": false
+  },
+  {
+    "id": "map_1124",
+    "title": "ANEMIAS SIDEROBLÁSTICAS HEREDITARIAS Y ADQUIRIDAS",
+    "specialty": "General",
+    "node_count": 95,
+    "has_references": false
+  },
+  {
+    "id": "map_1146",
+    "title": "APLASIA ERITROCITARIA PURA",
+    "specialty": "General",
+    "node_count": 153,
+    "has_references": false
+  },
+  {
+    "id": "map_316",
+    "title": "ARDSNet (2000)",
+    "specialty": "General",
+    "node_count": 23,
+    "has_references": false
+  },
+  {
+    "id": "map_20",
+    "title": "ARISTOTLE-2011",
+    "specialty": "Cardiología",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_7",
+    "title": "ASPREE (2018)",
+    "specialty": "Geriatría",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1640",
+    "title": "Aciclovir (ACV) versus Valaciclovir (VACV)",
+    "specialty": "Neurología",
+    "node_count": 89,
+    "has_references": false
+  },
+  {
+    "id": "map_240",
+    "title": "Acropaquia (Dedos en palillo de tambor)",
+    "specialty": "General",
+    "node_count": 151,
+    "has_references": false
+  },
+  {
+    "id": "map_726",
+    "title": "Actualización en Medicina de Emergencias: Ataque Isquémico Transitorio (2025)",
+    "specialty": "General",
+    "node_count": 130,
+    "has_references": false
+  },
+  {
+    "id": "map_1643",
+    "title": "Actualización sobre medicamentos anticonvulsivos 2025",
+    "specialty": "Continuum",
+    "node_count": 2000,
+    "has_references": false
+  },
+  {
+    "id": "map_1658",
+    "title": "Afasia UTD 2025",
+    "specialty": "General",
+    "node_count": 409,
+    "has_references": false
+  },
+  {
+    "id": "map_1646",
+    "title": "Afasia primaria progresiva (APP)",
+    "specialty": "General",
+    "node_count": 93,
+    "has_references": false
+  },
+  {
+    "id": "map_1616",
+    "title": "Ampliando nuestra comprensión de las sinucleinopatías: proteinopatía, proteinopenia y lipidopatía",
+    "specialty": "General",
+    "node_count": 367,
+    "has_references": false
+  },
+  {
+    "id": "map_1653",
+    "title": "Anatomía del Encéfalo y la Médula Espinal",
+    "specialty": "Neurología",
+    "node_count": 149,
+    "has_references": false
+  },
+  {
+    "id": "map_1074",
+    "title": "Antidemenciales",
+    "specialty": "General",
+    "node_count": 223,
+    "has_references": false
+  },
+  {
+    "id": "map_833",
+    "title": "Antifúngicos: De la Farmacocinética a la Práctica Clínica",
+    "specialty": "General",
+    "node_count": 116,
+    "has_references": false
+  },
+  {
+    "id": "map_1335",
+    "title": "Antimicrobianos y Resistencia",
+    "specialty": "General",
+    "node_count": 187,
+    "has_references": false
+  },
+  {
+    "id": "map_390",
+    "title": "Apnea del Sueño",
+    "specialty": "General",
+    "node_count": 483,
+    "has_references": false
+  },
+  {
+    "id": "map_375",
+    "title": "Apnea del sueño",
+    "specialty": "General",
+    "node_count": 756,
+    "has_references": false
+  },
+  {
+    "id": "map_1593",
+    "title": "Ataque Cerebrovascular Isquémico",
+    "specialty": "Neurología",
+    "node_count": 91,
+    "has_references": false
+  },
+  {
+    "id": "map_1630",
+    "title": "Ataque Isquémico Transitorio (AIT): Definición y Conceptos Fundamentales",
+    "specialty": "General",
+    "node_count": 938,
+    "has_references": false
+  },
+  {
+    "id": "map_1045",
+    "title": "Avances recientes en la enfermedad de Alzheimer: mecanismos, ensayos clínicos y nuevas estrategias de desarrollo de fármacos",
+    "specialty": "General",
+    "node_count": 1527,
+    "has_references": false
+  },
+  {
+    "id": "map_344",
+    "title": "BAFTA (2007)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1513",
+    "title": "BOCIO DIFUSO Y MULTINODULAR",
+    "specialty": "General",
+    "node_count": 203,
+    "has_references": false
+  },
+  {
+    "id": "map_1635",
+    "title": "Banderas rojas cefalea",
+    "specialty": "General",
+    "node_count": 62,
+    "has_references": false
+  },
+  {
+    "id": "map_1055",
+    "title": "Biomarcadores en demencia",
+    "specialty": "Continuum",
+    "node_count": 378,
+    "has_references": false
+  },
+  {
+    "id": "map_1615",
+    "title": "C1. Anamnesis y exploración. El método clínico neurológico",
+    "specialty": "Neurología",
+    "node_count": 538,
+    "has_references": false
+  },
+  {
+    "id": "map_731",
+    "title": "C3",
+    "specialty": "General",
+    "node_count": 1068,
+    "has_references": false
+  },
+  {
+    "id": "map_1090",
+    "title": "CARGA DEL CUIDADOR Y SERVICIOS DE APOYO EN DEMENCIA",
+    "specialty": "Continuum",
+    "node_count": 120,
+    "has_references": false
+  },
+  {
+    "id": "map_317",
+    "title": "CATIE-AD (2006)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_338",
+    "title": "CHEST-2012",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_26",
+    "title": "CLARITY-AD-2022",
+    "specialty": "Estudios Pivotales",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1518",
+    "title": "CLIMATERIO Y TERAPIA HORMONAL",
+    "specialty": "General",
+    "node_count": 507,
+    "has_references": false
+  },
+  {
+    "id": "map_29",
+    "title": "CRASH-2 (2010)",
+    "specialty": "Estudios Pivotales",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_9",
+    "title": "CREDENCE-2019",
+    "specialty": "Nefrología",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1058",
+    "title": "Caidas Dra. Meneses 2024",
+    "specialty": "General",
+    "node_count": 537,
+    "has_references": false
+  },
+  {
+    "id": "map_1602",
+    "title": "Cefalea Tipo Tensional",
+    "specialty": "General",
+    "node_count": 58,
+    "has_references": false
+  },
+  {
+    "id": "map_1657",
+    "title": "Cefalea por sobreuso de medicamentos",
+    "specialty": "General",
+    "node_count": 37,
+    "has_references": false
+  },
+  {
+    "id": "map_1595",
+    "title": "Cefaleas Breves",
+    "specialty": "General",
+    "node_count": 91,
+    "has_references": false
+  },
+  {
+    "id": "map_677",
+    "title": "Clase 9",
+    "specialty": "General",
+    "node_count": 489,
+    "has_references": false
+  },
+  {
+    "id": "map_956",
+    "title": "Clase sincrónica",
+    "specialty": "General",
+    "node_count": 2849,
+    "has_references": false
+  },
+  {
+    "id": "map_32",
+    "title": "Compassionomics",
+    "specialty": "Estudios Pivotales",
+    "node_count": 932,
+    "has_references": false
+  },
+  {
+    "id": "map_829",
+    "title": "Complicaciones crónicas de OH",
+    "specialty": "General",
+    "node_count": 232,
+    "has_references": false
+  },
+  {
+    "id": "map_1041",
+    "title": "Continuum. Demencia Frontotemporal (DFT)",
+    "specialty": "Continuum",
+    "node_count": 425,
+    "has_references": false
+  },
+  {
+    "id": "map_1085",
+    "title": "Cuadernillo para cuidadores de personas con demencia",
+    "specialty": "General",
+    "node_count": 2414,
+    "has_references": false
+  },
+  {
+    "id": "map_1624",
+    "title": "Cubiertas Óseas del Encéfalo y la Médula Espinal",
+    "specialty": "Neurología",
+    "node_count": 192,
+    "has_references": false
+  },
+  {
+    "id": "map_1509",
+    "title": "Cáncer diferenciado de tiroides",
+    "specialty": "General",
+    "node_count": 556,
+    "has_references": false
+  },
+  {
+    "id": "map_1426",
+    "title": "Células madre hematopoyéticas y sus trastornos",
+    "specialty": "General",
+    "node_count": 450,
+    "has_references": false
+  },
+  {
+    "id": "map_361",
+    "title": "D-PRESCRIBE (2018)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_8",
+    "title": "DAPA-CKD (2020)",
+    "specialty": "Cardiología",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_14",
+    "title": "DAPA-HF-2019",
+    "specialty": "Cardiología",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1059",
+    "title": "Delirium en UCI",
+    "specialty": "General",
+    "node_count": 396,
+    "has_references": false
+  },
+  {
+    "id": "map_1030",
+    "title": "Demencia por cuerpos de Lewy",
+    "specialty": "Continuum",
+    "node_count": 1214,
+    "has_references": false
+  },
+  {
+    "id": "map_1599",
+    "title": "Deterioro Cognitivo Posterior al Ataque Isquémico Transitorio",
+    "specialty": "General",
+    "node_count": 254,
+    "has_references": false
+  },
+  {
+    "id": "map_1107",
+    "title": "Deterioro Cognitivo Vascular (DCV) y Demencia Vascular",
+    "specialty": "General",
+    "node_count": 964,
+    "has_references": false
+  },
+  {
+    "id": "map_1603",
+    "title": "Deterioro cognitivo vascular",
+    "specialty": "Continuum",
+    "node_count": 312,
+    "has_references": false
+  },
+  {
+    "id": "map_688",
+    "title": "Diagnóstico Inicial de MAT",
+    "specialty": "General",
+    "node_count": 69,
+    "has_references": false
+  },
+  {
+    "id": "map_713",
+    "title": "Diagnóstico Serológico de la Sífilis",
+    "specialty": "General",
+    "node_count": 188,
+    "has_references": false
+  },
+  {
+    "id": "map_924",
+    "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)",
+    "specialty": "General",
+    "node_count": 135,
+    "has_references": false
+  },
+  {
+    "id": "map_939",
+    "title": "Diagnóstico microbiológico de las infecciones bacterianas del tracto respiratorio inferior (TRI)",
+    "specialty": "General",
+    "node_count": 378,
+    "has_references": false
+  },
+  {
+    "id": "map_1310",
+    "title": "Diagnóstico y Tratamiento de Infecciones Oportunistas (IO) en Paciente Adulto VIH/SIDA (Chile, Guía SOCHINF 2011)",
+    "specialty": "General",
+    "node_count": 121,
+    "has_references": false
+  },
+  {
+    "id": "map_1181",
+    "title": "Diagnóstico y tratamiento de la trombosis venosa cerebral",
+    "specialty": "Continuum",
+    "node_count": 372,
+    "has_references": false
+  },
+  {
+    "id": "map_1612",
+    "title": "Disección de Arterias Cervicales (DAC)",
+    "specialty": "Continuum",
+    "node_count": 389,
+    "has_references": false
+  },
+  {
+    "id": "map_921",
+    "title": "Diseños de investigación",
+    "specialty": "General",
+    "node_count": 917,
+    "has_references": false
+  },
+  {
+    "id": "map_1588",
+    "title": "Distonia",
+    "specialty": "General",
+    "node_count": 211,
+    "has_references": false
+  },
+  {
+    "id": "map_1598",
+    "title": "E. Parkinson. Manejo de diskinesia y fluctuaciones motoras",
+    "specialty": "General",
+    "node_count": 263,
+    "has_references": false
+  },
+  {
+    "id": "map_784",
+    "title": "E. Párkinson Clínica  UTD 2025",
+    "specialty": "General",
+    "node_count": 223,
+    "has_references": false
+  },
+  {
+    "id": "map_684",
+    "title": "E. Párkinson Procedimientos UTD 2025",
+    "specialty": "General",
+    "node_count": 269,
+    "has_references": false
+  },
+  {
+    "id": "map_1514",
+    "title": "E.Graves [TRAb]",
+    "specialty": "General",
+    "node_count": 742,
+    "has_references": false
+  },
+  {
+    "id": "map_1188",
+    "title": "EFECTOS ERITROPOYÉTICOS DE LOS TRASTORNOS ENDOCRINOS",
+    "specialty": "General",
+    "node_count": 63,
+    "has_references": false
+  },
+  {
+    "id": "map_942",
+    "title": "ELDERCARE-AF (2020)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1136",
+    "title": "ENFERMEDADES DE CÉLULAS FALCIFORMES Y OTRAS HEMOGLOBINOPATÍAS",
+    "specialty": "General",
+    "node_count": 79,
+    "has_references": false
+  },
+  {
+    "id": "map_1444",
+    "title": "ERITROPOYESIS",
+    "specialty": "General",
+    "node_count": 88,
+    "has_references": false
+  },
+  {
+    "id": "map_1031",
+    "title": "EWGSOP2 (2019)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1649",
+    "title": "Enfermedad de Parkinson Dic 2024",
+    "specialty": "General",
+    "node_count": 870,
+    "has_references": false
+  },
+  {
+    "id": "map_16",
+    "title": "Enfermedad de Pequeños Vasos Cerebrales (CSVD)",
+    "specialty": "Estudios Pivotales",
+    "node_count": 516,
+    "has_references": false
+  },
+  {
+    "id": "map_1601",
+    "title": "Enfoque del paciente con dolor de cabeza",
+    "specialty": "Continuum",
+    "node_count": 650,
+    "has_references": false
+  },
+  {
+    "id": "map_359",
+    "title": "Epidemiología: Conceptos Clave y Aplicaciones",
+    "specialty": "General",
+    "node_count": 140,
+    "has_references": false
+  },
+  {
+    "id": "map_1609",
+    "title": "Esclerosis múltiple",
+    "specialty": "General",
+    "node_count": 80,
+    "has_references": false
+  },
+  {
+    "id": "map_693",
+    "title": "Estenosis carotídea",
+    "specialty": "General",
+    "node_count": 569,
+    "has_references": false
+  },
+  {
+    "id": "map_1555",
+    "title": "Estilo central",
+    "specialty": "Endocrinología",
+    "node_count": 736,
+    "has_references": false
+  },
+  {
+    "id": "map_679",
+    "title": "Estilo central",
+    "specialty": "General",
+    "node_count": 97,
+    "has_references": false
+  },
+  {
+    "id": "map_1638",
+    "title": "Evaluaciones Neuropsicológicas en Adultos",
+    "specialty": "Neurología",
+    "node_count": 262,
+    "has_references": false
+  },
+  {
+    "id": "map_1054",
+    "title": "Evaluación de la Demencia y el Deterioro Cognitivo  UTD 2025",
+    "specialty": "General",
+    "node_count": 437,
+    "has_references": false
+  },
+  {
+    "id": "map_706",
+    "title": "Evaluación y manejo de la primera convulsión en adulto",
+    "specialty": "General",
+    "node_count": 346,
+    "has_references": false
+  },
+  {
+    "id": "map_1652",
+    "title": "Examen neurólogico UTD 2025",
+    "specialty": "Neurología",
+    "node_count": 484,
+    "has_references": false
+  },
+  {
+    "id": "map_729",
+    "title": "FINGER (2015)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_777",
+    "title": "FOCUS (2011)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_831",
+    "title": "FRAIL-AF (2024)",
+    "specialty": "Geriatría",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1589",
+    "title": "Fisiopatología de la migraña",
+    "specialty": "Continuum",
+    "node_count": 505,
+    "has_references": false
+  },
+  {
+    "id": "map_1372",
+    "title": "Flora Comensal Humana",
+    "specialty": "General",
+    "node_count": 93,
+    "has_references": false
+  },
+  {
+    "id": "map_1636",
+    "title": "Flujogramas de Manejo de Patología Neurológica",
+    "specialty": "Neurología",
+    "node_count": 169,
+    "has_references": false
+  },
+  {
+    "id": "map_1089",
+    "title": "Fragilidad UTD 2024",
+    "specialty": "General",
+    "node_count": 292,
+    "has_references": false
+  },
+  {
+    "id": "map_1063",
+    "title": "Fragilidad y sarcopenia Dra. Meneses 2024",
+    "specialty": "General",
+    "node_count": 707,
+    "has_references": false
+  },
+  {
+    "id": "map_718",
+    "title": "Fried Frailty (2001)",
+    "specialty": "Geriatría",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1436",
+    "title": "GENERALIDADES DE LA HEMATOPOYESIS",
+    "specialty": "General",
+    "node_count": 133,
+    "has_references": false
+  },
+  {
+    "id": "map_1554",
+    "title": "GINECOMASTIA",
+    "specialty": "General",
+    "node_count": 252,
+    "has_references": false
+  },
+  {
+    "id": "map_1543",
+    "title": "GLUCOCORTICOIDES (GC)",
+    "specialty": "General",
+    "node_count": 317,
+    "has_references": false
+  },
+  {
+    "id": "map_1412",
+    "title": "GRS. Hemato",
+    "specialty": "General",
+    "node_count": 2016,
+    "has_references": false
+  },
+  {
+    "id": "map_1068",
+    "title": "Genética y neuropatología de las demencias neurodegenerativas",
+    "specialty": "Continuum",
+    "node_count": 546,
+    "has_references": false
+  },
+  {
+    "id": "map_837",
+    "title": "Guillain-Barré",
+    "specialty": "General",
+    "node_count": 228,
+    "has_references": false
+  },
+  {
+    "id": "map_1337",
+    "title": "Guía de Antimicrobianos por Patología Específica",
+    "specialty": "General",
+    "node_count": 519,
+    "has_references": false
+  },
+  {
+    "id": "map_1364",
+    "title": "Guía para la Identificación de Cultivos Bacterianos e Interpretación de Resultados",
+    "specialty": "General",
+    "node_count": 199,
+    "has_references": false
+  },
+  {
+    "id": "map_1035",
+    "title": "HELP (1999)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1156",
+    "title": "HEMOGLOBINAS INESTABLES Y HEMOGLOBINAS CON AFINIDAD ALTERADA POR EL OXÍGENO",
+    "specialty": "General",
+    "node_count": 70,
+    "has_references": false
+  },
+  {
+    "id": "map_15",
+    "title": "HIP-ATTACK-2020",
+    "specialty": "Geriatría",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1520",
+    "title": "HIPOGONADISMO MASCULINO",
+    "specialty": "General",
+    "node_count": 573,
+    "has_references": false
+  },
+  {
+    "id": "map_1531",
+    "title": "HIPONATREMIA",
+    "specialty": "General",
+    "node_count": 391,
+    "has_references": false
+  },
+  {
+    "id": "map_692",
+    "title": "HIPONATREMIA - TRATAMIENTO ESTÁNDAR 2024",
+    "specialty": "General",
+    "node_count": 198,
+    "has_references": false
+  },
+  {
+    "id": "map_251",
+    "title": "HIRSUTISMO Y SOP",
+    "specialty": "General",
+    "node_count": 530,
+    "has_references": false
+  },
+  {
+    "id": "map_2",
+    "title": "HORIZON-RFT (2007)",
+    "specialty": "Estudios Pivotales",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1157",
+    "title": "HTA ORIGEN ENDOCRINO",
+    "specialty": "General",
+    "node_count": 403,
+    "has_references": false
+  },
+  {
+    "id": "map_17",
+    "title": "HYVET (2008) Hypertension in the Very Elderly Trial  ⭐ Estudio pivote HTA en ≥80 años",
+    "specialty": "Geriatría",
+    "node_count": 34,
+    "has_references": false
+  },
+  {
+    "id": "map_1613",
+    "title": "Hacia una definición biológica de sinucleinopatías neuronales y gliales",
+    "specialty": "Neurología",
+    "node_count": 634,
+    "has_references": false
+  },
+  {
+    "id": "map_1587",
+    "title": "Hemorragia Intracerebral",
+    "specialty": "General",
+    "node_count": 92,
+    "has_references": false
+  },
+  {
+    "id": "map_680",
+    "title": "Hipertensión intracraneana",
+    "specialty": "General",
+    "node_count": 388,
+    "has_references": false
+  },
+  {
+    "id": "map_1429",
+    "title": "Hoffbrand’s Hematopoyesis y Eritropoyesis",
+    "specialty": "General",
+    "node_count": 373,
+    "has_references": false
+  },
+  {
+    "id": "map_6",
+    "title": "ICE-FRAIL (2024)",
+    "specialty": "Geriatría",
+    "node_count": 18,
+    "has_references": false
+  },
+  {
+    "id": "map_1502",
+    "title": "INCIDENTALOMA HIPOFISIARIO (IH)",
+    "specialty": "General",
+    "node_count": 104,
+    "has_references": false
+  },
+  {
+    "id": "map_25",
+    "title": "INDICE ESTUDIOS PIVOTALES",
+    "specialty": "Estudios Pivotales",
+    "node_count": 14,
+    "has_references": false
+  },
+  {
+    "id": "map_1503",
+    "title": "INSUFICIENCIA SUPRARRENAL (ISR)",
+    "specialty": "General",
+    "node_count": 319,
+    "has_references": false
+  },
+  {
+    "id": "map_1550",
+    "title": "INSUFICIENCIA SUPRARRENAL (ISR)",
+    "specialty": "General",
+    "node_count": 282,
+    "has_references": false
+  },
+  {
+    "id": "map_1512",
+    "title": "Incidentaloma Suprarrenal",
+    "specialty": "General",
+    "node_count": 218,
+    "has_references": false
+  },
+  {
+    "id": "map_1344",
+    "title": "Infecciones del SNC",
+    "specialty": "General",
+    "node_count": 183,
+    "has_references": false
+  },
+  {
+    "id": "map_840",
+    "title": "Inmunizaciones en Adultos Mayores y Poblaciones Especiales (**M. Paz Iturrieta M.**, H. Sótero del Río)",
+    "specialty": "General",
+    "node_count": 196,
+    "has_references": false
+  },
+  {
+    "id": "map_1427",
+    "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**",
+    "specialty": "General",
+    "node_count": 129,
+    "has_references": false
+  },
+  {
+    "id": "map_1144",
+    "title": "Insuficiencia Venosa Cronica IVC Manejo No Quirurgico",
+    "specialty": "General",
+    "node_count": 285,
+    "has_references": false
+  },
+  {
+    "id": "map_1631",
+    "title": "LATE, Esclerosis del hipocampo y tauopatía primaria relacionada con la edad",
+    "specialty": "Continuum",
+    "node_count": 474,
+    "has_references": false
+  },
+  {
+    "id": "map_1439",
+    "title": "LEUCOPOYESIS",
+    "specialty": "General",
+    "node_count": 111,
+    "has_references": false
+  },
+  {
+    "id": "map_821",
+    "title": "LIFE Study (2014)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1455",
+    "title": "LINFOMAS NO-HODGKIN Y HODGKIN",
+    "specialty": "General",
+    "node_count": 280,
+    "has_references": false
+  },
+  {
+    "id": "map_1369",
+    "title": "La Necesidad de Aplicar el Método Científico en Investigación Clínica.",
+    "specialty": "General",
+    "node_count": 36,
+    "has_references": false
+  },
+  {
+    "id": "map_1432",
+    "title": "Leucemia Neutrofílica Crónica (LNC) y Leucemia Mieloide Crónica Atípica (LMCa): Actualización **2024** sobre Diagnóstico, Genética, Estratificación de Riesgo y Manejo (**Szuber N, Orazi A, Tefferi A**)",
+    "specialty": "General",
+    "node_count": 286,
+    "has_references": false
+  },
+  {
+    "id": "map_402",
+    "title": "Leucemia de Células Plasmáticas (PCL)",
+    "specialty": "General",
+    "node_count": 156,
+    "has_references": false
+  },
+  {
+    "id": "map_360",
+    "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de discapacidad tras trombectomía mecánica difiere significativamente entre las oclusiones proximales y distales del segmento M1 de la arteria cerebral media",
+    "specialty": "General",
+    "node_count": 113,
+    "has_references": false
+  },
+  {
+    "id": "map_12",
+    "title": "MANEJO DE ANEURISMAS INTRACRANEALES NO ROTOS Y MALFORMACIONES ARTERIOVENOSAS CEREBRALES",
+    "specialty": "Continuum",
+    "node_count": 230,
+    "has_references": false
+  },
+  {
+    "id": "map_1524",
+    "title": "MANEJO ENDOCRINOLÓGICO POSTCIRUGÍA HIPOFISIARIA",
+    "specialty": "General",
+    "node_count": 135,
+    "has_references": false
+  },
+  {
+    "id": "map_691",
+    "title": "MEMBRANA DE LOS GLÓBULOS ROJOS",
+    "specialty": "General",
+    "node_count": 123,
+    "has_references": false
+  },
+  {
+    "id": "map_1071",
+    "title": "MENDS (2007)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1515",
+    "title": "METABOLISMO DE LOS ERITROCITOS",
+    "specialty": "General",
+    "node_count": 91,
+    "has_references": false
+  },
+  {
+    "id": "map_1088",
+    "title": "MIND-USA (2018)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1049",
+    "title": "MNA Validation (1994)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1610",
+    "title": "Manejo HAND",
+    "specialty": "General",
+    "node_count": 301,
+    "has_references": false
+  },
+  {
+    "id": "map_1166",
+    "title": "Manejo del tromboembolismo venoso (TEV) - Tratamiento de Trombosis Venosa Profunda (TVP) y Embolia Pulmonar (EP)",
+    "specialty": "General",
+    "node_count": 80,
+    "has_references": false
+  },
+  {
+    "id": "map_1625",
+    "title": "Mapa Mental sin nombre",
+    "specialty": "General",
+    "node_count": 1485,
+    "has_references": false
+  },
+  {
+    "id": "map_801",
+    "title": "Marco Teórico",
+    "specialty": "General",
+    "node_count": 101,
+    "has_references": false
+  },
+  {
+    "id": "map_0",
+    "title": "MedMaps - Índice Completo",
+    "specialty": "General",
+    "node_count": 36,
+    "has_references": false
+  },
+  {
+    "id": "map_1334",
+    "title": "Meningitis aséptica",
+    "specialty": "General",
+    "node_count": 588,
+    "has_references": false
+  },
+  {
+    "id": "map_1620",
+    "title": "Miastenia gravis en 2025",
+    "specialty": "General",
+    "node_count": 1158,
+    "has_references": false
+  },
+  {
+    "id": "map_737",
+    "title": "Microangiopatía trombótica",
+    "specialty": "General",
+    "node_count": 506,
+    "has_references": false
+  },
+  {
+    "id": "map_1323",
+    "title": "Microbiología Clínica",
+    "specialty": "General",
+    "node_count": 184,
+    "has_references": false
+  },
+  {
+    "id": "map_1469",
+    "title": "Mieloma Múltiple: Actualización 2024 (S. Vincent Rajkumar, Am J Hematol)",
+    "specialty": "General",
+    "node_count": 294,
+    "has_references": false
+  },
+  {
+    "id": "map_1621",
+    "title": "Migraña",
+    "specialty": "General",
+    "node_count": 64,
+    "has_references": false
+  },
+  {
+    "id": "map_1591",
+    "title": "Mioclonias",
+    "specialty": "General",
+    "node_count": 246,
+    "has_references": false
+  },
+  {
+    "id": "map_765",
+    "title": "Motivación",
+    "specialty": "General",
+    "node_count": 100,
+    "has_references": false
+  },
+  {
+    "id": "map_28",
+    "title": "NICE-SUGAR-2009",
+    "specialty": "Estudios Pivotales",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1666",
+    "title": "Neoplasias malignas linfoides",
+    "specialty": "General",
+    "node_count": 63,
+    "has_references": false
+  },
+  {
+    "id": "map_1626",
+    "title": "Neurobiología del sueño",
+    "specialty": "Continuum",
+    "node_count": 296,
+    "has_references": false
+  },
+  {
+    "id": "map_1082",
+    "title": "Neuroimagen en demencia",
+    "specialty": "Continuum",
+    "node_count": 815,
+    "has_references": false
+  },
+  {
+    "id": "map_1590",
+    "title": "Neuroimagenes en Ictus",
+    "specialty": "Neurología",
+    "node_count": 217,
+    "has_references": false
+  },
+  {
+    "id": "map_1038",
+    "title": "Neuroimágenes Demencia | 2023",
+    "specialty": "Neurología",
+    "node_count": 261,
+    "has_references": false
+  },
+  {
+    "id": "map_1632",
+    "title": "Nistagmus",
+    "specialty": "General",
+    "node_count": 178,
+    "has_references": false
+  },
+  {
+    "id": "map_1538",
+    "title": "NÓDULOS TIROIDEOS",
+    "specialty": "General",
+    "node_count": 252,
+    "has_references": false
+  },
+  {
+    "id": "map_1540",
+    "title": "OFTALMOPATÍA DISTIROIDEA (ODT)",
+    "specialty": "General",
+    "node_count": 163,
+    "has_references": false
+  },
+  {
+    "id": "map_3",
+    "title": "OPERAM (2021)",
+    "specialty": "Geriatría",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1021",
+    "title": "OSTEOPOROSIS POSMENOPÁUSICA",
+    "specialty": "General",
+    "node_count": 200,
+    "has_references": false
+  },
+  {
+    "id": "map_335",
+    "title": "OXYGEN-ICU-2016",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_933",
+    "title": "Optima dosis y tipo de ejercicio para mejorar la velocidad de marcha en Párkinson",
+    "specialty": "General",
+    "node_count": 140,
+    "has_references": false
+  },
+  {
+    "id": "map_1176",
+    "title": "Orexin Receptor Antagonism: Normalizing Sleep Architecture in Old Age and Disease",
+    "specialty": "General",
+    "node_count": 344,
+    "has_references": false
+  },
+  {
+    "id": "map_1096",
+    "title": "Otago Exercise Program",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_24",
+    "title": "PARADIGM-HF-2014",
+    "specialty": "Estudios Pivotales",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1490",
+    "title": "PATOLOGÍA SUPRARRENAL",
+    "specialty": "General",
+    "node_count": 1496,
+    "has_references": false
+  },
+  {
+    "id": "map_337",
+    "title": "PICS-2012",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_330",
+    "title": "PODCAST (2019)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1333",
+    "title": "PROA. Infecciones del Torrente Sanguíneo",
+    "specialty": "General",
+    "node_count": 178,
+    "has_references": false
+  },
+  {
+    "id": "map_341",
+    "title": "PROFUND-2011",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1521",
+    "title": "PROLACTINOMA",
+    "specialty": "General",
+    "node_count": 262,
+    "has_references": false
+  },
+  {
+    "id": "map_1542",
+    "title": "PROLACTINOMA",
+    "specialty": "General",
+    "node_count": 264,
+    "has_references": false
+  },
+  {
+    "id": "map_343",
+    "title": "PROSEVA (2013)",
+    "specialty": "General",
+    "node_count": 24,
+    "has_references": false
+  },
+  {
+    "id": "map_21",
+    "title": "PROSPER-2002",
+    "specialty": "Geriatría",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_1024",
+    "title": "Papiledema",
+    "specialty": "General",
+    "node_count": 186,
+    "has_references": false
+  },
+  {
+    "id": "map_1650",
+    "title": "Parkinsonismo",
+    "specialty": "General",
+    "node_count": 301,
+    "has_references": false
+  },
+  {
+    "id": "map_728",
+    "title": "Parte I. Fragilidad y conceptos relacionados: una visión general",
+    "specialty": "General",
+    "node_count": 318,
+    "has_references": false
+  },
+  {
+    "id": "map_1053",
+    "title": "Polifarmacia",
+    "specialty": "General",
+    "node_count": 290,
+    "has_references": false
+  },
+  {
+    "id": "map_314",
+    "title": "Por qué investigar y cómo conducir una investigación (Manterola & Otzen, 2013)",
+    "specialty": "General",
+    "node_count": 116,
+    "has_references": false
+  },
+  {
+    "id": "map_1628",
+    "title": "Porth 10ed. 13. Organización y Control de la Función Neural",
+    "specialty": "General",
+    "node_count": 980,
+    "has_references": false
+  },
+  {
+    "id": "map_1648",
+    "title": "Porth 10ed. 14. Sistema Somatosensitivo: Organización y Función",
+    "specialty": "General",
+    "node_count": 95,
+    "has_references": false
+  },
+  {
+    "id": "map_704",
+    "title": "Porth. Organización y Control de la Función Neural",
+    "specialty": "General",
+    "node_count": 808,
+    "has_references": false
+  },
+  {
+    "id": "map_926",
+    "title": "Pregunta de investigación",
+    "specialty": "General",
+    "node_count": 119,
+    "has_references": false
+  },
+  {
+    "id": "map_1075",
+    "title": "Presentaciones Atípicas de la Enfermedad de Alzheimer (EA)",
+    "specialty": "Continuum",
+    "node_count": 317,
+    "has_references": false
+  },
+  {
+    "id": "map_754",
+    "title": "Presentación DV",
+    "specialty": "General",
+    "node_count": 441,
+    "has_references": false
+  },
+  {
+    "id": "map_365",
+    "title": "Primer paso: la pregunta clinica en Medicina Basada en Evidencia (MBE)",
+    "specialty": "General",
+    "node_count": 43,
+    "has_references": false
+  },
+  {
+    "id": "map_1594",
+    "title": "Primeras convulsiones, convulsiones repetitivas agudas y estado epiléptico",
+    "specialty": "Continuum",
+    "node_count": 366,
+    "has_references": false
+  },
+  {
+    "id": "map_930",
+    "title": "Principales diseños de investigación",
+    "specialty": "General",
+    "node_count": 141,
+    "has_references": false
+  },
+  {
+    "id": "map_1371",
+    "title": "Pruebas de Susceptibilidad Antimicrobiana (AST)",
+    "specialty": "General",
+    "node_count": 115,
+    "has_references": false
+  },
+  {
+    "id": "map_722",
+    "title": "RECOVERY (2020)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_788",
+    "title": "REDUCE Trial",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1659",
+    "title": "Rehabilitación de accidentes cerebrovasculares y recuperación motora",
+    "specialty": "Continuum",
+    "node_count": 397,
+    "has_references": false
+  },
+  {
+    "id": "map_327",
+    "title": "SAVE-Score-2015",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_342",
+    "title": "SELECT (2023)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1380",
+    "title": "SEPSIS Y SHOCK SÉPTICO  Dic 2024",
+    "specialty": "General",
+    "node_count": 541,
+    "has_references": false
+  },
+  {
+    "id": "map_339",
+    "title": "SHEP (1991)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_30",
+    "title": "SPRINT-2015",
+    "specialty": "Cardiología",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_27",
+    "title": "SPRINTT (2021)",
+    "specialty": "Cardiología",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1161",
+    "title": "STEP (2021)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_19",
+    "title": "STOPP-START-v2-2015",
+    "specialty": "Geriatría",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_23",
+    "title": "STOPP/START v2 (2015)",
+    "specialty": "Geriatría",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_319",
+    "title": "STRIDE (2020)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_5",
+    "title": "SUPPORT (1995)",
+    "specialty": "Estudios Pivotales",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1585",
+    "title": "Sd. Frontales",
+    "specialty": "General",
+    "node_count": 274,
+    "has_references": false
+  },
+  {
+    "id": "map_259",
+    "title": "Somnoliento e insomnio",
+    "specialty": "Continuum",
+    "node_count": 346,
+    "has_references": false
+  },
+  {
+    "id": "map_347",
+    "title": "Syst-Eur (1997)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1627",
+    "title": "SÍNDROMES NEUROPSIQUIÁTRICOS (NPS) EN TRASTORNOS NEURODEGENERATIVOS (NDD) (Review JAMA Neurol 2024)",
+    "specialty": "Neurología",
+    "node_count": 410,
+    "has_references": false
+  },
+  {
+    "id": "map_1644",
+    "title": "Síndrome de Horner",
+    "specialty": "General",
+    "node_count": 302,
+    "has_references": false
+  },
+  {
+    "id": "map_699",
+    "title": "Síndrome de advertencia capsular: riesgo hasta 40% en 7 días",
+    "specialty": "General",
+    "node_count": 26,
+    "has_references": false
+  },
+  {
+    "id": "map_1409",
+    "title": "Síndrome de antidiuresis inapropiada  Secreción inapropiada de hormona antidiurética (SIADH)",
+    "specialty": "General",
+    "node_count": 220,
+    "has_references": false
+  },
+  {
+    "id": "map_1123",
+    "title": "Síndromes vasculares de arterias intra y extracraniales",
+    "specialty": "General",
+    "node_count": 107,
+    "has_references": false
+  },
+  {
+    "id": "map_322",
+    "title": "TEAM-2023",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_261",
+    "title": "TRASTORNOS DE LA CALCEMIA",
+    "specialty": "General",
+    "node_count": 376,
+    "has_references": false
+  },
+  {
+    "id": "map_1168",
+    "title": "TRASTORNOS DE LA MEMBRANA DE LOS ERITROCITOS",
+    "specialty": "General",
+    "node_count": 76,
+    "has_references": false
+  },
+  {
+    "id": "map_340",
+    "title": "TRICC (1999)",
+    "specialty": "Cardiología",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1400",
+    "title": "TROMBOPOYESIS",
+    "specialty": "General",
+    "node_count": 107,
+    "has_references": false
+  },
+  {
+    "id": "map_331",
+    "title": "TTM-2013",
+    "specialty": "General",
+    "node_count": 9,
+    "has_references": false
+  },
+  {
+    "id": "map_773",
+    "title": "Temel (2010)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_1394",
+    "title": "Texto Importado",
+    "specialty": "General",
+    "node_count": 927,
+    "has_references": false
+  },
+  {
+    "id": "map_1617",
+    "title": "Trastornos Neurocognitivos Asociados al VIH (HAND)",
+    "specialty": "General",
+    "node_count": 98,
+    "has_references": false
+  },
+  {
+    "id": "map_1154",
+    "title": "Trombosis Venosa Cerebral",
+    "specialty": "General",
+    "node_count": 63,
+    "has_references": false
+  },
+  {
+    "id": "map_1462",
+    "title": "UTD - Enfoque Diagnóstico de Anemia en Adultos",
+    "specialty": "General",
+    "node_count": 168,
+    "has_references": false
+  },
+  {
+    "id": "map_1434",
+    "title": "UTD - Enfoque Diagnóstico de Neutropenia en Adultos",
+    "specialty": "General",
+    "node_count": 180,
+    "has_references": false
+  },
+  {
+    "id": "map_1448",
+    "title": "UTD - Enfoque Diagnóstico de Pancitopenia en Adultos",
+    "specialty": "General",
+    "node_count": 154,
+    "has_references": false
+  },
+  {
+    "id": "map_1438",
+    "title": "UTD - Enfoque Diagnóstico de Trombocitopenia en Adultos",
+    "specialty": "General",
+    "node_count": 152,
+    "has_references": false
+  },
+  {
+    "id": "map_1460",
+    "title": "UTD - Evaluación del Frotis de Sangre Periférica",
+    "specialty": "General",
+    "node_count": 145,
+    "has_references": false
+  },
+  {
+    "id": "map_1654",
+    "title": "UTD CADASIL",
+    "specialty": "General",
+    "node_count": 288,
+    "has_references": false
+  },
+  {
+    "id": "map_1582",
+    "title": "UTD Ictus",
+    "specialty": "General",
+    "node_count": 869,
+    "has_references": false
+  },
+  {
+    "id": "map_1349",
+    "title": "VIH (2024)",
+    "specialty": "General",
+    "node_count": 474,
+    "has_references": false
+  },
+  {
+    "id": "map_1069",
+    "title": "VIH, Envejecimiento y Cognición: Interacciones entre VIH y Enfermedad de Alzheimer",
+    "specialty": "General",
+    "node_count": 222,
+    "has_references": false
+  },
+  {
+    "id": "map_804",
+    "title": "VIP1 y VIP2 (2017-2020)",
+    "specialty": "General",
+    "node_count": 10,
+    "has_references": false
+  },
+  {
+    "id": "map_349",
+    "title": "Validez de una investigación",
+    "specialty": "General",
+    "node_count": 102,
+    "has_references": false
+  },
+  {
+    "id": "map_353",
+    "title": "Variables y Medidas de Frecuencia",
+    "specialty": "General",
+    "node_count": 433,
+    "has_references": false
+  },
+  {
+    "id": "map_789",
+    "title": "ViviFrail",
+    "specialty": "Geriatría",
+    "node_count": 77,
+    "has_references": false
+  },
+  {
+    "id": "map_1607",
+    "title": "Vértigo",
+    "specialty": "General",
+    "node_count": 336,
+    "has_references": false
+  },
+  {
+    "id": "map_694",
+    "title": "v",
+    "specialty": "General",
+    "node_count": 1020,
+    "has_references": false
+  }
 ]
