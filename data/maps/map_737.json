@@ -1,0 +1,3717 @@
+{
+  "title": "Microangiopatía trombótica",
+  "guid": "136FB26EB9D2CDE3716DA98D",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Microangiopatía trombótica-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Microangiopatía\ntrombótica",
+    "guid": "tmLEnJT8TAhqkKGOq88mWw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Pruebas de Coombs\n(Pruebas de Antiglobulina)",
+        "guid": "6-6NuJKo2o8ie11SaKyYcA",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Descripción:",
+            "guid": "ffuGc1tbwjybhEJBF1PZcw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Se añade reactivo especial (suero de Coombs) a muestras de sangre",
+                "guid": "0HvZyRHEuYkrV6xaEtXSKw",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Contiene antiglobulinas humanas (AGHs) que detectan y se adhieren a proteínas inmunes",
+                "guid": "IqeC5-T7eUvMQ2ouppEMuQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- AGHs tienen 2 sitios de unión para mediar hemólisis (anticuerpos IgG y/o complemento)",
+                "guid": "zDyxi3JbSDll28eqtivH8g",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "- Si estas proteínas recubren la superficie de eritrocitos → AGHs causan aglutinación",
+                "guid": "tNQdHAksEuWN0R6Ghrr1sQ",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "- Si no hay proteínas presentes → AGHs no se unen",
+                "guid": "9evbyNYgHuTA0hltPMbJmA",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "2",
+                "text": "- Aglutinación de eritrocitos = resultado positivo",
+                "guid": "riYvoGY-S-Wo_9k8eM9fqw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "2",
+                "text": "- Ausencia de aglutinación = resultado negativo",
+                "guid": "HeB1Kj5E3uLAHeElIPYgcw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "parent": "1",
+            "text": "Pruebas de Coombs\ndirecta e indirecta",
+            "guid": "eQb4jriE0kfVdvZn2XGGKg",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "Prueba de Coombs\ndirecta (PCD)",
+                "guid": "LffVwmdbUNWnagEB6EU9zg",
+                "children": [
+                  {
+                    "id": "12",
+                    "parent": "11",
+                    "text": "- Prueba clave en estudio de anemia hemolítica",
+                    "guid": "45wVPy8Z6B2lIcB5oqnDGw",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "11",
+                    "text": "- Objetivo:",
+                    "guid": "v_Nzhm8dGys3trIWkVbpPQ",
+                    "children": [
+                      {
+                        "id": "14",
+                        "parent": "13",
+                        "text": "- Detección de anticuerpos y/o proteínas del complemento en superficie de eritrocitos",
+                        "guid": "co57SbEPkh0tWDcmkaHuhA",
+                        "children": []
+                      },
+                      {
+                        "id": "15",
+                        "parent": "13",
+                        "text": "- Diferenciar\ndos grupos:",
+                        "guid": "jDJjL1GpJhqefsYyzyolmA",
+                        "children": [
+                          {
+                            "id": "16",
+                            "parent": "15",
+                            "text": "- Hemólisis mediada por anticuerpos",
+                            "guid": "D2gNixfDEwZAzkXE2MMWHQ",
+                            "children": []
+                          },
+                          {
+                            "id": "17",
+                            "parent": "15",
+                            "text": "- Hemólisis no mediada por anticuerpos",
+                            "guid": "_CW39KuyafjaBJNXNNICJw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "18",
+                    "parent": "11",
+                    "text": "- Indicaciones:",
+                    "guid": "9OtOVpXRViJZglIO4RmvrA",
+                    "children": [
+                      {
+                        "id": "19",
+                        "parent": "18",
+                        "text": "- Todos los pacientes con hemólisis",
+                        "guid": "c6YvgziRJEVszJHv2L-KDA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "20",
+                    "parent": "11",
+                    "text": "- Método:",
+                    "guid": "4zrh2JRyWrggdLjgv2WheQ",
+                    "children": [
+                      {
+                        "id": "21",
+                        "parent": "20",
+                        "text": "- Muestra de sangre purificada para obtener solo eritrocitos",
+                        "guid": "PewbW4OgZoUZ7EFtpK3bgQ",
+                        "children": []
+                      },
+                      {
+                        "id": "22",
+                        "parent": "20",
+                        "text": "- Se añade suero de Coombs → AGHs se unen a anticuerpos/complemento en eritrocitos → aglutinación",
+                        "guid": "CcDe7mqtHJiv6bjPI_C5uA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23",
+                    "parent": "11",
+                    "text": "- Resultado\npositivo:",
+                    "guid": "pDSoajZKwis2gahwHvyqJA",
+                    "children": [
+                      {
+                        "id": "24",
+                        "parent": "23",
+                        "text": "- Indica eritrocitos recubiertos por autoanticuerpos y/o complemento causantes de hemólisis",
+                        "guid": "qjl6pxTaRRoOXd3xDnkuNg",
+                        "children": []
+                      },
+                      {
+                        "id": "25",
+                        "parent": "23",
+                        "text": "- Etiologías:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "26",
+                            "parent": "25",
+                            "text": "- Anemia hemolítica autoinmune (AHAI caliente o fría)",
+                            "guid": "OlfQDeozawDKJ5staOVUAQ",
+                            "children": []
+                          },
+                          {
+                            "id": "27",
+                            "parent": "25",
+                            "text": "- Anemia hemolítica aloinmune",
+                            "guid": "pdgOTYqOVsRsr3yPCthJMg",
+                            "children": []
+                          },
+                          {
+                            "id": "28",
+                            "parent": "25",
+                            "text": "- Reacción transfusional",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "29",
+                            "parent": "25",
+                            "text": "- Enfermedad hemolítica del recién nacido",
+                            "guid": "qcw7f4Ihfjmed4Nnkb5nHg",
+                            "children": []
+                          },
+                          {
+                            "id": "30",
+                            "parent": "25",
+                            "text": "- Anemia hemolítica autoinmune inducida por fármacos\n(methyldopa, penicilina, cefalosporina, AINEs, inmunoterapia, quimioterapia)",
+                            "guid": "zWsC-ISywRV4aKaqWD-OFw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "31",
+                    "parent": "11",
+                    "text": "- Resultado negativo:",
+                    "guid": "yCvQcyU8RBc_arH2qsc6zQ",
+                    "children": [
+                      {
+                        "id": "32",
+                        "parent": "31",
+                        "text": "- Sugiere hemólisis no mediada por anticuerpos",
+                        "guid": "W3FCYgH2vZOWlEW1n_1maQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "parent": "10",
+                "text": "Prueba de\nCoombs indirecta",
+                "guid": "8TQE-PWiIhApmi58F8xGcQ",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "- Objetivo:",
+                    "guid": "t5gOgkdMpZOxrT3aaM9HOA",
+                    "children": [
+                      {
+                        "id": "35",
+                        "parent": "34",
+                        "text": "- Detección de anticuerpos\nanti-eritrocitos en suero de:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "36",
+                            "parent": "35",
+                            "text": "- Receptores de transfusiones",
+                            "guid": "aQJXmKxiv3GrKlyMLdNQQw",
+                            "children": []
+                          },
+                          {
+                            "id": "37",
+                            "parent": "35",
+                            "text": "- Pacientes con enfermedad hemolítica del feto y recién nacido (EHFRN)",
+                            "guid": "PAFZweuOWGmxUnIHcyR9uQ",
+                            "children": []
+                          },
+                          {
+                            "id": "38",
+                            "parent": "35",
+                            "text": "- Mujeres embarazadas en riesgo de desarrollar anticuerpos causantes de EHFRN",
+                            "guid": "ZVRGZlWkt7loyRMfpll4bw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "39",
+                    "parent": "33",
+                    "text": "- Indicaciones:",
+                    "guid": "IbmINIlZXNo2x0sVF59gcQ",
+                    "children": [
+                      {
+                        "id": "40",
+                        "parent": "39",
+                        "text": "- Pacientes que requieren pruebas pretransfusionales (tipificación sanguínea)",
+                        "guid": "KZcK_SZHbNTG2mpi19hHFA",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "39",
+                        "text": "- Pacientes con sospecha de reacciones transfusionales",
+                        "guid": "PI91Btie8153cc0BSUZxJw",
+                        "children": []
+                      },
+                      {
+                        "id": "42",
+                        "parent": "39",
+                        "text": "- Recién nacidos con signos de hemólisis",
+                        "guid": "CrQy3qNuEGxl08NMgK9FUA",
+                        "children": []
+                      },
+                      {
+                        "id": "43",
+                        "parent": "39",
+                        "text": "- Detección en madres Rh-negativas para determinar si está indicada inmunoglobulina anti-D",
+                        "guid": "3n3oHQzJgK589tN31_DlvA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "44",
+                    "parent": "33",
+                    "text": "- Método:",
+                    "guid": "N5Nu3ZwAgpB6sXqIeaoBlg",
+                    "children": [
+                      {
+                        "id": "45",
+                        "parent": "44",
+                        "text": "- Muestra de sangre purificada para obtener solo suero",
+                        "guid": "h4I63do-mhlKJaKjtlB7aw",
+                        "children": []
+                      },
+                      {
+                        "id": "46",
+                        "parent": "44",
+                        "text": "- Incubación del suero con eritrocitos de prueba",
+                        "guid": "WMzKxC9JuOqBvjI6DILjgg",
+                        "children": []
+                      },
+                      {
+                        "id": "47",
+                        "parent": "44",
+                        "text": "- Si hay anticuerpos anti-eritrocitos en suero → se unen a eritrocitos de prueba",
+                        "guid": "4VMpNlHX66YvGvbxCLLJnA",
+                        "children": []
+                      },
+                      {
+                        "id": "48",
+                        "parent": "44",
+                        "text": "- Se añade suero de Coombs → AGHs se unen a anticuerpos unidos a eritrocitos → aglutinación",
+                        "guid": "ci533a0X8ILbnZFyF49HEg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "49",
+                    "parent": "33",
+                    "text": "- Resultado\npositivo:",
+                    "guid": "7nZFFGRrPGkmJgoOpHWXQA",
+                    "children": [
+                      {
+                        "id": "50",
+                        "parent": "49",
+                        "text": "- Indica presencia de anticuerpos anti-eritrocitos circulantes en suero",
+                        "guid": "DhJXTM7ChXLvq-KaWweHmQ",
+                        "children": []
+                      },
+                      {
+                        "id": "51",
+                        "parent": "49",
+                        "text": "- Pueden ser responsables de EHFRN o reacciones transfusionales",
+                        "guid": "M2OwtgvHHMqndRLlA8WNsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "49",
+                        "text": "- Etiologías:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "53",
+                            "parent": "52",
+                            "text": "- Aloinmunización por eritrocitos en receptores de transfusiones o recién nacidos",
+                            "guid": "cABbOYgu4PkINQObq502LA",
+                            "children": []
+                          },
+                          {
+                            "id": "54",
+                            "parent": "52",
+                            "text": "- Aloinmunización materna",
+                            "guid": "KA6dFazzGt0v7lZaWsk2Rw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "55",
+                    "parent": "33",
+                    "text": "- Resultado negativo:",
+                    "guid": "qoyHlLpQ82poAdrYpkTFsw",
+                    "children": [
+                      {
+                        "id": "56",
+                        "parent": "55",
+                        "text": "- Sin anticuerpos anti-eritrocitos detectables",
+                        "guid": "UVESYjsMmH14qdxNyL-SsA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "1",
+            "text": "### Diferencias entre\npruebas de Coombs",
+            "guid": "Fhn13lr6gXye8QPiAdE4Ew",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "- Aplicaciones\nclínicas:",
+                "guid": "oLzneEC6GPcUYD66pUd99Q",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "- Directa:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "60",
+                        "parent": "59",
+                        "text": "- Estudio de anemia hemolítica",
+                        "guid": "q2LDY94NqE0DW2RfhOKw3w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "61",
+                    "parent": "58",
+                    "text": "- Indirecta:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "62",
+                        "parent": "61",
+                        "text": "- Medicina transfusional (estudio y prevención de reacciones)",
+                        "guid": "0vU7WrMYIA6NfzDSoG77Zg",
+                        "children": []
+                      },
+                      {
+                        "id": "63",
+                        "parent": "61",
+                        "text": "- Atención perinatal (estudio y prevención de EHFRN)",
+                        "guid": "hVbZsjatJWgT3z9V09JSJw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "64",
+                "parent": "57",
+                "text": "- Ubicación de\nanticuerpos detectados:",
+                "guid": "3ca0SK5sOAKgjPMylss2xA",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "- Directa: Superficie de eritrocitos",
+                    "guid": "-WfT3np82ByezgqrRuJalg",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "64",
+                    "text": "- Indirecta: Suero",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "57",
+                "text": "- Suero de Coombs\nañadido a:",
+                "guid": "8wOabmeG6oAzTfzBZYeoTw",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "- Directa: Eritrocitos purificados del paciente",
+                    "guid": "6qjxb3L057wkUaVMYnM1dw",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "- Indirecta: Suero purificado del paciente mezclado con eritrocitos de prueba",
+                    "guid": "M-iOzKwKA5H9vAGS2g9hqA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70",
+                "parent": "57",
+                "text": "- AGHs en suero de\nCoombs se unen a:",
+                "guid": "DM9bRjjm8UahDKiBnComNg",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "- Directa: Anticuerpos y/o complemento que ya recubren eritrocitos del paciente",
+                    "guid": "STGoP98-0SszGUmQO0zikQ",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "- Indirecta: Anticuerpos del paciente unidos a eritrocitos de prueba",
+                    "guid": "WUi593LjGFlSRvy78CuUig",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "parent": "0",
+        "text": "Trombocitopenia",
+        "guid": "CuxEVHwvNKQ3NUAeG0sh9A",
+        "children": [
+          {
+            "id": "74",
+            "parent": "73",
+            "text": "Común y generalmente\nmultifactorial en pacientes mayores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "75",
+            "parent": "73",
+            "text": "Diagnóstico diferencial debe incluir\ncondiciones potencialmente mortales",
+            "guid": "",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "Microangiopatías\nhemolíticas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "Coagulación intravascular\ndiseminada (CID)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "Púrpura trombocitopénica\ntrombótica (PTT)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "76",
+                    "text": "Síndrome hemolítico\nurémico (SHU)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "76",
+                    "text": "Trombocitopenia inducida\npor heparina (TIH)",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "parent": "73",
+            "text": "Consideraciones técnicas",
+            "guid": "",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "Agregación plaquetaria (causa\nartifactual de recuento bajo)",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "Necesidad de extraer nuevamente sangre\nen tubo con heparina o citrato",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "parent": "73",
+            "text": "Coagulación intravascular\ndiseminada (CID)",
+            "guid": "",
+            "children": [
+              {
+                "id": "85",
+                "parent": "84",
+                "text": "Asociada con infecciones\ngraves o cáncer diseminado",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "84",
+                "text": "Características: hemólisis intravascular\ny coagulopatía de consumo",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "84",
+                "text": "Hallazgos diagnósticos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "Fragmentación\nde eritrocitos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "87",
+                    "text": "Trombocitopenia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "87",
+                    "text": "Hemosiderinuria",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "87",
+                    "text": "Tiempos prolongados de\nprotrombina y tromboplastina parcial",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92",
+                "parent": "84",
+                "text": "Tratamiento",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "93",
+                    "parent": "92",
+                    "text": "Tratar\nenfermedad\nsubyacente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "92",
+                    "text": "Proporcionar\nproductos\nsanguíneos",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "95",
+                        "parent": "94",
+                        "text": "Plasma fresco congelado",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "94",
+                        "text": "Crioprecipitado (si\nfibrinógeno <100 mg/dL)",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "parent": "73",
+            "text": "Púrpura trombocitopénica\ntrombótica (PTT) y SHU",
+            "guid": "",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "Características comunes",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "Hemólisis\nmicroangiopática",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "98",
+                    "text": "Trombocitopenia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "101",
+                "parent": "97",
+                "text": "Diferencias",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "PTT: síntomas\nneurológicos y disfunción\nrenal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "SHU: predominantemente\ncompromiso renal",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "104",
+                "parent": "97",
+                "text": "Fisiopatología de PTT",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "Disminución marcada de\nADAMTS13, enzima que\nescinde factor von Willebrand",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "104",
+                    "text": "Causas",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "107",
+                        "parent": "106",
+                        "text": "Idiopática (40% de casos)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "108",
+                        "parent": "106",
+                        "text": "Autoinmune, infección\no cáncer (27%)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "109",
+                        "parent": "106",
+                        "text": "Inducida por\nfármacos (12%)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "110",
+                        "parent": "106",
+                        "text": "Embarazo (7%)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "111",
+                        "parent": "106",
+                        "text": "Trasplante de células madre\nhematopoyéticas (6%)",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "112",
+                "parent": "97",
+                "text": "Consideraciones clínicas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "SHU puede ser precedido por episodio de diarrea",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "Asociado con E. coli productora de toxina Shiga o infección neumocócica",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "112",
+                    "text": "Difícil distinguir entre PTT y SHU en adultos al inicio",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "112",
+                    "text": "Tratamiento inicial similar: cuidados de soporte y plasma fresco o crioprecipitado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "112",
+                    "text": "PTT responde a intercambio plasmático; SHU relativamente resistente",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "118",
+            "parent": "73",
+            "text": "Trombocitopenia inducida\npor heparina (TIH)",
+            "guid": "",
+            "children": [
+              {
+                "id": "119",
+                "parent": "118",
+                "text": "Desarrollo tras exposición a productos con heparina",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "118",
+                "text": "Mecanismo",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "Anticuerpos se unen a complejos\nfactor 4 plaquetario-heparina",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "Unión posterior a\nreceptores Fc en\nplaquetas",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "Activación\nplaquetaria\nresultante",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "124",
+                "parent": "118",
+                "text": "Sospecha clínica",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "5-10 días después de\nexposición a heparina",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "Nuevo inicio de trombocitopenia\n(30-50% de disminución)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "124",
+                    "text": "Trombosis\narterial o venosa",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "128",
+                "parent": "118",
+                "text": "Evaluación de riesgo",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "Escala 4Ts\n(Tiempo/Trombocitopenia/Trombosis/otras\ncausas)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "Ayuda a decidir procedimientos\ndiagnósticos adicionales",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "131",
+                "parent": "118",
+                "text": "Diagnóstico",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "132",
+                    "parent": "131",
+                    "text": "Confirmado mediante\nensayos funcionales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "131",
+                    "text": "Evaluación de capacidad del\nanticuerpo PF4-heparina para\nunirse y activar plaquetas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "118",
+                "text": "Tratamiento",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "Urgente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "Uso de inhibidores\ndirectos de trombina",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "137",
+        "parent": "0",
+        "text": "ANEMIA HEMOLÍTICA\nMACROANGIOPÁTICA",
+        "guid": "fVGZACgtQS9VTYh9SqKSmg",
+        "children": [
+          {
+            "id": "138",
+            "parent": "137",
+            "text": "Etiología",
+            "guid": "DxMlCkUo5tpvDioUnZ6ggg",
+            "children": [
+              {
+                "id": "139",
+                "parent": "138",
+                "text": "- Anomalías cardiovasculares congénitas (válvula aórtica bicúspide, coartación aórtica)",
+                "guid": "GXKzboMzuRegu9_hLRmwOQ",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "138",
+                "text": "- Estenosis aórtica moderada y severa",
+                "guid": "46hztdqqXNUXW-mOY2QUeQ",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "138",
+                "text": "- Válvulas cardíacas protésicas",
+                "guid": "BUSIyIHWcXM1tdVeXkKtVQ",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "138",
+                "text": "- Circulación extracorpórea, diálisis",
+                "guid": "1OlyWL781kQfWHpVaT42iQ",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "138",
+                "text": "- Hemoglobinuria por esfuerzo (\"hemoglobinuria de marcha\")",
+                "guid": "kH5gKWoXH3epdk_wBLxtuA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "144",
+            "parent": "137",
+            "text": "Fisiopatología",
+            "guid": "9mn57QP6VOFxVprD9jT3rQ",
+            "children": [
+              {
+                "id": "145",
+                "parent": "144",
+                "text": "- Destrucción de eritrocitos en circulación sistémica (vasos grandes)",
+                "guid": "2kkDm7jYCSRFwbGmwDLAZg",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "144",
+                "text": "- Fuerzas mecánicas aplicadas a membrana eritrocitaria",
+                "guid": "2V5iHmJyKdBf334CH9PIZQ",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "144",
+                "text": "- Hemólisis intravascular, esquistocitos, ↑ Hb libre",
+                "guid": "18JLcQCi4jU9B6GCf__fMg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "148",
+            "parent": "137",
+            "text": "Características clínicas",
+            "guid": "Uxb7xu3o7wqbUoRbP0Y-0A",
+            "children": [
+              {
+                "id": "149",
+                "parent": "148",
+                "text": "- Características de anemia (palidez, fatiga)",
+                "guid": "dX0-4e870YpMVjejTYqXXw",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "148",
+                "text": "- Ictericia",
+                "guid": "Nsn8R6ce0Wr3WyuXc3NVjA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "parent": "137",
+            "text": "Diagnóstico",
+            "guid": "CaBVE8I-SIZvNW2AvcCi1Q",
+            "children": [
+              {
+                "id": "152",
+                "parent": "151",
+                "text": "- Evidencia de hemólisis (↑ Bilirrubina indirecta, ↑ LDH, ↓ haptoglobina, reticulocitosis)",
+                "guid": "zKSUZ39-d6AFMEEqETZKsw",
+                "children": []
+              },
+              {
+                "id": "153",
+                "parent": "151",
+                "text": "- PAD: Negativa",
+                "guid": "TDEANGYttoC2GxqRGtoirA",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "151",
+                "text": "- Frotis sanguíneo: Esquistocitos",
+                "guid": "V3ihL-k5PxrJLn9tA6EaAg",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "151",
+                "text": "- Considerar ecocardiografía",
+                "guid": "73_zI2SzdZhA5B0lNkRLaw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "156",
+            "parent": "137",
+            "text": "Tratamiento",
+            "guid": "elEgiZsAOtWUYGjSdB-eAw",
+            "children": [
+              {
+                "id": "157",
+                "parent": "156",
+                "text": "- Abordar la causa subyacente",
+                "guid": "y4igrCgXSCf6zaCRuxkFbw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "ANEMIA HEMOLÍTICA\nMICROANGIOPÁTICA\n(AHMA)",
+        "guid": "r5sUmiSkw4OiDzb1moUZmA",
+        "children": [
+          {
+            "id": "159",
+            "parent": "158",
+            "text": "Antecedentes",
+            "guid": "1sWVih_yMisLutJ5sSImSQ",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "- Forma de anemia hemolítica por destrucción mecánica de eritrocitos",
+                "guid": "BP71OfwG8P4T_JMgB-RAcw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "161",
+            "parent": "158",
+            "text": "Etiología",
+            "guid": "OiBWEB-YtyZ4Ti8bGhyczw",
+            "children": [
+              {
+                "id": "162",
+                "parent": "161",
+                "text": "- AHMA\nprimaria:",
+                "guid": "mhxsZvT1YOi-F1cb2nYQpA",
+                "children": [
+                  {
+                    "id": "163",
+                    "parent": "162",
+                    "text": "- Púrpura trombocitopénica trombótica (PTT)",
+                    "guid": "ApGdDSXYwNTUYc-3ePAEhQ",
+                    "children": []
+                  },
+                  {
+                    "id": "164",
+                    "parent": "162",
+                    "text": "- Síndrome hemolítico urémico (SHU)",
+                    "guid": "MXtj06y8P-cit14Q4Pfeog",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "165",
+                "parent": "161",
+                "text": "- AHMA\nsecundaria:",
+                "guid": "6wHHgQmGpoAaFjfL9JUXLA",
+                "children": [
+                  {
+                    "id": "166",
+                    "parent": "165",
+                    "text": "- Enfermedad autoinmune (ej. LES)",
+                    "guid": "g2o2AR11s_KxI4Ah7YttPQ",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "165",
+                    "text": "- Síndrome HELLP",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "168",
+                    "parent": "165",
+                    "text": "- Emergencia hipertensiva",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "165",
+                    "text": "- Coagulación intravascular diseminada (CID)",
+                    "guid": "zMe3IGH7dSrr8yQtrRLcPg",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "165",
+                    "text": "- Anemia hemolítica inducida por fármacos (quinina, trimetoprima/sulfametoxazol, ciclosporina)",
+                    "guid": "gA-6ZKYjJDu1mWKFarZiFA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "171",
+            "parent": "158",
+            "text": "Fisiopatología",
+            "guid": "LwbwXaGwPDvKoxaa9pvIgA",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "- Microtrombos sistémicos obstruyen vasos pequeños",
+                "guid": "_9l7nfZuVUW13_afN2HsTA",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "171",
+                "text": "- Cizallamiento intravascular físico de eritrocitos al pasar por vasos pequeños",
+                "guid": "w7W4A3XXaJMZqUOsPMXNOw",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "171",
+                "text": "- Hemólisis intravascular, esquistocitos y ↑ Hb libre",
+                "guid": "_K0AZC4xSbzoFIESKDm3lg",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "171",
+                "text": "- Característicamente acompañada por trombocitopenia",
+                "guid": "9ECE_NGJmRn2Cvb4s9bwIg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "158",
+            "text": "Características\nclínicas",
+            "guid": "JnCBBFhtwpuMUhYUl3tPkA",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "- Características de anemia (palidez, fatiga)",
+                "guid": "BN-E0PLZlaMma4v_4imKdw",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "- Ictericia",
+                "guid": "A72fmemV88w6gsfNqj0xJA",
+                "children": []
+              },
+              {
+                "id": "179",
+                "parent": "176",
+                "text": "- Disfunción orgánica por formación de microtrombos (disfunción renal, alteración del estado mental)",
+                "guid": "4gay7jWRCZE9e0n-Wc2cyw",
+                "children": []
+              },
+              {
+                "id": "180",
+                "parent": "176",
+                "text": "- Petequias por trombocitopenia",
+                "guid": "_6bkHh8IOx9R7V62ZktrXw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "181",
+            "parent": "158",
+            "text": "Diagnóstico de\nAHMA sospechada",
+            "guid": "RpjxQDdzPpoqFq07l1R0Dw",
+            "children": [
+              {
+                "id": "182",
+                "parent": "181",
+                "text": "- Considerar AHMA en\npacientes con:",
+                "guid": "XKrCjcuxCm3fsSUn46U41g",
+                "children": [
+                  {
+                    "id": "183",
+                    "parent": "182",
+                    "text": "- Hemograma mostrando anemia y trombocitopenia",
+                    "guid": "ycjsJfbCv56_EMkJ8Z44Yw",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "182",
+                    "text": "- Evidencia de laboratorio de hemólisis con PAD negativa",
+                    "guid": "pxvH-xXMiHvAmHQVRlcylw",
+                    "children": []
+                  },
+                  {
+                    "id": "185",
+                    "parent": "182",
+                    "text": "- Frotis sanguíneo con abundantes esquistocitos (≥2 por campo de alta potencia)",
+                    "guid": "it7ptRAtzE6Hru4RxvnRRw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "186",
+                "parent": "181",
+                "text": "- Determinar si hay daño a órganos y/o causa secundaria",
+                "guid": "fdnbeh6HatARi3XX4PtYMA",
+                "children": []
+              },
+              {
+                "id": "187",
+                "parent": "181",
+                "text": "- Pruebas rutinarias: estudios de coagulación, pruebas de función renal, pruebas hepáticas",
+                "guid": "x4htCxHHh6XMcNwH18PEeA",
+                "children": []
+              },
+              {
+                "id": "188",
+                "parent": "181",
+                "text": "- Pruebas adicionales según presentación clínica",
+                "guid": "y7fgiHmFdjyiiIkEZBO9kw",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "181",
+                "text": "- Medir actividad ADAMTS13 si no\nhay causa secundaria obvia:",
+                "guid": "xU0rQneV4p_YkeUYMnozhQ",
+                "children": [
+                  {
+                    "id": "190",
+                    "parent": "189",
+                    "text": "- Actividad ADAMTS13 ≥10%: PTT improbable",
+                    "guid": "MFW5KB0QmRUsBTKm02AJIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "191",
+                    "parent": "189",
+                    "text": "- Actividad ADAMTS13 <10%: PTT probable",
+                    "guid": "u2vf4Cn3d8_l6YTtz7Zd7g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "192",
+            "parent": "158",
+            "text": "Evaluación de causas\nsubyacentes de AHMA",
+            "guid": "8DsAbZ1T7YXXLfqGvAsHkw",
+            "children": [
+              {
+                "id": "193",
+                "parent": "192",
+                "text": "- Microangiopatía\ntrombótica primaria:",
+                "guid": "rk9xJuElH7L_VOp4DupkPw",
+                "children": [
+                  {
+                    "id": "194",
+                    "parent": "193",
+                    "text": "- PTT:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "195",
+                        "parent": "194",
+                        "text": "- Fiebre, características neurológicas",
+                        "guid": "nuxsLJBC4T23pi8Z-L5kRg",
+                        "children": []
+                      },
+                      {
+                        "id": "196",
+                        "parent": "194",
+                        "text": "- Actividad ADAMTS13 <10%",
+                        "guid": "m5dLbAcbV9qDG8zYd6pwvw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "197",
+                    "parent": "193",
+                    "text": "- SHU asociado a\ntoxina Shiga:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "198",
+                        "parent": "197",
+                        "text": "- Niño 6 meses-5 años",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "199",
+                        "parent": "197",
+                        "text": "- Enfermedad gastrointestinal reciente, típicamente con diarrea sanguinolenta",
+                        "guid": "3AMcICcOZkdb5WW3oVh0dw",
+                        "children": []
+                      },
+                      {
+                        "id": "200",
+                        "parent": "197",
+                        "text": "- Síntomas de tríada SHU",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "201",
+                        "parent": "197",
+                        "text": "- Confirmación diagnóstica de tríada SHU",
+                        "guid": "8rQk6bfwS83M9Fv2fLP7OQ",
+                        "children": []
+                      },
+                      {
+                        "id": "202",
+                        "parent": "197",
+                        "text": "- Estudios de coagulación y actividad ADAMTS13 normales",
+                        "guid": "5vwKD6137e-r7hui6bes8w",
+                        "children": []
+                      },
+                      {
+                        "id": "203",
+                        "parent": "197",
+                        "text": "- Evidencia de toxina Shiga o organismo productor en heces",
+                        "guid": "1IKY4C_ELiQgthqWJt0GWQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "204",
+                    "parent": "193",
+                    "text": "- SHU mediado por\ncomplemento:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "205",
+                        "parent": "204",
+                        "text": "- Cualquier edad",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "206",
+                        "parent": "204",
+                        "text": "- Síntomas de tríada SHU",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "207",
+                        "parent": "204",
+                        "text": "- Confirmación diagnóstica de tríada SHU",
+                        "guid": "e3IYgamYyL3TBtqTdt-z0g",
+                        "children": []
+                      },
+                      {
+                        "id": "208",
+                        "parent": "204",
+                        "text": "- Estudios de coagulación y actividad ADAMTS13 normales",
+                        "guid": "i48zk-xKEh8NmmBcVepdqw",
+                        "children": []
+                      },
+                      {
+                        "id": "209",
+                        "parent": "204",
+                        "text": "- Sin evidencia de toxina Shiga en heces",
+                        "guid": "7m6H6QFQ-mJc7PAPePaNbw",
+                        "children": []
+                      },
+                      {
+                        "id": "210",
+                        "parent": "204",
+                        "text": "- Estudios del complemento anormales",
+                        "guid": "zHrvQtUSsoRFfmIfJS0Q9w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "211",
+                "parent": "192",
+                "text": "- Microangiopatía trombótica\ninducida por fármacos:",
+                "guid": "QmZwcjI526ZToK869vF-Iw",
+                "children": [
+                  {
+                    "id": "212",
+                    "parent": "211",
+                    "text": "- Exposición a fármaco típico culpable",
+                    "guid": "mvGUcTH2hMg-_dMqDcEn6g",
+                    "children": []
+                  },
+                  {
+                    "id": "213",
+                    "parent": "211",
+                    "text": "- Inicio agudo cuando es inmunomediada",
+                    "guid": "4qM4Y3HrV8GcQdiLOXXD1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "214",
+                    "parent": "211",
+                    "text": "- Inicio gradual, dosis-dependiente cuando es por efecto tóxico",
+                    "guid": "NbZR8Am513ZlCQCWnU_64w",
+                    "children": []
+                  },
+                  {
+                    "id": "215",
+                    "parent": "211",
+                    "text": "- Mejoría tras discontinuación del fármaco",
+                    "guid": "xXSP0LHEqUuxnpzw56wIZQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "216",
+                "parent": "192",
+                "text": "- Hipertensión\nmaligna:",
+                "guid": "KircPXdgpmxVfeMeEd2-ow",
+                "children": [
+                  {
+                    "id": "217",
+                    "parent": "216",
+                    "text": "- Signos neurológicos, afectación cardíaca, retinopatía hipertensiva",
+                    "guid": "TBp1pasdSswcU17VdbDC_A",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "216",
+                    "text": "- ↑ Presión arterial",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "216",
+                    "text": "- Lesión renal aguda común",
+                    "guid": "j5QTHU7m9yMNzO9ixwdGpg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "220",
+                "parent": "192",
+                "text": "- Síndrome\nHELLP:",
+                "guid": "7-EQNXBwzctUgzNsluv_Ng",
+                "children": [
+                  {
+                    "id": "221",
+                    "parent": "220",
+                    "text": "- Embarazo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "220",
+                    "text": "- Pruebas hepáticas anormales",
+                    "guid": "3wJ0UAI5if-BxwzPO62FpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "223",
+                    "parent": "220",
+                    "text": "- ↑ LDH",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "224",
+                    "parent": "220",
+                    "text": "- ↑ Proteína urinaria",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "225",
+                "parent": "192",
+                "text": "- Coagulación\nintravascular diseminada:",
+                "guid": "6Jv7TPrndqaNwsAP2AczKA",
+                "children": [
+                  {
+                    "id": "226",
+                    "parent": "225",
+                    "text": "- Antecedentes de trauma, sepsis o malignidad",
+                    "guid": "h4EVzF8Lry67fxHOl8Uofw",
+                    "children": []
+                  },
+                  {
+                    "id": "227",
+                    "parent": "225",
+                    "text": "- ↑ Tiempo de protrombina, ↑ tiempo parcial de tromboplastina",
+                    "guid": "x7KHMQI6VXnGMdECF68_Vg",
+                    "children": []
+                  },
+                  {
+                    "id": "228",
+                    "parent": "225",
+                    "text": "- ↑ Marcadores de degradación de fibrinógeno",
+                    "guid": "0kAXlXYfAKB_Z1Ci2uMwQA",
+                    "children": []
+                  },
+                  {
+                    "id": "229",
+                    "parent": "225",
+                    "text": "- ↓ Fibrinógeno",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "230",
+                "parent": "192",
+                "text": "- Enfermedad\nautoinmune:",
+                "guid": "bhLy3wCmkUJS7e3PKdGkQQ",
+                "children": [
+                  {
+                    "id": "231",
+                    "parent": "230",
+                    "text": "- Antecedentes de enfermedad autoinmune",
+                    "guid": "KUrytE-9jXT5esJiQjd4Sg",
+                    "children": []
+                  },
+                  {
+                    "id": "232",
+                    "parent": "230",
+                    "text": "- Características de enfermedad autoinmune sistémica",
+                    "guid": "K2EYd3Qk7GKqf_eqPa3u0A",
+                    "children": []
+                  },
+                  {
+                    "id": "233",
+                    "parent": "230",
+                    "text": "- Autoanticuerpos positivos",
+                    "guid": "3tbr8amoHQ2bhCDAeVKnKQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "234",
+                "parent": "192",
+                "text": "- Malignidad:",
+                "guid": "_0YZO2jvlKg6NziaRlG1oA",
+                "children": [
+                  {
+                    "id": "235",
+                    "parent": "234",
+                    "text": "- Síntomas B, edad >60 años",
+                    "guid": "OJsDLN37lNzq9ZbmwSmiow",
+                    "children": []
+                  },
+                  {
+                    "id": "236",
+                    "parent": "234",
+                    "text": "- Anomalías sospechosas en frotis",
+                    "guid": "4xIgqLE4LvGrbhCpf5zoGg",
+                    "children": []
+                  },
+                  {
+                    "id": "237",
+                    "parent": "234",
+                    "text": "- Anomalías en biopsia de médula ósea",
+                    "guid": "rrLCb9G-vVrt1tWQHEEtIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "234",
+                    "text": "- Lesión maligna en estudios de imagen",
+                    "guid": "pxsm4cEt4Kqr2QTHKmRn5g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "192",
+                "text": "- Infección:",
+                "guid": "dOH6JVjDDtacSMGWyRJijg",
+                "children": [
+                  {
+                    "id": "240",
+                    "parent": "239",
+                    "text": "- Síntomas de infección",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "241",
+                    "parent": "239",
+                    "text": "- Factores de riesgo para patógenos transmitidos por sangre",
+                    "guid": "GP9R3VOL2nAqwNY2BUX5Ug",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "239",
+                    "text": "- Hallazgos positivos en pruebas específicas de infección",
+                    "guid": "Ct8GKTbhHEHRLicRiVa8jQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "243",
+            "parent": "158",
+            "text": "## Tratamiento",
+            "guid": "4Kdn7Gv4h-wb9j0CrtkZaw",
+            "children": [
+              {
+                "id": "244",
+                "parent": "243",
+                "text": "- Si se identifica causa secundaria evidente, tratar en consecuencia",
+                "guid": "etkhIknsDPiQFBprtTehNA",
+                "children": []
+              },
+              {
+                "id": "245",
+                "parent": "243",
+                "text": "- Si sospecha de\nPTT es alta:",
+                "guid": "BTXBZf9c3hduO865JEsFOA",
+                "children": [
+                  {
+                    "id": "246",
+                    "parent": "245",
+                    "text": "- No esperar resultados de actividad ADAMTS13",
+                    "guid": "Lt7rW40tYNWWAsC34RZ29g",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "245",
+                    "text": "- Derivar para intercambio plasmático urgente",
+                    "guid": "19CuW7AFOl8-pM5JgWtYZg",
+                    "children": []
+                  },
+                  {
+                    "id": "248",
+                    "parent": "245",
+                    "text": "- Considerar terapia con corticosteroides",
+                    "guid": "h7S9vyIduGNvZgKfRw6w1g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "249",
+                "parent": "243",
+                "text": "- PTT refractaria o recidivante: requiere intercambio plasmático intensificado e inmunomoduladores sistémicos",
+                "guid": "h_iV7P1VTRO_h3EOaoTqbg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "250",
+        "parent": "0",
+        "text": "PÚRPURA TROMBOCITOPÉNICA\nTROMBÓTICA (PTT)",
+        "guid": "fk6OwBrhtw6lU3a9CIKsqA",
+        "children": [
+          {
+            "id": "251",
+            "parent": "250",
+            "text": "Resumen",
+            "guid": "mG5zdzH53LBTy5WK7WE7Cw",
+            "children": [
+              {
+                "id": "252",
+                "parent": "251",
+                "text": "- Microangiopatía trombótica",
+                "guid": "VqEDNy0SPjbmgPjYFtVEGw",
+                "children": []
+              },
+              {
+                "id": "253",
+                "parent": "251",
+                "text": "- Microtrombos (principalmente plaquetas) ocluyen microvasculatura (arteriolas y capilares)",
+                "guid": "XA09nj08Z5AsyROXtLMTlQ",
+                "children": []
+              },
+              {
+                "id": "254",
+                "parent": "251",
+                "text": "- Principalmente en adultos",
+                "guid": "WSQZebAzLFYA1mcN-hY2aQ",
+                "children": []
+              },
+              {
+                "id": "255",
+                "parent": "251",
+                "text": "- Típicamente por autoanticuerpos contra ADAMTS13",
+                "guid": "IQFVuvWpC5VhyNAU1TWn9Q",
+                "children": []
+              },
+              {
+                "id": "256",
+                "parent": "251",
+                "text": "- Pentad clásico",
+                "guid": "KpPsOrkOBJ1XLeG5G4TX3Q",
+                "children": [
+                  {
+                    "id": "257",
+                    "parent": "256",
+                    "text": "fiebre, anomalías neurológicas, trombocitopenia, anemia\nhemolítica microangiopática, función renal alterada",
+                    "guid": "dfTqcr4Nv6JRkEp-wZWsZQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "258",
+                "parent": "251",
+                "text": "- Emergencia hematológica",
+                "guid": "GMNbza2M95Zq3Uyi5mN_rQ",
+                "children": [
+                  {
+                    "id": "259",
+                    "parent": "258",
+                    "text": "tratamiento inmediato con intercambio plasmático",
+                    "guid": "jsn_rq0aNwNig7JC2GZPJQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "260",
+            "parent": "250",
+            "text": "Epidemiología",
+            "guid": "pbJq0SsjyuUj24aH7Nz_ow",
+            "children": [
+              {
+                "id": "261",
+                "parent": "260",
+                "text": "- Principalmente adultos (edad media al diagnóstico: ~40 años)",
+                "guid": "AvC9_mvLPm-oU_dyQb4cVg",
+                "children": []
+              },
+              {
+                "id": "262",
+                "parent": "260",
+                "text": "- Más común en mujeres y población negra",
+                "guid": "mTZS6alz1xgehAFDlcMtZQ",
+                "children": []
+              },
+              {
+                "id": "263",
+                "parent": "260",
+                "text": "- Datos epidemiológicos referidos a EE.UU.",
+                "guid": "r2Bj8k8mgx-k-8hPVK1dJQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "264",
+            "parent": "250",
+            "text": "Etiología",
+            "guid": "Iwd9ARL58RQiF_NGl3N7Kw",
+            "children": [
+              {
+                "id": "265",
+                "parent": "264",
+                "text": "- Deficiencia/inhibición\nde ADAMTS13",
+                "guid": "BdJqKxZJpoIEeDB57AuEkw",
+                "children": [
+                  {
+                    "id": "266",
+                    "parent": "265",
+                    "text": "- PTT adquirida (~95%): autoanticuerpos contra ADAMTS13",
+                    "guid": "4kQUDjBosQgKCuQrKsx6KA",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "parent": "265",
+                    "text": "- PTT congénita (~5%): mutaciones genéticas → deficiencia de ADAMTS13",
+                    "guid": "4BWf1hXIYv2jY4KIuAeG8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "268",
+                "parent": "264",
+                "text": "- Factores de\nriesgo",
+                "guid": "NdA-FnohlLro0iZEg0oBFw",
+                "children": [
+                  {
+                    "id": "269",
+                    "parent": "268",
+                    "text": "- Enfermedades sistémicas: cáncer, VIH, LES, infecciones",
+                    "guid": "B8v2dnDGTeqeWbd7fDbXrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "268",
+                    "text": "- Embarazo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "271",
+                    "parent": "268",
+                    "text": "- Medicamentos",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "272",
+            "parent": "250",
+            "text": "Fisiopatología",
+            "guid": "uX32r_7inV8wJjsgpqUcoQ",
+            "children": [
+              {
+                "id": "273",
+                "parent": "272",
+                "text": "- Microangiopatía trombótica → microtrombos ocluyen microvasculatura",
+                "guid": "xqocGMhzm3vGSd5sBkdEAw",
+                "children": []
+              },
+              {
+                "id": "274",
+                "parent": "272",
+                "text": "- Autoanticuerpos o mutaciones genéticas → deficiencia de ADAMTS13\n(metaloproteasa que divide el factor von Willebrand)",
+                "guid": "nv7JctpgYMOzEZOGyAbuZw",
+                "children": []
+              },
+              {
+                "id": "275",
+                "parent": "272",
+                "text": "- ↓ Degradación de multímeros vWF → acumulación en superficies celulares endoteliales",
+                "guid": "8YCw3SiTMqVFNAJPCm7adA",
+                "children": []
+              },
+              {
+                "id": "276",
+                "parent": "272",
+                "text": "- Adhesión plaquetaria y microtrombosis",
+                "guid": "BXQe2Zd581Qg3xqhNOPpkw",
+                "children": []
+              },
+              {
+                "id": "277",
+                "parent": "272",
+                "text": "- Microtrombos → fragmentación de eritrocitos con formación de esquistocitos → anemia hemolítica",
+                "guid": "-R2_S0CsJZfLMASfJnJSYw",
+                "children": []
+              },
+              {
+                "id": "278",
+                "parent": "272",
+                "text": "- Microtrombosis arteriolar y capilar → isquemia y daño orgánico, especialmente cerebro y riñones",
+                "guid": "WzwYjSUXbCi3Y29VHHUryg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "279",
+            "parent": "250",
+            "text": "Características\nclínicas",
+            "guid": "UvIm6WzFVCK4lKf-o7VnTQ",
+            "children": [
+              {
+                "id": "280",
+                "parent": "279",
+                "text": "\\\\*Pentada clásica\\\\* (<10%)\nTípicamente adultos sanos",
+                "guid": "ariy6lVUfXJo_Kd39Azc1g",
+                "children": [
+                  {
+                    "id": "281",
+                    "parent": "280",
+                    "text": "- \\\\*Fiebre\\\\*",
+                    "guid": "f1BQXDKwVgNaKklfHPQNkQ",
+                    "children": []
+                  },
+                  {
+                    "id": "282",
+                    "parent": "280",
+                    "text": "- Signos y síntomas\nneurológicos",
+                    "guid": "JkGwSigIZXULZ__uO7SF3w",
+                    "children": [
+                      {
+                        "id": "283",
+                        "parent": "282",
+                        "text": "- Estado mental alterado, delirio",
+                        "guid": "ML5Ls5lR1yscBK4Y4JrHuw",
+                        "children": []
+                      },
+                      {
+                        "id": "284",
+                        "parent": "282",
+                        "text": "- Convulsiones, déficits focales, ACV",
+                        "guid": "3LxLDh5maYHoe33fmjNv3A",
+                        "children": []
+                      },
+                      {
+                        "id": "285",
+                        "parent": "282",
+                        "text": "- Cefalea, mareos",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "286",
+                    "parent": "280",
+                    "text": "- Bajo recuento plaquetario\n(trombocitopenia)",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "287",
+                        "parent": "286",
+                        "text": "- Petequias, púrpura",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "288",
+                        "parent": "286",
+                        "text": "- Sangrado mucoso",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "289",
+                        "parent": "286",
+                        "text": "- Sangrado prolongado tras cortes menores",
+                        "guid": "V10b48bPhj9buC2LlJPj9w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "290",
+                    "parent": "280",
+                    "text": "- Anemia hemolítica\nmicroangiopática",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "291",
+                        "parent": "290",
+                        "text": "- Fatiga, disnea y palidez",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "292",
+                        "parent": "290",
+                        "text": "- Ictericia",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "293",
+                    "parent": "280",
+                    "text": "- Función renal\nalterada",
+                    "guid": "jCOtRGDdk04mp-tnLb-PBA",
+                    "children": [
+                      {
+                        "id": "294",
+                        "parent": "293",
+                        "text": "- Hematuria, proteinuria",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "295",
+                        "parent": "293",
+                        "text": "- Oliguria, anuria (poco común)",
+                        "guid": "qS2kFCpXr2w8IqghYg_2vQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "296",
+            "parent": "250",
+            "text": "Anemia hemolítica microangiopática y trombocitopenia",
+            "guid": "5KLZR9ORwsy5RqOYlOzHag",
+            "children": [
+              {
+                "id": "297",
+                "parent": "296",
+                "text": "- Hemograma completo",
+                "guid": "CNYWuhoHOf0qvPo5B4qcgQ",
+                "children": [
+                  {
+                    "id": "298",
+                    "parent": "297",
+                    "text": "- ↓ Plaquetas (típicamente <30, 000/mm³)",
+                    "guid": "GW0Xv3ETXqE-gEWmbSA0pA",
+                    "children": [
+                      {
+                        "id": "299",
+                        "parent": "298",
+                        "text": "- ↓ Hemoglobina",
+                        "guid": "YlQdV20v0fRYA90nafPouw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "300",
+                "parent": "296",
+                "text": "- Frotis de sangre periférica",
+                "guid": "6LX4WpjIG0J1kzw_tCmVfw",
+                "children": [
+                  {
+                    "id": "301",
+                    "parent": "300",
+                    "text": "- Gran número de esquistocitos (hasta 4-8%)",
+                    "guid": "9uQiCM5DzieYe0J0VxyU0g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "302",
+                "parent": "296",
+                "text": "- Estudios de\nhemólisis",
+                "guid": "MTqqYIDvgWOjnBRAknK96w",
+                "children": [
+                  {
+                    "id": "303",
+                    "parent": "302",
+                    "text": "- ↑ Reticulocitos",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "304",
+                        "parent": "303",
+                        "text": "- ↓ Haptoglobina",
+                        "guid": "frSFx0hM41pCcte7UHlApg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "305",
+                    "parent": "302",
+                    "text": "- ↑ LDH",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "306",
+                        "parent": "305",
+                        "text": "- Prueba de Coombs directa negativa",
+                        "guid": "Wl5MpTAsdM_PPo7y_4Gegw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "307",
+                "parent": "296",
+                "text": "- Estudios de\ncoagulación",
+                "guid": "nSNMf6ZetQBKvPTQXRyipw",
+                "children": [
+                  {
+                    "id": "308",
+                    "parent": "307",
+                    "text": "- TP y TTPa normal o levemente prolongado",
+                    "guid": "qClqyJPdylsPI3c7sOGPwQ",
+                    "children": [
+                      {
+                        "id": "309",
+                        "parent": "308",
+                        "text": "- Productos de degradación de fibrina y\nD-dímero normal o levemente elevados",
+                        "guid": "GlkGkisDjS_1a_Q3YTIz3A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "310",
+                "parent": "296",
+                "text": "- \\\\*Pruebas hepáticas\\\\*: ↑ bilirrubina indirecta",
+                "guid": "hCcK-OlRVG4HnOAQ0AiE2w",
+                "children": [
+                  {
+                    "id": "311",
+                    "parent": "310",
+                    "text": "- \\\\*TC o RM cerebral\\\\*: para evaluar ACV",
+                    "guid": "TKfA7s5cIdqqXEsEUsJBiQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "312",
+                "parent": "296",
+                "text": "- \\\\*Troponina\\\\*: para descartar isquemia cardíaca",
+                "guid": "scx3eoKEU58FAtD68TdxhA",
+                "children": [
+                  {
+                    "id": "313",
+                    "parent": "312",
+                    "text": "- \\\\*Función Renal\\\\*: BUN/Crea, hematuria, proteinuria",
+                    "guid": "yEml7lLsfWbXvCw6-fpT7w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "314",
+            "parent": "250",
+            "text": "- Actividad ADAMTS13 y\nprueba de inhibidor",
+            "guid": "Kgezbhg8XEhVkplie9Ld8w",
+            "children": [
+              {
+                "id": "315",
+                "parent": "314",
+                "text": "- Actividad\nADAMTS13",
+                "guid": "Djtt0QWxlp1nguxppifwsA",
+                "children": [
+                  {
+                    "id": "316",
+                    "parent": "315",
+                    "text": "- <10%: positivo (deficiencia severa)",
+                    "guid": "iaV5Ts6zUxUiU9umk5I23A",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "315",
+                    "text": "- 10-20%: límite",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "315",
+                    "text": "- >20%: negativo",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "319",
+                "parent": "314",
+                "text": "- Inhibidor ADAMTS13 o\nIgG anti-ADAMTS13",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "320",
+                    "parent": "319",
+                    "text": "- Positivo: PTT inmunomediada",
+                    "guid": "p3pVSMqAbE3qjbdW-UvyDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "321",
+                    "parent": "319",
+                    "text": "- Negativo: considerar pruebas genéticas para PTT congénita",
+                    "guid": "EBh0OMOzjJujAN4bcXxGFw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "322",
+            "parent": "250",
+            "text": "- Puntuación PLASMIC:\nherramienta de evaluación\nde riesgo clínico",
+            "guid": "n0ncXbhKKqL6C6yufn_oYg",
+            "children": [
+              {
+                "id": "323",
+                "parent": "322",
+                "text": "- Criterios \n(1 punto cada uno):",
+                "guid": "nXXdtJcAvJM5szGYVbN0Rw",
+                "children": [
+                  {
+                    "id": "324",
+                    "parent": "323",
+                    "text": "- Recuento plaquetario <30, 000/mm³",
+                    "guid": "8ldDIhSrJRBCtQ7iaijJfw",
+                    "children": []
+                  },
+                  {
+                    "id": "325",
+                    "parent": "323",
+                    "text": "- Hemólisis",
+                    "guid": "EvPDIakhX1jbr9ToLW3ckw",
+                    "children": [
+                      {
+                        "id": "326",
+                        "parent": "325",
+                        "text": "bilirrubina indirecta >2 mg/dL O\nreticulocitos >2.5% O\nhaptoglobina indetectable",
+                        "guid": "B5_LZDzX4XlAOH8ga56wpw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "327",
+                    "parent": "323",
+                    "text": "- Sin malignidad activa en el último año",
+                    "guid": "nc39ANoYbZbroBmpRxobXA",
+                    "children": []
+                  },
+                  {
+                    "id": "328",
+                    "parent": "323",
+                    "text": "- Sin antecedentes de trasplante de células madre\no de órganos sólidos",
+                    "guid": "C5QuHW-yrkQ_N3EA-vzZQA",
+                    "children": []
+                  },
+                  {
+                    "id": "329",
+                    "parent": "323",
+                    "text": "- VCM <90 μm³",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "330",
+                    "parent": "323",
+                    "text": "- INR <1.5",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "331",
+                    "parent": "323",
+                    "text": "- Creatinina sérica <2.0 mg/dL",
+                    "guid": "aX-Cdo1mmVZvyh2OxQGjOA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "332",
+                "parent": "322",
+                "text": "- Probabilidad de deficiencia\nsevera de actividad ADAMTS13\n(<10%):",
+                "guid": "EOugwEgpS-zffXH3sYt7ZQ",
+                "children": [
+                  {
+                    "id": "333",
+                    "parent": "332",
+                    "text": "- 0-4 puntos: 0-4% (bajo riesgo)",
+                    "guid": "t4JVL9jZ12S_1P-c08FJhw",
+                    "children": []
+                  },
+                  {
+                    "id": "334",
+                    "parent": "332",
+                    "text": "- 5 puntos: 5-24% (riesgo intermedio)",
+                    "guid": "7gkulc26STCr2afPJU-o9A",
+                    "children": []
+                  },
+                  {
+                    "id": "335",
+                    "parent": "332",
+                    "text": "- 6-7 puntos: 62-82% (alto riesgo)",
+                    "guid": "7uw3F4XHEHaEw7EXdyzLGQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "336",
+            "parent": "250",
+            "text": "Tratamiento",
+            "guid": "-cAydFCenR7FhTONeofJYQ",
+            "children": [
+              {
+                "id": "337",
+                "parent": "336",
+                "text": "- Enfoque:",
+                "guid": "w4XrkWUIHUEObjt5QT5o4g",
+                "children": [
+                  {
+                    "id": "338",
+                    "parent": "337",
+                    "text": "- Ingresar a todos los pacientes con PTT sospechada o confirmada en UCI",
+                    "guid": "gFM1D_p4zim16ROCarJOfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "339",
+                    "parent": "337",
+                    "text": "- Obtener acceso venoso central rápidamente",
+                    "guid": "Dipn1MPiBQ-43BvAe_1b_A",
+                    "children": []
+                  },
+                  {
+                    "id": "340",
+                    "parent": "337",
+                    "text": "- Proporcionar cuidados de soporte",
+                    "guid": "WRzMgjTEH5e0_1ikva1yDg",
+                    "children": []
+                  },
+                  {
+                    "id": "341",
+                    "parent": "337",
+                    "text": "- Consultar hematología",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "342",
+                    "parent": "337",
+                    "text": "- Iniciar tratamiento\nempírico con:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "343",
+                        "parent": "342",
+                        "text": "- Terapia de intercambio plasmático",
+                        "guid": "AdX_JIHkVtx2gE_zYBckTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "344",
+                        "parent": "342",
+                        "text": "- Glucocorticoides",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "345",
+                "parent": "336",
+                "text": "- Cuidados\nde soporte:",
+                "guid": "MxbA1Qu-8j09YvNT2mH-NA",
+                "children": [
+                  {
+                    "id": "346",
+                    "parent": "345",
+                    "text": "- Monitorización",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "347",
+                        "parent": "346",
+                        "text": "- Oximetría de pulso y cardiaco",
+                        "guid": "iBoXEJL8QsM_6pToxKMhVQ",
+                        "children": []
+                      },
+                      {
+                        "id": "348",
+                        "parent": "346",
+                        "text": "- Exámenes neurológicos seriados",
+                        "guid": "pQTtU9wjQ_pL4Yv4iEwAag",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "349",
+                    "parent": "345",
+                    "text": "- Líquidos y electrolitos",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "350",
+                        "parent": "349",
+                        "text": "- Corregir alteraciones electrolíticas",
+                        "guid": "MkXsMSTLAKgv9Cip4O6ugg",
+                        "children": []
+                      },
+                      {
+                        "id": "351",
+                        "parent": "349",
+                        "text": "- Terapia con líquidos intravenosos según indicación",
+                        "guid": "Wd6OjstKTE05UyMq-ITrHw",
+                        "children": []
+                      },
+                      {
+                        "id": "352",
+                        "parent": "349",
+                        "text": "- Identificar y corregir trastornos ácido-base",
+                        "guid": "3I2DujNY6XQv2ooL2qdjZQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "353",
+                    "parent": "345",
+                    "text": "- Transfusiones",
+                    "guid": "VcnAajwJ3Dw0AdFMVRoQxw",
+                    "children": [
+                      {
+                        "id": "354",
+                        "parent": "353",
+                        "text": "- Plaquetas: Contraindicado en PTT/SHU (salvo sangrado con riesgo vital)",
+                        "guid": "R9yPahgBIhzEYKAUf6jgFw",
+                        "children": []
+                      },
+                      {
+                        "id": "355",
+                        "parent": "353",
+                        "text": "- Transfusiones de glóbulos rojos: estrategia restrictiva (considerar si Hb ≤7 g/dL)",
+                        "guid": "WT0qhsSISsB6M4j5n5ggLQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "356",
+                    "parent": "345",
+                    "text": "- Profilaxis TEV",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "357",
+                        "parent": "356",
+                        "text": "- Profilaxis mecánica: si nivel plaquetario <50,000/mm³",
+                        "guid": "dM6fJF9iELECBxfkWfXi7w",
+                        "children": []
+                      },
+                      {
+                        "id": "358",
+                        "parent": "356",
+                        "text": "- Profilaxis farmacológica: si nivel plaquetario ≥50,000/mm³",
+                        "guid": "i5oGqaoMIfNnd5cemOq0SQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "359",
+                "parent": "336",
+                "text": "- Terapia\nempírica:",
+                "guid": "3XxS4YkMSP88LSAjE-4MvQ",
+                "children": [
+                  {
+                    "id": "360",
+                    "parent": "359",
+                    "text": "- Inicio rápido de terapia de intercambio plasmático",
+                    "guid": "vVB4-hkrxnbsCZL7Kfpp2A",
+                    "children": []
+                  },
+                  {
+                    "id": "361",
+                    "parent": "359",
+                    "text": "- Glucocorticoides en altas dosis",
+                    "guid": "ktlRYzAprYV6r3oWxb0O8Q",
+                    "children": [
+                      {
+                        "id": "362",
+                        "parent": "361",
+                        "text": "- Prednisona o metilprednisolona",
+                        "guid": "1huGt9PjPhJGezO8mOdDCw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "363",
+                    "parent": "359",
+                    "text": "- Pacientes con alta\nprobabilidad de PTT:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "364",
+                        "parent": "363",
+                        "text": "- Considerar caplacizumab temprano si prueba\nde actividad ADAMTS13 está disponible",
+                        "guid": "kqfbkMuFjvxNSZYbVwmJng",
+                        "children": []
+                      },
+                      {
+                        "id": "365",
+                        "parent": "363",
+                        "text": "- Considerar rituximab si prueba de\nactividad ADAMTS13 no está disponible",
+                        "guid": "G2f4-T6JgvC3Oo6r7ozjtw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "366",
+                "parent": "336",
+                "text": "- Respuesta al\ntratamiento:",
+                "guid": "2n9Yc5mF5YKTq2_y9Tv4Kg",
+                "children": [
+                  {
+                    "id": "367",
+                    "parent": "366",
+                    "text": "- Signos clínicos\nde respuesta:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "368",
+                        "parent": "367",
+                        "text": "- Nivel plaquetario: sostenido ≥150,000/mm³",
+                        "guid": "nC3A67QerFF9dOwh6wTRBA",
+                        "children": []
+                      },
+                      {
+                        "id": "369",
+                        "parent": "367",
+                        "text": "- LDH: <1.5× el límite superior normal",
+                        "guid": "sxqXio93Iv6MhojpCmwsAQ",
+                        "children": []
+                      },
+                      {
+                        "id": "370",
+                        "parent": "367",
+                        "text": "- Sin signos de lesión orgánica isquémica nueva o empeoramiento",
+                        "guid": "X97N5cRFQb5cfmpRtewP2w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "371",
+            "parent": "250",
+            "text": "Complicaciones",
+            "guid": "xd35EKjIYBuzSULtFhIpKA",
+            "children": [
+              {
+                "id": "372",
+                "parent": "371",
+                "text": "- SNC: convulsiones, coma, ACV, paresia",
+                "guid": "h55tSRRVu6v2WSjAbkQAUg",
+                "children": []
+              },
+              {
+                "id": "373",
+                "parent": "371",
+                "text": "- Tracto GI: colitis hemorrágica, necrosis intestinal, perforación,\nestenosis, peritonitis, intususcepción",
+                "guid": "VVF5FAmgWL5JyE9eyKQuGQ",
+                "children": []
+              },
+              {
+                "id": "374",
+                "parent": "371",
+                "text": "- Corazón: isquemia y sobrecarga de líquidos",
+                "guid": "UC_LN_4BXCV-TA0vv_X6mw",
+                "children": []
+              },
+              {
+                "id": "375",
+                "parent": "371",
+                "text": "- Páncreas: diabetes mellitus transitoria o permanente",
+                "guid": "CNZHB8Clx2HqvKRNDxUb7w",
+                "children": []
+              },
+              {
+                "id": "376",
+                "parent": "371",
+                "text": "- Hígado: hepatomegalia, elevaciones de transaminasas",
+                "guid": "5fjd0TxeOxWCCfwZIbsGqA",
+                "children": []
+              },
+              {
+                "id": "377",
+                "parent": "371",
+                "text": "- Riñón: hipertensión, enfermedad renal crónica, enfermedad renal terminal",
+                "guid": "reF7fko-2Fpfinp9aoe6Yg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "378",
+            "parent": "250",
+            "text": "Pronóstico",
+            "guid": "LtoIqYjs-TBI47cIBmYTPw",
+            "children": [
+              {
+                "id": "379",
+                "parent": "378",
+                "text": "- Depende principalmente del inicio rápido del tratamiento",
+                "guid": "-qyAu8rU4GmXUSRPMCWxeg",
+                "children": []
+              },
+              {
+                "id": "380",
+                "parent": "378",
+                "text": "- El tratamiento oportuno puede prevenir complicaciones agudas y\nprogresión a insuficiencia renal crónica",
+                "guid": "D0q2pVHv3FgEN0fcvtWp7Q",
+                "children": []
+              },
+              {
+                "id": "381",
+                "parent": "378",
+                "text": "- Mortalidad <20% con PEX/inmunosupresión precoz (antes >90%).",
+                "guid": "broyPw4sGqtyDh5YFPviig",
+                "children": []
+              },
+              {
+                "id": "382",
+                "parent": "378",
+                "text": "- Riesgo de recaídas (~30-50%).",
+                "guid": "NjSAIX12HkZQsGhpTPktfg",
+                "children": []
+              },
+              {
+                "id": "383",
+                "parent": "378",
+                "text": "- Secuelas a largo plazo (cognitivas, renales, HTA, fatiga crónica).",
+                "guid": "dVdJr14uToBh2NFhcE0xLg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "384",
+        "parent": "0",
+        "text": "SÍNDROME\nHEMOLÍTICO URÉMICO\n(SHU)",
+        "guid": "UyOmkDSKyrssEYvv79EM9Q",
+        "children": [
+          {
+            "id": "385",
+            "parent": "384",
+            "text": "Resumen",
+            "guid": "EcSKLnj9P7kccEuVOo87BA",
+            "children": [
+              {
+                "id": "386",
+                "parent": "385",
+                "text": "- Microangiopatía trombótica → microtrombos (principalmente plaquetas) ocluyen microvasculatura",
+                "guid": "vO0inOHUCfFjNERTr-nw4A",
+                "children": []
+              },
+              {
+                "id": "387",
+                "parent": "385",
+                "text": "- Caracterizada por tríada",
+                "guid": "bWrBQig7rf0INTehpCtQuw",
+                "children": [
+                  {
+                    "id": "388",
+                    "parent": "387",
+                    "text": "anemia hemolítica microangiopática (AHMA),\ntrombocitopenia y lesión renal aguda (LRA)",
+                    "guid": "mNqMZhvu3IUQEMw59eRb4A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "389",
+                "parent": "385",
+                "text": "- SHU asociado a toxina Shiga (ST-SHU): más común, predomina en niños,\ncausado por E. coli productora de toxina Shiga (STEC)",
+                "guid": "PNpVECsCVudLtImkHWjrmQ",
+                "children": []
+              },
+              {
+                "id": "390",
+                "parent": "385",
+                "text": "- SHU no asociado a toxina Shiga (no-ST-SHU): causado por desregulación del\ncomplemento, infección, medicamentos, trasplante o enfermedad autoinmune",
+                "guid": "PaixWNnTxaLdiQorOHZIpg",
+                "children": []
+              },
+              {
+                "id": "391",
+                "parent": "385",
+                "text": "- Diagnóstico: confirmar tríada SHU y excluir coagulación intravascular diseminada (CID)\ny púrpura trombocitopénica trombótica (PTT)",
+                "guid": "PyySD-vu51Z4JY257-__8A",
+                "children": []
+              },
+              {
+                "id": "392",
+                "parent": "385",
+                "text": "- Tratamiento: principalmente de soporte, inhibidores del complemento para SHU mediado por complemento",
+                "guid": "WrIJ_n6ik1pprpV6mK0MLQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "393",
+            "parent": "384",
+            "text": "Epidemiología",
+            "guid": "R0JTN3SmBv_IG49y2Go1Yw",
+            "children": [
+              {
+                "id": "394",
+                "parent": "393",
+                "text": "- ST-SHU:",
+                "guid": "nt_zDinntfC1IhGFXo_tsw",
+                "children": [
+                  {
+                    "id": "395",
+                    "parent": "394",
+                    "text": "- ~90% de casos de SHU en niños",
+                    "guid": "dhCXrQs1oz_sJ8HM4AcbHA",
+                    "children": []
+                  },
+                  {
+                    "id": "396",
+                    "parent": "394",
+                    "text": "- Más común en niños de 6 meses a 5 años",
+                    "guid": "FlJdStdxukK_k8bKaw_EcA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "397",
+                "parent": "393",
+                "text": "- No-ST-SHU:",
+                "guid": "GnBYukEV9dcm5LyupTcqwQ",
+                "children": [
+                  {
+                    "id": "398",
+                    "parent": "397",
+                    "text": "- 10% de casos en niños; más común en adultos",
+                    "guid": "fwHjkF6E9fhe4vR-7anKDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "399",
+                    "parent": "397",
+                    "text": "- Puede manifestarse a cualquier edad según causa subyacente",
+                    "guid": "A9kLBZaT2Yc1NOdwZhwoZg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "400",
+            "parent": "384",
+            "text": "Etiología",
+            "guid": "PqdVR9LPDZppD2SkqM--Pw",
+            "children": [
+              {
+                "id": "401",
+                "parent": "400",
+                "text": "- SHU asociado a\ntoxina Shiga:",
+                "guid": "Kgt5WwqiowFTikZauLYyiA",
+                "children": [
+                  {
+                    "id": "402",
+                    "parent": "401",
+                    "text": "- E. coli enterohemorrágica (EHEC)\nproductora de toxina Shiga",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "403",
+                        "parent": "402",
+                        "text": "- Serotipo O157:H7: principal causa en Norteamérica",
+                        "guid": "-XOlY4aSSu2TogOo9rJlXA",
+                        "children": []
+                      },
+                      {
+                        "id": "404",
+                        "parent": "402",
+                        "text": "- Transmitida por carne poco cocida, frutas crudas, vegetales de hoja, lácteos no pasteurizados",
+                        "guid": "1SDnRw6-DB97bsKV-Q2ezA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "405",
+                    "parent": "401",
+                    "text": "- Shigella dysenteriae tipo 1",
+                    "guid": "BrcS0QvLwb2SOEXZe9DBpw",
+                    "children": []
+                  },
+                  {
+                    "id": "406",
+                    "parent": "401",
+                    "text": "- Hasta 20% de niños con infección STEC O157:H7 desarrollan SHU",
+                    "guid": "MwMXeLFAku6NX0-STp9QQw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "407",
+                "parent": "400",
+                "text": "- SHU no asociado\na toxina Shiga:",
+                "guid": "TRTJq6tUL7Tos83Vguf7Bw",
+                "children": [
+                  {
+                    "id": "408",
+                    "parent": "407",
+                    "text": "- SHU mediado por complemento: desregulación por mutaciones genéticas y/o anticuerpos anti-complemento",
+                    "guid": "J57ijPT_DMKeLtJ-9OWoig",
+                    "children": []
+                  },
+                  {
+                    "id": "409",
+                    "parent": "407",
+                    "text": "- Infecciones no-Shiga toxina: S. pneumoniae, influenza, VIH",
+                    "guid": "p2eAHKk68mYfsqsFwY1vmw",
+                    "children": []
+                  },
+                  {
+                    "id": "410",
+                    "parent": "407",
+                    "text": "- Otras causas:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "411",
+                        "parent": "410",
+                        "text": "- Enfermedades autoinmunes (LES, síndrome antifosfolípido)",
+                        "guid": "weAso8RGcR1Ljen58B8D3w",
+                        "children": []
+                      },
+                      {
+                        "id": "412",
+                        "parent": "410",
+                        "text": "- Trasplante de órganos o médula ósea",
+                        "guid": "IEZYE_2ZMCCM5XDFXpyEfw",
+                        "children": []
+                      },
+                      {
+                        "id": "413",
+                        "parent": "410",
+                        "text": "- Fármacos citotóxicos (quimioterapia, inhibidores de calcineurina)",
+                        "guid": "A1s1YSPffhGNUttf6AaHbw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "414",
+            "parent": "384",
+            "text": "Fisiopatología",
+            "guid": "O_EGDazJFrIw6mQur2Bkdw",
+            "children": [
+              {
+                "id": "415",
+                "parent": "414",
+                "text": "- Infección con E. coli enterohemorrágica u otro organismo causal",
+                "guid": "3OcbNdqTctI7TAefyTKAOQ",
+                "children": []
+              },
+              {
+                "id": "416",
+                "parent": "414",
+                "text": "- Inflamación mucosa facilita entrada de toxinas bacterianas a circulación",
+                "guid": "IVn0lk4L_5QV-ypRu-C7Xw",
+                "children": []
+              },
+              {
+                "id": "417",
+                "parent": "414",
+                "text": "- Toxinas causan daño a células endoteliales (especialmente en glomérulo)",
+                "guid": "U68CTy0yDpG73DQ2f8y6Ig",
+                "children": []
+              },
+              {
+                "id": "418",
+                "parent": "414",
+                "text": "- Células endoteliales dañadas secretan citocinas → vasoconstricción y formación de microtrombos plaquetarios",
+                "guid": "-cAZy8iHBhPeOjyWiMmIzA",
+                "children": []
+              },
+              {
+                "id": "419",
+                "parent": "414",
+                "text": "- Consumo de plaquetas → trombocitopenia",
+                "guid": "6Qq7sAhN4FIYXMjSHqyDXA",
+                "children": []
+              },
+              {
+                "id": "420",
+                "parent": "414",
+                "text": "- Destrucción mecánica de eritrocitos al pasar por microtrombos → hemólisis (esquistocitos)",
+                "guid": "3Ni_zHUMEkQfX1xV7Ky-ZA",
+                "children": []
+              },
+              {
+                "id": "421",
+                "parent": "414",
+                "text": "- Isquemia y daño a órganos, especialmente riñones → disminución de filtración glomerular",
+                "guid": "SMTngVcNm5G6nmKFFicyCg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "422",
+            "parent": "384",
+            "text": "Características\nclínicas",
+            "guid": "B_WMSPTw-VsVvmkTg82yQw",
+            "children": [
+              {
+                "id": "423",
+                "parent": "422",
+                "text": "- Pródromo\ngastrointestinal:",
+                "guid": "JDATM5T5kULkAtIkqVqkfw",
+                "children": [
+                  {
+                    "id": "424",
+                    "parent": "423",
+                    "text": "- Dolor abdominal, náuseas, vómitos y/o diarrea (progresa de acuosa a sanguinolenta)",
+                    "guid": "zSgWcuSKU2pe8T3IC85Gyg",
+                    "children": []
+                  },
+                  {
+                    "id": "425",
+                    "parent": "423",
+                    "text": "- Típicamente precede al SHU por 5-14 días",
+                    "guid": "TGvQdIH-MhAWsWBDyIvWqw",
+                    "children": []
+                  },
+                  {
+                    "id": "426",
+                    "parent": "423",
+                    "text": "- Fiebre generalmente ausente (leve si presente)",
+                    "guid": "8HwfVTr-lJiK2m6zHhFgLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "427",
+                    "parent": "423",
+                    "text": "- A menudo ausente en no-ST-SHU",
+                    "guid": "tA2X146aiYEOmy3ZXFO0JQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "428",
+                "parent": "422",
+                "text": "- Síntomas de la\ntríada SHU:",
+                "guid": "J_5mlBSu71iwFRC5VA_glA",
+                "children": [
+                  {
+                    "id": "429",
+                    "parent": "428",
+                    "text": "- Características clínicas de anemia: fatiga, debilidad, disnea, palidez, ictericia",
+                    "guid": "Kw_f1NxbtNP0o6NUeQQnmA",
+                    "children": []
+                  },
+                  {
+                    "id": "430",
+                    "parent": "428",
+                    "text": "- Características\nclínicas de LRA:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "431",
+                        "parent": "430",
+                        "text": "- Hipertensión (a menudo severa)",
+                        "guid": "eFrDco7pkykepsmo-txAMw",
+                        "children": []
+                      },
+                      {
+                        "id": "432",
+                        "parent": "430",
+                        "text": "- Oliguria o anuria (típicamente dentro de 10 días del inicio)",
+                        "guid": "UqHUrxn-clY36uS3LKrCKg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "433",
+                    "parent": "428",
+                    "text": "- Características clínicas de trombocitopenia\n(puede ser asintomática):",
+                    "guid": "a8ygjoiRyxRkXfggkcyUuQ",
+                    "children": [
+                      {
+                        "id": "434",
+                        "parent": "433",
+                        "text": "- Petequias, púrpura",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "435",
+                        "parent": "433",
+                        "text": "- Sangrado mucoso",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "436",
+                        "parent": "433",
+                        "text": "- Sangrado prolongado tras cortes menores",
+                        "guid": "h_BqQbYq8lx9_CwHIk_d2w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "437",
+            "parent": "384",
+            "text": "Diagnóstico",
+            "guid": "QOUsZ7Ze8EAdDjG2gjSAyg",
+            "children": [
+              {
+                "id": "438",
+                "parent": "437",
+                "text": "- Enfoque:",
+                "guid": "h79qV_mgzHEKyfUCFmANUQ",
+                "children": [
+                  {
+                    "id": "439",
+                    "parent": "438",
+                    "text": "- Iniciar evaluación diagnóstica y manejo simultáneamente",
+                    "guid": "XEUU7IQRl1UbOtjf6oLQYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "440",
+                    "parent": "438",
+                    "text": "- Confirmar tríada SHU",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "441",
+                    "parent": "438",
+                    "text": "- Evaluar daño a órganos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "442",
+                    "parent": "438",
+                    "text": "- Excluir CID y PTT",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "443",
+                    "parent": "438",
+                    "text": "- Determinar causa subyacente",
+                    "guid": "VOGu_ZkerBG4nWWyj1f0Pw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "444",
+                "parent": "437",
+                "text": "- Confirmación de\ntríada SHU:",
+                "guid": "gBVR9lDHJw6Qh0JpM2Lq6A",
+                "children": [
+                  {
+                    "id": "445",
+                    "parent": "444",
+                    "text": "- Trombocitopenia: típicamente la primera anomalía de laboratorio",
+                    "guid": "wIq7yuhf-HP_lfeKUAZ2WA",
+                    "children": []
+                  },
+                  {
+                    "id": "446",
+                    "parent": "444",
+                    "text": "- Anemia hemolítica\nmicroangiopática:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "447",
+                        "parent": "446",
+                        "text": "- ↓ Hemoglobina (<8 g/dL)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "448",
+                        "parent": "446",
+                        "text": "- ↓ Haptoglobina",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "449",
+                        "parent": "446",
+                        "text": "- ↑ Bilirrubina indirecta",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "450",
+                        "parent": "446",
+                        "text": "- ↑ Reticulocitos",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "451",
+                        "parent": "446",
+                        "text": "- ↑ LDH",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "452",
+                        "parent": "446",
+                        "text": "- ↑ Esquistocitos en frotis sanguíneo",
+                        "guid": "i9-qxT-oChI1iD6cT1_wXA",
+                        "children": []
+                      },
+                      {
+                        "id": "453",
+                        "parent": "446",
+                        "text": "- Prueba de Coombs directa: negativa",
+                        "guid": "WBAvWFAR3iX-M_rzJcAT2g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "454",
+                    "parent": "444",
+                    "text": "- Lesión renal aguda:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "455",
+                        "parent": "454",
+                        "text": "- ↑ BUN, ↑ creatinina, anomalías electrolíticas",
+                        "guid": "p3R4zm4-SWSIiupV-5dhKQ",
+                        "children": []
+                      },
+                      {
+                        "id": "456",
+                        "parent": "454",
+                        "text": "- Hemoglobinuria y/o proteinuria en urianálisis",
+                        "guid": "wESE_Y4btZ2GtCZ8rt3xtA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "457",
+                "parent": "437",
+                "text": "- Exclusión de\ndiagnósticos\ndiferenciales:",
+                "guid": "_3j8cdW6ZBQ6p6fC-6Pnng",
+                "children": [
+                  {
+                    "id": "458",
+                    "parent": "457",
+                    "text": "- Estudios de coagulación\npara distinguir de CID:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "459",
+                        "parent": "458",
+                        "text": "- TP, TTPa, productos de degradación de fibrina\ny D-dímero generalmente normales en SHU",
+                        "guid": "J4ur7cU3sAdw4sV5DmGM5Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "460",
+                    "parent": "457",
+                    "text": "- Prueba ADAMTS13 para\ndistinguir de PTT:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "461",
+                        "parent": "460",
+                        "text": "- Actividad ADAMTS13: >10% en SHU",
+                        "guid": "2Cdut0RwZ34GQ1idsiHuVg",
+                        "children": []
+                      },
+                      {
+                        "id": "462",
+                        "parent": "460",
+                        "text": "- Anticuerpos ADAMTS13: ausentes en SHU",
+                        "guid": "Ls01Ff_wJFu4b84PSJ4pXQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "463",
+                "parent": "437",
+                "text": "- Estudios de heces:",
+                "guid": "nOJcj8X4SJgoHJY4kOlatA",
+                "children": [
+                  {
+                    "id": "464",
+                    "parent": "463",
+                    "text": "- Cultivo para STEC O157:H7 y S. dysenteriae",
+                    "guid": "QnZaNjd0moVTGBtnm6TPuA",
+                    "children": []
+                  },
+                  {
+                    "id": "465",
+                    "parent": "463",
+                    "text": "- Inmunoensayo para toxina Shiga",
+                    "guid": "6e2WE8j9OdJtCuFCvGirpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "466",
+                    "parent": "463",
+                    "text": "- TAAN (PCR GI) para genes de toxina Shiga",
+                    "guid": "hETTOZtLyolxtyf2NdST8Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "467",
+            "parent": "384",
+            "text": "## Tratamiento",
+            "guid": "M9ybO12ZKhXzf7lu__v7EA",
+            "children": [
+              {
+                "id": "468",
+                "parent": "467",
+                "text": "- Manejo inicial:",
+                "guid": "uqNojF8g7fks1yt9zxz38g",
+                "children": [
+                  {
+                    "id": "469",
+                    "parent": "468",
+                    "text": "- Admisión a centro con soporte\nde diálisis en consulta con\nnefrología y hematología",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "470",
+                    "parent": "468",
+                    "text": "- Terapia con\nfluidos IV isotónicos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "471",
+                    "parent": "468",
+                    "text": "- Reposición de electrolitos y\ncorrección de trastornos ácido-base",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "472",
+                    "parent": "468",
+                    "text": "- Transfusiones si\nclínicamente indicadas:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "473",
+                        "parent": "472",
+                        "text": "- Transfusiones de\nglóbulos rojos",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "474",
+                        "parent": "472",
+                        "text": "- Transfusiones de plaquetas solo\npara sangrado significativo o\nprocedimiento invasivo",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "475",
+                    "parent": "468",
+                    "text": "- Terapia de reemplazo\nrenal según indicación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "476",
+                    "parent": "468",
+                    "text": "- Manejo de\ncomplicaciones",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "477",
+                "parent": "467",
+                "text": "- Manejo específico\nsegún causa:",
+                "guid": "gN9PP3KL9BX428YwqsbnSA",
+                "children": [
+                  {
+                    "id": "478",
+                    "parent": "477",
+                    "text": "- ST-SHU:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "479",
+                        "parent": "478",
+                        "text": "- No requiere\nmanejo adicional",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "480",
+                        "parent": "478",
+                        "text": "- Evitar antibióticos",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "481",
+                    "parent": "477",
+                    "text": "- SHU asociado a S.\npneumoniae:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "482",
+                        "parent": "481",
+                        "text": "- Tratar infección\ncon antibióticos",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "483",
+                    "parent": "477",
+                    "text": "- SHU mediado por\ncomplemento:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "484",
+                        "parent": "483",
+                        "text": "- Tratamiento preferido: inhibidores\ndel complemento terminal\n(eculizumab o ravulizumab)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "485",
+                        "parent": "483",
+                        "text": "- Tratamiento alternativo: terapia de\nintercambio plasmático",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "486",
+            "parent": "384",
+            "text": "## Complicaciones",
+            "guid": "hrOcSL97bL5n-9WmmUJHWw",
+            "children": [
+              {
+                "id": "487",
+                "parent": "486",
+                "text": "- SNC: convulsiones,\nparesia, ACV, coma",
+                "guid": "_5bVH7UJFXkXDhWmr3j59w",
+                "children": []
+              },
+              {
+                "id": "488",
+                "parent": "486",
+                "text": "- Tracto GI: colitis hemorrágica,\nnecrosis intestinal, perforación,\nestenosis, peritonitis, intususcepción",
+                "guid": "x2t7sky3QFrEeUcWyAuA-A",
+                "children": []
+              },
+              {
+                "id": "489",
+                "parent": "486",
+                "text": "- Corazón: miocardiopatía, insuficiencia\ncardíaca, derrame pericárdico",
+                "guid": "nm9nbRVKzInvRGeB_NVlTQ",
+                "children": []
+              },
+              {
+                "id": "490",
+                "parent": "486",
+                "text": "- Pulmón: síndrome de dificultad\nrespiratoria, hemorragia\npulmonar, derrame pleural",
+                "guid": "U04BEAeGFMt-xcXsgZpTww",
+                "children": []
+              },
+              {
+                "id": "491",
+                "parent": "486",
+                "text": "- Páncreas: pancreatitis,\nhiperglucemia insulino-dependiente",
+                "guid": "QIHvmywxqmfv-pYKd4aF_w",
+                "children": []
+              },
+              {
+                "id": "492",
+                "parent": "486",
+                "text": "- Hígado: hepatomegalia,\ntransaminasas elevadas",
+                "guid": "KjcwuoZflF_NdK1_k-6POg",
+                "children": []
+              },
+              {
+                "id": "493",
+                "parent": "486",
+                "text": "- Riñón: hipertensión,\nenfermedad renal crónica,\nenfermedad renal terminal",
+                "guid": "bTf8nbygRZP_GP1CU_Pn3w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "494",
+            "parent": "384",
+            "text": "## Pronóstico",
+            "guid": "gE1qH0Z9b0jGG00Qhbrg2A",
+            "children": [
+              {
+                "id": "495",
+                "parent": "494",
+                "text": "- Depende principalmente del\ninicio rápido del tratamiento",
+                "guid": "9JWaMF-bEPJZvmO1eIyYSg",
+                "children": []
+              },
+              {
+                "id": "496",
+                "parent": "494",
+                "text": "- Con tratamiento, tasa\nde mortalidad <5%",
+                "guid": "Ieu8Ie0FHcG0CDEdx3nQLQ",
+                "children": []
+              },
+              {
+                "id": "497",
+                "parent": "494",
+                "text": "- Compromiso\nrenal en niños:",
+                "guid": "R83UNGPNTto_98djo3PViQ",
+                "children": [
+                  {
+                    "id": "498",
+                    "parent": "497",
+                    "text": "- Hasta 50% requieren TRR\ndurante fase aguda",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "499",
+                    "parent": "497",
+                    "text": "- Hasta 50% desarrollan secuelas\nrenales a largo plazo, 5%\ndependientes de diálisis",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "500",
+                "parent": "494",
+                "text": "- No-ST-SHU: pronóstico menos\nfavorable, mayor riesgo de progresión a\nenfermedad renal terminal",
+                "guid": "vJEpccy0Xxy8r5706OWlxw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "501",
+            "parent": "384",
+            "text": "## Prevención",
+            "guid": "W_4S-ZkavgvXMBPrtE6i3Q",
+            "children": [
+              {
+                "id": "502",
+                "parent": "501",
+                "text": "- Optimizar manejo de\nenfermedad STEC-positiva",
+                "guid": "7XqaveeaKBn4iMlzCxNlRQ",
+                "children": []
+              },
+              {
+                "id": "503",
+                "parent": "501",
+                "text": "- Evitar antibióticos, narcóticos y\nagentes antimotilidad",
+                "guid": "MtC4vhWFUszVtsBmKfjVTw",
+                "children": []
+              },
+              {
+                "id": "504",
+                "parent": "501",
+                "text": "- Proporcionar fluidos IV\nisotónicos tempranamente",
+                "guid": "uhjogwFFcGgzZ8KT4ojKFw",
+                "children": []
+              },
+              {
+                "id": "505",
+                "parent": "501",
+                "text": "- Reevaluar diariamente hasta mejora\nde síntomas y estabilización de\nparámetros de laboratorio",
+                "guid": "Eilj2Z2yhTl6V4vbTgNIPA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 506,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Microangiopatía trombótica-2025-1",
+  "id": "map_737",
+  "resolved_references": []
+}

@@ -1,0 +1,85 @@
+{
+  "title": "FRAIL-AF (2024)",
+  "guid": "FRAILAF-2024",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/FRAIL-AF-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "FRAIL-AF (2024)\nFragility and Anticoagulation\nin Atrial Fibrillation\n\\n⭐ Suspender ACO en frágiles\\nNO es mejor que continuar\\nEstudio detenido por futilidad",
+    "guid": "FRAILAF-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Joosten LPT et al.\nAño: 2024\nRevista: Circulation\nDOI: 10.1161/CIRCULATIONAHA.123.066871\n\\nDiseño: RCT abierto\\nMulticéntrico: Países Bajos\\nn = 662 (detenido precoz)\\nSeguimiento: 12 meses",
+        "guid": "FRAILAF-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Joosten LPT et al. Circulation 2024\\n   DOI: 10.1161/CIRCULATIONAHA.123.066871\\n\\n2. ELDERCARE-AF. NEJM 2020\\n   Dosis baja en muy ancianos\\n\\n3. BAFTA Trial. Lancet 2007\\n   ACO beneficia ancianos",
+            "guid": "FRAILAF-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusión:\\n• FA con ACO (warfarina o DOAC)\\n• Fragilidad definida por:\\n  - Groningen Frailty Index mayor o igual 4\\n  O criterios clínicos fragilidad\\n• Edad mayor o igual 75 años\\n\\nCaracterísticas:\\n• Edad media: 83 años\\n• CHA2DS2-VASc: 4.5\\n• Muy frágiles\\n• 75% en DOAC",
+        "guid": "FRAILAF-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Discontinuar ACO:\\n• Suspender anticoagulante\\n• Sin sustitución\\n• n = 330\\n\\nGrupo Continuar ACO:\\n• Mantener ACO habitual\\n• DOAC o warfarina\\n• n = 332\\n\\nSeguimiento:\\n• 12 meses planificado\\n• Detenido a 12 meses por\\n  futilidad",
+        "guid": "FRAILAF-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nSangrado mayor (co-primario):\\n• Discontinuar: 7.0%\\n• Continuar: 7.4%\\n• Sin diferencia (NS)\\n\\nACV/Embolismo (co-primario):\\n• Discontinuar: 5.0%\\n• Continuar: 1.5%\\n• Más eventos al discontinuar ✗\\n\\nMortalidad:\\n• Tendencia mayor al discontinuar\\n\\nFutilidad:\\n• Imposible demostrar beneficio\\n• Señal de daño potencial",
+        "guid": "FRAILAF-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ POR QUE SE DETUVO\n\\nFutilidad:\\n• No se iba a demostrar\\n  que suspender es mejor\\n\\nSeñal de daño:\\n• 5% vs 1.5% ACV\\n• Tendencia mortalidad\\n\\nData Safety Board:\\n• Recomendó detener\\n• Continuar no ético\\n\\nMensaje:\\n• Fragilidad NO es razón\\n  para suspender ACO\\n• Beneficio persiste en frágiles",
+        "guid": "FRAILAF-STOP",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT en población real\\n✓ Frágiles verdaderos\\n✓ Pregunta clínica relevante\\n✓ Detenido éticamente\\n\\nLimitaciones:\\n• Abierto (no ciego)\\n• Muestra pequeña (detenido)\\n• Solo Países Bajos\\n• Definición fragilidad variable\\n\\nImportancia:\\n• Primer RCT discontinuación\\n  ACO en frágiles",
+        "guid": "FRAILAF-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ CRUCIAL\n\\nMensaje clave:\\n• NO suspender ACO solo\\n  porque paciente es frágil\\n• Fragilidad NO = suspender\\n\\nCuándo SÍ considerar suspender:\\n• Sangrado mayor recurrente\\n• Expectativa vida muy corta\\n• Preferencia informada paciente\\n\\nPráctica clínica:\\n• Continuar ACO por defecto\\n• Decisión compartida\\n• Individualizar, no generalizar",
+        "guid": "FRAILAF-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Fragilidad NO justifica suspender:\n   primer RCT lo demuestra\n\\n2. 5% vs 1.5% ACV:\n   señal clara de daño\n\\n3. Sangrado similar:\n   no se reduce al suspender\n\\n4. Detenido por futilidad:\n   nunca iba a ser mejor\n\\n5. DOAC preferible en frágiles:\n   más seguro que warfarina\n\\n6. Decisión compartida:\n   informar riesgo suspensión\n\\n7. Expectativa vida corta:\n   única consideración válida\n\\n8. ELDERCARE complementa:\n   dosis baja si no tolera estándar",
+        "guid": "FRAILAF-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Entidades clínicas/General",
+  "filename": "FRAIL-AF-2026",
+  "id": "map_831",
+  "resolved_references": []
+}

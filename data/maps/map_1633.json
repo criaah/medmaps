@@ -1,0 +1,1369 @@
+{
+  "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA",
+  "guid": "1A4966C255EB262E23A95C6E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/ACV ESCALAS DE UTILIDAD CLÍNICA-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ACV: ESCALAS DE\nUTILIDAD CLÍNICA",
+    "guid": "RHnuWg59fipw7QLDc0042A",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "I. VALORACIÓN\nINICIAL",
+        "guid": "fWCb7yfPA2Rq7vRFZFatMw",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "A. NIHSS (National Institutes\nof Health Stroke Scale)",
+            "guid": "SxwTyxx4Pyd6EF95a11G9Q",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "→ Gravedad del ACV.",
+                "guid": "dQ-hhBqJP9cxR4vNUKhu5A",
+                "children": [
+                  {
+                    "id": "4",
+                    "parent": "3",
+                    "text": "0: Sin síntomas.",
+                    "guid": "W5jNYB6emLUq9r6KYMZiqw",
+                    "children": []
+                  },
+                  {
+                    "id": "5",
+                    "parent": "3",
+                    "text": "1-4: ACV menor.",
+                    "guid": "YxKCxUz6TuF42RzFAzC8NA",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "3",
+                    "text": "5-15: ACV moderado.",
+                    "guid": "PUOi4VTz_lFnBrlbCQWLmg",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "3",
+                    "text": "16-20: ACV grave.",
+                    "guid": "bz1lEzzx34osrugIM7dTbg",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "3",
+                    "text": "21-42: ACV muy grave.",
+                    "guid": "S29dtB2b6ssnBIxGfnriMQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9",
+                "parent": "2",
+                "text": "Items:",
+                "guid": "PsGXO1L_LahtqG4YPCIzKg",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "1a. Nivel Conciencia.",
+                    "guid": "es4xDFiXYl0geOBeRepE1w",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "9",
+                    "text": "1b. Preguntas (Mes/Edad).",
+                    "guid": "OSfYjFw-SlcxbtGPHDpbUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "9",
+                    "text": "1c. Órdenes (Ojos/Mano).",
+                    "guid": "KTiZOCpH7lQfaxeFZnw8Gg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "9",
+                    "text": "2. Mirada horizontal.",
+                    "guid": "fzvspQZx0OFvgce0bnlRuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "9",
+                    "text": "3. Campo visual.",
+                    "guid": "Q2Owaxwwr7wiMKUnDtMOHw",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "9",
+                    "text": "4. Parálisis facial.",
+                    "guid": "OcyaiEk1MW0NTfBQeI4xww",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "9",
+                    "text": "5. Motor Brazo (a:Der/b:Izq).",
+                    "guid": "HDRfFXr2Xmg0sGTuFwKQIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "9",
+                    "text": "6. Motor Pierna (a:Der/b:Izq).",
+                    "guid": "U43AxVUpRUxc7NT4SJ1iSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "9",
+                    "text": "7. Ataxia extremidades.",
+                    "guid": "b7KFIw40YMUZRdEtKNpdsA",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "9",
+                    "text": "8. Sensibilidad.",
+                    "guid": "anKrHEq0orxFFLkBE6tEVQ",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "9",
+                    "text": "9. Lenguaje.",
+                    "guid": "dPyREGR_0Id6J4BvdDh9tg",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "9",
+                    "text": "10. Disartria.",
+                    "guid": "avGhaGmpSCNisc9vLlVR0w",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "9",
+                    "text": "11. Extinción/Inatención.",
+                    "guid": "Bdn33wTidJY9KF_yP6aSZw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "1",
+            "text": "B. ASPECTOS (Alberta Stroke\nProgram Early CT Score)",
+            "guid": "ThemA0p2UEI4NMQrakwFGA",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "→ Extensión de la\nisquemia en TC.",
+                "guid": "RZJFoR-wCjpqjbpoOo7WsQ",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "10: Normal.",
+                    "guid": "RWyuqmzlKRkBTpU5GPpvbw",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "<7: Isquemia extensa (>1/3 territorio ACM).",
+                    "guid": "Qg5uZV47ajFhl9G4McDziA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27",
+                "parent": "23",
+                "text": "Territorio ACM:",
+                "guid": "bG_K93rdouVam1E4VuJ2Ew",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "M1: Córtex Anterior.",
+                    "guid": "BC_awWS1Otcux1RnbyF8KQ",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "M2: Córtex Lateral.",
+                    "guid": "Tl6C-hF5I9Ydds38VDh62g",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "M3: Córtex Posterior.",
+                    "guid": "FluYbFqfLe4T3w1BZHM-bw",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "27",
+                    "text": "M4: Anterior a M1.",
+                    "guid": "JRV-MEwT0WxOv0OHaoIs2g",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "27",
+                    "text": "M5: Lateral a M2.",
+                    "guid": "OPj6hVAN2MADfJxJewdo6g",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "27",
+                    "text": "M6: Posterior a M3.",
+                    "guid": "LklC8mUUbgEsyFxzGrkN6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "27",
+                    "text": "C: Caudado.",
+                    "guid": "X_IQ5gdjratxm4P8JYRWhw",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "27",
+                    "text": "L: Lenticular.",
+                    "guid": "JxO35VwpPmVgEy04K0OSpg",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "27",
+                    "text": "I: Ínsula.",
+                    "guid": "QN55PA7agaAaZQ7PDzz8Nw",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "27",
+                    "text": "IC: Cápsula Interna.",
+                    "guid": "IFOldjfb3MtjdXcRNq894w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "1",
+            "text": "C. Glasgow \n(Glasgow Coma Scale)",
+            "guid": "EnsKuXdUhFIbInxSN5CI6Q",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "→ Nivel de\nConciencia.",
+                "guid": "ULar13AtVLN97A3ZEZUlEw",
+                "children": [
+                  {
+                    "id": "40",
+                    "parent": "39",
+                    "text": "15: Normal.",
+                    "guid": "Q2hVv2nhv9oiErXDfGFQRA",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "39",
+                    "text": "≤8: Coma (Intubación).",
+                    "guid": "Oe-YmiWPUgx3aLkvaDjbjA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42",
+                "parent": "38",
+                "text": "Apertura Ocular\n(AO)",
+                "guid": "CqPADSQxFaIC8el1apXQ8w",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "4: Espontánea.",
+                    "guid": "K5TDTXSNbXIQGid6Uqh7Mw",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "42",
+                    "text": "3: A la voz.",
+                    "guid": "fwfWUxhRHKkg0iFKH1t7yQ",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "42",
+                    "text": "2: Al dolor.",
+                    "guid": "UCz5dARHmFtWCrmsYqgELg",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "42",
+                    "text": "1: No.",
+                    "guid": "e5wcrnEtNf8aOI0XPwRybQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47",
+                "parent": "38",
+                "text": "Respuesta Verbal\n(RV)",
+                "guid": "Ww712TxLQts7ZcKxFP6Ocw",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "5: Orientada.",
+                    "guid": "YdqU5zLOe-B9N2oAbH5U9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "4: Confusa.",
+                    "guid": "Vv-RggApU3VXFCXoApRU0A",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "47",
+                    "text": "3: Inapropiada.",
+                    "guid": "dLbA52cuTWNVPNADRW1svg",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "47",
+                    "text": "2: Incomprensible.",
+                    "guid": "V1uiFlMo3dxXApHSVmN4aQ",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "47",
+                    "text": "1: No.",
+                    "guid": "a3n6hXfUsxx1vvQyO6bz-g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53",
+                "parent": "38",
+                "text": "Respuesta Motora\n(RM)",
+                "guid": "fBxLeEvJrd8eTvgod7hoJg",
+                "children": [
+                  {
+                    "id": "54",
+                    "parent": "53",
+                    "text": "6: Obedece.",
+                    "guid": "PPbj3jiHhT82vNqTGAXZtw",
+                    "children": []
+                  },
+                  {
+                    "id": "55",
+                    "parent": "53",
+                    "text": "5: Localiza.",
+                    "guid": "dNLIGnIinUQtBGgqVq1dAg",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "53",
+                    "text": "4: Retira.",
+                    "guid": "JPEZJSo70ipDK7H3e_Cqpw",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "53",
+                    "text": "3: Flexión (Decorticación).",
+                    "guid": "KmUloBo_199-hP93Hxvmhw",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "53",
+                    "text": "2: Extensión (Descerebración).",
+                    "guid": "AW4lQlPBz3pkiVNGWMnHWA",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "53",
+                    "text": "1: No.",
+                    "guid": "JuqtVzuL5RgvLT_BEmSn3A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "parent": "0",
+        "text": "II. VALORACIÓN\nFUNCIONAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "61",
+            "parent": "60",
+            "text": "A. Rankin modificada\n(mRS)",
+            "guid": "M2CYNCTsM_ROC5vWL3zjrA",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "→ Discapacidad\nPost-ACV.",
+                "guid": "cLXh02xak_4nNUvSLazFsQ",
+                "children": [
+                  {
+                    "id": "63",
+                    "parent": "62",
+                    "text": "0: Sin síntomas.",
+                    "guid": "JOIZPl3yJmVFsp9oGbThWA",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "62",
+                    "text": "1: Síntomas no incapacitantes.",
+                    "guid": "UBTDqnK3B5JwYj5adQXczw",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "62",
+                    "text": "2: Discapacidad leve.",
+                    "guid": "HPLZvTON8FFw9od2R1f_XQ",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "62",
+                    "text": "3: Discapacidad moderada.",
+                    "guid": "Tc3IMW97hu5mc-XkTzvtcw",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "62",
+                    "text": "4: Discapacidad moderada-grave.",
+                    "guid": "Qz1WaEr9OSooBbTMaigDvw",
+                    "children": []
+                  },
+                  {
+                    "id": "68",
+                    "parent": "62",
+                    "text": "5: Discapacidad grave.",
+                    "guid": "BokeQlcy9I18jKucOem2dw",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "62",
+                    "text": "6: Muerte.",
+                    "guid": "fB8ogUqYR3JpZpojbNUKVA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "60",
+            "text": "B. Barthel → Actividades de\nla vida diaria (AVD).",
+            "guid": "NvLbcRCb5fYagdAFW9T0rw",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "100: Independiente.",
+                "guid": "bo4MW2A0b211idYHPqLQBQ",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "70",
+                "text": "≥60: Dependencia leve.",
+                "guid": "Uut3AGXsFGIzqKzUb95QvQ",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "70",
+                "text": "40-55: Dependencia moderada.",
+                "guid": "GXoEsySfNEs3NlAaZ0fM5A",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "70",
+                "text": "20-35: Dependencia grave.",
+                "guid": "FBq7OR2qNf42g7pYV1gRoQ",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "70",
+                "text": "<20: Dependencia total.",
+                "guid": "aKdvKV6JbyRBgBVhbzCNaw",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "70",
+                "text": "Items:",
+                "guid": "NbxjsT4MwP0pGkPiMduMMw",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "Comer",
+                    "guid": "CKUIbxKA3gYesJaHP5fj4A",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "Lavarse/Bañarse",
+                    "guid": "IxzD_DkyZo0bbNiPEarQVw",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "76",
+                    "text": "Vestirse",
+                    "guid": "GWbV-hD2rpdQTaBdbFJM-g",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "76",
+                    "text": "Arreglarse",
+                    "guid": "duLC-QP2TTFcMJ23EFzHrA",
+                    "children": []
+                  },
+                  {
+                    "id": "81",
+                    "parent": "76",
+                    "text": "Deposiciones",
+                    "guid": "KJWBfBNm7dF3pJSRPLA8tQ",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "76",
+                    "text": "Micción",
+                    "guid": "MREj0C4oTukUCE5XGbiS-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "76",
+                    "text": "Retrete",
+                    "guid": "DLG-DVWIY7gI6SBkQm4hvg",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "76",
+                    "text": "Traslado Sillón/Cama",
+                    "guid": "E5UktTIDZEd0Sa3xHDotJA",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "76",
+                    "text": "Deambulación",
+                    "guid": "RIRCTRL6RHlb0hEFZ6EGSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "76",
+                    "text": "Escalones",
+                    "guid": "TCyrBnc-6ZR5S9agZZOBAA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "III. OTRAS ESCALAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "88",
+            "parent": "87",
+            "text": "A. ABCD2 → Riesgo\nde ACV tras AIT.",
+            "guid": "CDWYK0mZdv1R5c37fxhbJA",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "≥4: Alto Riesgo\n(Ingreso hospitalario).",
+                "guid": "TY_ELy4Wa7IPdSLRdiVFqw",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "0-3: Bajo riesgo",
+                "guid": "QX1ZhAcZt2Iy1YJhco59VA",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "88",
+                "text": "A (Age): ≥60 años (+1).",
+                "guid": "NUIGS0bd0LgMRxBNQfPEWA",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "88",
+                "text": "B (Blood Pressure): ≥140/90 mmHg (+1).",
+                "guid": "HGY0cBUwMLEEYeYWL_tZJQ",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "88",
+                "text": "C (Clinical Features):",
+                "guid": "RzOU-HirlAhMNYZJC7fXRQ",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "Debilidad unilateral (+2).",
+                    "guid": "C6XYgSgHl05zWN2OV9KDhw",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "Alteración del habla (+1).",
+                    "guid": "H0aA42yktC89ZgSHJ3wZDg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96",
+                "parent": "88",
+                "text": "D (Duration):",
+                "guid": "Nj4rLA9L0oImlHQzA83vWw",
+                "children": [
+                  {
+                    "id": "97",
+                    "parent": "96",
+                    "text": "≥60 min (+2).",
+                    "guid": "PWI-NTYJlwR58zUHft-XuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "96",
+                    "text": "10-59 min (+1).",
+                    "guid": "PSNOZizIt2hxbhUNcmVUsQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99",
+                "parent": "88",
+                "text": "D (Diabetes):  (+1).",
+                "guid": "c6aIIH21JVo0WRkJEAy8kA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "parent": "87",
+            "text": "B. CHADS2 / CHA2DS2-VASc →\nRiesgo Embólico en Fibrilación Auricular\n(FA).",
+            "guid": "EuVWCzi6_x9ACBW1WhjrBA",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "CHADS2:",
+                "guid": "MWaTJww9m_5l0MJJPQxrqA",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "C (Congestive Heart Failure): (+1).",
+                    "guid": "NEUzTVkpn9gU3u8vU4u0MA",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "H (Hypertension): (+1).",
+                    "guid": "Rc5UB1JE87d7B80-fAx_Mw",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "101",
+                    "text": "A (Age): ≥75 años (+1).",
+                    "guid": "YZDGOSGcQXF_2m6PHvMEbg",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "101",
+                    "text": "D (Diabetes): (+1).",
+                    "guid": "V6XYdXnNo5Yd0pwnFMkm2w",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "101",
+                    "text": "S (Stroke/TIA/Embolism): (+2).",
+                    "guid": "JpZa_g9AsTQHLnuMGjzjHg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "parent": "100",
+                "text": "CHA2DS2-VASc:",
+                "guid": "DPXWjjuHlJUqSZ-uH9ssmg",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "C: Insuficiencia Cardíaca (+1).",
+                    "guid": "dEKTtWpRtWN59BeeJakm3A",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "H: Hipertensión (+1).",
+                    "guid": "do9RYV_E2editZKFKtSErg",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "107",
+                    "text": "A2: Edad ≥75 años (+2).",
+                    "guid": "OO55v3eUgbR-YDjefrzNxg",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "107",
+                    "text": "D: Diabetes (+1).",
+                    "guid": "Sdl1a3loBh16yUz6K2o7pQ",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "107",
+                    "text": "S2: ACV/AIT/Embolismo previo (+2).",
+                    "guid": "GwRHjnqju4lKXUATcqogBA",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "107",
+                    "text": "V: Vasculopatía (+1).",
+                    "guid": "dHFfH2gv3DsHc0bfGwe6HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "107",
+                    "text": "A: Edad 65-74 años (+1).",
+                    "guid": "d3CNbw6hwmw1RJ07BGZj_g",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "107",
+                    "text": "Sc: Sexo Femenino (+1).",
+                    "guid": "SilXAV-OPOkkQZCYPmvqtg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "parent": "87",
+            "text": "C. HAS-BLED → Riesgo de Sangrado en\nPacientes con FA Anticoagulados.",
+            "guid": "Sd_yTB41qDZkFRGTQG9DrQ",
+            "children": [
+              {
+                "id": "117",
+                "parent": "116",
+                "text": "≥3: Alto riesgo.",
+                "guid": "ffqCHUbKpBhrQ8hcNuj73Q",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "116",
+                "text": "H: Hipertensión no controlada (+1).",
+                "guid": "Pl8lzGmkATo1pcmjCDibOA",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "116",
+                "text": "A: Función Renal/Hepática Anormal (Diálisis, Trasplante, Creatinina >2.26 mg/dL)\n(+1) / (Cirrosis, Bilirrubina >2x límite superior, AST/ALT/FA >3x límite superior) (+1).",
+                "guid": "YwwHVzBvFp0zotbdfhBO5g",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "116",
+                "text": "S: ACV Previo (+1).",
+                "guid": "KxLSJn4AFvBwum7qH4QxRQ",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "116",
+                "text": "B: Historia de Sangrado (+1).",
+                "guid": "Zi_zK3gttck6i-tiXaCAmw",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "116",
+                "text": "L: INR Lábil (+1).",
+                "guid": "Bs94NW_QiJ1iBuSZUPjPNw",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "116",
+                "text": "E: Edad >65 años (+1).",
+                "guid": "T17FhgZIdTEPZLntGT630g",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "116",
+                "text": "D: Fármacos (Antiagregantes, AINEs) (+1)/ Consumo de Alcohol (+1).",
+                "guid": "JH4dZ3N5y4BZrfuAInifhA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "87",
+            "text": "D. FOUR Score (Full Outline of UnResponsiveness) -\nDeterioro Neurológico.",
+            "guid": "OkRvmETxw9xZYZtheKOVZQ",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "E (Eye Response):",
+                "guid": "LpXFFg8HZQUA3DCdEaHMbg",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "4: Párpados abiertos, rastreo o parpadeo a la orden.",
+                    "guid": "P3Z7ojR_B3oPshtUaolNyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "126",
+                    "text": "3: Párpados abiertos pero sin rastreo.",
+                    "guid": "Mn8eagBsij4KDX8OGK8Rlg",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "126",
+                    "text": "2: Párpados cerrados, se abren a estímulo fuerte pero sin rastreo.",
+                    "guid": "eJpAB0SZanF2T5Ixf2m4PQ",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "126",
+                    "text": "1: Párpados cerrados, se abren al dolor pero sin rastreo.",
+                    "guid": "NGnzDlhWdspQYod0A8i4lQ",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "126",
+                    "text": "0: Párpados permanecen cerrados con dolor.",
+                    "guid": "Xp7r-1_HQWEdB3BnAx0JYg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "125",
+                "text": "M (Motor Response):",
+                "guid": "U0EM4na1a-cllajmDYV8eg",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "4: Pulgar arriba, puño o signo de la paz.",
+                    "guid": "O6cvw373REgGKRHfajz02g",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "3: Localiza al estímulo doloroso.",
+                    "guid": "Df6pTQcFQnx73sFITXUk7w",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "132",
+                    "text": "2: Respuesta flexora al dolor.",
+                    "guid": "O4RJ9guQ3Jw3_nK4bgNoYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "132",
+                    "text": "1: Respuesta extensora al dolor.",
+                    "guid": "C_1m2kIL8ccGsnn3BJem4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "132",
+                    "text": "0: Sin respuesta al dolor o estado mioclónico generalizado.",
+                    "guid": "BqVcOH0CDCgEAV8eOw9PRg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "138",
+                "parent": "125",
+                "text": "B (Brainstem Reflexes):",
+                "guid": "VViC8lRj5pI-2AfbM_du7Q",
+                "children": [
+                  {
+                    "id": "139",
+                    "parent": "138",
+                    "text": "4: Reflejos pupilar y corneal presentes.",
+                    "guid": "NCsn9FvfeEM3FHhPB2w01g",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "138",
+                    "text": "3: Una pupila ancha y fija.",
+                    "guid": "UpTkKlyqITUU8bFQDjwT7g",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "138",
+                    "text": "2: Reflejos pupilar o\ncorneal ausentes.",
+                    "guid": "W6FlfRsawzB4eQjIaaAOyg",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "138",
+                    "text": "1: Reflejos pupilar y\ncorneal ausentes.",
+                    "guid": "IiAFrHRXyhA3FTO6XaRPow",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "138",
+                    "text": "0: Ausentes reflejos pupilar,\ncorneal y tusígeno.",
+                    "guid": "f-imrG8TpnJLp7gEC-YNhg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "144",
+                "parent": "125",
+                "text": "R (Respiration):",
+                "guid": "MR-YOVJaMfsQfbRnN8T0cQ",
+                "children": [
+                  {
+                    "id": "145",
+                    "parent": "144",
+                    "text": "4: No intubado, patrón\nrespiratorio regular.",
+                    "guid": "T1w-IxR_E4Zy1EO4JLTBFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "144",
+                    "text": "3: No intubado, respiración\nde Cheyne-Stokes.",
+                    "guid": "aOL6GDGsS5NYrDACHQ4iDA",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "144",
+                    "text": "2: No intubado,\nrespiración irregular.",
+                    "guid": "DYvD1g_AqFEkelbiYCCoAQ",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "144",
+                    "text": "1: Respira por encima de la\nfrecuencia del ventilador.",
+                    "guid": "bGrJhjlsCDNuXLvvSAwvBA",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "144",
+                    "text": "0: Respira a la frecuencia del\nventilador o apnea.",
+                    "guid": "VIbLY2bVxLcxrD3OdqbRDw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "150",
+        "parent": "0",
+        "text": "ICH SCORE (Intracerebral Hemorrhage Score) → Gravedad\ny pronóstico de la Hemorragia Intracerebral (HIC).",
+        "guid": "Lzwb_EVZJ6J-eVJNIYkmrg",
+        "children": [
+          {
+            "id": "151",
+            "parent": "150",
+            "text": "Puntuación: 0-6.",
+            "guid": "PNMfAj8y9vNjMm-CSMwp6Q",
+            "children": []
+          },
+          {
+            "id": "152",
+            "parent": "150",
+            "text": "Mortalidad a 30 días:",
+            "guid": "csDfUUmQeWw9qC7oV_sTQw",
+            "children": [
+              {
+                "id": "153",
+                "parent": "152",
+                "text": "0: 0%",
+                "guid": "CJqzV0-SVfNKwQsLV2WVlA",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "152",
+                "text": "1: 13%",
+                "guid": "BfbT4R2nqtQSm0FXdcdaAg",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "152",
+                "text": "2: 26%",
+                "guid": "XusGjBXdHB46HquGBwQm-w",
+                "children": []
+              },
+              {
+                "id": "156",
+                "parent": "152",
+                "text": "3: 72%",
+                "guid": "Sss0s3UczhoKStYxaHq-0Q",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "152",
+                "text": "4: 97%",
+                "guid": "BGYRYGinutpd_2DqM6ItXA",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "152",
+                "text": "≥5: 100%",
+                "guid": "LgDifFx4szhVK1QKatQBfg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "159",
+            "parent": "150",
+            "text": "Variables:",
+            "guid": "G6uqKzhdw40zoCtnDmyJfQ",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "G (Glasgow\nComa Scale):",
+                "guid": "Ae48-XFIWk9mZ5zACojwUA",
+                "children": [
+                  {
+                    "id": "161",
+                    "parent": "160",
+                    "text": "3-4: +2",
+                    "guid": "QNqwQzEop8th7oXkRtGEJA",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "160",
+                    "text": "5-12: +1",
+                    "guid": "TtBSn3SJxzs8mN4nLbtZKw",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "160",
+                    "text": "13-15: +0",
+                    "guid": "CmbjWXa3ia00v4AmVTIYDQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "164",
+                "parent": "159",
+                "text": "V (Volumen HIC):",
+                "guid": "a9RXxz8KVlc9rNbecDppJw",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "≥30 cm3: +1",
+                    "guid": "J7IRMRusN8kj3JaEVbLzrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "164",
+                    "text": "<30 cm3: +0",
+                    "guid": "eCTrAXkH6o5AhvUrE9CVLA",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "164",
+                    "text": "Calculo: (AxBxC)/2 en cm, donde A es el diámetro mayor de la hemorragia, B el diámetro perpendicular\na A y C el número de cortes donde se visualiza la hemorragia multiplicado por el grosor del corte.",
+                    "guid": "MWWuG3QnIJMiPR6pM1PrFA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "159",
+                "text": "I (Hemorragia\nIntraventricular):",
+                "guid": "ZW964giku2k93NtlJkorJQ",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "Sí: +1",
+                    "guid": "Oc1jNB_LYUltG69KCJ210w",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "No: +0",
+                    "guid": "FFUohSm0jXE2WQ7-HrwL3g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "171",
+                "parent": "159",
+                "text": "L (Localización\nInfratentorial):",
+                "guid": "KiLlezGa-sp8etgNUdT2rA",
+                "children": [
+                  {
+                    "id": "172",
+                    "parent": "171",
+                    "text": "Sí: +1",
+                    "guid": "TUcykyBXbpEnh-pZRWwdlA",
+                    "children": []
+                  },
+                  {
+                    "id": "173",
+                    "parent": "171",
+                    "text": "No: +0",
+                    "guid": "GV9ZIGgO34VZPLLASsUHOw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "174",
+                "parent": "159",
+                "text": "E (Edad):",
+                "guid": "XDYAGHt50Wp-GPJQQaV6-g",
+                "children": [
+                  {
+                    "id": "175",
+                    "parent": "174",
+                    "text": "≥80 años: +1",
+                    "guid": "BB6M0zv1zbVn76YgPevwCA",
+                    "children": []
+                  },
+                  {
+                    "id": "176",
+                    "parent": "174",
+                    "text": "<80 años: +0",
+                    "guid": "fr_i23zitNoO0mNiHyv5-Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "177",
+        "parent": "0",
+        "text": "Referencias:",
+        "guid": "",
+        "children": [
+          {
+            "id": "178",
+            "parent": "177",
+            "text": "Hemphill, J. C., et al. \"The ICH score: a simple,\nreliable grading scale for intracerebral hemorrhage.\"\nStroke 32.4 (2001): 891-897. (1)",
+            "guid": "Z_tD_gLAh00rbGjfEh4peg",
+            "children": []
+          },
+          {
+            "id": "179",
+            "parent": "177",
+            "text": "Broderick, J. P., et al. \"Evolution of the NIH\nStroke Scale and its use in clinical trials.\"\nStroke 31.6 (2000): 1458-1463. (1)",
+            "guid": "Wy2Ox2jBcYhUSyCyWxY1cw",
+            "children": []
+          },
+          {
+            "id": "180",
+            "parent": "177",
+            "text": "Barber, P. A., et al. \"Validity and reliability of a quantitative\ncomputed tomography score in predicting outcome of\nhyperacute stroke before thrombolytic therapy.\" The Lancet\n355.9216 (2000): 1670-1674. (2)",
+            "guid": "V9UX-x_y2LZm_EL5CPSwNA",
+            "children": []
+          },
+          {
+            "id": "181",
+            "parent": "177",
+            "text": "Teasdale, G., & Jennett, B. \"Assessment of coma and\nimpaired consciousness: a practical scale.\" The Lancet\n304.7872 (1974): 81-84. (3)",
+            "guid": "ck0KsXd592BAuaSmQalI1A",
+            "children": []
+          },
+          {
+            "id": "182",
+            "parent": "177",
+            "text": "Quinn, T. J., et al. \"Modified rankin\nscale: a systematic review.\" Stroke 40.\n11 (2009): 3393-3398. (4)",
+            "guid": "C_kK5jON6F5mXgnpdNwE_w",
+            "children": []
+          },
+          {
+            "id": "183",
+            "parent": "177",
+            "text": "Mahoney, F. I., & Barthel, D. W. \"Functional\nevaluation: the Barthel Index.\" Maryland state\nmedical journal 14 (1965): 61-65. (5)",
+            "guid": "ZToz8T8KOesR6icLcsX3yA",
+            "children": []
+          },
+          {
+            "id": "184",
+            "parent": "177",
+            "text": "Johnston, S. C., et al. \"Validation and refinement\nof scores to predict very early stroke risk after\ntransient ischaemic attack.\" The Lancet 369.9558\n(2007): 283-292. (6)",
+            "guid": "TsriPDZkfe5S5p_JOzWrww",
+            "children": []
+          },
+          {
+            "id": "185",
+            "parent": "177",
+            "text": "Lip, G. Y., et al. \"Refining clinical risk stratification for\npredicting stroke and thromboembolism in atrial\nfibrillation using a novel risk factor-based approach:\nthe euro heart survey on atrial fibrillation.\" Chest 137.2\n(2010): 263-272. (7)",
+            "guid": "b9CGIUFDW7gDQdrHRFdRhA",
+            "children": []
+          },
+          {
+            "id": "186",
+            "parent": "177",
+            "text": "Pisters, R., et al. \"A novel user-friendly score\n(HAS-BLED) to assess 1-year risk of major bleeding in\npatients with atrial fibrillation: the Euro Heart Survey.\"\nChest 138.5 (2010): 1093-1100. (8)",
+            "guid": "KBkgbzTuGJU6_iKTA0avNg",
+            "children": []
+          },
+          {
+            "id": "187",
+            "parent": "177",
+            "text": "Wijdicks, E. F., et al. \"Validation of a new coma\nscale: The FOUR score.\" Annals of neurology\n58.4 (2005): 585-593. (9)",
+            "guid": "Ha-KHg9JQ0ZeXOSpdYSiGQ",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 188,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Neurología",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "ACV ESCALAS DE UTILIDAD CLÍNICA-2025-1",
+  "id": "map_1633",
+  "resolved_references": []
+}

@@ -1,0 +1,2876 @@
+{
+  "title": "Hipertensión intracraneana",
+  "guid": "1FFE5814C34D306F324AB834",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/UTD. Hipertensión intracraneana-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Hipertensión intracraneana",
+    "guid": "HANOp576KI4dXo9Ch-YmKg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Contexto",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "1. Introducción",
+            "guid": "mkYutrVls2qfcf8EIQB7uA",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "✔ Definición: La presión intracraneal (PIC) elevada es\nuna complicación grave de lesiones neurológicas.",
+                "guid": "1VCXA1BksN3Oj6FBIVgW8Q",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "✔ Etiología:\nPuede deberse a:",
+                "guid": "VvfQSujzRZSnzcj8R7ZAGQ",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "➝ Trauma",
+                    "guid": "URU8NIdhEmjFXqughNuosA",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "➝ Tumores SNC",
+                    "guid": "4uGf41RBpVA2gblIBRLf1A",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "4",
+                    "text": "➝ Hidrocefalia",
+                    "guid": "iwMA0SbCjFkzTXiJkdCycg",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "4",
+                    "text": "➝ Encefalopatía hepática",
+                    "guid": "Jt4U2EIJc5YYnCcJbhOkaA",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "4",
+                    "text": "➝ Obstrucción del drenaje venoso del SNC",
+                    "guid": "vL_etOtgaObiMQfPchbfwg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10",
+                "parent": "2",
+                "text": "✔ Manejo requiere:",
+                "guid": "N0d_MIRzdndfkjmxvswQmQ",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "➝ Reconocimiento precoz",
+                    "guid": "M4lG8gavLAyW4YsUt4Z99A",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "➝ Uso juicioso de monitorización invasiva",
+                    "guid": "5GbH5qzqttrWo9J4UDmcEw",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "➝ Tratamiento dirigido a ↓ PIC y corregir causa subyacente",
+                    "guid": "d43f4KK2FEKpXQQjjkjthQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "parent": "1",
+            "text": "2. Fisiología de la PIC",
+            "guid": "U1f59NlmDcmRdIWaMs1ZcQ",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "✔ Valores normales:",
+                "guid": "fnkxoWTcrNpYlgyH4gPzYw",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "➝ PIC ≤ 15 mmHg en adultos",
+                    "guid": "cntt8JE6h1Fbyzkm65kppQ",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "➝ PIC patológica ≥ 20 mmHg",
+                    "guid": "wF6SNshPEWB3iMj5b4AqRg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18",
+                "parent": "14",
+                "text": "✔ Mecanismos\nhomeostáticos:",
+                "guid": "4YDXEs-u5Z-57fzmYPrt6g",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "➝ Estabilizan la PIC",
+                    "guid": "cI1E3WLDlvrpnrayk2BEAQ",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "➝ Elevaciones transitorias en eventos fisiológicos (Valsalva, tos, estornudos)",
+                    "guid": "LtQBWdyhWtHfiDP0JIzt5Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "parent": "14",
+                "text": "✔ Componentes intracraneales:\n(volumen total: 1400-1700 mL)",
+                "guid": "ozkZWeCs83-BKe05on8isw",
+                "children": [
+                  {
+                    "id": "22",
+                    "parent": "21",
+                    "text": "➝ Parénquima cerebral (80%)",
+                    "guid": "tAoYvBBJqDgnVVDtf4jddg",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "21",
+                    "text": "➝ Líquido cefalorraquídeo (LCR) (10%)",
+                    "guid": "5Bn9BOcVMTHCy_zQBCtmgA",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "21",
+                    "text": "➝ Sangre intracraneal (10%)",
+                    "guid": "Vduat_XGIRD02Fuo60RrKQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25",
+                "parent": "14",
+                "text": "✔ Doctrina de\nMonro-Kellie:",
+                "guid": "2S0CWnt0VFffnFPiwpp2-A",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "➝ Volumen intracraneal constante: cualquier aumento de un componente → desplazamiento de otro o ↑ PIC",
+                    "guid": "-AyZVSKrrnzrZHE1I0G5ZA",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "25",
+                    "text": "➝ Ejemplos: hidrocefalia, masas (tumor, hematoma, absceso)",
+                    "guid": "bF4Pl7oW0AR1CCXFvpKCKw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "28",
+                "parent": "14",
+                "text": "✔ Factores que\nalteran PIC:",
+                "guid": "u05my4s9y75nT89v4SjNIg",
+                "children": [
+                  {
+                    "id": "29",
+                    "parent": "28",
+                    "text": "➝ Edema cerebral (infarto, encefalopatía hipóxica-isquémica, trauma grave)",
+                    "guid": "Nxb_sqBG53a9BWNVRJs0QA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "28",
+                    "text": "➝ Alteraciones\ndel LCR:",
+                    "guid": "ErMNccaW0emmXEvCKVwcng",
+                    "children": [
+                      {
+                        "id": "31",
+                        "parent": "30",
+                        "text": "➝ ↑ producción (papiloma del plexo coroideo)",
+                        "guid": "xDZkrq9bqUqWHVXkIzwg8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "30",
+                        "text": "➝ ↓ absorción (adherencias post-meningitis)",
+                        "guid": "hNycbZYxBe6sBOLkAQJ8Aw",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "30",
+                        "text": "➝ Obstrucción (hidrocefalia obstructiva)",
+                        "guid": "84dQ8vteBVe-oTurLWkBVA",
+                        "children": []
+                      },
+                      {
+                        "id": "34",
+                        "parent": "30",
+                        "text": "➝ Obstrucción del drenaje venoso (trombosis seno venoso, compresión yugular, cirugía cervical)",
+                        "guid": "nrG63uJJScP0l94GsNufTg",
+                        "children": []
+                      },
+                      {
+                        "id": "35",
+                        "parent": "30",
+                        "text": "➝ Hipertensión intracraneal idiopática (pseudotumor cerebri)",
+                        "guid": "kwWEZrFVYN1mpYp7CsuURA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "parent": "1",
+            "text": "3. Cumplimiento\nintracraneal",
+            "guid": "XnKKxP-RnzNS2vbXUwGEgQ",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "✔ Definición: Relación entre cambio de volumen y cambio de presión (dV/dP)",
+                "guid": "h_YjohJtzo3V8npYXzT8SQ",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "✔ Curva\nno lineal:",
+                "guid": "PLpXE0iHAxYc3Qd2g_ts8g",
+                "children": [
+                  {
+                    "id": "39",
+                    "parent": "38",
+                    "text": "➝ Inicialmente, mecanismos compensatorios permiten\n↑ volumen sin ↑ significativa de la PIC:",
+                    "guid": "R2KPzVm9K_Xd3cSLuwXQjQ",
+                    "children": [
+                      {
+                        "id": "40",
+                        "parent": "39",
+                        "text": "➝ Desplazamiento de LCR a saco tecal",
+                        "guid": "xXGxUqX5ri-y547GRPBJsw",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "39",
+                        "text": "➝ ↓ volumen sanguíneo venoso (vasoconstricción y drenaje extracraneal)",
+                        "guid": "xKYjxUrGJJY7snluEzwXlw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "42",
+                    "parent": "38",
+                    "text": "➝ Una vez agotados → pequeñas variaciones de volumen → ↑ significativa de PIC",
+                    "guid": "MN-xtsCdPtHm-T5WGHBA3Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43",
+                "parent": "36",
+                "text": "✔ Velocidad de cambio\ninfluye en la clínica:",
+                "guid": "Xmdv4oiIJ5OdyGwQ3fFztw",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "➝ Cambio lento → adaptación parcial (ej: meningiomas grandes con PIC normal)",
+                    "guid": "vOiGe7Xzb7kPROdZgXxn2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "➝ Cambio rápido → síntomas graves (ej: hematomas pequeños de instalación aguda)",
+                    "guid": "KfdCqNN4Z7vC1oMJ5zXQnA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "1",
+            "text": "4. Flujo sanguíneo cerebral (FSC) y\npresión de perfusión cerebral (PPC)",
+            "guid": "tmOnx6HnbFlL7enANc_31w",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "✔ FSC\ndeterminado por:",
+                "guid": "tdNI88BV5jmr65IrycXCdA",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "➝ Gradiente de presión: FSC = (P art. carotídea - P venosa yugular)\n÷ resistencia cerebrovascular (RCV)",
+                    "guid": "XYtO3qsvJByRpPrVIYn7Hw",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "➝ PPC: medida clínica de perfusión\ncerebral → PPC = PAM - PIC",
+                    "guid": "2AT5jQ8rWTCvtHA_8lUG1w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50",
+                "parent": "46",
+                "text": "✔ Autoregulación\ncerebral:",
+                "guid": "AxSv-_qcuWF6MHfQvELkdQ",
+                "children": [
+                  {
+                    "id": "51",
+                    "parent": "50",
+                    "text": "➝ Mantiene FSC constante en PPC 50-140 mmHg",
+                    "guid": "WYGrbSJHnf3hi3k-P1Y0Sw",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "50",
+                    "text": "➝ Se altera en trauma, ACV → el cerebro se vuelve dependiente de PPC",
+                    "guid": "cSgDzIkz4OVhlgLM8oC6_g",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "50",
+                    "text": "➝ En hipertensión crónica, el punto de autoregulación se desplaza → requiere mayor presión para evitar isquemia",
+                    "guid": "nL-9wv2c1mS8IGaJmxGMFQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "46",
+                "text": "✔ Impacto\nclínico:",
+                "guid": "8gMwAX5ESFzkkDz_R0VaSg",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "➝ ↓ PPC → isquemia focal/global",
+                    "guid": "qjCVWHRt_4fQjV20PDV0rQ",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "➝ ↑ PPC > 120 mmHg → encefalopatía hipertensiva, edema cerebral",
+                    "guid": "qsWAXS3vajanMrErVXxLVA",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "➝ Pacientes hipertensos crónicos toleran mayor PPC por desplazamiento de curva autoregulatoria",
+                    "guid": "--6jZ81AQ2OmjN_FQqExgw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58",
+                "parent": "46",
+                "text": "✔ Consecuencia final:",
+                "guid": "wd-zVnSZW3CVrMwnYo1Igg",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "➝ Reducción del FSC → manifestaciones clínicas de PIC elevada",
+                    "guid": "UqaK5QSZpEYR3-yZRxpYEg",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "58",
+                    "text": "➝ Hernias cerebrales → compromiso vital",
+                    "guid": "17oBY3yCaknjm3R3ax6Kkg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "parent": "0",
+        "text": "Manifestaciones clínicas de la presión\nintracraneal (PIC) elevada",
+        "guid": "JwUdlBIlYV8SMLEydKDBtA",
+        "children": [
+          {
+            "id": "62",
+            "parent": "61",
+            "text": "1. Síntomas\nglobales",
+            "guid": "mWFsPEYZIpwUnzMkW6g6xA",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "✔ Cefalea",
+                "guid": "nMjxxb698Tt_ya6PKlr2sQ",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "➝ Mediado por fibras dolorosas del NC V (trigémino) en duramadre y vasos",
+                    "guid": "RU0vxRGQtzhsrkrzAxO9nA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65",
+                "parent": "62",
+                "text": "✔ Alteración del nivel de conciencia",
+                "guid": "LzmGlHllL9WFKLISoaCNNQ",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "➝ Causas:",
+                    "guid": "fjXTrt3ApgpTXr0duN6ypA",
+                    "children": [
+                      {
+                        "id": "67",
+                        "parent": "66",
+                        "text": "➝ Efecto local de lesiones ocupantes de espacio",
+                        "guid": "jfQOOxpR27xPXDzjvab_4g",
+                        "children": []
+                      },
+                      {
+                        "id": "68",
+                        "parent": "66",
+                        "text": "➝ Compresión de la formación reticular mesencefálica",
+                        "guid": "L9gvFZTEo0ccDLDBY4Tmlg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "69",
+                "parent": "62",
+                "text": "✔ Vómitos",
+                "guid": "Qk0NRe6Z39MubdjAUVLQEA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "61",
+            "text": "2. Signos\nclínicos",
+            "guid": "vLiMAwH58QRt1cAq09ipLQ",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "✔ Parálisis del nervio abducens (NC VI)",
+                "guid": "0TIDtS55c2aklEEg7XN_Ow",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "70",
+                "text": "✔ Papiledema",
+                "guid": "scSYKFugdYwBT27x7wjq4w",
+                "children": [
+                  {
+                    "id": "73",
+                    "parent": "72",
+                    "text": "➝ Causa: ↓ transporte axonal + congestión venosa",
+                    "guid": "2POYlQbRacxXFtd6xTY-hQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74",
+                "parent": "70",
+                "text": "✔ Tríada de Cushing\n(reflejo de Cushing)",
+                "guid": "PMztQgGznlHrEymNuHEjwQ",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "➝ Bradicardia",
+                    "guid": "9T6xUHieFRlJ7U4MD89yIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "➝ Depresión respiratoria",
+                    "guid": "dIMjtucoZzYqXJSuDyw_zg",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "➝ Hipertensión arterial",
+                    "guid": "08S7J-6_I9JMPYH_zWr0CA",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "74",
+                    "text": "➝ Signo ominoso → requiere intervención urgente",
+                    "guid": "roMWfztM3aMa_fo_VbBBbA",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "74",
+                    "text": "➝ Mecanismo: probable compresión del tronco encefálico",
+                    "guid": "7W029dkWwkuA4HIZ2v2WVg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "61",
+            "text": "3. Síntomas\nfocales",
+            "guid": "PwKr82oQQAPTg--y3N7ayw",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "✔ Causas:",
+                "guid": "ByyWooMqFXnO4UkvJTKO4w",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "➝ Efecto local de masas",
+                    "guid": "q9H2EITMyfhGc2KCgoTAog",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "➝ Síndromes de herniación (gradiente de presión entre compartimentos intracraneales)",
+                    "guid": "dEt6RfGomPQvnTjRCDxsaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "80",
+                "text": "✔ Tipos de herniación\n(según localización\nanatómica)",
+                "guid": "nt7Wgczzaj3srxOzQLMU-Q",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "➝ Subfalcina",
+                    "guid": "zknNnEefiIvllqfpjkcM_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "➝ Transtentorial central",
+                    "guid": "0xLbGiUuQ3WNw0HeKZ08eg",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "84",
+                    "text": "➝ Transtentorial uncal",
+                    "guid": "MdM4EOlajtJRBHNTM0_3gA",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "84",
+                    "text": "➝ Cerebelosa ascendente",
+                    "guid": "0OlP2cBXTWfKDAHeCSx3tw",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "84",
+                    "text": "➝ Amígdalas cerebelosas (foramen magno)",
+                    "guid": "lgytlEmKhyyFV3x_yC_2QA",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "84",
+                    "text": "➝ Transcalvarial",
+                    "guid": "gJrJkrwKfpLD0VHKZXlvcw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91",
+                "parent": "80",
+                "text": "✔ Fenómeno de Kernohan\n(síndrome falso localizador)",
+                "guid": "PZTzCziPlvuWJjOwqa_cTQ",
+                "children": [
+                  {
+                    "id": "92",
+                    "parent": "91",
+                    "text": "➝ Clínica:",
+                    "guid": "OuY_bp3JAx0YPqbEImASDw",
+                    "children": [
+                      {
+                        "id": "93",
+                        "parent": "92",
+                        "text": "➝ Midriasis contralateral",
+                        "guid": "GFfcPUrz7XS0JR3VeeJkvg",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "92",
+                        "text": "➝ Debilidad ipsilateral",
+                        "guid": "lzqSe8JOmLDfcFq-JGJf-w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "95",
+                    "parent": "91",
+                    "text": "➝ Mecanismo: compresión del tectum mesencefálico",
+                    "guid": "YIX7tL_t0GLyS3y-iIUkyQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "parent": "61",
+            "text": "4. Diagnóstico",
+            "guid": "T13X02ubUPKKOei-8H5sAA",
+            "children": [
+              {
+                "id": "97",
+                "parent": "96",
+                "text": "✔ Clínica variable → signos pueden ser inconstantes o poco fiables",
+                "guid": "o1LoXKUL6mSE7XQ1xrqJ4Q",
+                "children": []
+              },
+              {
+                "id": "98",
+                "parent": "96",
+                "text": "✔ Apoyo diagnóstico con estudios de imágenes",
+                "guid": "U4hxT_be78lrZKVONI_VgQ",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "96",
+                "text": "✔ Confirmación definitiva: medición directa de la PIC",
+                "guid": "_-AV2PsDIvLZXN6iOtJHwA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "parent": "0",
+        "text": "Monitorización de la\npresión intracraneal (PIC)",
+        "guid": "yfhAlAdUmfRS9o8XgnZEug",
+        "children": [
+          {
+            "id": "101",
+            "parent": "100",
+            "text": "1. Importancia de la\nmonitorización de PIC",
+            "guid": "Vr9oobRggAknJilDlEmw2A",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "✔ Problema con\nterapia empírica:",
+                "guid": "PrMR5PkcPqBpa6tRDOPcgg",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "➝ No permite determinar presión de perfusión cerebral (PPC) con precisión",
+                    "guid": "Jjp8_IXvrdkoqhebXwNm8w",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "➝ Tratamientos para ↓ PIC son de efecto limitado y pueden tener efectos adversos",
+                    "guid": "TFKsKSzBXgv89gwFC_D2Jg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "105",
+                "parent": "101",
+                "text": "✔ Objetivo de la monitorización:",
+                "guid": "5SStd4Js9yQ-s7oyLV4xvw",
+                "children": [
+                  {
+                    "id": "106",
+                    "parent": "105",
+                    "text": "➝ Mantener adecuada PPC y oxigenación cerebral",
+                    "guid": "oQwe__YoG6p1TF2me9znkQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "parent": "101",
+                "text": "✔ Gestión\nen UCI:",
+                "guid": "mQ_tylj3nZf39IvuVcD8FA",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "➝ Monitor de PIC + línea arterial → optimiza manejo",
+                    "guid": "PzIFoT2RRQusMi3yjduiwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "➝ Puede mejorar pronóstico en trauma craneoencefálico cerrado (TCE)",
+                    "guid": "47DRkoAYP_NEb86ZJbzIeQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "parent": "100",
+            "text": "2. Indicaciones de\nmonitorización de PIC",
+            "guid": "GLPXCC66MwM057cUsE6ZnA",
+            "children": [
+              {
+                "id": "111",
+                "parent": "110",
+                "text": "✔ Basado en clínica + imágenes",
+                "guid": "gWxa0_vmbLHQzTv27HLg1w",
+                "children": []
+              },
+              {
+                "id": "112",
+                "parent": "110",
+                "text": "✔ Condiciones\nde alto riesgo:",
+                "guid": "oD45SDAjdLZVcDkjPXysZw",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "➝ TCE cerrado grave",
+                    "guid": "qG9hqbJzueV9CY-4SctNXg",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "➝ Coma (GCS <8)",
+                    "guid": "zcz8FV5g9ZK4YWG0qnX4EA",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "112",
+                    "text": "➝ Patología que requiere manejo médico agresivo",
+                    "guid": "L_s4URg_s6uuG3cmEADWVg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "116",
+                "parent": "110",
+                "text": "✔ Limitaciones de la TC en\ndiagnóstico de PIC elevada:",
+                "guid": "tyUTyEAXL5A4-lFf_QJ8qA",
+                "children": [
+                  {
+                    "id": "117",
+                    "parent": "116",
+                    "text": "➝ Puede haber PIC elevada con TC normal inicial",
+                    "guid": "kiXPTIxRw8jzko0yeXjwFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "116",
+                    "text": "➝ Seguimiento con imágenes en pacientes de alto riesgo",
+                    "guid": "8Y2juM_6MOzflBOTqBx1VA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "119",
+            "parent": "100",
+            "text": "3. Tipos de\nmonitores de PIC",
+            "guid": "u4HjdCPTTPhqe3bnVIbjkw",
+            "children": [
+              {
+                "id": "120",
+                "parent": "119",
+                "text": "✔ Ubicaciones\nanatómicas de medición:",
+                "guid": "-pEd7nKjlJ-DF9yFhs-MdA",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "➝ Intraventricular (Gold standard)",
+                    "guid": "iY26FejLDNP2xKdY_8FFJg",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "➝ Intraparenquimatoso",
+                    "guid": "QGn8qP_nkZ0bn_Iua-8RPg",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "➝ Subaracnoideo",
+                    "guid": "4MT_TUj--yLHPB-Y3D1Nfw",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "120",
+                    "text": "➝ Epidural",
+                    "guid": "NNo9UDo51aLvjlQv1ctGZQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "100",
+            "text": "4. Dispositivos de\nmonitorización de PIC",
+            "guid": "FH47EBXpswOpJR9-Qw6jng",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "✔ Intraventricular (DVE –\nderivación ventricular externa)",
+                "guid": "IBvIfd9-OAA1FBCd89S2RA",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "➝ Ventajas:",
+                    "guid": "1MUtVhtOzpIpRSm2ERFrXQ",
+                    "children": [
+                      {
+                        "id": "128",
+                        "parent": "127",
+                        "text": "➝ Alta precisión",
+                        "guid": "K-hRJAy0Qmg21zX44h89Bw",
+                        "children": []
+                      },
+                      {
+                        "id": "129",
+                        "parent": "127",
+                        "text": "➝ Permite drenaje terapéutico de LCR",
+                        "guid": "10YbBJl2Yes34IbDMV5GPg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "130",
+                    "parent": "126",
+                    "text": "➝ Desventajas:",
+                    "guid": "3J7qnSpzM66sGaWVo-Pelw",
+                    "children": [
+                      {
+                        "id": "131",
+                        "parent": "130",
+                        "text": "➝ Riesgo de infección (hasta 20%) → requiere antibióticos profilácticos",
+                        "guid": "CIutehz9Q5jfZfqdyFF43w",
+                        "children": []
+                      },
+                      {
+                        "id": "132",
+                        "parent": "130",
+                        "text": "➝ Riesgo de hemorragia (2%) → mayor en coagulopatía",
+                        "guid": "pOiUovVuhVUutmH4ZbBtsA",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "130",
+                        "text": "➝ Dificultad técnica en ventrículos colapsados (trauma, edema cerebral)",
+                        "guid": "JMNhw1oXsKzfA7R_wp4LrQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "125",
+                "text": "✔ Intraparenquimatoso",
+                "guid": "k2ER7VGmnDrLHbI-nTX1ow",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "➝ Ejemplo: sistema Camino (fibra óptica)",
+                    "guid": "9wWKjuy9AaLsCJ56cUe2LQ",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "➝ Ventajas:",
+                    "guid": "_E5SaRVDfxUH0eB2Po0F-w",
+                    "children": [
+                      {
+                        "id": "137",
+                        "parent": "136",
+                        "text": "➝ Fácil colocación",
+                        "guid": "TQP04faGnyQnXxjZtiyiJw",
+                        "children": []
+                      },
+                      {
+                        "id": "138",
+                        "parent": "136",
+                        "text": "➝ ↓ Riesgo de infección y hemorragia (<1%)",
+                        "guid": "ezPQr-3rPzZ8BTlQPqM3zA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "139",
+                    "parent": "134",
+                    "text": "➝ Desventajas:",
+                    "guid": "13OpqaaPpuKvyUq3UdVM6Q",
+                    "children": [
+                      {
+                        "id": "140",
+                        "parent": "139",
+                        "text": "➝ No permite drenaje de LCR",
+                        "guid": "uzn_x4XC4kfXvFi6FSsiWg",
+                        "children": []
+                      },
+                      {
+                        "id": "141",
+                        "parent": "139",
+                        "text": "➝ Pérdida de precisión (drift) con el tiempo",
+                        "guid": "GeXnnfrAmfWwweKdTTK0ng",
+                        "children": []
+                      },
+                      {
+                        "id": "142",
+                        "parent": "139",
+                        "text": "➝ Falla mecánica más frecuente",
+                        "guid": "5v-nJOx0m6ZUVLfXTgz0dg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "143",
+                "parent": "125",
+                "text": "✔ Subaracnoideo\n(tornillo de\nRichmond/Becker)",
+                "guid": "YBUrWnV_h_kHvlW3464haw",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "➝ Ventajas:",
+                    "guid": "rzyBIZKQLTk-yz5TDq5b5A",
+                    "children": [
+                      {
+                        "id": "145",
+                        "parent": "144",
+                        "text": "➝ Bajo riesgo de infección y hemorragia",
+                        "guid": "kinhQYzOPESpa0H1cCw_cg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "146",
+                    "parent": "143",
+                    "text": "➝ Desventajas:",
+                    "guid": "GzyDEbf_z37PEx27hDsbSw",
+                    "children": [
+                      {
+                        "id": "147",
+                        "parent": "146",
+                        "text": "➝ Obstrucción frecuente con detritos → poco confiable",
+                        "guid": "uYDDse7vZY7si24P8-3uhA",
+                        "children": []
+                      },
+                      {
+                        "id": "148",
+                        "parent": "146",
+                        "text": "➝ Menos preciso que DVE",
+                        "guid": "eq0IzMV6aXVkcRiGJ9p93g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "149",
+                "parent": "125",
+                "text": "✔ Epidural",
+                "guid": "iWPvMEqIBMBWVyDp6Kyr_w",
+                "children": [
+                  {
+                    "id": "150",
+                    "parent": "149",
+                    "text": "➝ Ventajas:",
+                    "guid": "tVr48sQtAAZES9_nWpzNow",
+                    "children": [
+                      {
+                        "id": "151",
+                        "parent": "150",
+                        "text": "➝ Menor riesgo de hemorragia en coagulopatía y encefalopatía hepática",
+                        "guid": "rd8lXIYsPgsCAIleHIh61A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "152",
+                    "parent": "149",
+                    "text": "➝ Desventajas:",
+                    "guid": "-P83Q3yads4XF7TsxtfptQ",
+                    "children": [
+                      {
+                        "id": "153",
+                        "parent": "152",
+                        "text": "➝ Inexacto → la duramadre atenúa la transmisión de presión",
+                        "guid": "2lDCLwipg7L8i-Lt7pMEWg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "154",
+            "parent": "100",
+            "text": "5. Análisis de la\nonda de PIC",
+            "guid": "XCzfDgqJnaWApaKUfzeT-A",
+            "children": [
+              {
+                "id": "155",
+                "parent": "154",
+                "text": "✔ PIC no es estática → variaciones cíclicas",
+                "guid": "f3iT6ATd4STajz8fnSxDjw",
+                "children": []
+              },
+              {
+                "id": "156",
+                "parent": "154",
+                "text": "✔ Ondas\nfisiológicas:",
+                "guid": "h4-TQ4SR1GmN1V5pNG8IhQ",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "➝ Ondas B: relacionadas con la respiración",
+                    "guid": "reUTMuv9AythhIDw2kvS5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "156",
+                    "text": "➝ Ondas C (Traube-Hering-Mayer): cíclicas con el latido cardíaco",
+                    "guid": "Qpuca_1HKsdTYhrRaR_Njw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "159",
+                "parent": "154",
+                "text": "✔ Ondas\npatológicas:",
+                "guid": "ACnwF71kiNrQp6MIcH5pyQ",
+                "children": [
+                  {
+                    "id": "160",
+                    "parent": "159",
+                    "text": "➝ Ondas A\n(plateau waves):",
+                    "guid": "mxN0S1hzFRDh84LWV2w7Vg",
+                    "children": [
+                      {
+                        "id": "161",
+                        "parent": "160",
+                        "text": "➝ Elevaciones abruptas (50-100 mmHg) → duran minutos-horas",
+                        "guid": "3QPWw4AbBnlxip9_5bqBjA",
+                        "children": []
+                      },
+                      {
+                        "id": "162",
+                        "parent": "160",
+                        "text": "➝ Indican pérdida de la compliance intracraneal",
+                        "guid": "gC7I0SpkbxNem24PFMaK5w",
+                        "children": []
+                      },
+                      {
+                        "id": "163",
+                        "parent": "160",
+                        "text": "➝ Señal de descompensación inminente → requiere intervención urgente",
+                        "guid": "W9j170gpFRz5HIala8Gtuw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "parent": "100",
+            "text": "6. Métodos de monitorización\nno invasivos",
+            "guid": "mrbaK2ydlBRlwe1KOxFY0g",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "✔ Doppler transcraneal (TCD):",
+                "guid": "tQcQsC3_ecuXZN0C9lvF_w",
+                "children": [
+                  {
+                    "id": "166",
+                    "parent": "165",
+                    "text": "➝ Estima PIC por cambios en el flujo sanguíneo cerebral",
+                    "guid": "dTVDtQXhMz00aeSbg3x7cQ",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "165",
+                    "text": "➝ Poca precisión, pero útil en trauma",
+                    "guid": "65KnP_tm1-kzen5cWZGuhg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "164",
+                "text": "✔ Análisis de resonancia tisular\n(TRA):",
+                "guid": "Jxo9CWBUMnTba2Th_0X7rQ",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "➝ Basado en ultrasonido → buena correlación en estudios preliminares",
+                    "guid": "6FcUVBt6Qne8l-wRa9-vnw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "170",
+                "parent": "164",
+                "text": "✔ Ecografía ocular:",
+                "guid": "zqkeW6ifxsTVi7NmOTR-ZQ",
+                "children": [
+                  {
+                    "id": "171",
+                    "parent": "170",
+                    "text": "➝ Diámetro de la vaina del nervio óptico (≥5-6 mm) → sugiere PIC elevada",
+                    "guid": "CFR4B9VyaCDkXbCYN_6eqA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "172",
+                "parent": "164",
+                "text": "✔ Tonometría intraocular:",
+                "guid": "lbf-cbTe48CoR5oZQKsm7w",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "➝ Resultados inconsistentes",
+                    "guid": "opFBlK7ijKOeaYuC5cX4VQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "174",
+                "parent": "164",
+                "text": "✔ Desplazamiento de\nmembrana timpánica:",
+                "guid": "RNbkqDOYMu4lTttiR_S37w",
+                "children": [
+                  {
+                    "id": "175",
+                    "parent": "174",
+                    "text": "➝ Basado en audiometría de impedancia\n→ no ampliamente validado",
+                    "guid": "mPAZJa3VGPVts9QnvYOkwQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "100",
+            "text": "7. Neuromonitorización\navanzada",
+            "guid": "R9OWlHqpqhBl2bV0r_X-qw",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "✔ Objetivo: Mejorar detección y manejo de lesiones cerebrales secundarias",
+                "guid": "hP9m3ygYh643oh8EA9ZvCQ",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "✔ Mide:",
+                "guid": "a5L0-xOMC1SIJEBHqmpopw",
+                "children": [
+                  {
+                    "id": "179",
+                    "parent": "178",
+                    "text": "➝ Oxigenación cerebral",
+                    "guid": "WukGOnekwZsE3cGA9lqwmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "178",
+                    "text": "➝ Flujo sanguíneo cerebral (FSC)",
+                    "guid": "pTtODSqs70awAOyC0eP5VQ",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "178",
+                    "text": "➝ Metabolismo neuronal",
+                    "guid": "Yf50qAs7wl61PoTT5qKM9A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "182",
+                "parent": "176",
+                "text": "✔ Aplicación: Manejo avanzado de TCE grave",
+                "guid": "nu_3oCnmLbbD1zTJKwvUsQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "183",
+        "parent": "0",
+        "text": "Manejo general de la presión\nintracraneal (PIC) elevada",
+        "guid": "_VTWVLRhaq2H3t62u2TODw",
+        "children": [
+          {
+            "id": "184",
+            "parent": "183",
+            "text": "1. Principios\ngenerales",
+            "guid": "Cvf6o9lHUhBKZBRiod2WBA",
+            "children": [
+              {
+                "id": "185",
+                "parent": "184",
+                "text": "✔ Mejor tratamiento: resolver la causa subyacente",
+                "guid": "CPnebvoi9BK4yIjWKRq0sg",
+                "children": []
+              },
+              {
+                "id": "186",
+                "parent": "184",
+                "text": "➝ Ejemplos:",
+                "guid": "MA95FQw250pVGXK8jGhSpw",
+                "children": [
+                  {
+                    "id": "187",
+                    "parent": "186",
+                    "text": "➝ Evacuación de hematoma",
+                    "guid": "JCas-JTrqW_bmhw9zXkmFg",
+                    "children": []
+                  },
+                  {
+                    "id": "188",
+                    "parent": "186",
+                    "text": "➝ Resección tumoral",
+                    "guid": "PS5H05Hsjp9-nh7v49CDCw",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "186",
+                    "text": "➝ Drenaje de LCR en hidrocefalia",
+                    "guid": "v04W9UnJZV6aJV4YYlWWpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "186",
+                    "text": "➝ Corrección de trastornos metabólicos",
+                    "guid": "qYVy3bKkFYx-fX701lnWFQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "191",
+                "parent": "184",
+                "text": "✔ Emergencia médica → manejo rápido",
+                "guid": "HXbHE7V4uWVTksy1RDMLww",
+                "children": []
+              },
+              {
+                "id": "192",
+                "parent": "184",
+                "text": "✔ Medidas generales\npara ↓ PIC:",
+                "guid": "LHZDJDhH6eJSvJgfhxfjMA",
+                "children": [
+                  {
+                    "id": "193",
+                    "parent": "192",
+                    "text": "➝ Aplicables en todos los pacientes",
+                    "guid": "QiKi16nvRQTM8tyI-zDd5w",
+                    "children": []
+                  },
+                  {
+                    "id": "194",
+                    "parent": "192",
+                    "text": "➝ Algunos tratamientos (ej. glucocorticoides) solo en causas específicas",
+                    "guid": "lNmmdAf1254m0nKwQz0fug",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "183",
+            "text": "2. Resucitación\ninicial",
+            "guid": "w-xthSt0u8MkKnAZALMbFA",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "✔ Objetivos urgentes:",
+                "guid": "_K2IlhvpKwrLlmN4IXMHsA",
+                "children": [
+                  {
+                    "id": "197",
+                    "parent": "196",
+                    "text": "➝ Mantener oxigenación, presión arterial (PA) y perfusión",
+                    "guid": "-TkLTtd__YgkLA8-KoMWsw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "198",
+                "parent": "195",
+                "text": "✔ Manejo de\nla vía aérea:",
+                "guid": "TnLEjbPQKH5sc2AL2tQpag",
+                "children": [
+                  {
+                    "id": "199",
+                    "parent": "198",
+                    "text": "➝ Minimizar aumento de PIC en la intubación",
+                    "guid": "Etcl8SVi8BU-g_zuqX636Q",
+                    "children": []
+                  },
+                  {
+                    "id": "200",
+                    "parent": "198",
+                    "text": "➝ Considerar lidocaína preintubación (evidencia limitada)",
+                    "guid": "LKQjKd6WmXbw4aeldE7evw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "201",
+                "parent": "195",
+                "text": "✔ Evitar\nhipotensión:",
+                "guid": "_XZ_3gOt4U68HqdaaNnakQ",
+                "children": [
+                  {
+                    "id": "202",
+                    "parent": "201",
+                    "text": "➝ PA baja NO implica PIC baja",
+                    "guid": "lfiEWnYcgIuhkHKll03kVQ",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "201",
+                    "text": "➝ Hipotensión + hipoxemia → vasodilatación reactiva → ↑ PIC",
+                    "guid": "RmYuGv7MN4kCvsBZXn_DHA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "204",
+                "parent": "195",
+                "text": "✔ Uso de\nvasopresores:",
+                "guid": "O8ZeJIPo993o8z2_e5tIVw",
+                "children": [
+                  {
+                    "id": "205",
+                    "parent": "204",
+                    "text": "➝ Mantener PPC >60 mmHg",
+                    "guid": "50EVwUQCm5jUMjBHDZZL-Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "183",
+            "text": "3. Situaciones urgentes →\nintervención inmediata",
+            "guid": "SArHgkB6GwjvIy6s7RQ_Fw",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "✔ Clínica sospechosa\nde PIC elevada:",
+                "guid": "QPAHeaR156AHf4L_z1Rm9Q",
+                "children": [
+                  {
+                    "id": "208",
+                    "parent": "207",
+                    "text": "➝ Historia compatible: trauma craneoencefálico (TCE), cefalea súbita grave (HSA)",
+                    "guid": "otlSbyakTifbVJGwDh_02g",
+                    "children": []
+                  },
+                  {
+                    "id": "209",
+                    "parent": "207",
+                    "text": "➝ Examen\nfísico:",
+                    "guid": "YvgNXUo6iZQksfs5uBxZPw",
+                    "children": [
+                      {
+                        "id": "210",
+                        "parent": "209",
+                        "text": "➝ Midriasis fija uni/bilateral",
+                        "guid": "mT2F2V8bWBRNpQOHVn5yiw",
+                        "children": []
+                      },
+                      {
+                        "id": "211",
+                        "parent": "209",
+                        "text": "➝ Posturas de decorticación o decerebración",
+                        "guid": "3Xvza3l8fEZDpUn-qgJB2w",
+                        "children": []
+                      },
+                      {
+                        "id": "212",
+                        "parent": "209",
+                        "text": "➝ Tríada de Cushing: bradicardia + hipertensión + depresión respiratoria",
+                        "guid": "JFp6iT_KxmFs28EEid7vZw",
+                        "children": []
+                      },
+                      {
+                        "id": "213",
+                        "parent": "209",
+                        "text": "➝ GCS ≤8",
+                        "guid": "QRo9sVvA3LhjVY1Ob3ybhw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "214",
+                    "parent": "207",
+                    "text": "➝ Descartar causas\nreversibles:",
+                    "guid": "2ZBXPFN98Ez7TWsM-HzxJg",
+                    "children": [
+                      {
+                        "id": "215",
+                        "parent": "214",
+                        "text": "➝ Hipotensión (PAS <60 mmHg)",
+                        "guid": "wpjDmuAOpT4nIbGuxyGcDA",
+                        "children": []
+                      },
+                      {
+                        "id": "216",
+                        "parent": "214",
+                        "text": "➝ Hipoxemia (PaO₂ <60 mmHg)",
+                        "guid": "DOrQBVcdkLWKugoLKaQwWw",
+                        "children": []
+                      },
+                      {
+                        "id": "217",
+                        "parent": "214",
+                        "text": "➝ Hipotermia (<36°C)",
+                        "guid": "jZSEl3gjjcCdyyusPekTYA",
+                        "children": []
+                      },
+                      {
+                        "id": "218",
+                        "parent": "214",
+                        "text": "➝ Intoxicación",
+                        "guid": "GOW2QmmDT0I8VpkOIwyqQw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "219",
+                "parent": "206",
+                "text": "✔ Medidas\ninmediatas:",
+                "guid": "vN2ilZFhL5Skc3asvwknqw",
+                "children": [
+                  {
+                    "id": "220",
+                    "parent": "219",
+                    "text": "➝ Elevación de cabeza",
+                    "guid": "f1Q9tR6lKUcy1hDTMx71VQ",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "219",
+                    "text": "➝ Hiperventilación transitoria (PaCO₂ 26-30 mmHg)",
+                    "guid": "GWlOfuQVUTyubxvCXJvGhA",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "219",
+                    "text": "➝ Mannitol IV (1-1.5 g/kg)",
+                    "guid": "FvenoiR1ByVU7NpXM8JNQA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "223",
+                "parent": "206",
+                "text": "✔ Evaluación\nagresiva simultánea:",
+                "guid": "IYA1EnG--N80z7WLfRZNfQ",
+                "children": [
+                  {
+                    "id": "224",
+                    "parent": "223",
+                    "text": "➝ Neuroimagen urgente",
+                    "guid": "9BV-vALvBYWFfYUp5SugXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "225",
+                    "parent": "223",
+                    "text": "➝ Examen neurológico detallado",
+                    "guid": "JOLy8j4WamaH_YNG9oB7Uw",
+                    "children": []
+                  },
+                  {
+                    "id": "226",
+                    "parent": "223",
+                    "text": "➝ Colocación de ventriculostomía si procede",
+                    "guid": "8zHCt3FlCacerxVTqJ_O_A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "227",
+            "parent": "183",
+            "text": "4. Monitorización y\ncriterios de tratamiento",
+            "guid": "CQXkmZRw-nE2ICU6pHio2g",
+            "children": [
+              {
+                "id": "228",
+                "parent": "227",
+                "text": "✔ Monitorización de PIC recomendada si:",
+                "guid": "nzxThHiciz5aO6eilXqhug",
+                "children": [
+                  {
+                    "id": "229",
+                    "parent": "228",
+                    "text": "➝ Sospecha de PIC elevada sin causa inmediata tratable",
+                    "guid": "ElPq0-OtiAnUtlAMTrstyA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "230",
+                "parent": "227",
+                "text": "✔ Objetivo: mantener\nPIC <20 mmHg",
+                "guid": "D2l0Gne4NIJXDUIiBua2sA",
+                "children": [
+                  {
+                    "id": "231",
+                    "parent": "230",
+                    "text": "➝ Tratar solo si PIC >20 mmHg por >5-10 min",
+                    "guid": "XMSRV-xXAU5OE_Ed2WUIdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "232",
+                    "parent": "230",
+                    "text": "➝ Breves elevaciones fisiológicas normales: tos, movimiento, aspiración",
+                    "guid": "r0kszzdA9kL-uJl7psfmMQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "183",
+            "text": "5. Manejo\nde líquidos",
+            "guid": "s8qFFYD3HTOLzKkeKIRTHA",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "✔ Objetivo: euvolemia y normo-hiperosmolaridad",
+                "guid": "oM0WoTP_OQP4pE_cw1oolg",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "233",
+                "text": "✔ Evitar líquidos hipotónicos:",
+                "guid": "mZzXYHoEMVRJZZhZo4ry3g",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "➝ D5W, NaCl 0. 45%, agua libre",
+                    "guid": "dR82Mq9zq2d00ESVrg6jTw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "237",
+                "parent": "233",
+                "text": "✔ Usar solo soluciones isotónicas:",
+                "guid": "LdScmJiOb069Bo0kKxJkOA",
+                "children": [
+                  {
+                    "id": "238",
+                    "parent": "237",
+                    "text": "➝ NaCl 0.9%",
+                    "guid": "1rQyR6EmIm4FaZo83zVMQA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "233",
+                "text": "✔ Mantener osmolaridad sérica >280 mOsm/L (ideal 295-305 mOsm/L)",
+                "guid": "FebnpCr2Qg1n_nVZN5azmQ",
+                "children": []
+              },
+              {
+                "id": "240",
+                "parent": "233",
+                "text": "✔ Precaución en hiponatremia: frecuente en HSA",
+                "guid": "4uaGn13Y6iL-3y3iHSy06g",
+                "children": []
+              },
+              {
+                "id": "241",
+                "parent": "233",
+                "text": "✔ Resucitación con\ncoloides vs cristaloides:",
+                "guid": "pzQ0ygY71E-J-HT1WX_kfA",
+                "children": [
+                  {
+                    "id": "242",
+                    "parent": "241",
+                    "text": "➝ En TCE, uso de albúmina → mayor\nmortalidad vs NaCl 0.9%",
+                    "guid": "tTkGK6lVdLpkr2fGlD2ICQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "243",
+            "parent": "183",
+            "text": "6. Terapias específicas\npara ↓ PIC",
+            "guid": "CLa6rN68j8_05cP0vH7ZHw",
+            "children": [
+              {
+                "id": "244",
+                "parent": "243",
+                "text": "✔ Salina hipertónica\nen bolos:",
+                "guid": "2Mj0Ljw_Dls8q98_nv0UNg",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "➝ Puede reducir PIC transitoriamente",
+                    "guid": "ax8ge2sNFL5kJmbNCh2s6g",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "➝ Se requiere más evidencia",
+                    "guid": "AcqcSMu_DmoGpaioamhbXQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "247",
+                "parent": "243",
+                "text": "✔ Mannitol:",
+                "guid": "KDx4rQy1Fnq29GYbtFgj_g",
+                "children": [
+                  {
+                    "id": "248",
+                    "parent": "247",
+                    "text": "➝ Dosis: 1-1.5 g/kg IV",
+                    "guid": "XxYCxam0bd8Z-DbV9dlxmw",
+                    "children": []
+                  },
+                  {
+                    "id": "249",
+                    "parent": "247",
+                    "text": "➝ Mecanismo: osmótico, reduce volumen cerebral",
+                    "guid": "lLOE9RSA1hrijwc3jFk5hQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "250",
+                "parent": "243",
+                "text": "✔ Hiperventilación:",
+                "guid": "Lp5wlPbXVRvGsATTyEL7Zg",
+                "children": [
+                  {
+                    "id": "251",
+                    "parent": "250",
+                    "text": "➝ Solo en crisis aguda",
+                    "guid": "nxVjRVoc4EUfLVTZTn0FcA",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "250",
+                    "text": "➝ Reducción rápida de PIC → vasoconstricción cerebral",
+                    "guid": "OAPJbW5LDZmzYnnYmUGibQ",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "250",
+                    "text": "➝ Contraindicado en TCE y ACV agudo",
+                    "guid": "xxq7-8y2yGu_7wN07S36rw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "254",
+            "parent": "183",
+            "text": "7. Sedación y control de\nla presión arterial",
+            "guid": "1uPoGQb3CX2TT7QIIQx0qQ",
+            "children": [
+              {
+                "id": "255",
+                "parent": "254",
+                "text": "✔ Sedación ↓\nPIC al reducir:",
+                "guid": "fEXyLnlOYfmPV8oJPdQSFw",
+                "children": [
+                  {
+                    "id": "256",
+                    "parent": "255",
+                    "text": "➝ Demanda metabólica cerebral",
+                    "guid": "uUX9P4WLZy8H-5aJsaBfMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
+                    "parent": "255",
+                    "text": "➝ Asincronía con ventilador",
+                    "guid": "6iS70A4ZRaR-JZWnGCGmBA",
+                    "children": []
+                  },
+                  {
+                    "id": "258",
+                    "parent": "255",
+                    "text": "➝ Congestión venosa",
+                    "guid": "SX9FOvg5mN772vM2Ho8thw",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "255",
+                    "text": "➝ Respuesta simpática (HTA, taquicardia)",
+                    "guid": "1aRJM41d2mgwluUPA-UbCw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "260",
+                "parent": "254",
+                "text": "✔ Propofol: opción ideal → corta vida media, permite reevaluación neurológica",
+                "guid": "gJQImU1LljC33OoI4HuEvw",
+                "children": []
+              },
+              {
+                "id": "261",
+                "parent": "254",
+                "text": "✔ PA suficiente para\nmantener PPC >60 mmHg",
+                "guid": "5HoFXwwMBITLXCLdRk1h8A",
+                "children": [
+                  {
+                    "id": "262",
+                    "parent": "261",
+                    "text": "➝ Hipotensión iatrogénica puede ocurrir con sedación",
+                    "guid": "2C7yZ9oMrW6CdsQ5YF9FOg",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "261",
+                    "text": "➝ Hipertensión → tratar solo si PPC >120 mmHg y PIC >20 mmHg",
+                    "guid": "DhwprUvK7cSgqKdSM61EOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "264",
+                "parent": "254",
+                "text": "✔ Evitar PPC\n<50 mmHg",
+                "guid": "dElxlHCkGyMjtsaa90jyIg",
+                "children": [
+                  {
+                    "id": "265",
+                    "parent": "264",
+                    "text": "➝ En HTA crónica, normalización brusca de PA\n→ riesgo de isquemia",
+                    "guid": "swo2_ocpebMD_Rl4nlr8_w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "266",
+            "parent": "183",
+            "text": "8. Posicionamiento",
+            "guid": "8WSWLuYi582f95Nl0U_9EA",
+            "children": [
+              {
+                "id": "267",
+                "parent": "266",
+                "text": "✔ Maximizar drenaje\nvenoso cerebral:",
+                "guid": "D8cu8toks9tY6NQzH0PcUA",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "➝ Evitar flexión/rotación excesiva del cuello",
+                    "guid": "z8ao49upXletYIKmYlx7ZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "267",
+                    "text": "➝ No usar sujeciones cervicales restrictivas",
+                    "guid": "ghPsiheSTX5Mqur7HMdWdA",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "267",
+                    "text": "➝ Minimizar estímulos que induzcan Valsalva",
+                    "guid": "DkcQu7WGZNWMDOM7uUz78g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "271",
+                "parent": "266",
+                "text": "✔ Elevación de la\ncabeza (30°):",
+                "guid": "s2UYgcpnWS7AjyKGVOaJZA",
+                "children": [
+                  {
+                    "id": "272",
+                    "parent": "271",
+                    "text": "➝ Disminuye PIC",
+                    "guid": "nKvywkKDnUXMyhhgxZvhLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "273",
+                    "parent": "271",
+                    "text": "➝ Puede reducir PPC → ajustar individualmente",
+                    "guid": "atnm_6YOiUHWVsw_PElaqw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "274",
+            "parent": "183",
+            "text": "9. Control de fiebre",
+            "guid": "7ByWNr4rvIy6SWAWroXrMQ",
+            "children": [
+              {
+                "id": "275",
+                "parent": "274",
+                "text": "✔ Fiebre → aumenta metabolismo cerebral → ↑ FSC → ↑ PIC",
+                "guid": "pgcW3vy9r5kET-GX-9_Y-g",
+                "children": []
+              },
+              {
+                "id": "276",
+                "parent": "274",
+                "text": "✔ Tratamiento\nagresivo recomendado:",
+                "guid": "OHkLwKk467OixIJiMnjIsA",
+                "children": [
+                  {
+                    "id": "277",
+                    "parent": "276",
+                    "text": "➝ Paracetamol",
+                    "guid": "X9b8fViZfW81XSmAYZFKpA",
+                    "children": []
+                  },
+                  {
+                    "id": "278",
+                    "parent": "276",
+                    "text": "➝ Enfriamiento mecánico",
+                    "guid": "TPsP8M7kJja4UfiiLPDx1g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "279",
+            "parent": "183",
+            "text": "10. Prevención y tratamiento\nde crisis epilépticas",
+            "guid": "UUHwHeXRo4q3xd0oPVNt_A",
+            "children": [
+              {
+                "id": "280",
+                "parent": "279",
+                "text": "✔ Convulsiones → pueden ↑ PIC",
+                "guid": "7EGdF0D2y-kCOP0AOUw38Q",
+                "children": []
+              },
+              {
+                "id": "281",
+                "parent": "279",
+                "text": "✔ Indicar\nanticonvulsivantes si:",
+                "guid": "ZdwZh1x1O3h14awk5ztgPg",
+                "children": [
+                  {
+                    "id": "282",
+                    "parent": "281",
+                    "text": "➝ Crisis convulsivas confirmadas",
+                    "guid": "GI6lDj5nLfiZeoFtHK0qlA",
+                    "children": []
+                  },
+                  {
+                    "id": "283",
+                    "parent": "281",
+                    "text": "➝ Lesiones de alto riesgo:",
+                    "guid": "SMZMz7JdXkP1Ac5mTp4TYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "284",
+                    "parent": "281",
+                    "text": "➝ Masas supratentoriales corticales",
+                    "guid": "whudh-rSSwCFXNsDW5jqFw",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "281",
+                    "text": "➝ Hematomas subdurales",
+                    "guid": "CbxlitSd0JYaZ2oCZsx1dA",
+                    "children": []
+                  },
+                  {
+                    "id": "286",
+                    "parent": "281",
+                    "text": "➝ Hemorragia subaracnoidea (HSA)",
+                    "guid": "MbHKtrTv7CL6qWUFozd2pg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "287",
+                "parent": "279",
+                "text": "✔ Profilaxis controversial →\nconsiderar en alto riesgo",
+                "guid": "9_DwBj-4QlJi9YEl0YnEdA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "288",
+        "parent": "0",
+        "text": "Terapias específicas para la presión\nintracraneal (PIC) elevada",
+        "guid": "IKteWiTSFb80wKIBXB_cMA",
+        "children": [
+          {
+            "id": "289",
+            "parent": "288",
+            "text": "1. Principios\ngenerales",
+            "guid": "YfzYXT6CFPbzjjeqlPCw2g",
+            "children": [
+              {
+                "id": "290",
+                "parent": "289",
+                "text": "✔ Mejor tratamiento: resolver la causa subyacente",
+                "guid": "VCm5qvkaWfzQ56L6FNm05g",
+                "children": []
+              },
+              {
+                "id": "291",
+                "parent": "289",
+                "text": "✔ Si no es posible:",
+                "guid": "5RuqmSfRQ1FvX4zQR5UPTw",
+                "children": [
+                  {
+                    "id": "292",
+                    "parent": "291",
+                    "text": "➝ Aplicar estrategias para ↓ PIC",
+                    "guid": "CwYOMVqZxRFG7wBaaXl1QQ",
+                    "children": []
+                  },
+                  {
+                    "id": "293",
+                    "parent": "291",
+                    "text": "➝ Considerar resucitación, reducción del\nvolumen intracraneal y reevaluación frecuente",
+                    "guid": "4Pas2CpKhVpk613lPBjZOA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "294",
+            "parent": "288",
+            "text": "2. Terapia osmótica\ny diuresis",
+            "guid": "ixjD__tvvz2ygnZkRQ0obA",
+            "children": [
+              {
+                "id": "295",
+                "parent": "294",
+                "text": "2.1. Solución salina\nhipertónica (SSH)",
+                "guid": "J-HHYst5dCxC_K10MtfvUQ",
+                "children": [
+                  {
+                    "id": "296",
+                    "parent": "295",
+                    "text": "✔ Mecanismo:",
+                    "guid": "w7SFmHCLimpgZMJ5EBDbyQ",
+                    "children": [
+                      {
+                        "id": "297",
+                        "parent": "296",
+                        "text": "➝ ↑ Osmolaridad plasmática → ↓ volumen cerebral",
+                        "guid": "0wFg4e4meni5L4jwFwU-hQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "298",
+                    "parent": "295",
+                    "text": "✔ Efecto:",
+                    "guid": "YO6vtthqJ-2Jt3RWVvrfXQ",
+                    "children": [
+                      {
+                        "id": "299",
+                        "parent": "298",
+                        "text": "➝ Reducción rápida de PIC, pero impacto en pronóstico incierto",
+                        "guid": "q7yi7EyBARjBbXPrRKQvfA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "300",
+                    "parent": "295",
+                    "text": "✔ Tipos y dosis:",
+                    "guid": "pAVRMSplLNb_QBFmqzlP_A",
+                    "children": [
+                      {
+                        "id": "301",
+                        "parent": "300",
+                        "text": "➝ SSH 7.2%-23. 4% en bolo",
+                        "guid": "7Q-nSVaZk52H3f8GJ_usPg",
+                        "children": []
+                      },
+                      {
+                        "id": "302",
+                        "parent": "300",
+                        "text": "➝ Ejemplo: SSH 7.5% (250 mL) vs Ringer lactato → sin diferencias en mortalidad o función neurológica",
+                        "guid": "DCRDQxFPG1jw2CTJ-s3SSw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "303",
+                    "parent": "295",
+                    "text": "✔ Comparación SSH vs manitol:",
+                    "guid": "UmjnALESmdBpSByxqXSdAQ",
+                    "children": [
+                      {
+                        "id": "304",
+                        "parent": "303",
+                        "text": "➝ SSH es más efectiva en reducción de PIC",
+                        "guid": "eBgRkjIIWGGkYkqYJ7g1ag",
+                        "children": []
+                      },
+                      {
+                        "id": "305",
+                        "parent": "303",
+                        "text": "➝ No hay evidencia clara de mejoría en resultados clínicos",
+                        "guid": "WTsYdzySUw6MwyZGz-XS0Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "306",
+                "parent": "294",
+                "text": "2.2. Manitol",
+                "guid": "vymhGnPXo7lQQbeuKii_cw",
+                "children": [
+                  {
+                    "id": "307",
+                    "parent": "306",
+                    "text": "✔ Mecanismo:",
+                    "guid": "9JRMecUeBJTBJg4d3gBA7Q",
+                    "children": [
+                      {
+                        "id": "308",
+                        "parent": "307",
+                        "text": "➝ Diurético osmótico → extrae agua del cerebro hacia circulación sistémica",
+                        "guid": "WczH8aKkv02CisOkQkq1AA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "309",
+                    "parent": "306",
+                    "text": "✔ Dosis:",
+                    "guid": "93jSytqtCcOEtPMCs1Y74A",
+                    "children": [
+                      {
+                        "id": "310",
+                        "parent": "309",
+                        "text": "➝ Bolo inicial: 1 g/kg IV",
+                        "guid": "ymH6qPimaSQdxvgw9cxNRA",
+                        "children": []
+                      },
+                      {
+                        "id": "311",
+                        "parent": "309",
+                        "text": "➝ Dosis de mantenimiento: 0. 25-0.5 g/kg cada 6-8 h",
+                        "guid": "uLObTdz-cejTwmUJn4tfqA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "312",
+                    "parent": "306",
+                    "text": "✔ Efectos\nadversos:",
+                    "guid": "8GcgRhjva7A9gGSAf3-A7g",
+                    "children": [
+                      {
+                        "id": "313",
+                        "parent": "312",
+                        "text": "➝ “Rebote” osmótico: si atraviesa BHE dañada → agrava edema",
+                        "guid": "tpSrss8ax4os1W0zYjIW7g",
+                        "children": []
+                      },
+                      {
+                        "id": "314",
+                        "parent": "312",
+                        "text": "➝ Hipotensión sistémica → ↓ PPC",
+                        "guid": "OtiftLE9hqclV3wYNdezYQ",
+                        "children": []
+                      },
+                      {
+                        "id": "315",
+                        "parent": "312",
+                        "text": "➝ Riesgo de lesión renal aguda (LRA) → monitorizar Na+, osmolaridad sérica y función renal",
+                        "guid": "hVpnaEQO-owytqgXmAVORw",
+                        "children": []
+                      },
+                      {
+                        "id": "316",
+                        "parent": "312",
+                        "text": "➝ Suspender si:",
+                        "guid": "Uy59WEmmSo2UgQz5geBTTg",
+                        "children": [
+                          {
+                            "id": "317",
+                            "parent": "316",
+                            "text": "➝ Na+ >150 mEq/L",
+                            "guid": "YLuj6QOQNkqhRWLls8hC-g",
+                            "children": []
+                          },
+                          {
+                            "id": "318",
+                            "parent": "316",
+                            "text": "➝ Osmolaridad >320 mOsm/L",
+                            "guid": "wE4MyBIbRufQ34jfvsimTQ",
+                            "children": []
+                          },
+                          {
+                            "id": "319",
+                            "parent": "316",
+                            "text": "➝ Evidencia de necrosis tubular aguda (NTA)",
+                            "guid": "-2oHF-ajpdnI64eBMXd6DQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "320",
+                "parent": "294",
+                "text": "2.3. Otros diuréticos\nosmóticos",
+                "guid": "0aVmbY-YkUKHsYC6PZ8vmA",
+                "children": [
+                  {
+                    "id": "321",
+                    "parent": "320",
+                    "text": "✔ Furosemida\n(0. 5-1 mg/kg IV)",
+                    "guid": "faKYL0NtBeIpyGW2vCpgXg",
+                    "children": [
+                      {
+                        "id": "322",
+                        "parent": "321",
+                        "text": "➝ Puede potenciar efecto del manitol",
+                        "guid": "P70IJBs9sDocqcKWu_neWA",
+                        "children": []
+                      },
+                      {
+                        "id": "323",
+                        "parent": "321",
+                        "text": "➝ Riesgo: deshidratación, hipokalemia",
+                        "guid": "cr2lLdepRvqxKoqHCRSgRg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "324",
+                    "parent": "320",
+                    "text": "✔ Glicerol y urea",
+                    "guid": "-Mni56qOT-MFdN49fbB10w",
+                    "children": [
+                      {
+                        "id": "325",
+                        "parent": "324",
+                        "text": "➝ Menos efectivos que manitol",
+                        "guid": "AwCgg5bsvcYNShBDSfsnGA",
+                        "children": []
+                      },
+                      {
+                        "id": "326",
+                        "parent": "324",
+                        "text": "➝ Mayor riesgo de efecto rebote",
+                        "guid": "yra2Lqn-7S0w8P_prjsERw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "327",
+            "parent": "288",
+            "text": "3. Glucocorticoides",
+            "guid": "3oSGnwz7YXyhLm5JYq3Deg",
+            "children": [
+              {
+                "id": "328",
+                "parent": "327",
+                "text": "✔ NO USAR en:",
+                "guid": "En33I6szumEK6qtdYWcawQ",
+                "children": [
+                  {
+                    "id": "329",
+                    "parent": "328",
+                    "text": "➝ TCE moderado-grave → asociado a peor pronóstico",
+                    "guid": "acVxCfm5p4V0wLLKLiUlGA",
+                    "children": []
+                  },
+                  {
+                    "id": "330",
+                    "parent": "328",
+                    "text": "➝ Infarto cerebral o hemorragia intracraneal",
+                    "guid": "ufL29UYfxiW5vWzQRZ1ZMA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "331",
+                "parent": "327",
+                "text": "✔ Útil en:",
+                "guid": "TIcE-SIHhyekmVQgwsk0yQ",
+                "children": [
+                  {
+                    "id": "332",
+                    "parent": "331",
+                    "text": "➝ Edema vasogénico por tumores cerebrales",
+                    "guid": "PbbJR56bJPu-L7E3dcdR8g",
+                    "children": []
+                  },
+                  {
+                    "id": "333",
+                    "parent": "331",
+                    "text": "➝ Abscesos cerebrales",
+                    "guid": "hzYjbD2pgzrDeCyka2GnIQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "334",
+            "parent": "288",
+            "text": "4. Hiperventilación",
+            "guid": "hnhVicM6Dw1xYk6HJqMcCg",
+            "children": [
+              {
+                "id": "335",
+                "parent": "334",
+                "text": "✔ Mecanismo:",
+                "guid": "4w7K6dEYxrcQYVfO8lnS3g",
+                "children": [
+                  {
+                    "id": "336",
+                    "parent": "335",
+                    "text": "➝ ↓ PaCO₂ (26-30 mmHg) → vasoconstricción → ↓ FSC → ↓ PIC",
+                    "guid": "6FO20aq54665aGTxJ13eMg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "337",
+                "parent": "334",
+                "text": "✔ Efecto transitorio (1-24 h)",
+                "guid": "oq1oCgX4VQwJtlR-dI1XQw",
+                "children": []
+              },
+              {
+                "id": "338",
+                "parent": "334",
+                "text": "✔ Riesgo:",
+                "guid": "pxUxrM4W3Qb2SDhx0_NUMw",
+                "children": [
+                  {
+                    "id": "339",
+                    "parent": "338",
+                    "text": "➝ ↓ FSC excesivo → isquemia cerebral",
+                    "guid": "ncpb43kJ69hQQ0WZEvdmiQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "340",
+                "parent": "334",
+                "text": "✔ Indicaciones:",
+                "guid": "4lT_I1htH-xxwqtuwmalKQ",
+                "children": [
+                  {
+                    "id": "341",
+                    "parent": "340",
+                    "text": "➝ Emergencia: PIC elevada aguda por edema cerebral, hemorragia, tumor",
+                    "guid": "38XH0QBq-usphiMG0Dumyg",
+                    "children": []
+                  },
+                  {
+                    "id": "342",
+                    "parent": "340",
+                    "text": "➝ Contraindicada en: TCE, ACV agudo → ↓ perfusión local puede empeorar lesión",
+                    "guid": "7ux6vjnutnTt4kcek3MUuQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "343",
+                "parent": "334",
+                "text": "✔ Reintroducción gradual de normoventilación para evitar efecto rebote",
+                "guid": "FdRxinGZpvkp9hwFvRM4ww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "344",
+            "parent": "288",
+            "text": "5. Barbitúricos",
+            "guid": "TdZ6gaDRhgiKVHp-ZjnPnQ",
+            "children": [
+              {
+                "id": "345",
+                "parent": "344",
+                "text": "✔ Mecanismo:",
+                "guid": "VUuAHX7nKxjZ74ph69b9hQ",
+                "children": [
+                  {
+                    "id": "346",
+                    "parent": "345",
+                    "text": "➝ ↓ Metabolismo cerebral → ↓ FSC → ↓ PIC",
+                    "guid": "m7o6CCzQPv7SBz5CzsY4xA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "347",
+                "parent": "344",
+                "text": "✔ Fármaco principal:\nPentobarbital",
+                "guid": "3bXjGJ12Mpr-ED_SEQZ3Ag",
+                "children": [
+                  {
+                    "id": "348",
+                    "parent": "347",
+                    "text": "➝ Dosis carga: 5-20 mg/kg IV",
+                    "guid": "1jVFM5gVBXoLcsLMtigCkg",
+                    "children": []
+                  },
+                  {
+                    "id": "349",
+                    "parent": "347",
+                    "text": "➝ Mantenimiento: 1-4 mg/kg/h",
+                    "guid": "Hc07LMUcFBQUz4qv1ENm7A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "350",
+                "parent": "344",
+                "text": "✔ Monitorización: EEG continuo → supresión de brotes = dosis máxima efectiva",
+                "guid": "HAbw-waQvmo1OhdwziYmxw",
+                "children": []
+              },
+              {
+                "id": "351",
+                "parent": "344",
+                "text": "✔ Efectos\nadversos:",
+                "guid": "jvQinJG1JsivOHr0LlN4Ig",
+                "children": [
+                  {
+                    "id": "352",
+                    "parent": "351",
+                    "text": "➝ Hipotensión → requiere vasopresores",
+                    "guid": "jUYBMxldRMoG1WD8w_a3-A",
+                    "children": []
+                  },
+                  {
+                    "id": "353",
+                    "parent": "351",
+                    "text": "➝ Pérdida del examen neurológico → necesita monitorización invasiva",
+                    "guid": "RB7njLylnopd6i3fdlo99A",
+                    "children": []
+                  },
+                  {
+                    "id": "354",
+                    "parent": "351",
+                    "text": "➝ Alteraciones electrolíticas: hipokalemia inicial, hiperK+ rebote",
+                    "guid": "-njSXMoI397p9S8RnfNP9g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "355",
+            "parent": "288",
+            "text": "6. Hipotermia\nterapéutica",
+            "guid": "o7b12L1LIOCcv4UIpu2Q4Q",
+            "children": [
+              {
+                "id": "356",
+                "parent": "355",
+                "text": "✔ Mecanismo:",
+                "guid": "WS35Vi9w8sO8snhKyzu0MA",
+                "children": [
+                  {
+                    "id": "357",
+                    "parent": "356",
+                    "text": "➝ ↓ Metabolismo cerebral → ↓ FSC → ↓ PIC",
+                    "guid": "zxHfuJpAD6Sm8QJuL-BSeA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "358",
+                "parent": "355",
+                "text": "✔ Meta: 32-34°C con enfriamiento sistémico",
+                "guid": "0iTJmqQwsBz_ccNwxivfUQ",
+                "children": []
+              },
+              {
+                "id": "359",
+                "parent": "355",
+                "text": "✔ Evidencia limitada → No recomendada rutinariamente",
+                "guid": "C3KVPHbtK9KmxWxMOSz-hA",
+                "children": []
+              },
+              {
+                "id": "360",
+                "parent": "355",
+                "text": "✔ Efectos adversos:",
+                "guid": "akfuZI4q8sdl9o4upYw-yw",
+                "children": [
+                  {
+                    "id": "361",
+                    "parent": "360",
+                    "text": "➝ Arritmias cardíacas",
+                    "guid": "CEk_3OEvp6KMIF5b6hQOPg",
+                    "children": []
+                  },
+                  {
+                    "id": "362",
+                    "parent": "360",
+                    "text": "➝ Coagulopatía",
+                    "guid": "RcYo2ymecLjFGb-kuLaZcA",
+                    "children": []
+                  },
+                  {
+                    "id": "363",
+                    "parent": "360",
+                    "text": "➝ Mayor susceptibilidad a infecciones",
+                    "guid": "VQBaTEmopxy0F6pUOKxe9Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "364",
+            "parent": "288",
+            "text": "7. Drenaje\nde LCR",
+            "guid": "TM0gpgtDV7PrAtw5LNuIZw",
+            "children": [
+              {
+                "id": "365",
+                "parent": "364",
+                "text": "✔ Indicaciones:",
+                "guid": "-woPsVBjLVefm70KSCMjLg",
+                "children": [
+                  {
+                    "id": "366",
+                    "parent": "365",
+                    "text": "➝ Hidrocefalia",
+                    "guid": "Ng6IFcFk0RrjpRmPBT3Tig",
+                    "children": []
+                  },
+                  {
+                    "id": "367",
+                    "parent": "365",
+                    "text": "➝ PIC elevada sin respuesta a otras medidas",
+                    "guid": "0Rq1GFs24e7qPgviYS-W_A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "368",
+                "parent": "364",
+                "text": "✔ Métodos:",
+                "guid": "HQO7TEAljRPemNV9JSN91A",
+                "children": [
+                  {
+                    "id": "369",
+                    "parent": "368",
+                    "text": "➝ Ventriculostomía: drenaje controlado",
+                    "guid": "wPedH7GWQBNn5Ah92ALL6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "370",
+                    "parent": "368",
+                    "text": "➝ Evitar drenaje rápido → riesgo de hemorragia por cambios bruscos de presión",
+                    "guid": "XChp_TdCq2ulb_wgLKAZmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "371",
+                    "parent": "368",
+                    "text": "➝ NO usar drenaje lumbar en PIC elevada → riesgo de herniación",
+                    "guid": "rLY0irDUnCshT75-bKywSw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "372",
+            "parent": "288",
+            "text": "8. Craneotomía\ndescompresiva",
+            "guid": "pf_IBCPAcHnpeauGfJ7GoA",
+            "children": [
+              {
+                "id": "373",
+                "parent": "372",
+                "text": "✔ Mecanismo:",
+                "guid": "ZohvHVWE2jmXC_iIMBtYiA",
+                "children": [
+                  {
+                    "id": "374",
+                    "parent": "373",
+                    "text": "➝ Remoción de hueso craneal → aumenta volumen intracraneal disponible",
+                    "guid": "OP2m6moe17e-G5eWfXX_MA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "375",
+                "parent": "372",
+                "text": "✔ Evidencia en TCE, ACV maligno, HSA",
+                "guid": "E3OgZ2n81GQYvAY7LGobqA",
+                "children": []
+              },
+              {
+                "id": "376",
+                "parent": "372",
+                "text": "✔ Eficacia:",
+                "guid": "9LboQFyBRnO0enrnuMlRjw",
+                "children": [
+                  {
+                    "id": "377",
+                    "parent": "376",
+                    "text": "➝ Craneotomía sola → ↓ PIC 15%",
+                    "guid": "XHKF1XCcfQZ4FXCJgxIqjw",
+                    "children": []
+                  },
+                  {
+                    "id": "378",
+                    "parent": "376",
+                    "text": "➝ Craneotomía + apertura de duramadre → ↓ PIC 70%",
+                    "guid": "5lrgxWRhbuY9S4qx0KF5Nw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "379",
+                "parent": "372",
+                "text": "✔ Complicaciones:",
+                "guid": "BQnT6XIOinSt8AvYMDBXMQ",
+                "children": [
+                  {
+                    "id": "380",
+                    "parent": "379",
+                    "text": "➝ Herniación paradójica",
+                    "guid": "qmnxNpfJPOP4G12eQ2R5oQ",
+                    "children": []
+                  },
+                  {
+                    "id": "381",
+                    "parent": "379",
+                    "text": "➝ Fuga de LCR",
+                    "guid": "eU1246uToRNkrLAe5GVTXw",
+                    "children": []
+                  },
+                  {
+                    "id": "382",
+                    "parent": "379",
+                    "text": "➝ Hematoma subdural/epidural",
+                    "guid": "PUQfcIrj2TWi7ccde2S4Bg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "383",
+                "parent": "372",
+                "text": "✔ Situación especial:",
+                "guid": "ehaqp4-08tk68H1gUJl25w",
+                "children": [
+                  {
+                    "id": "384",
+                    "parent": "383",
+                    "text": "➝ Herniación paradójica: en pacientes con\ncraniectomía y drenaje lumbar → manejo:",
+                    "guid": "ouhHzOTo4V-PgLhvdjgaCg",
+                    "children": [
+                      {
+                        "id": "385",
+                        "parent": "384",
+                        "text": "➝ Posición supina o Trendelenburg",
+                        "guid": "ZAcVBQRmjndj3GujggldQw",
+                        "children": []
+                      },
+                      {
+                        "id": "386",
+                        "parent": "384",
+                        "text": "➝ Clampeo de drenaje de LCR",
+                        "guid": "NZTnaQOqH_wr-_9Vz86PoA",
+                        "children": []
+                      },
+                      {
+                        "id": "387",
+                        "parent": "384",
+                        "text": "➝ Reposición de volumen IV",
+                        "guid": "rgAJ0nuNEVRsW0KRSnn2Nw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 388,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "UTD. Hipertensión intracraneana-2025",
+  "id": "map_680",
+  "resolved_references": []
+}

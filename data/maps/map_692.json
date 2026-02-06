@@ -1,0 +1,1470 @@
+{
+  "title": "HIPONATREMIA - TRATAMIENTO ESTÁNDAR 2024",
+  "guid": "6152E42813A110485CD30C8F",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Hiponatremia-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HIPONATREMIA -\nTRATAMIENTO ESTÁNDAR 2024",
+    "guid": "UUXCXhdW_gl5-ye8VMvQ1A",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "CONCEPTOS\nBÁSICOS",
+        "guid": "WV05_H8oItZ0xIGRJcg7KQ",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Dx → eval continua Na sérico + volumen + toxicidad + factores predisponentes/agravantes",
+            "guid": "ZbMDkHYeFuYCLLdMdlycgg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Tipo más común → alteración electrolitos hospital",
+            "guid": "GXZfHhujbExPyiHoE5Zj_A",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "↑ morbi-mortalidad + estancia + costes",
+            "guid": "O3RsfiUYfCMslt5wW2DvQg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "CLASIFICACIÓN\n& TRATAMIENTO",
+        "guid": "BmtgS0A37rg4M_vSV7Eiqg",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "A. HIPONATREMIA SEVERA\n→ Tto inmediato:",
+            "guid": "V47swTIvI44sfPN-CHE7hQ",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "Sol. salina hipertónica 3%",
+                "guid": "PqROj0hJrnZVZdJGILxGQg",
+                "children": [
+                  {
+                    "id": "8",
+                    "parent": "7",
+                    "text": "Bolus/infusión continua",
+                    "guid": "Lbef63gYj45GtYB2E2qjfA",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "7",
+                    "text": "Duración/magnitud → según ↑Na necesario + mejoría síntomas",
+                    "guid": "bjamdEjiN8IJxz_-B60Fkw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "parent": "5",
+            "text": "B. HIPONATREMIA\nCRÓNICA",
+            "guid": "ZIWkDlmRYecbQ2mPPeLeCw",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "→ Síntomas leves",
+                "guid": "WLmEvRAH6yBjqxk0FC3xOw",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "→ Clasificación: leve-moderada según Na",
+                "guid": "NSBnRBBB96RvjuB-O4vHjw",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "→ Tto basado vol final",
+                "guid": "UHnmXSfC3FATPOo5KAjTHg",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "Hipovolémica:\nreposición vol (iv/oral)",
+                    "guid": "WfH_3j-53bgweg6jGJZObQ",
+                    "children": [
+                      {
+                        "id": "15",
+                        "parent": "14",
+                        "text": "Na + agua",
+                        "guid": "CAOMLgXf4Ok5UpSvNbssGQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "5",
+            "text": "C. HIPONATREMIA\nHIPERVOLÉMICA",
+            "guid": "ffhwdwAIFSVJJc-VbC8W7A",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "→ Causas: ICC + enf hepática + sínd nefrótico",
+                "guid": "SOpM6FLtD5Rz3Bx_LW_w9g",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "→ ↑ vol extracelular → ↑ HAD",
+                "guid": "LH5xew8fhg5rUs8BBTf2OA",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "→ Tto:",
+                "guid": "HydxL0796DUZZed0VEfYcw",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "1ª línea: restricción fluidos",
+                    "guid": "Xz_f2gj0x_IP06ACL7nGNw",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "19",
+                    "text": "2ª línea: diuréticos asa",
+                    "guid": "MLekQiMQijxXwplVCqmkIA",
+                    "children": [
+                      {
+                        "id": "22",
+                        "parent": "21",
+                        "text": "Tolvaptán = antag-V2 → elección",
+                        "guid": "Yspn9Ag8p_kjP_KNas30Ig",
+                        "children": []
+                      },
+                      {
+                        "id": "23",
+                        "parent": "21",
+                        "text": "Riesgo sobrecorrección → monitorizar",
+                        "guid": "DhyI4lyShzwgiSA7DBT5Wg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "CONSIDERACIONES\nESPECIALES",
+        "guid": "",
+        "children": [
+          {
+            "id": "25",
+            "parent": "24",
+            "text": "Infusión 3% →\n100-150 ml/h",
+            "guid": "XJqcYWmu79F4RBBGJYTpSQ",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "Ajuste FR según Na",
+                "guid": "ez-y0z5HqUFuUmcYGmckAg",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "25",
+                "text": "No respuesta FR → eval SIADH",
+                "guid": "PJv_ZWwgLMVS9NpAaRpw4A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "24",
+            "text": "Urea oral → opción efectiva/segura",
+            "guid": "DUWRdwe4Toxurvx1bIVxUQ",
+            "children": []
+          },
+          {
+            "id": "29",
+            "parent": "24",
+            "text": "Monitorización cercana → evitar sobrecorrección",
+            "guid": "EK0Wfn6CnHgcPzeIQWS6wA",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "24",
+            "text": "FR inicial + ajuste Na → ingesta adecuada sol/prot",
+            "guid": "IZMmtHQB0N1MDl7gBF2OqA",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "24",
+            "text": "SIADH → Causa común hipona euvolémica leve-mod\n→ Tto causal → Guías EU/USA:",
+            "guid": "fD541m9OUW1vK4LKClsBuQ",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "1ª línea: restricción fluidos",
+                "guid": "S-DYqQ-0owUWb_sTKHt1Cw",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "31",
+                "text": "2ª línea: diuréticos asa",
+                "guid": "eWOS1g60C1lOAF5UNf-SOw",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "Vaptanes: opción basada evidencia",
+                    "guid": "etQ4HiD1OJQfGgMbdhPq8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "33",
+                    "text": "No evidencia suplementos",
+                    "guid": "FSS4wH8qC2lZB-SeJdHPPw",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "33",
+                    "text": "Inhib SGLT2 → alternativa vs placebo",
+                    "guid": "Xzzh1g1sajQQew70bIJzTQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "38",
+            "parent": "37",
+            "text": "↑ prevalencia: UCI (20-35%) → Ancianos → ↑ mortalidad x comorbilidades → ECV/HF (20%)",
+            "guid": "aUjtAzNE6OAjnV09ZYdl2g",
+            "children": []
+          },
+          {
+            "id": "39",
+            "parent": "37",
+            "text": "Causas frecuentes: → Hemorragia subaracnoidea → Prescripción inadecuada → ↓ conocimiento médicos riesgos",
+            "guid": "IpM6TRLI4Adv4meTbnQS9w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "DURACIÓN &\nCLASIFICACIÓN",
+        "guid": "In2DDQZSYqYW74gCG-EV4w",
+        "children": [
+          {
+            "id": "41",
+            "parent": "40",
+            "text": "A. AGUDA",
+            "guid": "FQZt_2Tv5lZR4KgfD9qmHQ",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "→ <48h → Post-op común → Intox H2O → Sintomática severa",
+                "guid": "BeUe63D6qzoF7pEOZSIAwQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "40",
+            "text": "B. CRÓNICA",
+            "guid": "fmcVbhZpoAJRpHQOE4vOLw",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "→ ≥48h",
+                "guid": "FZOrbCqsWKw5XZ1uE0BTTQ",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "→ Asintomática usual",
+                "guid": "H_N00iCUJ20ygCHjCTxh1Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "46",
+        "parent": "0",
+        "text": "GRADOS\nSEVERIDAD",
+        "guid": "YL_L6nkloDcJ2aYEZqTq1Q",
+        "children": [
+          {
+            "id": "47",
+            "parent": "46",
+            "text": "Severa: Na <120 mmol/l",
+            "guid": "U9kQTVYdfyBuw8evdmxKmw",
+            "children": []
+          },
+          {
+            "id": "48",
+            "parent": "46",
+            "text": "Moderada: Na 120-129 mmol/l",
+            "guid": "aOZfKF6mL0Jk4F2SC2PiNQ",
+            "children": []
+          },
+          {
+            "id": "49",
+            "parent": "46",
+            "text": "Leve: Na 130-134 mmol/l",
+            "guid": "ZPiR6HvP5ZQnRPgYef7_5w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "50",
+        "parent": "0",
+        "text": "SINTOMATOLOGÍA",
+        "guid": "aiBLcg_INxNLxuuWaIdg4A",
+        "children": [
+          {
+            "id": "51",
+            "parent": "50",
+            "text": "A. SEVERA",
+            "guid": "JjHXFR1rX6R8Ey8PO8WCgQ",
+            "children": [
+              {
+                "id": "52",
+                "parent": "51",
+                "text": "→ Convulsiones → Coma → Parada respiratoria",
+                "guid": "SBe4UDVwzH1PBdXPaAstIg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "50",
+            "text": "B. LEVE-MODERADA",
+            "guid": "VgTz6wGF97JxR474Kd4EOA",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "→ Cefalea",
+                "guid": "V6N20mALVqcgSk7TQInV-g",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "→ Letargia",
+                "guid": "PrGF6gUqrGVL7bgvI6oX0g",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "→ Fatiga",
+                "guid": "APqR-XMysEgdqRe6Ybpd5A",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "53",
+                "text": "→ Mareos",
+                "guid": "bFhQfyeCvb5IX0i5Vnib8Q",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "53",
+                "text": "→ Náuseas",
+                "guid": "N0r00RQmNFA-__zSXXzL5w",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "53",
+                "text": "→ Vómitos",
+                "guid": "MZGT9DsTK-EZQk5oealMRQ",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "53",
+                "text": "→ Confusión",
+                "guid": "cIP4X2hIJDdhtHlnRojsSg",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "53",
+                "text": "→ Alt. marcha",
+                "guid": "ac4b6VL8CF9wZvCCQXGSvA",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "53",
+                "text": "→ Calambres",
+                "guid": "MwdfBxCxP1YB-2i2cbjk8Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "parent": "0",
+        "text": "MONITORIZACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "64",
+            "parent": "63",
+            "text": "Hospitalización frecuente",
+            "guid": "Fdvru03pIOYVYvzDFtZ9tQ",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "Control: → Na sérico → Diuresis → Estado neurológico",
+                "guid": "QRvRLjMMFH14kNuZLXQhrQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "parent": "63",
+            "text": "Toxicidad: → Eval movimiento H2O\n→ Osmolaridad:",
+            "guid": "Wo7SPEDwJFID7L2fEdnHDQ",
+            "children": [
+              {
+                "id": "67",
+                "parent": "66",
+                "text": "Hipotónica: <275 mOsm/kg",
+                "guid": "VRZYokLsunFvVpL0Bqfslw",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "66",
+                "text": "Isotónica: 275-290 mOsm/kg",
+                "guid": "ff_mUgiY4V0AUTjcboPesQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "66",
+                "text": "Hipertónica: >290 mOsm/kg",
+                "guid": "cOEFlGIFskM1DMr7Wq8hfg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "parent": "0",
+        "text": "HIPONATREMIA - ESTRATEGIAS\nPERSONALIZACIÓN TRATAMIENTO (3)",
+        "guid": "",
+        "children": [
+          {
+            "id": "71",
+            "parent": "70",
+            "text": "DIAGNÓSTICO\nINICIAL",
+            "guid": "NiT61B4cHPBZwf6bTADmjw",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "→ Esencial\nconfirmar:",
+                "guid": "HFhkMF6B7lEOmaklcW680g",
+                "children": [
+                  {
+                    "id": "73",
+                    "parent": "72",
+                    "text": "Hiponatremia aguda severa",
+                    "guid": "bAU91m8k-15i12RELSEPBA",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "72",
+                    "text": "Na <125 + síntomas",
+                    "guid": "IjEP3FtoP91alTCyfL_iGA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75",
+                "parent": "71",
+                "text": "→ Evaluar:",
+                "guid": "IW6own3wPBp4FqlpH26PFA",
+                "children": [
+                  {
+                    "id": "76",
+                    "parent": "75",
+                    "text": "Toxicidad",
+                    "guid": "Bokdd3hn4kUN8m3Gd2ojCw",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "75",
+                    "text": "Estado volumen",
+                    "guid": "Wm2UiUL_OMFSGUSJD29PLA",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "75",
+                    "text": "Causa subyacente",
+                    "guid": "aHL0P245-MN3eGjWHpfvEw",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "75",
+                    "text": "Pronóstico",
+                    "guid": "DFYVtFE6Z3FqmNWjeFtTig",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "70",
+            "text": "TRATAMIENTO\nESPECÍFICO",
+            "guid": "QF9iz01wOeclfGKPYpByqw",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "A. HIPONATREMIA\nSEVERA",
+                "guid": "KNh5xQARk0FfUFTDRTDd9Q",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "Bolus repetidos: → 100-150ml/2-4 ml/kg → SSH 3% en 20-40min → Hasta Na objetivo",
+                    "guid": "XpOBkm3p_ek2n5rHAAIqVA",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "Alt: Infusión continua → 0.5-1 ml/kg/h → Debate beneficio vs bolus",
+                    "guid": "a9o6Ay62RDEfcLlocmNXeg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "80",
+                "text": "B. HIPONATREMIA\nHIPOVOLÉMICA LEVE-MOD",
+                "guid": "Jx4mdi1jJy5pzXqFAYu6_w",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "Reposición volumen: → SF 0.9% IV: 25-30 ml/kg/d\n→ Alt oral: Na 9g (≈1L SF) → + comidas/fluidos",
+                    "guid": "cGJf8Dvmvw8Q-worWNVULw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86",
+                "parent": "80",
+                "text": "C. HIPONATREMIA\nHIPERVOLÉMICA",
+                "guid": "KiC30ghzcwF3bUNDNnbNhg",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "1ª línea: → Restricción fluidos → Excepción: diuréticos sobredosis",
+                    "guid": "Wa3acmIGGOYu0iERGg09Qg",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "86",
+                    "text": "2ª línea: → Diuréticos asa\n→ Tolvaptán:",
+                    "guid": "L3ZSzVROg6B8na_tWE7Mkg",
+                    "children": [
+                      {
+                        "id": "89",
+                        "parent": "88",
+                        "text": "Dosis inicial: 15mg",
+                        "guid": "VGAW4VvuBLEdf6qHMvOYcw",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "88",
+                        "text": "↑ lento Na",
+                        "guid": "SdgCmlQfRU8y9cLHNbI8nQ",
+                        "children": []
+                      },
+                      {
+                        "id": "91",
+                        "parent": "88",
+                        "text": "Monitorizar si + diuréticos",
+                        "guid": "AtWJgFJmfC8oFZQXKfOv9g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "92",
+                    "parent": "86",
+                    "text": "Opciones adicionales: → Albúmina: hepatopatía avanzada\n→ Inhib-SGLT2: ICC (evidencia limitada)",
+                    "guid": "f8mjXhHjDpwrf2r2cCwDTg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "parent": "70",
+            "text": "SIADH",
+            "guid": "ETS0dke5fY441acJWwy3EA",
+            "children": [
+              {
+                "id": "94",
+                "parent": "93",
+                "text": "Pre-tto: excluir otras causas",
+                "guid": "TcnNqzx6dSFJAVd9d-qFfg",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "93",
+                "text": "FR = eficacia cuestionable",
+                "guid": "RO3oI0BumsAuYVMEHpvClQ",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "93",
+                "text": "\"Beber solo si sed\" = efectivo",
+                "guid": "InSzpl0zdBU4qP_XUesGdA",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "93",
+                "text": "Corrección muy lenta Na",
+                "guid": "MYH3tTVGr8UqOdMGBeIOlg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "parent": "0",
+        "text": "HIPONATREMIA SEVERA -\nALGORITMO TRATAMIENTO (4)",
+        "guid": "",
+        "children": [
+          {
+            "id": "99",
+            "parent": "98",
+            "text": "CRITERIO INICIO → Na sérico <125 mmol/l",
+            "guid": "PjHmADjUh8RIofxTPfuJXg",
+            "children": []
+          },
+          {
+            "id": "100",
+            "parent": "98",
+            "text": "PRIMERA LÍNEA\n→ SSH 3%:",
+            "guid": "SreWYHQhZ0kuJ4ysGIFkDA",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "Bolus: 100-150 ml / 20-40 min",
+                "guid": "MJvca3co5CkQa-mKdYnEjg",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "100",
+                "text": "Alt: Infusión continua 0.5-1 ml/kg/h",
+                "guid": "N5d-6j7NPI4UJYcjWgwykA",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "100",
+                "text": "MONITORIZACIÓN RESPUESTA\n→ Medición ↑Na:",
+                "guid": "HACwpEzOhvsr9zkETYKoWQ",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "A. <4 mmol/l:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "105",
+                        "parent": "104",
+                        "text": "Repetir bolus SSH 3%",
+                        "guid": "AhU2wFYxDAtTZLbwE0nrNg",
+                        "children": []
+                      },
+                      {
+                        "id": "106",
+                        "parent": "104",
+                        "text": "Intervalos 20-40 min",
+                        "guid": "HeqJmQw6XfluVqJGOcNMdg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "107",
+                    "parent": "103",
+                    "text": "B. 4-6 mmol/l:",
+                    "guid": "eAXHyn8VlfNYcZjTNjetyg",
+                    "children": [
+                      {
+                        "id": "108",
+                        "parent": "107",
+                        "text": "Suspender SSH 3%",
+                        "guid": "N-odtyETlSZ0MzcoAqG0Fw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "109",
+                    "parent": "103",
+                    "text": "C. >6 mmol/l:",
+                    "guid": "FTT8cCJaw9QbIxgjRdDY2w",
+                    "children": [
+                      {
+                        "id": "110",
+                        "parent": "109",
+                        "text": "Suspender SSH 3%",
+                        "guid": "GYOn_SuPAa07Wp1pURsm5w",
+                        "children": []
+                      },
+                      {
+                        "id": "111",
+                        "parent": "109",
+                        "text": "Considerar: \n→ Objetivo: ↓1mmol/l Na",
+                        "guid": "alw-PE-AJIwrJ1l4Blzu4A",
+                        "children": [
+                          {
+                            "id": "112",
+                            "parent": "111",
+                            "text": "→ Desmopresina 1mcg sc/iv/8h\n→ Glucosa sol 4 ml/kg",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "113",
+            "parent": "98",
+            "text": "CONSIDERACIONES",
+            "guid": "HE6rh1ceknxT35c5HmPiRw",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "Sobrecorrección = ↑Na >12-18 mmol/l en 24-48h",
+                "guid": "LU-ehydETikxrc19SzooIA",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "113",
+                "text": "RIB vs SCI: → Similar eficacia\n→ RIB:",
+                "guid": "M36sIyAEb8ME_XSWK4Rz7Q",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "↓ retratamientos",
+                    "guid": "HxoFtl1vDWlhvCG3VwQjbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "↑ eficacia Na 1ª hora",
+                    "guid": "foKikFXvWN9ZpdeFE7efAA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "118",
+                "parent": "113",
+                "text": "Preferencia: → SSH 3% bolus/infusión\n→ Hipokalemia: añadir KCl 20mmol/500ml",
+                "guid": "eEocs3TI76hZiHfbEc3EsA",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "113",
+                "text": "Monitorización: → c/2h inicial → K/Na post-corrección →\nDiuresis → Riesgo ODS",
+                "guid": "IFfxVhTjFURi6OuYCrQvkg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "120",
+        "parent": "0",
+        "text": "OPCIONES FARMACOLÓGICAS HIPONATREMIA\n- TABLA COMPARATIVA (5)",
+        "guid": "ZS7XjGTwtasfFcefEn52FA",
+        "children": [
+          {
+            "id": "121",
+            "parent": "120",
+            "text": "ISOTONICAS/SUERO\nSALINO",
+            "guid": "DDUD1VDDlR1duJ40P7Ov-A",
+            "children": [
+              {
+                "id": "122",
+                "parent": "121",
+                "text": "Indicación: hiponatremia hipovolémica",
+                "guid": "cMgE4GK2EstrOCPlD-IKlw",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "121",
+                "text": "Dosis: 25-50 ml/kg",
+                "guid": "QCUgNEz0RZxm5i4EPqfCxA",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "121",
+                "text": "TFG: sin límite",
+                "guid": "IuOee0CMBYlSX2HEGy27Lg",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "121",
+                "text": "Respuesta Na: hiponatremia",
+                "guid": "NVT1Mivn2Z8s-3_eVazmiA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "126",
+            "parent": "120",
+            "text": "SSH 3%",
+            "guid": "QMru4w_ka3ZgYRYaJS4otA",
+            "children": [
+              {
+                "id": "127",
+                "parent": "126",
+                "text": "Indicación: hiponatremia severa",
+                "guid": "HfSwhnFyNIwl4A4MAyOIEw",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "126",
+                "text": "Dosis: 2-4 ml/kg + bolus",
+                "guid": "VmLqN0T11asVof4nYpfuDA",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "126",
+                "text": "TFG: sin límite",
+                "guid": "FblqyHNanFsiS54EBoFvqQ",
+                "children": []
+              },
+              {
+                "id": "130",
+                "parent": "126",
+                "text": "Respuesta Na: hiponatremia",
+                "guid": "VhCvJg2DwekWY3pAFjXPWw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "131",
+            "parent": "120",
+            "text": "DIURÉTICOS ASA",
+            "guid": "WngHhX1JqERU3ZIffVumAA",
+            "children": [
+              {
+                "id": "132",
+                "parent": "131",
+                "text": "Indicación: SIADH → Hipervolémica → Post-restricción fluidos",
+                "guid": "PdWtzic88-QYiWEucyqjAA",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "131",
+                "text": "Dosis: 20-40mg/12h",
+                "guid": "UyTNg0WE4Q1I14mIE--8Zw",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "131",
+                "text": "TFG: >20-30 ml/min",
+                "guid": "VWlMgyk4n6I5HeUbc139Cg",
+                "children": []
+              },
+              {
+                "id": "135",
+                "parent": "131",
+                "text": "Respuesta Na: 2-4 mmol/l/4h 1º día",
+                "guid": "GqrULl798yd2gYUdcQ2-ZQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "136",
+            "parent": "120",
+            "text": "VAPTANES",
+            "guid": "I_PI0gwjg0RTpaxyOa0zmw",
+            "children": [
+              {
+                "id": "137",
+                "parent": "136",
+                "text": "Indicación: SIADH → Hipovolémica/hipervolémica",
+                "guid": "f34fn3XxSnZALqNEVY7Oxg",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "136",
+                "text": "Dosis: 15-60mg",
+                "guid": "A3UMYFaSHYRrxJ4hXe0T5Q",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "136",
+                "text": "TFG: >15 ml/min",
+                "guid": "U9vFyECiMEBbSLnmEbFzlg",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "136",
+                "text": "Respuesta Na: → 4-6 mmol/l/24h → Progresivo SIADH",
+                "guid": "Z98kJHPSGxQE3BaWOwPxqA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "141",
+            "parent": "120",
+            "text": "UREA",
+            "guid": "OVb8IU2zoB5O864PDsBIpQ",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "Indicación: SIADH",
+                "guid": "duw_wAgRkyoCHkWvEZcT7g",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "141",
+                "text": "Dosis: 15-90 g",
+                "guid": "Zw-GUXifyswCpNJUCwNPIw",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "141",
+                "text": "TFG: >30 ml/min",
+                "guid": "BMNOEFZKfsZEsIK-BEFtrw",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "141",
+                "text": "Respuesta Na: → 4-6 mmol/l/1-7 días → ICC eficacia desigual",
+                "guid": "TDvJPATfJgJZ0Dx1T7DVnA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "146",
+            "parent": "120",
+            "text": "INHIB-SGLT2",
+            "guid": "W3FDhkWU2pYtnemCL00JTw",
+            "children": [
+              {
+                "id": "147",
+                "parent": "146",
+                "text": "Indicación: SIADH",
+                "guid": "BjcK1wjmo2hA_nzlbhYu-w",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "146",
+                "text": "Dosis: 10-25 mg",
+                "guid": "fLi-fEXak3wpGiCjNg-6ng",
+                "children": []
+              },
+              {
+                "id": "149",
+                "parent": "146",
+                "text": "TFG: >60 ml/min hasta 250 ml/min",
+                "guid": "E44zmngNzrJE0ANDCnpzWw",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "146",
+                "text": "Respuesta Na: hiponatremia",
+                "guid": "AB9h3EbuSPIcEYdJZy7oLQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "151",
+        "parent": "0",
+        "text": "HIPONATREMIA LEVE-MODERADA -\nALGORITMO TRATAMIENTO (6)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "CLASIFICACIÓN\nVOLUMEN",
+        "guid": "",
+        "children": [
+          {
+            "id": "153",
+            "parent": "152",
+            "text": "A. HIPOVOLEMIA",
+            "guid": "dQDYYzbiug9Iks99QTyhoA",
+            "children": [
+              {
+                "id": "154",
+                "parent": "153",
+                "text": "→ sNa <130 mmol/l:",
+                "guid": "O8HgEiJjC_MQ7Xc8FzMjmA",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "Causas renales → sNa >130 mmol/l:",
+                    "guid": "Z_fmiT6LYL5GgCznbi7xYA",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "154",
+                    "text": "Causas no renales",
+                    "guid": "R3IEJgd-qc1cRSBcRCrCow",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "157",
+            "parent": "152",
+            "text": "B. EUVOLEMIA",
+            "guid": "TVk9SQVfQP96On1BYOdw4w",
+            "children": [
+              {
+                "id": "158",
+                "parent": "157",
+                "text": "→ SIADH:",
+                "guid": "fW0Psj8KgIRrYeQ-fYxxjg",
+                "children": [
+                  {
+                    "id": "159",
+                    "parent": "158",
+                    "text": "Descartar: tiroides/suprarrenal",
+                    "guid": "BfjJdgdza4hku1m8RYbdNA",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "158",
+                    "text": "Medir: plasma/orina Osm",
+                    "guid": "JinFJVbtkQ0J2D8CGyqdiQ",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "158",
+                    "text": "Evaluar: nutrición",
+                    "guid": "DdBLHFJrDn9cZz8pSZIrLg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "162",
+            "parent": "152",
+            "text": "C. HIPERVOLEMIA",
+            "guid": "dM4acm1UtmVgxU7HXMYA_A",
+            "children": [
+              {
+                "id": "163",
+                "parent": "162",
+                "text": "→ sNa <130 mmol/l:",
+                "guid": "K-AXJCdFe65K9PJcc1IbSg",
+                "children": [
+                  {
+                    "id": "164",
+                    "parent": "163",
+                    "text": "Causas renales",
+                    "guid": "LsQleyc6Erg3fN3tfB1ixA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "165",
+                "parent": "162",
+                "text": "Diuréticos no renales\n→ sNa >130 mmol/l:",
+                "guid": "LJlTuDG3Wy5dBNOoKgZjag",
+                "children": [
+                  {
+                    "id": "166",
+                    "parent": "165",
+                    "text": "ICC",
+                    "guid": "cMHbskhmt-YnktT4drqlKA",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "165",
+                    "text": "Hepatopatía",
+                    "guid": "T9ojbgxOLrQ8QYJcdgPolA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "168",
+        "parent": "0",
+        "text": "INTERVENCIONES\nSEGÚN VOLUMEN",
+        "guid": "Yzu_wUYZwV4RLoYdcQwK3g",
+        "children": [
+          {
+            "id": "169",
+            "parent": "168",
+            "text": "A. HIPOVOLEMIA",
+            "guid": "GITP3m2VxUY6njYMDVLqUA",
+            "children": [
+              {
+                "id": "170",
+                "parent": "169",
+                "text": "Suspender diuréticos",
+                "guid": "Wup7qxtjhNNqGOtMBsqSzw",
+                "children": []
+              },
+              {
+                "id": "171",
+                "parent": "169",
+                "text": "Si K+ bajo: → Evaluar mineralocorticoides →\nAntiinflamatorios si necesario → Tto causal",
+                "guid": "QqkAgjUN3al6HK4acW0l_Q",
+                "children": []
+              },
+              {
+                "id": "172",
+                "parent": "169",
+                "text": "Suplementación volumen: → SF 0.9% →\nAlt: Na oral + comidas 9g/día",
+                "guid": "XEfwYTGZjAdtiojCCOFEGQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "173",
+            "parent": "168",
+            "text": "B. EUVOLEMIA",
+            "guid": "Y1DnNkqPXGoy56eDVBLC6A",
+            "children": [
+              {
+                "id": "174",
+                "parent": "173",
+                "text": "Restricción fluidos si: → Diuresis <500ml o → Na urinario <30mmol/l",
+                "guid": "EvYUUFp6fHxKzWgRYtA3vw",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "173",
+                "text": "Terapia escalonada: → Diuréticos asa inicio → Tolvaptán 7.5-15mg/día\n→ Monitorizar Na → SGLT2i 25mg/día → Control Na/K dieta",
+                "guid": "ZsirMAcO6m1Y1CBTSgRq8g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "168",
+            "text": "C. HIPERVOLEMIA",
+            "guid": "TSirzGoCpnA7EHXQZa17qg",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "Restricción fluidos: → Solo si sed → Furosemida 25-40mg/12-24h →\nNa/K c/2-4h → Sal 3-5g/día → ↑Na máx 2mmol/día → Urea 15-60mg/día",
+                "guid": "V5hrtnWuq9xzAGX6MoLnYQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "178",
+        "parent": "0",
+        "text": "CONCLUSIONES\nHIPONATREMIA 2024 (7)",
+        "guid": "",
+        "children": [
+          {
+            "id": "179",
+            "parent": "178",
+            "text": "EPIDEMIOLOGÍA",
+            "guid": "BLKHamc0xoJzCIhra3symw",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "Alteración electrolítica + común hospital",
+                "guid": "Eicu8DNqKEtFKFcvbm8fUQ",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "179",
+                "text": "↑ morbi-mortalidad corto/largo plazo",
+                "guid": "ZQO0UjKy3_F3UGNrSFSbiA",
+                "children": []
+              },
+              {
+                "id": "182",
+                "parent": "179",
+                "text": "↑ estancia/costes",
+                "guid": "fUI8Wyo4Cu4cZ15xEDhQrA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "183",
+            "parent": "178",
+            "text": "TRATAMIENTO INICIAL",
+            "guid": "bkOw70vcqL41f52NO2xcuw",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "SSH 3%: → Bolus 100ml IV vs infusión continua → Según severidad/persistencia síntomas →\nMonitorización bioquímica frecuente",
+                "guid": "Nd9PLnCQE10hGdhlDXe65A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "185",
+            "parent": "178",
+            "text": "PREFERENCIAS TTO",
+            "guid": "Zj6_ORQaPmA_-qJFd1Dv6Q",
+            "children": [
+              {
+                "id": "186",
+                "parent": "185",
+                "text": "Hipertónico intermitente rápido → preferido sintomáticos",
+                "guid": "cTOPp3lIHHZLDCEbA1q-lw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "187",
+            "parent": "178",
+            "text": "SIADH",
+            "guid": "LLJEwRA0eEtxyd3oEbX5FA",
+            "children": [
+              {
+                "id": "188",
+                "parent": "187",
+                "text": "50% no respuesta FR 1ª línea",
+                "guid": "QudYPGkaQVNaCpScQCmUmA",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "187",
+                "text": "Opciones 2ª línea efectivas: → Urea → Tolvaptán",
+                "guid": "E1JMQnZx8w1QYeVEGATTrA",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "187",
+                "text": "Evidencia limitada secuencia tto",
+                "guid": "Xaa5j0Nqba8DgAZHS-pqfw",
+                "children": []
+              },
+              {
+                "id": "191",
+                "parent": "187",
+                "text": "Empagliflozina: → RCT reciente (n=14) → ↑Na 131→134 mmol/l → Buena tolerancia → Pendiente confirmar beneficios",
+                "guid": "D0cWbTj_o9QHVsc6RSZlmw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "192",
+            "parent": "178",
+            "text": "CONSIDERACIONES\nCLÍNICAS",
+            "guid": "KY-3MShwn6BSniB_D852aw",
+            "children": [
+              {
+                "id": "193",
+                "parent": "192",
+                "text": "Tto personalizado: → Hiponatremia leve-mod sintomática → Ingesta adecuada (sal/proteína) → FR inicial + ajuste Na",
+                "guid": "PIreABKYwsQHH2ZULb5tpw",
+                "children": []
+              },
+              {
+                "id": "194",
+                "parent": "192",
+                "text": "Evaluación paciente: → Estado volumen euvolémico/hipervolémico → Alta actividad ADH\n→ Monitorización estrecha:",
+                "guid": "C-DfO1Irh3AxGSw-OJMj_A",
+                "children": [
+                  {
+                    "id": "195",
+                    "parent": "194",
+                    "text": "Fluidos hipotónicos",
+                    "guid": "Yl__uyLjCiZKSR0QJUdX9w",
+                    "children": []
+                  },
+                  {
+                    "id": "196",
+                    "parent": "194",
+                    "text": "Desmopresina",
+                    "guid": "C_1LeiRTsa1lcOyPH0-XvA",
+                    "children": []
+                  },
+                  {
+                    "id": "197",
+                    "parent": "194",
+                    "text": "Corrección gradual > rápida normalización Na",
+                    "guid": "GsWkujXS0dM3VGtoeGxeSg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 198,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Hiponatremia-2024",
+  "id": "map_692",
+  "resolved_references": []
+}

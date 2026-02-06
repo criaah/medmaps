@@ -1,0 +1,850 @@
+{
+  "title": "Pruebas de Susceptibilidad Antimicrobiana (AST)",
+  "guid": "5C651BD6738DBD021E438094",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/04. Pruebas de Susceptibilidad Antimicrobiana (AST)-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Pruebas de Susceptibilidad\nAntimicrobiana (AST)",
+    "guid": "HL4ZbVKnPuoQDpypG0klcQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Resistencia\nAntimicrobiana\n(AMR)",
+            "guid": "BVKZaUMqMY0M_K_ZWdhnOg",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Problema Global: Amenaza urgente salud pública, niveles altos y crecientes",
+                "guid": "JHCj5X2PVGZLrFv0GtxizA",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Impacto: Aumento morbilidad/mortalidad (Patógenos clave: E. coli, S. aureus, K. pneumoniae, S. pneumoniae, A. baumannii, P. aeruginosa).\nProyección 10M muertes/año para 2050",
+                "guid": "KMZd4C8jNy8qUlPcQuuCaQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- Carga Económica: Altos costos salud, impacto socioeconómico significativo",
+                "guid": "MN8H3hMzyEZw4w8AWwNDWQ",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "- Exacerbación por COVID-19: Mal uso antibióticos, ttos. inmunosupresores, hospitalización prolongada, afectación vigilancia AMR",
+                "guid": "FXwY0gozFMNsSl_dNv1_dg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "- Mecanismos de\nResistencia Bacteriana",
+            "guid": "S-oRE27HjYUClWI9W7Hj9A",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "- Inactivación Enzimática (ej: beta-lactamasas - ESBL, AmpC, Carbapenemasas)",
+                "guid": "VX3iQDBufXxC1lUAVp8oOQ",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "- Alteración Sitio Diana (ej: PBP2a en SARM - gen mecA)",
+                "guid": "XI6B-jz-zhps73o-K-wyNQ",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "7",
+                "text": "- Reducción Permeabilidad Membrana Externa (ej: porinas)",
+                "guid": "NPA6MmNS61N7NVeZPrH19A",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "7",
+                "text": "- Eflujo Activo Fármaco (ej: bombas de eflujo)",
+                "guid": "JqeXDHxmqUlDmSzOSxg68Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "- Causas AMR: Multifactoriales (venta sin receta, uso en ganadería, prescripción inapropiada)",
+            "guid": "MIEzNjym5cJkzziwCJA2BQ",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "- Estrategias de\nControl AMR",
+            "guid": "f5oHlzKhxCM0lwDjRdbhLg",
+            "children": [
+              {
+                "id": "14",
+                "parent": "13",
+                "text": "- Administración Antimicrobiana (AMS - Antimicrobial Stewardship)",
+                "guid": "efX9rw9FiMJl9J29Irxbjw",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "13",
+                "text": "- Detección precisa y rápida de AMR mediante AST",
+                "guid": "Pmi_8RBG8Zllp935b0fHzw",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "13",
+                "text": "- Tratamiento antimicrobiano apropiado",
+                "guid": "I3q531aK7PlKSwsoOPbSsQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "parent": "1",
+            "text": "- Objetivo del Artículo: Revisión exhaustiva métodos AST actuales y futuros, ventajas/desventajas",
+            "guid": "bxw9bAz_qdhFTB7YPTliNw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "parent": "0",
+        "text": "## Justificación para Realizar Pruebas\nde Susceptibilidad (Rationale)",
+        "guid": "",
+        "children": [
+          {
+            "id": "19",
+            "parent": "18",
+            "text": "- Guía Terapéutica",
+            "guid": "aWTFrjjZ29pbfOLMBiLfHA",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "- Elección tratamiento óptimo basado en susceptibilidad patógeno",
+                "guid": "YL4BvDaVawVv9FInNjvj_A",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "19",
+                "text": "- Información patrones locales resistencia -> ayuda terapia empírica (Umbral >20% resistencia desaconseja monoterapia empírica)",
+                "guid": "ZwPogjLKpycM2ww1Q5JqfA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "18",
+            "text": "- Control de Infecciones",
+            "guid": "C4EaxWuLf3UhbASNBI4NPw",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "- Evaluación efectividad medidas prevención/control (monitorización patógenos resistentes: SARM,\nERV, Enterobacterales productores ESBL/Carbapenemasas, CRAB, CRPA, etc.)",
+                "guid": "b8l1QnnKhnNvfpyyJLmvdA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "18",
+            "text": "- Vigilancia\nEpidemiológica\nAMR",
+            "guid": "IfoIjlVO7bhVTc6-J0yh9w",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "- Base: Datos AST rutina laboratorios",
+                "guid": "XR1xx2qz9Etja6VoA8UI0w",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "- Sistemas: GLASS-OMS, EARS-Net, AR Lab Network-CDC",
+                "guid": "ZxqdlCcE0jZO3UPEYRCbQw",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "24",
+                "text": "- Utilidad: Informa políticas salud, guías tto. empírico, programas AMS",
+                "guid": "Nkpa-DTR4YEDzPbTdLMa6Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "18",
+            "text": "- Antibiogramas\nLocales/Institucionales",
+            "guid": "GHkfRmJKfpcBJQkxZGMwWQ",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "- Importancia Práctica: Mayor que vigilancia global. Necesarios anualmente por hospital/unidad (especialmente UCI)",
+                "guid": "RRjTGml01Mxj-uK4aJOM-Q",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "28",
+                "text": "- Tipos Especiales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "- Antibiograma Combinado: Evalúa susceptibilidad a combinaciones ATB (útil MDR)",
+                    "guid": "P__BxS5F7eEhil-qIL3DgQ",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "30",
+                    "text": "- Antibiograma Sindrómico: Probabilidad cobertura ATB para síndrome específico (pondera incidencia patógenos)",
+                    "guid": "ZNtY5hF-sdFW-ad-S99BaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "parent": "28",
+                "text": "- Estandarización: Guías CLSI M39-A4",
+                "guid": "RElY-GPUs7MPcavlNBLOOg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "parent": "0",
+        "text": "## Técnicas Comúnmente Usadas\n(Métodos Clásicos / Fenotípicos)",
+        "guid": "",
+        "children": [
+          {
+            "id": "35",
+            "parent": "34",
+            "text": "- Principio General: Evalúan respuesta (crecimiento/inhibición) bacteria en presencia ATB. Requieren crecimiento bacteriano (tiempo limitante)",
+            "guid": "URIMHQO6a25AFRRNAZM_Uw",
+            "children": []
+          },
+          {
+            "id": "36",
+            "parent": "34",
+            "text": "- Métodos de Dilución\n(Determinan MIC Cuantitativa)",
+            "guid": "QGFRMSTkTP0KI3VYP_tYyA",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "- Concentración Mínima Inhibitoria (MIC): Menor [ATB] que inhibe crecimiento visible. Base para categoría S/I/R",
+                "guid": "XZ86J37wSJdYzH2uOryr7g",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "- Concentración Mínima Bactericida (MBC/CMB): Menor [ATB] que mata 99.9% bacterias (solo métodos caldo)",
+                "guid": "aaQ84jw4Ixc-gbTBUL7adg",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "36",
+                "text": "- Dilución en Caldo\n(Broth Dilution):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "40",
+                    "parent": "39",
+                    "text": "- Macrodilución (en tubo): Diluciones seriadas ATB -> inocular -> incubar -> leer turbidez. Método referencia",
+                    "guid": "Yzz1TQ1e-IUxz3W5GYdQRg",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "39",
+                    "text": "- Metodología Tiempo-Muerte (Time-Kill): Evalúa actividad bactericida vs tiempo/concentración. Requiere recuento colonias",
+                    "guid": "QjDaBjWcbIwOOmsvB0mtIA",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "39",
+                    "text": "- Microdilución (BMD): Gold Standard. Placas 96 pocillos. Permite testear múltiples ATB/diluciones. Estandarizado, preciso, barato. Mejora: Indicador redox (Resazurina). Sistemas comerciales disponibles (Sensititre, ComASP Colistin)",
+                    "guid": "HxFBWHI1Tehv3ToZXxEDHQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43",
+                "parent": "36",
+                "text": "- Dilución en Agar\n(Agar Dilution):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "- Técnica: ATB incorporado en agar a diferentes [ ] -> inocular cepas -> incubar -> leer crecimiento",
+                    "guid": "IHs7yRFnmcN_zsafBVaUrw",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "- Ventaja: Permite testear muchas cepas simultáneamente",
+                    "guid": "IuZLlFbIbh1RNdYYZy-kjA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "34",
+            "text": "- Método de Gradiente Antimicrobiano\n(Etest®, MIC Test Strip®, etc.)",
+            "guid": "V4YRID66djsF0jn2RqJOjA",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "- Principio: Tira con gradiente exponencial ATB sobre agar inoculado -> difusión -> elipse inhibición. Lee MIC en intersección. Cuantitativo",
+                "guid": "Op0h0GCngf0bQnLHGDxb9w",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "46",
+                "text": "- Ventajas: Simple, flexible, determina MIC. Alta concordancia vs BMD para muchos ATB (ej: Ceftazidima-avibactam, Ceftolozano-tazobactam).\nDetección fenotipos resistencia (ESBL, MBL, AmpC)",
+                "guid": "X5fKlHQO8HVS-QflSTwHdg",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "46",
+                "text": "- Desventajas: Costo por tira. Tiempo incubación similar a manuales (16-24h). Problemas fiabilidad algunos ATB (Colistina, Tigeciclina)",
+                "guid": "MEcTjBF6vKYZ-uHsE4QI2g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "34",
+            "text": "- Método de Difusión con Disco\n(Kirby-Bauer)",
+            "guid": "S7ogFEseWM4D27DDNR7lwg",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "- Principio: Discos impregnados ATB sobre agar inoculado -> difusión -> zona inhibición. Medir diámetro zona. Cualitativo (S/I/R)",
+                "guid": "Htm1K0vKV6UtC1kgYQqPMQ",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "50",
+                "text": "- Ventajas: Método más usado, bajo costo, fácil, flexible, detecta fenotipos atípicos/contaminación/heterorresistencia. Muy fiable para S. aureus penicilinasa",
+                "guid": "AWbEMjtFxE9oVDxRIHgFig",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "50",
+                "text": "- Desventajas: No da MIC, lento (16-18h), no aplicable a todos ATB/MO",
+                "guid": "LXsSN1gxdmp_iQioTfZOAA",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "50",
+                "text": "- AST Rápido por Difusión Disco (RAST - EUCAST): Lectura temprana (4-8h) desde hemocultivos positivos. Acelera resultados significativamente (combinado con MALDI-TOF ID). Impacto en AMS",
+                "guid": "aZkQLX9Xz0dTTOKwDH9bwQ",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "50",
+                "text": "- Automatización Lectura: Disponible (WASPLab, BD Kiestra, Scan® 1200)",
+                "guid": "ViA9ZCSCuMhzrwBOEL1fNA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "34",
+            "text": "- Medios Cromogénicos para\nDetección Resistencia",
+            "guid": "A_g0qV9Yk487QcTeD3lPbg",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "- Principio: Medios selectivos/diferenciales con sustratos cromogénicos -> colonias coloreadas específicas MO resistentes (SARM, ERV, productores ESBL/Carbapenemasas)",
+                "guid": "BSo6xQ7xcxUo-bssZMIFWQ",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "- Utilidad: Screening rápido colonización -> útil prevención/control infecciones. Reduce tiempo/costo vs cultivo convencional",
+                "guid": "AwBjinvywxEt_gzPM0d3Fw",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "- Limitación: Requiere confirmación ID/resistencia",
+                "guid": "DW1_uEf47rtGy3_xLEc04w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "34",
+            "text": "- Pruebas Colorimétricas para\nDetección Resistencia",
+            "guid": "SuQTBFytyWsUB1ytbN4bkg",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "- Principio: Detectan actividad enzimática (hidrólisis ATB) o crecimiento mediante cambio color indicador pH",
+                "guid": "E8NGYHPW2RENUcQVFSoKkg",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "- Técnica: Rápida (30 min - 2h), fácil lectura visual",
+                "guid": "LxydYHWmAGY1ohAdXJevmA",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "- Ejemplo: Carba NP test (detección carbapenemasas)",
+                "guid": "Tdd20TUrGMUqjf2YN3CG_g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "64",
+        "parent": "0",
+        "text": "## Tecnologías Actuales\npara AST Rápido",
+        "guid": "",
+        "children": [
+          {
+            "id": "65",
+            "parent": "64",
+            "text": "- Dispositivos Automatizados / Semiautomatizados\n(Basados en Microdilución)",
+            "guid": "Mfy3JGlVK2wUKr2JSnXWag",
+            "children": [
+              {
+                "id": "66",
+                "parent": "65",
+                "text": "- Sistemas Comunes: VITEK 2 (bioMérieux), MicroScan Walkaway (Beckman Coulter), Phoenix (BD)",
+                "guid": "NILoDH3a4EhD7-LACqMlcA",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "65",
+                "text": "- Principio: Monitorización crecimiento (turbidez/redox) en paneles/tarjetas con [ATB] discretas. Semi-cuantitativo (MIC en rango limitado)",
+                "guid": "Il2ZEDee4w4bYISkJ4fT1Q",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "65",
+                "text": "- Ventajas: Rapidez (6-18h), alta reproducibilidad, estandarización, menor mano obra, conexión LIS",
+                "guid": "RpBWI0RaP9AMSdkuSZC5rQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "65",
+                "text": "- Desventajas: Costo equipo/consumibles, fiabilidad variable según ATB/MO/software, rango MIC limitado (no siempre MIC exacta),\ndificultad detectar algunos fenotipos resistencia, requiere actualizaciones software/puntos corte",
+                "guid": "QE0C4jpH5f182DDETbqCmg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "64",
+            "text": "- Técnicas Basadas en\nBiología Molecular",
+            "guid": "S5-qAxVPxrou2QbDHLG2IA",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "- Principio: Detección genes/mutaciones específicas de resistencia",
+                "guid": "AkDUuEOjsLV6Abd9FgQbGQ",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "70",
+                "text": "- Ventajas: Muy rápidas (horas), alta sensibilidad/especificidad, potencial uso muestra directa, no requiere cultivo viable (detecta ADN)",
+                "guid": "N3qJxgdTe5IrLiWrZpcnJw",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "70",
+                "text": "- Desventajas: Solo detectan marcadores conocidos (riesgo falsos negativos), presencia gen ≠ resistencia fenotípica (expresión), no dan MIC, costo elevado. Cualitativo / Semi-cuantitativo",
+                "guid": "fPl7-WDQNchDLta_StDyyg",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "70",
+                "text": "- Métodos\nPrincipales:",
+                "guid": "FftOjW281FcCQXnISn42mQ",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "- PCR (Convencional, qPCR, RT-qPCR, Multiplex): Amplificación secuencias diana. qPCR (cuantificación, tiempo real). RT-qPCR (mide expresión ARNm).\nMultiplex (varios genes/patógenos simultáneos). Sistemas automatizados (GeneXpert, BD MAX). Paneles comerciales (Acuitas AMR Gene Panel)",
+                    "guid": "a5e0oEYxXIhVIVwJDfVNsA",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "- Microarrays ADN: Detección masiva paralela genes resistencia. Sistemas comerciales (Verigene, CHECK-MDR CT103)",
+                    "guid": "fdA_lnCB4K41fSGGRGCVuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "- Secuenciación Genoma Completo (WGS): Potencial detectar TODOS los determinantes genéticos resistencia. Predicción in silico resistencia.\nUso actual limitado a investigación/epidemiología (costo, tiempo, complejidad análisis). Cualitativo",
+                    "guid": "NNwgfkHG-rQN8U9ndSkjYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "parent": "64",
+            "text": "- Espectrometría de Masas\n(MALDI-TOF MS)",
+            "guid": "GQoyKW7uGxAeRPV0WWuDWg",
+            "children": [
+              {
+                "id": "79",
+                "parent": "78",
+                "text": "- Principio AST: Detecta cambios masa molecular ATB (hidrólisis), modificación ATB, proteínas resistencia específicas, o mide crecimiento relativo (comparando espectros +/- ATB)",
+                "guid": "fA7gsgrJgCtC46X6fk-1ag",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "78",
+                "text": "- Métodos Específicos: Ensayo hidrólisis beta-lactámicos (Carbapenemasas), MBT-ASTRA (mide crecimiento relativo), MBT-Resist (marcaje isotópico), DOT-MGA (crecimiento microgota)",
+                "guid": "Tm0w4TzlXXgUU9CDBee6pw",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "78",
+                "text": "- Ventajas: Muy rápido (minutos-horas), bajo costo por muestra (consumibles)",
+                "guid": "RDjZCj-B9i9sfuHOQTJVAw",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "78",
+                "text": "- Desventajas: Alto costo equipo, requiere validación específica por ATB/MO, no da MIC (generalmente), detecta mecanismos específicos (ej: hidrólisis) pero no otros. Kits comerciales limitados disponibles",
+                "guid": "IFIr9y-tuI0MA0fNNk16hQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "parent": "0",
+        "text": "## Selección de Fármacos,\nInterpretación y Reporte",
+        "guid": "",
+        "children": [
+          {
+            "id": "84",
+            "parent": "83",
+            "text": "- Selección de Antibióticos (ATB) a Testear: Basada en MO, sitio infección, tipo infección, comorbilidades, formulario local, guías (CLSI grupos A/B/C). No testear todos",
+            "guid": "E9JoDShoaswZZtwia1h5LQ",
+            "children": []
+          },
+          {
+            "id": "85",
+            "parent": "83",
+            "text": "- Interpretación Resultados AST:\nCategorías S/I/R basadas en Puntos de\nCorte Clínicos (Clinical Breakpoints)",
+            "guid": "ZyLhCB85Fhgx-se5Mt0BHA",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "- Estándares: CLSI, EUCAST (armonización en progreso, persisten diferencias)",
+                "guid": "HWqM5Q5EwZYAy7EeCQJBhQ",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "85",
+                "text": "- Definiciones EUCAST 2019: S (Susceptible, dosis estándar), I (Susceptible, exposición aumentada - ej: dosis alta), R (Resistente)",
+                "guid": "VHYeHlXtDSgW9481UkZdtQ",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "85",
+                "text": "- Importancia MIC: Aporta información adicional (grado S/R, riesgo fracaso incluso en S - ej: Vanco MIC=2 S. aureus)",
+                "guid": "Rm7t1kx0sLsWpvNue0sOVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "83",
+            "text": "- Reporte de\nResultados:",
+            "guid": "aldu5jXWeHxn--bebk-jjw",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "- Incluir Categoría S/I/R (obligatorio) y MIC (si disponible/relevante)",
+                "guid": "DjurcCSYQtVwdDG1CkqMIg",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "89",
+                "text": "- Resistencia Intrínseca: Reportar como R sin testear (basado en ID MO). Ver documento EUCAST",
+                "guid": "L2HDATNX168ImkGMfc7z4g",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "89",
+                "text": "- Fenotipos Inusuales: Confirmar antes de reportar",
+                "guid": "cD01JxzuEhADtq6JNHYOMg",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "89",
+                "text": "- ATB Indicadores/Representativos: Predecir S a otros miembros clase (ej: Cefoxitina para Staph.)",
+                "guid": "XHAIP3A1kFh1qGM1fMI0Ng",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "89",
+                "text": "- Reporte Selectivo: Herramienta AMS. Reportar solo ATB relevantes/espectro estrecho. Evitar reporte ATB amplio espectro innecesario. Adaptar a guías nacionales/locales",
+                "guid": "H-NI5QGrqwMzD667PU3Vyg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "## Aseguramiento de la Calidad en\nAST (Quality Assurance - QA)",
+        "guid": "",
+        "children": [
+          {
+            "id": "96",
+            "parent": "95",
+            "text": "- Necesidad: Estandarización y\ncontrol para resultados fiables",
+            "guid": "FS8MDCM9q719yPL9YBMfEA",
+            "children": []
+          },
+          {
+            "id": "97",
+            "parent": "95",
+            "text": "- Componentes QA: Estrategias testeo, QC cepas\nreferencia, competencia técnica, verificación\nantibiograma, revisión resultados, manual\nprocedimientos, encuestas aptitud (EQA). Cubre fases\npre-analítica, analítica, post-analítica",
+            "guid": "f-t1KBHQT6tM8TqjMegsTA",
+            "children": []
+          },
+          {
+            "id": "98",
+            "parent": "95",
+            "text": "- Control Calidad (QC): Fase\nanalítica. Monitoriza rendimiento\ntest/reactivos/personal",
+            "guid": "eyV7F2Eb-Cx8XgK2RsUlGg",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "- QC Interno: Diario/periódico. Uso\ncepas ATCC/NCTC. Verificar rangos\nMIC/zona esperados",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "98",
+                "text": "- QC Externo (EQA): Evaluación\ninter-laboratorio por entidad externa",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "98",
+                "text": "- Troubleshooting QC: Factores\ncríticos (medio, discos, inóculo,\nincubación, Tº) y soluciones",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "parent": "95",
+            "text": "- Errores AST:",
+            "guid": "dmu-5ys3CXljdts7D3XxEA",
+            "children": [
+              {
+                "id": "103",
+                "parent": "102",
+                "text": "- Error Muy Mayor\n(VME): R -> S",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "104",
+                "parent": "102",
+                "text": "- Error Mayor (ME): S -> R",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "105",
+                "parent": "102",
+                "text": "- Error Menor: I ->\nS/R o S/R -> I",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "102",
+                "text": "- Monitorización y análisis errores\nson clave. Criterios aceptación FDA\npara nuevos sistemas",
+                "guid": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "parent": "0",
+        "text": "## Perspectivas Futuras\nPróximas para AST",
+        "guid": "",
+        "children": [
+          {
+            "id": "108",
+            "parent": "107",
+            "text": "- MALDI-TOF MS: Requiere más validación, estandarización, desarrollo kits/software",
+            "guid": "GiUkiQG70K9o4XRqLfeMlg",
+            "children": []
+          },
+          {
+            "id": "109",
+            "parent": "107",
+            "text": "- Citometría de Flujo: Potencial AST rápido (horas) midiendo viabilidad/daño celular. Requiere desarrollo/validación",
+            "guid": "KiQ7ewJIUIwZUAXDEUccgw",
+            "children": []
+          },
+          {
+            "id": "110",
+            "parent": "107",
+            "text": "- Microcalorimetría Isotérmica: Mide calor metabólico -> detecta inhibición crecimiento. Potencial para MIC y actividad cida/estática",
+            "guid": "IYFmpEtKzXxEJB2fC9jVig",
+            "children": []
+          },
+          {
+            "id": "111",
+            "parent": "107",
+            "text": "- Adaptación a Nuevas Terapias: Desarrollo AST para nuevas estrategias anti-AMR (ej: inhibidores virulencia, anti-división celular)",
+            "guid": "ASFF-SwgBH56KHkaFlBSBQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "parent": "0",
+        "text": "## Conclusiones",
+        "guid": "",
+        "children": [
+          {
+            "id": "113",
+            "parent": "112",
+            "text": "- Visión General: AST esencial manejo infecciones. Métodos tradicionales (BMD, DD) aún necesarios (referencia/comparación).\nMoleculares rápidos/eficientes pero limitaciones (viabilidad, costo). MALDI-TOF prometedor pero requiere desarrollo",
+            "guid": "T12wO3fxbBd2Y3EVT0klYw",
+            "children": []
+          },
+          {
+            "id": "114",
+            "parent": "112",
+            "text": "- Necesidad Futura: Mejora continua métodos actuales/nuevos. Acelerar AST es mandatorio. Desarrollo herramientas\ninnovadoras, rápidas, precisas, portátiles. Implementación amplia para optimizar tratamiento y vigilancia AMR",
+            "guid": "CcG7wkNUq7gBMVGwBOc22Q",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 115,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "04. Pruebas de Susceptibilidad Antimicrobiana (AST)-2025",
+  "id": "map_1371",
+  "resolved_references": []
+}

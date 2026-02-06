@@ -1,0 +1,2210 @@
+{
+  "title": "Parkinsonismo",
+  "guid": "E3F748BD9CE06FDC8A582249",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/UTD. DF Parkinsonismo-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Parkinsonismo",
+    "guid": "NPRA3B9SaUkVr1AvHbcH7Q",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "ENFERMEDAD DE\nPARKINSON (EP)",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Definición → Trastorno neurodegenerativo progresivo",
+            "guid": "gXIbKxBrOKEYR02x9cwYNg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• Causa → Pérdida de neuronas dopaminérgicas",
+            "guid": "Jr3mpcxvFBvwlDoB9GFPGg",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "• Manifestación clínica → Parkinsonismo asimétrico",
+            "guid": "erqGr1U_H2OaH1kBMC_xmg",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "• Respuesta a terapia dopaminérgica → Clara y sostenida",
+            "guid": "PDd8glho15uTzR_oZv8_bQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "DIAGNÓSTICO",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "1. Enfoque\ngeneral",
+            "guid": "nmk9oVjVeUr_yZouG88OFA",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "• Basado en: Historia clínica + Examen neurológico",
+                "guid": "naAHBoIfyLwbUe6p8OAhrA",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "• Criterios\nmínimos:",
+                "guid": "lj3rd_1iNmZRFFVNzkJz1Q",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "• Bradiquinesia + (temblor en reposo o rigidez)",
+                    "guid": "VVWTr3X_9QZFlWTw_FUtCg",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "9",
+                    "text": "• Apoyo diagnóstico: Respuesta inequívoca a levodopa",
+                    "guid": "fYYnGzG7P0behdkVgVR0Fg",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "9",
+                    "text": "• Sin respuesta a dosis altas (>1000 mg/día) → EP poco probable",
+                    "guid": "TEYmeJt6YlVGejW8jAD6Vg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "parent": "6",
+            "text": "2. Evaluación\nclínica",
+            "guid": "ESFpRBJrlDPcUS88_ZzOAw",
+            "children": [
+              {
+                "id": "14",
+                "parent": "13",
+                "text": "• Síntomas\nmotores\ncardinales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "15",
+                    "parent": "14",
+                    "text": "• Bradiquinesia → Movimientos lentos y disminución progresiva de amplitud/velocidad",
+                    "guid": "_0MGwc-lWF7DpEQrvYHa_w",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "14",
+                    "text": "• Temblor en reposo → 4-6 Hz, desaparece con movimiento",
+                    "guid": "V4zlABCpGgG1EV0iGV_tAA",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "14",
+                    "text": "• Rigidez → Resistencia constante al movimiento pasivo (“tubo de plomo”)",
+                    "guid": "nQutHYln49BZdDoM0uGQtg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18",
+                "parent": "13",
+                "text": "• Inestabilidad postural (tardía en EP, precoz sugiere otro trastorno)",
+                "guid": "gooJbckz07NLBRigzSRfCQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "parent": "6",
+            "text": "3. Criterios\ndiagnósticos de la\nMDS",
+            "guid": "EHx5dMDitpPoZ5xMVDRD3g",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "• Diagnóstico clínico → Se\nbasa en la evaluación de:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "• Parkinsonismo (Bradiquinesia + Temblor o Rigidez)",
+                    "guid": "WdzSiIhhSS6OTXFrI4ukuA",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "• Criterios de apoyo (↑ confianza en EP)",
+                    "guid": "D9PIeHZM6KXGq3eh8I0lvg",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "20",
+                    "text": "• Banderas rojas (↓ confianza en EP)",
+                    "guid": "DjPztBv9s9kzdFl6nrs-HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "20",
+                    "text": "• Criterios de exclusión absoluta (descartan EP)",
+                    "guid": "EcsQo-CV94OurxajN6tE9A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25",
+                "parent": "19",
+                "text": "a) Criterios\nde apoyo",
+                "guid": "tTo7o9uZTHN5ECc-un7UcA",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "• Buena respuesta a\ndopaminérgicos:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "27",
+                        "parent": "26",
+                        "text": "• Respuesta dramática en función o puntaje MDS-UPDRS",
+                        "guid": "F5Fsuy1rtbMR1IXirjs8uQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "28",
+                    "parent": "25",
+                    "text": "• Fluctuaciones motoras evidentes",
+                    "guid": "FeQTAh9YfkxWFtO0N7fcDA",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "25",
+                    "text": "• Disquinesias inducidas por levodopa",
+                    "guid": "RBpXHqhs8uN09wGzhj72CA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "25",
+                    "text": "• Temblor en reposo, habitualmente unilateral al inicio",
+                    "guid": "7GRqswLApaRBIp-hJa5quQ",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "25",
+                    "text": "• Hiposmia o denervación simpática cardíaca (MIBG)",
+                    "guid": "mIeKYtENYHxvHgY0uiAeRw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32",
+                "parent": "19",
+                "text": "b) Banderas rojas\n(signos atípicos)",
+                "guid": "uEvs4ClBxFy1J5Gpewdl7A",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "• Progresión rápida → Uso de silla de ruedas en <5 años",
+                    "guid": "WMw1WiVDF0gCVwSQkzHYdw",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "32",
+                    "text": "• Ausencia de progresión >5 años (salvo por tratamiento)",
+                    "guid": "7yCxJyqWSJ0kvzv4h-tD4A",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "32",
+                    "text": "• Disfunción bulbar precoz (disartria grave, disfagia severa)",
+                    "guid": "mUvKQobKrjodMv5iGMHEFA",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "32",
+                    "text": "• Disfunción respiratoria (estridor inspiratorio)",
+                    "guid": "xrJcW5s-vsl8tVIBnecXZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "32",
+                    "text": "• Falla autonómica severa en <5 años:",
+                    "guid": "KaHOX97y3mXRwkpBCkjoIg",
+                    "children": [
+                      {
+                        "id": "38",
+                        "parent": "37",
+                        "text": "• Hipotensión ortostática (>30 mmHg sistólica o >15 mmHg diastólica)",
+                        "guid": "qkqv1jcaREDOsOZPPXdqoA",
+                        "children": []
+                      },
+                      {
+                        "id": "39",
+                        "parent": "37",
+                        "text": "• Retención urinaria severa o incontinencia (sin otra causa evidente)",
+                        "guid": "Rxh2w1aWgjYHL-3lgExjEg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "40",
+                    "parent": "32",
+                    "text": "• Caídas recurrentes (<3 años)",
+                    "guid": "5_2AOla_fxJQHJWr3mVOug",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "32",
+                    "text": "• Contracturas precoces (mano/pie)",
+                    "guid": "5IhTUEXDhh1g4F_iXJcisw",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "32",
+                    "text": "• Ausencia de síntomas no motores >5 años",
+                    "guid": "iznElMaLaADkFSgRO2sYlw",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "32",
+                    "text": "• Signos piramidales inexplicables",
+                    "guid": "aE1AxB21kU5Kd7PBOREreA",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "32",
+                    "text": "• Parkinsonismo bilateral simétrico desde el inicio",
+                    "guid": "IR_CQmP9NK-wyMk2IptFaQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45",
+                "parent": "19",
+                "text": "c) Criterios de\nexclusión absoluta",
+                "guid": "X2qq7W93x-Jx3kkaJ4PJ_A",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "• Síndromes cerebelosos evidentes",
+                    "guid": "9j15fv8ZXlFz-dCr3ZCNTw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "• Parálisis supranuclear de la mirada hacia abajo",
+                    "guid": "BvXeKKzKSJ6nmxWsttym4A",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "45",
+                    "text": "• Demencia frontotemporal en <5 años",
+                    "guid": "T1SBVklkcSHwalQfeKQSMg",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "45",
+                    "text": "• Parkinsonismo aislado en miembros inferiores (>3 años)",
+                    "guid": "qFIOgaLI5JBuKxy2HN3-6w",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "45",
+                    "text": "• Uso de fármacos bloqueadores dopaminérgicos reciente",
+                    "guid": "bpqLyGhfdkUzEl10MlLCXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "45",
+                    "text": "• Ausencia de respuesta a levodopa en enfermedad avanzada",
+                    "guid": "FT_NHtUFKz_6o87z7kdqEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "45",
+                    "text": "• Afectación sensorial cortical, apraxia ideomotora o afasia progresiva",
+                    "guid": "s1kZfezdrWyhLSEMqGIUgw",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "45",
+                    "text": "• Neuroimagen dopaminérgica normal (DaTscan/PET)",
+                    "guid": "nmdHAQaFugpATzzueM7Nrg",
+                    "children": []
+                  },
+                  {
+                    "id": "54",
+                    "parent": "45",
+                    "text": "• Otra patología más probable que EP",
+                    "guid": "tbjoEn7AaxraByQHI9ItnQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "parent": "6",
+            "text": "4. Aplicación de\nlos criterios",
+            "guid": "7wl6-zgd9JWlWNi4nTwMcQ",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "• EP clínicamente\nestablecida →",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "• Parkinsonismo",
+                    "guid": "ctJP2CCXSe8RHAi3mr-lTA",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "56",
+                    "text": "• ≥2 criterios de apoyo",
+                    "guid": "gjlAIqeKXlh0ARYeIfwsHQ",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "56",
+                    "text": "• 0 banderas rojas",
+                    "guid": "NxJl1wz4zwy-lE_u0e-LGA",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "56",
+                    "text": "• 0 criterios de exclusión",
+                    "guid": "cINQJy-jJGCgKk2I40HAPQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61",
+                "parent": "55",
+                "text": "• EP clínicamente\nprobable →",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "62",
+                    "parent": "61",
+                    "text": "• Parkinsonismo",
+                    "guid": "sGhqZuB9ooB137ypG3p_7w",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "61",
+                    "text": "• Red flags balanceadas por criterios de apoyo",
+                    "guid": "8wAAPleZ9J7hjOGqUB36vw",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "61",
+                    "text": "• Máximo 2 banderas rojas",
+                    "guid": "CAL2soDO4eQ-erjEnosCCA",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "61",
+                    "text": "• 0 criterios de exclusión",
+                    "guid": "HOyB2cj_tesgSO9Zd8tM_g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "parent": "0",
+        "text": "DIAGNÓSTICO\nDIFERENCIAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "67",
+            "parent": "66",
+            "text": "1. Parkinsonismos atípicos\n(poca respuesta a levodopa)",
+            "guid": "uyTtqWq2UHwZVkLcC2awAw",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "• Atrofia Multisistémica (AMS) → Falla autonómica precoz",
+                "guid": "VcweS6uTJYlUg3i5tg7oUw",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "• Parálisis Supranuclear Progresiva (PSP) → Caídas tempranas, parálisis de mirada vertical",
+                "guid": "7qsoezTmen-P1XaFnpGijg",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "67",
+                "text": "• Degeneración Corticobasal (DCB) → Asimetría marcada, signos corticales",
+                "guid": "7bB0u-8mbBvTHXcfjEJyNw",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "67",
+                "text": "• Demencia con Cuerpos de Lewy (DCL) → Alucinaciones, fluctuaciones cognitivas",
+                "guid": "B_6Y-CTKcem-4ziyC60kXQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "66",
+            "text": "2. Parkinsonismo\nsecundario",
+            "guid": "",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "• Inducido por fármacos → Neurolépticos, metoclopramida",
+                "guid": "VOe2eTOmmj6yIrt14NYh9A",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "• Vascular → Inicio súbito, progresión en escalones",
+                "guid": "PNVPSdk8EF_1eX1FNqkIrQ",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "• Tóxico/metabólico → CO, manganeso, hipotiroidismo",
+                "guid": "xxq_OCo34L5AUy829Oxr9Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "66",
+            "text": "3. Trastornos\ndel temblor",
+            "guid": "JIq9kmgx9Ik-f2ShfqVnJA",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "• Temblor esencial → Bilateral, postural, mejora con alcohol",
+                "guid": "xhHTpfxwivf_J7KbB78sFw",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "• Distonía → Movimientos anormales posturales",
+                "guid": "eFBz3WuHaM-3UIOMwcORkg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "PRUEBAS\nAUXILIARES",
+        "guid": "y7X5b71G1SyHbo5Yt2mcCg",
+        "children": [
+          {
+            "id": "80",
+            "parent": "79",
+            "text": "• No necesarias en EP típica",
+            "guid": "izncApD2PSt3LBVD15Xguw",
+            "children": []
+          },
+          {
+            "id": "81",
+            "parent": "79",
+            "text": "• Útiles en\ncasos atípicos:",
+            "guid": "I--nizERAMaa-zlj_jzExA",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "• MRI cerebral → Excluir lesiones estructurales",
+                "guid": "vD68KMnXGPnL929wOwBhPQ",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "• DaTscan (SPECT dopaminérgico) → Diferenciar EP de temblor esencial",
+                "guid": "WHTGIW9DZYgBtBSfQW_0YQ",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "81",
+                "text": "• MIBG cardíaco → ↓ captación en EP, normal en PSP/AMS",
+                "guid": "2acuoauE_4Z-7kAW_-hHew",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "85",
+        "parent": "0",
+        "text": "RESPUESTA A TERAPIA\nDOPAMINÉRGICA",
+        "guid": "",
+        "children": [
+          {
+            "id": "86",
+            "parent": "85",
+            "text": "• Criterio de apoyo diagnóstico",
+            "guid": "LDondBUwMsBAybEoDRz_cw",
+            "children": []
+          },
+          {
+            "id": "87",
+            "parent": "85",
+            "text": "• Beneficio claro, especialmente si es dramático",
+            "guid": "rbqV63hJ3zuREuwZAfvhKw",
+            "children": []
+          },
+          {
+            "id": "88",
+            "parent": "85",
+            "text": "• Patrón de\nrespuesta",
+            "guid": "VWONSYaEu6f8yns-EFRByQ",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "• Bradiquinesia y rigidez → Mejoran con levodopa",
+                "guid": "rBcdstHtMFJH5Ndgiy4ANw",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "• Temblor → Puede no mejorar",
+                "guid": "cWZ96t0r_VFGeD03k3cVIw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "parent": "85",
+            "text": "• Respuesta en otros\nsíndromes parkinsonianos",
+            "guid": "bEYaNxIIZsZJ-gxDTf7Ofg",
+            "children": [
+              {
+                "id": "92",
+                "parent": "91",
+                "text": "• MSA → Hasta 20% responden inicialmente",
+                "guid": "IWgu_0mxFPf6Edu5QP9p_A",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "91",
+                "text": "• Parkinsonismo vascular → Respuesta variable",
+                "guid": "uAkBnXzKCsYvQQee25PKXA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "parent": "85",
+            "text": "Consideraciones\nclínicas",
+            "guid": "Dre_ZGSW55DRJ1_U7z6LzA",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "• No iniciar terapia solo con fines diagnósticos si síntomas son leves",
+                "guid": "12g8Qwc97mp2WssVWE-zTA",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "94",
+                "text": "• Prueba prolongada con levodopa o agonistas dopaminérgicos\n→ Para diagnóstico y tratamiento cuando hay impacto funcional",
+                "guid": "KBJqKuWmy2yvDcFLznd5Qg",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "94",
+                "text": "• Precaución con agonistas dopaminérgicos en adultos mayores",
+                "guid": "7aaK63k6zRZkyWmVXI14_g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "parent": "0",
+        "text": "PRUEBA DE\nLEVODOPA",
+        "guid": "",
+        "children": [
+          {
+            "id": "99",
+            "parent": "98",
+            "text": "1. Prueba terapéutica\nsostenida (preferida)",
+            "guid": "BkR64cqmPyWQCJLog-Cvig",
+            "children": [
+              {
+                "id": "100",
+                "parent": "99",
+                "text": "• Dosis óptima en EP → 400-600 mg/día",
+                "guid": "PX97WnauAwGdUrLcH2LONg",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "99",
+                "text": "• Ausencia de respuesta a 1000-1500 mg/día x ≥2 meses → Descarta EP",
+                "guid": "eSiVRm5TYwQEbUQ4_dMEAg",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "99",
+                "text": "• Se considera criterio de exclusión absoluta",
+                "guid": "fLTWLtY60DLK2geGWMCROA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "103",
+            "parent": "98",
+            "text": "2. Prueba aguda con levodopa o apomorfina\n(controvertida)",
+            "guid": "EoIxU9PfE6mFy-HghjLNew",
+            "children": [
+              {
+                "id": "104",
+                "parent": "103",
+                "text": "• Levodopa: Carbidopa-levodopa 25/250 mg",
+                "guid": "hSk9wvtB6XSPpydO8zcTlA",
+                "children": []
+              },
+              {
+                "id": "105",
+                "parent": "103",
+                "text": "• Apomorfina: 1. 5-4.5 mg SC",
+                "guid": "nfCsd4F4aQPph8MlDkwzPg",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "103",
+                "text": "• Resultado positivo → Mejora de 15-30% en MDS-UPDRS III",
+                "guid": "4FAbWg7ujI6D4ltviD-q6Q",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "103",
+                "text": "• Limitaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "• 30% de EP no responden a prueba aguda",
+                    "guid": "vd7ASZ5_0eBF6_94yJ2WCA",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "• 20-30% de respuestas positivas terminan con otro diagnóstico",
+                    "guid": "aMI4xUukNGGJ29-YB9Fa9A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "parent": "0",
+        "text": "PRECISIÓN\nDIAGNÓSTICA EN\nEP",
+        "guid": "",
+        "children": [
+          {
+            "id": "111",
+            "parent": "110",
+            "text": "• Diagnóstico inicial → Precisión 80% comparado con neuropatología",
+            "guid": "8LFGYV-a7utuwSmQUx6hsQ",
+            "children": []
+          },
+          {
+            "id": "112",
+            "parent": "110",
+            "text": "• Errores comunes → MSA, PSP pueden simular EP en etapas tempranas",
+            "guid": "q7MgFhlhXLKM3A1guxWBoQ",
+            "children": []
+          },
+          {
+            "id": "113",
+            "parent": "110",
+            "text": "• Mayor\nprecisión si:",
+            "guid": "vEOqgaQ4VGXTaotW-7o1ow",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "• Respuesta clara a dopaminérgicos",
+                "guid": "j6g5cox1suY-hbpxA0t_Jw",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "113",
+                "text": "• Fluctuaciones motoras",
+                "guid": "sOr0NupTWtEuQKzJ7uFeBQ",
+                "children": []
+              },
+              {
+                "id": "116",
+                "parent": "113",
+                "text": "• Disquinesias",
+                "guid": "8EOOeUXS_nleSgVKn8Fa_g",
+                "children": []
+              },
+              {
+                "id": "117",
+                "parent": "113",
+                "text": "• Seguimiento prolongado",
+                "guid": "eds3I8NRIOkZz3KH2kPtBA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "118",
+        "parent": "0",
+        "text": "PRUEBAS AUXILIARES",
+        "guid": "",
+        "children": [
+          {
+            "id": "119",
+            "parent": "118",
+            "text": "1. Neuroimagen\nconvencional (MRI)",
+            "guid": "eUjLCk8DKl_F4miLHGMxPg",
+            "children": [
+              {
+                "id": "120",
+                "parent": "119",
+                "text": "• No necesaria en EP típica",
+                "guid": "YJB1yIYI8cS23qlGE3PJeA",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "119",
+                "text": "• Indicada en casos atípicos\n→ Para descartar:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "122",
+                    "parent": "121",
+                    "text": "• Hidrocefalia, tumores, infartos lacunares",
+                    "guid": "OrmHSYQ9INImZTHszXufhA",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "121",
+                    "text": "• Atrofia mesencefálica → PSP",
+                    "guid": "ZYW4c_WE5nGSgVEa8Vsezw",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "121",
+                    "text": "• Atrofia cerebelosa + hipointensidad putaminal → MSA",
+                    "guid": "AcE_D6cMMiOuog0QnTmt7Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "118",
+            "text": "2. Técnicas\navanzadas de MRI",
+            "guid": "jxsytuXkxVLkFdU-NIzXLg",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "• MRI con secuencias sensibles al hierro",
+                "guid": "fTusOgNXBtY0j97fvoUyhg",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "• Pérdida de hiperintensidad nigral dorsolateral en EP, MSA, PSP",
+                "guid": "VpK34JaHOL-E7NFtzwLqLQ",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "125",
+                "text": "• Volumetría, espectroscopia, transferencia de magnetización",
+                "guid": "HzKsQBhwfRyC7Lj8xhqA8A",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "125",
+                "text": "• En estudio, utilidad aún no establecida",
+                "guid": "4k061Os0kXOR_d8D9jjK6g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "130",
+            "parent": "118",
+            "text": "3. DaTscan (SPECT\ndopaminérgico)",
+            "guid": "2Xpi00XLEEomUIEQntCNBA",
+            "children": [
+              {
+                "id": "131",
+                "parent": "130",
+                "text": "• Evalúa déficit nigroestriatal",
+                "guid": "wecMsjDhUl3drm_z_PC8GQ",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "130",
+                "text": "• Diferencia EP de temblor esencial",
+                "guid": "CmcyQtd3TLzlRGsUh_GrCQ",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "130",
+                "text": "• No diferencia EP de MSA, PSP, DCL",
+                "guid": "5eHrVT3HDdSwZG93_-4UwA",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "130",
+                "text": "• Útil en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "• Casos clínicamente dudosos",
+                    "guid": "nbNoCfhs8POW52-0xjSODA",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "• Sospecha de parkinsonismo inducido por fármacos",
+                    "guid": "jHzyPSubHgfoBGfL65YZPg",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "134",
+                    "text": "• Selección de pacientes para DBS",
+                    "guid": "Chrbtbc2aIQqwD7997rI7Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "138",
+                "parent": "130",
+                "text": "• Limitaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "139",
+                    "parent": "138",
+                    "text": "• Precisión similar a un buen examen clínico",
+                    "guid": "DXhBL2hQtRm2qtt-GC6a1A",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "138",
+                    "text": "• Puede ser malinterpretado por no expertos",
+                    "guid": "dBumpE63etcwjeLMDcySmg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "141",
+            "parent": "118",
+            "text": "4. PET",
+            "guid": "efDYs5fueODNn4qHoN2Xfw",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "• Marcadores dopaminérgicos y metabólicos",
+                "guid": "mYaUDAKiwaZQ-8IYRDjWYw",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "141",
+                "text": "• Fluorodopa PET → ↓ Captación en EP temprana",
+                "guid": "zhiyIPyf8uu8YfOcBphC5A",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "141",
+                "text": "• FDG-PET → Diferencia parkinsonismos atípicos",
+                "guid": "4znRinwUWc1cmhCw2q8WxA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "145",
+            "parent": "118",
+            "text": "5. Ecografía\ntranscraneal",
+            "guid": "dJcHfKi5yr3pPOdygyEtTA",
+            "children": [
+              {
+                "id": "146",
+                "parent": "145",
+                "text": "• Hiperecogenicidad nigral → 90% en EP",
+                "guid": "axb99XRnecrUSy8htK3TFQ",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "145",
+                "text": "• Diferencia EP de MSA/PSP",
+                "guid": "PwtdPusbqSgTYwrkCZyCQg",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "145",
+                "text": "• En estudio como marcador de riesgo en población general",
+                "guid": "qVTKrr6j2dXn2qKafERDQw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "parent": "118",
+            "text": "6. Pruebas\nolfatorias",
+            "guid": "v68AEYSHCTN_mMVi8gZolw",
+            "children": [
+              {
+                "id": "150",
+                "parent": "149",
+                "text": "• Pérdida olfatoria frecuente en EP",
+                "guid": "ZwsDM-LPTTFAP2dIHwm8lA",
+                "children": []
+              },
+              {
+                "id": "151",
+                "parent": "149",
+                "text": "• No presente en PSP, CBD, MSA, ET",
+                "guid": "Tv5_WoDvKJ6GZivF2fSdAA",
+                "children": []
+              },
+              {
+                "id": "152",
+                "parent": "149",
+                "text": "• Pruebas disponibles:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "153",
+                    "parent": "152",
+                    "text": "• University of Pennsylvania Smell Test",
+                    "guid": "0ktrriqfepQkU1V1_zVDBQ",
+                    "children": []
+                  },
+                  {
+                    "id": "154",
+                    "parent": "152",
+                    "text": "• Sniffin Sticks",
+                    "guid": "aAYDI6GC5yYK7q1tmP4Cwg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "155",
+            "parent": "118",
+            "text": "7. Pruebas\nautonómicas",
+            "guid": "a1lHKFEHC-c5whKC33XF1g",
+            "children": [
+              {
+                "id": "156",
+                "parent": "155",
+                "text": "• MIBG cardíaco → Denervación simpática en EP",
+                "guid": "IyLBtm-2Nl8NzodO9_6PuQ",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "155",
+                "text": "• Pruebas sudomotoras, variabilidad cardíaca → Diferencia EP vs MSA",
+                "guid": "kxSknaKgDk6tZxXvKLZZvQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "158",
+            "parent": "118",
+            "text": "8. Pruebas de\nalfa-sinucleína",
+            "guid": "blt25k348BltAqJUq1HpJw",
+            "children": [
+              {
+                "id": "159",
+                "parent": "158",
+                "text": "• Técnicas en\ndesarrollo:",
+                "guid": "p7tI453U-xqHGQH4OZMoBw",
+                "children": [
+                  {
+                    "id": "160",
+                    "parent": "159",
+                    "text": "• Biopsia cutánea → Inmunofluorescencia para alfa-sinucleína",
+                    "guid": "HuKascTuQT7iHsUPRHZcQg",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "159",
+                    "text": "• Seed Amplification Assay (SAA) → Detección en sangre, LCR",
+                    "guid": "G_q6gaDvcO7k1lFT2hmUzA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "162",
+                "parent": "158",
+                "text": "• Alta sensibilidad/especificidad para EP, DLB, MSA",
+                "guid": "JMfcHvRag4e02BBpiTeKRA",
+                "children": []
+              },
+              {
+                "id": "163",
+                "parent": "158",
+                "text": "• Aún no de uso clínico rutinario",
+                "guid": "ueaPCsvo4uMeU-kx6iPFyg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "164",
+        "parent": "0",
+        "text": "PRUEBAS\nGENÉTICAS EN\nEP",
+        "guid": "",
+        "children": [
+          {
+            "id": "165",
+            "parent": "164",
+            "text": "• Disponibilidad → Test genéticos para formas monogénicas de EP",
+            "guid": "l2NyVY8dqiXvvqpIqjkpSQ",
+            "children": []
+          },
+          {
+            "id": "166",
+            "parent": "164",
+            "text": "• Genes asociados",
+            "guid": "",
+            "children": [
+              {
+                "id": "167",
+                "parent": "166",
+                "text": "• Autosómico dominante → SNCA, LRRK2",
+                "guid": "fxny9yHqdWIEwAcfo3rzGA",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "166",
+                "text": "• Autosómico recesivo → PRKN, PINK1, DJ-1 (PARK7)",
+                "guid": "BChXDcOMJjMREDsYMip93w",
+                "children": []
+              },
+              {
+                "id": "169",
+                "parent": "166",
+                "text": "• Factores de riesgo → GBA y genes de enzimas lisosomales",
+                "guid": "7UrJH_YVM3P4LefX7g7ECA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "parent": "164",
+            "text": "1. Indicación de\npruebas genéticas",
+            "guid": "qQ_GhJK8HhQb3Far6WxrCA",
+            "children": [
+              {
+                "id": "171",
+                "parent": "170",
+                "text": "• No hay consenso generalizado",
+                "guid": "g1B20BaBPkV1V7_h65djkQ",
+                "children": []
+              },
+              {
+                "id": "172",
+                "parent": "170",
+                "text": "• Factores de alto\nriesgo genético:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "• EP de inicio temprano (<40 años)",
+                    "guid": "-i889Kzuerp5RYbtDsTuJA",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "172",
+                    "text": "• Antecedente familiar de EP en parientes de 1er grado",
+                    "guid": "LTmqmz4uzIMZph5YRCxvPA",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "172",
+                    "text": "• Etnicidad de alto riesgo (Judíos Ashkenazí, Bereberes del Norte de África)",
+                    "guid": "z06zjQy-zarakFgCuOS2_A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "164",
+            "text": "2. Impacto clínico",
+            "guid": "pVNlOk2IWj3is7nUO9ELhw",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "• No modifica tratamiento sintomático actual",
+                "guid": "3ULXZPOJa3msCMXv5C7jLA",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "• Útil en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "179",
+                    "parent": "178",
+                    "text": "• Consejería genética",
+                    "guid": "D5Akig5Uq9NzrHZPwN-bPQ",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "178",
+                    "text": "• Identificación de candidatos para ensayos clínicos dirigidos a variantes genéticas",
+                    "guid": "KmE7xuufosjk8PJ-tBhVRQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "181",
+        "parent": "0",
+        "text": "SISTEMAS BIOLÓGICOS Y\nESTADIFICACIÓN DE EP",
+        "guid": "",
+        "children": [
+          {
+            "id": "182",
+            "parent": "181",
+            "text": "• Nuevos criterios basados en biomarcadores",
+            "guid": "giBmkluMAOqgNjh7JY6waQ",
+            "children": []
+          },
+          {
+            "id": "183",
+            "parent": "181",
+            "text": "• Dos sistemas\npropuestos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "1. NSD-ISS (Neuronal Alpha-Synuclein Disease Integrated Staging System)",
+                "guid": "BCaVBB6UoZKgGkAEm57r2g",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "183",
+                "text": "2. SynNeurGe System",
+                "guid": "1dKkYt4z1Clnfq7S_VjfBg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "186",
+            "parent": "181",
+            "text": "1. Definición biológica de\nEP según NSD-ISS",
+            "guid": "sSqo2UtUfHgVFGcBVmFrnA",
+            "children": [
+              {
+                "id": "187",
+                "parent": "186",
+                "text": "• Criterios\ndiagnósticos:",
+                "guid": "sV9GF2K7etUrjPk-JsUvmg",
+                "children": [
+                  {
+                    "id": "188",
+                    "parent": "187",
+                    "text": "• Marcador de alfa-sinucleína positivo en LCR (Seed Amplification Assay)",
+                    "guid": "sUGv0qOB-BFK-gi-cJ5H_w",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "187",
+                    "text": "• Disfunción dopaminérgica en PET o SPECT",
+                    "guid": "gS46qJQ3Ifjw4GgvWK_aAA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "190",
+            "parent": "181",
+            "text": "2. Estadificación\nNSD-ISS",
+            "guid": "XgItuOnVr-Y-ka6ONsOUOA",
+            "children": [
+              {
+                "id": "191",
+                "parent": "190",
+                "text": "• Continuo de enfermedad basado en biomarcadores + clínica",
+                "guid": "IoHkleEjt2Ez4lChUBhQsA",
+                "children": []
+              },
+              {
+                "id": "192",
+                "parent": "190",
+                "text": "• Etapas 1-2 → Biomarcadores presentes, síntomas clínicos ausentes o leves",
+                "guid": "914gHNrCNAJxspli_30J0w",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "190",
+                "text": "• Etapa 3 en adelante → Síntomas clínicos con deterioro funcional (motores y no motores)",
+                "guid": "pgAS6cEwUOGajWMeLjrFZQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "181",
+            "text": "3. Importancia\ndel sistema",
+            "guid": "VegyagMv4f8c5MFgbsYsaA",
+            "children": [
+              {
+                "id": "195",
+                "parent": "194",
+                "text": "• Marco de investigación en evolución",
+                "guid": "9I6A-oEUpWNC805U_zBZHw",
+                "children": []
+              },
+              {
+                "id": "196",
+                "parent": "194",
+                "text": "• Podría integrar nuevos biomarcadores en el futuro",
+                "guid": "5gNKL-TPP_lH12m0rPcBfA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "197",
+        "parent": "0",
+        "text": "1. PARKINSONISMOS\nNEURODEGENERATIVOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "198",
+            "parent": "197",
+            "text": "1.1. Temblor\nEsencial (ET)",
+            "guid": "uSsPK_36OqgEOwIksT5khw",
+            "children": [
+              {
+                "id": "199",
+                "parent": "198",
+                "text": "• Más común que EP (5% de la población)",
+                "guid": "hMpjcVPxmiowKLgG1bU--A",
+                "children": []
+              },
+              {
+                "id": "200",
+                "parent": "198",
+                "text": "• Temblor de acción (no de reposo) → Predomina en brazos",
+                "guid": "eaIX5X8u2DqPORu7Jv9O8g",
+                "children": []
+              },
+              {
+                "id": "201",
+                "parent": "198",
+                "text": "• Simétrico, afecta cabeza, voz, mentón",
+                "guid": "XdFD-iqkUUtjJg1lIxQozg",
+                "children": []
+              },
+              {
+                "id": "202",
+                "parent": "198",
+                "text": "• Sin bradiquinesia, rigidez ni micrografía",
+                "guid": "qKn0Ll5Q9IPxcjM8aqJYOQ",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "198",
+                "text": "• Algunos pueden desarrollar EP posteriormente",
+                "guid": "9yOpMxrZWUTKWtqoVkAynw",
+                "children": []
+              },
+              {
+                "id": "204",
+                "parent": "198",
+                "text": "• Respuesta a alcohol y propranolol",
+                "guid": "_eBE2WB6sxLvcDd5OwXQbA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "parent": "197",
+            "text": "1.2. Dementia con\nCuerpos de Lewy (DLB)",
+            "guid": "ofSSj8vwMDsliBs-HcSWsQ",
+            "children": [
+              {
+                "id": "206",
+                "parent": "205",
+                "text": "• Segunda causa de demencia neurodegenerativa",
+                "guid": "Os11zhVLCu9RKaB-Niq0nw",
+                "children": []
+              },
+              {
+                "id": "207",
+                "parent": "205",
+                "text": "• Demencia precoz → precede o coincide con parkinsonismo",
+                "guid": "dnSiy3dnE2R4wt-IjZ7YWA",
+                "children": []
+              },
+              {
+                "id": "208",
+                "parent": "205",
+                "text": "• Síntomas clave:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "209",
+                    "parent": "208",
+                    "text": "• Alucinaciones visuales",
+                    "guid": "AJ8Zd8QA1IJoZwDXEuDIJg",
+                    "children": []
+                  },
+                  {
+                    "id": "210",
+                    "parent": "208",
+                    "text": "• Fluctuaciones cognitivas",
+                    "guid": "ENfN0aaTDB-wCw2jgdvsaw",
+                    "children": []
+                  },
+                  {
+                    "id": "211",
+                    "parent": "208",
+                    "text": "• Trastorno de conducta REM",
+                    "guid": "ITGVCf0_ASSyFZVLTiuB5A",
+                    "children": []
+                  },
+                  {
+                    "id": "212",
+                    "parent": "208",
+                    "text": "• Hipotensión ortostática, síncope",
+                    "guid": "6HZJyQ7nwNRQAvcxCbUyJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "213",
+                    "parent": "208",
+                    "text": "• Mala respuesta a neurolépticos",
+                    "guid": "fq8c6OgK-47z9ySVVFRw6A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "214",
+            "parent": "197",
+            "text": "1.3. Atrofia Multisistémica\n(MSA)",
+            "guid": "4ry7xE0GQ4vWUCpz317bvw",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "• Parkinsonismo + disautonomía precoz",
+                "guid": "PbZS49--Qo1vJm4m36k8eQ",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "214",
+                "text": "• Subtipos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "217",
+                    "parent": "216",
+                    "text": "• MSA-P (parkinsonismo)",
+                    "guid": "kfGWhLmIpXbKXCZknOfVdg",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "216",
+                    "text": "• MSA-C (ataxia cerebelosa)",
+                    "guid": "qyh3kTlDVA0AjJyEmsf5hg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "219",
+                "parent": "214",
+                "text": "• Características\nclave:",
+                "guid": "Nhzmv3ATk5UsVOaowz1ulw",
+                "children": [
+                  {
+                    "id": "220",
+                    "parent": "219",
+                    "text": "• Hipotensión ortostática grave",
+                    "guid": "U_S3YToBG-DESgKTDH0MVg",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "219",
+                    "text": "• Poca respuesta a levodopa",
+                    "guid": "9wrCYyX7-pkAgT0bcC5IZw",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "219",
+                    "text": "• Atrofia cerebelosa y putaminal en MRI",
+                    "guid": "4kT5XRV-hBQ-3fqQ0IFhZQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "223",
+            "parent": "197",
+            "text": "1.4. Degeneración\nCorticobasal (CBD)",
+            "guid": "FklDMhmycXg5KOGD_HazAA",
+            "children": [
+              {
+                "id": "224",
+                "parent": "223",
+                "text": "• Asimétrico desde el inicio",
+                "guid": "RWr5M6ecuCxFAFzJMLJbkw",
+                "children": []
+              },
+              {
+                "id": "225",
+                "parent": "223",
+                "text": "• Síntomas\nmotores\ndistintivos:",
+                "guid": "5tHvtI5Ur-T-0Adlfaqshw",
+                "children": [
+                  {
+                    "id": "226",
+                    "parent": "225",
+                    "text": "• Rigidez extrema + distonía",
+                    "guid": "gMhc9FFRmW6La47h2e4Csw",
+                    "children": []
+                  },
+                  {
+                    "id": "227",
+                    "parent": "225",
+                    "text": "• Mioclonías focales",
+                    "guid": "M0Yg7-F9O2QCvd5G7dVVbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "228",
+                    "parent": "225",
+                    "text": "• Apraxia ideomotora",
+                    "guid": "v5McJXiPJZldEUfQu6VDVw",
+                    "children": []
+                  },
+                  {
+                    "id": "229",
+                    "parent": "225",
+                    "text": "• “Miembro ajeno”",
+                    "guid": "GfGGZLBkxNrbMjtPeZ1K-A",
+                    "children": []
+                  },
+                  {
+                    "id": "230",
+                    "parent": "225",
+                    "text": "• Poca respuesta a levodopa",
+                    "guid": "hEfqL0Axkm8NMeBWhsCNbA",
+                    "children": []
+                  },
+                  {
+                    "id": "231",
+                    "parent": "225",
+                    "text": "• Afectación cognitiva temprana\n(afasia, cambios conductuales)",
+                    "guid": "9f58xSPShvT8yiHBHEupkA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "232",
+            "parent": "197",
+            "text": "1.5. Parálisis Supranuclear\nProgresiva (PSP)",
+            "guid": "G1Ib-xoI2Nz-OuRoI_T0bw",
+            "children": [
+              {
+                "id": "233",
+                "parent": "232",
+                "text": "• Inicio con inestabilidad postural y caídas precoces",
+                "guid": "4fwYchD8UFTKxp75RBbgYA",
+                "children": []
+              },
+              {
+                "id": "234",
+                "parent": "232",
+                "text": "• Hallmark: Parálisis de la mirada vertical",
+                "guid": "82sTo17L0tY8c2XKzI553Q",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "232",
+                "text": "• Otros signos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "• Rigidez axial",
+                    "guid": "9XFVJH3KToD7tCdPce9wXg",
+                    "children": []
+                  },
+                  {
+                    "id": "237",
+                    "parent": "235",
+                    "text": "• Disartria, disfagia",
+                    "guid": "_hWhT6xF7p7fxil0SJ_0mQ",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "235",
+                    "text": "• Deterioro frontal (apatía, impulsividad)",
+                    "guid": "p6w8obYI01LwvNhidsjGfA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "232",
+                "text": "• MRI → Atrofia mesencefálica\n(“signo del colibrí”)",
+                "guid": "b4XL8hjMovKXuHk2brfdug",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "240",
+        "parent": "0",
+        "text": "2. PARKINSONISMOS\nSECUNDARIOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "241",
+            "parent": "240",
+            "text": "2.1. SWEDD (“Scans Without\nEvidence of Dopaminergic Deficit”)",
+            "guid": "fanmi_2sPhwqjWSFiF4lcg",
+            "children": [
+              {
+                "id": "242",
+                "parent": "241",
+                "text": "• Temblor de reposo aislado, sin progresión a EP",
+                "guid": "7F9a0khqXADMo1cK0etCwA",
+                "children": []
+              },
+              {
+                "id": "243",
+                "parent": "241",
+                "text": "• DaTscan normal",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "244",
+                "parent": "241",
+                "text": "• Algunas\ncausas:",
+                "guid": "diTjn_vYb909GZnNqNUaAg",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "• Temblor distónico",
+                    "guid": "Bsr1Jx-kUrsQKe4TTbBwfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "• Mioclonus-distonía",
+                    "guid": "eK9oLW4KRt4oRUV79ZAJ5w",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "244",
+                    "text": "• Errores diagnósticos iniciales",
+                    "guid": "9DqrsHCsGHIVPy2Uc2SdCw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "248",
+            "parent": "240",
+            "text": "2.2. Parkinsonismo\nInducido por Fármacos",
+            "guid": "Jn-rieq0qy3NlA4HYFzBJQ",
+            "children": [
+              {
+                "id": "249",
+                "parent": "248",
+                "text": "• Causantes frecuentes:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "250",
+                    "parent": "249",
+                    "text": "• Neurolépticos (1° y 2° generación)",
+                    "guid": "03wLi8ucE5khXWLogsPICQ",
+                    "children": []
+                  },
+                  {
+                    "id": "251",
+                    "parent": "249",
+                    "text": "• Metoclopramida, prochlorperazina",
+                    "guid": "Iv4K_-d4A7vtvdlMWJk4gg",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "249",
+                    "text": "• Tetrabenazina, valproato",
+                    "guid": "HBtyIMiO8YekuTJ_Xas7tw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "253",
+                "parent": "248",
+                "text": "• Generalmente simétrico",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "254",
+                "parent": "248",
+                "text": "• Puede tardar hasta 1 año en resolverse tras suspensión",
+                "guid": "IDnFjWHUJ-TiS2pu-VjVpw",
+                "children": []
+              },
+              {
+                "id": "255",
+                "parent": "248",
+                "text": "• Indicación de DaTscan si duda diagnóstica",
+                "guid": "a8Dnz4iH1qsRjWIom5w8iQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "256",
+            "parent": "240",
+            "text": "2.3. Parkinsonismo\nTóxico",
+            "guid": "JekeaBXJ9l7WF2ZgXcGimg",
+            "children": [
+              {
+                "id": "257",
+                "parent": "256",
+                "text": "• Exposición a:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "258",
+                    "parent": "257",
+                    "text": "• CO, cianuro",
+                    "guid": "TtF0nnE2_u0x7UzhUcQZtw",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "257",
+                    "text": "• Manganeso (Mineros, intoxicación crónica)",
+                    "guid": "Ghu6rRHaGoXYBXMhE0dUow",
+                    "children": []
+                  },
+                  {
+                    "id": "260",
+                    "parent": "257",
+                    "text": "• MPTP (Toxina que induce EP irreversible)",
+                    "guid": "OaSlxf5Do1kFgVnLkKRRww",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "261",
+            "parent": "240",
+            "text": "2.4. Parkinsonismo Vascular\n(“Lower Body Parkinsonism”)",
+            "guid": "q2xnlxa6X6B844aLYZ-m-w",
+            "children": [
+              {
+                "id": "262",
+                "parent": "261",
+                "text": "• Bradiquinesia predominante en piernas",
+                "guid": "wOoWFmTJKTpfU0SQV5HowA",
+                "children": []
+              },
+              {
+                "id": "263",
+                "parent": "261",
+                "text": "• Ausencia de temblor en reposo",
+                "guid": "XBxDyAPQ7tWGqNhriIZQ3w",
+                "children": []
+              },
+              {
+                "id": "264",
+                "parent": "261",
+                "text": "• Historia de eventos cerebrovasculares previos",
+                "guid": "o9RAyqKUWC9ofdhEcYqSTg",
+                "children": []
+              },
+              {
+                "id": "265",
+                "parent": "261",
+                "text": "• MRI → Infartos lacunares, enfermedad de pequeños vasos",
+                "guid": "ClewdQzW6PessIWdBZhq6A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "266",
+            "parent": "240",
+            "text": "2.5. Parkinsonismo\nEstructural y Traumático",
+            "guid": "nxXNrfGyK4CUiwOZWs4ncQ",
+            "children": [
+              {
+                "id": "267",
+                "parent": "266",
+                "text": "• Causas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "• Hidrocefalia normotensiva → Marcha parkinsoniana + incontinencia + demencia",
+                    "guid": "iK-arWdf27TvLa3vGvQKfA",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "267",
+                    "text": "• Hematoma subdural crónico",
+                    "guid": "nOnCbGtFct03_DZLMgQq4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "267",
+                    "text": "• Traumatismo craneal repetido (boxeo) → “Dementia pugilistica”",
+                    "guid": "LuUXW_s5C4Dq3pY6wQd7Qg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "271",
+            "parent": "240",
+            "text": "2.6. Parkinsonismo\nMetabólico",
+            "guid": "qB0ZcVIkfX4DRHr38Xw_wA",
+            "children": [
+              {
+                "id": "272",
+                "parent": "271",
+                "text": "• Causas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "273",
+                    "parent": "272",
+                    "text": "• Hipoparatiroidismo / pseudohipoparatiroidismo",
+                    "guid": "BoAPZLDcTvZ2QUW9MyVuOg",
+                    "children": []
+                  },
+                  {
+                    "id": "274",
+                    "parent": "272",
+                    "text": "• Insuficiencia hepática avanzada",
+                    "guid": "wp-zNq_l6SsZTgv_8jf5hQ",
+                    "children": []
+                  },
+                  {
+                    "id": "275",
+                    "parent": "272",
+                    "text": "• Diabetes tipo 2 (asociación con parkinsonismo)",
+                    "guid": "sNeN73dLI9KnoSG39VSwXw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "276",
+            "parent": "240",
+            "text": "2.7. Parkinsonismo\nNeurogenético",
+            "guid": "IZHeIitIhCZhuUCa079UPA",
+            "children": [
+              {
+                "id": "277",
+                "parent": "276",
+                "text": "• Wilson → Afectación temprana + disartria + anillo de Kayser-Fleischer",
+                "guid": "3jZNd2I7HBeB74Itpg9i-Q",
+                "children": []
+              },
+              {
+                "id": "278",
+                "parent": "276",
+                "text": "• Neurodegeneración con Acumulación de Hierro → Parkinsonismo + distonía",
+                "guid": "oQ6vE2GfXdv0JJFmoL9ZJg",
+                "children": []
+              },
+              {
+                "id": "279",
+                "parent": "276",
+                "text": "• Neuroacantocitosis → Movimientos orofaciales anormales",
+                "guid": "8uMkocQqTNTxjYTeq9AIvw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "280",
+            "parent": "240",
+            "text": "2.8. Parkinsonismo\nInfeccioso",
+            "guid": "7R5y5lYD1-6QpXd-uudezw",
+            "children": [
+              {
+                "id": "281",
+                "parent": "280",
+                "text": "• Causas:",
+                "guid": "dBwWkc7DB7NKQiRawSvkvA",
+                "children": [
+                  {
+                    "id": "282",
+                    "parent": "281",
+                    "text": "• Encefalitis viral",
+                    "guid": "UG8qO3zGFw5QgzeyIaJGxw",
+                    "children": []
+                  },
+                  {
+                    "id": "283",
+                    "parent": "281",
+                    "text": "• Neurosífilis",
+                    "guid": "rQU0MRrw5hk10M5rEIrsQw",
+                    "children": []
+                  },
+                  {
+                    "id": "284",
+                    "parent": "281",
+                    "text": "• VIH/SIDA → Leucoencefalopatía multifocal progresiva",
+                    "guid": "WxVPDp35CgXjXgQsOaEGVA",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "281",
+                    "text": "• Prionopatías → Enfermedad de Creutzfeldt-Jakob",
+                    "guid": "98yDG2I9R1BkBpCpTAi8rQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "286",
+        "parent": "0",
+        "text": "3. OTROS TRASTORNOS\nCON PARKINSONISMO",
+        "guid": "",
+        "children": [
+          {
+            "id": "287",
+            "parent": "286",
+            "text": "3.1. Enfermedad\nde Alzheimer",
+            "guid": "BKEmzJ7fEZsq2CE5NLL6vg",
+            "children": [
+              {
+                "id": "288",
+                "parent": "287",
+                "text": "• Parkinsonismo tardío, en contexto de demencia",
+                "guid": "mHd1XI30h56ZBengYVzJlQ",
+                "children": []
+              },
+              {
+                "id": "289",
+                "parent": "287",
+                "text": "• Fácil diferenciación clínica",
+                "guid": "z3cbJXmZm9UzjF66B0RpoQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "290",
+            "parent": "286",
+            "text": "3.2. Enfermedad de Huntington\n(variante rígida)",
+            "guid": "Ews0amuqG4DmpGhSz8txAg",
+            "children": [
+              {
+                "id": "291",
+                "parent": "290",
+                "text": "• Historia familiar positiva",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "292",
+                "parent": "290",
+                "text": "• Corea + distonía + parkinsonismo",
+                "guid": "rEsXPvj9h0RBt82BPm6iPQ",
+                "children": []
+              },
+              {
+                "id": "293",
+                "parent": "290",
+                "text": "• Test genético confirma diagnóstico",
+                "guid": "Z6YigIebZj1FE0_uDIfh7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "294",
+            "parent": "286",
+            "text": "3.3.\nParkinsonismo\nFuncional",
+            "guid": "cGF2dZX4QasJSk4jR6rnvw",
+            "children": [
+              {
+                "id": "295",
+                "parent": "294",
+                "text": "• Movimientos erráticos, inconsistentes",
+                "guid": "_O5_WLAau-0Hb9jwMjqtfw",
+                "children": []
+              },
+              {
+                "id": "296",
+                "parent": "294",
+                "text": "• Inicio abrupto",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "297",
+                "parent": "294",
+                "text": "• Signos positivos\nfuncionales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "298",
+                    "parent": "297",
+                    "text": "• Distracción del temblor",
+                    "guid": "asQNZNFnLf-qilchrfWU9w",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "parent": "297",
+                    "text": "• Respuesta exagerada a pruebas posturales",
+                    "guid": "XBilP2vvT9D-cM3sseRHMg",
+                    "children": []
+                  },
+                  {
+                    "id": "300",
+                    "parent": "297",
+                    "text": "• DaTscan normal",
+                    "guid": "Rj8_DQtbl8slwRfih3fieg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 301,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "UTD. DF Parkinsonismo-2025-1",
+  "id": "map_1650",
+  "resolved_references": []
+}

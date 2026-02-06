@@ -1,0 +1,3031 @@
+{
+  "title": "Afasia UTD 2025",
+  "guid": "1FCC4F385DB43FF5BFBBD04C",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/UTD 2025. Afasia-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Afasia\nUTD 2025",
+    "guid": "2xfBNoOA8XNOC0BLX5WTZA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición\nAfasia",
+        "guid": "x_mY1IY3skq5h62hRdP6QQ",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Definición",
+            "guid": "",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "Alteración capacidad: producir y/o comprender lenguaje.",
+                "guid": "6iyIsVNiXtasNQeTw_I9Cg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "Manifestaciones",
+            "guid": "",
+            "children": [
+              {
+                "id": "5",
+                "parent": "4",
+                "text": "Dificultades\nen:",
+                "guid": "mkgmhP3KMDXwf6IHGJn3nA",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "Habla.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "5",
+                    "text": "Comprensión del lenguaje hablado.",
+                    "guid": "xjN-acbS7rOwLMV9hXxZeA",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "5",
+                    "text": "Lectura.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "5",
+                    "text": "Escritura.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10",
+                "parent": "4",
+                "text": "Impacto\nadicional en:",
+                "guid": "pS53FcvX8HAqfM_YPPotuA",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "Lenguaje de señas.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "Sistema Braille.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "Importancia",
+            "guid": "",
+            "children": [
+              {
+                "id": "14",
+                "parent": "13",
+                "text": "Afecta múltiples formas de comunicación (oral, escrita, gestual).",
+                "guid": "RrTiPLAT7e9Rvuj0E0hlag",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "Neuroanatomía",
+        "guid": "bVyUESP9YSewp35lP7dsdw",
+        "children": [
+          {
+            "id": "16",
+            "parent": "15",
+            "text": "Red Neurocognitiva\ndel Lenguaje",
+            "guid": "",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "Una extensa y compleja red neurocognitiva, generalmente localizada en el hemisferio izquierdo,\nsustenta la capacidad del lenguaje humano.",
+                "guid": "HHl0c_FpSpiC4qC-mCqz-Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "15",
+            "text": "Centros del Lenguaje",
+            "guid": "WkxS6HpusUZ3BvsNAwW6cQ",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "Área de\nBroca",
+                "guid": "_ryjCfcd5-GQnpK6oueLsA",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "Localización: Área 44 de Brodmann en el giro frontal inferior posterior",
+                    "guid": "SYvlXsJD9TiknC4i9keaFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "19",
+                    "text": "Función: Inerva neuronas motoras adyacentes que controlan la boca y la laringe",
+                    "guid": "1snntKdVELtzCC6V3jBTnA",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "19",
+                    "text": "Rol principal: Control de la producción del lenguaje hablado",
+                    "guid": "5W2sSBksuFX9rxR9OTY-8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23",
+                "parent": "18",
+                "text": "Área de\nWernicke",
+                "guid": "pbH-HHsoVnLrRB9kLHm5xw",
+                "children": [
+                  {
+                    "id": "24",
+                    "parent": "23",
+                    "text": "Localización: Área 22 de Brodmann, comprende los dos tercios posteriores del giro temporal superior",
+                    "guid": "8sN7Syr0g6HwugHxcOi1Kg",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "23",
+                    "text": "Función: Recibe información de la corteza auditiva",
+                    "guid": "MVAb0j0WKSoUZMCB0uGVdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "23",
+                    "text": "Rol principal: Accede a una red de asociaciones corticales para asignar significados a las palabras",
+                    "guid": "c1QrLGcHXbUvZ4X_rE_l8g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27",
+                "parent": "18",
+                "text": "Giro\nAngular",
+                "guid": "qIyMSqAAlXnXQQ9pM0imCw",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "Localización: Lóbulo parietal inferior",
+                    "guid": "i0STt0Yn05kaepBa32Ezuw",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "Función: Adyacente a áreas receptivas visuales",
+                    "guid": "UGNqE2XGlM8h4GhONqTgNg",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "Rol principal: Percepción del lenguaje escrito y otras funciones de procesamiento lingüístico",
+                    "guid": "Z13EsVJVdL5d3nPA8EL8Yw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "parent": "15",
+            "text": "Otras Regiones\nCerebrales Importantes",
+            "guid": "",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "Regiones\nCorticales",
+                "guid": "RGFNVKfkr8IA9SPTibMiqQ",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "Ínsula: Integral para la articulación normal",
+                    "guid": "mp2l2QR9qJHNntPjkMPnGA",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "32",
+                    "text": "Regiones frontales y temporales: Apoyan el procesamiento a nivel de oraciones",
+                    "guid": "2qgX3Ifu5lnjf6r6kW9zXw",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "32",
+                    "text": "Regiones temporales, occipitales y parietales: Sustentan el conocimiento de palabras y sus significados",
+                    "guid": "6Q1-TL4wl0Afxbr63WybuQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "parent": "31",
+                "text": "Estructuras\nSubcorticales",
+                "guid": "dh5fdbB5UatT2hRJMRi1kQ",
+                "children": [
+                  {
+                    "id": "37",
+                    "parent": "36",
+                    "text": "Las lesiones subcorticales que producen afasia frecuentemente se asocian con defectos de perfusión en regiones corticales del lenguaje",
+                    "guid": "zhxvzkMPbb5cpOKbqLYQiA",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "36",
+                    "text": "Mejor pronóstico que las afasias corticales, posiblemente debido a la restauración de la perfusión cortical",
+                    "guid": "6cEamLiYPugx_y5uuRRaFQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "15",
+            "text": "Modelo de\nDoble Vía",
+            "guid": "xzCsxTu1ypXIMdXsLvYlaw",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "Vía\nVentral",
+                "guid": "PP3o9z84rO4fJHfcMtcl4w",
+                "children": [
+                  {
+                    "id": "41",
+                    "parent": "40",
+                    "text": "Localización: Lóbulos temporales bilaterales",
+                    "guid": "ysAtEoIFJtA4y-pd-Z995A",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "40",
+                    "text": "Función: Mapeo entre input auditivo y significados",
+                    "guid": "-4KuLcgWhur2TAXJ3ZGhyw",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "40",
+                    "text": "Importancia: Crucial para la comprensión auditiva normal",
+                    "guid": "cfSRE77y8SHSZhiBW2kUYw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "44",
+                "parent": "39",
+                "text": "Vía\nDorsal",
+                "guid": "_MVyL09LVwuC7JpxhSKkzg",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "Organización: Unilateral",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "44",
+                    "text": "Componentes: Áreas frontales asociadas con producción del habla y región temporoparietal",
+                    "guid": "y9JkfCTgfMVS88Ww8RvANw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "44",
+                    "text": "Función: Esencial para el habla fluida, proporcionando retroalimentación auditiva y propioceptiva",
+                    "guid": "AzfljIxD-EQk-TI8FC4OWQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "15",
+            "text": "Rol del\nCerebelo",
+            "guid": "5azCt5mOvkpkcrqn8ZPThQ",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "Evidencia creciente sugiere que las lesiones cerebelosas pueden resultar en déficits lingüísticos",
+                "guid": "GmC9pSGZaezTT86WpkdNiQ",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "Particularmente involucrado en alteraciones gramaticales",
+                "guid": "GOihOFAvsHi5iPr5htWfhg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "parent": "0",
+        "text": "Dominancia\nCerebral",
+        "guid": "C4mZXHUhnLolY5CpOGDoFQ",
+        "children": [
+          {
+            "id": "52",
+            "parent": "51",
+            "text": "Patrones de\nDominancia",
+            "guid": "Fli5OPPR43rUsIf3a_K5kw",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "Mayoría de individuos: Dominancia del hemisferio izquierdo para el lenguaje",
+                "guid": "7fL5Moud7TmQzGM1byTR5Q",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "52",
+                "text": "Personas diestras\n(90-95% de la población):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "Más del 95% presenta dominancia\nizquierda para el lenguaje",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56",
+                "parent": "52",
+                "text": "Personas zurdas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "Entre 31-70% presenta dominancia izquierda",
+                    "guid": "YNUjfM21fV4QGRPY0qZEbg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "parent": "51",
+            "text": "Características\nEspeciales",
+            "guid": "",
+            "children": [
+              {
+                "id": "59",
+                "parent": "58",
+                "text": "Pacientes con dominancia derecha: Afasia menos severa y duradera tras lesión derecha",
+                "guid": "uHmZhPAW4nmBofWM-PF2ag",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "58",
+                "text": "Representación bilateral: Más común en mujeres y personas zurdas",
+                "guid": "sxQpCH-xn0QoXKijn5VB8g",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "58",
+                "text": "Estudios funcionales: Demuestran lateralización menos pronunciada en estos grupos",
+                "guid": "2__dhdMGD4OAJQwhKZjSRg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "parent": "51",
+            "text": "Casos Especiales\nde Dominancia",
+            "guid": "",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "Lesiones tempranas del hemisferio izquierdo (antes de los 6 años): Posible transferencia de funciones al hemisferio derecho",
+                "guid": "rv-elywmSXLkNgZ98E-R0A",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "62",
+                "text": "Epilepsia del lóbulo temporal: Mayor frecuencia de dominancia atípica, especialmente con patología izquierda predominante",
+                "guid": "vHPSirjg4ZQQ4kGhzwhd4w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "65",
+        "parent": "0",
+        "text": "Etiologías",
+        "guid": "g3JcghNBLJae3MPuHfeWqw",
+        "children": [
+          {
+            "id": "66",
+            "parent": "65",
+            "text": "Afasia de Presentación Aguda o Subaguda",
+            "guid": "Ssc8OB42zEmJqcBb11ZJkQ",
+            "children": [
+              {
+                "id": "67",
+                "parent": "66",
+                "text": "Causas\nVasculares",
+                "guid": "P_vBRzVaDgIIiw0kDmXWLw",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "Ictus isquémico (causa más común)",
+                    "guid": "JEe4BiWDrmbq3qPC3Znv7w",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "Ictus hemorrágico",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70",
+                "parent": "66",
+                "text": "Otras Causas\nEstructurales",
+                "guid": "UTkcGBJsYh8cQH1ISvwQ5Q",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "Neoplasias",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "Absceso cerebral",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "70",
+                    "text": "Encefalitis y otras infecciones del sistema nervioso central",
+                    "guid": "ciXo8LDOhIP93zaulNZUFA",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "70",
+                    "text": "Traumatismo craneoencefálico",
+                    "guid": "0pemDtdqMh6cmWysAnimbg",
+                    "children": []
+                  },
+                  {
+                    "id": "75",
+                    "parent": "70",
+                    "text": "Esclerosis múltiple (causa poco común)",
+                    "guid": "C_H-eRc2ICKhglbRQhctsw",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "70",
+                    "text": "Encefalomielitis aguda diseminada (causa poco común)",
+                    "guid": "j3hdW4Lra6JlWYS7qlpGTQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "parent": "65",
+            "text": "Episodios Transitorios de Afasia",
+            "guid": "gtKYso-WmZnfVkPD3jPYVQ",
+            "children": [
+              {
+                "id": "78",
+                "parent": "77",
+                "text": "Isquemia cerebral\ntransitoria (AIT)",
+                "guid": "NOFG_UUPqbeVXrHIZ3Phuw",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "La presencia de afasia durante un AIT es factor\nde riesgo para ictus en días/semanas siguientes",
+                    "guid": "KbVImEx01RLltol8GLm8nA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80",
+                "parent": "77",
+                "text": "Migraña",
+                "guid": "_ASWGyZl4BHJNJNuOYoBog",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "77",
+                "text": "Crisis\nepilépticas",
+                "guid": "qsf8X0LsIxGOMJ7fmIFA8w",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "Puede presentarse como fenómeno ictal (ej. breve detención del habla al inicio de crisis parcial compleja)",
+                    "guid": "ELElZxr17Id0bOtyDYAL4A",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "Puede manifestarse como fenómeno postictal",
+                    "guid": "8fl6RAljHQ8KzXb4611Brg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "parent": "65",
+            "text": "Afasia\nProgresiva",
+            "guid": "tXhyQ_hpIOunHKU62Ognrg",
+            "children": [
+              {
+                "id": "85",
+                "parent": "84",
+                "text": "En Población Pediátrica",
+                "guid": "G1-swSrzijWA-xvES4AlhA",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "Síndrome de Landau-Kleffner",
+                    "guid": "0bGzHUD5Gy1oE9Jbv2V_YQ",
+                    "children": [
+                      {
+                        "id": "87",
+                        "parent": "86",
+                        "text": "La afasia puede ser el síntoma de presentación en 40% de los casos",
+                        "guid": "-AxJi0UPe1DLke-gsZmSdg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "88",
+                    "parent": "85",
+                    "text": "Epilepsia con puntas-ondas\ncontinuas durante el sueño lento",
+                    "guid": "Rz6vaNbaKpERwvsoxdsK7A",
+                    "children": [
+                      {
+                        "id": "89",
+                        "parent": "88",
+                        "text": "Característica: Pérdida progresiva de función\nlingüística previamente adquirida",
+                        "guid": "u0-KOHdS9VNfikVM3f4DYg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "90",
+                "parent": "84",
+                "text": "En Adultos\nMayores",
+                "guid": "RUw25OLaDziB2bEx2oyMMg",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "Afasia primaria progresiva (APP)",
+                    "guid": "EGu0KvZH5wb74uMeU7_jOw",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "90",
+                    "text": "Demencia semántica",
+                    "guid": "zzQAwdvchnjRbOfdhRI5Mw",
+                    "children": [
+                      {
+                        "id": "93",
+                        "parent": "92",
+                        "text": "Degeneración frontotemporal (más común)",
+                        "guid": "DvI_BXR-Kp1UCyNIf6yGFw",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "92",
+                        "text": "Enfermedad de Alzheimer (menos común)",
+                        "guid": "puBokYAHQn3VRy7n6bB3gA",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "92",
+                        "text": "Enfermedad de Creutzfeldt-Jakob",
+                        "guid": "ymtwWhhIBm0XgjFMBwYUkg",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "92",
+                        "text": "Otras formas de demencia neurodegenerativa",
+                        "guid": "iu4iebYoiJq-uYpJy-uoRw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "97",
+        "parent": "0",
+        "text": "Evaluación Clínica",
+        "guid": "UB0tp8cGVpDQwCeEd3T3Rw",
+        "children": [
+          {
+            "id": "98",
+            "parent": "97",
+            "text": "Subdivisión de las Afasias",
+            "guid": "",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "Clásicamente según síndromes vasculares\ny características del lenguaje:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "100",
+                    "parent": "99",
+                    "text": "Afasias fluentes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "99",
+                    "text": "Afasias no fluentes",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "parent": "97",
+            "text": "Evaluación de la Fluidez",
+            "guid": "",
+            "children": [
+              {
+                "id": "103",
+                "parent": "102",
+                "text": "Características del\nhabla no fluente:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "Producción escasa, pocas\npalabras por minuto",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "103",
+                    "text": "Frases acortadas (5\npalabras o menos)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "103",
+                    "text": "Agramatismo: omisión o sustitución de\npalabras funcionales y sufijos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "103",
+                    "text": "Esfuerzo al hablar, hesitaciones,\nritmo melódico alterado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "103",
+                    "text": "Alteración de la\npraxis del habla",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "109",
+                "parent": "102",
+                "text": "Pruebas específicas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "Repetición de sílabas: /pa/, /ta/, /ka/\n(individualmente y en secuencia)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "Repetición de palabras complejas\n(ej. \"catástrofe\", \"artillería\")",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "97",
+            "text": "Evaluación del Contenido",
+            "guid": "",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "Tipos de errores:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "Errores parafásicos:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "115",
+                        "parent": "114",
+                        "text": "Semánticos: sustitución de\npalabras completas",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "116",
+                        "parent": "114",
+                        "text": "Fonémicos:\nsustituciones\nliterales",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "117",
+                        "parent": "114",
+                        "text": "Neologismos: palabras\nnuevas no existentes",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "118",
+            "parent": "97",
+            "text": "Evaluación de la\nRepetición",
+            "guid": "",
+            "children": [
+              {
+                "id": "119",
+                "parent": "118",
+                "text": "Secuencia de evaluación:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "120",
+                    "parent": "119",
+                    "text": "Habla serial (secuencias\nsobreaprendidas)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "119",
+                    "text": "Oraciones cortas con\npalabras frecuentes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "119",
+                    "text": "Expresiones más largas con\npalabras menos frecuentes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "119",
+                    "text": "Frases complejas de\nbaja frecuencia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "124",
+            "parent": "97",
+            "text": "Evaluación de la\nDenominación",
+            "guid": "",
+            "children": [
+              {
+                "id": "125",
+                "parent": "124",
+                "text": "Métodos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "126",
+                    "parent": "125",
+                    "text": "Denominación de\nobjetos reales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "125",
+                    "text": "Uso de fotografías o\ndibujos lineales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "125",
+                    "text": "Evaluación de verbos\nmediante imágenes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "125",
+                    "text": "Denominación\npor definición",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "130",
+            "parent": "97",
+            "text": "Evaluación de la\nComprensión",
+            "guid": "",
+            "children": [
+              {
+                "id": "131",
+                "parent": "130",
+                "text": "Progresión de comandos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "132",
+                    "parent": "131",
+                    "text": "Órdenes simples\nde un paso",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "131",
+                    "text": "Órdenes múltiples",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "131",
+                    "text": "Comandos que\ncruzan la línea media",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "131",
+                    "text": "Estructuras\ngramaticales\ncomplejas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "136",
+                "parent": "130",
+                "text": "Pruebas específicas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "Test de fichas (Token test)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "Evaluación de\nreconocimiento de\npalabras",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "136",
+                    "text": "Pruebas de discriminación\nde sonidos del habla",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "parent": "97",
+            "text": "Evaluación de la\nLectura y Escritura",
+            "guid": "",
+            "children": [
+              {
+                "id": "141",
+                "parent": "140",
+                "text": "Lectura:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "Lectura en voz alta",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "141",
+                    "text": "Comprensión de lectura",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "141",
+                    "text": "Evaluación de palabras\nregulares e irregulares",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "145",
+                "parent": "140",
+                "text": "Escritura:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "146",
+                    "parent": "145",
+                    "text": "Escritura espontánea",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "145",
+                    "text": "Dictado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "145",
+                    "text": "Denominación escrita de\nobjetos y acciones",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "parent": "97",
+            "text": "Otras Evaluaciones",
+            "guid": "",
+            "children": [
+              {
+                "id": "150",
+                "parent": "149",
+                "text": "Pruebas estandarizadas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "151",
+                    "parent": "150",
+                    "text": "Examen de\nafasia de Boston",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "150",
+                    "text": "Batería de afasia Western",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "150",
+                    "text": "Test de afasia de Aachen",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "154",
+                    "parent": "150",
+                    "text": "Pruebas de fluidez verbal",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "155",
+                "parent": "149",
+                "text": "Evaluación neurológica\ncomplementaria:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "156",
+                    "parent": "155",
+                    "text": "Nivel de consciencia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "157",
+                    "parent": "155",
+                    "text": "Atención y memoria",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "155",
+                    "text": "Praxis y función ejecutiva",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "155",
+                    "text": "Capacidades\nvisuoespaciales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "155",
+                    "text": "Audición",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "155",
+                    "text": "Presencia de disartria",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "155",
+                    "text": "Déficits\nneurológicos\nasociados:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "163",
+                        "parent": "162",
+                        "text": "Alteraciones del\ncampo visual",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "164",
+                        "parent": "162",
+                        "text": "Hemiparesia",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "165",
+                        "parent": "162",
+                        "text": "Hallazgos cerebelosos",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "166",
+                        "parent": "162",
+                        "text": "Alteraciones sensitivas",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "167",
+        "parent": "0",
+        "text": "Síndromes de Afasia",
+        "guid": "",
+        "children": [
+          {
+            "id": "168",
+            "parent": "167",
+            "text": "Afasia de Broca",
+            "guid": "",
+            "children": [
+              {
+                "id": "169",
+                "parent": "168",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "170",
+                    "parent": "169",
+                    "text": "Lenguaje no fluente con\nproducción escasa",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "169",
+                    "text": "Agramatismo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "172",
+                    "parent": "169",
+                    "text": "Repetición alterada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "173",
+                    "parent": "169",
+                    "text": "Comprensión\nrelativamente\npreservada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "169",
+                    "text": "Escritura afectada\nproporcionalmente al habla",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "175",
+                "parent": "168",
+                "text": "Localización y\ndéficits asociados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "Lesiones que afectan\nal lóbulo frontal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "175",
+                    "text": "Frecuente\nhemiparesia\nderecha",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "175",
+                    "text": "Apraxia oral común",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "167",
+            "text": "Afasia de Wernicke",
+            "guid": "",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "181",
+                    "parent": "180",
+                    "text": "Lenguaje fluente pero\nsin significado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "182",
+                    "parent": "180",
+                    "text": "Errores parafásicos y neologismos\nfrecuentes (\"ensalada de palabras\")",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "180",
+                    "text": "Cadencia y\nentonación\nnormales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "180",
+                    "text": "Comprensión\ngravemente alterada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "185",
+                    "parent": "180",
+                    "text": "Alteración similar del\nlenguaje escrito",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "186",
+                    "parent": "180",
+                    "text": "Anosognosia (falta de\nconsciencia del déficit)",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "187",
+                "parent": "179",
+                "text": "Localización y\ndéficits asociados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "188",
+                    "parent": "187",
+                    "text": "Lesiones en el giro\ntemporal superior posterior",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "187",
+                    "text": "Sin déficit motor\ntípicamente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "187",
+                    "text": "Posible defecto del campo\nvisual superior derecho",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "191",
+            "parent": "167",
+            "text": "Afasia de Conducción",
+            "guid": "",
+            "children": [
+              {
+                "id": "192",
+                "parent": "191",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "193",
+                    "parent": "192",
+                    "text": "Lenguaje fluente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "194",
+                    "parent": "192",
+                    "text": "Repetición alterada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "195",
+                    "parent": "192",
+                    "text": "Errores parafásicos frecuentes\n(principalmente fonémicos)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "196",
+                    "parent": "192",
+                    "text": "Comprensión\nrelativamente\npreservada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "197",
+                    "parent": "192",
+                    "text": "Intentos frecuentes de\nautocorrección",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "198",
+                "parent": "191",
+                "text": "Localización y\nasociaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "199",
+                    "parent": "198",
+                    "text": "Lesiones en el giro supramarginal o\nsustancia blanca parietal profunda",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "200",
+                    "parent": "198",
+                    "text": "Puede observarse durante la\nrecuperación de una afasia de Wernicke",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "201",
+                    "parent": "198",
+                    "text": "Habitualmente sin otros\ndéficits neurológicos",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "202",
+            "parent": "167",
+            "text": "Afasia Global",
+            "guid": "",
+            "children": [
+              {
+                "id": "203",
+                "parent": "202",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "204",
+                    "parent": "203",
+                    "text": "Déficits en todas las\nfunciones del lenguaje",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "205",
+                    "parent": "203",
+                    "text": "Mutismo o producción de\nexpresiones sin palabras",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "206",
+                    "parent": "203",
+                    "text": "Incapacidad para\nseguir órdenes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "207",
+                    "parent": "203",
+                    "text": "Posible respuesta a la\nentonación o expresión del habla",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "208",
+                "parent": "202",
+                "text": "Localización y\ndéficits asociados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "209",
+                    "parent": "208",
+                    "text": "Lesión extensa perisilviana que afecta\náreas de Broca y Wernicke",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "210",
+                    "parent": "208",
+                    "text": "Hemiparesia\nderecha frecuente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "211",
+                    "parent": "208",
+                    "text": "Déficit del campo visual\nderecho común",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "212",
+        "parent": "0",
+        "text": "Síndromes de Afasia",
+        "guid": "UMpeIjq0agURYJ2xbFvMiw",
+        "children": [
+          {
+            "id": "213",
+            "parent": "212",
+            "text": "Afasia\nTranscortical\nMotora",
+            "guid": "",
+            "children": [
+              {
+                "id": "214",
+                "parent": "213",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "215",
+                    "parent": "214",
+                    "text": "Lenguaje no fluente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "216",
+                    "parent": "214",
+                    "text": "Buena\ncomprensión y\nrepetición",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "217",
+                    "parent": "214",
+                    "text": "Dificultad para iniciar el habla y\ncompletar pensamientos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "214",
+                    "text": "Escritura alterada\nproporcionalmente",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "219",
+                "parent": "213",
+                "text": "Localización y\nmanifestaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "220",
+                    "parent": "219",
+                    "text": "Lesiones en territorio de arteria\ncerebral anterior y/o watershed",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "219",
+                    "text": "Puede presentar apatía y\nsignos de liberación frontal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "219",
+                    "text": "Posibles signos de vía\npiramidal derechos",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "223",
+            "parent": "212",
+            "text": "Afasia\nTranscortical\nSensorial",
+            "guid": "",
+            "children": [
+              {
+                "id": "224",
+                "parent": "223",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "225",
+                    "parent": "224",
+                    "text": "Lenguaje fluente con\nerrores parafásicos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "226",
+                    "parent": "224",
+                    "text": "Comprensión alterada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "227",
+                    "parent": "224",
+                    "text": "Repetición preservada\n(posible ecolalia)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "228",
+                    "parent": "224",
+                    "text": "Capacidad de lectura en voz\nalta sin comprensión",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "229",
+                "parent": "223",
+                "text": "Localización y\ndéficits asociados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "230",
+                    "parent": "229",
+                    "text": "Lesiones adyacentes al\nárea de Wernicke",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "231",
+                    "parent": "229",
+                    "text": "Sin déficits\nmotores\ntípicamente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "232",
+                    "parent": "229",
+                    "text": "Posibles déficits sensitivos o\nvisuales lateralizados",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "212",
+            "text": "Afasia Transcortical Mixta",
+            "guid": "",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "235",
+                    "parent": "234",
+                    "text": "Similar a afasia global pero con\nrepetición preservada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "236",
+                    "parent": "234",
+                    "text": "Escaso lenguaje\nespontáneo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "237",
+                    "parent": "234",
+                    "text": "Comprensión\ngravemente alterada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "234",
+                    "text": "Capacidad de completar\nfrases comunes iniciadas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "233",
+                "text": "Localización y\nmanifestaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "240",
+                    "parent": "239",
+                    "text": "Lesiones en áreas watershed\nanterior y posterior",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "241",
+                    "parent": "239",
+                    "text": "Posible cuadriparesia\nespástica bilateral",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "239",
+                    "text": "Posibles déficits del\ncampo visual",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "243",
+            "parent": "212",
+            "text": "Afasia Anómica",
+            "guid": "",
+            "children": [
+              {
+                "id": "244",
+                "parent": "243",
+                "text": "Características\nprincipales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "Déficit aislado de\ndenominación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "Lenguaje espontáneo\nfluente con pausas",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "244",
+                    "text": "Circunloquios frecuentes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "248",
+                    "parent": "244",
+                    "text": "Repetición y\ncomprensión\npreservadas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "249",
+                "parent": "243",
+                "text": "Localizaciones descritas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "250",
+                    "parent": "249",
+                    "text": "Lóbulo temporal basal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "251",
+                    "parent": "249",
+                    "text": "Lóbulo temporal\nanterior inferior",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "249",
+                    "text": "Unión\ntemporo-parieto-occipital",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "249",
+                    "text": "Lóbulo parietal inferior",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "254",
+            "parent": "212",
+            "text": "Trastornos\nRelacionados con la\nAfasia",
+            "guid": "",
+            "children": [
+              {
+                "id": "255",
+                "parent": "254",
+                "text": "Sordera Pura\npara Palabras",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "256",
+                    "parent": "255",
+                    "text": "Comprensión preservada\ndel lenguaje escrito",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
+                    "parent": "255",
+                    "text": "Alteración de comprensión\ndel lenguaje hablado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "258",
+                    "parent": "255",
+                    "text": "Lenguaje espontáneo\ngeneralmente normal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "255",
+                    "text": "Lesiones en giro\ntemporal superior",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "260",
+                "parent": "254",
+                "text": "Alexia sin Agrafia",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "261",
+                    "parent": "260",
+                    "text": "Capacidad de escribir\npero no de leer",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "262",
+                    "parent": "260",
+                    "text": "Lenguaje oral preservado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "260",
+                    "text": "Lesiones en lóbulo occipital izquierdo y\nesplenio del cuerpo calloso",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "260",
+                    "text": "Defecto del campo\nvisual derecho",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "265",
+                "parent": "254",
+                "text": "Mutismo Puro para\nPalabras (Afemia)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "266",
+                    "parent": "265",
+                    "text": "Déficit en\nproducción del\nhabla",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "parent": "265",
+                    "text": "Comprensión\nauditiva preservada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "265",
+                    "text": "Capacidad de\nescritura preservada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "265",
+                    "text": "Lesiones en o alrededor\ndel área de Broca",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "270",
+        "parent": "0",
+        "text": "Evaluación y Tratamiento",
+        "guid": "1ed147Q0zXhvwi7DVXFoAg",
+        "children": [
+          {
+            "id": "271",
+            "parent": "270",
+            "text": "Pruebas Diagnósticas",
+            "guid": "",
+            "children": [
+              {
+                "id": "272",
+                "parent": "271",
+                "text": "Pruebas de imagen",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "273",
+                    "parent": "272",
+                    "text": "TC o RM cerebral:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "274",
+                        "parent": "273",
+                        "text": "Detección de\nlesiones\nestructurales",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "275",
+                        "parent": "273",
+                        "text": "Identificación de infartos,\ntumores o anomalías",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "276",
+                    "parent": "272",
+                    "text": "RM funcional:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "277",
+                        "parent": "276",
+                        "text": "Determinación de áreas activas\ndurante tareas lingüísticas",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "278",
+                    "parent": "272",
+                    "text": "Angiografía:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "279",
+                        "parent": "278",
+                        "text": "Detección de\nenfermedades\nvasculares",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "280",
+                    "parent": "272",
+                    "text": "Tomografía por emisión de\npositrones (PET):",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "281",
+                        "parent": "280",
+                        "text": "Estudio del\nmetabolismo\ncerebral",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "282",
+                "parent": "271",
+                "text": "Estudios\nelectrofisiológicos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "283",
+                    "parent": "282",
+                    "text": "EEG:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "284",
+                        "parent": "283",
+                        "text": "Identificación de descargas\nepilépticas asociadas",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "285",
+                        "parent": "283",
+                        "text": "Evaluación de actividad\neléctrica cerebral",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "286",
+                    "parent": "282",
+                    "text": "Potenciales evocados:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "287",
+                        "parent": "286",
+                        "text": "Identificación de anomalías en\nlas vías sensoriales",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "288",
+                "parent": "271",
+                "text": "Pruebas\nNeuropsicológicas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "289",
+                    "parent": "288",
+                    "text": "Pruebas estándar:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "290",
+                        "parent": "289",
+                        "text": "Examen de\nafasia de Boston",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "291",
+                        "parent": "289",
+                        "text": "Batería de afasia Western",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "292",
+                        "parent": "289",
+                        "text": "Pruebas de fluidez verbal",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "293",
+                    "parent": "288",
+                    "text": "Evaluación\ncomplementaria:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "294",
+                        "parent": "293",
+                        "text": "Memoria",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "295",
+                        "parent": "293",
+                        "text": "Atención",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "296",
+                        "parent": "293",
+                        "text": "Función ejecutiva",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "297",
+                        "parent": "293",
+                        "text": "Habilidades\nvisuoespaciales",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "298",
+            "parent": "270",
+            "text": "Objetivos Terapéuticos",
+            "guid": "",
+            "children": [
+              {
+                "id": "299",
+                "parent": "298",
+                "text": "Mejorar la comunicación:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "300",
+                    "parent": "299",
+                    "text": "Incrementar la\nproducción del habla",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "301",
+                    "parent": "299",
+                    "text": "Optimizar la comprensión",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "parent": "299",
+                    "text": "Mejorar la\nlectura y\nescritura",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "303",
+                "parent": "298",
+                "text": "Rehabilitación de funciones\nlingüísticas perdidas",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "304",
+                "parent": "298",
+                "text": "Promoción de\nestrategias\ncompensatorias",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "305",
+            "parent": "270",
+            "text": "Tratamientos",
+            "guid": "",
+            "children": [
+              {
+                "id": "306",
+                "parent": "305",
+                "text": "Terapia del Habla\ny Lenguaje",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "307",
+                    "parent": "306",
+                    "text": "Estrategias específicas:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "308",
+                        "parent": "307",
+                        "text": "Prácticas intensivas de\nlenguaje oral y escrito",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "309",
+                        "parent": "307",
+                        "text": "Ejercicios de repetición\ny denominación",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "310",
+                        "parent": "307",
+                        "text": "Técnicas de\ncomprensión\nauditiva",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "311",
+                        "parent": "307",
+                        "text": "Intervenciones en\nlectura y escritura",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "312",
+                    "parent": "306",
+                    "text": "Programas personalizados\nsegún tipo de afasia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "313",
+                "parent": "305",
+                "text": "Terapias Tecnológicas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "314",
+                    "parent": "313",
+                    "text": "Sistemas de comunicación\naumentativa y alternativa (CAA):",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "315",
+                        "parent": "314",
+                        "text": "Dispositivos para pacientes\ncon déficits graves",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "316",
+                    "parent": "313",
+                    "text": "Software interactivo:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "317",
+                        "parent": "316",
+                        "text": "Programas de\nrehabilitación en línea",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "318",
+                        "parent": "316",
+                        "text": "Ejercicios\ninteractivos de\nlenguaje",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "319",
+                    "parent": "313",
+                    "text": "Estimulación\ncerebral no\ninvasiva:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "320",
+                        "parent": "319",
+                        "text": "Estimulación magnética\ntranscraneal (TMS)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "321",
+                        "parent": "319",
+                        "text": "Estimulación eléctrica\ntranscraneal (tDCS)",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "322",
+                "parent": "305",
+                "text": "Farmacoterapia",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "323",
+                    "parent": "322",
+                    "text": "Medicamentos:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "324",
+                        "parent": "323",
+                        "text": "Modafinilo:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "325",
+                            "parent": "324",
+                            "text": "Estímulo cognitivo en\nafasia postictus",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "326",
+                        "parent": "323",
+                        "text": "Dopaminérgicos:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "327",
+                            "parent": "326",
+                            "text": "Estimulación de\nfunciones lingüísticas",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "328",
+                        "parent": "323",
+                        "text": "Otros agentes:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "329",
+                            "parent": "328",
+                            "text": "Inhibidores de la\ncolinesterasa",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "330",
+                            "parent": "328",
+                            "text": "Antidepresivos para\nsíntomas asociados",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "331",
+                "parent": "305",
+                "text": "Intervenciones\nPsicológicas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "332",
+                    "parent": "331",
+                    "text": "Apoyo emocional:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "333",
+                        "parent": "332",
+                        "text": "Estrategias para manejar\nfrustración y ansiedad",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "334",
+                    "parent": "331",
+                    "text": "Terapia\ncognitivo-conductual:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "335",
+                        "parent": "334",
+                        "text": "Mejora de adaptación a\ncambios funcionales",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "336",
+                    "parent": "331",
+                    "text": "Grupos de apoyo:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "337",
+                        "parent": "336",
+                        "text": "Interacción con otros\npacientes y familias",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "338",
+            "parent": "270",
+            "text": "Manejo Integral\ndel Paciente",
+            "guid": "",
+            "children": [
+              {
+                "id": "339",
+                "parent": "338",
+                "text": "Intervenciones\nmultidisciplinarias:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "340",
+                    "parent": "339",
+                    "text": "Neurólogos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "341",
+                    "parent": "339",
+                    "text": "Logopedas",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "342",
+                    "parent": "339",
+                    "text": "Psicólogos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "343",
+                    "parent": "339",
+                    "text": "Terapeutas ocupacionales",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "344",
+                "parent": "338",
+                "text": "Apoyo familiar:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "345",
+                    "parent": "344",
+                    "text": "Educación sobre\nla condición",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "346",
+                    "parent": "344",
+                    "text": "Estrategias de\ncomunicación\nadaptadas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "347",
+                "parent": "338",
+                "text": "Seguimiento continuo:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "348",
+                    "parent": "347",
+                    "text": "Monitoreo de\nprogresos\nlingüísticos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "349",
+                    "parent": "347",
+                    "text": "Adaptación de estrategias según\nnecesidades del paciente",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "350",
+            "parent": "270",
+            "text": "Factores Pronósticos",
+            "guid": "",
+            "children": [
+              {
+                "id": "351",
+                "parent": "350",
+                "text": "Tipo de afasia:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "352",
+                    "parent": "351",
+                    "text": "Mayor recuperación en\nafasias no fluentes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "353",
+                    "parent": "351",
+                    "text": "Pronóstico reservado\nen afasia global",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "354",
+                "parent": "350",
+                "text": "Tiempo de inicio\ndel tratamiento:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "355",
+                    "parent": "354",
+                    "text": "Mejoras significativas con\nintervenciones tempranas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "356",
+                "parent": "350",
+                "text": "Edad del paciente:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "357",
+                    "parent": "356",
+                    "text": "Jóvenes presentan\nmejores resultados",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "358",
+                "parent": "350",
+                "text": "Localización y\nextensión de la lesión:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "359",
+                    "parent": "358",
+                    "text": "Lesiones pequeñas tienen\nmejor recuperación",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "360",
+                "parent": "350",
+                "text": "Factores psicológicos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "361",
+                    "parent": "360",
+                    "text": "Motivación y apoyo social\nclave en la rehabilitación",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "362",
+        "parent": "0",
+        "text": "Perspectivas Futuras en el\nManejo de la Afasia",
+        "guid": "fJ2lDrFM6aM3j1bEbO0KgA",
+        "children": [
+          {
+            "id": "363",
+            "parent": "362",
+            "text": "Investigaciones en\nNeuroplasticidad",
+            "guid": "",
+            "children": [
+              {
+                "id": "364",
+                "parent": "363",
+                "text": "Evidencia de\nreorganización\ncortical:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "365",
+                    "parent": "364",
+                    "text": "El cerebro puede adaptar\nnuevas áreas para funciones\nlingüísticas tras lesiones",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "366",
+                "parent": "363",
+                "text": "Estimulación dirigida:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "367",
+                    "parent": "366",
+                    "text": "Optimización de vías neuronales\nalternativas mediante terapias intensivas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "368",
+                "parent": "363",
+                "text": "Factores que influyen en\nla neuroplasticidad:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "369",
+                    "parent": "368",
+                    "text": "Edad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "370",
+                    "parent": "368",
+                    "text": "Gravedad de la lesión",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "371",
+                    "parent": "368",
+                    "text": "Motivación del paciente",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "372",
+            "parent": "362",
+            "text": "Nuevas Tecnologías",
+            "guid": "",
+            "children": [
+              {
+                "id": "373",
+                "parent": "372",
+                "text": "Avances en\ninteligencia\nartificial:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "374",
+                    "parent": "373",
+                    "text": "Desarrollo de dispositivos que\ninterpretan lenguaje y voz",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "375",
+                    "parent": "373",
+                    "text": "Sistemas de traducción para\nlenguaje gestual o escrito",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "376",
+                "parent": "372",
+                "text": "Dispositivos de\nestimulación:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "377",
+                    "parent": "376",
+                    "text": "Nuevas técnicas de\nestimulación cerebral\nprofunda",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "378",
+                    "parent": "376",
+                    "text": "Desarrollo de neuroprótesis para\nmejorar funciones lingüísticas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "379",
+                "parent": "372",
+                "text": "Realidad virtual y\naumentada:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "380",
+                    "parent": "379",
+                    "text": "Entornos inmersivos para practicar\nhabilidades de comunicación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "381",
+                    "parent": "379",
+                    "text": "Ejercicios interactivos basados\nen escenarios reales",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "382",
+                "parent": "372",
+                "text": "Aplicaciones móviles:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "383",
+                    "parent": "382",
+                    "text": "Evaluación y terapia accesibles\ndesde dispositivos personales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "384",
+                    "parent": "382",
+                    "text": "Seguimiento continuo con\nretroalimentación personalizada",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "385",
+            "parent": "362",
+            "text": "Terapias Basadas en\nGenómica y Farmacología",
+            "guid": "",
+            "children": [
+              {
+                "id": "386",
+                "parent": "385",
+                "text": "Terapias génicas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "387",
+                    "parent": "386",
+                    "text": "Posible reparación de circuitos dañados\nmediante modificación genética",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "388",
+                "parent": "385",
+                "text": "Nuevos medicamentos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "389",
+                    "parent": "388",
+                    "text": "Agentes neuroprotectores para\nprevenir daño secundario",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "390",
+                    "parent": "388",
+                    "text": "Medicamentos que potencien la\nactividad sináptica y la plasticidad",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "391",
+                "parent": "385",
+                "text": "Investigación en\nbiomarcadores:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "392",
+                    "parent": "391",
+                    "text": "Identificación de\npredictores de\nrecuperación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "393",
+                    "parent": "391",
+                    "text": "Monitoreo de\nrespuesta\nterapéutica",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "394",
+            "parent": "362",
+            "text": "Avances en\nTécnicas de\nImagen",
+            "guid": "",
+            "children": [
+              {
+                "id": "395",
+                "parent": "394",
+                "text": "Resonancia magnética\nfuncional avanzada:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "396",
+                    "parent": "395",
+                    "text": "Monitoreo en tiempo real de la\nactividad cerebral durante terapia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "397",
+                "parent": "394",
+                "text": "Imágenes por\ntensor de difusión:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "398",
+                    "parent": "397",
+                    "text": "Estudio de vías de\nconectividad cerebral\nafectadas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "399",
+                "parent": "394",
+                "text": "Tomografía por emisión de\npositrones (PET):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "400",
+                    "parent": "399",
+                    "text": "Evaluación del metabolismo\ncerebral en regiones específicas",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "401",
+            "parent": "362",
+            "text": "Estrategias de Inclusión\nSocial y Educación",
+            "guid": "",
+            "children": [
+              {
+                "id": "402",
+                "parent": "401",
+                "text": "Adaptación en el\nentorno social:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "403",
+                    "parent": "402",
+                    "text": "Iniciativas para mejorar la\nintegración de pacientes con afasia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "404",
+                "parent": "401",
+                "text": "Formación de\ncuidadores y familias:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "405",
+                    "parent": "404",
+                    "text": "Técnicas de\ncomunicación\nefectiva",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "406",
+                    "parent": "404",
+                    "text": "Sensibilización sobre el impacto\nemocional de la afasia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "407",
+                "parent": "401",
+                "text": "Educación pública:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "408",
+                    "parent": "407",
+                    "text": "Campañas para reducir el estigma\nasociado a trastornos del lenguaje",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 409,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "UTD 2025. Afasia-2025",
+  "id": "map_1658",
+  "resolved_references": []
+}

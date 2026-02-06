@@ -1,0 +1,1976 @@
+{
+  "title": "E. Párkinson Procedimientos UTD 2025",
+  "guid": "7FB808448995E7F71C50E8B1",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/UTD. E. Párkinson Procedimientos-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "E. Párkinson\nProcedimientos\nUTD 2025",
+    "guid": "c4rMfP6OVKa9P4BtQ8T8_w",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Procedimientos con dispositivos y técnicas\nlesionales en la enfermedad de Parkinson (EP)",
+        "guid": "nH9ETHBKJbNW9gmhLJKY2g",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "✔ Indicados en pacientes con fluctuaciones motoras, discinesias o temblor refractario",
+            "guid": "5Qoybw0jm00RBCxPiX4rjg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "✔ No modifican la progresión de la enfermedad → Solo mejoran síntomas",
+            "guid": "zsmdgU66iLZwHIpsjeC31A",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "1. Selección de\npacientes",
+            "guid": "MGMoCmxSqju1q5mYYC38og",
+            "children": [
+              {
+                "id": "5",
+                "parent": "4",
+                "text": "✔ Criterios de\nelegibilidad:",
+                "guid": "IwuUMh2aBhnJXXlVa4vHFg",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "• Respuesta clara a levodopa",
+                    "guid": "SUYOMXqlTVw4XSDlYJGLRA",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "5",
+                    "text": "• Fluctuaciones motoras y/o discinesias que reducen calidad de vida",
+                    "guid": "--ghLvwJjPksXtYKzk2mHw",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "5",
+                    "text": "• Temblor refractario a levodopa (para estimulación cerebral profunda - DBS)",
+                    "guid": "_RuaoBDFo2MfJ3YZL84wkw",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "5",
+                    "text": "• Fluctuaciones no motoras en “off” (dolor, ataques de pánico, acatisia)",
+                    "guid": "HmKYL1NOAg-pnK3e1giHUQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10",
+                "parent": "4",
+                "text": "✔ Reglas\ngenerales:",
+                "guid": "DulA5tcv8T9zB_sgXqGFuQ",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "⚠ No mejoran síntomas axiales refractarios a levodopa →\nInestabilidad postural, disartria, disfagia, freezing en “on”",
+                    "guid": "bFQV5H68bL0-e-jk3Wdjyg",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "⚠ Mejor respuesta preoperatoria a levodopa = mejor resultado postquirúrgico",
+                    "guid": "BjGI4mHyxzaUEF1Ee-nXAA",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "⚠ Excepción → DBS mejora temblor refractario a levodopa",
+                    "guid": "5VV_5ng1QBMOVyOCAhZ3qw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "parent": "1",
+            "text": "2. Exclusiones y\nprecauciones",
+            "guid": "lNZwVuVW7jvtE2JOkuf0YQ",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "❌ Causas secundarias de parkinsonismo (fármacos, vascular, atrofia multisistémica)",
+                "guid": "ZOUe_VkPDhnkCLG0Q7mN0A",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "❌ Demencia o deterioro cognitivo significativo → No candidatos",
+                "guid": "vOL3d0s2Vf5aPT7DqOJS1w",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "14",
+                "text": "❌ Psicosis activa, depresión no controlada, alto riesgo de suicidio\n→ Requiere estabilización psiquiátrica antes de la intervención",
+                "guid": "6V2VLdRImCA3V4TcDGiCfA",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "14",
+                "text": "✔ Pacientes con deterioro cognitivo leve-moderado\n→ Pueden considerarse para terapias de infusión",
+                "guid": "3rc3C8OzQDLdJKEQ15K52Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "parent": "1",
+            "text": "3. Evaluación\nmultidisciplinaria",
+            "guid": "iTgiMYMho6wSCK8aPyldCQ",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "✔ Equipo especializado → Neurólogo, neurocirujano funcional, neuropsicólogo",
+                "guid": "42N-ngItTQ-7pgIBRUtydQ",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "19",
+                "text": "✔ Puede incluir → Psiquiatra, fonoaudiólogo, fisioterapeuta, terapeuta ocupacional, enfermería, trabajador social",
+                "guid": "zKoJfdCj_wCL0Mxswq-vjQ",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "19",
+                "text": "✔ Objetivos de\nla evaluación:",
+                "guid": "mdhaZ2xaXZGTI97BOBzSAg",
+                "children": [
+                  {
+                    "id": "23",
+                    "parent": "22",
+                    "text": "✅ Confirmar diagnóstico de EP típica",
+                    "guid": "4fFDRY-A-Pm1cGG_Pg8Fxw",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "22",
+                    "text": "✅ Asegurar prueba adecuada de fármacos dopaminérgicos",
+                    "guid": "ef6fFsCikL2JjellrKPOAA",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "22",
+                    "text": "✅ Observar el cambio de “off” a “on” con levodopa",
+                    "guid": "_ji5gu-0sV9D4h5xxQXN9w",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "22",
+                    "text": "✅ Evaluar riesgo quirúrgico",
+                    "guid": "PmwV8drkCJ0dCOZtr1W66g",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "22",
+                    "text": "✅ Detectar deterioro cognitivo/demencia o problemas psiquiátricos",
+                    "guid": "snuBhYF1DRf8OBvp83PJMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "22",
+                    "text": "✅ Educar sobre opciones terapéuticas, riesgos, beneficios y expectativas realistas",
+                    "guid": "lZHf3ZPHCU0KslvupSdAQQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "parent": "19",
+                "text": "✔ Decisión final:",
+                "guid": "hg3Q0hQGWBvYXfcUlsvCAg",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "📌 El equipo discute cada caso y selecciona la mejor opción terapéutica para el paciente",
+                    "guid": "czxzeWKqFQZwpApOaAgTRA",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "📌 Se informa al paciente y cuidadores la recomendación consensuada",
+                    "guid": "8VKrz08i_nJmTn4N-YGllg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "Selección del procedimiento en la\nenfermedad de Parkinson (EP)",
+        "guid": "czzhOzxDVBwDa4AKwwzIWA",
+        "children": [
+          {
+            "id": "33",
+            "parent": "32",
+            "text": "✔ Opciones disponibles para\ncomplicaciones motoras refractarias:",
+            "guid": "MWPjZ7arqdRaewtfo0Jaeg",
+            "children": [
+              {
+                "id": "34",
+                "parent": "33",
+                "text": "• Estimulación cerebral profunda (DBS)",
+                "guid": "Crz076znpW92qFSw4NhC-g",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "33",
+                "text": "• Infusión intestinal continua de levodopa-carbidopa (LCIG)",
+                "guid": "r5cZI101kj6uPFe82C9Mjw",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "33",
+                "text": "• Infusión subcutánea continua de apomorfina (CSAI)",
+                "guid": "1psOs4DpUuvmXKtGuWUJ5g",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "33",
+                "text": "• Infusión subcutánea continua de foslevodopa-foscarbidopa (CSI)",
+                "guid": "D_O-RQJvMYKf--xTUcBGiQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "32",
+            "text": "✔ Opciones\nlesionales:",
+            "guid": "jguhYtvq2OvWWirDJXWRpA",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "• Palidotomía unilateral con ultrasonido focalizado (FUS-MRI) → Para discinesias/fluctuaciones asimétricas",
+                "guid": "5TnqYfHVKwIEQeV5ZD7eXw",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "• Talamotomía unilateral con FUS-MRI → Para temblor refractario",
+                "guid": "ntKiS9LW_xYwkPNdDrr-wQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "32",
+            "text": "✔ DBS es la única opción quirúrgica\npara temblor refractario a medicación",
+            "guid": "k3zTNdFCliw1Dn0vcClj0g",
+            "children": []
+          },
+          {
+            "id": "42",
+            "parent": "32",
+            "text": "1. Pacientes con complicaciones\nmotoras incapacitantes",
+            "guid": "uTuFL2d1mOAdvtMr81hlVA",
+            "children": [
+              {
+                "id": "43",
+                "parent": "42",
+                "text": "✔ DBS",
+                "guid": "wFLdhw-hJrhPPcwBxOi0aQ",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "✅ Más datos de eficacia en ensayos clínicos",
+                    "guid": "9uSRVm1wg3yFQYNbakcIXA",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "✅ Se puede ajustar a lo largo del tiempo",
+                    "guid": "BSWIHDkShYXFceUWnZcIag",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "43",
+                    "text": "⚠ Requiere cirugía cerebral y generador de pulso",
+                    "guid": "i0EjDiA1W0kJLtEIwAvBgw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "43",
+                    "text": "⚠ Riesgo de infección, hemorragia y fallas mecánicas",
+                    "guid": "Vc6lL7gXHtBMf8ntviYTPA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48",
+                "parent": "42",
+                "text": "✔ LCIG (Infusión intestinal\nde levodopa-carbidopa)",
+                "guid": "ShkMuf_2tbHhqGGQ0hN9MQ",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "✅ Reduce tiempo “off” y aumenta tiempo “on”",
+                    "guid": "YUsZVeHC-TjXQSH7-PxOrA",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "48",
+                    "text": "⚠ Requiere colocación de tubo de gastro-yeyunostomía",
+                    "guid": "2cPWiXnMv5NTexE7LcJ8ZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "48",
+                    "text": "⚠ Necesita cuidados diarios del estoma y uso de bomba portátil",
+                    "guid": "rTgYz3PJukiuvEGYEiq87Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52",
+                "parent": "42",
+                "text": "✔ CSAI (Infusión\nsubcutánea de apomorfina)",
+                "guid": "UlIODCago0MvgIF4L6EZOQ",
+                "children": [
+                  {
+                    "id": "53",
+                    "parent": "52",
+                    "text": "✅ No requiere cirugía",
+                    "guid": "LkvoI2sjxlU8yfmUa8Nekg",
+                    "children": []
+                  },
+                  {
+                    "id": "54",
+                    "parent": "52",
+                    "text": "⚠ Uso de aguja subcutánea → Reacciones en piel y nódulos",
+                    "guid": "ScKBsbm8viFmQLe8Zrjo8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "55",
+                    "parent": "52",
+                    "text": "⚠ Puede requerir levodopa oral adicional",
+                    "guid": "DCVcnkagT2lukuuhJKen0A",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "52",
+                    "text": "⚠ No disponible en EE.UU.",
+                    "guid": "r8rBwb8ORYzOhwqUGD1EKA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57",
+                "parent": "42",
+                "text": "✔ CSI de\nfoslevodopa-foscarbidopa",
+                "guid": "mLQrcHTHTkrkuIGHx5RGzw",
+                "children": [
+                  {
+                    "id": "58",
+                    "parent": "57",
+                    "text": "✅ Similar a CSAI (sin necesidad de cirugía)",
+                    "guid": "HuRlihx1Z-luIUgFcdSiDA",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "57",
+                    "text": "✅ Aprobado en EE.UU., Canadá y Europa",
+                    "guid": "EzUCtVenrbxaN8ub61k2kQ",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "57",
+                    "text": "⚠ Riesgo de infecciones y nódulos en el sitio de infusión",
+                    "guid": "Ulf7wygntanhhjKa1BXbYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "parent": "32",
+            "text": "2. Pacientes con\ntemblor refractario",
+            "guid": "UMDFERE_TZsDDdkbGvTm_w",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "✔ DBS → Más efectiva\nque otras opciones",
+                "guid": "gP9Oou97M_FErjAH0D6Rcg",
+                "children": [
+                  {
+                    "id": "63",
+                    "parent": "62",
+                    "text": "• Núcleo ventral intermedio (VIM) → Solo mejora temblor",
+                    "guid": "mmxYX588VHLnUgqGdPYYPQ",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "62",
+                    "text": "• Núcleo subtalámico (STN) / Globo pálido interno (GPi) → Mejora temblor, rigidez y bradicinesia",
+                    "guid": "k7K61L2W4S6yVGajNCqaIw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65",
+                "parent": "61",
+                "text": "✔ Talamotomía unilateral con FUS-MRI\n→ Alternativa si DBS no está disponible",
+                "guid": "U-nXZQaINxvClHo24jnkYg",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "⚠ No trata fluctuaciones motoras de EP",
+                    "guid": "eJRRSM4JMnSB1NlGmn5BlA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "32",
+            "text": "3. Pacientes en zonas con\nrecursos limitados",
+            "guid": "SYWbnvUGa1BWekOo-PAUKA",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "✔ Terapias con dispositivos requieren mantenimiento y seguimiento a largo plazo",
+                "guid": "K6gtgp4gEmI-hUPvkL-XdQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "✔ Alternativas:",
+                "guid": "8njRc0V0u4aoUFDY2voPuQ",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "• Palidotomía unilateral (FUS-MRI) → Para complicaciones motoras",
+                    "guid": "2A0bs9IiStJolMTFFQpFvQ",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "69",
+                    "text": "• Talamotomía unilateral → Para temblor refractario",
+                    "guid": "_DViUSXHwr8r-fv6Z0zebg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "parent": "0",
+        "text": "Estimulación cerebral profunda (DBS)\nen la enfermedad de Parkinson (EP)",
+        "guid": "x-U_MgEDEp67tYe5YRSIog",
+        "children": [
+          {
+            "id": "73",
+            "parent": "72",
+            "text": "✔ Procedimiento quirúrgico más utilizado en EP avanzada",
+            "guid": "oxzzka0Lc291PhTBw_Yc8A",
+            "children": []
+          },
+          {
+            "id": "74",
+            "parent": "72",
+            "text": "✔ Objetivo: Reducir fluctuaciones motoras y discinesias",
+            "guid": "AckGpiotpkKycG-caBj1_g",
+            "children": []
+          },
+          {
+            "id": "75",
+            "parent": "72",
+            "text": "✔ Blancos\nprincipales:",
+            "guid": "eGHG2PqpB3k2oohGQnYOog",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "• Núcleo subtalámico (STN)",
+                "guid": "dB11jLAVwqoxGXGoHM6uCg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "• Globo pálido interno (GPi)",
+                "guid": "k6ZClVlG2WEzRRCn4OS-Dg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "parent": "72",
+            "text": "✔ DBS en núcleo ventral intermedio (VIM) del tálamo → Solo mejora temblor",
+            "guid": "0xJTInF75idpw6kBJKq3eg",
+            "children": []
+          },
+          {
+            "id": "79",
+            "parent": "72",
+            "text": "1. Procedimiento y\nmecanismo de acción",
+            "guid": "AYIM7hvA0Ps1H1g7B2ivXg",
+            "children": [
+              {
+                "id": "80",
+                "parent": "79",
+                "text": "✔ Cirugía estereotáxica para implantar electrodos bilaterales",
+                "guid": "Mmgrkvww2A16wvYRiyZamA",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "79",
+                "text": "✔ Conectados a un generador de impulsos implantado en el tórax",
+                "guid": "t_LjrasB_HpgP1kDkQTtig",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "79",
+                "text": "✔ DBS inhibe la hiperactividad del STN o GPi, restaurando la actividad tálamo-cortical",
+                "guid": "vd8VOxsU2OOa9ne2zPXgkA",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "79",
+                "text": "✔ No destruye tejido cerebral → Reemplazó a la palidotomía/talamotomía en centros especializados",
+                "guid": "AmJxb0WxSIT9t2DO-sFbWg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "parent": "72",
+            "text": "2. Eficacia en EP con\ncomplicaciones motoras",
+            "guid": "TyygtTCaTF0V8r-dWxifmA",
+            "children": [
+              {
+                "id": "85",
+                "parent": "84",
+                "text": "✔ Ensayos clínicos muestran\nmejoría significativa en:",
+                "guid": "tR4hWXSI4zkjWzq1Hfbreg",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "• Tiempo “on” sin discinesias",
+                    "guid": "0x0nxv7mTHwSkMO0WNqkig",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "85",
+                    "text": "• Función motora",
+                    "guid": "jM5UP_E5Yb2MlqIvegR0NQ",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "85",
+                    "text": "• Calidad de vida",
+                    "guid": "pJVFlnro2o0PLChqYz8-Dg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "89",
+                "parent": "84",
+                "text": "✔ Estudios\nclave:",
+                "guid": "mHxwgNVzLA9YHF92l2wFmA",
+                "children": [
+                  {
+                    "id": "90",
+                    "parent": "89",
+                    "text": "✅ INTREPID → DBS-STN mejoró tiempo “on” en 3 horas vs placebo",
+                    "guid": "Me1FmjG4VXcQV92NGRFXzg",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "89",
+                    "text": "✅ VA-NIH → DBS (STN o GPi) mejoró función motora en 71% vs 32% con terapia médica",
+                    "guid": "kZRdpRLZz-P9OkgnsIbiNg",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "89",
+                    "text": "✅ EARLYSTIM → DBS-STN en EP temprana mejoró calidad de vida y redujo complicaciones motoras",
+                    "guid": "ReAQ_81Li_hG6q79EaDktQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93",
+                "parent": "84",
+                "text": "✔ Comparación\nSTN vs GPi:",
+                "guid": "hrPB2tGuvuneGNJFfH78ag",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "• STN-DBS → Mayor reducción de medicación dopaminérgica",
+                    "guid": "94cqx8Ak8Iepx1dMnzNyjw",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "• GPi-DBS → Mayor reducción de discinesias",
+                    "guid": "22iBfyaCcDa2eiVJwcnQmA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96",
+                "parent": "84",
+                "text": "✔ Síntomas que NO\nmejoran con DBS:",
+                "guid": "Wuv_21YToABNSX51_ytiAQ",
+                "children": [
+                  {
+                    "id": "97",
+                    "parent": "96",
+                    "text": "• Inestabilidad postural",
+                    "guid": "7WJhSeg8QB-tpAszV4_HXg",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "96",
+                    "text": "• Freezing en “on”",
+                    "guid": "p1DuKHY-3RF_33dE-_yTWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "96",
+                    "text": "• Disartria",
+                    "guid": "X1oBgXJcE5G_5MA1rtazjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "96",
+                    "text": "• Deterioro cognitivo",
+                    "guid": "8zNkXMjdQO_Qcr6FcUAqSw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "parent": "72",
+            "text": "3. Duración\ndel beneficio",
+            "guid": "wYFTBOZiaxG67_f019qEZA",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "✔ Beneficio\nmantenido en:",
+                "guid": "xM3_3H6W0x9jZx8g7Fz5hw",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "• Reducción de temblor y rigidez",
+                    "guid": "tPy4vvO4lZf1KsZaolEFiA",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "• Control de discinesias y fluctuaciones",
+                    "guid": "-_ks6Ez-iPL8cdrUREVKfA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "105",
+                "parent": "101",
+                "text": "✔ Bradicinesia y síntomas axiales → Deterioro progresivo a los 5 años",
+                "guid": "UYlv4yvK9kY0cwWO1zPhtw",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "101",
+                "text": "✔ Tasa de demencia a 10 años → 26% (similar a EP sin DBS)",
+                "guid": "NJgCS-kfngtrQ3JOrzTLLg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "107",
+            "parent": "72",
+            "text": "4. Complicaciones y\nefectos adversos",
+            "guid": "0wzIe2UunQalztkCxymxgw",
+            "children": [
+              {
+                "id": "108",
+                "parent": "107",
+                "text": "✔ Quirúrgicas:",
+                "guid": "zSeF5lYa1PChoTrSCyOlLA",
+                "children": [
+                  {
+                    "id": "109",
+                    "parent": "108",
+                    "text": "• Mortalidad: 0.6%",
+                    "guid": "sOuanGGEFLm333y6UObZag",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "108",
+                    "text": "• Hemorragia intracerebral: 3.1-3. 9%",
+                    "guid": "wbjsz-PeAyIbyP6z4X88Fw",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "108",
+                    "text": "• Infección: 1.7-5.6%",
+                    "guid": "cBBMwONgdO_Qvg5KZnlk3A",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "108",
+                    "text": "• Convulsiones: 1.1-1.5%",
+                    "guid": "nSr8N_hK7Vdkby5mfOsPzQ",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "108",
+                    "text": "• Confusión/desorientación: 2.8-16%",
+                    "guid": "ToI8EUt1pbb1aQsm-SgDEA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "114",
+                "parent": "107",
+                "text": "✔ Relacionadas\ncon hardware:",
+                "guid": "l0_FtmootPZ0ZfFKhi7kRQ",
+                "children": [
+                  {
+                    "id": "115",
+                    "parent": "114",
+                    "text": "• Malfunción o migración de electrodos → 5%",
+                    "guid": "SSsetVTZW_Q_mXlyJlK74A",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "114",
+                    "text": "• Reacciones alérgicas → <1%",
+                    "guid": "Zto-K-zH9auCkKScvY40Vg",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "114",
+                    "text": "• Vida útil del generador: 3-5 años (reemplazo quirúrgico)",
+                    "guid": "WGv0CmQWtHx5Ro6gf3b7iw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "118",
+                "parent": "107",
+                "text": "✔ Por estimulación:",
+                "guid": "8BjpmuXkuzEYKk0l0_bG1w",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "• Parestesias",
+                    "guid": "dtHqVBFa8Bih6fMLjB3-vA",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "• Disartria",
+                    "guid": "SZpLizKdX779-T2z71s8gg",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "118",
+                    "text": "• Apraxia de apertura palpebral",
+                    "guid": "729LAXCwAIKuiyxuJSE6lg",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "118",
+                    "text": "• Hemibalismo",
+                    "guid": "dTe8NMbEEu-Eczquhbis7g",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "118",
+                    "text": "• Ataxia",
+                    "guid": "kTuKp4FhXakCi8OtD00ixg",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "118",
+                    "text": "• Discinesias",
+                    "guid": "V4BRfFP1SXmNzoGjdMhPcw",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "118",
+                    "text": "• Aumento de peso (8%)",
+                    "guid": "pPV7cydfTUJmXn45l_Mepw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "126",
+                "parent": "107",
+                "text": "✔ Neuropsiquiátricas:",
+                "guid": "p_M2sMtBtVHE2lwkmKIA-g",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "• Psicosis",
+                    "guid": "Rg448KYBb-c-HFFCdDTesA",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "126",
+                    "text": "• Aumento de conductas impulsivas",
+                    "guid": "Yr0jp5q2vhK6EAoPvM0UZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "126",
+                    "text": "• Hipersexualidad",
+                    "guid": "eJYzqimcRaaQ47mmtQm6nQ",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "126",
+                    "text": "• Aumento de apatía",
+                    "guid": "KsBciVps5fIAST9L92fKuA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "131",
+                "parent": "107",
+                "text": "✔ Riesgo de\nsuicidio:",
+                "guid": "GoRgt1URoo817Jo6x9jbEg",
+                "children": [
+                  {
+                    "id": "132",
+                    "parent": "131",
+                    "text": "• 1% (similar a EP sin DBS)",
+                    "guid": "wBxGLC_jeCW8fzLhotbCHg",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "131",
+                    "text": "• Riesgo máximo en el primer año postoperatorio",
+                    "guid": "MzeCbs9llzOvS9OihEJ7ZA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "107",
+                "text": "✔ Síndrome de abstinencia por falla del generador → Síntomas parkinsonianos severos, fiebre, rabdomiólisis → Urgencia neurológica",
+                "guid": "vhlN0gAWDPKLURDqP5FBzA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "72",
+            "text": "5. Consideraciones\nespeciales",
+            "guid": "Y_3Yupty5GGCUVLUJ2aVQg",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "✔ Contraindicaciones\nrelativas:",
+                "guid": "56ciwUCoZZSxLQSL_SHuSA",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "• Marcapasos cardíaco (posible interferencia)",
+                    "guid": "I9QmXgjoPcmVptgIXbz9UQ",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "• Terapia con diatermia (riesgo de lesión cerebral)",
+                    "guid": "qjQQuEK9a4Ho9EZtvwyM-g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "139",
+                "parent": "135",
+                "text": "✔ Resonancia\nmagnética:",
+                "guid": "y4XRo8t6hF95xW41e5fJjQ",
+                "children": [
+                  {
+                    "id": "140",
+                    "parent": "139",
+                    "text": "• Permitida con sistemas MRI-condicionales",
+                    "guid": "LnQ3wo-c9-VbmyaU2qqksw",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "139",
+                    "text": "• Límite: Máx. 1.5 Tesla y sin alteraciones del sistema",
+                    "guid": "_xqMXavEt-DdQeEqydp_Bg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "142",
+        "parent": "0",
+        "text": "Infusiones asistidas por dispositivos en la\nenfermedad de Parkinson (EP)",
+        "guid": "Sc8ePfKUG49_4634KPKi-Q",
+        "children": [
+          {
+            "id": "143",
+            "parent": "142",
+            "text": "✔ Opciones\nprincipales:",
+            "guid": "UC3EuhZ25iwdW2SYAwQKQA",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "1️⃣ Infusión intestinal de levodopa-carbidopa (LCIG)",
+                "guid": "o6lr7mxTXv82ckhlosALdw",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "143",
+                "text": "2️⃣ Infusión subcutánea continua de apomorfina (CSAI)",
+                "guid": "G-G0UHVX_d0J-xCExDAOBA",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "143",
+                "text": "3️⃣ Infusión subcutánea de foslevodopa-foscarbidopa (CSI)",
+                "guid": "0CNwEss8awjYbFb5-JI-TA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "147",
+            "parent": "142",
+            "text": "✔ Objetivo: Reducir fluctuaciones motoras al mantener niveles estables de dopamina",
+            "guid": "si_l2nJ3eEic8Ua6y-WWVQ",
+            "children": []
+          },
+          {
+            "id": "148",
+            "parent": "142",
+            "text": "1. Infusión intestinal continua\nde levodopa-carbidopa\n(LCIG)",
+            "guid": "93Q_UBy18Dhg5B0TlcHiDg",
+            "children": [
+              {
+                "id": "149",
+                "parent": "148",
+                "text": "✔ Alternativa a DBS en pacientes frágiles o sin interés en cirugía",
+                "guid": "LeMrJZiZpfvgtGOspGZ5Sg",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "148",
+                "text": "✔ Mecanismo: Administración enteral continua de levodopa-carbidopa mediante bomba portátil",
+                "guid": "NUZVRaCfiaI9lStErT2XsQ",
+                "children": []
+              },
+              {
+                "id": "151",
+                "parent": "148",
+                "text": "✔ Indicaciones:",
+                "guid": "0VJWGjdP9g0Dx9nJd4neJQ",
+                "children": [
+                  {
+                    "id": "152",
+                    "parent": "151",
+                    "text": "• Fluctuaciones motoras graves",
+                    "guid": "aTvCoNEOZlHhyFdjCDLNNA",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "151",
+                    "text": "• Pacientes con buena respuesta a levodopa oral pero con “wearing off”",
+                    "guid": "vOQCfMg5rfw6OdJwd-mgaw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "154",
+                "parent": "148",
+                "text": "Eficacia",
+                "guid": "c99MV1O5Hf52s2rQ6X5REQ",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "✅ Ensayo clínico → Reducción del tiempo “off” (4.0 h vs 2.1 h con terapia oral)",
+                    "guid": "xFkYABoeRS-uivOOGM1BJA",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "154",
+                    "text": "✅ Disminuye discinesias (30% de mejora en escala de discinesias)",
+                    "guid": "AXx7ECwTtyFQei9CXF2I4g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "157",
+                "parent": "148",
+                "text": "Administración",
+                "guid": "m940sTVE5dUkSAW-JYlG1w",
+                "children": [
+                  {
+                    "id": "158",
+                    "parent": "157",
+                    "text": "✔ Sonda de gastro-yeyunostomía (PEG-J) → Infusión hasta 16 h/día",
+                    "guid": "en7UQNns93zaf2K9J8N21w",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "157",
+                    "text": "✔ Puede requerir dosis extra de levodopa oral por la noche",
+                    "guid": "fLaobg_jmmZBmSkOK1l0rw",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "157",
+                    "text": "✔ Monitoreo previo: Homocisteína, B12 y ácido metilmalónico (riesgo de neuropatía)",
+                    "guid": "d_92I3lEW-JKnZGjEaWEFQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "161",
+                "parent": "148",
+                "text": "Efectos adversos",
+                "guid": "snNYvJs7SQ_WErI3Q3JYpA",
+                "children": [
+                  {
+                    "id": "162",
+                    "parent": "161",
+                    "text": "⚠ Relacionados con\nel procedimiento:",
+                    "guid": "FZ4rR30LGyApj8f_W7N0Qw",
+                    "children": [
+                      {
+                        "id": "163",
+                        "parent": "162",
+                        "text": "• Dolor abdominal",
+                        "guid": "uAhcMinkoU_1ELs8fSzKfQ",
+                        "children": []
+                      },
+                      {
+                        "id": "164",
+                        "parent": "162",
+                        "text": "• Infección de piel o peritonitis (18%)",
+                        "guid": "E3XaooYw7tSr96C3c-4MjQ",
+                        "children": []
+                      },
+                      {
+                        "id": "165",
+                        "parent": "162",
+                        "text": "• Reflujo y aspiración",
+                        "guid": "tdgkj-sjChifFR3R3yddBQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "166",
+                    "parent": "161",
+                    "text": "⚠ Relacionados con\nel tratamiento:",
+                    "guid": "4O7plYAbzY_7eGzb0xFDig",
+                    "children": [
+                      {
+                        "id": "167",
+                        "parent": "166",
+                        "text": "• Polineuropatía (5-10%)",
+                        "guid": "mCBJmgB2llDa-oJswqbmYQ",
+                        "children": []
+                      },
+                      {
+                        "id": "168",
+                        "parent": "166",
+                        "text": "• Deficiencia de B12, folato y B6 → ↑ homocisteína",
+                        "guid": "7FS_R89ZL3JRn_gS_Q-X0g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "169",
+            "parent": "142",
+            "text": "2. Infusión subcutánea\ncontinua de apomorfina\n(CSAI)",
+            "guid": "S5mELddHOw0t8PscJSsleQ",
+            "children": [
+              {
+                "id": "170",
+                "parent": "169",
+                "text": "✔ Dopaminérgico potente y rápido",
+                "guid": "tJ193YmI_snVyEXNZ7tbbA",
+                "children": []
+              },
+              {
+                "id": "171",
+                "parent": "169",
+                "text": "✔ Menos invasivo que DBS y LCIG → No requiere cirugía",
+                "guid": "-U1wiLr9G3MiQeAE8a_RIA",
+                "children": []
+              },
+              {
+                "id": "172",
+                "parent": "169",
+                "text": "✔ No disponible en EE.UU.",
+                "guid": "pLuT7Tw7m3-tSNDs6nI9QA",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "169",
+                "text": "Eficacia",
+                "guid": "uHRjY0wNlPaaNSSGwbeXNQ",
+                "children": [
+                  {
+                    "id": "174",
+                    "parent": "173",
+                    "text": "✅ Ensayo TOLEDO → Reducción de 2.5 h en “off” vs placebo",
+                    "guid": "-MG-7Lthp5Y0o1RAlITXNg",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "173",
+                    "text": "✅ ↑ Tiempo “on” sin discinesias (2 h adicionales)",
+                    "guid": "85jpe4R5Rp3kRfmYcV9PaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "176",
+                "parent": "169",
+                "text": "Administración",
+                "guid": "Zdo3nRjTj9OYm2ytZNJhRA",
+                "children": [
+                  {
+                    "id": "177",
+                    "parent": "176",
+                    "text": "✔ Infusión continua por aguja subcutánea (abdomen, brazo o muslo)",
+                    "guid": "p-zdK_pcjmKw63CUEK-n0w",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "176",
+                    "text": "✔ Premedicación: Domperidona (prevención de náuseas e hipotensión)",
+                    "guid": "xB7j8OWft_mS3ug-66WiWw",
+                    "children": []
+                  },
+                  {
+                    "id": "179",
+                    "parent": "176",
+                    "text": "✔ Monitoreo:",
+                    "guid": "43nd8Lhiv8LaBkhPpgnkxQ",
+                    "children": [
+                      {
+                        "id": "180",
+                        "parent": "179",
+                        "text": "• ECG basal (riesgo de QT largo)",
+                        "guid": "jCEowzU1C_vuqAEZRU9SuQ",
+                        "children": []
+                      },
+                      {
+                        "id": "181",
+                        "parent": "179",
+                        "text": "• Coombs test y hemograma cada 6-12 meses (riesgo de anemia hemolítica)",
+                        "guid": "-CuoePUPgJeBHMfZZ7H5SQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "182",
+                    "parent": "176",
+                    "text": "✔ Dosis usual: 4-7 mg/h por 16 h/día",
+                    "guid": "CXebnbDKV_t8e5RTGipcvQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "183",
+                "parent": "169",
+                "text": "Efectos adversos",
+                "guid": "4fOU4sgOuDiRhLh2eLUAAw",
+                "children": [
+                  {
+                    "id": "184",
+                    "parent": "183",
+                    "text": "⚠ Locales:",
+                    "guid": "JwT7Liv_b0lROnHNqr_c-w",
+                    "children": [
+                      {
+                        "id": "185",
+                        "parent": "184",
+                        "text": "• Nódulos subcutáneos (50%) → Puede progresar a úlceras necróticas",
+                        "guid": "cpJ3oBvRk3mGNLJD3sY5sw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "186",
+                    "parent": "183",
+                    "text": "⚠ Sistémicos:",
+                    "guid": "PA_YN2ImZ2fXlv4abNDMjw",
+                    "children": [
+                      {
+                        "id": "187",
+                        "parent": "186",
+                        "text": "• Náuseas, somnolencia",
+                        "guid": "N3nCimgMouRP81BvhJyRvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "188",
+                        "parent": "186",
+                        "text": "• Hipotensión ortostática",
+                        "guid": "oGiCtANDI-jXGysfXGp_OQ",
+                        "children": []
+                      },
+                      {
+                        "id": "189",
+                        "parent": "186",
+                        "text": "• Alucinaciones visuales",
+                        "guid": "r7WfkTWbhukJV-2-t_ohdw",
+                        "children": []
+                      },
+                      {
+                        "id": "190",
+                        "parent": "186",
+                        "text": "• Trastornos del control de impulsos",
+                        "guid": "c8mFLBtSsvreG4SgQ_0U-A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "191",
+                    "parent": "183",
+                    "text": "⚠ Interacciones:",
+                    "guid": "Ou1b2Q_xXG4jQSFjmaus7A",
+                    "children": [
+                      {
+                        "id": "192",
+                        "parent": "191",
+                        "text": "🚫 Ondansetrón y antagonistas serotoninérgicos → Hipotensión severa",
+                        "guid": "8bU-lL5wDYAZPbwGs97RMw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "193",
+            "parent": "142",
+            "text": "3. Infusión subcutánea de\nfoslevodopa-foscarbidopa (CSI)",
+            "guid": "rkKldXj-iOLp9RgonpZaNg",
+            "children": [
+              {
+                "id": "194",
+                "parent": "193",
+                "text": "✔ Alternativa a DBS y LCIG → Menos invasivo",
+                "guid": "dSahuBxKPItSk0pBRhX6jA",
+                "children": []
+              },
+              {
+                "id": "195",
+                "parent": "193",
+                "text": "✔ Aprobado en EE.UU., Canadá y Europa",
+                "guid": "AGVjWbzGcdC4qY8GVndu-g",
+                "children": []
+              },
+              {
+                "id": "196",
+                "parent": "193",
+                "text": "Eficacia",
+                "guid": "TKm1-ZGxReXSvg0EiL0vWQ",
+                "children": [
+                  {
+                    "id": "197",
+                    "parent": "196",
+                    "text": "✅ Ensayo clínico → Reducción de 2. 75 h en “off” vs levodopa oral",
+                    "guid": "DLFjqHJhxo9YPaYBXmEQnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "198",
+                    "parent": "196",
+                    "text": "✅ Mejor calidad del sueño y ↓ akinesia matutina",
+                    "guid": "kjFMN-XxYpP-4IFGV1Zv0g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "199",
+                "parent": "193",
+                "text": "Administración",
+                "guid": "IxXYwMA5_O3enia90PFJdw",
+                "children": [
+                  {
+                    "id": "200",
+                    "parent": "199",
+                    "text": "✔ Infusión subcutánea 24 h/día",
+                    "guid": "aJGD2Hj4HEOxaxI3DCQ4oA",
+                    "children": []
+                  },
+                  {
+                    "id": "201",
+                    "parent": "199",
+                    "text": "✔ Cambio de sitio de infusión cada 3 días",
+                    "guid": "0XCXCs1sw5kl4xi4mACs9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "202",
+                    "parent": "199",
+                    "text": "✔ Monitoreo: Cautela en pacientes con antihipertensivos (hipotensión ortostática)",
+                    "guid": "ZhCd_kwnNrWqe7ml9K4_9g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "203",
+                "parent": "193",
+                "text": "Efectos adversos",
+                "guid": "QgOuxQchHExeolzGc9DqGA",
+                "children": [
+                  {
+                    "id": "204",
+                    "parent": "203",
+                    "text": "⚠ Locales (62%) → Reacciones en sitio de infusión (dolor, eritema, infección)",
+                    "guid": "t6dANdqwuGsbcH-fHN7FAA",
+                    "children": []
+                  },
+                  {
+                    "id": "205",
+                    "parent": "203",
+                    "text": "⚠ Sistémicos:",
+                    "guid": "di9ITzO_qd-b0eHTU3I9DA",
+                    "children": [
+                      {
+                        "id": "206",
+                        "parent": "205",
+                        "text": "• Discinesias",
+                        "guid": "TicuW0-VQYs0W1Vipn9PUg",
+                        "children": []
+                      },
+                      {
+                        "id": "207",
+                        "parent": "205",
+                        "text": "• Alucinaciones",
+                        "guid": "Lv98th4CfCtdv2WUFGeQ-A",
+                        "children": []
+                      },
+                      {
+                        "id": "208",
+                        "parent": "205",
+                        "text": "• Trastornos cardiovasculares",
+                        "guid": "w5aW4eePv8TJDg2jCJ0Hgw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "209",
+        "parent": "0",
+        "text": "Procedimientos lesionales en la\nenfermedad de Parkinson (EP)",
+        "guid": "8G4yDrgKq6-1M7jKuGfiag",
+        "children": [
+          {
+            "id": "210",
+            "parent": "209",
+            "text": "✔ Indicaciones:",
+            "guid": "UHTJQVfcWV-NdLnHXqlO2g",
+            "children": [
+              {
+                "id": "211",
+                "parent": "210",
+                "text": "• Pacientes con EP avanzada sin acceso a DBS ni infusiones",
+                "guid": "ezVc52Z4CwrwMf67QSoR1A",
+                "children": []
+              },
+              {
+                "id": "212",
+                "parent": "210",
+                "text": "• Control de temblor refractario, discinesias o fluctuaciones motoras",
+                "guid": "jFlRWudtEGe5KmVGjHZhlg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "213",
+            "parent": "209",
+            "text": "✔ Técnicas\ndisponibles:",
+            "guid": "5E7lLHH7freRgG8LzzaNlA",
+            "children": [
+              {
+                "id": "214",
+                "parent": "213",
+                "text": "1️⃣ Lesión convencional (radiofrecuencia)",
+                "guid": "JVl6YW2RqTi6iE9vbCt2NQ",
+                "children": []
+              },
+              {
+                "id": "215",
+                "parent": "213",
+                "text": "2️⃣ Ultrasonido focalizado guiado por RM (FUS-MRI)",
+                "guid": "xnZ_RtbNNoBoxP5-KdCfmg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "216",
+            "parent": "209",
+            "text": "1. Procedimientos\nlesionales convencionales",
+            "guid": "Yewd67srTMjGLgMo9FQBjA",
+            "children": [
+              {
+                "id": "217",
+                "parent": "216",
+                "text": "A. Talamotomía\nunilateral",
+                "guid": "djP9evTP49etrqxNmEAedw",
+                "children": [
+                  {
+                    "id": "218",
+                    "parent": "217",
+                    "text": "✔ Indicación → Temblor refractario",
+                    "guid": "Nd8hFotY9uGAJId0zyoABg",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "217",
+                    "text": "✔ No mejora bradicinesia ni fluctuaciones motoras",
+                    "guid": "v8U0QktTGHUfrVY5FoCgug",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "217",
+                    "text": "✔ Sustituida por DBS, pero opción en pacientes sin acceso a dispositivos",
+                    "guid": "sJC03qxK3YiKd6I7jWYR5Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "221",
+                "parent": "216",
+                "text": "B. Palidotomía\nunilateral",
+                "guid": "8rDuKI2PbO1yniacZ9SOgg",
+                "children": [
+                  {
+                    "id": "222",
+                    "parent": "221",
+                    "text": "✔ Indicaciones → Discinesias graves y fluctuaciones motoras",
+                    "guid": "rSMODGFTtPxCfvYVqR93DQ",
+                    "children": []
+                  },
+                  {
+                    "id": "223",
+                    "parent": "221",
+                    "text": "✔ Beneficios:",
+                    "guid": "P7Qwk5NUB9gKSNzzMt7B9w",
+                    "children": [
+                      {
+                        "id": "224",
+                        "parent": "223",
+                        "text": "✅ Mejora temblor, rigidez, bradicinesia, marcha y equilibrio",
+                        "guid": "e2ynScDhsIf6LZCDV1ie9g",
+                        "children": []
+                      },
+                      {
+                        "id": "225",
+                        "parent": "223",
+                        "text": "✅ Efecto mantenido en el lado contralateral a la lesión",
+                        "guid": "XgqEcSxClCXFleHWvXkahg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "226",
+                    "parent": "221",
+                    "text": "✔ Complicaciones:",
+                    "guid": "chH2WaBfJA_lACDtnfRvqw",
+                    "children": [
+                      {
+                        "id": "227",
+                        "parent": "226",
+                        "text": "⚠ Déficits permanentes en 14%",
+                        "guid": "fLdApXEOBCkpufT2Bod0-w",
+                        "children": []
+                      },
+                      {
+                        "id": "228",
+                        "parent": "226",
+                        "text": "⚠ Infarto o hemorragia (4%)",
+                        "guid": "hMr6_jnC2fuuARb6DxfNkg",
+                        "children": []
+                      },
+                      {
+                        "id": "229",
+                        "parent": "226",
+                        "text": "⚠ Mortalidad (1%)",
+                        "guid": "2rSNndXqxvguv-GCy-ykbA",
+                        "children": []
+                      },
+                      {
+                        "id": "230",
+                        "parent": "226",
+                        "text": "⚠ Palidotomía bilateral → Alto riesgo de disartria y disfagia",
+                        "guid": "5eqCGHXI9PY6OEe9XnGwpg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "231",
+                "parent": "216",
+                "text": "C. Subtalamotomía\nunilateral",
+                "guid": "FIoF-QQB-F4cSJpSBGLhVA",
+                "children": [
+                  {
+                    "id": "232",
+                    "parent": "231",
+                    "text": "✔ Indicación → EP avanzada con síntomas marcadamente asimétricos",
+                    "guid": "7czzfbRrWg3zn410BVN2_A",
+                    "children": []
+                  },
+                  {
+                    "id": "233",
+                    "parent": "231",
+                    "text": "✔ Efectos adversos\nfrecuentes:",
+                    "guid": "89DZ8ZORmebDpwrGN_Bm5Q",
+                    "children": [
+                      {
+                        "id": "234",
+                        "parent": "233",
+                        "text": "• Discinesias contralaterales (58%) → Resolución en 4-12 semanas en mayoría",
+                        "guid": "6n9f5hkMmB6P8s4UV3alIw",
+                        "children": []
+                      },
+                      {
+                        "id": "235",
+                        "parent": "233",
+                        "text": "• 16% persisten con discinesias severas (hemiballismo, hemicorea) → Requieren palidotomía",
+                        "guid": "3ABt7qqhvbFPJ1Yf14sg_w",
+                        "children": []
+                      },
+                      {
+                        "id": "236",
+                        "parent": "233",
+                        "text": "⚠ Subtalamotomía sigue siendo experimental → Solo en centros especializados",
+                        "guid": "TltunCrkVIIkFMyWITvaPg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "209",
+            "text": "2. Ultrasonido focalizado\nguiado por RM (FUS-MRI)",
+            "guid": "TPWPWhbS2xUYuP96zs0UYw",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "✔ Técnica mínimamente invasiva → No requiere incisión",
+                "guid": "8Gm8KGu07mesipZSURLquw",
+                "children": []
+              },
+              {
+                "id": "239",
+                "parent": "237",
+                "text": "✔ Crea lesiones permanentes en el cerebro",
+                "guid": "cttbe1KhediHr7F7Y2ajJw",
+                "children": []
+              },
+              {
+                "id": "240",
+                "parent": "237",
+                "text": "✔ Objetivos según\nsíntomas predominantes:",
+                "guid": "F1gWEIPERswz36u2KO8GeA",
+                "children": [
+                  {
+                    "id": "241",
+                    "parent": "240",
+                    "text": "• Tálamo → Temblor refractario",
+                    "guid": "V1s92CW9jFGsssiV3X7lqw",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "240",
+                    "text": "• Subtálamo → EP avanzada asimétrica",
+                    "guid": "HK9k1pMPt5CMBkHF00nzwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "243",
+                    "parent": "240",
+                    "text": "• Globo pálido → Discinesias y fluctuaciones motoras",
+                    "guid": "6-RzuSrUsN2XpFcSPY-7Dw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "244",
+                "parent": "237",
+                "text": "A. FUS-Talamotomía",
+                "guid": "kJmnd941RGuKY70H5fymAg",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "✔ Aprobado en EE.UU. (2018) →\nTratamiento de temblor en EP",
+                    "guid": "4Ar4igr6UmBWsqUTl_ccDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "✔ Beneficio\nsostenido ≥5 años",
+                    "guid": "wZNjnozGYOCoP6h5oGatAA",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "244",
+                    "text": "✔ Efectos adversos similares a la\ntalamotomía convencional",
+                    "guid": "irqfaGyK9WarTcXlYN1dOg",
+                    "children": []
+                  },
+                  {
+                    "id": "248",
+                    "parent": "244",
+                    "text": "⚠ Solo trata temblor → No mejora\nfluctuaciones ni bradicinesia",
+                    "guid": "ULdpvbqyGcd3a-PrDAo9IQ",
+                    "children": []
+                  },
+                  {
+                    "id": "249",
+                    "parent": "244",
+                    "text": "⚠ No se recomienda talamotomía\nbilateral → Alto riesgo de disartria",
+                    "guid": "jWocIyF4QnkXsZUJJ5wqbg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "250",
+                "parent": "237",
+                "text": "B. FUS-Subtalamotomía",
+                "guid": "Jl1w4PyGwAoXS-Le_Qc2_g",
+                "children": [
+                  {
+                    "id": "251",
+                    "parent": "250",
+                    "text": "✔ No aprobada aún → En evaluación para\nEP con síntomas asimétricos",
+                    "guid": "rDjbTRJTLDgg5i1T5UvwGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "250",
+                    "text": "✔ Ensayo clínico:",
+                    "guid": "4aAHkjUOlnwrfzCjhNuvhg",
+                    "children": [
+                      {
+                        "id": "253",
+                        "parent": "252",
+                        "text": "• Mejoría del 50% en síntomas\nmotores del lado tratado",
+                        "guid": "hY3sfgoqSIdxtuWByhYJsA",
+                        "children": []
+                      },
+                      {
+                        "id": "254",
+                        "parent": "252",
+                        "text": "• Efectos adversos transitorios:\ndisartria (56%), alteraciones de\nla marcha (48%)",
+                        "guid": "UJZtFo-LIPm1lks4zykZew",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "255",
+                    "parent": "250",
+                    "text": "✔ No mejoró calidad de\nvida ni autonomía",
+                    "guid": "hYUpuXbQD9rS7nak0f33jA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "256",
+            "parent": "209",
+            "text": "C. FUS-Palidotomía",
+            "guid": "D6cSVdfS7cTBEwoplUjx0A",
+            "children": [
+              {
+                "id": "257",
+                "parent": "256",
+                "text": "✔ Aprobada en EE.UU. (2021) →\nDiscinesias y fluctuaciones motoras",
+                "guid": "xmyAT7bRTcvNEnHUCQ6qZg",
+                "children": []
+              },
+              {
+                "id": "258",
+                "parent": "256",
+                "text": "✔ Ensayo clínico:",
+                "guid": "aOCjYbo9w5I_BmFxysL0HA",
+                "children": []
+              },
+              {
+                "id": "259",
+                "parent": "256",
+                "text": "✅ 69% con mejoría en síntomas motores a\n3 meses vs 32% con placebo",
+                "guid": "6JeNQzHk1hsIex2kFLExjA",
+                "children": []
+              },
+              {
+                "id": "260",
+                "parent": "256",
+                "text": "✔ Efectos adversos leves y\nreversibles: disartria, alteración de la\nmarcha, pérdida del gusto",
+                "guid": "4V96_hy8N10_6kjp1eDOPA",
+                "children": [
+                  {
+                    "id": "261",
+                    "parent": "260",
+                    "text": "Comparación\ngeneral de técnicas",
+                    "guid": "LtgQeBPcQ3ti2inNOcYA3Q",
+                    "children": []
+                  },
+                  {
+                    "id": "262",
+                    "parent": "260",
+                    "text": "Procedimiento Indicación\nprincipal Beneficios Riesgos",
+                    "guid": "30pCY1dvunYn82aUN7_NkQ",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "260",
+                    "text": "Talamotomía Temblor refractario ↓\nTemblor Disartria si bilateral",
+                    "guid": "funTNp-YhWbeIrreo3j1bw",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "260",
+                    "text": "Palidotomía Discinesias y fluctuaciones\n↓ Discinesias y fluctuaciones 14% con\ndéficits permanentes",
+                    "guid": "8pdk0y24XKJV29EsOvCfDw",
+                    "children": []
+                  },
+                  {
+                    "id": "265",
+                    "parent": "260",
+                    "text": "Subtalamotomía EP avanzada\nasimétrica ↓ Síntomas motores\nAlta tasa de discinesias",
+                    "guid": "b-GGsuLGLb6BMgZ1UsfJhw",
+                    "children": []
+                  },
+                  {
+                    "id": "266",
+                    "parent": "260",
+                    "text": "FUS-Talamotomía Temblor\nrefractario ↓ Temblor Igual que\ntalamotomía convencional",
+                    "guid": "iftPT9uAPfcVGjH0PRCIig",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "parent": "260",
+                    "text": "FUS-Subtalamotomía EP asimétrica\n(experimental) ↓ Síntomas motores No\nmejora calidad de vida",
+                    "guid": "l2my6JTMupGc_jZxrYYUzQ",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "260",
+                    "text": "FUS-Palidotomía Discinesias y\nfluctuaciones ↓ Discinesias y fluctuaciones\nEfectos adversos leves y reversibles",
+                    "guid": "yc62AFE4o1iq1ZoY6ffRsw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 269,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "UTD. E. Párkinson Procedimientos-2025",
+  "id": "map_684",
+  "resolved_references": []
+}

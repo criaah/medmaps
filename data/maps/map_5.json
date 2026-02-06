@@ -1,0 +1,85 @@
+{
+  "title": "SUPPORT (1995)",
+  "guid": "SUPPORT-1995",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/SUPPORT-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "SUPPORT (1995)\nStudy to Understand Prognoses\nand Preferences for Outcomes\nand Risks of Treatments\n\\n⭐ Intervención para mejorar\\ncomunicación fin de vida\\nNO cambió práctica clínica\\nEstudio negativo transformador",
+    "guid": "SUPPORT-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: SUPPORT Investigators\nAño: 1995\nRevista: JAMA\nDOI: 10.1001/jama.1995.03530200027032\n\\nDiseño: RCT multicéntrico\\nFase I observacional + Fase II intervención\\nn = 9,105 pacientes\\n5 hospitales USA",
+        "guid": "SUPPORT-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. SUPPORT Investigators. JAMA 1995\\n   DOI: 10.1001/jama.1995.03530200027032\\n\\n2. Temel JS et al. NEJM 2010\\n   Paliativos tempranos\\n\\n3. Dying in America. IOM 2014\\n   Recomendaciones nacionales",
+            "guid": "SUPPORT-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusión:\\n• Hospitalizados\\n• Enfermedad grave con\\n  pronóstico menor 6 meses 50%\\n• Diagnósticos: ICC, EPOC,\\n  cirrosis, cáncer metastásico,\\n  falla multiorgánica\\n\\nCaracterísticas:\\n• Edad media: 63 años\\n• Alta mortalidad esperada\\n• Muchos en UCI",
+        "guid": "SUPPORT-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nFase I (observacional):\\n• Documentar problemas\\n• 4,301 pacientes\\n\\nFase II (intervención):\\n• Enfermera especializada\\n• Información pronóstica a MD\\n• Facilitación conversaciones\\n• Preferencias del paciente\\n• n = 4,804 pacientes\\n\\nGrupo control:\\n• Cuidado habitual",
+        "guid": "SUPPORT-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nNINGUNA mejora con intervención:\\n\\nÓrdenes DNR:\\n• Sin cambio en timing\\n\\nDías en UCI antes de muerte:\\n• Sin reducción\\n\\nDolor:\\n• 50% con dolor moderado-severo\\n• Sin mejora post-intervención\\n\\nPreferencias conocidas:\\n• Solo 47% médicos conocían\\n• Sin mejora\\n\\nVentilación mecánica:\\n• Sin reducción uso\\n\\nConclusión: NEGATIVO ✗",
+        "guid": "SUPPORT-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "💡 IMPACTO HISTORICO\n\\nParadoja:\\n• Estudio negativo = transformador\\n\\nCambios generados:\\n• Movimiento cuidados paliativos\\n• Advance Care Planning\\n• Directivas anticipadas\\n• Hospice expansion\\n• Certificación en paliativos\\n\\nLecciones:\\n• Solo información no basta\\n• Se necesita cambio cultural\\n• Integración temprana CP\\n• Comunicación estructurada",
+        "guid": "SUPPORT-IMP",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ POR QUE FALLO\n\\nBarreras identificadas:\\n• Médicos ignoraban info\\n• Cultura de curar a toda costa\\n• Falta entrenamiento comunicación\\n• Sistema fragmentado\\n• Incentivos desalineados\\n\\nNo suficiente:\\n• Solo dar información\\n• Solo añadir enfermera\\n• Intervención superficial\\n\\nNecesario:\\n• Cambio sistémico\\n• Entrenamiento obligatorio\\n• Integración precoz paliativos",
+        "guid": "SUPPORT-WHY",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ HISTORICO\n\\nRelevancia:\\n• Ancianos = población principal\\n• Fin de vida frecuente\\n• Decisiones complejas\\n\\nLecciones para geriatría:\\n• VGI incluir preferencias\\n• Advance Care Planning\\n• Comunicación SPIKES\\n• Paliativos tempranos\\n\\nCambio de práctica:\\n• No esperar pronóstico terminal\\n• Integrar CP desde diagnóstico",
+        "guid": "SUPPORT-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. INFORMACIÓN no basta:\n   se necesita cultura\n\\n2. 50% moría con dolor:\n   inaceptable, cambió\n\\n3. 47% MD conocía preferencias:\n   comunicación fallaba\n\\n4. Estudio negativo transformó:\n   paradoja histórica\n\\n5. Generó movimiento paliativos:\n   hospice, certificación\n\\n6. Advance Care Planning nació:\n   de este fracaso\n\\n7. Integración temprana CP:\n   Temel 2010 lo confirmó\n\\n8. SPIKES y comunicación:\n   entrenamiento obligatorio",
+        "guid": "SUPPORT-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "SUPPORT-2026",
+  "id": "map_5",
+  "resolved_references": []
+}

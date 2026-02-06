@@ -1,0 +1,1642 @@
+{
+  "title": "Síndrome de antidiuresis inapropiada  Secreción inapropiada de hormona antidiurética (SIADH)",
+  "guid": "2377D7B95846E2EFE8EE0BF0",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/Síndrome de antidiuresis inapropiada  Secreción inapropiada de hormona antidiurética (SIADH)-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Síndrome de antidiuresis inapropiada \nSecreción inapropiada de hormona antidiurética\n(SIADH)",
+    "guid": "CYDVpY3wN90HXOxTa82X5A",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definiciones y\nConceptos fisiológicos",
+        "guid": "IHMC3vKRJ35-_JqOlZlhtg",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Hiponatramia",
+            "guid": "I727mWQw9PlTH8nEIxAraQ",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "Leve (70%)",
+                "guid": "BUClKTcpnLoDJbJnA2moPQ",
+                "children": [
+                  {
+                    "id": "4",
+                    "parent": "3",
+                    "text": "130 - 134 mOsm",
+                    "guid": "HsyTVSHYxshQU2AgV212NA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "Moderada",
+                "guid": "PL64Tz8xB9JTi2iMHlIqRA",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "125 - 129 mOsm",
+                    "guid": "AfpsRCSL1KIa4H6yICaDHw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "Severa (<5%)",
+                "guid": "Ns6wjF3IA2gh8VqQCyxhMQ",
+                "children": [
+                  {
+                    "id": "8",
+                    "parent": "7",
+                    "text": "<125 mOsm",
+                    "guid": "VlC0fx7phr8GVyjteg5wGA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "OSMOLALIDAD plasmatica",
+            "guid": "LMmhInFSQuoh3a8uP7Haag",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "285  - 290 mOsm/kg  H2O",
+                "guid": "NYXDuCBQzW0bPFjKPQGCKw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "parent": "1",
+            "text": "Estimulos para la Sed",
+            "guid": "E5KC0lvFPRMCGPn8DCWFGw",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "Arginina vasopresina (AVP) -\nHormona antidiurética (ADH)",
+            "guid": "Ndl06TaUxctwG_HTFjxfNg",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "Osmoreceptores hipotalamicos",
+                "guid": "Phl95CqrDWINR3n6c59BnA",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "Osmóticos",
+                    "guid": "SvvazyiD0sQwoMPHRG7dig",
+                    "children": [
+                      {
+                        "id": "15",
+                        "parent": "14",
+                        "text": "Hipertonicidad",
+                        "guid": "AmKHzXOrtBt289HNNSUTrw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "16",
+                    "parent": "13",
+                    "text": "Hemodinámicos",
+                    "guid": "PnN0skXkHA552YRZNIQucg",
+                    "children": [
+                      {
+                        "id": "17",
+                        "parent": "16",
+                        "text": "Reducción del volumen sanguíneo arterial efectivo",
+                        "guid": "ZOyA4mD7XfA2KMKORurMsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "18",
+                        "parent": "16",
+                        "text": "Hiponatremia asociada con hipovolemia y ciertos trastornos hipervolémicos\n(por ejemplo, insuficiencia cardíaca)",
+                        "guid": "bKJj70hDRbUqv0vbIXtCFA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "19",
+                "parent": "12",
+                "text": "Sintetizada y secretada por núcleos magnocelulares supraóptico y paraventricular del hipotálamo.",
+                "guid": "IMv-bUzHOvoIzV4zTZWfjw",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "12",
+                "text": "Activa el receptor de vasopresina 2 (V2R)\nen membrana basolateral de túbulo colector",
+                "guid": "C5PaXEL15vsGdFWdCjDl0w",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "12",
+                "text": "Mecanismo de dilución",
+                "guid": "eXMCu1netQlDCvBTMoT0Qw",
+                "children": [
+                  {
+                    "id": "22",
+                    "parent": "21",
+                    "text": "Exceso de agua: 20 a 25 litros/dia",
+                    "guid": "Yf5Lz22WLzQL1XnvTqCvvw",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "21",
+                    "text": "Privación de agua: 0.5 litros/día.",
+                    "guid": "MsKL4krHwJdO8EpARLRwqg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "1",
+            "text": "SIADH",
+            "guid": "VF2wpXiIsRd8-CwueyrHvA",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "Secreción de AVP en ausencia de estímulos osmóticos y hemodinámicos",
+                "guid": "TpGNJEH-PH4Vi3xwBGsCDg",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "Trastorno del equilibrio de agua y sodio",
+                "guid": "K16JhV4gC74rUdbU0kO_ng",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "24",
+                "text": "Caracterizado por hiponatremia hipotónica euvolémica\ndebido a un deterioro de la excreción de agua libre",
+                "guid": "qZxA7iNXVEpUFBGCPDk3kw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "1",
+            "text": "Aquaresis",
+            "guid": "fVMQ-gT7FG88l6IsJcbxmw",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "Envejecimiento la deteriora mediante:",
+                "guid": "UDZQAmozhkNdDvR1PrfxEw",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "Disminución de la tasa de filtración glomerular",
+                    "guid": "P-Pm3zBb9d94nVcBBGmTRA",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "Disminución de prostaglandinas renales",
+                    "guid": "fNbpEX6bwiQAT2_nafBdRw",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "29",
+                    "text": "Aumento de la respuesta de AVP a estímulos osmóticos y no osmóticos",
+                    "guid": "bihf1zDojcJ8o2bwA9rSSA",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "29",
+                    "text": "Baja ingesta de sal y proteínas",
+                    "guid": "Ex5bbzNO7OsvtbfHfez3NA",
+                    "children": [
+                      {
+                        "id": "34",
+                        "parent": "33",
+                        "text": "Común en personas mayores,\ncontribuye al deterioro de la aquaresis.",
+                        "guid": "Oi1u9DokHCkIOdfgcPhkew",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "Fisiopatología",
+        "guid": "YGLqTWo3OKJcq0kmcpD-_Q",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "HIponatremia",
+            "guid": "PdAHuS-XAkorPpCKaHP3NQ",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "Ingesta de agua supera las pedidas\n(renales y extrarenales)",
+                "guid": "H35E5y_sc34WMOlWNKgVDQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "35",
+            "text": "Trastornos de la\naquaresis",
+            "guid": "Eug5SEQzgM5-cx4-W4p-Xw",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "Euvolemicos",
+                "guid": "JZmVcyYl1L1aejLTfxMA5A",
+                "children": [
+                  {
+                    "id": "40",
+                    "parent": "39",
+                    "text": "Dependiente de ADH",
+                    "guid": "XwA3higZyrNzKtJwDhyiUA",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "39",
+                    "text": "Independiente de ADH",
+                    "guid": "ea4RBzlkkxMLypo-DUCT2Q",
+                    "children": [
+                      {
+                        "id": "42",
+                        "parent": "41",
+                        "text": "Baja ingesta de solutos",
+                        "guid": "KqPvfD7qnsYqcdASatkKNQ",
+                        "children": []
+                      },
+                      {
+                        "id": "43",
+                        "parent": "41",
+                        "text": "Falla renal aguda",
+                        "guid": "S2PE3W7VS8l5LfHITBkFNQ",
+                        "children": []
+                      },
+                      {
+                        "id": "44",
+                        "parent": "41",
+                        "text": "Enfermedad renal cronica\nG3 a G5",
+                        "guid": "N2AwPiCegQRpjjKQNLNBOA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "45",
+                "parent": "38",
+                "text": "Hipervolemico",
+                "guid": "NwT_aWcoecFy7t9jFgU27w",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "Exceso de ingesta de agua que sobrepasa capacidad de aquaresis",
+                    "guid": "D0JEdWYZsdQkIdk_CPBVfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "35",
+            "text": "Mecanismos de\ndilución del plasma",
+            "guid": "YiAjhEVBFg8Neat6OtITSA",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "Volumen al túbulo distal",
+                "guid": "IVcYpBTlX-8pKUShWwzBuQ",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "Bajo VEC → ↓ FG + ↑ reabsorción en túbulo proximal →\n↓ volumen al túbulo distal → Riesgo de hiponatremia.",
+                    "guid": "bB86GxUp1HJfM_-XbhmmXw",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "48",
+                    "text": "Permeabilidad residual de agua (independiente de ADH) → Influenciada por gradiente\nosmótico y contracción pelvis renal → Contribuye a la reabsorción de agua.",
+                    "guid": "ObWpFXoUfkkOQCl-BNN0gQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51",
+                "parent": "47",
+                "text": "Volumen libre de\nelectrolitos",
+                "guid": "DvneODdpbiBf4DY6U41U8Q",
+                "children": [
+                  {
+                    "id": "52",
+                    "parent": "51",
+                    "text": "Reabsorción de Na+ y Cl- en asa de Henle y túbulo distal → Volumen libre de electrolitos.",
+                    "guid": "RJN2uVcHIjYFrb9iHfqnIw",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "51",
+                    "text": "Excreción de Na+ y Cl- manteniendo hipertonicidad medular.",
+                    "guid": "H3P6fWujwOtUvb-cQPXQNg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "47",
+                "text": "Regulación de la\nreabsorción de agua",
+                "guid": "DnCQVmWN9Z1xh_wVArYyzQ",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "Sin ADH → Excreción de volumen libre de electrolitos.",
+                    "guid": "dEWidlNRBEZrJAkZVmXF-g",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "Con ADH: AQP2 insertados → ↑ reabsorción\nde agua → Orina concentrada.",
+                    "guid": "GJIaVXidtJMRN9lDa0qxCg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "57",
+        "parent": "0",
+        "text": "Epidemiología",
+        "guid": "4z8HpDtN0P8h3VrliMPDTQ",
+        "children": [
+          {
+            "id": "58",
+            "parent": "57",
+            "text": "Hiponatremia",
+            "guid": "TTtVEFYVlFkyB9KLeEx0Tg",
+            "children": [
+              {
+                "id": "59",
+                "parent": "58",
+                "text": "Principal alteración\nhidroelectrolítica",
+                "guid": "I4wo5DOsxJYQe4QkYErhMw",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "5% de adultos",
+                    "guid": "E7u2mwuIqQMadZjIO0VyDw",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "35% de hospitalizados",
+                    "guid": "ct3MaGQG7LB-nQt3Kax89A",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "40% de los >65 años",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63",
+                "parent": "58",
+                "text": "Asociada a resultados\nadversos",
+                "guid": "Axp7uFl28rEdHpuBUFXQyQ",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "Estadia hospitalaria",
+                    "guid": "L4yHCk8mbg1IokUXQ0g9pQ",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "Readminision",
+                    "guid": "Wq8XEGMX3d9-ja-0X--8OQ",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "Uso de recursos",
+                    "guid": "GkF6mgGzYhxjWWR2OQ4N7w",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "63",
+                    "text": "Muerte",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "parent": "57",
+            "text": "SIADH",
+            "guid": "dB4voyBI3AktMkMhMKkNow",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "Una de las causas más comunes de hiponatremia.",
+                "guid": "fqAvxtR9w8XULxmcauwmxg",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "68",
+                "text": "Presente en hasta el 10 % de todos los pacientes hospitalizados en el momento del ingreso",
+                "guid": "H7P5xWNMY2J60AWFBUYiRg",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "68",
+                "text": "Aumenta con la edad",
+                "guid": "boGhEFWwYJxTTQFqOeVl7g",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "25 a 40% de los casos de hiponatremia en > 65 años",
+                    "guid": "RIWsZUx68zIF_msje-Xcow",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "parent": "0",
+        "text": "Factores\nde riesgo",
+        "guid": "E9IZXy30G5B2Db3nNfvjMA",
+        "children": [
+          {
+            "id": "74",
+            "parent": "73",
+            "text": "Ancianos",
+            "guid": "bRl0Nm-MnbMwmR3bErMJqQ",
+            "children": []
+          },
+          {
+            "id": "75",
+            "parent": "73",
+            "text": "Enfermedades\ncoexistentes",
+            "guid": "FbJycAsTUK8RxgqNTLdx2g",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "Cancer",
+                "guid": "cjvKcAS06fFivKjJAX4O5Q",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "Enfermedad pulmonar",
+                "guid": "as6bxQbeggkKbmRiCkzgrA",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "75",
+                "text": "Enfermedades del SNC",
+                "guid": "Nsr1hyCfTbg-9PW5dJr9QA",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "75",
+                "text": "Ciertos medicamentos",
+                "guid": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "parent": "0",
+        "text": "Clínica",
+        "guid": "fUuDX1JnGQKDgZJoJXcPfg",
+        "children": [
+          {
+            "id": "81",
+            "parent": "80",
+            "text": "Depende de",
+            "guid": "MWJT3EKiVjBpsar3cUY6uw",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "Velocidad de instauración",
+                "guid": "cv5MD2JPAfh1r83_b9U1IA",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "Severidad",
+                "guid": "YOrEHHX_PeZZxZJnTxMj8w",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "81",
+                "text": "Duración",
+                "guid": "JufLqFZo-VhS7fY7YuOqGg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "80",
+            "text": "Velocidad de\ninstauración",
+            "guid": "Uk-71bQDa1KbuHadxN_jXg",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "Aguda <48hrs",
+                "guid": "s_rEu4NMolXbvysyabnDHw",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "85",
+                "text": "Crónica ≥48 hrs",
+                "guid": "0VOHYoA6NEGEuRvfGNuAHQ",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "85",
+                "text": "Aguda sobre crónica",
+                "guid": "KJWtd_-5mkJ5U8_QMpI4dQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "80",
+            "text": "SIAD agudo\n<48 hrs",
+            "guid": "ZNJq1iOAOl0RG1L8d_DGRQ",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "Encefalopatia hiponatremica",
+                "guid": "Vs8nSUDRCsN13b15EPyWPQ",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "Leve",
+                    "guid": "evUm7X4XlVkB9Pq5VbiQzg",
+                    "children": [
+                      {
+                        "id": "92",
+                        "parent": "91",
+                        "text": "Debilidad",
+                        "guid": "RUZi8meIXHQAskqydqi2zg",
+                        "children": []
+                      },
+                      {
+                        "id": "93",
+                        "parent": "91",
+                        "text": "Cefalea",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "94",
+                    "parent": "90",
+                    "text": "Severo",
+                    "guid": "KiqypWpj9aln7vGJHSj-tA",
+                    "children": [
+                      {
+                        "id": "95",
+                        "parent": "94",
+                        "text": "Convulsiones",
+                        "guid": "TLL3oV2ev4gM_jPVLZ27vQ",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "94",
+                        "text": "Coma",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "97",
+                        "parent": "94",
+                        "text": "Distres cardiorespiratorio",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "parent": "80",
+            "text": "SIAD cronico\n≥48 hrs",
+            "guid": "U539bmbDxjx8sN-xeoXJFg",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "Leve",
+                "guid": "cx8QSm6ExiwZ7_CvSe43kw",
+                "children": [
+                  {
+                    "id": "100",
+                    "parent": "99",
+                    "text": "Deficit cognitivo",
+                    "guid": "KXQONHiZqxdux3nhWMnfJA",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "99",
+                    "text": "Trastorno de la marcha",
+                    "guid": "CGdZQEmyR7EDFNcBFkycwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "99",
+                    "text": "Caidas",
+                    "guid": "JpIQOwMYX6xpeEM1avo1OQ",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "99",
+                    "text": "Osteoporosis",
+                    "guid": "A84zCjNMoHZZjQzcbuf8Eg",
+                    "children": [
+                      {
+                        "id": "104",
+                        "parent": "103",
+                        "text": "Fracturas",
+                        "guid": "ZQ_vQWVI4zMmtLy7dHH9kw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "105",
+                "parent": "98",
+                "text": "Severo",
+                "guid": "L1XQ8A_Nriha6s3QKkr33Q",
+                "children": [
+                  {
+                    "id": "106",
+                    "parent": "105",
+                    "text": "Nauseas",
+                    "guid": "DeVDgVzfyIkAA4irUyumcw",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "105",
+                    "text": "Vomitos",
+                    "guid": "RGgk_gC1015J1F1BbpLXow",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "105",
+                    "text": "Cefalea",
+                    "guid": "axnJBzHDTsoLu9ZXN8zAqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "105",
+                    "text": "Confusion",
+                    "guid": "D2IOUhi6CixlanxmYwALwA",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "105",
+                    "text": "Delirium",
+                    "guid": "f33QaWIbXBddhdTXPKqP_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "105",
+                    "text": "Convulsiones",
+                    "guid": "MboyBDrvSAdeqbpoJNlCTg",
+                    "children": [
+                      {
+                        "id": "112",
+                        "parent": "111",
+                        "text": "Raro",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "113",
+            "parent": "80",
+            "text": "Síndrome de desmielinización osmótica",
+            "guid": "4n6siW6csO89ls8LaHtd5A",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "Por corrección demasiado rápida",
+                "guid": "bjqVOTT33is6K03GH_THPQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "115",
+        "parent": "0",
+        "text": "Causa",
+        "guid": "iJIOf7kysMGXiQ5yEkndmw",
+        "children": [
+          {
+            "id": "116",
+            "parent": "115",
+            "text": "Cancer 24%",
+            "guid": "NFRdWR9Kx38-oKRvZye-nw",
+            "children": []
+          },
+          {
+            "id": "117",
+            "parent": "115",
+            "text": "Medicamentos 18%",
+            "guid": "IqPBD2qscBYJ4kYYPtHCzg",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "Antidepresivos",
+                "guid": "IzBWnAvmar1iI-MXXtMm9w",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "Especialmente en mujeres ancianas con bajo peso",
+                    "guid": "MwuWXh3yoIsek5VVK0yktA",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "Mas frecuente en ISRS",
+                    "guid": "Vzx7snziwtlXPCRlJYKHaw",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "118",
+                    "text": "Menos frecuente en Mirtazapina",
+                    "guid": "J7EDEVoVT4cIdcP5CPgdhg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "122",
+                "parent": "117",
+                "text": "Diuréticos tiazidicos",
+                "guid": "BgGthF13Vk4mOKT-ZtkO_A",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "117",
+                "text": "Metanfetaminas",
+                "guid": "GSUbPCBDAZtrgXE_YjpRqg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "124",
+            "parent": "115",
+            "text": "Enfermedes pulmonares 11%",
+            "guid": "W4ZFSEX4AfhsbnfTf_Wd5g",
+            "children": []
+          },
+          {
+            "id": "125",
+            "parent": "115",
+            "text": "Enfermedades del SNC 9%",
+            "guid": "dDLRYjPhOV4hrMGhF6eLVw",
+            "children": []
+          },
+          {
+            "id": "126",
+            "parent": "115",
+            "text": "Otras",
+            "guid": "K3akMWc9wLUzbo-FPKb7gA",
+            "children": [
+              {
+                "id": "127",
+                "parent": "126",
+                "text": "Ejercicio",
+                "guid": "O6LQW0tWEPUavt_CeGj9bg",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "126",
+                "text": "Dolor",
+                "guid": "TkYLuSrOQDgC2SsiYvM8jQ",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "126",
+                "text": "Estrés",
+                "guid": "YUcadVj2RtcVfNySFZt3zg",
+                "children": []
+              },
+              {
+                "id": "130",
+                "parent": "126",
+                "text": "Nauseas severas",
+                "guid": "eEEOVlQdgQF8wzZuGuTPZQ",
+                "children": []
+              },
+              {
+                "id": "131",
+                "parent": "126",
+                "text": "Estado postoperatorio",
+                "guid": "PsnxFwalfIZZtpI0GlA2Xw",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "126",
+                "text": "variantes de ganancia de función del gen que codifica el receptor de vasopresina 2\n(en el SIAD nefrogénico)",
+                "guid": "TJ1-fkYlCgcaRdRFQNBP4A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "133",
+            "parent": "115",
+            "text": "No identificada 17 - 60%",
+            "guid": "chAhjRtWy8NGMXQaMNoSpA",
+            "children": [
+              {
+                "id": "134",
+                "parent": "133",
+                "text": "Mayor ante mas edad",
+                "guid": "IfxISR_oBk5LKkkEbpnGyA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "parent": "0",
+        "text": "Diagnostico",
+        "guid": "b-cmMhjVCC5EzgmLGVs0Zg",
+        "children": [
+          {
+            "id": "136",
+            "parent": "135",
+            "text": "General",
+            "guid": "Zg0QVWVwHUkvahaoYBNTuw",
+            "children": [
+              {
+                "id": "137",
+                "parent": "136",
+                "text": "Leve expansión del volumen con concentraciones plasmáticas bajas a normales de creatinina, urea, ácido úrico y potasio",
+                "guid": "IWKzMAfh8eAFkDtSRJMJzQ",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "136",
+                "text": "Relativamente insensible a la administración de sodio en ausencia de restricción de agua libre",
+                "guid": "E8hcnWe0HmkjZjDEawTYTw",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "136",
+                "text": "La suspensión de medicamento y mejoría posterior establece diagnóstico",
+                "guid": "VLeksRj9I7QVQAHaB8M7EA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "parent": "135",
+            "text": "Confirmación de Hiponatremia hipotonica euvolemica",
+            "guid": "EW6zRjOVg2xyJROKGdYMhg",
+            "children": [
+              {
+                "id": "141",
+                "parent": "140",
+                "text": "Sodio",
+                "guid": "uKE9bq8cIZ33bDToHj9oog",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "Na < 135 mmol/L",
+                    "guid": "fu7GuPjfkwJxiNqT1i55Ag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "143",
+                "parent": "140",
+                "text": "Tonicidad",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "Osmolalidad plasmática < 270 mOsm/kg",
+                    "guid": "ksmhY1bE-ZgDNHX0pR3wZg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "145",
+                "parent": "140",
+                "text": "Volemia",
+                "guid": "3hVNtGq4nkupoDTWF6ReXw",
+                "children": [
+                  {
+                    "id": "146",
+                    "parent": "145",
+                    "text": "Examen fisico",
+                    "guid": "eFJKOBma7HwO1BCRfCB9Qg",
+                    "children": [
+                      {
+                        "id": "147",
+                        "parent": "146",
+                        "text": "Baja sensibilidad y especificidad",
+                        "guid": "TOeM82hhHW1rCHlUMfd8NA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "148",
+                    "parent": "145",
+                    "text": "Examen de orina",
+                    "guid": "TaoAoRG9Ng8maXnHS6zuAQ",
+                    "children": [
+                      {
+                        "id": "149",
+                        "parent": "148",
+                        "text": "Osmolalidad urinaria\n>100 mOsm/kg de agua",
+                        "guid": "HdxvMX3bgxtJLavKDBcEag",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "148",
+                        "text": "Sodio urinario >30 mmol / litro",
+                        "guid": "MtNhRgNY-ZAsC8unIrqHeQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "parent": "135",
+            "text": "Descartar\notras causas",
+            "guid": "I3S59XeVatJFkP8UG8cELQ",
+            "children": [
+              {
+                "id": "152",
+                "parent": "151",
+                "text": "Insuficiencia adrenal secundaria",
+                "guid": "ETBXT1RlD6UX54FwXhfkQg",
+                "children": [
+                  {
+                    "id": "153",
+                    "parent": "152",
+                    "text": "Cortisol AM",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "154",
+                "parent": "151",
+                "text": "Hipotiroidismo severo",
+                "guid": "PMYtEwLv-sQQD2B2CnAttA",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "TSH - T4L",
+                    "guid": "BM4S8i9jIk0rCg4pEz6jSA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "156",
+                "parent": "151",
+                "text": "Uso reciente de diuréticos",
+                "guid": "XbGqBwPj0gQrxVmV3XTLrA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "157",
+            "parent": "135",
+            "text": "Estudio\nde causa",
+            "guid": "Typi8nlBU95Z2fhxcSarOw",
+            "children": [
+              {
+                "id": "158",
+                "parent": "157",
+                "text": "Anamnesis detallada",
+                "guid": "GSlaLCUEQXVfwHIDfzZqgg",
+                "children": []
+              },
+              {
+                "id": "159",
+                "parent": "157",
+                "text": "Sin causa aparente",
+                "guid": "CnRevg8qiKxfSb49K9cR7w",
+                "children": [
+                  {
+                    "id": "160",
+                    "parent": "159",
+                    "text": "TC de cabeza y tórax",
+                    "guid": "Fwx6jGTZ-ZBwahu8KtTXKg",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "159",
+                    "text": "TC de abdomen y pelvis",
+                    "guid": "TI4X-RPQTIAV2a95MST5PA",
+                    "children": [
+                      {
+                        "id": "162",
+                        "parent": "161",
+                        "text": "Puede considerarse",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "163",
+        "parent": "0",
+        "text": "Manejo",
+        "guid": "0PMo1S0iuC7XYbQC7Giilw",
+        "children": [
+          {
+            "id": "164",
+            "parent": "163",
+            "text": "Objetivo",
+            "guid": "HjHtOk6C2bKjn_qIEaknUg",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "Tratar la condición subyacente que causa SIAD",
+                "guid": "zPmppRexCk8o-ilYsy7tCg",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "164",
+                "text": "Tratar la hiponatremia asociada en función de su velocidad\nde inicio, así como de la presencia de síntomas",
+                "guid": "iWxo-Y0JQ2pDbnuaEpvw8w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "167",
+            "parent": "163",
+            "text": "Prevenir\n\\\\*Desmielinización\nosmotica\\\\*",
+            "guid": "UNtd0lkN4H9cUgMr1jo_FA",
+            "children": [
+              {
+                "id": "168",
+                "parent": "167",
+                "text": "Complicación rara potencialmente devastadora \ninvolucra al puente o estructuras extrapontinas",
+                "guid": "TSwQB-fQgynJTHSRPs8Ysw",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "Hiperreflexia",
+                    "guid": "HYJQBS6XnNxyNA3mPPZKgg",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "Parálisis pseudobulbar",
+                    "guid": "Gjtdx0bxzYJ97Bq4aSvB7g",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "168",
+                    "text": "Parkinsonismo",
+                    "guid": "Ux8RtDOdexAkO2AwdHYqWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "172",
+                    "parent": "168",
+                    "text": "Síndrome de enclaustramiento y muerte",
+                    "guid": "SILa_01kpNJPguwSV3y5Nw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "173",
+                "parent": "167",
+                "text": "Pacientes de\nalto riesgo",
+                "guid": "WDIn5_gcWygQTdnYVIZYfA",
+                "children": [
+                  {
+                    "id": "174",
+                    "parent": "173",
+                    "text": "Hiponatremia crónica de <110 mmol por litro, trastorno por consumo de alcohol,\nenfermedad hepática o trasplante, depleción de potasio o malnutrición.",
+                    "guid": "9rpbUenux3vbc4Jhtu5LXQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "175",
+                "parent": "167",
+                "text": "Límite de\ncorrección",
+                "guid": "ifhEdC7G05xaz_1W9BK-Rw",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "6 mmol por litro para pacientes con alto riesgo en primeras 24 horas",
+                    "guid": "toQJHwZMKLqDeRoycBHv_w",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "175",
+                    "text": "Menos de 10 mmol por litro las primeras 24 horas y de 18 mmol por litro las primeras 48 horas",
+                    "guid": "7YYxGwUdGwaWLbwSPK-u1w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "178",
+                "parent": "167",
+                "text": "La hiponatremia aguda (Ej. postoperatorio), no es necesario seguir los límites de corrección.\nSin embargo, usualmente no se puede determinar la duración de la hiponatremia.",
+                "guid": "Aq5llUqfvjmlie5-Vprahw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "163",
+            "text": "Emergencia",
+            "guid": "DnKhqiZhDzQ9bN2PYypGXA",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "Indicacion",
+                "guid": "P14y6FKs32lq7YFsdk33KA",
+                "children": [
+                  {
+                    "id": "181",
+                    "parent": "180",
+                    "text": "Sintomas severos",
+                    "guid": "BoB2mB39YTAfTdz0VarZig",
+                    "children": [
+                      {
+                        "id": "182",
+                        "parent": "181",
+                        "text": "Somnolencia, convulsiones, distres respiratorio o coma",
+                        "guid": "U05Q-iTlj8cNnORM0CZY5A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "183",
+                    "parent": "180",
+                    "text": "Síntomas moderadamente severos y alto riesgo de progresión\n\\\\_(\\\\_postoperatoria o asociada a ejercicios)",
+                    "guid": "wazuaF1x2cm705vH3H8fNQ",
+                    "children": [
+                      {
+                        "id": "184",
+                        "parent": "183",
+                        "text": "Vómito o confusión",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "185",
+                    "parent": "180",
+                    "text": "Paciente de alto riesgo de enclavamiento",
+                    "guid": "sqFQ29WBSUOq1V0CpIBFDQ",
+                    "children": [
+                      {
+                        "id": "186",
+                        "parent": "185",
+                        "text": "Hemorragia subaracnoidea,\nTEC, etc",
+                        "guid": "8JbaajRhzwFe3Azoen-fiA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "187",
+                "parent": "179",
+                "text": "Medidas",
+                "guid": "Fz61D3kn1WVG0YTGMGgPOw",
+                "children": [
+                  {
+                    "id": "188",
+                    "parent": "187",
+                    "text": "Ingreso a UPC",
+                    "guid": "Nbx_dQ7oN_tUd4eITMj6Ag",
+                    "children": [
+                      {
+                        "id": "189",
+                        "parent": "188",
+                        "text": "Monitorizacion invasiva",
+                        "guid": "HiwW2iaR9skvnnm9KKB1mQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "190",
+                    "parent": "187",
+                    "text": "Solución\nhipertonica",
+                    "guid": "eB8p9DCFSt_WeZD9A8oiWw",
+                    "children": [
+                      {
+                        "id": "191",
+                        "parent": "190",
+                        "text": "Tradicional",
+                        "guid": "dgoKJWh9eCsUJ32qaPXhkw",
+                        "children": [
+                          {
+                            "id": "192",
+                            "parent": "191",
+                            "text": "Cloruro de sodio al 3% mediante infusión lenta y continua para\naumentar el sodio sérico en 1 a 2 mmol por litro por hora",
+                            "guid": "wAGecY9cQ_INaIGV-OPnoA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "193",
+                        "parent": "190",
+                        "text": "Enfoque\nactual",
+                        "guid": "rQjdVxJxpPuZmPYgRBuE-w",
+                        "children": [
+                          {
+                            "id": "194",
+                            "parent": "193",
+                            "text": "100 ml y 150 ml de cloruro de sodio al 3%, en bolo intravenoso\ny repetidos dos o tres veces según sea necesario",
+                            "guid": "9p1fZg4d0WxJMfcq1kQIkA",
+                            "children": []
+                          },
+                          {
+                            "id": "195",
+                            "parent": "193",
+                            "text": "Objetivo",
+                            "guid": "WWSg51v860gbXiW7dubw7A",
+                            "children": [
+                              {
+                                "id": "196",
+                                "parent": "195",
+                                "text": "Aumento de sodio sérico 4 a 6 mmol por litro en 1 a 2 horas",
+                                "guid": "iCJs10EnyAAa6UrnrFOJ8w",
+                                "children": []
+                              },
+                              {
+                                "id": "197",
+                                "parent": "195",
+                                "text": "Hasta mejorar síntomas o alcanzar objetivo sodio",
+                                "guid": "VIQBJDHJVicN-6fbJ6MS2Q",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "198",
+                            "parent": "193",
+                            "text": "Si los síntomas\nno mejoran",
+                            "guid": "NIkuNz-AHRg9CO3W8mdSNA",
+                            "children": [
+                              {
+                                "id": "199",
+                                "parent": "198",
+                                "text": "Continúe con manejo tradicional",
+                                "guid": "eT4PbG8Qzt0fQSYFTofJLQ",
+                                "children": []
+                              },
+                              {
+                                "id": "200",
+                                "parent": "198",
+                                "text": "Evalúa diagnósticos diferenciales de compromiso de conciencia",
+                                "guid": "FzM9AEbxYZgnsX7nRDWokg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "201",
+                        "parent": "190",
+                        "text": "Si los síntomas mejoran, detenga la infusión de solución salina hipertónica e inicie un tratamiento\ndestinado a estabilizar el sodio basado en el diagnóstico de SIAD (recomendación fuerte).",
+                        "guid": "WU2tYZVfXkj603wYHuH2MA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "202",
+                "parent": "179",
+                "text": "Evaluación por\nespecialista",
+                "guid": "c8Ixi0Tho0R3ndEsQFBJhA",
+                "children": [
+                  {
+                    "id": "203",
+                    "parent": "202",
+                    "text": "Intensivista",
+                    "guid": "WLHvxA13gKVxdULAZySRbw",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "202",
+                    "text": "Nefrologia",
+                    "guid": "M9iP2i7iIFBKTtfLczbCwg",
+                    "children": []
+                  },
+                  {
+                    "id": "205",
+                    "parent": "202",
+                    "text": "Endocrinologia",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "163",
+            "text": "Hiponatremia crónica",
+            "guid": "3j5LHDkMZbII0oR6-dLy8w",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "Trate la afección subyacente o detenga los medicamentos que se sabe que causan SIAD.",
+                "guid": "isSiGy6AJWcucEnZve39bg",
+                "children": []
+              },
+              {
+                "id": "208",
+                "parent": "206",
+                "text": "Restrinja toda la ingesta de líquidos a ≤ 1 L/día como terapia de primera línea.",
+                "guid": "-s1PsRiwEphDHI02RiHeFw",
+                "children": []
+              },
+              {
+                "id": "209",
+                "parent": "206",
+                "text": "Considere considerar fuertemente las terapias farmacológicas si los resultados en la orina indican una baja excreción renal libre de electrolitos de\nagua o si el sodio sérico no se corrige después de 24-48 horas de restricción de líquidos; las opciones incluyen diuréticos de asa como la furosemida,\nlos antagonistas de los receptores de la vasopresina de arginina (también llamados vaptans), la demeclociclina y la urea oral.",
+                "guid": "WpZqwF2e7RJhQNgicLX5Uw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "210",
+            "parent": "163",
+            "text": "Evalúe la concentración sérica de sodio cada 4-6 horas durante la fase de corrección\nactiva hasta que los niveles séricos de sodio alcancen un valor estable de ≥ 125 mmol/L.",
+            "guid": "WMFSvRyXUp0woz5o8UQIEQ",
+            "children": []
+          },
+          {
+            "id": "211",
+            "parent": "163",
+            "text": "Para la gestión de la\nsobrecorrección",
+            "guid": "ZWbRNzI3CAscGT0yLemsNg",
+            "children": [
+              {
+                "id": "212",
+                "parent": "211",
+                "text": "Intervención\ninmediata si",
+                "guid": "-_s1OZaDr5IpWvDvwkOMWg",
+                "children": [
+                  {
+                    "id": "213",
+                    "parent": "212",
+                    "text": "Na aumenta > 10 mEq/L (> 10 mmol/L) durante las primeras 24 horas\no > 8 mEq/L (> 8 mmol/L) en cualquier 24 horas posteriores",
+                    "guid": "f5us3WucKUQFZmVtBGm_zw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "214",
+                "parent": "211",
+                "text": "Medidas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "215",
+                    "parent": "214",
+                    "text": "Interrumpir cualquier tratamiento activo en curso de la hiponatremia",
+                    "guid": "MtYJqSyAFbkL26d0SLGYYg",
+                    "children": []
+                  },
+                  {
+                    "id": "216",
+                    "parent": "214",
+                    "text": "Control estricto de la producción de orina y el equilibrio de líquidos",
+                    "guid": "HK4ICh0Bm04UyFZtdhKo8g",
+                    "children": []
+                  },
+                  {
+                    "id": "217",
+                    "parent": "214",
+                    "text": "Infusión de 10 ml/kg de peso de agua libre de electrolitos\n(soluciones de dextrosa 5%) durante 1 hora",
+                    "guid": "RDBglu-fnzqT1KWk5IugxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "214",
+                    "text": "Desmopresina 2 mcg IV hasta cada 8 horas",
+                    "guid": "Gv9LkTBwc5YXqGMYL_Bjew",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "214",
+                    "text": "La retención de potasio aumenta el sodio sérico, se debe tener especial cuidado con la\nsuplementación de potasio al tratar la hiponatremia para evitar la corrección excesiva.",
+                    "guid": "TQJ91C2dOS19wHVIRkCNQA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 220,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "Síndrome de antidiuresis inapropiada  Secreción inapropiada de hormona antidiurética (SIADH)-2024",
+  "id": "map_1409",
+  "resolved_references": []
+}

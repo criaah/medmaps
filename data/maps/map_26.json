@@ -1,0 +1,77 @@
+{
+  "title": "CLARITY-AD-2022",
+  "guid": "8f66466f-42ad-4b5f-a821-711bea501c4f",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/CLARITY-AD-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "CLARITY-AD (2022)\nLecanemab in Early Alzheimers Disease\n\\nLecanemab reduce deterioro cognitivo 27%\\nen EA temprana con amiloide confirmado\\nPrimer anti-amiloide con beneficio clinico claro",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nvan Dyck CH, et al.\\nN Engl J Med 2023;388:9-21\nDOI: 10.1056/NEJMoa2212948\n\\nRCT fase 3, doble ciego\\nMulticentrico global",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=1,795\\nEdad: 50-90 años (media 71a)\\n\\nCriterios:\\n- DCL o demencia leve por EA\\n- MMSE 22-30\\n- CDR 0.5 o 1.0\\n- Amiloide positivo (PET o LCR)\\n\\nSeguimiento: 18 meses",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nLecanemab 10 mg/kg IV cada 2 semanas\\nvs\\nPlacebo\\n\\nAnticuerpo monoclonal anti-amiloide\\n(protofibrillas)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (CDR-SB a 18m):\\nLecanemab: cambio 1.21\\nPlacebo: cambio 1.66\\nDiferencia: -0.45 (IC95% -0.67 a -0.23)\\np menor 0.001\\nReduccion deterioro: 27%\n\\nOutcomes secundarios:\\n- ADAS-Cog14: 26% menor deterioro\\n- ADCOMS: 24% menor deterioro\\n- Amiloide PET: reduccion significativa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nARIA (Amyloid-Related Imaging Abnormalities):\\n- ARIA-E (edema): 12.6% vs 1.7%\\n- ARIA-H (hemorragia): 17.3% vs 9.0%\\n- ARIA sintomatica: 2.8%\\n\\nReacciones infusion: 26%\\nMuertes: 0.7% vs 0.8%\\n\\nPortadores APOE4: mayor riesgo ARIA",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Beneficio clinico modesto\\n- Significancia clinica debatida\\n- Alto riesgo ARIA\\n- Costo muy elevado\\n- Requiere infusiones cada 2 semanas\\n- RMN monitoreo obligatorio\\n- Solo EA temprana con amiloide+",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Mayor 75a: similar eficacia pero mas ARIA\\n- APOE4 homocigotos: riesgo ARIA 35%\\n- Anticoagulacion: contraindicacion relativa\\n- Requiere PET o puncion lumbar\\n- Infraestructura: infusiones, RMN\\n- Carga para cuidadores\\n- Costo-efectividad cuestionable",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Primer anti-amiloide con beneficio clinico probado\\n2. 27% reduccion deterioro = 4.5 meses ganados?\\n3. ARIA: vigilar con RMN cada 3-6 meses\\n4. APOE4: considerar genotipado previo\\n5. Solo para EA temprana (no moderada-severa)\\n6. Requiere confirmacion amiloide\\n7. No combinar con anticoagulantes\\n8. Discutir expectativas realistas\\n9. Significancia clinica vs estadistica\\n10. Inicio de era modificadores enfermedad",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "CLARITY-AD-2026",
+  "id": "map_26",
+  "resolved_references": []
+}

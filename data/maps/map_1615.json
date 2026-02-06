@@ -1,0 +1,3952 @@
+{
+  "title": "C1. Anamnesis y exploración. El método clínico neurológico",
+  "guid": "05911E6458B3B14821A1EC5B",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/C1. Anamnesis y exploración. El método clínico neurológico-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "C1. Anamnesis y exploración.\nEl método clínico neurológico",
+    "guid": "Tyc4jBjFXTQCM8nJM-WCuQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Introducción:",
+        "guid": "T4EttWvrMCxV1MUgEYtWpA",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "* La anamnesis y la exploración clínica son la base del diagnóstico neurológico. (1)",
+            "guid": "Sj55URHVhQkUIjPZDAw8-w",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "* Dominio del método clínico neurológico\n→ esencial para todo médico. (1)",
+            "guid": "Hn9B8hX81k0w1EybChqLOw",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "*  Síntomas → origen neurológico (percepción y procesamiento consciente). (1)",
+                "guid": "Z-R6GUNNlpYiwRTtSpm4ZA",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "* No todo síntoma aparentemente neurológico\n→ lesión del sistema nervioso. (1)",
+                "guid": "E8pnKDXDtbQroUc0ZZD9WQ",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "* Sensaciones corporales banales. (1)",
+                    "guid": "BDTw6wDQiOwvuP9tUeNVyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "5",
+                    "text": "* Ansiedad / trastornos afectivos. (1)",
+                    "guid": "BmGnUAhssLVzhUIkVYjf3A",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "5",
+                    "text": "* Trastornos en otros órganos. (1)",
+                    "guid": "ITIN6XW5C-0JbmKWG9JpKw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "9",
+                "parent": "3",
+                "text": "* Médicos de asistencia primaria → discriminar pacientes con sospecha de enfermedad neurológica. (1)",
+                "guid": "fh_8GVvKuuwQAGgvSF51ag",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "parent": "1",
+            "text": "* Toda enfermedad del sistema nervioso\n→ urgencia médica/quirúrgica. (1)",
+            "guid": "baA_9iQinAhUarJmDB-B6A",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "* Sistema nervioso: vulnerable, escasa\ncapacidad de recuperación. (1)",
+                "guid": "Oh9yVQU-_wEWOg0jIgPsbg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "* Síntoma  →  no siempre indica enfermedad neurológica, actuar con inmediatez cuando realmente existe. (1)",
+            "guid": "SIyVlzj7IhBsnaTTXFb8vw",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "* Especialización funcional del sistema nervioso → cualquier síntoma puede ser expresión de disfunción neurológica. (1)",
+            "guid": "br7XxBg-7AdB5_oZcvPIrw",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "1",
+            "text": "* Anamnesis y exploración neurológica → interpretación anatomofisiológica. (1)",
+            "guid": "GQ909HGg-YZE1x55H3EcRA",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "* Síntoma  ↛  lugar de la lesión. (1)",
+                "guid": "eg2qOzhcYJ10-fwhGz-4JA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "*  Diagnóstico topográfico con pruebas clásicas  →  exámenes complementarios. (1)",
+            "guid": "LhVsi35oXrc3EiFPLDVopA",
+            "children": []
+          },
+          {
+            "id": "17",
+            "parent": "1",
+            "text": "*  Hipótesis sobre la enfermedad  → exploración  →  localización. (1)",
+            "guid": "WjMZo0cSiX50k94PR9NZmQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "parent": "0",
+        "text": "**Anamnesis:**",
+        "guid": "azUlh0j-kHVT8tuBJVSX3A",
+        "children": [
+          {
+            "id": "19",
+            "parent": "18",
+            "text": "* Importancia de la anamnesis y exploración → varía según el problema. (1)",
+            "guid": "Tj2Pdmos6KVHWIRLFsolDQ",
+            "children": []
+          },
+          {
+            "id": "20",
+            "parent": "18",
+            "text": "* Atención primaria (cefaleas, mareos, crisis de inconsciencia, parestesias, dolores)\n→ anamnesis minuciosa > exploración exhaustiva. (1)",
+            "guid": "IygKtTP2KR5zISHNEebieg",
+            "children": []
+          },
+          {
+            "id": "21",
+            "parent": "18",
+            "text": "* Orden de recogida de la anamnesis\n→ similar a toda historia médica: (1)",
+            "guid": "TDUVJTUJG-YE2qspZUSKGQ",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "* Motivo de consulta. (1)",
+                "guid": "JqoVbEmxyaIEtaZeILe_pw",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "21",
+                "text": "* Historia de la enfermedad actual. (1)",
+                "guid": "Ag4qQHmvon8793fLMCOWyw",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "21",
+                "text": "* Anamnesis por aparatos y sistemas. (1)",
+                "guid": "eBgBNnMJmRpcWP9vUksa2Q",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "21",
+                "text": "* Medicación actual. (1)",
+                "guid": "OhwimFDs3X4aHnRzJVFIHw",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "21",
+                "text": "* Antecedentes familiares y personales (situación laboral). (1)",
+                "guid": "Gett824RT_RKpd_8aCj9aQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "18",
+            "text": "* Neurólogo con experiencia →\nadapta el formato de la anamnesis. (1)",
+            "guid": "WD44mRH-ZEd-8yJ3e2ZDTw",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "* Hipótesis diagnóstica tras las primeras preguntas. (1)",
+                "guid": "RfSNZXIUREQNTSXJEimiig",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "* Toma la iniciativa y hace preguntas intencionadas. (1)",
+                "guid": "Jx1gKhIn0PJ3biykTcd1lg",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "27",
+                "text": "* No dejarse influir por exploraciones complementarias previas. (1)",
+                "guid": "W9malXwj0wJufzU9XefE1Q",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "27",
+                "text": "* Empezar por el principio, interrogando al paciente sobre su enfermedad. (1)",
+                "guid": "ddN1gSp2rQgOC1ugbet2tw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "parent": "18",
+            "text": "Anamnesis neurológica:\ncompleja, requiere habilidad. (1)",
+            "guid": "",
+            "children": [
+              {
+                "id": "33",
+                "parent": "32",
+                "text": "Síntomas: difíciles de describir, lenguaje no específico. (1)",
+                "guid": "WZH1HTxYxmIcCtHgH4aCgg",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "32",
+                "text": "Paciente: olvida o ignora detalles. (1)",
+                "guid": "Lm0KpilX96kxsCUMVYpq0A",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "32",
+                "text": "Médico: debe orientar sin deformar,\nmediante preguntas dirigidas. (1)",
+                "guid": "O3_InCkeUbAjUeBmF1ljMQ",
+                "children": [
+                  {
+                    "id": "36",
+                    "parent": "35",
+                    "text": "Precisión y consistencia a los recuerdos\nvagos o inespecíficos del paciente. (1)",
+                    "guid": "JUIkshHRFaN1QSgGGxWaMw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "37",
+            "parent": "18",
+            "text": "Síntomas relevantes: cefaleas, crisis de inconsciencia, vértigos, alteraciones visuales, parestesias,\nparálisis facial, debilidad, desequilibrio, deterioro de la memoria, cambios en la conducta. (1)",
+            "guid": "bbDetUk3onsxZHGHKQIXQw",
+            "children": []
+          },
+          {
+            "id": "38",
+            "parent": "18",
+            "text": "Comunicación verbal y no\nverbal: importantes. (1)",
+            "guid": "",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "Forma de relatar los síntomas, estado de ánimo, precisión. (1)",
+                "guid": "I4yofi5SImF-Pr3Fa_L-dg",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "Fiabilidad de las respuestas. (1)",
+                "guid": "deWzNzukYbAMl40IT3eoVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "18",
+            "text": "Dudar de las relaciones causa-efecto\ndadas por sentadas. (1)",
+            "guid": "d_0oEiiiXuhu_irWJmoyuA",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "Ejemplo: epilepsia atribuida a traumatismos banales de la infancia. (1)",
+                "guid": "UfpWkiCuT-N79J2IDXofLg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "18",
+            "text": "Importancia de la ingesta\nde tóxicos y fármacos. (1)",
+            "guid": "Scyhkx9Gfe4k04Jfbw7GRg",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "Efectos secundarios: alteraciones de conducta, memoria, temblor, convulsiones, etc. (1)",
+                "guid": "MReTkRoUqmUKJGB5bV9WPA",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "Iatrogenia: frecuente en ancianos polimedicados. (1)",
+                "guid": "HWEuCxMlcWRHJ18JCxIMwA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "18",
+            "text": "Antecedentes\npersonales: (1)",
+            "guid": "",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "No dar por ciertos los diagnósticos previos\n(paciente o familiar). (1)",
+                "guid": "XF0T33iL0JA0FCQEf-m8XQ",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "Errores comunes: temblor esencial vs. Parkinson, esclerosis\nmúltiple vs. degeneraciones espinocerebelosas. (1)",
+                    "guid": "Jt3y8jJS4clr3LrUHMOmKQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49",
+                "parent": "46",
+                "text": "Confirmar diagnóstico con historia clínica o biopsia. (1)",
+                "guid": "bfdDeXh0R9xsO05-ZfRriw",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "46",
+                "text": "Síntomas paroxísticos o transitorios: dependen\nde la memoria del paciente para describirlos. (1)",
+                "guid": "IRamxFs5eVQMXp5DcxD9Vg",
+                "children": [
+                  {
+                    "id": "51",
+                    "parent": "50",
+                    "text": "Dificultad para describir sensaciones inhabituales. (1)",
+                    "guid": "e-fJNwhTO8sAixyERbRqyw",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "50",
+                    "text": "Método: pedir que cuente el último episodio para fijar su atención y memoria. (1)",
+                    "guid": "J5m5uSVenuM0wzERWLFNSg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "18",
+            "text": "Antecedentes\npersonales: (1)",
+            "guid": "",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "Procedencia geográfica, viajes, hábitos sexuales, aficiones (exposición a tóxicos). (1)",
+                "guid": "P3NJSD7nkYpGEKOGXNR3Uw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "Antecedentes médicos y quirúrgicos: diabetes, cáncer, hipotiroidismo, gastrectomía, cardiopatía. (1)",
+                "guid": "Ug0C7g04Ao9n5oQULmoWzQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "18",
+            "text": "Antecedentes\nfamiliares:",
+            "guid": "EqTV2zWgurkiOTjlM7t8nw",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "Enfermedades neurológicas: base genética. (1)",
+                "guid": "Tk2J4Rowjf9JZWw7PETNWg",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "Preguntar sobre otros casos similares en la familia. (1)",
+                "guid": "BcPTHxv6qBguU9MrLKHGEQ",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "Muchas enfermedades: herencia compleja. (1)",
+                "guid": "ENo0DS6X1ygmzHn2DMH9RQ",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "Dificultad para establecer el patrón de herencia. (1)",
+                    "guid": "NusS8ydXlnpSdmgQXoTMrA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "parent": "0",
+        "text": "Síntesis y formulación de una\nhipótesis de diagnóstico:",
+        "guid": "VEC94FJ6pmIMNzXoS4Ue5A",
+        "children": [
+          {
+            "id": "62",
+            "parent": "61",
+            "text": "Al terminar la anamnesis → médico debe tener una idea del proceso del paciente y una hipótesis aproximada del diagnóstico. (1)",
+            "guid": "RiEqq31GvXxo_fX6GC4tmg",
+            "children": []
+          },
+          {
+            "id": "63",
+            "parent": "61",
+            "text": "Exploración clínica y exámenes complementarios → corroborar esa hipótesis. (1)",
+            "guid": "Cn7AC1Dkeg5GmERnEEKTKg",
+            "children": []
+          },
+          {
+            "id": "64",
+            "parent": "61",
+            "text": "Muchos procesos neurológicos (migrañas, epilepsias, neuralgia del trigémino) → exploración y pruebas complementarias negativas. (1)",
+            "guid": "bN8iJnTsF5I85Fk8OyysBw",
+            "children": []
+          },
+          {
+            "id": "65",
+            "parent": "61",
+            "text": "Diagnóstico exclusivamente clínico de una enfermedad grave → peculiar de las afecciones del sistema nervioso central (SNC). (1)",
+            "guid": "DxylkQZJxXd3cXlhIcF7bA",
+            "children": []
+          },
+          {
+            "id": "66",
+            "parent": "61",
+            "text": "Objetivo de la anamnesis: recogida de síntomas y su historia natural (comienzo y evolución) → orientan hacia la causa del trastorno según las\ncategorías etiológicas (enfermedades vasculares, infecciosas, degenerativas, procesos expansivos, trastornos tóxicos o metabólicos). (1)",
+            "guid": "O-qAMBmqskZVfPgMTMS0PQ",
+            "children": []
+          },
+          {
+            "id": "67",
+            "parent": "61",
+            "text": "Ejemplo: comienzo súbito → típico de ataques epilépticos o ictus cerebrales; comienzo agudo y evolución progresiva rápida → tumor maligno o proceso tóxico;\ncomienzo impreciso y años de evolución → enfermedades degenerativas. (1)",
+            "guid": "SEKJbnxJcgJZhrGCfy2cYQ",
+            "children": []
+          },
+          {
+            "id": "68",
+            "parent": "61",
+            "text": "Objetivo fundamental de la exploración neurológica: localizar la lesión dentro del sistema nervioso. (1)",
+            "guid": "I6EIfCv9GZJdsmkNcFc92g",
+            "children": []
+          },
+          {
+            "id": "69",
+            "parent": "61",
+            "text": "Estrecha interrelación entre la anamnesis y la exploración. (1)",
+            "guid": "MzaysxTogwN8gLyBeVfdXw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "parent": "0",
+        "text": "Exploración:",
+        "guid": "",
+        "children": [
+          {
+            "id": "71",
+            "parent": "70",
+            "text": "General",
+            "guid": "",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "Adquirir habilidades para llevar a cabo un examen neurológico completo → tiempo. (1)",
+                "guid": "Ei9Af2V-snsRhgr5HK4Aig",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "71",
+                "text": "Múltiples maniobras (reflejos, pares craneales, fondo de ojo) → entrenamiento. (1)",
+                "guid": "NmMsiVgeT2As8JO0I0JOrw",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "71",
+                "text": "Al comienzo → exploración neurológica en el mismo orden (examen general, examen mental y de consciencia, pares\ncraneales, sistema motor, sistema sensitivo, reflejos, coordinación de los movimientos, equilibrio y marcha). (1)",
+                "guid": "TQpm82nU7PBebvq2XCcMhA",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "71",
+                "text": "Examen básico de cribado (Tabla 1.1) → añadir maniobras para buscar patologías específicas o precisar detalles. (1)",
+                "guid": "cB6yZ1XgdBd96IfxLAkylw",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "71",
+                "text": "Neurólogos con experiencia → adaptan la exploración a cada caso,\nbuscando confirmar o descartar hipótesis. (1)",
+                "guid": "b4smXVNlf_14zebVN82vyw",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "Ejemplo: probable migraña → exploración rápida y ordenada;\nsospecha de lesión orgánica cerebral → examen más detenido en el sistema sospechoso. (1)",
+                    "guid": "T67x_1JUmFc2-0wsc0_6ew",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78",
+                "parent": "71",
+                "text": "Exploración neurológica → no pasiva por parte del paciente,\npone a prueba la función de diversos sistemas con su colaboración. (1)",
+                "guid": "flGx6hSttTljpzhWMYhknQ",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "Órdenes al paciente (abrir los ojos, levantar la mano, caminar). (1)",
+                    "guid": "KZY4PGAn9Ncq4EH8O8V4uw",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "78",
+                    "text": "Exploración más simple e indirecta en niños pequeños, pacientes afásicos o confusos, dementes o en coma. (1)",
+                    "guid": "RaanUjxmTPVYc3lFfAnT2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "81",
+                "parent": "71",
+                "text": "Objetivo de la\nexploración: (1)",
+                "guid": "FIScVgVkDPkfTCKKYY8DSQ",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "Confirmar disfunción por lesión orgánica. (1)",
+                    "guid": "bzj56n27HUA9tg_NX1esUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "Deducir la topografía de la lesión (diagnóstico topográfico) e incluso su gravedad (pronóstico). (1)",
+                    "guid": "U5uRVzuel74LYN7pQya3tA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "71",
+                "text": "Diagnóstico topográfico → utiliza conocimientos de neuroanatomía y correlación clínico-patológica. (1)",
+                "guid": "DwQXuwQuxb569Gd_XrMJug",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "71",
+                "text": "Signos de localización inequívoca: pérdida de visión de un ojo, parálisis completa del tercer par, paraplejia con signo de Babinski bilateral\n→ diagnóstico topográfico restringido a un área anatómica localizada. (1)",
+                "guid": "VoNeFTHvs6tSAwQ2VNUP_w",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "71",
+                "text": "Síntomas y signos sin localización precisa (hemiparesia o hemisíndrome cerebeloso sin otros signos)\n→ exámenes complementarios para el diagnóstico topográfico. (1)",
+                "guid": "Rp1o5DWqPIwGXXSdcDOhIA",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "71",
+                "text": "Neurólogos → a veces comienzan el diagnóstico\ntopográfico resolviendo grandes dicotomías. (1)",
+                "guid": "FdIxYzE9tpkr-RnbW3jYtQ",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "Ejemplo: lesión focal o multifocal, patología del SNC o del sistema nervioso periférico (SNP),\nenfermedades de la sustancia gris o blanca. (1)",
+                    "guid": "baQDjwRskyBXgqyQAiif5Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "70",
+            "text": "Exploración\ngeneral:",
+            "guid": "TLY1Xgc5mSE3Nhn2DCl-pg",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "Debe ser igual de completa que en cualquier otro paciente. (1)",
+                "guid": "CdCgGXbOzxpjt6MueQmaAw",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "89",
+                "text": "Hallazgos relevantes: examen ocular y del fondo de ojo, exploraciones cardiovascular (alta incidencia de enfermedades vasculares cerebrales)\ny cutánea (síndromes neurocutáneos). (1)",
+                "guid": "dInsWiFtsvtYYUZVSCV9sQ",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "89",
+                "text": "Pluripatología → frecuente en población envejecida. (1)",
+                "guid": "XQxKumPCJT4LTDVlbBBidQ",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "89",
+                "text": "Ningún paciente con queja primaria neurológica → bien atendido sin examen general completo. (1)",
+                "guid": "Z_Dq_AZAnORKw2wwPnRJEQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "parent": "70",
+            "text": "Examen del estado mental:",
+            "guid": "L4LPtnk3Rd986t-FMReeLg",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "El examen mental incluye\ntres áreas principales: (1)",
+                "guid": "ODBQjxzGcGYTSVkRfs25cw",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "Intelectual o cognitiva. (1)",
+                    "guid": "UnCs8hmmza5vAVqTaELeVQ",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "Conductual. (1)",
+                    "guid": "SuSERxr6dG5Du7cKOIiH1g",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "95",
+                    "text": "Afectiva. (1)",
+                    "guid": "H2cHjhs-Y5o6sSe7KTenpw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "99",
+                "parent": "94",
+                "text": "Su exploración detallada → cada vez más importante con el aumento de la morbilidad cerebral\n(secuelas de traumatismos craneales, ictus cerebrales, enfermedades degenerativas que conducen a demencia). (1)",
+                "guid": "Eg0ytB5oyukiQUGrBpcfDg",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "94",
+                "text": "Orientación: (1)",
+                "guid": "IUNIC27sSfs1JxQoQKpPmQ",
+                "children": [
+                  {
+                    "id": "101",
+                    "parent": "100",
+                    "text": "Se puede obtener una orientación muy\nprecisa a través de la anamnesis. (1)",
+                    "guid": "P9Z95XqiiABOvJy_HOLInw",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "100",
+                    "text": "Tomar en cuenta observaciones del paciente y la familia\nsobre memoria, orientación y actividades cotidianas. (1)",
+                    "guid": "XmStPloI0iQI8ysURlWYOg",
+                    "children": [
+                      {
+                        "id": "103",
+                        "parent": "102",
+                        "text": "Vestido, aseo, alimentación, si puede salir solo, realizar actividades domésticas o profesionales, mantener vida social. (1)",
+                        "guid": "YElvCFO2l0QEyeFLGHm_lw",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "102",
+                        "text": "Cambios en gustos o temperamento, toma de iniciativas, inquietud, irritabilidad, agresividad, humor apropiado a la situación. (1)",
+                        "guid": "cH0HqhgTOlwXR3kKQu20nA",
+                        "children": []
+                      },
+                      {
+                        "id": "105",
+                        "parent": "102",
+                        "text": "Fases iniciales del deterioro cognitivo\n→ paciente más deteriorado de lo que la familia sospecha. (1)",
+                        "guid": "MboICgZI050rMJLxfJ6MUg",
+                        "children": [
+                          {
+                            "id": "106",
+                            "parent": "105",
+                            "text": "Hogar: familia suple fallos y errores. (1)",
+                            "guid": "CiqtlW_YO-Rp4fdAHDfgSQ",
+                            "children": []
+                          },
+                          {
+                            "id": "107",
+                            "parent": "105",
+                            "text": "Familia: puede ocultar o negar el deterioro intelectual. (1)",
+                            "guid": "DkEGzQwjOOsizv9XTheEsg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "108",
+                "parent": "94",
+                "text": "Atención: (1)",
+                "guid": "BsXA63GLnBZq-k1RZSpuKQ",
+                "children": [
+                  {
+                    "id": "109",
+                    "parent": "108",
+                    "text": "Vigilancia, capacidad de atención y concentración, lenguaje → condicionan el resto de las pruebas. (1)",
+                    "guid": "S5RuOnPteGYrgAZjK93dQg",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "108",
+                    "text": "Descartar alteraciones en estas áreas. (1)",
+                    "guid": "R6QPqjBJ569EV5zZOCEXVQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "108",
+                    "text": "Pruebas de atención y concentración: repetición de series de dígitos (al menos 5 hacia delante y 3 hacia atrás),\nrecitado de los meses del año hacia atrás. (1)",
+                    "guid": "SF0iC1ufFeN7DsvxehcqFg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "112",
+                "parent": "94",
+                "text": "Lenguaje: (1)",
+                "guid": "YefpgCY_XuN2tbZoAysxiw",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "Atención a los tres elementos básicos de las afasias: anomia, parafasias, dificultad de comprensión de órdenes sencillas. (1)",
+                    "guid": "FSuo3ivcypBD1YEkH1ZWdA",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "Si están presentes → interfieren en el resto del examen mental. (1)",
+                    "guid": "G7UGdC23eGU7jja9KfYNQg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "115",
+            "parent": "70",
+            "text": "Examen del enfermo\nestuporoso o en coma:",
+            "guid": "BOoAYVOlXjF7CY6xbDvQxg",
+            "children": [
+              {
+                "id": "116",
+                "parent": "115",
+                "text": "Al no poderse realizar la exploración detallada habitual\n→ atención a datos esenciales: (1)",
+                "guid": "OdqxUF5dNhV4DZH0QKByPA",
+                "children": [
+                  {
+                    "id": "117",
+                    "parent": "116",
+                    "text": "Nivel de consciencia (perceptividad y reactividad). (1)",
+                    "guid": "T-jSK2MH30YlyuBlG31AZg",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "116",
+                    "text": "Motilidad ocular espontánea y refleja (reflejo oculocefálico y oculovestibular). (1)",
+                    "guid": "VvVXrFFK5slHWx2oHplnVg",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "116",
+                    "text": "Estado de las pupilas (reacciones fotomotoras). (1)",
+                    "guid": "AZTOeAuyuoJWun6rSfHwgw",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "116",
+                    "text": "Tipo de respiración y otros reflejos del tronco cerebral (corneal, cilioespinal, tusígeno). (1)",
+                    "guid": "Z1HQZVHJSp1ECRqZSTm55g",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "116",
+                    "text": "Respuestas motoras de las extremidades (reacción de retirada adecuada al dolor,\nreacción inadecuada de descerebración o decorticación). (1)",
+                    "guid": "eAipgDq-0QFMZOtxDTRSXg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "122",
+                "parent": "115",
+                "text": "Escala para medir el nivel de vigilancia más popular\n→ Escala de Glasgow (Tabla 10.4, capítulo 10). (1)",
+                "guid": "ZpubkhA6bJYsiqjSAlCiBg",
+                "children": [
+                  {
+                    "id": "123",
+                    "parent": "122",
+                    "text": "Diseñada para enfermos en coma de origen traumático → aplicable a casi todos los pacientes con trastornos de la vigilancia. (1)",
+                    "guid": "PfHk-2gY35AsRq9Id8yWSw",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "122",
+                    "text": "No tiene en cuenta datos fundamentales (fondo de ojo, reflejos osteotendinosos, signos meníngeos, examen general) → fundamentales en el diagnóstico. (1)",
+                    "guid": "RnYVpSRUQT04bQiHFl7n0A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "70",
+            "text": "Exploración del\nsistema motor:",
+            "guid": "RzeYmhXxIKI_Er1TTCGY-w",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "I. Inspección y Valoración\ndel Tono Muscular:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "Inspección del\nEstado Muscular:",
+                    "guid": "MDodXBw5lF80d1wGF8978Q",
+                    "children": [
+                      {
+                        "id": "128",
+                        "parent": "127",
+                        "text": "Observar la presencia de atrofia, hipertrofia o fasciculaciones.",
+                        "guid": "aaH43V3C9eUvfVIaDn9ahg",
+                        "children": []
+                      },
+                      {
+                        "id": "129",
+                        "parent": "127",
+                        "text": "Evaluar la simetría muscular.",
+                        "guid": "X529gBzTEPFLR1ygA78wYA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "130",
+                    "parent": "126",
+                    "text": "Valoración del\nTono Muscular:",
+                    "guid": "azaevyFlmmJ69WY9KXbXhQ",
+                    "children": [
+                      {
+                        "id": "131",
+                        "parent": "130",
+                        "text": "Definición: Resistencia percibida a la movilización pasiva de las extremidades.",
+                        "guid": "fScBrEfz41hstmpjUWe_jA",
+                        "children": []
+                      },
+                      {
+                        "id": "132",
+                        "parent": "130",
+                        "text": "Apreciación: Subjetiva, dependiente de la experiencia.",
+                        "guid": "Gm6JunjtoEsc7N5wQUBZtg",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "130",
+                        "text": "Tono Normal: Firme y tenso a la palpación.",
+                        "guid": "QNIZokKyqhNwRDwUbVVGxw",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "130",
+                        "text": "Movilización\nPasiva:",
+                        "guid": "TEY4HD6Pa-hHHl8NfIBVeA",
+                        "children": [
+                          {
+                            "id": "135",
+                            "parent": "134",
+                            "text": "Balanceo de muñecas.",
+                            "guid": "WskAR3uVuxMUT9FpRGr5JA",
+                            "children": []
+                          },
+                          {
+                            "id": "136",
+                            "parent": "134",
+                            "text": "Movimiento pendular de brazos.",
+                            "guid": "WViw-EPNI4NS6lOqOPZueQ",
+                            "children": []
+                          },
+                          {
+                            "id": "137",
+                            "parent": "134",
+                            "text": "Desplazamiento lateral de pies.",
+                            "guid": "YKA0dB4xsEs8tZ7ZS9bTNA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "138",
+                        "parent": "130",
+                        "text": "Resistencia a la Movilización: Flexoextensión de rodillas, caderas, codos, muñecas y cuello.",
+                        "guid": "P5dKrTerBRZ1Taq5PL5MWQ",
+                        "children": []
+                      },
+                      {
+                        "id": "139",
+                        "parent": "130",
+                        "text": "Maniobras para Valorar el Tono: Levantar brazos extendidos contra resistencia, observar la oscilación al soltarlos.",
+                        "guid": "f57obmIEFRwOJgvmGg1yKA",
+                        "children": []
+                      },
+                      {
+                        "id": "140",
+                        "parent": "130",
+                        "text": "Pasividad y Extensibilidad: Difíciles de valorar, salvo asimetrías evidentes.",
+                        "guid": "WvG1ZysS6lZbTcveG8PPCQ",
+                        "children": []
+                      },
+                      {
+                        "id": "141",
+                        "parent": "130",
+                        "text": "Signo del Rebote: Flexión del brazo contra resistencia, al soltarlo la mano no debe contactar con el rostro (indica tono normal).",
+                        "guid": "bcWUakuSB_IJGRXROgvMhg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "142",
+                    "parent": "126",
+                    "text": "Alteraciones del\nTono Muscular:",
+                    "guid": "CiFz2lA3dN42jCH-ZOp0IQ",
+                    "children": [
+                      {
+                        "id": "143",
+                        "parent": "142",
+                        "text": "Hipotonía: Músculo flácido y blando.",
+                        "guid": "S80v8Urb82cpVW1FJSXg6Q",
+                        "children": [
+                          {
+                            "id": "144",
+                            "parent": "143",
+                            "text": "Causas: Reposo prolongado, lesiones del SNC (agudas), SNP o miopatías.",
+                            "guid": "DqkW6nw_wO9eHE9ib0lLXw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "145",
+                        "parent": "142",
+                        "text": "Hipertonía: Aumento\ndel tono muscular.",
+                        "guid": "GnFxOhrR7js7IB6TWgi75w",
+                        "children": [
+                          {
+                            "id": "146",
+                            "parent": "145",
+                            "text": "Espasticidad: Predomina en músculos antigravitatorios.",
+                            "guid": "UnzzUTBtyUwWxwhBUhvbvw",
+                            "children": []
+                          },
+                          {
+                            "id": "147",
+                            "parent": "145",
+                            "text": "Postura:",
+                            "guid": "EnHeaSTtFCdsKU3nbWOT0A",
+                            "children": [
+                              {
+                                "id": "148",
+                                "parent": "147",
+                                "text": "Extremidad Superior: Semiflexión, aproximación al tronco, flexión de muñeca.",
+                                "guid": "T__-fUd3GcUJJ2LaPcWS5w",
+                                "children": []
+                              },
+                              {
+                                "id": "149",
+                                "parent": "147",
+                                "text": "Extremidad Inferior: Extensión y rotación interna, pie equino.",
+                                "guid": "EwkhtxJAeKt30V9tHSqVkQ",
+                                "children": []
+                              },
+                              {
+                                "id": "150",
+                                "parent": "147",
+                                "text": "Bilateral Intensa: Postura de \"decorticación\".",
+                                "guid": "YnftiS5dgWsCFQmyLkUdeg",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "151",
+                            "parent": "145",
+                            "text": "Se exagera con estiramiento brusco.",
+                            "guid": "eTl00itqdvdTav5jB-KLvQ",
+                            "children": []
+                          },
+                          {
+                            "id": "152",
+                            "parent": "145",
+                            "text": "Movimientos lentos y suaves permiten elongación total.",
+                            "guid": "J6o35zGHTcZ3K9ccQhupIQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "153",
+                        "parent": "142",
+                        "text": "Rigidez: Presente durante todo el movimiento pasivo,\nindependiente de la velocidad.",
+                        "guid": "TFk8ATJL9a8cJGUJHtYvUw",
+                        "children": [
+                          {
+                            "id": "154",
+                            "parent": "153",
+                            "text": "Rueda Dentada: Rigidez + temblor.",
+                            "guid": "Yrm--zLrbUpw8gsSdSudZA",
+                            "children": []
+                          },
+                          {
+                            "id": "155",
+                            "parent": "153",
+                            "text": "Se refuerza con movimientos en la extremidad contralateral.",
+                            "guid": "V9iBcV0bWPpijzE1J9h_7g",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "156",
+                        "parent": "142",
+                        "text": "Paratonía: Resistencia al movimiento en\ncualquier sentido, cede al poco tiempo.",
+                        "guid": "JJJyv2u2lA9lnhLWN5uUdw",
+                        "children": [
+                          {
+                            "id": "157",
+                            "parent": "156",
+                            "text": "Observada en: Ancianos sanos, demencias, enfermedades\ndegenerativas, encefalopatías metabólicas o lesiones frontales.",
+                            "guid": "ffcMul1vckNUxioIYG76Qw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "158",
+                        "parent": "142",
+                        "text": "Catatonia: Mantenimiento de una postura impuesta pasivamente.",
+                        "guid": "C8zzr1bbM7sOtBe9BQZogQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "159",
+                    "parent": "126",
+                    "text": "Percusión del Músculo:",
+                    "guid": "AkWqsmIfFiAM6PQ-Ke_imQ",
+                    "children": [
+                      {
+                        "id": "160",
+                        "parent": "159",
+                        "text": "Respuesta Normal: Contracción amplia y fugaz al percutir con martillo de reflejos.",
+                        "guid": "E6Zj5gQUy1psC4u7X_-f6A",
+                        "children": []
+                      },
+                      {
+                        "id": "161",
+                        "parent": "159",
+                        "text": "Miotonía: Respuesta limitada, relieve\npalpable, dura varios segundos.",
+                        "guid": "NmDBCQgv8MR-1c87GRqABQ",
+                        "children": [
+                          {
+                            "id": "162",
+                            "parent": "161",
+                            "text": "Defecto de relajación muscular tras contracción.",
+                            "guid": "OxteDm_H2k0ORh1pEvPffw",
+                            "children": []
+                          },
+                          {
+                            "id": "163",
+                            "parent": "161",
+                            "text": "Provocada por percusión o contracción espontánea.",
+                            "guid": "TOMzR3DVTp46zF9tcXWmBw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "164",
+                "parent": "125",
+                "text": "II. Evaluación de la Fuerza Muscular (Balance Muscular):",
+                "guid": "XIvirSBqckMpETp-WoLvZw",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "Consideraciones\nGenerales:",
+                    "guid": "fdnkh33XZIY68emqCabYNg",
+                    "children": [
+                      {
+                        "id": "166",
+                        "parent": "165",
+                        "text": "Se reduce a los principales grupos musculares en la práctica clínica (ver Tabla 1.2 en el texto original).",
+                        "guid": "VLKYQUmmAWcOrUC3VvhC9A",
+                        "children": []
+                      },
+                      {
+                        "id": "167",
+                        "parent": "165",
+                        "text": "El paciente debe hacer el movimiento contra la resistencia del examinador.",
+                        "guid": "K8UXiBuWNPYA6CWNP2t7bg",
+                        "children": []
+                      },
+                      {
+                        "id": "168",
+                        "parent": "165",
+                        "text": "La fuerza se valora según la escala clásica",
+                        "guid": "H6sAUGzzsUgfaxtWVgvBWg",
+                        "children": []
+                      },
+                      {
+                        "id": "169",
+                        "parent": "165",
+                        "text": "No olvidar flexores, extensores y rotadores del cuello, y abdominales o erectores del tronco.",
+                        "guid": "dSOiDB5A6pFvJkFfMD8AGg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "170",
+                    "parent": "164",
+                    "text": "Evaluación\npor Regiones:",
+                    "guid": "DgjE331sXshDMt-ZWuv4Jg",
+                    "children": [
+                      {
+                        "id": "171",
+                        "parent": "170",
+                        "text": "Músculos\nde la Cara:",
+                        "guid": "bkGtZ33_PwdMYZ4tSs2QFA",
+                        "children": [
+                          {
+                            "id": "172",
+                            "parent": "171",
+                            "text": "Debilidad: Dificultad para elevar cejas, cerrar ojos, silbar, chupar, sonreír o enseñar dientes.",
+                            "guid": "HmmxSnVy2KslUH98HEOV0Q",
+                            "children": []
+                          },
+                          {
+                            "id": "173",
+                            "parent": "171",
+                            "text": "Unilateral (Parálisis Facial Periférica): Asimetría evidente.",
+                            "guid": "c0o9MmBCaSYl6m4HR_zVcw",
+                            "children": []
+                          },
+                          {
+                            "id": "174",
+                            "parent": "171",
+                            "text": "Bilateral (Miopatías): Puede pasar inadvertida.",
+                            "guid": "KehqjjSXrr8e9RhnVa2CFg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "175",
+                        "parent": "170",
+                        "text": "Músculos del Cuello,\nFaringe y Laringe:",
+                        "guid": "UC3jtR_dPfUVGP2Eb9jkBQ",
+                        "children": [
+                          {
+                            "id": "176",
+                            "parent": "175",
+                            "text": "Debilidad: Disartria, disfagia y disfonía.",
+                            "guid": "DNDvPTSEGNtF5KVfAfSRSg",
+                            "children": []
+                          },
+                          {
+                            "id": "177",
+                            "parent": "175",
+                            "text": "Disartria Parética de la Lengua: Dificultad para pronunciar consonantes como la \"r\"; habla mal modulada y farfullante.",
+                            "guid": "UsUDbDUK5r4yM5FkYM3ISw",
+                            "children": []
+                          },
+                          {
+                            "id": "178",
+                            "parent": "175",
+                            "text": "Paresia de la Faringe: Voz gangoso-nasal.",
+                            "guid": "MndFh3VmcP47ucByILjy7g",
+                            "children": []
+                          },
+                          {
+                            "id": "179",
+                            "parent": "175",
+                            "text": "Disfonía Laríngea: Voz ronca, bitonal, hipofónica-cuchicheante o estridor.",
+                            "guid": "c2WwBQgbXp9rhoMCEc9hTw",
+                            "children": []
+                          },
+                          {
+                            "id": "180",
+                            "parent": "175",
+                            "text": "Disfagia Parética: Dificultad para el primer movimiento de la deglución, tos y reflujo nasal de líquidos.",
+                            "guid": "fY43SxDXAn4uEvchcNh0fQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "181",
+                        "parent": "170",
+                        "text": "Músculos\nRespiratorios:",
+                        "guid": "cRlrpVP9ZSg41UnwGwHWMw",
+                        "children": [
+                          {
+                            "id": "182",
+                            "parent": "181",
+                            "text": "Importancia: Principal amenaza en enfermedades neuromusculares\n(motoneuronas, Guillain-Barré, miopatías, miastenia grave).",
+                            "guid": "CJUT51fKYlhwr1hJWML3nA",
+                            "children": []
+                          },
+                          {
+                            "id": "183",
+                            "parent": "181",
+                            "text": "Causas de Disnea: Obstrucción vía respiratoria, afectación parénquima\npulmonar, alteración caja torácica, debilidad muscular respiratoria.",
+                            "guid": "d6egTQXIVc1Im9uiBHiPig",
+                            "children": []
+                          },
+                          {
+                            "id": "184",
+                            "parent": "181",
+                            "text": "Valoración:",
+                            "guid": "OkxuqA6AgQEGbSDUDRFyFQ",
+                            "children": [
+                              {
+                                "id": "185",
+                                "parent": "184",
+                                "text": "Anamnesis: Disnea, ortopnea, fatiga, somnolencia diurna, cefaleas matutinas.",
+                                "guid": "Q4tnwDigsjlt3zpgdgKtRw",
+                                "children": []
+                              },
+                              {
+                                "id": "186",
+                                "parent": "184",
+                                "text": "Exploración: Inspección (tiraje, movimiento abdominal paradójico), palpación (tono y volumen diafragmático), percusión (matidez).",
+                                "guid": "LgcjNymY-tIWu6A1IWzTPA",
+                                "children": []
+                              },
+                              {
+                                "id": "187",
+                                "parent": "184",
+                                "text": "Pruebas Complementarias: Gasometría, espirometría, pruebas de función pulmonar (PIM, PEM, escala de Borg).",
+                                "guid": "MbRZcgJCIzczPDSLL0KQvQ",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "188",
+                        "parent": "170",
+                        "text": "Músculos Paravertebrales\ny Abdominales:",
+                        "guid": "ExkltmFPK6wgGwU6BDKRWw",
+                        "children": [
+                          {
+                            "id": "189",
+                            "parent": "188",
+                            "text": "Debilidad: Dificultad para incorporarse, cifoescoliosis,\naumento de lordosis lumbar con vientre prominente.",
+                            "guid": "NUyQ1VjwTyofNGeOPeGkvA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "190",
+                        "parent": "170",
+                        "text": "Músculos de las\nExtremidades:",
+                        "guid": "MLqxgg_jv9cWpJxZKGJRzw",
+                        "children": [
+                          {
+                            "id": "191",
+                            "parent": "190",
+                            "text": "Debilidad Proximal de Brazos: Dificultad para levantar brazos\n(peinarse, vestirse, colgar ropa).",
+                            "guid": "FawVpF9Ad_ss2uFaT_iETQ",
+                            "children": []
+                          },
+                          {
+                            "id": "192",
+                            "parent": "190",
+                            "text": "Debilidad Proximal de Piernas: Dificultad para subir escaleras, levantarse de un sofá o retrete.",
+                            "guid": "bcD4_DNIAi5dCfZiMUxgvA",
+                            "children": []
+                          },
+                          {
+                            "id": "193",
+                            "parent": "190",
+                            "text": "Debilidad Distal de Manos: Dificultad para manipular objetos pequeños.",
+                            "guid": "a-i0Z0rpMMInTw4DGe_Xng",
+                            "children": []
+                          },
+                          {
+                            "id": "194",
+                            "parent": "190",
+                            "text": "Debilidad Distal de Pies: Esguinces de tobillo, tropezones, caídas.",
+                            "guid": "dIIrlT4Krjg7XKraJjaFBw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "195",
+                        "parent": "170",
+                        "text": "Maniobras\nEspeciales:",
+                        "guid": "QEzRcG6Y32ZVeRXEU2X3Jg",
+                        "children": [
+                          {
+                            "id": "196",
+                            "parent": "195",
+                            "text": "Músculos Potentes (Cuádriceps, Gemelos):\nPueden vencer la resistencia incluso débiles.",
+                            "guid": "T-gLEnWUGv5XmIiBBTSb5w",
+                            "children": [
+                              {
+                                "id": "197",
+                                "parent": "196",
+                                "text": "Pruebas: Levantarse de cuclillas/silla baja sin apoyo, subir escalón,\ncaminar de puntillas/talones, saltar a la pata coja.",
+                                "guid": "ToRqKHbM8A9DFkCkfz8bqw",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "198",
+                            "parent": "195",
+                            "text": "Debilidad Ligera por Lesión de Vía Piramidal:",
+                            "guid": "BrCv5lm63P0noW16HFzFig",
+                            "children": [
+                              {
+                                "id": "199",
+                                "parent": "198",
+                                "text": "Pruebas: Mingazzini, Barré.",
+                                "guid": "OPtU-FR8TtRsVUnXJrxN9A",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "200",
+                        "parent": "170",
+                        "text": "Fatigabilidad:",
+                        "guid": "B8RRA0lfQDlYCK6xc60Fag",
+                        "children": [
+                          {
+                            "id": "201",
+                            "parent": "200",
+                            "text": "Definición: Cansancio anormal por esfuerzos tolerables en condiciones fisiológicas.",
+                            "guid": "FEhw_H9XvLQNnN0JCMqckQ",
+                            "children": []
+                          },
+                          {
+                            "id": "202",
+                            "parent": "200",
+                            "text": "Característica de: Trastornos de la transmisión neuromuscular (miastenia grave, síndromes miasténicos).",
+                            "guid": "PWJq7Uj5h-MvASGYfa88XQ",
+                            "children": []
+                          },
+                          {
+                            "id": "203",
+                            "parent": "200",
+                            "text": "Características:",
+                            "guid": "N5JnSQR6N1xRFTODB3pyXA",
+                            "children": [
+                              {
+                                "id": "204",
+                                "parent": "203",
+                                "text": "Afecta músculos o funciones motoras específicas\n(párpados, fonación, deglución, respiración).",
+                                "guid": "eg5SWiitvAQMrw5DSJK8gg",
+                                "children": []
+                              },
+                              {
+                                "id": "205",
+                                "parent": "203",
+                                "text": "Rápida recuperación con el reposo.",
+                                "guid": "H3qsE0_FTudH0dgtJitb-Q",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "206",
+                            "parent": "200",
+                            "text": "Diferenciar de Astenia: Sensación general de cansancio sin debilidad específica,\noscilante, común en enfermedades generales, depresión o neurosis.",
+                            "guid": "KYAr5G9zRahCiCGDYnuA3A",
+                            "children": []
+                          },
+                          {
+                            "id": "207",
+                            "parent": "200",
+                            "text": "Ejemplos de Pruebas: Levantar brazos 20-30 veces,\nlevantarse varias veces de una silla.",
+                            "guid": "Q--UfC7da1sJN87RS7Plfw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "208",
+                    "parent": "164",
+                    "text": "Reflejos Musculares (Osteotendinosos):",
+                    "guid": "eDyrlGFAfYI_YOrqDIUckA",
+                    "children": [
+                      {
+                        "id": "209",
+                        "parent": "208",
+                        "text": "Concepto: Equivalen al reflejo de estiramiento segmentario medular.",
+                        "guid": "YJg6Nkz9x_MVT7khHfqlIw",
+                        "children": []
+                      },
+                      {
+                        "id": "210",
+                        "parent": "208",
+                        "text": "Regulación: Arco reflejo medular influenciado por vías descendentes corticoespinales.",
+                        "guid": "FfdP1kRQ2rkbqeGATYm3IA",
+                        "children": []
+                      },
+                      {
+                        "id": "211",
+                        "parent": "208",
+                        "text": "Significado\nClínico:",
+                        "guid": "MXiGp1M9-R9bEtkTWviyiw",
+                        "children": [
+                          {
+                            "id": "212",
+                            "parent": "211",
+                            "text": "Lesiones del Arco Reflejo: Disminución/abolición del reflejo.",
+                            "guid": "SMsSFWy_FQNVBCl8Qtlkbw",
+                            "children": []
+                          },
+                          {
+                            "id": "213",
+                            "parent": "211",
+                            "text": "Lesiones de la Vía Corticoespinal: Exaltación de reflejos.",
+                            "guid": "FWzRB2GzN78LbCDyNOd9Gg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "214",
+                        "parent": "208",
+                        "text": "Reflejos\nExplorados:",
+                        "guid": "XrNroGaJ5zgmf18VdKq7dw",
+                        "children": [
+                          {
+                            "id": "215",
+                            "parent": "214",
+                            "text": "Brazos: Bicipital, tricipital, radial, cúbito-pronador, flexor de los dedos.",
+                            "guid": "QrE-xx2a-pc9dDNoBqDTRA",
+                            "children": []
+                          },
+                          {
+                            "id": "216",
+                            "parent": "214",
+                            "text": "Piernas: Rotuliano, aquíleo, flexor de los dedos.",
+                            "guid": "THhl8kasAjlSVLjDRLURhg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "217",
+                        "parent": "208",
+                        "text": "Valoración: Escala de 0 a 5 (ver Cuadro 1.3). Comparar reflejos de ambos lados.",
+                        "guid": "J-x_uxG1o61ROi4XCIS58Q",
+                        "children": []
+                      },
+                      {
+                        "id": "218",
+                        "parent": "208",
+                        "text": "Variaciones: Individuales, obesidad (reflejos bajos), ambiente frío/tenso (reflejos vivos).",
+                        "guid": "KtrB8kIpQJVCNHKXc6XUBw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "219",
+                    "parent": "164",
+                    "text": "Reflejos Cutáneos:",
+                    "guid": "LuhVmRc4nBM2fzh3RFUmoA",
+                    "children": [
+                      {
+                        "id": "220",
+                        "parent": "219",
+                        "text": "Reflejos Cutáneos\nAbdominales:",
+                        "guid": "eOvT0kHrWWl5PKO7KmRaeQ",
+                        "children": [
+                          {
+                            "id": "221",
+                            "parent": "220",
+                            "text": "Estímulo: Estimulación de la piel del abdomen.",
+                            "guid": "FSlSiFRPfM4FXQ0FV9qRUA",
+                            "children": []
+                          },
+                          {
+                            "id": "222",
+                            "parent": "220",
+                            "text": "Respuesta: Contracción de músculos abdominales.",
+                            "guid": "cep3ZULRQG1ee2SUPmLdVw",
+                            "children": []
+                          },
+                          {
+                            "id": "223",
+                            "parent": "220",
+                            "text": "Integración: D7-D9 (superior), D11-D12 (inferior).",
+                            "guid": "CX1CpjDQHVcDF-7eMWnCYQ",
+                            "children": []
+                          },
+                          {
+                            "id": "224",
+                            "parent": "220",
+                            "text": "Valor: Limitado, útiles para asimetrías (lesión piramidal o raíces).",
+                            "guid": "QoXBBVRSHPU57nxSITkspQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "225",
+                        "parent": "219",
+                        "text": "Reflejo Cremastérico:",
+                        "guid": "OtwELWBt22cV4-gcZbbGHw",
+                        "children": [
+                          {
+                            "id": "226",
+                            "parent": "225",
+                            "text": "Estímulo: Cara interna del muslo.",
+                            "guid": "Ipcb_VgYWrNZXJonUX9xlg",
+                            "children": []
+                          },
+                          {
+                            "id": "227",
+                            "parent": "225",
+                            "text": "Respuesta: Elevación del testículo.",
+                            "guid": "b1D2xg_b0p4V1Jg2aDzKmQ",
+                            "children": []
+                          },
+                          {
+                            "id": "228",
+                            "parent": "225",
+                            "text": "Integración: L1-L2.",
+                            "guid": "UccsBw8RO_ESoSUSZvB-jw",
+                            "children": []
+                          },
+                          {
+                            "id": "229",
+                            "parent": "225",
+                            "text": "Valor: Variable, puede estar ausente en sanos.",
+                            "guid": "Y2C4wBf-Mhc-yw_fVUswJQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "230",
+                        "parent": "219",
+                        "text": "Reflejo Cutáneo-Plantar:",
+                        "guid": "Ws9yhB1GdHMTrg19ZEy1Kg",
+                        "children": [
+                          {
+                            "id": "231",
+                            "parent": "230",
+                            "text": "Estímulo: Borde externo de la planta del pie.",
+                            "guid": "ThaRyxbF_FsVtneLEJxS0A",
+                            "children": []
+                          },
+                          {
+                            "id": "232",
+                            "parent": "230",
+                            "text": "Respuesta Normal: Flexión del primer dedo.",
+                            "guid": "axgZUE-k894x1X91JfQdfQ",
+                            "children": []
+                          },
+                          {
+                            "id": "233",
+                            "parent": "230",
+                            "text": "Signo de Babinski (patológico): Extensión del primer dedo (lesión piramidal).",
+                            "guid": "MBLPRUe5Z5ILquOdUqnrQg",
+                            "children": []
+                          },
+                          {
+                            "id": "234",
+                            "parent": "230",
+                            "text": "Importancia en Coma: Orienta a lesión orgánica del SNC.",
+                            "guid": "H9HCRWUHfcQkKVzYDyK5DA",
+                            "children": []
+                          },
+                          {
+                            "id": "235",
+                            "parent": "230",
+                            "text": "Reflejos de Triple Retirada: Flexión de pie, rodilla y cadera (lesiones medulares).",
+                            "guid": "dONQYjn99Q93X4OlRqp8aQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "236",
+                    "parent": "164",
+                    "text": "Reflejos Corticobulbares o\nde la Línea Media:",
+                    "guid": "SQ8xAAoAqLctmvr4LG_pwA",
+                    "children": [
+                      {
+                        "id": "237",
+                        "parent": "236",
+                        "text": "Reflejo Glabelar:",
+                        "guid": "If7az2xmCtgBuxnmfM5NUw",
+                        "children": [
+                          {
+                            "id": "238",
+                            "parent": "237",
+                            "text": "Estímulo: Percusión de la frente.",
+                            "guid": "Cax_SxVpJ2NhGwJ-V8MRFg",
+                            "children": []
+                          },
+                          {
+                            "id": "239",
+                            "parent": "237",
+                            "text": "Respuesta: Cierre de párpados.",
+                            "guid": "LC8jvnbRegloX2PmF0c9Dg",
+                            "children": []
+                          },
+                          {
+                            "id": "240",
+                            "parent": "237",
+                            "text": "Alteración: No se habitúa\n(Parkinson, síndromes piramidales).",
+                            "guid": "RnZt5xo041w9O1qLdok9LQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "241",
+                        "parent": "236",
+                        "text": "Reflejo del Hocico:",
+                        "guid": "Ye5K7kjmPihJMyhvAcANMw",
+                        "children": [
+                          {
+                            "id": "242",
+                            "parent": "241",
+                            "text": "Estímulo: Percusión del labio superior.",
+                            "guid": "Le277G1chUgQ4sY_ItEMTg",
+                            "children": []
+                          },
+                          {
+                            "id": "243",
+                            "parent": "241",
+                            "text": "Respuesta: Protrusión de labios.",
+                            "guid": "J1p6VwhCSeRpe4i3cGmrVw",
+                            "children": []
+                          },
+                          {
+                            "id": "244",
+                            "parent": "241",
+                            "text": "Alteración: Exagerada (reflejos primitivos).",
+                            "guid": "EkLynBcWg7Ac2ZUYNEHNaw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "245",
+                        "parent": "236",
+                        "text": "Reflejo Mandibular:",
+                        "guid": "A3yOiB6Urv4xEBq-DSkN0w",
+                        "children": [
+                          {
+                            "id": "246",
+                            "parent": "245",
+                            "text": "Estímulo: Percusión de la mandíbula.",
+                            "guid": "M_3WYRIrHTxk7B7qYCz6Hw",
+                            "children": []
+                          },
+                          {
+                            "id": "247",
+                            "parent": "245",
+                            "text": "Respuesta: Ligera contracción de maseteros.",
+                            "guid": "CPyXRk1LgtB3dDctT3MFLQ",
+                            "children": []
+                          },
+                          {
+                            "id": "248",
+                            "parent": "245",
+                            "text": "Alteración: Cierre de boca, clonus mandibular.",
+                            "guid": "Z4BmLDSvkbhF_EJaSW6xGg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "249",
+                    "parent": "164",
+                    "text": "Coordinación de\nMovimientos:",
+                    "guid": "fZXP4Q8vaspLLr5OK4OLzQ",
+                    "children": [
+                      {
+                        "id": "250",
+                        "parent": "249",
+                        "text": "Concepto: Capacidad para realizar actos motores complejos con fluidez, precisión y armonía.",
+                        "guid": "fIvwElwRhI1OVJgcI-ZqaQ",
+                        "children": []
+                      },
+                      {
+                        "id": "251",
+                        "parent": "249",
+                        "text": "Trastornos: Ataxia, dismetría, adiadococinesia, temblor, corea, tics, balismo, distonía.",
+                        "guid": "ZFPOcjfQINMUUBXAdpbBDg",
+                        "children": []
+                      },
+                      {
+                        "id": "252",
+                        "parent": "249",
+                        "text": "Pruebas:",
+                        "guid": "TuakgzEpqtgq2I55UmMzCw",
+                        "children": [
+                          {
+                            "id": "253",
+                            "parent": "252",
+                            "text": "Observación: Movimientos espontáneos.",
+                            "guid": "T75Z1lvoqTdfjEDfA7wwNw",
+                            "children": []
+                          },
+                          {
+                            "id": "254",
+                            "parent": "252",
+                            "text": "Maniobras: Dedo-nariz, talón-rodilla, movimientos alternantes.",
+                            "guid": "bhPGdER4X8lj6SpWdxBdug",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "255",
+                        "parent": "249",
+                        "text": "Interpretación:",
+                        "guid": "EcPimVtdYYNGg2LneURIxg",
+                        "children": [
+                          {
+                            "id": "256",
+                            "parent": "255",
+                            "text": "Ataxia Cerebelosa: Movimientos bruscos, desmedidos (dismetría).",
+                            "guid": "EAzzPAx_pUJCsvngDaLDHQ",
+                            "children": []
+                          },
+                          {
+                            "id": "257",
+                            "parent": "255",
+                            "text": "Dismetría: Se aprecia mejor al tocar alternativamente nariz y dedo del explorador.",
+                            "guid": "G68QDA3huC45Jk7qGDsAHg",
+                            "children": []
+                          },
+                          {
+                            "id": "258",
+                            "parent": "255",
+                            "text": "Adiadococinesia: Movimientos amplios, irregulares (lesiones cerebelosas, coreas).",
+                            "guid": "afM8vAd65wY8IWqHTkcLLg",
+                            "children": []
+                          },
+                          {
+                            "id": "259",
+                            "parent": "255",
+                            "text": "Acinesia-Hipocinesia: Movimientos lentos, pequeña amplitud (síndromes extrapiramidales).",
+                            "guid": "P0sH2lBxgEdE3cw8DjGsXQ",
+                            "children": []
+                          },
+                          {
+                            "id": "260",
+                            "parent": "255",
+                            "text": "Distonía: Posturas forzadas de dedos.",
+                            "guid": "AZsrIG-2WrVglN9pUVmE9g",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "261",
+                    "parent": "164",
+                    "text": "Equilibrio:",
+                    "guid": "S58D7EAhIEhVFbUuObLKYA",
+                    "children": [
+                      {
+                        "id": "262",
+                        "parent": "261",
+                        "text": "Concepto: Función compleja (cerebelo, vestibular, visual, propioceptivo).",
+                        "guid": "BJmAETj-34QwwygaFl1iqg",
+                        "children": []
+                      },
+                      {
+                        "id": "263",
+                        "parent": "261",
+                        "text": "Pruebas:",
+                        "guid": "FFxBCHdGiwIPoatwJGk0RA",
+                        "children": [
+                          {
+                            "id": "264",
+                            "parent": "263",
+                            "text": "Observación: Mantenerse de pie, pies juntos, ojos cerrados.",
+                            "guid": "A8YwRFJUpVEyC_dhH3VAUA",
+                            "children": []
+                          },
+                          {
+                            "id": "265",
+                            "parent": "263",
+                            "text": "Signo de Romberg: Oscilación y caída al cerrar ojos (alteración propioceptiva).",
+                            "guid": "YDZdf2syRks3sEBuSimaOw",
+                            "children": []
+                          },
+                          {
+                            "id": "266",
+                            "parent": "263",
+                            "text": "Maniobras: Dedos índices al frente con ojos cerrados, prueba del empujón.",
+                            "guid": "cq0tUnPRqvUYcKVpMfg1LA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "267",
+                        "parent": "261",
+                        "text": "Interpretación:",
+                        "guid": "REMrPF1OcaVAKeGJRd5WXA",
+                        "children": [
+                          {
+                            "id": "268",
+                            "parent": "267",
+                            "text": "Defectos Vestibulares: Desviación de dedos o tronco.",
+                            "guid": "TQTMWiC-wPIXN9tTGKPQRw",
+                            "children": []
+                          },
+                          {
+                            "id": "269",
+                            "parent": "267",
+                            "text": "Defectos Reflejos Posturales: Inclinación o caída hacia atrás.",
+                            "guid": "YN_hOmxNkIFSVpqnZXlhSw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "270",
+                    "parent": "164",
+                    "text": "Marcha:",
+                    "guid": "JUxwBQMZwsJ71sP2OaixDQ",
+                    "children": [
+                      {
+                        "id": "271",
+                        "parent": "270",
+                        "text": "Concepto: Función compleja, integra varios sistemas.",
+                        "guid": "emBNxAt4b2ZeEeVRfiZ-CA",
+                        "children": []
+                      },
+                      {
+                        "id": "272",
+                        "parent": "270",
+                        "text": "Observación: Durante la entrevista o al caminar.",
+                        "guid": "Xc0UtxAd3LIdm75YPgNyNw",
+                        "children": []
+                      },
+                      {
+                        "id": "273",
+                        "parent": "270",
+                        "text": "Descripción: Según la queja y datos de exploración.",
+                        "guid": "e1Ai_lVL_sYILQxybf1QUA",
+                        "children": []
+                      },
+                      {
+                        "id": "274",
+                        "parent": "270",
+                        "text": "Ejemplos de\nTrastornos:",
+                        "guid": "SR2puyCdsdwf9YV8DWDU9w",
+                        "children": [
+                          {
+                            "id": "275",
+                            "parent": "274",
+                            "text": "Steppage: Elevación exagerada de rodilla (debilidad elevadores del pie).",
+                            "guid": "fewjgWAfZwVTPytUSvDv3A",
+                            "children": []
+                          },
+                          {
+                            "id": "276",
+                            "parent": "274",
+                            "text": "Marcha de Pato o Miopática: Bamboleo de caderas (debilidad erectores y cintura pélvica).",
+                            "guid": "AN4n-Gp3BqdjlMAjYb4JMg",
+                            "children": []
+                          },
+                          {
+                            "id": "277",
+                            "parent": "274",
+                            "text": "Marcha Tabética: Ojos fijos en suelo, golpes bruscos, Romberg positivo.",
+                            "guid": "VsSXKDXrWspHN2p-fBEHLQ",
+                            "children": []
+                          },
+                          {
+                            "id": "278",
+                            "parent": "274",
+                            "text": "Marcha Espástica: Piernas rígidas, arrastre de punta del pie.",
+                            "guid": "OQUdjEMOLnQ1ubg7M2VrUA",
+                            "children": []
+                          },
+                          {
+                            "id": "279",
+                            "parent": "274",
+                            "text": "Marcha Hemipléjica: Brazo flexionado y pegado, pierna extendida y rotada, circunducción.",
+                            "guid": "Toad2hPLnYwxi-lYLFOykg",
+                            "children": []
+                          },
+                          {
+                            "id": "280",
+                            "parent": "274",
+                            "text": "Marcha Parkinsoniana: Pasos cortos, dificultad para iniciar, ausencia de braceo.",
+                            "guid": "I-l6P08np7BqVyTJHzmdPQ",
+                            "children": []
+                          },
+                          {
+                            "id": "281",
+                            "parent": "274",
+                            "text": "Otros\nTrastornos:",
+                            "guid": "OKhXJD-Ttphv6As5D2zuTA",
+                            "children": [
+                              {
+                                "id": "282",
+                                "parent": "281",
+                                "text": "Hidrocefalia Normotensiva: \"Pies pegados al suelo\", apraxia de la marcha.",
+                                "guid": "JHOmdnKEMTsNNu2NbZFQMQ",
+                                "children": []
+                              },
+                              {
+                                "id": "283",
+                                "parent": "281",
+                                "text": "Ataxia Psicógena: Ampliación base, brazos separados, oscilación, caídas aparatosas.",
+                                "guid": "EyHjFy0scwl68iUpEQ4GmQ",
+                                "children": []
+                              },
+                              {
+                                "id": "284",
+                                "parent": "281",
+                                "text": "Ancianos: Marcha cautelosa, pasos cortos, mejoría con sujeción.",
+                                "guid": "DUvaDk4xUH1b_vZ1DioCBg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "285",
+                "parent": "125",
+                "text": "Alteraciones Funcionales\n(Psicógenas):",
+                "guid": "dX8RYjcfdbcLffV5LoQu7w",
+                "children": [
+                  {
+                    "id": "286",
+                    "parent": "285",
+                    "text": "Dificultad para mantenerse de pie con ojos cerrados o marcha en tándem.",
+                    "guid": "ei2kK0E3rbRh6Zo_SLRCBQ",
+                    "children": []
+                  },
+                  {
+                    "id": "287",
+                    "parent": "285",
+                    "text": "Negación de la capacidad.",
+                    "guid": "VQNLQRN1g5h1B_SXeOzFgA",
+                    "children": []
+                  },
+                  {
+                    "id": "288",
+                    "parent": "285",
+                    "text": "Mantenimiento con incitación.",
+                    "guid": "Yp0rSF9fGWAYJmK9BxDRvw",
+                    "children": []
+                  },
+                  {
+                    "id": "289",
+                    "parent": "285",
+                    "text": "Empuje activo contra la mano del explorador.",
+                    "guid": "UeNKnCVdUEp0oiHwZQUtsw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "290",
+        "parent": "0",
+        "text": "Exploración del\nsistema sensitivo",
+        "guid": "Dz0ZGhkC46BnUGBXVWHYcQ",
+        "children": [
+          {
+            "id": "291",
+            "parent": "290",
+            "text": "Parte más difícil del examen neurológico. (1)",
+            "guid": "MG0zQSRMpJxEfDwbVkopUA",
+            "children": []
+          },
+          {
+            "id": "292",
+            "parent": "290",
+            "text": "Dependencia de la colaboración e impresiones subjetivas del paciente. (1)",
+            "guid": "M8FplTlZ2pMc5DhWJ7Lgaw",
+            "children": []
+          },
+          {
+            "id": "293",
+            "parent": "290",
+            "text": "Interpretación cautelosa de los resultados. (1)",
+            "guid": "agvh3gm--rtfqjWyJuFuCQ",
+            "children": []
+          },
+          {
+            "id": "294",
+            "parent": "290",
+            "text": "Técnicas cuantitativas de la sensibilidad: aplicación limitada en clínica. (1)",
+            "guid": "G_0cgXXvPa8zzZYlJZ2DEQ",
+            "children": []
+          },
+          {
+            "id": "295",
+            "parent": "290",
+            "text": "Exploración: (1)",
+            "guid": "",
+            "children": [
+              {
+                "id": "296",
+                "parent": "295",
+                "text": "Paciente con ropa interior, relajado, ojos cerrados. (1)",
+                "guid": "PF5mm3omJb8-2s5jd7jXFg",
+                "children": []
+              },
+              {
+                "id": "297",
+                "parent": "295",
+                "text": "Exploración en ambos decúbitos. (1)",
+                "guid": "UOXZQWNTWXMlk0iyQlljbQ",
+                "children": []
+              },
+              {
+                "id": "298",
+                "parent": "295",
+                "text": "Pacientes poco colaboradores o estuporosos: solo sensibilidad dolorosa. (1)",
+                "guid": "Xf5AfAJGZkAcNNByDmtzvg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "299",
+            "parent": "290",
+            "text": "Sensibilidad\nsuperficial: (1)",
+            "guid": "VGX9dGa9SCtjFckHThntoQ",
+            "children": [
+              {
+                "id": "300",
+                "parent": "299",
+                "text": "Tacto: con una torunda de algodón. (1)",
+                "guid": "REDjxTJKnW9e2OtAFSa9Bw",
+                "children": []
+              },
+              {
+                "id": "301",
+                "parent": "299",
+                "text": "Dolor: con una aguja. (1)",
+                "guid": "FZ324gRsM_NXgCB0c5w3Xw",
+                "children": []
+              },
+              {
+                "id": "302",
+                "parent": "299",
+                "text": "Temperatura: con tubos de agua fría y caliente. (1)",
+                "guid": "BrKaM3O08OYCB6sdLUWlEA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "303",
+            "parent": "290",
+            "text": "Sensibilidad\nprofunda: (1)",
+            "guid": "B_a9Rwl1RKwXa7MsTDehDQ",
+            "children": [
+              {
+                "id": "304",
+                "parent": "303",
+                "text": "Vibración: con diapasón. (1)",
+                "guid": "MsNFkG5HxW97j0dkOCMdiQ",
+                "children": []
+              },
+              {
+                "id": "305",
+                "parent": "303",
+                "text": "Posición: movilización de las articulaciones. (1)",
+                "guid": "Fl36LVC3gZInjtdhSDMppg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "306",
+            "parent": "290",
+            "text": "Sensibilidad\ncortical: (1)",
+            "guid": "BYnxcj3b_0EWBXWhMEufAg",
+            "children": [
+              {
+                "id": "307",
+                "parent": "306",
+                "text": "Discriminación de dos puntos: con compás. (1)",
+                "guid": "O7_iG3ZEnm1hXl4UUV3Y_g",
+                "children": []
+              },
+              {
+                "id": "308",
+                "parent": "306",
+                "text": "Grafestesia: reconocimiento de figuras trazadas en la piel. (1)",
+                "guid": "erDSYDjefohE-hBdAWNskw",
+                "children": []
+              },
+              {
+                "id": "309",
+                "parent": "306",
+                "text": "Estereognosia: reconocimiento de objetos por el tacto. (1)",
+                "guid": "LJNvbkcBu3ouqRGkAPls4g",
+                "children": []
+              },
+              {
+                "id": "310",
+                "parent": "306",
+                "text": "Extinción sensitiva: incapacidad para percibir dos estímulos simultáneos en partes simétricas del cuerpo. (1)",
+                "guid": "Lb8DpRG-2qtPE1qEYIJJNQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "311",
+            "parent": "290",
+            "text": "Alteraciones\nsensitivas: (1)",
+            "guid": "G1ojekA0PiBel8PvIOQU7A",
+            "children": [
+              {
+                "id": "312",
+                "parent": "311",
+                "text": "Anestesia: pérdida total de la sensibilidad. (1)",
+                "guid": "AAagG0qioegYpWa_FmSaSA",
+                "children": []
+              },
+              {
+                "id": "313",
+                "parent": "311",
+                "text": "Hipoestesia: disminución de la sensibilidad. (1)",
+                "guid": "fhA9YXSdOZBRL7PuBgb6qQ",
+                "children": []
+              },
+              {
+                "id": "314",
+                "parent": "311",
+                "text": "Hiperestesia: aumento de la sensibilidad. (1)",
+                "guid": "fhJ-PGibZxtSPpu2OdJgWA",
+                "children": []
+              },
+              {
+                "id": "315",
+                "parent": "311",
+                "text": "Parestesia: sensación anormal espontánea (hormigueo, adormecimiento). (1)",
+                "guid": "XuAFiDOc-coLMDlWWZDX6A",
+                "children": []
+              },
+              {
+                "id": "316",
+                "parent": "311",
+                "text": "Disestesia: sensación anormal desagradable. (1)",
+                "guid": "bHt4UlAqSbNa9ER7GQ7nwA",
+                "children": []
+              },
+              {
+                "id": "317",
+                "parent": "311",
+                "text": "Alodínia: dolor ante un estímulo no doloroso. (1)",
+                "guid": "FywFLQmdVh8aCFSjROsI0g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "318",
+        "parent": "0",
+        "text": "Exploración del sistema\nnervioso vegetativo",
+        "guid": "JpMK3WCxDI1ktZ0ONdAj9w",
+        "children": [
+          {
+            "id": "319",
+            "parent": "318",
+            "text": "Compleja por la variedad\nde funciones: (1)",
+            "guid": "G1wwy2kbryclbVIHG2LQ5g",
+            "children": [
+              {
+                "id": "320",
+                "parent": "319",
+                "text": "Función vasomotora. (1)",
+                "guid": "M75RDz4SuMYxx2suTxh0iQ",
+                "children": []
+              },
+              {
+                "id": "321",
+                "parent": "319",
+                "text": "Función sudoral. (1)",
+                "guid": "fkb25hBfLx1v_Il1fFc0SA",
+                "children": []
+              },
+              {
+                "id": "322",
+                "parent": "319",
+                "text": "Secreción lagrimal. (1)",
+                "guid": "BPxorUEsPWQCXi7xAw7m6g",
+                "children": []
+              },
+              {
+                "id": "323",
+                "parent": "319",
+                "text": "Motilidad del tubo digestivo. (1)",
+                "guid": "Kcekf1Scyqc84UdCCKeqBw",
+                "children": []
+              },
+              {
+                "id": "324",
+                "parent": "319",
+                "text": "Función vesical. (1)",
+                "guid": "CDnEcUgRgJhiOIHvdLU8ww",
+                "children": []
+              },
+              {
+                "id": "325",
+                "parent": "319",
+                "text": "Función sexual. (1)",
+                "guid": "GDvKSz0sxmoNxCSDL2fPeA",
+                "children": []
+              },
+              {
+                "id": "326",
+                "parent": "319",
+                "text": "Pruebas pupilares. (1)",
+                "guid": "RsociifMeSZ0UthKYiZNVQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "327",
+        "parent": "0",
+        "text": "Exploración de los pares craneales",
+        "guid": "P6-4hwO7d1tScQ5GRKwhNA",
+        "children": [
+          {
+            "id": "328",
+            "parent": "327",
+            "text": "General",
+            "guid": "",
+            "children": [
+              {
+                "id": "329",
+                "parent": "328",
+                "text": "I par \n(nervio olfatorio): (1)",
+                "guid": "KWwH3gScT2B3VwNFMaXMTw",
+                "children": [
+                  {
+                    "id": "330",
+                    "parent": "329",
+                    "text": "Se explora la olfacción con olores cotidianos. (1)",
+                    "guid": "TK3P-FmPhTQmWwkSZOmaQw",
+                    "children": []
+                  },
+                  {
+                    "id": "331",
+                    "parent": "329",
+                    "text": "La pérdida del olfato se llama anosmia. (1)",
+                    "guid": "FrxLnjQfLZYUUWm7XYZoKA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "332",
+                "parent": "328",
+                "text": "II par \n(nervio óptico): (1)",
+                "guid": "W-umvAikQgU_rLV9bNPPCg",
+                "children": [
+                  {
+                    "id": "333",
+                    "parent": "332",
+                    "text": "Se valora la agudeza visual, el campo visual, el fondo de ojo y la discriminación de colores. (1)",
+                    "guid": "ImRsVz0107gxekhmejdPbw",
+                    "children": []
+                  },
+                  {
+                    "id": "334",
+                    "parent": "332",
+                    "text": "Las lesiones del nervio óptico producen defectos del campo visual. (1)",
+                    "guid": "bIZdIkU5NkxQUSltLDYVqQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "335",
+                "parent": "328",
+                "text": "III par \n(nervio oculomotor): (1)",
+                "guid": "SPStpyLCN7Rw4jbdDdxiZg",
+                "children": [
+                  {
+                    "id": "336",
+                    "parent": "335",
+                    "text": "Se explora la motilidad ocular, la elevación del párpado superior y las pupilas. (1)",
+                    "guid": "d5F06zidPvx8i7ukIP18yg",
+                    "children": []
+                  },
+                  {
+                    "id": "337",
+                    "parent": "335",
+                    "text": "La ptosis palpebral es la caída del párpado superior por debilidad del músculo elevador del párpado. (1)",
+                    "guid": "PTmOXHPivulSo0kZCedeVQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "338",
+                "parent": "328",
+                "text": "IV par \n(nervio troclear): (1)",
+                "guid": "TXJEHXj-Uixu0PiYZC6Puw",
+                "children": [
+                  {
+                    "id": "339",
+                    "parent": "338",
+                    "text": "Inerva el músculo oblicuo superior del ojo. (1)",
+                    "guid": "LR1_wgMiYlRBtPfkCQkmfg",
+                    "children": []
+                  },
+                  {
+                    "id": "340",
+                    "parent": "338",
+                    "text": "Su parálisis produce diplopía vertical. (1)",
+                    "guid": "C8akWQFhrWF13PWILisQsA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "341",
+                "parent": "328",
+                "text": "V par \n(nervio trigémino): (1)",
+                "guid": "PpeBGidXPe8oYmAfKx3ePA",
+                "children": [
+                  {
+                    "id": "342",
+                    "parent": "341",
+                    "text": "Tiene tres ramas: oftálmica, maxilar y mandibular. (1)",
+                    "guid": "bJB0O3iziY1XU_PlNYUh4g",
+                    "children": []
+                  },
+                  {
+                    "id": "343",
+                    "parent": "341",
+                    "text": "Se explora la sensibilidad de la cara y la fuerza de los músculos de la masticación. (1)",
+                    "guid": "G3XBQUg2KsJDYYRIEwc2LA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "344",
+                "parent": "328",
+                "text": "VI par\n(nervio abducens): (1)",
+                "guid": "ANNpvj_tP-w0BLL2Pgz4Gw",
+                "children": [
+                  {
+                    "id": "345",
+                    "parent": "344",
+                    "text": "Inerva el músculo recto externo del ojo. (1)",
+                    "guid": "M8_-1Qan_BBH9FZwAUJC8g",
+                    "children": []
+                  },
+                  {
+                    "id": "346",
+                    "parent": "344",
+                    "text": "Su parálisis produce diplopía horizontal. (1)",
+                    "guid": "f6ZOPDbFTwhlcNKtLMPN_g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "347",
+                "parent": "328",
+                "text": "VII par \n(nervio facial): (1)",
+                "guid": "OeexXCclypE1zPR8Ra5Vtg",
+                "children": [
+                  {
+                    "id": "348",
+                    "parent": "347",
+                    "text": "Inerva los músculos de la cara. (1)",
+                    "guid": "KId38yup6gVz2WZmZx75DQ",
+                    "children": []
+                  },
+                  {
+                    "id": "349",
+                    "parent": "347",
+                    "text": "Su parálisis produce asimetría facial. (1)",
+                    "guid": "UwEn9Bw7xoYSPNdJP5GcLw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "350",
+                "parent": "328",
+                "text": "VIII par \n(nervio vestibulococlear): (1)",
+                "guid": "FO9QE2mQyy51Fr4RMGURVA",
+                "children": [
+                  {
+                    "id": "351",
+                    "parent": "350",
+                    "text": "Tiene dos ramas: coclear (audición) y vestibular (equilibrio). (1)",
+                    "guid": "Mcb18Dh4QllDbEeAMppfrw",
+                    "children": []
+                  },
+                  {
+                    "id": "352",
+                    "parent": "350",
+                    "text": "Se explora la audición con diapasones y pruebas vestibulares. (1)",
+                    "guid": "eGWCRXdw-ndwp1fKLDWBGg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "353",
+                "parent": "328",
+                "text": "IX par \n(nervio glosofaríngeo): (1)",
+                "guid": "fhj2hzibrjotd8QMfb9Eww",
+                "children": [
+                  {
+                    "id": "354",
+                    "parent": "353",
+                    "text": "Inerva la faringe y el tercio posterior de la lengua. (1)",
+                    "guid": "b2D9QhLolrkqgxLBKUiunw",
+                    "children": []
+                  },
+                  {
+                    "id": "355",
+                    "parent": "353",
+                    "text": "Se explora el reflejo nauseoso y la sensibilidad del paladar. (1)",
+                    "guid": "Og5hS2BQBz1u9wRVYpXZPg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "356",
+                "parent": "328",
+                "text": "X par \n(nervio vago): (1)",
+                "guid": "C_nxQmLQartJtNJLXvsZNg",
+                "children": [
+                  {
+                    "id": "357",
+                    "parent": "356",
+                    "text": "Inerva la faringe, la laringe y las vísceras torácicas y abdominales. (1)",
+                    "guid": "fwwxQVvxqZQejLVlE_uBVA",
+                    "children": []
+                  },
+                  {
+                    "id": "358",
+                    "parent": "356",
+                    "text": "Se explora la voz y la deglución. (1)",
+                    "guid": "RYJ0whOjc3ZEYJKod0lqsg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "359",
+                "parent": "328",
+                "text": "XI par \n(nervio accesorio): (1)",
+                "guid": "TBu1zwfM2ikp48phRIE4FA",
+                "children": [
+                  {
+                    "id": "360",
+                    "parent": "359",
+                    "text": "Inerva los músculos esternocleidomastoideo y trapecio. (1)",
+                    "guid": "fz3UoBqLIitwtrkufVbLJw",
+                    "children": []
+                  },
+                  {
+                    "id": "361",
+                    "parent": "359",
+                    "text": "Se explora la fuerza de estos músculos. (1)",
+                    "guid": "UybQZR4ufTp7Fg_qQofNqA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "362",
+                "parent": "328",
+                "text": "XII par \n(nervio hipogloso): (1)",
+                "guid": "MRcT9CWZIqtr0HxHayV1Pw",
+                "children": [
+                  {
+                    "id": "363",
+                    "parent": "362",
+                    "text": "Inerva la lengua. (1)",
+                    "guid": "Bekp6FrHgJxNu059EeMbKw",
+                    "children": []
+                  },
+                  {
+                    "id": "364",
+                    "parent": "362",
+                    "text": "Se explora la motilidad de la lengua. (1)",
+                    "guid": "PZfrVxdwIMhw3jRhPKQcmQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "365",
+            "parent": "327",
+            "text": "Evaluación\nsistemáticatica",
+            "guid": "GHUflBCSptAuYPNCAW0Ebw",
+            "children": [
+              {
+                "id": "366",
+                "parent": "365",
+                "text": "Motilidad ocular\nintrínseca:",
+                "guid": "ffl7FGNYXSMWotGwQfH1Fg",
+                "children": [
+                  {
+                    "id": "367",
+                    "parent": "366",
+                    "text": "Se explora con una linterna. (1)",
+                    "guid": "c2HKXA9q6cdQn53tOOQ_Hg",
+                    "children": []
+                  },
+                  {
+                    "id": "368",
+                    "parent": "366",
+                    "text": "Observar el tamaño y la forma de las pupilas. (1)",
+                    "guid": "Iw5dPRUAMJYwLanQbyoTDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "369",
+                    "parent": "366",
+                    "text": "Anisocoria: diferencia de tamaño\nentre las dos pupilas. (1)",
+                    "guid": "HM0Kv1oRdDIzq0shHArfXw",
+                    "children": [
+                      {
+                        "id": "370",
+                        "parent": "369",
+                        "text": "Fisiológica: en un 20% de la población. (1)",
+                        "guid": "dJyWXSRiBFAZYaqGR8Nmww",
+                        "children": []
+                      },
+                      {
+                        "id": "371",
+                        "parent": "369",
+                        "text": "Patológica: lesión del nervio óptico, nervio oculomotor o sistema simpático. (1)",
+                        "guid": "QpCBihR3unAKSzRrc6eVfg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "372",
+                    "parent": "366",
+                    "text": "Forma de la pupila: irregular en\nsíndromes iridocorneales. (1)",
+                    "guid": "OhDdG3YbsLJezQq9P_oHAw",
+                    "children": []
+                  },
+                  {
+                    "id": "373",
+                    "parent": "366",
+                    "text": "Reflejo fotomotor: contracción\npupilar al iluminar el ojo. (1)",
+                    "guid": "UOMxTiyIWTpR3SIuDnscpQ",
+                    "children": [
+                      {
+                        "id": "374",
+                        "parent": "373",
+                        "text": "Vía aferente: nervio óptico. (1)",
+                        "guid": "Q_h6AkK7VpBLHzk-N1pEXg",
+                        "children": []
+                      },
+                      {
+                        "id": "375",
+                        "parent": "373",
+                        "text": "Vía eferente: nervio oculomotor. (1)",
+                        "guid": "UiZAVxu-1yxwPoN8dTSdlA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "376",
+                    "parent": "366",
+                    "text": "Defecto pupilar aferente relativo:\nlesión del nervio óptico. (1)",
+                    "guid": "ML8HwiBsLU1kXrChTYwSgQ",
+                    "children": [
+                      {
+                        "id": "377",
+                        "parent": "376",
+                        "text": "Pupila se contrae menos al\niluminar el ojo afectado. (1)",
+                        "guid": "en2hfxgJ-8NplvHgbxo33A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "378",
+                    "parent": "366",
+                    "text": "Reflejo consensual: contracción\npupilar al iluminar el otro ojo. (1)",
+                    "guid": "PGwAEwL4nGY23Z6ffvyBnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "379",
+                    "parent": "366",
+                    "text": "Reflejo de acomodación-convergencia: contracción pupilar\ny convergencia ocular al mirar un objeto cercano. (1)",
+                    "guid": "F3BW1kEo0wpypBccUYEz8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "380",
+                "parent": "365",
+                "text": "V, VII, IX y X pares:\nnervios craneales mixtos\n(sensitivos y motores). (1)",
+                "guid": "JhOzs2HCCu55TDl1eDn0Cg",
+                "children": [
+                  {
+                    "id": "381",
+                    "parent": "380",
+                    "text": "V par\n(trigémino):",
+                    "guid": "fYDiGmmKvPFtbpGeLj_p3A",
+                    "children": [
+                      {
+                        "id": "382",
+                        "parent": "381",
+                        "text": "Tres ramas:\n(1)",
+                        "guid": "CfbqPlHNQkB7y_xdBHSLvQ",
+                        "children": [
+                          {
+                            "id": "383",
+                            "parent": "382",
+                            "text": "Oftálmica (sensitiva). (1)",
+                            "guid": "adc-A2Vi7j1zjsOaJkM-Fg",
+                            "children": []
+                          },
+                          {
+                            "id": "384",
+                            "parent": "382",
+                            "text": "Maxilar (sensitiva). (1)",
+                            "guid": "aFuKoypsYjklP7-zf8vheQ",
+                            "children": []
+                          },
+                          {
+                            "id": "385",
+                            "parent": "382",
+                            "text": "Mandibular (mixta). (1)",
+                            "guid": "a5U1RBfj1s9RTRVqItm5AA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "386",
+                        "parent": "381",
+                        "text": "Sensibilidad de la cara: se explora con un algodón y una aguja. (1)",
+                        "guid": "aVT4qWLIUF8rAW4LZ05zvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "387",
+                        "parent": "381",
+                        "text": "Fuerza de los músculos de la masticación: se pide al paciente que apriete los dientes y mueva la mandíbula. (1)",
+                        "guid": "RiCtgkGkP7spQGjTbDRhNQ",
+                        "children": []
+                      },
+                      {
+                        "id": "388",
+                        "parent": "381",
+                        "text": "Reflejo corneal: cierre de los párpados al tocar la córnea. (1)",
+                        "guid": "I2ZKqSKMokhkblU_IOcsxA",
+                        "children": []
+                      },
+                      {
+                        "id": "389",
+                        "parent": "381",
+                        "text": "Reflejo maseterino: cierre de la boca al percutir el mentón. (1)",
+                        "guid": "DBdfOlHc5t1PJxagFg5JeA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "390",
+                    "parent": "380",
+                    "text": "VII par\n(facial):",
+                    "guid": "I6opHUrzEv4agtU2DYFnIA",
+                    "children": [
+                      {
+                        "id": "391",
+                        "parent": "390",
+                        "text": "Función motora: se explora pidiendo al paciente que arrugue la frente,\ncierre los ojos, sonría y hinche las mejillas. (1)",
+                        "guid": "MFYBOw4RmNAzxKU2GLGL3w",
+                        "children": []
+                      },
+                      {
+                        "id": "392",
+                        "parent": "390",
+                        "text": "Función gustativa: se explora en los dos tercios anteriores de la lengua. (1)",
+                        "guid": "OH37CVkEZOoYfW1YJBMwTQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "393",
+                    "parent": "380",
+                    "text": "IX y X pares (nervios\nglosofaríngeo y vago):",
+                    "guid": "efS2JCwXao5NB8bZKa3yeA",
+                    "children": [
+                      {
+                        "id": "394",
+                        "parent": "393",
+                        "text": "Se exploran juntos. (1)",
+                        "guid": "RPqgKDT2vkhlPcrKA0Qsrw",
+                        "children": []
+                      },
+                      {
+                        "id": "395",
+                        "parent": "393",
+                        "text": "Se necesita un depresor de lengua y una torunda de algodón. (1)",
+                        "guid": "Ao024FoEx8tNMik-KVvz2A",
+                        "children": []
+                      },
+                      {
+                        "id": "396",
+                        "parent": "393",
+                        "text": "IX par\n(glosofaríngeo):",
+                        "guid": "cOg7uWnKgsNG7OlOWj00Yg",
+                        "children": [
+                          {
+                            "id": "397",
+                            "parent": "396",
+                            "text": "Función motora: se explora\nel reflejo nauseoso. (1)",
+                            "guid": "TJLTInHuV1lBi6gfErOApA",
+                            "children": [
+                              {
+                                "id": "398",
+                                "parent": "397",
+                                "text": "Paresia del IX par: velo del paladar caído e hipotónico, desviación de la úvula al lado sano. (1)",
+                                "guid": "KIsqhHyB4YdRl62xVWkoCA",
+                                "children": []
+                              },
+                              {
+                                "id": "399",
+                                "parent": "397",
+                                "text": "Laringoscopia: se utiliza para\nvisualizar las cuerdas vocales. (1)",
+                                "guid": "IuuqZVWaOhR1A6XuD59UYQ",
+                                "children": [
+                                  {
+                                    "id": "400",
+                                    "parent": "399",
+                                    "text": "Paresia de una cuerda vocal: voz bitonal. (1)",
+                                    "guid": "GQ6MRkxzkHAPgkJPE0G4yA",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "401",
+                                    "parent": "399",
+                                    "text": "Paresia bilateral de las cuerdas vocales: disfonía intensa. (1)",
+                                    "guid": "D0hw8zzgekx7AgsgCT0nFw",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "402",
+                                "parent": "397",
+                                "text": "Reflejo nauseoso: se provoca al tocar el pilar posterior de la faringe. (1)",
+                                "guid": "SDpWjh8F-4YjhB3cET8R0w",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "403",
+                            "parent": "396",
+                            "text": "Función sensitiva: se explora la sensibilidad del tercio posterior de la lengua y el paladar. (1)",
+                            "guid": "M5KXFGrMEPN-5-HZVvjhvQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "404",
+                    "parent": "380",
+                    "text": "X par\n(vago):",
+                    "guid": "DVizO2NWNxh34A6BGXASdQ",
+                    "children": [
+                      {
+                        "id": "405",
+                        "parent": "404",
+                        "text": "Función motora: se explora la voz y la deglución. (1)",
+                        "guid": "NTMd9UcHJSIvflvuWN1HEw",
+                        "children": []
+                      },
+                      {
+                        "id": "406",
+                        "parent": "404",
+                        "text": "Función vegetativa: se explora el ritmo cardiaco y la función respiratoria. (1)",
+                        "guid": "Efo4IEoBMSRmXq4zQlA5Ww",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "407",
+                "parent": "365",
+                "text": "XI par accesorio\n(nervio espinal):",
+                "guid": "aPfk2kgJ0fky6xmQLfKFAw",
+                "children": [
+                  {
+                    "id": "408",
+                    "parent": "407",
+                    "text": "Es puramente\nmotor. (1)",
+                    "guid": "fQCQQhgo5FoxNrGyf43HIg",
+                    "children": [
+                      {
+                        "id": "409",
+                        "parent": "408",
+                        "text": "Inerva el trapecio y el esternocleidomastoideo. (1)",
+                        "guid": "ci2sJX5o2vAo6br6GrjWqQ",
+                        "children": []
+                      },
+                      {
+                        "id": "410",
+                        "parent": "408",
+                        "text": "Se explora la fuerza de los músculos esternocleidomastoideo y trapecio. (1)",
+                        "guid": "cye4VHN_MpM0o_VLZA_0DQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "411",
+                    "parent": "407",
+                    "text": "Se explora pidiendo al paciente que levante los hombros y gire la cabeza contra resistencia. (1)",
+                    "guid": "euq8d3qBaKtwIf6xQyUTBg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "412",
+                "parent": "365",
+                "text": "XII par\n(hipogloso):",
+                "guid": "XUm1VnuQ3pk-TShwKdyIeA",
+                "children": [
+                  {
+                    "id": "413",
+                    "parent": "412",
+                    "text": "Se explora la motilidad de la lengua. (1)",
+                    "guid": "bX818n_Y0I88kAkcIRHNBg",
+                    "children": []
+                  },
+                  {
+                    "id": "414",
+                    "parent": "412",
+                    "text": "Se pide al paciente que saque la lengua y la mueva en todas direcciones. (1)",
+                    "guid": "aqThgjt36vV4Cq7Dd_2Uvg",
+                    "children": []
+                  },
+                  {
+                    "id": "415",
+                    "parent": "412",
+                    "text": "XII par (nervio\nhipogloso):",
+                    "guid": "GYdkMhOmHI1UZCTZPHMOlw",
+                    "children": [
+                      {
+                        "id": "416",
+                        "parent": "415",
+                        "text": "Se explora la motilidad de la lengua. (1)",
+                        "guid": "aUBWoUlnysdMEmL4Ak7i6A",
+                        "children": []
+                      },
+                      {
+                        "id": "417",
+                        "parent": "415",
+                        "text": "Se pide al paciente que saque la lengua y la mueva en todas direcciones. (1)",
+                        "guid": "FdtbN1uUpUgVkJuwJSPMKw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "418",
+                "parent": "365",
+                "text": "VII par\n(nervio facial):",
+                "guid": "BV_X-SgWNL5VKDoub2u51w",
+                "children": [
+                  {
+                    "id": "419",
+                    "parent": "418",
+                    "text": "Función\ngustativa:",
+                    "guid": "Hs4iDW_qvUURbaczVAFAAg",
+                    "children": [
+                      {
+                        "id": "420",
+                        "parent": "419",
+                        "text": "Se explora en los dos tercios anteriores de la lengua. (1)",
+                        "guid": "NvHiZ0DsAyEs3ocVSOwahw",
+                        "children": []
+                      },
+                      {
+                        "id": "421",
+                        "parent": "419",
+                        "text": "Se utilizan soluciones con sabores básicos (dulce, salado, ácido, amargo). (1)",
+                        "guid": "Cu00RRM9NUkLPFPiYv_-OQ",
+                        "children": []
+                      },
+                      {
+                        "id": "422",
+                        "parent": "419",
+                        "text": "Ageusia: pérdida del sentido del gusto. (1)",
+                        "guid": "LWCIs2Y-GR1zkMM3IIhBBw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "423",
+                    "parent": "418",
+                    "text": "Función\nvegetativa:",
+                    "guid": "Wb1LsCg0uIIEmDUUNwcBBg",
+                    "children": [
+                      {
+                        "id": "424",
+                        "parent": "423",
+                        "text": "Las fibras vegetativas parasimpáticas del nervio facial inervan las glándulas lagrimales y salivales. (1)",
+                        "guid": "I8WXG0LlXYRg44l-EUTNDQ",
+                        "children": []
+                      },
+                      {
+                        "id": "425",
+                        "parent": "423",
+                        "text": "Se explora la secreción lagrimal\nmediante la prueba de Schirmer: (1)",
+                        "guid": "Qr4uFB1zkpoyVpoTLWMPlg",
+                        "children": [
+                          {
+                            "id": "426",
+                            "parent": "425",
+                            "text": "Se colocan tiras de papel de filtro en ambos párpados inferiores. (1)",
+                            "guid": "WOt9jyphSNYlYKRUd7mfnA",
+                            "children": []
+                          },
+                          {
+                            "id": "427",
+                            "parent": "425",
+                            "text": "Se mide la cantidad de lágrimas que humedecen el papel en un tiempo determinado. (1)",
+                            "guid": "GkwGGzbOS4hLut-eUT3ogg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "428",
+                    "parent": "418",
+                    "text": "Función\nsensitiva:",
+                    "guid": "d7pOqXiZZrQaKgMJAqeC7w",
+                    "children": [
+                      {
+                        "id": "429",
+                        "parent": "428",
+                        "text": "El nervio facial tiene un pequeño contingente de fibras sensitivas\nque inervan la parte superior del pabellón auricular. (1)",
+                        "guid": "C9ab_SVmVuxlp4EoOTcksA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "430",
+                "parent": "365",
+                "text": "VIII par (nervio\nestatoacústico):",
+                "guid": "C6RwCVk4RF9Zv2W3ZWG7uQ",
+                "children": [
+                  {
+                    "id": "431",
+                    "parent": "430",
+                    "text": "Función\nacústica:",
+                    "guid": "AWz84V5XmsscaLy_JTKT_A",
+                    "children": [
+                      {
+                        "id": "432",
+                        "parent": "431",
+                        "text": "Se explora la audición con diapasones. (1)",
+                        "guid": "ITz4UH1MRj02d2EJY_smZA",
+                        "children": []
+                      },
+                      {
+                        "id": "433",
+                        "parent": "431",
+                        "text": "Hipoacusia: pérdida de audición. (1)",
+                        "guid": "Gr_Y12jN-xwRXjX6c6tWZg",
+                        "children": []
+                      },
+                      {
+                        "id": "434",
+                        "parent": "431",
+                        "text": "Pruebas de\ndiapasones:",
+                        "guid": "Ey9D8za-2k9rZPYCLXtKDg",
+                        "children": [
+                          {
+                            "id": "435",
+                            "parent": "434",
+                            "text": "Prueba de Rinne: compara la vía aérea con la ósea. (1)",
+                            "guid": "bY0l1zcf1aB-uTKRZUd0gA",
+                            "children": []
+                          },
+                          {
+                            "id": "436",
+                            "parent": "434",
+                            "text": "Prueba de Weber: lateraliza la vibración del diapasón en la cabeza. (1)",
+                            "guid": "L7k8VBjjNZpn7vdvO4_YUQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "437",
+                        "parent": "431",
+                        "text": "Audiometría: prueba instrumental para medir la audición. (1)",
+                        "guid": "PkmMhk2WeJh0xv0BSe38jw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "438",
+                    "parent": "430",
+                    "text": "Función\nvestibular:",
+                    "guid": "Js68906GYrgvT7hIKDu52Q",
+                    "children": [
+                      {
+                        "id": "439",
+                        "parent": "438",
+                        "text": "Se explora mediante pruebas que buscan nistagmo o desviación del tronco. (1)",
+                        "guid": "LN39hEu4dQdNbk3VThr11A",
+                        "children": []
+                      },
+                      {
+                        "id": "440",
+                        "parent": "438",
+                        "text": "Nistagmo: movimiento oscilatorio rítmico de los ojos. (1)",
+                        "guid": "SQS7RAPlrt8yFhw4Y8SUGw",
+                        "children": []
+                      },
+                      {
+                        "id": "441",
+                        "parent": "438",
+                        "text": "Gafas de Frenzel: se utilizan para anular la fijación de la mirada y facilitar la observación del nistagmo. (1)",
+                        "guid": "bLOp-0N0UjJXb-qBf-Lt7g",
+                        "children": []
+                      },
+                      {
+                        "id": "442",
+                        "parent": "438",
+                        "text": "Prueba del impulso cefálico: se gira la cabeza del paciente rápidamente y se observa si los ojos siguen fijos en un punto. (1)",
+                        "guid": "ejMsgULU4IMtXjf9Z8BSWA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "443",
+        "parent": "0",
+        "text": "Síndromes neurológicos\nde origen psíquico",
+        "guid": "MdUveTTSb-AWTSfgTdJL-g",
+        "children": [
+          {
+            "id": "444",
+            "parent": "443",
+            "text": "Muchos pacientes: síntomas funcionales\n→ médico general y especialistas. (1)",
+            "guid": "WJx4ymFMDNIvX4lyVZ0JDA",
+            "children": [
+              {
+                "id": "445",
+                "parent": "444",
+                "text": "Neurología: ⅓ de consultas. (1)",
+                "guid": "eXTxLGCWOyRVKtAua6KdUg",
+                "children": []
+              },
+              {
+                "id": "446",
+                "parent": "444",
+                "text": "Comorbilidad psiquiátrica: depresión, ansiedad, pánico, trastornos somatomorfos. (1)",
+                "guid": "Xv8WFH4UiykGW3P7WenSjA",
+                "children": []
+              },
+              {
+                "id": "447",
+                "parent": "444",
+                "text": "Incapacidad similar o mayor que pacientes orgánicos. (1)",
+                "guid": "eJXz1HZ9cq0dDuWSEh1YBg",
+                "children": []
+              },
+              {
+                "id": "448",
+                "parent": "444",
+                "text": "Más síntomas físicos y dolor. (1)",
+                "guid": "CiOPOnFzCmtOkGaec2Pl3A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "449",
+            "parent": "443",
+            "text": "Trastornos neurológicos\nfuncionales o psicógenos: (1)",
+            "guid": "OtrVMhqiyZZ1ssjEULYwag",
+            "children": [
+              {
+                "id": "450",
+                "parent": "449",
+                "text": "Clasificación descriptiva: queja (sensitiva, visual, motora)\no base psicopatológica. (1)",
+                "guid": "djdu3gtDZHR12fyVDqyOcw",
+                "children": [
+                  {
+                    "id": "451",
+                    "parent": "450",
+                    "text": "Conversión y disociación: signos positivos (ceguera, parálisis). (1)",
+                    "guid": "G9YLRCQ679cQGZLidHKEDg",
+                    "children": []
+                  },
+                  {
+                    "id": "452",
+                    "parent": "450",
+                    "text": "Somatización o hipocondría: quejas sin hallazgos (mareo, dolor). (1)",
+                    "guid": "BYb8qj95HFRKD40afvvt1g",
+                    "children": []
+                  },
+                  {
+                    "id": "453",
+                    "parent": "450",
+                    "text": "Simulación: voluntaria, para obtener beneficios. (1)",
+                    "guid": "IA9XeB86XUlqnosofw5tjA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "454",
+            "parent": "443",
+            "text": "Trastornos afectivos \n→ quejas somáticas dolorosas (cefaleas, cervicalgia, dorsalgia, cansancio, molestias en extremidades). (1)",
+            "guid": "HU7ocnD5_yRY-EAYFeTcRg",
+            "children": [
+              {
+                "id": "455",
+                "parent": "454",
+                "text": "Molestias: difusas, imprecisas, cambiantes, hemicorporales (izquierdas), opresión precordial. (1)",
+                "guid": "Z3dx0XYHJaooAjRNcZsBCw",
+                "children": []
+              },
+              {
+                "id": "456",
+                "parent": "454",
+                "text": "Síntomas ansiosos: mareos, fobias, taquicardia, insomnio, sudoración, angustia. (1)",
+                "guid": "Z3owFXaSmutk_ubnIlUFSA",
+                "children": []
+              },
+              {
+                "id": "457",
+                "parent": "454",
+                "text": "Síntomas disociativos: sobre el cuerpo o la realidad. (1)",
+                "guid": "ETVkgVqxr6tzCzWyB2zTYA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "458",
+            "parent": "443",
+            "text": "Neurosis de conversión: alteraciones visuales, del equilibrio, crisis de inconsciencia, trastornos motores o sensitivos\n→ simulan lesión orgánica. (1)",
+            "guid": "ZfUUH2jlMkcWGWHTAcsfZA",
+            "children": []
+          },
+          {
+            "id": "459",
+            "parent": "443",
+            "text": "Diagnóstico diferencial:\nreglas generales. (1)",
+            "guid": "DSAiHiYy9LV2PaNyEqceyA",
+            "children": [
+              {
+                "id": "460",
+                "parent": "459",
+                "text": "Trastornos psicógenos: comienzo y evolución\nno se ajustan al síndrome clínico que imitan. (1)",
+                "guid": "ZawRCUBNMI0RowyfBbtogQ",
+                "children": [
+                  {
+                    "id": "461",
+                    "parent": "460",
+                    "text": "Ejemplo: temblor parkinsoniano brusco e intenso. (1)",
+                    "guid": "X4eN1nxBl8cEydYNfNZ2SA",
+                    "children": []
+                  },
+                  {
+                    "id": "462",
+                    "parent": "460",
+                    "text": "Excepciones: hemicorea-balismo vascular, distonía farmacológica. (1)",
+                    "guid": "bTuW613CFiYSu1KOVLMIvA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "463",
+                "parent": "459",
+                "text": "Evolución caprichosa, no responden a\nfármacos como se espera. (1)",
+                "guid": "U8k70Dq9httGTgnIO0Nr5g",
+                "children": [
+                  {
+                    "id": "464",
+                    "parent": "463",
+                    "text": "Ejemplo: crisis epilépticas vs.\ncrisis psicógenas. (1)",
+                    "guid": "MVAhxitM8K9dmHEuQoWGSA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "465",
+                "parent": "459",
+                "text": "Sensibles al nivel de atención,\nvariables con la sugestión. (1)",
+                "guid": "Bf6gW1CjpuBJ8lmoa_O0eg",
+                "children": [
+                  {
+                    "id": "466",
+                    "parent": "465",
+                    "text": "Ejemplo: movimientos anormales psicógenos ↓ con cálculo mental. (1)",
+                    "guid": "OYjZJ2ALu3ttvtPeRqj7RQ",
+                    "children": []
+                  },
+                  {
+                    "id": "467",
+                    "parent": "465",
+                    "text": "Defecto sensitivo, incoordinación, alteración visual: modificables por sugestión. (1)",
+                    "guid": "Bj6wMGP8d1FZUBoOa-rBOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "468",
+                    "parent": "465",
+                    "text": "Crisis seudoepilépticas: fácilmente inducibles. (1)",
+                    "guid": "JEmn3mrzJq1xpim6A9E1tA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "469",
+                "parent": "459",
+                "text": "Prudencia al valorar la sugestionabilidad → posibles manifestaciones psicógenas en pacientes con alteraciones orgánicas. (1)",
+                "guid": "ZzS-dHZv_8cAp6v8VHBVYA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "470",
+            "parent": "443",
+            "text": "Comunicación del\ndiagnóstico:",
+            "guid": "a_RCl3pvgUgRrKoecjLyxw",
+            "children": [
+              {
+                "id": "471",
+                "parent": "470",
+                "text": "Pacientes: tienden a rechazar origen psicológico de síntomas. (1)",
+                "guid": "VDIV7RNi_oopI14cJ_tRvg",
+                "children": []
+              },
+              {
+                "id": "472",
+                "parent": "470",
+                "text": "Trato delicado: enfermedad orgánica, funcional o psicógena. (1)",
+                "guid": "TiCFZm9xZ-RjPr2kf3CnLA",
+                "children": []
+              },
+              {
+                "id": "473",
+                "parent": "470",
+                "text": "Evitar simplificar: \"no tiene usted nada\" o \"esto es de nervios\". (1)",
+                "guid": "Gr5YlEDXLtJB9i10ILz47w",
+                "children": []
+              },
+              {
+                "id": "474",
+                "parent": "470",
+                "text": "Paciente y familia: lo malinterpretan (simulación o enfermedad mental). (1)",
+                "guid": "EXrVsgvohxwMsK1pSwOu2Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "475",
+            "parent": "443",
+            "text": "Explicación precisa: (1)",
+            "guid": "GpGAsTq4XMpCYUUtaLIGFw",
+            "children": [
+              {
+                "id": "476",
+                "parent": "475",
+                "text": "Tiempo y paciencia. (1)",
+                "guid": "Xmv4mWr8xCxeHbQAArWgdw",
+                "children": []
+              },
+              {
+                "id": "477",
+                "parent": "475",
+                "text": "Reconocer que las quejas y disfunciones son reales, no simuladas. (1)",
+                "guid": "Ve_q2U_D3boGhtYrPSSpTg",
+                "children": []
+              },
+              {
+                "id": "478",
+                "parent": "475",
+                "text": "Sistema nervioso: vía final común para expresar enfermedades orgánicas y conflictos psicosociales. (1)",
+                "guid": "RjPdggcugicRlP6uGmXzbw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "479",
+        "parent": "0",
+        "text": "Examen neurológico básico (de cribado) en paciente ambulatorio",
+        "guid": "QFjkSyiIfcEZyV0VG_UakA",
+        "children": [
+          {
+            "id": "480",
+            "parent": "479",
+            "text": "I. Pares craneales:",
+            "guid": "auFSqlHlbIcGU9MgBo8_Kw",
+            "children": [
+              {
+                "id": "481",
+                "parent": "480",
+                "text": "II (óptico):",
+                "guid": "OAT46AMQF_4dNEtmKSA98w",
+                "children": [
+                  {
+                    "id": "482",
+                    "parent": "481",
+                    "text": "Agudeza visual:",
+                    "guid": "dsgkOwZCxj5QPOTTXNX0FA",
+                    "children": [
+                      {
+                        "id": "483",
+                        "parent": "482",
+                        "text": "Prueba → lectura tarjeta bolsillo.",
+                        "guid": "Mkb3RRlPMCAvqQjRMu2ImQ",
+                        "children": []
+                      },
+                      {
+                        "id": "484",
+                        "parent": "482",
+                        "text": "Valorar → baja agudeza visual (con/sin corrección).",
+                        "guid": "dooSoE2tWwpzMz5nRgtAVQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "485",
+                    "parent": "481",
+                    "text": "Fondo de ojo:",
+                    "guid": "OZiLNkkIA4dXlpb5efFvgQ",
+                    "children": [
+                      {
+                        "id": "486",
+                        "parent": "485",
+                        "text": "Prueba → oftalmoscopio.",
+                        "guid": "cZCBSXFf9A4V5ooSfmG2WQ",
+                        "children": []
+                      },
+                      {
+                        "id": "487",
+                        "parent": "485",
+                        "text": "Valorar → edema de papila, hemorragias/exudados, émbolos/trombosis, degeneración macular.",
+                        "guid": "Lc1LBCgJW5kqM_-DTz_hBw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "488",
+                "parent": "480",
+                "text": "III, IV, VI\n(oculomotores):",
+                "guid": "GQvqLx8xIXZ7V7jqURDjGA",
+                "children": [
+                  {
+                    "id": "489",
+                    "parent": "488",
+                    "text": "Reflejos pupilares:",
+                    "guid": "IkE5dBiMBFB6MSELGQldrw",
+                    "children": [
+                      {
+                        "id": "490",
+                        "parent": "489",
+                        "text": "Prueba → luz y convergencia.",
+                        "guid": "Hs7Kj0puBd9131HEURXB1A",
+                        "children": []
+                      },
+                      {
+                        "id": "491",
+                        "parent": "489",
+                        "text": "Valorar → asimetría pupilar, arreflexia a la luz, disociación luz/convergencia, defecto pupilar aferente.",
+                        "guid": "Y701_yWIWpUEA0puWkdInw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "492",
+                    "parent": "488",
+                    "text": "Movimientos oculares:",
+                    "guid": "czW1n3c2iNUgUoj1LM5A1Q",
+                    "children": [
+                      {
+                        "id": "493",
+                        "parent": "492",
+                        "text": "Prueba → mirada arriba/abajo/lateral.",
+                        "guid": "QD6MXHfpH-4mv7BXMc8NpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "494",
+                        "parent": "492",
+                        "text": "Valorar → estrabismo, diplopía, paresia movimiento monocular/conjugado, nistagmo, movimientos anormales.",
+                        "guid": "aUkT_TymOmkwMMP_FxZfAQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "495",
+                "parent": "480",
+                "text": "V (trigémino):",
+                "guid": "ZK-WAlpkw4JmVkAIfbuAMg",
+                "children": [
+                  {
+                    "id": "496",
+                    "parent": "495",
+                    "text": "Sensibilidad facial:",
+                    "guid": "eZXk-GGt-PNOzGNKG9cebA",
+                    "children": [
+                      {
+                        "id": "497",
+                        "parent": "496",
+                        "text": "Prueba → tacto/dolor en cara.",
+                        "guid": "ejn9Q0j9hFU04HwcGQjH0g",
+                        "children": []
+                      },
+                      {
+                        "id": "498",
+                        "parent": "496",
+                        "text": "Valorar → asimetría/disminución sensibilidad.",
+                        "guid": "E2uKNCq_zeBqHomndyjAMw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "499",
+                    "parent": "495",
+                    "text": "Función motora:",
+                    "guid": "UEgodW4h1BVRcAjTQ33eFA",
+                    "children": [
+                      {
+                        "id": "500",
+                        "parent": "499",
+                        "text": "Prueba → abrir/cerrar boca.",
+                        "guid": "ZVhc6nHCkchwTB7pJZbpRg",
+                        "children": []
+                      },
+                      {
+                        "id": "501",
+                        "parent": "499",
+                        "text": "Valorar → desviación mandíbula, asimetría contracción maseteros.",
+                        "guid": "aauxthcLz0BXZfbsUvTFsw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "502",
+                "parent": "480",
+                "text": "VII (facial):",
+                "guid": "U7IJqQeWuutqCyS0OGGfrA",
+                "children": [
+                  {
+                    "id": "503",
+                    "parent": "502",
+                    "text": "Función motora:",
+                    "guid": "Yft-bVBhZL02HR_eW5FjZg",
+                    "children": [
+                      {
+                        "id": "504",
+                        "parent": "503",
+                        "text": "Prueba → arrugar frente, cerrar ojos, enseñar dientes.",
+                        "guid": "Mg9dsATpgyh3aIHSLEla8w",
+                        "children": []
+                      },
+                      {
+                        "id": "505",
+                        "parent": "503",
+                        "text": "Valorar → debilidad global/asimétrica, signo de Bell.",
+                        "guid": "TecHfSxI_e5FUiLGYVKRsg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "506",
+                "parent": "480",
+                "text": "VIII (acústico):",
+                "guid": "VwjLzi9wrG1Ye1HlJ1D0Qw",
+                "children": [
+                  {
+                    "id": "507",
+                    "parent": "506",
+                    "text": "Audición:",
+                    "guid": "HZKAginrWrhqztJXAurdbA",
+                    "children": [
+                      {
+                        "id": "508",
+                        "parent": "507",
+                        "text": "Prueba → vibración diapasón.",
+                        "guid": "G63sgFsa8UEogcayBVmeNw",
+                        "children": []
+                      },
+                      {
+                        "id": "509",
+                        "parent": "507",
+                        "text": "Valorar → asimetría/ausencia audición.",
+                        "guid": "cibAgX_nvZ5YTmPqRdjKKw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "510",
+                "parent": "480",
+                "text": "XII (hipogloso):",
+                "guid": "B354iUJZiJ9-OmnXaXn29w",
+                "children": [
+                  {
+                    "id": "511",
+                    "parent": "510",
+                    "text": "Motilidad lengua:",
+                    "guid": "ErrtXDRXibVFC1pdRMpLDA",
+                    "children": [
+                      {
+                        "id": "512",
+                        "parent": "511",
+                        "text": "Prueba → sacar/mover lengua.",
+                        "guid": "OUEM3Txz3C9xE6X_BygUWg",
+                        "children": []
+                      },
+                      {
+                        "id": "513",
+                        "parent": "511",
+                        "text": "Valorar → paresia, atrofia, fasciculaciones.",
+                        "guid": "aLzaHjZlyMVoeqYMP8Wl7A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "514",
+            "parent": "479",
+            "text": "II. Sistema motor:",
+            "guid": "ZdZ1MkD19_JnFpowA2j1tA",
+            "children": [
+              {
+                "id": "515",
+                "parent": "514",
+                "text": "Fuerza proximal:",
+                "guid": "LQBdyC7VmdML6N1iHyceSg",
+                "children": [
+                  {
+                    "id": "516",
+                    "parent": "515",
+                    "text": "Prueba → levantar brazos, flexo-extensión codos, levantarse de cuclillas/silla.",
+                    "guid": "Lr1XcWQ3QUxk_-h1NjvP-w",
+                    "children": []
+                  },
+                  {
+                    "id": "517",
+                    "parent": "515",
+                    "text": "Valorar → graduar debilidad contra resistencia, describir capacidad (bien, dificultad, imposible).",
+                    "guid": "JpDJ62M6UkwftcbyOUu3Rw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "518",
+                "parent": "514",
+                "text": "Fuerza distal:",
+                "guid": "F5HcAWTBIU9-FgJTUNLo3g",
+                "children": [
+                  {
+                    "id": "519",
+                    "parent": "518",
+                    "text": "Prueba → movilidad muñecas/dedos, tobillos.",
+                    "guid": "ITT9fm8pqFNX-v04CfHXnA",
+                    "children": []
+                  },
+                  {
+                    "id": "520",
+                    "parent": "518",
+                    "text": "Valorar → graduar debilidad contra resistencia.",
+                    "guid": "JY9xGEB1o0VJt32JC2XmSw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "521",
+                "parent": "514",
+                "text": "Reflejos:",
+                "guid": "AWubNzDOF7kOztv_bEzt4Q",
+                "children": [
+                  {
+                    "id": "522",
+                    "parent": "521",
+                    "text": "Prueba → bicipital, tricipital, pronador, supinador, rotuliano, aquileo, plantar.",
+                    "guid": "ArOEQBUiryBy3C0ML7PiCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "523",
+                    "parent": "521",
+                    "text": "Valorar → abolidos, presentes, exaltados (clonus), flexor/indiferente/extensor (Babinski).",
+                    "guid": "Q_hI837FCm5O2wBTcrWgZA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "524",
+            "parent": "479",
+            "text": "III. Sistema sensitivo:",
+            "guid": "MBh3lFd0_StYjy27VaforQ",
+            "children": [
+              {
+                "id": "525",
+                "parent": "524",
+                "text": "Sensibilidad:",
+                "guid": "YvxLuzPa6Mgo8XBfCY0Vpg",
+                "children": [
+                  {
+                    "id": "526",
+                    "parent": "525",
+                    "text": "Prueba → tacto (algodón), dolor (aguja), vibración (diapasón), propiocepción.",
+                    "guid": "FxU7FEinN1FC2MzuLqcXFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "527",
+                    "parent": "525",
+                    "text": "Valorar → normal/disminuida.",
+                    "guid": "LWhYoEDuz0F_ef_zTp1WHw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "528",
+            "parent": "479",
+            "text": "IV. Cerebelo:",
+            "guid": "CDISYmSes85jzcJlH0dNdg",
+            "children": [
+              {
+                "id": "529",
+                "parent": "528",
+                "text": "Coordinación:",
+                "guid": "F-qgcCJGq0RhDc74GVY7pw",
+                "children": [
+                  {
+                    "id": "530",
+                    "parent": "529",
+                    "text": "Prueba → dedo-nariz, talón-rodilla.",
+                    "guid": "UxTC_W_cqvcFoymJVchHPg",
+                    "children": []
+                  },
+                  {
+                    "id": "531",
+                    "parent": "529",
+                    "text": "Valorar → normal/alterada.",
+                    "guid": "BP9aF3h_VpUFfClHSPejCg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "532",
+            "parent": "479",
+            "text": "V. Equilibrio:",
+            "guid": "d0RhBFRXKZo7rUNvWkCsvw",
+            "children": [
+              {
+                "id": "533",
+                "parent": "532",
+                "text": "Prueba → Romberg (pies juntos, ojos abiertos/cerrados), respuesta a empujón.",
+                "guid": "LUXrICamj1NN7mSLWq5DwA",
+                "children": []
+              },
+              {
+                "id": "534",
+                "parent": "532",
+                "text": "Valorar → normal/alterado, negativo/positivo, resiste/desplaza/cae.",
+                "guid": "Z5VelU1oZH4pS5nfF63WKQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "535",
+            "parent": "479",
+            "text": "VI. Marcha:",
+            "guid": "PkA4xlvBZ0pM_n0bQz-S3Q",
+            "children": [
+              {
+                "id": "536",
+                "parent": "535",
+                "text": "Prueba → espontánea, tándem, puntas/talones.",
+                "guid": "JN1hqQHax5ttVb7WPMgCGg",
+                "children": []
+              },
+              {
+                "id": "537",
+                "parent": "535",
+                "text": "Valorar → normal/anormal (describir), posible/difícil/imposible.",
+                "guid": "JCFy305jjc5WHj3BdzY13Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 538,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Neurología",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "C1. Anamnesis y exploración. El método clínico neurológico-2024",
+  "id": "map_1615",
+  "resolved_references": []
+}

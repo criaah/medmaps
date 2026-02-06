@@ -1,0 +1,990 @@
+{
+  "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)",
+  "guid": "36ACE86C50375AD829BC5740",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Nefrología/03. Diagnóstico de Laboratorio de la Tuberculosis (TB)-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Diagnóstico de Laboratorio\nde la Tuberculosis (TB)",
+    "guid": "TVPb20uCaSw3-AKwcewesA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Contexto General",
+            "guid": "StzQXx8c1ZNfi6e4Z8ribw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Enfermedad: Tuberculosis (TB), infecciosa, importancia salud pública global",
+                "guid": "ItOEHRQBtepEOuquEwkUdQ",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Agente Causal: Complejo Mycobacterium tuberculosis (Mtb)",
+                "guid": "CaoZIED9HuQy7F1aC1XEIw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- Agravantes: Aparición cepas Multidrogo-resistentes (MDR-TB) (~450,000 casos/año 2021)",
+                "guid": "dAzNoHA6MyUbRjC8J-gteg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "- Importancia\nDiagnóstico/Tratamiento",
+            "guid": "NopKdH-su3MxsJp8E9Hw-Q",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "- Prioridad Salud Pública: Diagnóstico temprano y tratamiento adecuado",
+                "guid": "Nlmj4AHn9VQ9jkg6A61_uw",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "- Rol Laboratorio Microbiología: Vital (detección rápida/precisa TB y farmacorresistencia)",
+                "guid": "TWpegHWGSup1mZ5rCWD5Yg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "- Impacto\nPandemia\nCOVID-19",
+            "guid": "N8jZvRbngB14r2vzAqWqHA",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "- Consecuencias: Graves en acceso a diagnóstico/tratamiento, retroceso progreso global",
+                "guid": "NgRVsFg7E6tqcIyLWNfZzQ",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "9",
+                "text": "- Efectos Observados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "12",
+                    "parent": "11",
+                    "text": "- Reducción diagnósticos notificados (18% en 2020)",
+                    "guid": "bDzJli6rdzlr4O5Cdebitg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "11",
+                    "text": "- Aumento muertes TB (~1.6M en 2021)",
+                    "guid": "b6iWHR7NS50BPKbZY7VjvQ",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "11",
+                    "text": "- Aumento incidencia global TB (2021)",
+                    "guid": "Dwd-whyC15ULnZE3RZHJNg",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "11",
+                    "text": "- Aumento casos TB farmacorresistente",
+                    "guid": "HC-TCD1OK7NZY7owUok26A",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "11",
+                    "text": "- Afectación tratamiento TB farmacorresistente",
+                    "guid": "PzYhBxbyAmpWNrajDKB_iA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17",
+                "parent": "9",
+                "text": "- Brecha Diagnóstica (2022): ~40% casos activos no diagnosticados/notificados",
+                "guid": "DHhNVEvQVQ8WAXjqREEnEQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "1",
+            "text": "- Evolución\nMétodos\nDiagnóstico",
+            "guid": "YrfVLA6w5N1G5tEtGLwq3A",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "- Países Desarrollados: Nuevas tecnologías (rapidez, precisión, ID especie, antibiograma)",
+                "guid": "Zs8jQj7-YARQ24aCAv62Sw",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "18",
+                "text": "- Métodos Moleculares (NAATs): Diagnóstico rápido, sensible, específico; determinan sensibilidad; implementación progresiva países en desarrollo",
+                "guid": "fEyLtyo_QLJVh-0zO4Ksvw",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "18",
+                "text": "- Métodos Tradicionales (Microscopía, Cultivo): Aún no reemplazables, uso en paralelo con moleculares",
+                "guid": "QTFDHCu-o9dIIyxHTamQcA",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "18",
+                "text": "- Desafíos Implementación (Moleculares): Almacenamiento/transporte muestras, costo, infraestructura, personal",
+                "guid": "d4745l4kpTER6reCWkbOEg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "1",
+            "text": "- Calidad y Control",
+            "guid": "Zuv4iDFXXbhxlASqUyjCHg",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "- Prioridad Control TB: Mejorar acceso/uso métodos actuales + adoptar tecnologías moleculares",
+                "guid": "bNWKDljRiK9zAvjuU8GClg",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "23",
+                "text": "- Calidad Laboratorios TB: Factor catalizador o limitante para control TB",
+                "guid": "CijmaGSW_Zgm6kS1aiu7WQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "1",
+            "text": "- Desafíos\nActuales\nDiagnóstico",
+            "guid": "YALU8V108uxJD6TUT6trDw",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "- Dificultad diagnóstico formas latentes/activas",
+                "guid": "QgvwhW_56Yk51yZoPk4vDg",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "- Falta protocolos precisos / Acceso limitado en bajos recursos",
+                "guid": "OkY1N2039TVJl-xaIRVYeQ",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "26",
+                "text": "- Necesidad antibiograma preciso (MDR-TB, XDR-TB)",
+                "guid": "LDZVORpzctwkFA7EKILg8A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "parent": "1",
+            "text": "- Objetivo del Artículo: Revisar historia, progreso, futuro diagnóstico TB (microscopía, cultivo, moleculares, inmunológicos)",
+            "guid": "fEI-iUpMS60zYM7MC0m9Sw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "parent": "0",
+        "text": "## Diagnóstico\nMicroscópico de la TB\n(Baciloscopía)",
+        "guid": "U2bvZSys9m9pkUHGUGgK1w",
+        "children": [
+          {
+            "id": "32",
+            "parent": "31",
+            "text": "- Método Estándar: Examen microscópico frotis esputo teñido (>100 años)",
+            "guid": "RLKzjnmb-_hkBY2vBeP2qg",
+            "children": []
+          },
+          {
+            "id": "33",
+            "parent": "31",
+            "text": "- Importancia: Confirmación diagnóstico, evaluación contagiosidad",
+            "guid": "JVqfzywoufZTjYcaHOmYtQ",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "31",
+            "text": "- Tinción\nZiehl-Neelsen\n(ZN)",
+            "guid": "Ck1fJ2V4Ppx3MGbHdyLpNQ",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "- Disponibilidad: Amplio uso, esencial donde cultivo/avanzados son limitados",
+                "guid": "G4OrMV2AdS8L_ijDW65tXg",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "34",
+                "text": "- Técnica: Tinción BAAR (rojo) sobre fondo azul",
+                "guid": "bogTkxB2qFFSpXuRE9iDug",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "34",
+                "text": "- Ventajas: Rápida, detecta casos alta carga bacilar",
+                "guid": "VPRytj6ynRY3pSVZJFvzvw",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "34",
+                "text": "- Limitaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "39",
+                    "parent": "38",
+                    "text": "- Sensibilidad variable (22-80%), requiere alta carga bacilar (10^4-10^5 bacilos/mL)",
+                    "guid": "aEh_oii4Vb5we9vtAgWMQg",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "38",
+                    "text": "- Menor sensibilidad en TB extrapulmonar, coinfección VIH, niños",
+                    "guid": "d-hivBscxUl4X1JsdFnJNQ",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "38",
+                    "text": "- Requiere personal especializado, consume tiempo, riesgo error manual",
+                    "guid": "QE1_FiUDVss2yPJjHTIxDw",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "38",
+                    "text": "- Influenciada por: Manejo muestra, grosor frotis, reactivos, microscopio, tiempo tinción",
+                    "guid": "DdVzQ3Jlul8TAxGyYTxiqQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43",
+                "parent": "34",
+                "text": "- Tratamiento Muestra con Lejía: Mejora sensibilidad, reduce riesgo laboratorio vs esputo no tratado",
+                "guid": "HxKwznyUU3gxpG2AOpZcAA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "31",
+            "text": "- Tinción\nFluorescente\n(FA)",
+            "guid": "PknHTGozX7VK5GvMSHKttA",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "- Técnica: Colorantes fluorescentes (ej: Auramina-Rodamina) se unen a BAAR -> fluorescencia UV",
+                "guid": "WhTIpz2ilkMWRMleSJzcOw",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "44",
+                "text": "- Ventajas Auramina: Más sensible, menos tiempo que ZN, útil en extrapulmonar",
+                "guid": "Thk-lGjqRO9cdV_1Iw2xSg",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "44",
+                "text": "- Uso: Común países altos ingresos (mayor costo inicial)",
+                "guid": "J5ziBRQahU9HaaUKD-VhqA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "31",
+            "text": "- Microscopía\nFluorescente LED\n(LED-FM)",
+            "guid": "TspdTnHOsIEynmkNENZN0w",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "- Ventajas vs ZN: Más asequible, duradera, fácil uso, LEDs larga vida, no UV, menor consumo energía, mayor sensibilidad y rapidez",
+                "guid": "PNLbDTflgPcR6u3qNLs9yg",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "- Implementación: Adoptada por programas nacionales (ej: India RNTCP)",
+                "guid": "UwJGQApKQFcpFQb_E0_FVw",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "48",
+                "text": "- Desafíos: Inestabilidad colorantes, falta guías estandarizadas",
+                "guid": "L02XIl_d-WIwgfZmPSMKZg",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "48",
+                "text": "- Comparativa (Estudios): > Sensibilidad vs ZN; similar a GeneXpert",
+                "guid": "UkOzwkOFCBgeX20PcVZkkA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "31",
+            "text": "- Microscopía\nAutomatizada",
+            "guid": "YciaCmx1j3ZPJHzhHA7PQQ",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "- Técnica: IA + Microscopio automatizado",
+                "guid": "QBlbkVAD2o8r7MCQGi4kOA",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "- Rendimiento: Alta sensibilidad/especificidad, menor límite detección vs manual. Capacidad >100 frotis. Exportación LIS",
+                "guid": "DaZw0kIxie5iywBzW7-vZg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "31",
+            "text": "- Métodos de Procesamiento\nMuestra para Microscopía",
+            "guid": "Wa2Eqxi8aTs9JCe7BePZ5A",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "- USP (Universal Sample Processing) / Auramina-Rodamina Modificada: Mejora sensibilidad vs directo/NALC-NaOH.\nMás rápido/fácil. No superior a Petroff modificado. Mayor costo/contaminación cultivo vs Petroff",
+                "guid": "KxvO3T9AYGl-zWCwUriw4w",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "- Petroff (Modificado): Técnica de concentración clásica. Buen rendimiento, menor costo/contaminación vs USP",
+                "guid": "U1rluEY3BbpinhKLEC3AxQ",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "- ReaSLR: Licuefacción rápida + concentración. Más sensible que Petroff modificado (Estudio India). Potencial para programas control TB",
+                "guid": "fhyGsXSJAHVE6P6PUR7M8g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "parent": "0",
+        "text": "## Cultivo Micobacteriano\nen Diagnóstico de TB",
+        "guid": "",
+        "children": [
+          {
+            "id": "61",
+            "parent": "60",
+            "text": "- Valor Diagnóstico: Gold Standard, alta especificidad/sensibilidad (confirma Mtb, aumenta detección vs baciloscopía negativa), permite antibiograma",
+            "guid": "My_cF2E4Nn8uZrrUd-KPpQ",
+            "children": []
+          },
+          {
+            "id": "62",
+            "parent": "60",
+            "text": "- Cultivo en Medio Sólido\n(Ej: Lowenstein-Jensen - LJ)",
+            "guid": "WtQydxJsSIR9xoZPAC7SRg",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "- Técnica: Siembra en medio sólido a base huevo -> Incubación prolongada",
+                "guid": "ftNAzG3-BY5kbpJJLiDX7w",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "62",
+                "text": "- Colonias Mtb: Características (rugosas, amarillo-blanco)",
+                "guid": "Tdv-8RTwiK9rQ-JVIB-ysw",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "62",
+                "text": "- Tiempo Resultados: Lento (4-6 semanas)",
+                "guid": "WHWQxwmjT2QRdhdDGI7sWA",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "62",
+                "text": "- Sensibilidad: 80-85%",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "62",
+                "text": "- Desventajas: Lento, riesgo contaminación cruzada (raro, 2-4%)",
+                "guid": "Wacp8z1i19QyvRCRZ02axQ",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "62",
+                "text": "- Alternativa (TLA): Thin-Layer Agar -> más rápido, sensible vs LJ",
+                "guid": "f5RhwhWIEQRDDUorKrAwoA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "parent": "60",
+            "text": "- Cultivo en Medio Líquido\n(Ej: MGIT 960)",
+            "guid": "PpUCelFUDWodGGr7SOJhog",
+            "children": [
+              {
+                "id": "70",
+                "parent": "69",
+                "text": "- Técnica: Sistema automatizado, crecimiento en tubos con medio líquido + indicador fluorescencia (detecta consumo O2)",
+                "guid": "VMhxbUHaqtt9aOGDKCNXJQ",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "69",
+                "text": "- Ventajas: Resultados más rápidos (~10 días), mayor sensibilidad vs sólido, automatizado",
+                "guid": "CBGwlmAG9A44URfrBi43Rw",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "69",
+                "text": "- Desventajas: Más susceptible a contaminación, requiere control riguroso, mayor costo/complejidad",
+                "guid": "VI_0g306FnpXTQQ5U2M1UA",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "69",
+                "text": "- Identificación Post-Cultivo: Requiere confirmación (subcultivo, pruebas rápidas inmunocromatográficas)",
+                "guid": "azgcCTu7loIBhA0_ORQa-g",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "69",
+                "text": "- Uso Antibiograma: Válido (ej: BACTEC MGIT)",
+                "guid": "UKwfMWzH75RZM82tKSGv-Q",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "69",
+                "text": "- Estándar OMS: Medio líquido como referencia",
+                "guid": "dms--Gqp5PBBsJxRUBJo6w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "60",
+            "text": "- Métodos de Descontaminación Muestras\n(Previo a Cultivo)",
+            "guid": "NsxMBhRI0cJABUrXdRYTUg",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "- Objetivo: Eliminar flora contaminante preservando viabilidad Mtb",
+                "guid": "KAy8xHRtrOI3YAOwJ6Eehw",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "- NaOH-NALC: Método común. Desventaja: Reduce viabilidad Mtb (~20%)",
+                "guid": "CfW953ptTdtSUU8nXr4vVA",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "76",
+                "text": "- Clorhexidina: Menos tóxico para Mtb vs NaOH-NALC, mejor recuperación. Concentración 0.7% efectiva",
+                "guid": "PEf4tk-6MKoG4YZ6RFmpTA",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "76",
+                "text": "- Ogawa-Kudoh: Combina descontaminación e inoculación en medio Ogawa. Eficacia similar a Petroff modificado",
+                "guid": "L8EkuD8ynmVKh-CUBFEZOw",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "76",
+                "text": "- Otros: CB-18 (mejor recuperación vs NALC-NaOH); Transporte en CPC (mejora viabilidad muestras transportadas)",
+                "guid": "PGy03yHU5M1XtE6LJ6TQ6A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "parent": "60",
+            "text": "- Ensayo Molecular Carga Bacteriana (TB-MBLA): Confirma impacto negativo NALC-NaOH en viabilidad Mtb",
+            "guid": "fnwxeArptqM9iMEGTUaOxg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "83",
+        "parent": "0",
+        "text": "## Métodos Moleculares\n(NAATs - Nucleic Acid\nAmplification Tests)",
+        "guid": "XZB7UFk4W8pguOviLjyagQ",
+        "children": [
+          {
+            "id": "84",
+            "parent": "83",
+            "text": "- Principio General: Amplificación y detección de ácidos nucleicos específicos de Mtb",
+            "guid": "fLhnJHAnKhReHNyZXoEBLw",
+            "children": []
+          },
+          {
+            "id": "85",
+            "parent": "83",
+            "text": "- Ventajas Generales: Rapidez, Alta sensibilidad/especificidad, Detección resistencia a fármacos. Gran avance diagnóstico",
+            "guid": "XJy5ii1BWXp6j9BwNko-NQ",
+            "children": []
+          },
+          {
+            "id": "86",
+            "parent": "83",
+            "text": "- Limitaciones Generales: No distinguen ADN viable/no viable (no monitorización tratamiento), Costo, Infraestructura, Personal especializado, Transporte muestras",
+            "guid": "Rf3Ctjez-Cs8LhgZeS2ezQ",
+            "children": []
+          },
+          {
+            "id": "87",
+            "parent": "83",
+            "text": "- Tipos Principales\nde NAATs:",
+            "guid": "GOwuq2qU0u1xEC5zc8BhIg",
+            "children": [
+              {
+                "id": "88",
+                "parent": "87",
+                "text": "- Ensayos Sondas Lineales\n(LPA - Line Probe Assays)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "- Técnica: PCR + Hibridación inversa en tiras (detecta Mtb complex y mutaciones resistencia específicas)",
+                    "guid": "RgBLXjnsuY9XXkp6PGuKVg",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "88",
+                    "text": "- Productos Comerciales: GenoType MTBDRplus (RIF/INH), GenoType MTBDRsl (FQ/SLID), INNO-LIPA Rif TB",
+                    "guid": "JJaegBkO5swMffNBTKNbRA",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "88",
+                    "text": "- Rendimiento (MTBDRplus): Alta Sens/Esp para RIF e INH. Útil diagnóstico rápido MDR-TB.\nSensibilidad variable (mayor en frotis+). Limitaciones en frotis negativos (inválidos)",
+                    "guid": "DXyTrkPd9vF0RHnLF3JRlQ",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "88",
+                    "text": "- Rendimiento (MTBDRsl): Detecta resistencia FQ y SLID (diagnóstico XDR-TB). Precisión buena pero omite % casos resistencia\n(especialmente KAN y XDR global). Resultado negativo puede requerir confirmación",
+                    "guid": "PktEzEaVyPJ2MIDqepM9gw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93",
+                "parent": "87",
+                "text": "- PCR en Tiempo Real (RT-PCR) -\nGeneXpert MTB/RIF (y Ultra)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "- Técnica: Sistema automatizado basado en cartuchos. Detecta ADN Mtb y mutaciones resistencia RIF (gen rpoB).\nFácil uso, rápido (~2h)",
+                    "guid": "Fk_5nH0SB2Q-7ObPRhEeVA",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "- Plataforma: GeneXpert",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "93",
+                    "text": "- Versión Ultra: Mayor sensibilidad (menor límite detección)",
+                    "guid": "PESlyQl0x2NKYjeQeLFaqA",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "93",
+                    "text": "- Rendimiento (Pulmonar): Alta Sens/Esp (global ~90%/98%). Menor Sens en VIH+, frotis negativos",
+                    "guid": "K0msMSIWhhsgViuRCNongQ",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "93",
+                    "text": "- Rendimiento (Extrapulmonar - EPTB): Útil, mejora diagnóstico vs métodos convencionales",
+                    "guid": "e07h5gEPF3M3FsICQU8tRA",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "93",
+                    "text": "- Rendimiento (Meningitis TB - TBM): Contribuye diagnóstico temprano",
+                    "guid": "OvvRAw51DH19urebX5Jvgw",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "93",
+                    "text": "- Comparativas: Superior a Nested PCR; más sensible que baciloscopía (especialmente en frotis negativos)",
+                    "guid": "J4PzSQo4qtwsNcrHNQCG9w",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "93",
+                    "text": "- Uso Recomendado OMS: Prueba inicial preferente sobre baciloscopía",
+                    "guid": "ThahziB6RJNMctiNDGHmmg",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "93",
+                    "text": "- Costo-Beneficio: Ahorro en países altos ingresos (reduce aislamiento/hospitalización)",
+                    "guid": "ZxANhUKjWXcG9SQdfWAHIg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "103",
+                "parent": "87",
+                "text": "- Amplificación Isotérmica Mediada por Bucle\n(LAMP - Loop-Mediated Isothermal Amplification)",
+                "guid": "P7Vg20XiCu1DcSV2e_oGpA",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "- Técnica: Amplificación rápida ADN a temperatura constante. Simple, bajo costo, no requiere termociclador. Detección visual o fluorescencia",
+                    "guid": "T1bSUA3TXQZ0q2FMeqB-gQ",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "103",
+                    "text": "- Rendimiento (TB-LAMP): Alta Sens/Esp comparable a GeneXpert",
+                    "guid": "L-njIhUBjN0DeqYCKzjFCA",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "103",
+                    "text": "- Limitación: No detecta resistencia (versión estándar). Adecuada para diagnóstico inicial en entornos básicos. Hay versiones para detectar resistencia RIF/INH",
+                    "guid": "FhCkUTqRaAVsh_JMUQx1VA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "parent": "87",
+                "text": "- PCR Multiplex",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "- Técnica: Detección simultánea Mtb, NTM y/o resistencias",
+                    "guid": "SQZ0gmpCqecwnuTXcIpnyw",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "- Producto Comercial: Seegene Anyplex MTB/NTM MDR-TB",
+                    "guid": "dHtUxFzUr54liu7CQpH2kg",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "107",
+                    "text": "- Rendimiento (Anyplex): Eficaz diagnóstico TB (pulm/extrapulm) y resistencia INH",
+                    "guid": "fU70MXH9x09O890sZF8Btw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "111",
+                "parent": "87",
+                "text": "- Secuenciación Genoma Completo\n(WGS - Whole-Genome Sequencing)",
+                "guid": "NKEgxlXpAUphvwjZdFaBoQ",
+                "children": [
+                  {
+                    "id": "112",
+                    "parent": "111",
+                    "text": "- Técnica: Secuenciación completa genoma Mtb. Identifica todas las mutaciones.\nPotencial para predicción resistencia completa y estudios epidemiológicos",
+                    "guid": "G8sMNyUwLk9wUIhFayHehw",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "111",
+                    "text": "- Rendimiento Resistencia: Muy bueno para MDR-TB. Más limitado para XDR-TB (sensibilidad ~40% estudio).\nComplejidad interpretación (mutaciones significado incierto)",
+                    "guid": "MwOLVmT76ZJlwl0JYu1ueA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "114",
+                "parent": "87",
+                "text": "- Otras Tecnologías Moleculares: PCR Digital (cuantificación), RAPD (tipificación), Biosensores/Nanopartículas (detección innovadora)",
+                "guid": "ef12b2k9AwsOJjOAEA4awA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "115",
+            "parent": "83",
+            "text": "- Estrategias Combinadas: Uso tests paralelos mejora sensibilidad (especialmente en frotis negativos)",
+            "guid": "fQEbcW7WtMJz7zNpO5Yd7A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "parent": "0",
+        "text": "## Pruebas\nDiagnósticas\nInmunológicas",
+        "guid": "",
+        "children": [
+          {
+            "id": "117",
+            "parent": "116",
+            "text": "- Test Urinario Lipoarabinomanano\n(TB-LAM)",
+            "guid": "QCrCLBEHnmQEeH-OdvcOMw",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "- Principio: Detecta antígeno LAM (componente pared celular Mtb) en orina. Liberado por bacterias metabólicamente activas",
+                "guid": "I85rEHquJcxhGpAUbNTfkg",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "117",
+                "text": "- Utilidad Clínica: Diagnóstico rápido (Point-of-Care), especialmente útil en pacientes VIH+ con inmunodeficiencia severa (CD4 < 100)",
+                "guid": "ZPDPtBG5dOtdX0ddWWwkeA",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "117",
+                "text": "- Tests Comerciales: Alere Determine TB LAM Ag (AlereLAM), Fujifilm SILVAMP TB LAM (FujiLAM) (FujiLAM más sensible)",
+                "guid": "bo4kigLqNiAb_hsKa90Yuw",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "117",
+                "text": "- Rendimiento: Sensibilidad moderada general, aumenta en VIH+ avanzados. Baja reactividad cruzada NTM. Útil en pediatría (malnutrición severa). Combinado con Xpert mejora diagnóstico EPTB",
+                "guid": "dOf9b2rx-DZQPBpyKYkeNg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "122",
+            "parent": "116",
+            "text": "- Nanopartículas de Oro\n(AuNPs)",
+            "guid": "JVBwJ0R9ymVsDSGFI8yhnw",
+            "children": [
+              {
+                "id": "123",
+                "parent": "122",
+                "text": "- Potencial: Biosensores rápidos, sensibles, costo-efectivos. Propiedades catalíticas/ópticas",
+                "guid": "QNr5gDH7I0sd35_XXKYFtw",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "122",
+                "text": "- Aplicación Experimental: Inmunoensayo con AuNPs ferromagnéticas para detectar/diferenciar MTB de M. bovis",
+                "guid": "VytRmw4wKB1Hx-Q_Ci7c8Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "116",
+            "text": "- Pruebas Liberación Interferón-Gamma\n(IGRAs - Interferon-Gamma Release Assays)",
+            "guid": "T2eBCSmV4oxxEzBlTB_oLQ",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "- Principio: Miden respuesta inmune celular (Linfocitos T) a antígenos específicos Mtb (ESAT-6, CFP-10).\nDetecta liberación IFN-γ",
+                "guid": "cywRry2KQUhtHEtpbSmIHg",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "- Uso Principal: Diagnóstico Infección Tuberculosa Latente (LTBI). Alternativa a Prueba Cutánea Tuberculina (TST)\n(IGRAs más específicos, no afectados por BCG)",
+                "guid": "FsdEU3tCful9N6LfOpWvZA",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "125",
+                "text": "- Tests Comerciales: QuantiFERON-TB Gold (ELISA sangre total), T-Spot.TB (ELISpot - cuenta células T)",
+                "guid": "dfCktV5SMvMnao72WuF0aQ",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "125",
+                "text": "- Versión Mejorada: QuantiFERON-TB Gold Plus (QFT-Plus) (añade antígeno TB7.7). Alta Sens/Esp similar a otros IGRAs",
+                "guid": "cAun3wTJ1lQ0TZjhXpnMaQ",
+                "children": []
+              },
+              {
+                "id": "130",
+                "parent": "125",
+                "text": "- Limitaciones: No diferencian infección activa de latente. Posibilidad resultados indeterminados o falsos negativos\n(influenciados por factores huésped como inmunosupresión, edad, enfermedad avanzada). Complejidad técnica relativa",
+                "guid": "B7QMdFBLs-tKduUkfJwJ4w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "131",
+        "parent": "0",
+        "text": "## Conclusiones",
+        "guid": "",
+        "children": [
+          {
+            "id": "132",
+            "parent": "131",
+            "text": "- Resumen Métodos: Microscopía (básico), Cultivo (gold standard), Moleculares (rapidez/resistencia), Inmunológicos (LTBI/VIH+) -> todos roles esenciales",
+            "guid": "Gb0MoE8wDP4qoOlcdlnGKg",
+            "children": []
+          },
+          {
+            "id": "133",
+            "parent": "131",
+            "text": "- Necesidad Futura: Investigación continua (nuevos fármacos/diagnósticos), mejorar estrategias screening/control, enfoques costo-efectivos",
+            "guid": "fHFmeCUwuc0spARfQm8pLg",
+            "children": []
+          },
+          {
+            "id": "134",
+            "parent": "131",
+            "text": "- Recomendación: Métodos combinados ofrecen mejor resultado. Mejorar calidad/accesibilidad tests actuales + implementar tecnologías avanzadas",
+            "guid": "XOSx-GjSHHg7nMf8ddDgow",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 135,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Nefrología",
+  "filename": "03. Diagnóstico de Laboratorio de la Tuberculosis (TB)-2025",
+  "id": "map_924",
+  "resolved_references": []
+}

@@ -1,0 +1,85 @@
+{
+  "title": "VIP1 y VIP2 (2017-2020)",
+  "guid": "VIP-2017-2020",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/VIP1-VIP2-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "VIP1 y VIP2 (2017-2020)\nVery old Intensive care\nPatients studies\n\\n⭐ Fragilidad (CFS) predice\nmortalidad en UCI mejor que\nedad cronológica y APACHE/SOFA",
+    "guid": "VIP-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\\nVIP1:\\n• Guidet B, Flaatten H et al.\\n• Año: 2017\\n• Lancet Respir Med\\n\\nVIP2:\\n• Flaatten H et al.\\n• Año: 2020\\n• Lancet Healthy Longev\\n\\nDiseño: Cohorte prospectiva\\nMulticéntrico Europa (21 países)\\nVIP1: n = 5,021\\nVIP2: n = 3,920\\nSeguimiento: 30 días y 6 meses",
+        "guid": "VIP-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. VIP1: Guidet B. Lancet Respir Med 2017\\n   DOI: 10.1016/S2213-2600(17)30116-X\\n\\n2. VIP2: Flaatten H. Lancet Healthy Longev 2020\\n\\n3. CFS Original: Rockwood K.\\n   CMAJ 2005",
+            "guid": "VIP-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusion:\\n• Edad mayor o igual 80 años\\n• Ingreso agudo UCI\\n• Estadía mayor 24 horas\\n\\nCaracterísticas VIP1:\\n• Edad media: 84 años\\n• 55% hombres\\n• CFS media: 4.1\\n• 57% ventilación mecánica\\n• Mortalidad UCI: 22%\\n• Mortalidad 30d: 32%\\n\\nMuestra representativa de\\nUCIs europeas",
+        "guid": "VIP-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "📋 CLINICAL FRAILTY SCALE\n\\nEscala de Rockwood (1-9):\\n\\n1-3: Fit/Robusto\\n   1. Very fit (muy activo)\\n   2. Well (activo sin enfermedad)\\n   3. Managing well (comorbilidades controladas)\\n\\n4-5: Prefrágil\\n   4. Vulnerable (enlentecido)\\n   5. Mildly frail (requiere ayuda AIVD)\\n\\n6-7: Frágil\\n   6. Moderately frail (ayuda ABVD)\\n   7. Severely frail (dependiente total)\\n\\n8-9: Muy frágil\\n   8. Very severely frail (fin de vida)\\n   9. Terminally ill",
+        "guid": "VIP-FRAIL",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS VIP1\n\\nMortalidad 30 días según CFS:\\n• CFS 1-3: 22%\\n• CFS 4: 25%\\n• CFS 5: 30%\\n• CFS 6: 40%\\n• CFS 7: 50%\\n• CFS 8: 68%\\n\\nCFS predice mortalidad:\\n• HR ajustado 1.54 (IC 1.38-1.73)\\n  por cada punto CFS\\n• p menor 0.001 ✓\\n\\nMejor que SOFA/APACHE:\\n• CFS añade valor pronóstico\\n  sobre scores de severidad\\n\\nEdad cronológica:\\n• Menos predictiva que CFS",
+        "guid": "VIP-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "📊 RESULTADOS VIP2\n\\nVariabilidad admisión UCI:\\n• Gran diferencia entre países\\n• y entre hospitales\\n\\nFactores asociados admisión:\\n• Edad (menos admitidos mayor 85)\\n• Fragilidad (menos si CFS alto)\\n• Tipo patología\\n• País/cultura\\n\\nPolíticas de LET:\\n• 10-15% de pacientes\\n• Más común en frágiles\\n• Variabilidad cultural alta\\n\\n6 meses:\\n• Mortalidad 50%+ si CFS mayor 6",
+        "guid": "VIP2-OUT",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Esencial para UCI\n\\nImplicancias clínicas:\\n• SIEMPRE medir CFS al ingreso UCI\\n• Usar CFS en decisiones\\n• No usar solo edad cronológica\\n\\nDecisiones informadas:\\n• CFS 1-5: beneficio probable UCI\\n• CFS 6-7: evaluar caso a caso\\n• CFS 8-9: cuestionar beneficio\\n\\nComunicación:\\n• CFS facilita pronóstico familia\\n• Base para ACP\\n• Objetiviza fragilidad",
+        "guid": "VIP-GERI",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "🏥 PRACTICA CLINICA\n\\nAl ingreso UCI mayor 75 años:\\n1. Calcular CFS previo a\\n   enfermedad aguda\\n2. Documentar en ficha\\n3. Incorporar en discusión\\n4. Comunicar a familia\\n\\nTriaje:\\n• CFS ayuda decisión admisión\\n• No es criterio único\\n• Complementa juicio clínico\\n\\nEgreso:\\n• CFS alto = planificar transición\\n• Considerar paliación precoz\\n• Seguimiento estrecho",
+        "guid": "VIP-PRACT",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. CFS predice MEJOR que edad:\n   80 años fit distinto de 80 frágil\n\\n2. CFS mayor 5 = riesgo alto:\n   mortalidad 30d mayor 30%\n\\n3. CFS 8-9 = mortalidad mayor 60%:\n   cuestionar beneficio UCI\n\\n4. Medir CFS PRE-enfermedad:\n   no el estado agudo actual\n\\n5. CFS es simple y rápido:\n   menos de 1 minuto\n\\n6. Complementa SOFA/APACHE:\n   añade valor pronóstico\n\\n7. Base para comunicación:\n   familia entiende fragilidad\n\\n8. Políticas admisión variables:\n   influencia cultural importante",
+        "guid": "VIP-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "VIP1-VIP2-2026",
+  "id": "map_804",
+  "resolved_references": []
+}

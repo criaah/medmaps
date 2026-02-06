@@ -1,0 +1,4156 @@
+{
+  "title": "Estenosis carotídea",
+  "guid": "B05E129562114556443CCFED",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Estenosis carotídea-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Estenosis\ncarotídea",
+    "guid": "slaQH0JDhzxExyweJa6qNQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición",
+        "guid": "vJ6MIB_7TYJ2dfXP9fCNaw",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Estenosis carotídea",
+            "guid": "",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "• Estrechamiento de la a. carótida (gralte x aterosclerosis)",
+                "guid": "KPGuD4fz8TSpXe3cNX3SHQ",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "• → ↑riesgo de AIT y AVC",
+                "guid": "tkgI_qtdKyuUgibeN7S6fg",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "Sinónimos",
+                "guid": "H20DWFo0yL2Spj5v-xLVAg",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "• Enfermedad de la a. carótida",
+                    "guid": "9YbJREl9DEJ5x3ZLv57UxA",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "5",
+                    "text": "• Aterosclerosis de la a. carótida",
+                    "guid": "dX9PxV5h-UcSjGCGTAUk8A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "Extracraneal",
+            "guid": "lJTxvxYSmWiODzNiRUxAaw",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "• Enfermedad de a. carótidas y vertebrales → +freq x aterosclerosis",
+                "guid": "qK4ecRAa1rMSswJJU3I5bQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "Epidemiología",
+        "guid": "4Y1qoA6yw8VASx03AdT2eg",
+        "children": [
+          {
+            "id": "11",
+            "parent": "10",
+            "text": "Quiénes\n+afectados",
+            "guid": "f3yFmbto6W1MFsJUksmlLA",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "• Varones ~2:1 (estenosis carótida asintomática)",
+                "guid": "GwaelUoWhRfDCC5aQzn39A",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "11",
+                "text": "• >60 años",
+                "guid": "ratdIPupq18xegCaNBc-bQ",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "11",
+                "text": "• Enf. Arterial periférica, Enf. Coronaria, Aneurisma aórtico",
+                "guid": "wEn_r1C1f14bbkB-CX6a9Q",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "11",
+                "text": "• DM, HTA, Dislipidemia",
+                "guid": "XgBrsL1PIgHGTbKjFwRQ7Q",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "11",
+                "text": "• Tabaquismo",
+                "guid": "7UkjeWzVUm5LkNkXBi6CZQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "parent": "10",
+            "text": "Incidencia/Prevalencia",
+            "guid": "nWZJLCwQDA10RyRdvUxQrA",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "• EE.UU:",
+                "guid": "3wAFTq5Abf6e0aO90VySuQ",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "- Asintomática ≥50% estenosis: 2%-9% poblac. gral",
+                    "guid": "Srk3Cmv7ERrgoLeZ1h6zSw",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "- 5%-9% en >65 años",
+                    "guid": "AshGjvc6pFsaKkho77t7jQ",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "18",
+                    "text": "- 11%-26% en Enf. Coronaria",
+                    "guid": "XtDYYnhHjCbzqjVcjuMPmA",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "18",
+                    "text": "- 25%-49% en Enf. Arterial periférica",
+                    "guid": "-Z5Rh3NH1C55IzsXdhcnng",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "18",
+                    "text": "- 58% placa carotídea (N. Manhattan Study)",
+                    "guid": "VanGhwFp-J3rquL3bhv0Ag",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "18",
+                    "text": "- 36% >50% estenosis carotídea en px pre-CABG",
+                    "guid": "SvZLmjns142fGqEhcowNYQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "parent": "0",
+        "text": "Patogenia\n(Aterosclerosis)",
+        "guid": "bLJ8sZ3Btz1nl-Jv3eDwGg",
+        "children": [
+          {
+            "id": "26",
+            "parent": "25",
+            "text": "Etiología",
+            "guid": "9nnXb67ggoEmLeoiJ3iU3Q",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "• Causa principal: Aterosclerosis (bifurcación carótida)",
+                "guid": "_Uhip7UkCT8Vi_yR8NC7ew",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "• Otras: Disección, Fibromuscular dysplasia, Takayasu, Arteritis células gigantes,\nRadioterapia, Variantes anatómicas, Cuerpo carotídeo, Trombo flotante",
+                "guid": "aQkzRapGLabUtaQdAo79QQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "parent": "25",
+            "text": "• Acumulación LDL subíntima → oxidación → citoquinas → reclutamiento monocitos → macrófagos espumosos",
+            "guid": "BeB3qElDu4hnRhU3Apdeow",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "25",
+            "text": "• Cél. musc. lisas migran y proliferan en íntima",
+            "guid": "_5mh84bfKFkaEndF7rBiZw",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "25",
+            "text": "• Núcleo lipídico (colesterol libre) crece → cap fibroso puede romperse → trombosis in situ o embolia distal",
+            "guid": "kqfu3XMvlnES4oT0BJg17w",
+            "children": []
+          },
+          {
+            "id": "32",
+            "parent": "25",
+            "text": "• Riesgo ↑AVC con: estenosis +grave, placa ulcerada/irregular, hemorrágica, lipídica, cap fibroso delgado o roto",
+            "guid": "vJNZN9znSwFIFLIM_nrVeQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "parent": "0",
+        "text": "Factores\nde Riesgo",
+        "guid": "J9VuNgG33CLtqwlm04YTDw",
+        "children": [
+          {
+            "id": "34",
+            "parent": "33",
+            "text": "Desarrollo de\naterosclerosis",
+            "guid": "b_6atev9CxDW7YADZdfGPQ",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "• Edad avanzada",
+                "guid": "6m08VK8n4wwnupc6Vfn7nw",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "34",
+                "text": "• Sexo masculino",
+                "guid": "9dC-hsCA_AtksvJ4SQBQRg",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "34",
+                "text": "• DM",
+                "guid": "fwxnNOVtQPBp6qOf5XfIZw",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "34",
+                "text": "• HTA",
+                "guid": "-5B4jLyNTO7lmjDlPT9afg",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "34",
+                "text": "• Tabaquismo",
+                "guid": "f3HavCdfp0JeT2RBksQaDg",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "34",
+                "text": "• Dislipidemia",
+                "guid": "zqNtEazTpT7neo7CtI-37A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "33",
+            "text": "Progresión de\naterosclerosis",
+            "guid": "iMAEPY9UO7wvB5po_1cJiw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "• Mayor duración de la estenosis",
+                "guid": "zpY-cvc0YYTdptMX-07abA",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "• Mayor % de estenosis (estenosis moderada x5 +prob de progresión vs leve)",
+                "guid": "1M_hwWnfVh8PuJ3hgK2OwQ",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "41",
+                "text": "• DM",
+                "guid": "SULaEvQLMs7JLi_VjU0pAA",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "41",
+                "text": "• Tabaquismo",
+                "guid": "qoyQ3NEk9YgpmtpT4oEBww",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "41",
+                "text": "• HTA",
+                "guid": "V_KhOilb-AKAglrxuI8n2w",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "41",
+                "text": "• Placa heterogénea",
+                "guid": "3-4sG8psYS2eK7fYOLTtXQ",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "41",
+                "text": "• Afección contralateral",
+                "guid": "_VkdfcgP3pYz2mqz4G0LBQ",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "41",
+                "text": "• Enf. Coronaria",
+                "guid": "dBuEfuL7lRdnocDtYBNwVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "33",
+            "text": "Condiciones\nAsociadas",
+            "guid": "soO4oSk29QB2bMRyLmtaqQ",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "• Enf. Arterial periférica",
+                "guid": "1AGzB2SQ8Pn_nik0f4whyA",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "50",
+                "text": "• Enf. Coronaria",
+                "guid": "CbZAGV8ZHadtdX2KWzX4HA",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "50",
+                "text": "• Enf. Aneurismática aórtica",
+                "guid": "pGaI8wQCUT3HvWV3CdWSqA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "parent": "0",
+        "text": "Evaluación",
+        "guid": "3imqGk1bDUKKEOxo5k_jow",
+        "children": [
+          {
+            "id": "55",
+            "parent": "54",
+            "text": "Cribado",
+            "guid": "aj-U6LELPkJJG5tA2s_R3Q",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "• NO se recomienda en asintomáticos (Recom. Fuerte)",
+                "guid": "voAsKsC1s8pssJvTZkA_sw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "54",
+            "text": "Sospechar en:",
+            "guid": "9egRsczfD8eKxe7CoD1GUQ",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "• Px sintomáticos con síntomas isquémicos retinales o hemisféricos (Recom. Condic.)",
+                "guid": "OSwhFaoH8W29iqkJ7vgKpw",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "57",
+                "text": "• Px asintomáticos con soplo carotídeo, enf. coronaria o múltiples FR ateroscleróticos (Recom. Condic.)",
+                "guid": "qC_3-7gWrRO4I7qwgDhbgA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "54",
+            "text": "Confirmación:",
+            "guid": "BHLaBJgN_rY8OWts7gmMcg",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "• Eco-Doppler de carótidas → prueba inicial (Recom. Fuerte)",
+                "guid": "gALFPon2Nt7J0WXb-NUooQ",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "• MRA/CTA si eco no disponible o resultados equívocos (Recom. Fuerte);\nconsiderar si info adicional requerida (Recom. Condic.)",
+                "guid": "HH1NJqaBQ6-fq3PDCKHtpA",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "• Angiografía por catéter en sintomáticos seleccionados (Recom. Condic.)",
+                "guid": "FI-5iA7yESrtpth-naWJ1w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "64",
+        "parent": "0",
+        "text": "Manejo",
+        "guid": "_Ti-sAVKT-ePzJIlN1AFXQ",
+        "children": [
+          {
+            "id": "65",
+            "parent": "64",
+            "text": "Estenosis <50%",
+            "guid": "JT2yBRjL2pXLKCjbNbV8Xw",
+            "children": [
+              {
+                "id": "66",
+                "parent": "65",
+                "text": "• NO revascularizar (Recom. Fuerte)",
+                "guid": "K1PGFqvONKAgMATprqrSuw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "64",
+            "text": "Px sintomáticos",
+            "guid": "P523oLYnAN09kHbJgmjVnA",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "• Revascularización en 2 sem post-AIT/AVC si no hay contraindicaciones (Recom. Condic. )",
+                "guid": "xr1anVus_pd0tQp0ZS2r-Q",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "• 50%-99% estenosis + síntomas <6 meses + riesgo proced. muerte/AVC <6% → revascularizar",
+                "guid": "s_Azd0DZWsqKcH46tkNRqA",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "67",
+                "text": "• CEA si 70%-99% (Recom. Fuerte)",
+                "guid": "vBnusxyNP4ufGLF_kVkT7w",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "67",
+                "text": "• CEA si 50%-69% (Recom. Condic.)",
+                "guid": "yWpWw44xykX_OJolQezUCA",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "67",
+                "text": "• CAS como alternativa si edad <70 años (Recom. Condic.)",
+                "guid": "djA0lFiJts_H-lgEaYvztQ",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "67",
+                "text": "• Antiagregación: aspirina (75-325 mg/día) ó clopidogrel (75 mg/día) ó AAS/dipiridamol (25/200 mg 2v/d) (Recom. Fuerte)",
+                "guid": "UwMIa3q39qqmpdwgVXRA-w",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "67",
+                "text": "• Control de HTA (Recom. Condic.), meta incierta",
+                "guid": "pYBXogjMfBS_D3U7O29BIw",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "67",
+                "text": "• Estatinas para LDL <100 mg/dL (Recom. Fuerte); considerar ~70 mg/dL (Recom. Condic.)",
+                "guid": "J6SfOdIOBHHfeB4BVUfBfg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "64",
+            "text": "Px asintomáticos\n(moderada-grave estenosis)",
+            "guid": "MvhwVC3wyq56NCh1i-21ZA",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "• Control FR (HTA <140/90, LDL <100 mg/dL) (Recom. Fuerte)",
+                "guid": "_z6X09mEuzVpZPq5b47TPg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "• Aspirina 75-325 mg/día (Recom. Condic.) (prevención IAM y otros beneficios CV; eficacia en prevención AVC no establecida)",
+                "guid": "sVqx2-lj6RDowfGQQvddEg",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "76",
+                "text": "• Revascularizar solo en 60%-99% + ≥1 factor alto riesgo de AVC + riesgo proced. ≤3% + expectativa vida >5 años (Recom. Condic.)",
+                "guid": "--rYaFWg0ILK4qpuVnUP8Q",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "76",
+                "text": "• CAS > CEA si riesgo qx alto y anatomía favorable (Recom. Condic.)",
+                "guid": "hi_c2tBt3HtxftcH9PYv0w",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "76",
+                "text": "• NO revascularizar solo para prevenir deterioro cognitivo (Recom. Fuerte)",
+                "guid": "0J4hG4UWFIceWf68_ioOug",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "82",
+            "parent": "64",
+            "text": "Seguimiento",
+            "guid": "LWefJHXvVLUnIwW4NcBhQg",
+            "children": [
+              {
+                "id": "83",
+                "parent": "82",
+                "text": "• Eco-Doppler anual si >50% estenosis (Recom. Condic.)",
+                "guid": "YMm5PQPFnTUN8e52O1ACHQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "84",
+        "parent": "0",
+        "text": "Historia y Examen Físico en\nEstenosis de la A. Carótida",
+        "guid": "PLiphiaBEns2cHnk964HYQ",
+        "children": [
+          {
+            "id": "85",
+            "parent": "84",
+            "text": "1. Presentación Clínica",
+            "guid": "",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "• Asintomática",
+                "guid": "kDn7iAA4OcdHkLZWuc6OdA",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "→ Hallazgo incidental (Eco por otro motivo / soplo carotídeo en examen físico)",
+                    "guid": "VK8vEhl2drDgdDfFgwM2ug",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88",
+                "parent": "85",
+                "text": "• Sintomática\n(TIA o AVC)",
+                "guid": "4lNszRfiz7Oj0Cu8r4nI-Q",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "→ Amaurosis fugaz, infarto retiniano",
+                    "guid": "yTOnGAG2lLFSRdUn7DJI8A",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "88",
+                    "text": "→ Debilidad o hipoestesia unilateral (cara, brazo, pierna)",
+                    "guid": "IxhxlCQG7YBwx1w93rCWTw",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "88",
+                    "text": "→ Hemianopsia homónima",
+                    "guid": "psfUKRMM-akIJk6fAp-lqA",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "88",
+                    "text": "→ Negligencia visuoespacial",
+                    "guid": "48AjmoLfIsLHSdBxZjVsNw",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "88",
+                    "text": "→ Afasia (expresiva, receptiva, mixta)",
+                    "guid": "v8MD1b-mwbM5V33JWLYMZA",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "88",
+                    "text": "→ Disartria (por parálisis facial)",
+                    "guid": "I4T0I0wLVX_k9UxkAKsx_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "88",
+                    "text": "→ “Shaking TIA” (movimientos temblorosos transitorios)",
+                    "guid": "0G2naIZFancvBnMnh3JdeA",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "88",
+                    "text": "→ TIA “en crescendo” (episodios rápidos sucesivos)",
+                    "guid": "XqDpKbsvy0YkNsfwUngaLg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "parent": "84",
+            "text": "2. Historia",
+            "guid": "SBpS4gIHR-GdMbTxxGFd-A",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "HPI (Historia de la\nEnfermedad Actual)",
+                "guid": "XDsKT2J5Hz72j49NFLxaWQ",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "• Diferenciar síntomas transitorios vs persistentes (TIA vs AVC)",
+                    "guid": "NwFxTI5V6agwZ_xRTVm8tw",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "98",
+                    "text": "• Síntomas de posible disección (dolor ipsilateral en cuello/cara/cabeza)\n→ considerar <45 años o sin FR aterosclerosis",
+                    "guid": "cUw5FJAQ-gC9o_29yY4U4A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "101",
+                "parent": "97",
+                "text": "PMH\n(Antecedentes)",
+                "guid": "7wmnW0qEi3a7tnJhCyHwEg",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "• FR aterosclerosis: DM, HTA, Dislipidemia",
+                    "guid": "n9_O2jMpnEWEzKYqJIQf9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "• Antecedente de TIA/AVC, IAM, CAD, PAD",
+                    "guid": "xemEb_GnKGNp34ucSWs0jQ",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "101",
+                    "text": "• Factores de disección: trauma de cuello, manipulación quiropráctica, enf. de tej. conectivo",
+                    "guid": "s3Wq_J8VhL30SS-ICEI50g",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "101",
+                    "text": "• Otras causas no ateroscleróticas: Takayasu, arteritis células gigantes, arteritis por radioterapia, displasia fibromuscular",
+                    "guid": "3SYXqDX_uML4qfo8faOoOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "97",
+                "text": "FH (Historia\nFamiliar)",
+                "guid": "qwwqiaNhXNYgO13Gj9hklw",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "• Aterosclerosis en pariente <60 años",
+                    "guid": "OkIeJDP_mqOm8Rsqjm4D6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "• AVC isquémico",
+                    "guid": "lx-gJNpFccEXA_T67E211Q",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "• Displasia fibromuscular",
+                    "guid": "iokIlalPORmZqUDExMyUnw",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "• Enf. de tej. conectivo",
+                    "guid": "yS2tZ7j4nBId-GoJcwX2AQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "111",
+                "parent": "97",
+                "text": "SH (Historia\nSocial)",
+                "guid": "cHqQGxN7qwRjFu78qKd0sQ",
+                "children": [
+                  {
+                    "id": "112",
+                    "parent": "111",
+                    "text": "• Tabaquismo",
+                    "guid": "KGp8oIPjCBJVzWIM8G4Biw",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "111",
+                    "text": "• Ejercicio (prevención secundaria)",
+                    "guid": "5lzLfXAz8JCD8b0INvDfBA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "114",
+            "parent": "84",
+            "text": "3. Examen Físico",
+            "guid": "f3Jd0QKtsZ25AZM1zuWsEQ",
+            "children": [
+              {
+                "id": "115",
+                "parent": "114",
+                "text": "General",
+                "guid": "IUcNoU3oHuZPoaQHeqoXVg",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "• PA",
+                    "guid": "8eHyO950JDcQSEn3s8DuBQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "117",
+                "parent": "114",
+                "text": "Cuello",
+                "guid": "1OH08HQI9hVwT2nqeHBi1g",
+                "children": [
+                  {
+                    "id": "118",
+                    "parent": "117",
+                    "text": "• Soplo carotídeo (70%-89% en estrechamiento luminal de ~60%-70%)",
+                    "guid": "sdJ0aO3OjsIcGmC-zoDo_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "117",
+                    "text": "• Hallazgo inespecífico (presente en 5% sin estenosis significativa)",
+                    "guid": "u7lSfFojYyjKGqAyK8GZuQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "114",
+                "text": "Neuro",
+                "guid": "bO3nrILBLGshK6c8BEv0pA",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "• Déficit motor/sensitivo contralateral a la lesión",
+                    "guid": "CFBX677Qup0uRVT6PxxSAg",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "• Alteraciones del habla, lenguaje o visión",
+                    "guid": "qCq7-TEIb_86XIClLDS2Uw",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "Diagnóstico de Estenosis de la A. Carótida",
+                    "guid": "XZeA4iGF9KZ9omPKmspzTg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "124",
+        "parent": "0",
+        "text": "A Quién Evaluar",
+        "guid": "7Rii_qIjsmONtEbV5We0Zg",
+        "children": [
+          {
+            "id": "125",
+            "parent": "124",
+            "text": "1.1) Sintomáticos",
+            "guid": "XixqGXfjeIluR0vDa6erlg",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "• Sx retinianos/hemisféricos posibles isquémicos (Clase I, Nivel C)",
+                "guid": "UZWdqjFh8UlPbUMnY4xkGQ",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "• Síntomas focales en territorio de aCI izq/der (Clase I, Nivel C)",
+                "guid": "fqCbNu-aEFguIOwLl289Hg",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "125",
+                "text": "• Síntomas neurol. inespec. si isquemia plausible (Clase IIb, Nivel C)",
+                "guid": "SMAYQV1SgV03VpTHVOhAIg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "129",
+            "parent": "124",
+            "text": "1.2) Asintomáticos\n(considerar estudio si)",
+            "guid": "-_CjYqfyJLM1YwlfoPiPWw",
+            "children": [
+              {
+                "id": "130",
+                "parent": "129",
+                "text": "• Soplo carotídeo (IIa, C)",
+                "guid": "J0pr1dX0Q1btacRF420pPw",
+                "children": []
+              },
+              {
+                "id": "131",
+                "parent": "129",
+                "text": "• PAD sintomática (IIb, C)",
+                "guid": "hQOsRosPb16hP_cQ9AtEvw",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "129",
+                "text": "• CAD (IIb, C)",
+                "guid": "wg915tdZpuyv7rqxtyO1WA",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "129",
+                "text": "• Aneurisma aórtico aterosclerótico (IIb, C)",
+                "guid": "GDrO1BfQ8YCvVKpG4YvAvA",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "129",
+                "text": "• Sin evidencia de aterosclerosis + ≥2 FR (HTA, Hiperlipidemia, Tabaco, HF1° <60 años, HF AVC)",
+                "guid": "9jtf3rdTp0LgcYwgPghZCQ",
+                "children": []
+              },
+              {
+                "id": "135",
+                "parent": "129",
+                "text": "• Pre-CABG (electiva o urgente)",
+                "guid": "LCX6JHs5SHp-H1OnF5xpbw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "parent": "0",
+        "text": "2. Modalidades\nde Imagen",
+        "guid": "t2Exfrx5JX_c8cPVgZ8CdQ",
+        "children": [
+          {
+            "id": "137",
+            "parent": "136",
+            "text": "2.1) Eco-Doppler Carotídeo",
+            "guid": "uJnmU8BXFO1UgE4ki4lsQA",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "• Prueba inicial en mayoría (Clase I, Nivel C)",
+                "guid": "nTv0mh8Lr1ZlywAhCcL5Wg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "parent": "136",
+            "text": "2.2) MRA/CTA",
+            "guid": "4GKFOXje3IemGBJpz9erLQ",
+            "children": [
+              {
+                "id": "140",
+                "parent": "139",
+                "text": "• Si Eco no disponible o resultados equívocos (Clase I, Nivel C)",
+                "guid": "ZSh9TxapaopAKTlikCgEdA",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "139",
+                "text": "• MRA: puede sobreestimar estenosis",
+                "guid": "Ccbx1Y322r47YyPa7NL-RA",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "139",
+                "text": "• CTA: problemas si calcificaciones severas",
+                "guid": "zqTQeSwr2Ov47ffi7ooRNA",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "139",
+                "text": "• Dificultad en diferenciar estenosis subtotal vs oclusión total",
+                "guid": "KbzLOpaWempTF2szwJR-DA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "144",
+            "parent": "136",
+            "text": "2.3) Angiografía\npor Catéter",
+            "guid": "WUvA3djNYWbSFeHo6IFeaQ",
+            "children": [
+              {
+                "id": "145",
+                "parent": "144",
+                "text": "• Seleccionar px sintomáticos → si pruebas no invasivas\ninconcluyentes o se requiere detalle anatómico adicional",
+                "guid": "J9ilycxqRreC0zMfV2TPUg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "146",
+        "parent": "0",
+        "text": "3. Severidad de Estenosis",
+        "guid": "HFVVcEfN-oSJyB65B9ydtg",
+        "children": [
+          {
+            "id": "147",
+            "parent": "146",
+            "text": "• Moderada: 50%-69%",
+            "guid": "MRb8LvaGYbphsqFcE31Eng",
+            "children": []
+          },
+          {
+            "id": "148",
+            "parent": "146",
+            "text": "• Severa: 70%-99%",
+            "guid": "Ek8eRkcNG4mwvQ7RqMHWGQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "149",
+        "parent": "0",
+        "text": "4. Diagnóstico Diferencial\n(Soplo Carotídeo)",
+        "guid": "o_aFnN8IGa-e5Oto9vmG4w",
+        "children": [
+          {
+            "id": "150",
+            "parent": "149",
+            "text": "• Soplo cardíaco referido (p.ej. insuf. mitral/aórtica)",
+            "guid": "OfnHQBb8k3mi6XR1umA-9A",
+            "children": []
+          },
+          {
+            "id": "151",
+            "parent": "149",
+            "text": "• Hum venoso carotídeo (↑gasto: anemia, tirotoxicosis, embarazo, cirrosis, fístula AV, malformación AV)",
+            "guid": "YU3KRRdW-sKYqb_lO0xTNg",
+            "children": []
+          },
+          {
+            "id": "152",
+            "parent": "149",
+            "text": "• Obstrucción a. subclavia izq",
+            "guid": "nB90fD8QAMbwXIoKU9Kg_g",
+            "children": []
+          },
+          {
+            "id": "153",
+            "parent": "149",
+            "text": "• Obstrucción vertebrobasilar",
+            "guid": "7kdwQVreZh40rZ7VKtEb2g",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "154",
+        "parent": "0",
+        "text": "5. Otras Causas de\nTIA/AVC Semelhantes",
+        "guid": "pjixBdlnRRtY56E3ETV_EA",
+        "children": [
+          {
+            "id": "155",
+            "parent": "154",
+            "text": "• Aterosclerosis intracraneal",
+            "guid": "bkwx08ukGpby0B9BMjnlWQ",
+            "children": []
+          },
+          {
+            "id": "156",
+            "parent": "154",
+            "text": "• Pequeños vasos",
+            "guid": "DfkESjyLa912CVbxgWewMw",
+            "children": []
+          },
+          {
+            "id": "157",
+            "parent": "154",
+            "text": "• Émbolos cardíacos",
+            "guid": "NdVZD65ik436eKAUshNyPA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "6. Resumen de Pruebas",
+        "guid": "FcBx1kqLkDHwTHy-Rlhbgg",
+        "children": [
+          {
+            "id": "159",
+            "parent": "158",
+            "text": "6.1) Sintomáticos",
+            "guid": "sO6AKZ-fMyjMoKk2EVHKbw",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "• Eco-Doppler → prueba inicial (I, C)",
+                "guid": "g-PF7bZPBlKMGCoyOy1Wdg",
+                "children": []
+              },
+              {
+                "id": "161",
+                "parent": "159",
+                "text": "• MRA/CTA → si Eco no es posible o equívoco (I, C)",
+                "guid": "R5T7ugYSmnO8b5nv2-sMng",
+                "children": []
+              },
+              {
+                "id": "162",
+                "parent": "159",
+                "text": "• Angiografía → si imágenes no conclusivas o se requiere detalle extra",
+                "guid": "Hl22jAAY6kITQ8eLlzrwkQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "163",
+            "parent": "158",
+            "text": "6.2) Asintomáticos",
+            "guid": "1QK9W2nfK6wmyx7OIMc5qQ",
+            "children": [
+              {
+                "id": "164",
+                "parent": "163",
+                "text": "• Eco-Doppler → si soplo, PAD, CAD, aneurisma aórtico, o ≥2 FR ateroscl. (IIb, C)",
+                "guid": "H1RImv0NCj7gU4tdoA6x5Q",
+                "children": []
+              },
+              {
+                "id": "165",
+                "parent": "163",
+                "text": "• Objetivo: detectar estenosis hemodinám. significativa",
+                "guid": "u0QbMuFYP2vQFyuKNiwTdg",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "163",
+                "text": "Estudios de Imagen en Estenosis de la A. Carótida",
+                "guid": "ipNWmh0nK_tro4rmvhRuXQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "167",
+        "parent": "0",
+        "text": "1. Consideraciones\nGenerales",
+        "guid": "deTMpNjVwqh90ZpegVxBDw",
+        "children": [
+          {
+            "id": "168",
+            "parent": "167",
+            "text": "• Evaluación no invasiva (Eco-Doppler, MRA, CTA) recomendada como 1ra opción en px con síntomas retinianos/hemisféricos isquémicos\n(ASA/ACCF/AHA Clase I, Nivel C)",
+            "guid": "LZkTUDB-McgMRffrBICv7Q",
+            "children": []
+          },
+          {
+            "id": "169",
+            "parent": "167",
+            "text": "• Determinar % de estenosis es clave (método +común: NASCET)",
+            "guid": "j3ip9yeFdmjqqjHzZ-vFeQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "170",
+        "parent": "0",
+        "text": "2. Métodos para\nMedir la Estenosis",
+        "guid": "vZEiHSw5lpF4NswW7fi0Vg",
+        "children": [
+          {
+            "id": "171",
+            "parent": "170",
+            "text": "2.1) NASCET",
+            "guid": "5XktRv4SCYkZKqe0z-II1Q",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "• %E = [1 - (diámetro de la zona +estrecha / diámetro de a. normal distal bif.)] x 100",
+                "guid": "ZrV_fW2e86IY9QBvuxXEpg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "173",
+            "parent": "170",
+            "text": "2.2) ECST",
+            "guid": "XQz0M9YJ7jE2G840szAmig",
+            "children": [
+              {
+                "id": "174",
+                "parent": "173",
+                "text": "• %E = [1 - (diámetro de la zona +estrecha / diámetro original estimado en el mismo sitio)] x 100",
+                "guid": "wBHz9v71i_lv85TSDKYRPw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "3. Modalidades\nde Imagen",
+        "guid": "wTWVmijfpuYYMs2-ISaf4g",
+        "children": [
+          {
+            "id": "176",
+            "parent": "175",
+            "text": "3.1) Eco-Doppler Carotídeo",
+            "guid": "njarEq7_SqrORojjyGCvDg",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "• Mide velocidades sistólicas pico → estima % estenosis",
+                "guid": "5n71Tjo3QISwwI3HNsyK2Q",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "• Ventajas: no invasivo, amplio uso",
+                "guid": "ZmabSESP2W2SUNus_zPJ7g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "175",
+            "text": "3.2) MRA/CTA",
+            "guid": "zI2pC_6OTPkoqsyw5C8wug",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "• Visualizan estrechamiento luminal",
+                "guid": "d7SZ6k3ykambXy914aLlOA",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "179",
+                "text": "• Limitaciones: MRA sobrestima estenosis + difícil distinguir subtotal vs oclusión total; CTA menos precisa en lesiones muy calcificadas",
+                "guid": "JT_MOFsC92lzpduDikvPMQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "182",
+            "parent": "175",
+            "text": "3.3) Angiografía\nCerebral (Catéter)",
+            "guid": "_dvuGgYzguEDtnkkwYdLAA",
+            "children": [
+              {
+                "id": "183",
+                "parent": "182",
+                "text": "• Opción en casos sintomáticos selectos → cuando resultados no\ninvasivos son inconclusos o se requiere detalle anatómico",
+                "guid": "UVgMWLRom01pCijz9NhnTw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "184",
+        "parent": "0",
+        "text": "4. Información Adicional que\nBrindan las Imágenes",
+        "guid": "qJZ20M021XVYSmcUd2dE2A",
+        "children": [
+          {
+            "id": "185",
+            "parent": "184",
+            "text": "• Ubicación de la bifurcación (en relación al ángulo mandibular)",
+            "guid": "L6cQZXdzMKyStR97OvnExw",
+            "children": []
+          },
+          {
+            "id": "186",
+            "parent": "184",
+            "text": "• Cantidad de placa",
+            "guid": "H1nmyfZM2kFv_Me2oAYtwg",
+            "children": []
+          },
+          {
+            "id": "187",
+            "parent": "184",
+            "text": "• Tortuosidad distal / estenosis adicional",
+            "guid": "JDKq8P030tE52KsepxuGUw",
+            "children": []
+          },
+          {
+            "id": "188",
+            "parent": "184",
+            "text": "• Estado de la carótida contralateral y circulación colateral",
+            "guid": "rRhJdiWReEtYKaQ8-8VfcA",
+            "children": []
+          },
+          {
+            "id": "189",
+            "parent": "184",
+            "text": "• Diferenciar aterosclerosis de otras patologías (disección, FMD, etc.)",
+            "guid": "b-WWpeHzoURS6aVtf4pnLg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "190",
+        "parent": "0",
+        "text": "Ultrasonografía (Eco-Doppler) en\nEstenosis de la A. Carótida",
+        "guid": "mPBZMz5RZLBOBJLSYYanIg",
+        "children": [
+          {
+            "id": "191",
+            "parent": "190",
+            "text": "1. Fundamento",
+            "guid": "",
+            "children": [
+              {
+                "id": "192",
+                "parent": "191",
+                "text": "• Mide la velocidad del flujo (especialmente PSV) → indicador de severidad de estenosis",
+                "guid": "DJuILl6eayjTWFo_Kx5e7w",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "191",
+                "text": "• Primer estudio recomendado en px con sospecha/enfermedad conocida de a. carótida\n(ASA/ACCF/AHA Clase I, Nivel C)",
+                "guid": "jHPpsrTp6CiOvApl5OpmNw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "190",
+            "text": "2. Recomendaciones Principales\n(ASA/ACCF/AHA)",
+            "guid": "JHeu8Cz3TLiFN8mUBsj4jQ",
+            "children": [
+              {
+                "id": "195",
+                "parent": "194",
+                "text": "2.1) Asintomáticos",
+                "guid": "7bKXW93l14lC5jhPP_L3qg",
+                "children": [
+                  {
+                    "id": "196",
+                    "parent": "195",
+                    "text": "• Eco-Doppler (laboratorio calificado) como 1er test para detectar estenosis hemodinám. significativa (Clase I, C)",
+                    "guid": "hNpKrEAqyobMNwcyK8rmag",
+                    "children": []
+                  },
+                  {
+                    "id": "197",
+                    "parent": "195",
+                    "text": "• Razonable si soplo carotídeo (IIa, C)",
+                    "guid": "N0P1LqTMeZaxsSshLWNOwA",
+                    "children": []
+                  },
+                  {
+                    "id": "198",
+                    "parent": "195",
+                    "text": "• Considerar si PAD sintomática, CAD, aneurisma aórtico aterosclerótico o ≥2 FR\n(HTA, hiperlipidemia, tabaquismo, HF1° <60 años, HF AVC) (IIb, C)",
+                    "guid": "SzsJtsguUwVb2mgdUu8pfw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "199",
+                "parent": "194",
+                "text": "2.2) Sintomáticos",
+                "guid": "UKpgKTnNX_uF63YjDBjVBQ",
+                "children": [
+                  {
+                    "id": "200",
+                    "parent": "199",
+                    "text": "• Eco-Doppler si síntomas neurol. focales en territorio de\na. carótida interna (I, C)",
+                    "guid": "as_c2C__d8m7ifwUGBIv9A",
+                    "children": []
+                  },
+                  {
+                    "id": "201",
+                    "parent": "199",
+                    "text": "• Considerar si síntomas neurol. inespecíficos\nplausibles de isquemia (IIb, C)",
+                    "guid": "gUqhdAY7xK3Vzj0X7KFylw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "202",
+            "parent": "190",
+            "text": "3. Guías ESVS",
+            "guid": "Lv80n_9X6hjwCSg5IjGcUQ",
+            "children": [
+              {
+                "id": "203",
+                "parent": "202",
+                "text": "• Para definir alcance/grado de estenosis:\nusar Eco, CTA y/o MRA (Clase I, B)",
+                "guid": "TS_OBsY1KiqItQDwHa0xew",
+                "children": []
+              },
+              {
+                "id": "204",
+                "parent": "202",
+                "text": "• Antes de endarterectomía: corroborar hallazgo con\nCTA/MRA o repetir Eco (otro operador) (I, B)",
+                "guid": "4J-4OT_TSD9t9YJmYU5bkw",
+                "children": []
+              },
+              {
+                "id": "205",
+                "parent": "202",
+                "text": "• Reportar el método de medición usado (I, C)",
+                "guid": "miXK2H9Br3x_Ddmot3_mag",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "190",
+            "text": "4. Clasificación de Estenosis\n(Sociedad de Radiólogos en\nUltrasonido)",
+            "guid": "fzzO1Yg2evwGaCIn8mI4NA",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "• <50%: PSV ≤125 cm/s + placa/intima engrosada",
+                "guid": "co5SIlyx3EekU5sQ6Wey5g",
+                "children": []
+              },
+              {
+                "id": "208",
+                "parent": "206",
+                "text": "• 50%-69%: PSV 125-230 cm/s + placa visible",
+                "guid": "oi2jeou7n_lfhQLQnIfsxA",
+                "children": []
+              },
+              {
+                "id": "209",
+                "parent": "206",
+                "text": "• ≥70%-cerca de oclusión: PSV >230 cm/s + placa + lumen reducido",
+                "guid": "-nZpG5Ngtke6ny8DsfecCg",
+                "children": []
+              },
+              {
+                "id": "210",
+                "parent": "206",
+                "text": "• Casi oclusión: lumen muy estrechado (color Doppler)",
+                "guid": "F4RS6oL_cmHGHdnVWgGOqg",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "206",
+                "text": "• Oclusión total: sin lumen ni flujo detectable (grayscale, spectral, power, color)",
+                "guid": "7oKFtfDijN7iFUts74UPUw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "212",
+            "parent": "190",
+            "text": "5. Hallazgos Adicionales\n(estudios y valores de corte)",
+            "guid": "DGyLXtSIvdapPmGHmJATaw",
+            "children": [
+              {
+                "id": "213",
+                "parent": "212",
+                "text": "• PSV ≥250 cm/s y EDV ≥60 cm/s → alta S y E para detectar >60% estenosis (J Vasc Surg 2014)",
+                "guid": "wHFrTAdiSuzrVrVPTyWIqg",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "212",
+                "text": "• Sombra acústica (calcificación extensa) → puede subestimar severidad de la estenosis",
+                "guid": "24dz7mu4UGAbxZMQw7fNDg",
+                "children": []
+              },
+              {
+                "id": "215",
+                "parent": "212",
+                "text": "• Eco con contraste → sensibilidad moderada, especificidad baja para úlceras de placa",
+                "guid": "wH0vknHHr1-aV3zRaQ4f8Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "216",
+        "parent": "0",
+        "text": "MRA y CTA en Estenosis\nde la A. Carótida",
+        "guid": "3shiqTzGacZ8Lmz50ypI0w",
+        "children": [
+          {
+            "id": "217",
+            "parent": "216",
+            "text": "1. Recomendaciones\nASA/ACCF/AHA",
+            "guid": "",
+            "children": [
+              {
+                "id": "218",
+                "parent": "217",
+                "text": "1.1) Indicaciones",
+                "guid": "n4wjB_-IBGzgOl1GKWi0ow",
+                "children": [
+                  {
+                    "id": "219",
+                    "parent": "218",
+                    "text": "• MRA/CTA si síntomas focales isquémicos en territorio de la aCI y Eco no disponible o equívoco (I, C)",
+                    "guid": "n7yh9H6eYqQcLSL8RepXYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "218",
+                    "text": "• MRA/CTA si se considera revascularización y Eco es equívoco/indeterminado (IIa, C)",
+                    "guid": "k3UrBggczr0G_GQGvDt8-A",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "218",
+                    "text": "• MRA/CTA si síntomas retinianos/hemisféricos sin fuente extracraneal identificada → evaluar vasos intracraneales (IIa, C)",
+                    "guid": "N4oTROIqaBZXyJ75zPfi2w",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "218",
+                    "text": "• MRA/CTA antes de intervención, para precisar estenosis y lesiones\nintratorácicas/intracraneales no evaluadas en Eco (IIa, C)",
+                    "guid": "emPNsg4B2zlZfJ93z4vKSg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "223",
+                "parent": "217",
+                "text": "1.2) Situaciones\nEspecíficas",
+                "guid": "prsS6YkdzVXa9shNXk8lnQ",
+                "children": [
+                  {
+                    "id": "224",
+                    "parent": "223",
+                    "text": "• MRA sin contraste razonable en px con enfermedad carotídea sintomática\ny disfunción renal o calcificación extensa (IIa, C)",
+                    "guid": "xBeCGXlJt5klWu2ExvBcKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "225",
+                    "parent": "223",
+                    "text": "• CTA razonable si no apto para MRA\n(claustrofobia, marcapasos, etc.) (IIa, C)",
+                    "guid": "SKC3fjgZ6m_2lqiPadKe1w",
+                    "children": []
+                  },
+                  {
+                    "id": "226",
+                    "parent": "223",
+                    "text": "• Usar sistemas MRI de alta calidad,\nevitar sistemas de bajo campo (IIa, C)",
+                    "guid": "AKsArPOL1c11FzcXvVWR3w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "227",
+            "parent": "216",
+            "text": "2. Recomendaciones\nESVS",
+            "guid": "EZT3NVRnpqiP0i5gTRkykQ",
+            "children": [
+              {
+                "id": "228",
+                "parent": "227",
+                "text": "2.1) Evaluación\nde Estenosis",
+                "guid": "4F_tNbOmr7S8usns36RS5w",
+                "children": [
+                  {
+                    "id": "229",
+                    "parent": "228",
+                    "text": "• Duplex, CTA y/o MRA para definir grado\nde estenosis extracraneal (I, B)",
+                    "guid": "AtLcfki4omDd5eaKTsUfag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "230",
+                "parent": "227",
+                "text": "2.2)\nPre-Endarterectomía",
+                "guid": "hOk-zEjrMP645NkEexSH2A",
+                "children": [
+                  {
+                    "id": "231",
+                    "parent": "230",
+                    "text": "• Confirmar grado de estenosis\n(Eco) con CTA/MRA o repetir Eco\ncon otro operador (I, B)",
+                    "guid": "jXMUeMRuB9K54iQVTJ3DUQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "232",
+                "parent": "227",
+                "text": "2.3) Pre-Stent",
+                "guid": "kP7j1jxSLzPug_BI2-Cqzw",
+                "children": [
+                  {
+                    "id": "233",
+                    "parent": "232",
+                    "text": "• Realizar CTA/MRA tras Eco → evalúa arco\naórtico + circulación extra/intracraneal (I, B)",
+                    "guid": "TvKpgvYHb0C1SRbo6uuYFg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "234",
+        "parent": "0",
+        "text": "MRA en Estenosis\nde la A. Carótida",
+        "guid": "aF_ZkktU0pmnb-q0d2rxRA",
+        "children": [
+          {
+            "id": "235",
+            "parent": "234",
+            "text": "1. Ventajas",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "236",
+        "parent": "0",
+        "text": "• Insensible a calcificaciones (a\ndiferencia de US/CTA)",
+        "guid": "txoAIGRk4rDo8bU4BhxC5Q",
+        "children": []
+      },
+      {
+        "id": "237",
+        "parent": "0",
+        "text": "• Gadolinio (contraste) → menor\nnefrotoxicidad y reacciones alérgicas\nque el contraste iodado",
+        "guid": "",
+        "children": [
+          {
+            "id": "238",
+            "parent": "237",
+            "text": "2. Limitaciones",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "239",
+        "parent": "0",
+        "text": "• Puede\nsobreestimar la\nestenosis",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "240",
+        "parent": "0",
+        "text": "• Dificultad para diferenciar estenosis\nsubtotal vs oclusión total",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "241",
+        "parent": "0",
+        "text": "• No apto en px con claustrofobia,\nobesidad extrema o implantes\nmetálicos no compatibles",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "242",
+        "parent": "0",
+        "text": "• Gadolinio en altas dosis → riesgo\nde fibrosis sistémica nefrogénica\nen disfunción renal",
+        "guid": "",
+        "children": [
+          {
+            "id": "243",
+            "parent": "242",
+            "text": "3. Evidencia\n(Revisiones\nSistemáticas)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "244",
+        "parent": "0",
+        "text": "• Sensibilidad ~95% y\nespecificidad ~90% para\nestenosis ≥70% (varios\nestudios)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "245",
+        "parent": "0",
+        "text": "• Excelente para oclusión (casi\n98%-100% de exactitud)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "246",
+        "parent": "0",
+        "text": "• Menor sensibilidad para\nestenosis 50%-69% (ej. ~66%\nen MRA con contraste)",
+        "guid": "",
+        "children": [
+          {
+            "id": "247",
+            "parent": "246",
+            "text": "4. Recomendaciones\nGenerales",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "248",
+        "parent": "0",
+        "text": "• MRA contrastada = buena\nopción para detectar estenosis\nseveras (70%-99%)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "249",
+        "parent": "0",
+        "text": "• Usar como complemento si Eco es\nequívoco o se requiere evaluación\nanatómica detallada",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "250",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "251",
+        "parent": "0",
+        "text": "CTA en Estenosis de\nla A. Carótida",
+        "guid": "Zheuiqw7LYzHMBj4ggkfyg",
+        "children": [
+          {
+            "id": "252",
+            "parent": "251",
+            "text": "1. Ventajas",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "253",
+        "parent": "0",
+        "text": "• Imágenes directas del lumen arterial →\nevaluación precisa de estenosis",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "254",
+        "parent": "0",
+        "text": "• Buena resolución de\ntodo el árbol vascular",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "255",
+        "parent": "0",
+        "text": "• Comparación favorable con\nangiografía por catéter",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "256",
+        "parent": "0",
+        "text": "• Amplia\ndisponibilidad y\nrapidez",
+        "guid": "",
+        "children": [
+          {
+            "id": "257",
+            "parent": "256",
+            "text": "2. Limitaciones",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "258",
+        "parent": "0",
+        "text": "• Lesiones calcificadas → difícil\ncuantificar estenosis",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "259",
+        "parent": "0",
+        "text": "• Problemas para diferenciar\nestenosis subtotal vs oclusión total",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "260",
+        "parent": "0",
+        "text": "• Implantes metálicos pueden\nocultar arterias cervicales",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "261",
+        "parent": "0",
+        "text": "• Obesidad o movimientos del px →\ndificultan la exploración",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "262",
+        "parent": "0",
+        "text": "• Riesgo de nefrotoxicidad con\ncontraste iodado → evitar en\ndisfunción renal",
+        "guid": "",
+        "children": [
+          {
+            "id": "263",
+            "parent": "262",
+            "text": "3. Evidencia\n(Revisiones\nSistemáticas)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "264",
+        "parent": "0",
+        "text": "3.1) Estenosis 70%-99%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "265",
+        "parent": "0",
+        "text": "• Sensibilidad ~65%-77%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "266",
+        "parent": "0",
+        "text": "• Especificidad\n~56%-95%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "267",
+        "parent": "0",
+        "text": "3.2) Estenosis 50%-69%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "268",
+        "parent": "0",
+        "text": "• Sensibilidad ~41%-67%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "269",
+        "parent": "0",
+        "text": "• Especificidad\n~79%-84%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "270",
+        "parent": "0",
+        "text": "• Amplio rango por heterogeneidad y\nposibles sesgos de publicación",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "271",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "272",
+        "parent": "0",
+        "text": "Angiografía (catéter)",
+        "guid": "DuAlUXno--X8Uc-t7-T9RQ",
+        "children": [
+          {
+            "id": "273",
+            "parent": "272",
+            "text": "1. Generalidades",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "274",
+        "parent": "0",
+        "text": "• Procedimiento invasivo con\ninyección de contraste",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "275",
+        "parent": "0",
+        "text": "• Riesgo 0.5%-1%: AVC, IAM, lesión\narterial, lesión retroperitoneal",
+        "guid": "",
+        "children": [
+          {
+            "id": "276",
+            "parent": "275",
+            "text": "2. Recomendaciones\n(ASA/ACCF/AHA)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "277",
+        "parent": "0",
+        "text": "2.1) Clase IIa, Nivel C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "278",
+        "parent": "0",
+        "text": "• Si no se identifica fuente\nextracraneal de isquemia y persisten\nsíntomas retinianos/hemisféricos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "279",
+        "parent": "0",
+        "text": "• Para evaluar severidad de estenosis y\nlesiones intratorácicas/intracraneales si\nse planea intervención",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "280",
+        "parent": "0",
+        "text": "Angiografía (catéter)",
+        "guid": "",
+        "children": [
+          {
+            "id": "281",
+            "parent": "280",
+            "text": "1. Generalidades",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "282",
+        "parent": "0",
+        "text": "• Procedimiento invasivo con\ninyección de contraste",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "283",
+        "parent": "0",
+        "text": "• Riesgo 0.5%-1%: AVC, IAM, lesión\narterial, lesión retroperitoneal",
+        "guid": "",
+        "children": [
+          {
+            "id": "284",
+            "parent": "283",
+            "text": "2. Recomendaciones\n(ASA/ACCF/AHA)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "285",
+        "parent": "0",
+        "text": "2.1) Clase IIa, Nivel C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "286",
+        "parent": "0",
+        "text": "• Si no se identifica fuente\nextracraneal de isquemia y persisten\nsíntomas retinianos/hemisféricos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "287",
+        "parent": "0",
+        "text": "• Para evaluar severidad de estenosis y lesiones\nintratorácicas/intracraneales si se planea intervención\n(estenosis significativa detectada por Eco)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "288",
+        "parent": "0",
+        "text": "• Cuando estudios no\ninvasivos son inconsistentes,\ninconclusos o inviables",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "289",
+        "parent": "0",
+        "text": "2.2) Clase IIb, Nivel C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "290",
+        "parent": "0",
+        "text": "• Si se sugiere oclusión total en\nEco/MRA/CTA y se quiere confirmar\npermeabilidad suficiente para revascularizar",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "291",
+        "parent": "0",
+        "text": "• En px con disfunción renal →\nlimitar volumen de contraste si se\nevalúa un solo territorio",
+        "guid": "",
+        "children": [
+          {
+            "id": "292",
+            "parent": "291",
+            "text": "3. Recomendación ESVS",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "293",
+        "parent": "0",
+        "text": "• No usar angiografía IA de rutina para decidir\nrevascularización a menos que existan discrepancias\nimportantes en estudios no invasivos (Clase III, B)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "294",
+        "parent": "0",
+        "text": "Ecocardiografía",
+        "guid": "",
+        "children": [
+          {
+            "id": "295",
+            "parent": "294",
+            "text": "1. Recomendación\n(ASA/ACCF/AHA Clase I, Nivel\nC)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "296",
+        "parent": "0",
+        "text": "• Realizar en búsqueda de fuente\ncardioembólica cuando la enfermedad\nextra/intracraneal no explica los síntomas\nneurológicos sospechosos de origen isquémico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "297",
+        "parent": "0",
+        "text": "Manejo de la Estenosis\nde la A. Carótida",
+        "guid": "25cDKjMxX7EIUW0ixwMRuQ",
+        "children": [
+          {
+            "id": "298",
+            "parent": "297",
+            "text": "1. Visión General",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "299",
+        "parent": "0",
+        "text": "• <50% de estenosis →\nNO revascularizar",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "300",
+        "parent": "0",
+        "text": "• Px sintomáticos (50%-99% + síntomas\n≤6 meses + riesgo proc. <6%)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "301",
+        "parent": "0",
+        "text": "→ Considerar revascularizar\nen las 2 sem post-AIT/AVC si\nno hay contraind.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "302",
+        "parent": "0",
+        "text": "→ CEA si 70%-99%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "303",
+        "parent": "0",
+        "text": "→ CEA opcional\nsi 50%-69%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "304",
+        "parent": "0",
+        "text": "→ CAS\nalternativa si <70\naños",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "305",
+        "parent": "0",
+        "text": "• Terapia\nmédica\nadyuvante",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "306",
+        "parent": "0",
+        "text": "→ Antiagregante (AAS 75-325 mg/día\no Clopidogrel 75 mg/día o\nAAS/dipiridamol 25/200 mg 2v/d)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "307",
+        "parent": "0",
+        "text": "→ Control TA (meta no establecida,\n<140/90 en asintomáticos)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "308",
+        "parent": "0",
+        "text": "→ Estatinas (LDL <100 mg/dL;\nconsiderar ~70 mg/dL)",
+        "guid": "",
+        "children": [
+          {
+            "id": "309",
+            "parent": "308",
+            "text": "2. Px Asintomáticos\n(estenosis moderada-grave)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "310",
+        "parent": "0",
+        "text": "• Control FR (HTA <140/90, LDL <100\nmg/dL), cambios de estilo de vida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "311",
+        "parent": "0",
+        "text": "• Aspirina 75-325 mg/día →\nPrevención IAM/beneficios CV (no\ndemostrado en prevención AVC)",
+        "guid": "",
+        "children": [
+          {
+            "id": "312",
+            "parent": "311",
+            "text": "• Alternativas: Clopidogrel 75 mg/día\n(intolerancia AAS) o Dipiridamol 200 mg\n2v/d (intolerancia AAS/Clop.)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "313",
+        "parent": "0",
+        "text": "• Revascularización",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "314",
+        "parent": "0",
+        "text": "→ Principalmente NO\nen asintomáticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "315",
+        "parent": "0",
+        "text": "→ Considerar si 60%-99% + ≥1 factor de\nriesgo elevado de AVC + riesgo proc. ≤3% +\nexpectativa vida >5 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "316",
+        "parent": "0",
+        "text": "→ CAS > CEA si riesgo qx alto\ny anatomía favorable",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "317",
+        "parent": "0",
+        "text": "→ NO revascularizar solo para\nreducir deterioro cognitivo en\n70%-99% asintomático",
+        "guid": "",
+        "children": [
+          {
+            "id": "318",
+            "parent": "317",
+            "text": "3. Seguimiento",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "319",
+        "parent": "0",
+        "text": "• Eco-Doppler anual si estenosis\n>50% → vigilar progresión y\nrespuesta terapéutica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "320",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "321",
+        "parent": "0",
+        "text": "Dieta y Suplementos en\nEstenosis Carotídea",
+        "guid": "vUfwMLfQ1K5IyGJCbVawIg",
+        "children": [
+          {
+            "id": "322",
+            "parent": "321",
+            "text": "1. Recomendaciones\nGenerales (ESVS)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "323",
+        "parent": "0",
+        "text": "• Consejería conductual → dieta\nsana, cese tabáquico, actividad\nfísica (Clase I, B)",
+        "guid": "",
+        "children": [
+          {
+            "id": "324",
+            "parent": "323",
+            "text": "2. Vitamina C y\nFrutas/Bayas",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "325",
+        "parent": "0",
+        "text": "• Ensayo (Nutr Metab\nCardiovasc Dis 2009)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "326",
+        "parent": "0",
+        "text": "• ↑ingesta vit. C + frutas/verduras\n→ menor progresión IMT (0,044\nmm vs 0,062 mm)",
+        "guid": "",
+        "children": [
+          {
+            "id": "327",
+            "parent": "326",
+            "text": "3. Vitaminas B\n(dosis altas)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "328",
+        "parent": "0",
+        "text": "• Ensayo (Stroke 2009)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "329",
+        "parent": "0",
+        "text": "• No dif. global en\ngrosor íntima-media",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "330",
+        "parent": "0",
+        "text": "• Subgrupo con homocisteína basal ≥9,1\nµmol/L → ↓progresión carotídea",
+        "guid": "",
+        "children": [
+          {
+            "id": "331",
+            "parent": "330",
+            "text": "4. Niacina (2 g/día)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "332",
+        "parent": "0",
+        "text": "• Ensayo (J Am Coll\nCardiol 2009)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "333",
+        "parent": "0",
+        "text": "• Px con estatinas + HDL <40\nmg/dL → ↓área pared carotídea\nen RM a 12 meses",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "334",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "335",
+        "parent": "0",
+        "text": "Terapia Médica en\nEstenosis de la A. Carótida",
+        "guid": "jc5SsXbvpBUJD3H4F3akDQ",
+        "children": [
+          {
+            "id": "336",
+            "parent": "335",
+            "text": "1. Consideraciones\nGenerales",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "337",
+        "parent": "0",
+        "text": "• Evaluar y tratar otros FR (HTA,\ndislipidemia, DM, tabaquismo, etc.)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "338",
+        "parent": "0",
+        "text": "• Cambios de estilo de vida (dieta\nsaludable, ejercicio, cese tabaco)",
+        "guid": "",
+        "children": [
+          {
+            "id": "339",
+            "parent": "338",
+            "text": "2. Ensayo de “Terapia Médica\nIntensiva” en Asintomáticos\n(Arch Neurol 2010)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "340",
+        "parent": "0",
+        "text": "• Px con ≥60% estenosis → estatinas a dosis\nmáxima ± ezetimibe ± niacina/fibratos,\nIECA/ARA-II, control óptimo de PA y manejo\nde resistencia a la insulina",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "341",
+        "parent": "0",
+        "text": "• Comparado vs.\nterapia estándar:",
+        "guid": "",
+        "children": [
+          {
+            "id": "342",
+            "parent": "341",
+            "text": "• ↓Eventos CV (5,6% vs\n17,6%; p<0,001)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "343",
+            "parent": "341",
+            "text": "• ↓Microémbolos (3,7%\nvs 12,6%; p<0,001)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "344",
+            "parent": "341",
+            "text": "• ↓Progresión de placa (23 mm² vs 69\nmm² en 1er año; p<0,001)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "345",
+            "parent": "341",
+            "text": "3. Anticoagulación\nUrgente",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "346",
+        "parent": "0",
+        "text": "• Eficacia incierta en estenosis\nsevera ipsilateral a AVC\nisquémico (Clase IIb, B-NR)",
+        "guid": "",
+        "children": [
+          {
+            "id": "347",
+            "parent": "346",
+            "text": "4. Factores Clave para Reducir\nRiesgo (Stroke 2013)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "348",
+        "parent": "0",
+        "text": "• Px asintomáticos con ≥1 año de\nseguimiento y terapia (estatinas +\nantihipertensivos + antiagregantes)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "349",
+        "parent": "0",
+        "text": "• Ningún AVC ipsilateral en\nquienes usaban las 3 terapias",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "350",
+        "parent": "0",
+        "text": "• Antiagregantes + TA más baja → menor\nriesgo de AVC/TIA ipsilateral",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "351",
+        "parent": "0",
+        "text": "• Antiagregantes + antihipertensivos →\nmenor riesgo de AVC/ muerte CV",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "352",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "353",
+        "parent": "0",
+        "text": "Terapia Antitrombótica en\nEstenosis de la A. Carótida",
+        "guid": "bABeTR7WbFXGjWJfRz6hXQ",
+        "children": [
+          {
+            "id": "354",
+            "parent": "353",
+            "text": "1. Visión General",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "355",
+        "parent": "0",
+        "text": "• Organismos (ACCP, ASA/ACCF/AHA,\nESVS) recomiendan antiagregantes en\nestenosis sintomática y asintomática",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "356",
+        "parent": "0",
+        "text": "• Opciones principales:",
+        "guid": "",
+        "children": [
+          {
+            "id": "357",
+            "parent": "356",
+            "text": "• AAS 75-325 mg/día",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "358",
+            "parent": "356",
+            "text": "• Clopidogrel 75 mg/día",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "359",
+            "parent": "356",
+            "text": "• AAS/dipiridamol de liberación\nprolongada (25/200 mg 2v/d)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "360",
+            "parent": "356",
+            "text": "2. Recomendaciones\nACCP (2012)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "361",
+        "parent": "0",
+        "text": "• Sintomáticos (incl.\npost-endarterectomía): terapia\nantiagregante a largo plazo (1A)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "362",
+        "parent": "0",
+        "text": "→ Clopidogrel 75 mg/día o\nAAS/Dipiridamol o AAS 75-100 mg/día",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "363",
+        "parent": "0",
+        "text": "→ Preferencia: Clopidogrel o\nAAS/Dipiridamol sobre AAS sola (2B)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "364",
+        "parent": "0",
+        "text": "• Asintomáticos: AAS 75-100\nmg/día sugerida (2B)",
+        "guid": "",
+        "children": [
+          {
+            "id": "365",
+            "parent": "364",
+            "text": "3. Recomendaciones\nASA/ACCF/AHA (2011)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "366",
+        "parent": "0",
+        "text": "• Aterosclerosis\nextra/vertebral (sintomática o\nno)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "367",
+        "parent": "0",
+        "text": "→ AAS 75-325 mg/día para\nprevención IAM/eventos CV (I, A)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "368",
+        "parent": "0",
+        "text": "• Con TIA/AVC",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "369",
+        "parent": "0",
+        "text": "→ Antiagregación (AAS, Clopidogrel\no AAS/Dipiridamol) (I, B)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "370",
+        "parent": "0",
+        "text": "→ Evitar AAS + Clopidogrel largos\nen AVC/TIA reciente (III, B)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "371",
+        "parent": "0",
+        "text": "• Prefieren antiagregantes vs\nanticoagulación en\naterosclerosis extracraneal",
+        "guid": "",
+        "children": [
+          {
+            "id": "372",
+            "parent": "371",
+            "text": "4. Recomendaciones\nESVS (2023)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "373",
+        "parent": "0",
+        "text": "4.1) Sintomáticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "374",
+        "parent": "0",
+        "text": "• AVC leve/TIA sin CEA → AAS+Clopidogrel x21\ndías → luego monoterapia Clopidogrel, o\nAAS+Dipiridamol largo plazo (I, A)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "375",
+        "parent": "0",
+        "text": "• Si CEA planeada → mantener\nantiagregantes en perioperatorio (I, A)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "376",
+        "parent": "0",
+        "text": "• CAS planeado → AAS+Clopidogrel al\nmenos 3 días antes → continuar ≥4 sem\nposstent → luego monoterapia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "377",
+        "parent": "0",
+        "text": "4.2) Asintomáticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "378",
+        "parent": "0",
+        "text": "• >50% estenosis → considerar\nAAS 75-325 mg/día (IIa, C)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "379",
+        "parent": "0",
+        "text": "• Alternativas: Clopidogrel 75\nmg/día o Dipiridamol 200 mg\n2v/día (intolerancias)",
+        "guid": "",
+        "children": [
+          {
+            "id": "380",
+            "parent": "379",
+            "text": "5. Expert Panel en\nMujeres (2013)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "381",
+        "parent": "0",
+        "text": "• Toda mujer con 50%-99%\nestenosis → manejo médico +\nantiplq. en perioperatorio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "382",
+        "parent": "0",
+        "text": "• CEA → 1\nantiagregante (p.ej.\nAAS)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "383",
+        "parent": "0",
+        "text": "• CAS → dual\n(AAS+Clopidogrel o\nTiclopidina) ≥3 días antes y ≥1\nmes después",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "384",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "385",
+        "parent": "0",
+        "text": "Antiplaquetarios en CEA\n(Carotid Endarterectomy)",
+        "guid": "CfmdjCmUQbYd3eofQ4jQqQ",
+        "children": [
+          {
+            "id": "386",
+            "parent": "385",
+            "text": "1. Evidencia General\n(Cochrane 2003)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "387",
+        "parent": "0",
+        "text": "• 6 ensayos, 907 px → uso de\nantiagregantes ≥30 días pos-CEA",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "388",
+        "parent": "0",
+        "text": "• ↓riesgo de AVC (no hubo conclusiones\nfirmes en otros desenlaces)",
+        "guid": "",
+        "children": [
+          {
+            "id": "389",
+            "parent": "388",
+            "text": "2. Dosis de Aspirina\nPerioperatoria (Ensayo Lancet\n1999)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "390",
+        "parent": "0",
+        "text": "• 2.849 px con CEA\nrandomizados a ASA 81 mg,\n325 mg, 650 mg o 1.300 mg",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "391",
+        "parent": "0",
+        "text": "• Menor riesgo combinado de AVC, IAM y\nmuerte a 3 meses con dosis bajas (81-325\nmg) vs altas (650-1.300 mg)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "392",
+        "parent": "0",
+        "text": "→ 6,2% vs 8,\n4% (p=0,03)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "393",
+        "parent": "0",
+        "text": "En Pacientes Que No Se Someterán a\nEndarterectomía Carotídea",
+        "guid": "DqQGEars5tIKZuCIra7vJA",
+        "children": [
+          {
+            "id": "394",
+            "parent": "393",
+            "text": "1. Aspirina 325 mg/día\nen Asintomáticos",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "395",
+        "parent": "0",
+        "text": "• Estudio (Ann Intern Med 1995) con 372\npx ≥50% estenosis + soplo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "396",
+        "parent": "0",
+        "text": "• Seguimiento 2,3 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "397",
+        "parent": "0",
+        "text": "• Aspirina vs Placebo → sin diferencia en\neventos isquémicos o mortalidad",
+        "guid": "",
+        "children": [
+          {
+            "id": "398",
+            "parent": "397",
+            "text": "2. Doble Antiagregación\n(Clopidogrel + AAS)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "399",
+        "parent": "0",
+        "text": "• Estudio (Circulation 2005) con 107 px con\nestenosis sintomática reciente y microémbolos\n(no programados para CEA)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "400",
+        "parent": "0",
+        "text": "• A 7 días → TIA/AVC ipsilateral 7,8% (dupla) vs\n19,6% (monoterapia) (no significativo\nestadísticamente; p no informado)",
+        "guid": "",
+        "children": [
+          {
+            "id": "401",
+            "parent": "400",
+            "text": "3. Cilostazol vs Aspirina",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "402",
+        "parent": "0",
+        "text": "• Estudio DAPC (Circulation\n2010) en 329 px DM2 + PAD\nasintomática (2 años)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "403",
+        "parent": "0",
+        "text": "• Cilostazol → ↓progresión grosor\níntima-media carotídea vs AAS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "404",
+        "parent": "0",
+        "text": "• Sin datos clínicos (solo\ncambio en IMT)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "405",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "406",
+        "parent": "0",
+        "text": "Terapia Antihipertensiva en\nEstenosis de la A. Carótida",
+        "guid": "y6-w8xNsf1U0zfcULaiz0A",
+        "children": [
+          {
+            "id": "407",
+            "parent": "406",
+            "text": "1. Recomendaciones\nASA/ACCF/AHA (2011)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "408",
+        "parent": "0",
+        "text": "• Asintomáticos: mantener PA\n<140/90 mm Hg (I, A).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "409",
+        "parent": "0",
+        "text": "• Sintomáticos: tratar HTA fuera del\nperíodo hiperagudo; no se conoce\nmeta específica (IIa, C).",
+        "guid": "",
+        "children": [
+          {
+            "id": "410",
+            "parent": "409",
+            "text": "2. Recomendaciones\nESVS (2023)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "411",
+        "parent": "0",
+        "text": "• Sintomáticos",
+        "guid": "",
+        "children": [
+          {
+            "id": "412",
+            "parent": "411",
+            "text": "• Tratar HTA en\nTIA/AVC menor (I, A).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "413",
+            "parent": "411",
+            "text": "• Si CEA/CAS temprano, evitar descensos\nbruscos de PA aunque HTA >180/90 mm\nHg debe tratarse (IIa, C).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "414",
+            "parent": "411",
+            "text": "• Post-trombólisis IV, controlar\nPA para ↓riesgo hemorragia\nparenquimatosa (I, C).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "415",
+        "parent": "0",
+        "text": "• Asintomáticos",
+        "guid": "",
+        "children": [
+          {
+            "id": "416",
+            "parent": "415",
+            "text": "• Iniciar\nantihipertensivos si\nHTA (I, A).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "417",
+            "parent": "415",
+            "text": "3. Mujeres (Expert Panel)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "418",
+        "parent": "0",
+        "text": "• Control de PA <140/80 mm Hg\nideal, dentro de manejo médico\nintegral (Grado 1, Nivel A).",
+        "guid": "",
+        "children": [
+          {
+            "id": "419",
+            "parent": "418",
+            "text": "4. Evidencia Cochrane\n2023 (limitada)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "420",
+        "parent": "0",
+        "text": "• Metoprolol 25 mg/día vs placebo → sin\nreducción significativa de AVC ipsilateral o\nmortalidad específica.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "421",
+        "parent": "0",
+        "text": "• Un ensayo con chlortalidona 12,5\nmg/día redujo progresión de estenosis\n(14% vs 31%, p<0,05).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "422",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "423",
+        "parent": "0",
+        "text": "Estatinas en\nEstenosis\nCarotídea",
+        "guid": "n8y6a2QxFP7Yw-_Sai29VQ",
+        "children": [
+          {
+            "id": "424",
+            "parent": "423",
+            "text": "1. Recomendaciones\nASA/ACCF/AHA (2011)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "425",
+        "parent": "0",
+        "text": "• Todo px con aterosclerosis\ncarotídea/vertebral → estatinas\npara LDL <100 mg/dL (I, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "426",
+        "parent": "0",
+        "text": "• En px con AVC isquémico →\nrazonable LDL ~70 mg/dL (IIa, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "427",
+        "parent": "0",
+        "text": "• Si no se logra meta con\nestatina: intensificar con\nfármacos adicionales (IIa, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "428",
+        "parent": "0",
+        "text": "• Intolerancia a estatinas: resinas de\nácidos biliares / niacina (IIa, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "429",
+        "parent": "0",
+        "text": "• DM + estenosis: estatinas para\nLDL ~70 mg/dL (IIa, B).",
+        "guid": "",
+        "children": [
+          {
+            "id": "430",
+            "parent": "429",
+            "text": "2. Recomendaciones\nESVS (2023)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "431",
+        "parent": "0",
+        "text": "• Sintomáticos",
+        "guid": "",
+        "children": [
+          {
+            "id": "432",
+            "parent": "431",
+            "text": "• Estatinas a largo\nplazo (I, B).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "433",
+            "parent": "431",
+            "text": "• Añadir ezetimibe si no se\nalcanza objetivo (I, B).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "434",
+            "parent": "431",
+            "text": "• PCSK9 si intolerancia o no se\nlogran metas con estatinas ±\nezetimibe (IIa, B).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "435",
+            "parent": "431",
+            "text": "• Iniciar estatinas antes\nde CEA/CAS (I, A).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "436",
+        "parent": "0",
+        "text": "• Asintomáticos",
+        "guid": "",
+        "children": [
+          {
+            "id": "437",
+            "parent": "436",
+            "text": "• Comenzar estatinas ± ezetimibe\npara prevención CV (I, B).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "438",
+            "parent": "436",
+            "text": "• PCSK9 si intolerancia a\nestatinas (IIa, C).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "439",
+            "parent": "436",
+            "text": "• No suspender estatinas previo a\ncirugía no cardiaca (III, C).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "440",
+            "parent": "436",
+            "text": "3. Mujeres (Expert Panel)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "441",
+        "parent": "0",
+        "text": "• ≥50% estenosis → manejo\nmédico siempre, incluyendo\nestatinas (LDL <100 mg/dL).",
+        "guid": "",
+        "children": [
+          {
+            "id": "442",
+            "parent": "441",
+            "text": "4. Cochrane 2023\n(Asintomáticos)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "443",
+        "parent": "0",
+        "text": "• No reducción estadísticamente significativa en AVC\nipsilateral mayor/inválido ni mortalidad específica de AVC\n(IC amplios → no descartan beneficio).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "444",
+        "parent": "0",
+        "text": "• Duración de 2-6 años, fármacos:\natorvastatina, lovastatina,\npravastatina, rosuvastatina.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "445",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "446",
+        "parent": "0",
+        "text": "Terapia Hipoglucemiante en\nEstenosis Carotídea",
+        "guid": "obJetVJ7spY66oo92nmQJg",
+        "children": [
+          {
+            "id": "447",
+            "parent": "446",
+            "text": "1. Recomendaciones\nPrincipales",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "448",
+        "parent": "0",
+        "text": "• ASA/ACCF/AHA: px con DM + aterosclerosis\ncarotídea/vertebral → dieta + ejercicio +\nfármacos hipoglucemiantes (IIa, A).",
+        "guid": "",
+        "children": [
+          {
+            "id": "449",
+            "parent": "448",
+            "text": "• No se ha establecido beneficio en\nprevención de AVC con control\nintensivo (HbA1c <7%).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "450",
+        "parent": "0",
+        "text": "• ESVS: control óptimo de la glucemia en\npx asintomáticos con DM (I, B).",
+        "guid": "",
+        "children": [
+          {
+            "id": "451",
+            "parent": "450",
+            "text": "2. Evidencia (ORIGIN-GRACE,\nDiabetes Care 2013)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "452",
+        "parent": "0",
+        "text": "• Ensayo en 1.184 px con\nriesgos CV + intolerancia a la\nglucosa o DM2 temprano.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "453",
+        "parent": "0",
+        "text": "• Comparó insulina glargina (glucemia en\nayunas ≤95 mg/dL) vs cuidado estándar\n(seguimiento ~4,9 años).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "454",
+        "parent": "0",
+        "text": "• Insulina glargina →\n↓progresión del espesor\níntima-media carotídeo (p≤0,\n05).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "455",
+        "parent": "0",
+        "text": "• Suplementos de ácidos grasos\nn-3 → sin diferencias.",
+        "guid": "",
+        "children": [
+          {
+            "id": "456",
+            "parent": "455",
+            "text": "3. Otros Datos",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "457",
+        "parent": "0",
+        "text": "• No hay ensayos específicos en\nestenosis carotídea asintomática\n(Cochrane 2023).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "458",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "459",
+        "parent": "0",
+        "text": "Procedimientos Quirúrgicos\ny Revascularización",
+        "guid": "0Io-RfvQbHXUuTwaRxrGGw",
+        "children": [
+          {
+            "id": "460",
+            "parent": "459",
+            "text": "1. General",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "461",
+        "parent": "0",
+        "text": "• <50% estenosis → NO revascularizar\nen la mayoría de los casos",
+        "guid": "",
+        "children": [
+          {
+            "id": "462",
+            "parent": "461",
+            "text": "2. Pacientes Sintomáticos",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "463",
+        "parent": "0",
+        "text": "• Revascularizar idealmente en\nlas 2 sem post-AIT/AVC (si no hay\ncontraindicaciones)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "464",
+        "parent": "0",
+        "text": "• Opción si 50%-99% estenosis +\nsíntomas en últimos 6 meses + riesgo\nproced. (muerte/AVC) <6%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "465",
+        "parent": "0",
+        "text": "• CEA en 70%-99%\n(mandatorio)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "466",
+        "parent": "0",
+        "text": "• CEA a considerar\nen 50%-69%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "467",
+        "parent": "0",
+        "text": "• CAS alternativa\nsi <70 años",
+        "guid": "",
+        "children": [
+          {
+            "id": "468",
+            "parent": "467",
+            "text": "3. Pacientes\nAsintomáticos",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "469",
+        "parent": "0",
+        "text": "• Mayoría no requiere\nrevascularización",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "470",
+        "parent": "0",
+        "text": "• Considerar si 60%-99% + ≥1 factor de alto\nriesgo de AVC + riesgo proced. ≤3% +\nexpectativa de vida >5 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "471",
+        "parent": "0",
+        "text": "• CAS preferible sobre CEA si alto\nriesgo qx + anatomía favorable",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "472",
+        "parent": "0",
+        "text": "• NO revascularizar solo para reducir deterioro\ncognitivo en 70%-99% asintomático (ausencia de\nasociación causal demostrada)",
+        "guid": "",
+        "children": [
+          {
+            "id": "473",
+            "parent": "472",
+            "text": "4. Manejo Perioperatorio",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "474",
+        "parent": "0",
+        "text": "•\nAntiagregación\ncontinua:",
+        "guid": "",
+        "children": [
+          {
+            "id": "475",
+            "parent": "474",
+            "text": "• CEA → AAS\n75-325 mg/día",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "476",
+            "parent": "474",
+            "text": "• CAS → dual (AAS\n+ Clopidogrel)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "477",
+        "parent": "0",
+        "text": "• Considerar sistemas de\nprotección cerebral en CAS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "478",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "479",
+        "parent": "0",
+        "text": "Otras Medidas en el Manejo de\nla Estenosis Carotídea",
+        "guid": "BGg_XPJJh9-6_k24C8wkQg",
+        "children": [
+          {
+            "id": "480",
+            "parent": "479",
+            "text": "1. Enfoque\nMultidisciplinario",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "481",
+        "parent": "0",
+        "text": "• ESVS sugiere equipo multidisciplinario\npara decidir CEA, CAS y terapia médica\nóptima (Clase I, C).",
+        "guid": "",
+        "children": [
+          {
+            "id": "482",
+            "parent": "481",
+            "text": "2. Cese de Tabaquismo",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "483",
+        "parent": "0",
+        "text": "• Indicar a los fumadores abandonar el\nhábito y ofrecer intervenciones de cesación\n(ASA/ACCF/AHA Clase I, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "484",
+        "parent": "0",
+        "text": "• En mujeres con estenosis carotídea, abordar\nHTA, hipercolesterolemia y tabaquismo reduce el\nriesgo CV global (Grado 1, A).",
+        "guid": "",
+        "children": [
+          {
+            "id": "485",
+            "parent": "484",
+            "text": "3. Modificaciones en\nel Estilo de Vida",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "486",
+        "parent": "0",
+        "text": "• ESVS (Clase I, B) → Consejería dietética,\nactividad física y cese tabáquico para\nsintomáticos y asintomáticos.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "487",
+        "parent": "0",
+        "text": "• Ejercicio: beneficio incierto más\nallá de los efectos en pérdida de\npeso, lípidos y glucemia.",
+        "guid": "",
+        "children": [
+          {
+            "id": "488",
+            "parent": "487",
+            "text": "4. “Remote Ischemic\nConditioning” (RIC)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "489",
+        "parent": "0",
+        "text": "• Meta-análisis Cochrane 2018 (7 ensayos,\nlimitaciones metodológicas).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "490",
+        "parent": "0",
+        "text": "• RIC asociado a ↓riesgo de AVC\nisquémico (RR 0,31, IC95%: 0,\n12-0,76; NNT ~13-47).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "491",
+        "parent": "0",
+        "text": "• Aumento de eventos adversos\nleves (petequias cutáneas); sin\neventos severos reportados.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "492",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "493",
+        "parent": "0",
+        "text": "Seguimiento en\nEstenosis Carotídea",
+        "guid": "ecbTwrB6PSvXHClyoqQehA",
+        "children": [
+          {
+            "id": "494",
+            "parent": "493",
+            "text": "1. Eco-Doppler Carotídeo",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "495",
+        "parent": "0",
+        "text": "• Repetir anualmente si >50%\nestenosis (ASA/ACCF/AHA IIa, C).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "496",
+        "parent": "0",
+        "text": "• Ajustar frecuencia o suspender cuando la\nenfermedad se estabiliza o cambie la\nindicación de intervención.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "497",
+        "parent": "0",
+        "text": "• Indicado control ecográfico si\nestenosis >20% en asintomáticos.",
+        "guid": "",
+        "children": [
+          {
+            "id": "498",
+            "parent": "497",
+            "text": "2. Progresión de\nla Estenosis",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "499",
+        "parent": "0",
+        "text": "• En estudio con 1.004 px\nasintomáticos (Arch Intern Med 2003):",
+        "guid": "",
+        "children": [
+          {
+            "id": "500",
+            "parent": "499",
+            "text": "• La progresión seriada de la estenosis\npredijo mayor riesgo de TIA/AVC\nipsilateral (RR 1,68 y 1,78).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "501",
+            "parent": "499",
+            "text": "• El grado basal de estenosis se\nasoció a TIA/AVC combinado,\npero no a AVC solo.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "502",
+            "parent": "499",
+            "text": "3. Fibrormuscular\nDisplasia (FMD)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "503",
+        "parent": "0",
+        "text": "• Control anual no invasivo\n(Eco-Doppler) para detectar cambios,\nal menos inicialmente (IIa, C).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "504",
+        "parent": "0",
+        "text": "• Si estable, prolongar\nintervalos o reducir frecuencia.",
+        "guid": "",
+        "children": [
+          {
+            "id": "505",
+            "parent": "504",
+            "text": "4. Mujeres con\nEstenosis Carotídea",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "506",
+        "parent": "0",
+        "text": "• Mantener terapia médica óptima de por\nvida (antiagregantes, estatinas,\nantihipertensivos) (Grado 1, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "507",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "508",
+        "parent": "0",
+        "text": "Pronóstico en Estenosis\nCarotídea Sintomática",
+        "guid": "nqUABKYntdYhC7jecTXqlw",
+        "children": [
+          {
+            "id": "509",
+            "parent": "508",
+            "text": "1. Riesgo de\nRecurrencia\nTemprana",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "510",
+        "parent": "0",
+        "text": "• Tras AIT/AVC leve y estenosis ≥70% →\n↑riesgo de recurrencia neurológica temprana\n(27,6% en 14 días; Stroke 2009).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "511",
+        "parent": "0",
+        "text": "• AVC isquémico con estenosis ipsilateral\n≥50% → 5,6% recurrencia a 72 h vs 0,4% sin\nestenosis (Neurology 2011).",
+        "guid": "",
+        "children": [
+          {
+            "id": "512",
+            "parent": "511",
+            "text": "2. Restenosis\npost-Endarterectomía",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "513",
+        "parent": "0",
+        "text": "• 17% desarrolló ≥50%\nrestenosis a 1 año (JAMA 2008).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "514",
+        "parent": "0",
+        "text": "• Menor riesgo si infiltración\nde macrófagos o gran núcleo\nlipídico en placa.",
+        "guid": "",
+        "children": [
+          {
+            "id": "515",
+            "parent": "514",
+            "text": "3. Monocular vs\nHemisférico (AIT)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "516",
+        "parent": "0",
+        "text": "• Ceguera monocular transitoria\n(amaurosis fugaz) → mejor pronóstico\nque AIT hemisférico (NEJM 2001).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "517",
+        "parent": "0",
+        "text": "• Factores de riesgo en monocular: >75 años, varón,\nAIT/AVC hemisférico previo, claudicación, 80%-94%\nestenosis, colaterales ausentes.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "518",
+        "parent": "0",
+        "text": "• Riesgo a 3 años\ncon tto médico:",
+        "guid": "",
+        "children": [
+          {
+            "id": "519",
+            "parent": "518",
+            "text": "• 1,8% con 0-1 factor",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "520",
+            "parent": "518",
+            "text": "• 12,3% con 2 factores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "521",
+            "parent": "518",
+            "text": "• 24,2% con ≥3 factores",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "522",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "523",
+        "parent": "0",
+        "text": "Pronóstico en Estenosis\nCarotídea Asintomática",
+        "guid": "7i1v_etUEv3vmNsQP3_vmQ",
+        "children": [
+          {
+            "id": "524",
+            "parent": "523",
+            "text": "1. Riesgo de AVC\nIpsilateral y Mortalidad",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "525",
+        "parent": "0",
+        "text": "• Cohorte JAMA 2022 (N=3.737,\nestenosis 70%-99%):",
+        "guid": "",
+        "children": [
+          {
+            "id": "526",
+            "parent": "525",
+            "text": "• Riesgo de AVC ipsilateral a 5 años\n≈4,7% (tasa anual ≈0,9%).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "527",
+            "parent": "525",
+            "text": "• Mortalidad general a 5 años\n≈45% (tasa anual ≈13,6%).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "528",
+            "parent": "525",
+            "text": "• Uso de estatinas se asoció con\nmenor riesgo de AVC (HR 0,38).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "529",
+        "parent": "0",
+        "text": "• Meta-análisis Ann Intern Med 2013: tasa\nde AVC ipsilateral ~1,68%/año.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "530",
+        "parent": "0",
+        "text": "• Revisión sistemática Stroke 2016\n(oclusión carotídea asintomática):",
+        "guid": "",
+        "children": [
+          {
+            "id": "531",
+            "parent": "530",
+            "text": "• Tasa anual de AVC\nipsilateral ≈1,3%.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "532",
+            "parent": "530",
+            "text": "• Mortalidad por todas las\ncausas ≈7,7%/año.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "533",
+            "parent": "530",
+            "text": "2. Impacto del\nGrado de Estenosis",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "534",
+        "parent": "0",
+        "text": "• Lancet Neurol 2021 (56 estudios,\n+1 cohorte prospectiva):",
+        "guid": "",
+        "children": [
+          {
+            "id": "535",
+            "parent": "534",
+            "text": "• Riesgo anual de AVC ipsilateral\nha disminuido <1% tras 2010 con\nmejor terapia médica.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "536",
+            "parent": "534",
+            "text": "• Estenosis ≥70%-99% → riesgo\nmayor que 50%-69%.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "537",
+            "parent": "534",
+            "text": "• Cohorte Oxford (5,9\naños seguimiento):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "538",
+            "parent": "534",
+            "text": "• 18,3% AVC ipsilateral a 5 años en\n80%-99% vs 1% en 50%-79%.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "539",
+            "parent": "534",
+            "text": "3. Otras\nComplicaciones y\nHallazgos",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "540",
+        "parent": "0",
+        "text": "• Progresión de estenosis en Duplex\nseriado se asocia a mayor riesgo de\neventos CV (Stroke 2007).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "541",
+        "parent": "0",
+        "text": "• Riesgo de IAM y muerte vascular puede\nsuperar al de AVC ipsilateral a largo\nplazo (Arch Neurol 2002).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "542",
+        "parent": "0",
+        "text": "• Características de placa (microémbolos en\nTCD, placas hipolúcidas) → mayor riesgo\nde eventos isquémicos.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "543",
+        "parent": "0",
+        "text": "• Estenosis carotídea izquierda\nsevera → posible deterioro cognitivo\n(Ann Intern Med 2004).",
+        "guid": "",
+        "children": [
+          {
+            "id": "544",
+            "parent": "543",
+            "text": "4. Factores de\nProgresión (ICA/CCA\nratio)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "545",
+        "parent": "0",
+        "text": "• ICA/CCA >2,5 → ↑probabilidad\nde progresar a estenosis ≥70% (J\nVasc Surg 2014).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "546",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "547",
+        "parent": "0",
+        "text": "Prevención y Cribado de la\nEstenosis Carotídea",
+        "guid": "2MAuXo-SUR7tD5DEVpR10Q",
+        "children": [
+          {
+            "id": "548",
+            "parent": "547",
+            "text": "1. Prevención",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "549",
+        "parent": "0",
+        "text": "• No aplica (no hay intervenciones\npreventivas específicas distintas a las de\nreducir factores de riesgo vascular).",
+        "guid": "",
+        "children": [
+          {
+            "id": "550",
+            "parent": "549",
+            "text": "2. Cribado en\nPoblación\nAsintomática",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "551",
+        "parent": "0",
+        "text": "• No se recomienda cribado rutinario en\nla población general (USPSTF Grade\nD, ESVS Clase III, C).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "552",
+        "parent": "0",
+        "text": "• Puede considerarse en grupos selectos de\nalto riesgo si existe disposición a una\nintervención carotídea en caso de estenosis\nsignificativa (SVS Grado 2, B).",
+        "guid": "",
+        "children": [
+          {
+            "id": "553",
+            "parent": "552",
+            "text": "3. Situaciones\nEspecíficas (ESVS)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "554",
+        "parent": "0",
+        "text": "3.1) ≥2 Factores de\nRiesgo Vascular",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "555",
+        "parent": "0",
+        "text": "• Cribado (Eco-Doppler) opcional para mejorar\nel control de factores de riesgo, no para\nintervención invasiva (IIb, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "556",
+        "parent": "0",
+        "text": "3.2) Cirugía Cardíaca (Bypass Coronario\n/ Cirugía Cardiaca Abierta)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "557",
+        "parent": "0",
+        "text": "• No realizar cribado rutinario de\ncarótida (Clase III, C).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "558",
+        "parent": "0",
+        "text": "• Considerar Eco-Doppler si edad >70 años,\nTIA/AVC previos, soplo carotídeo o estenosis de\ntronco coronario izquierdo (IIa, C).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "559",
+        "parent": "0",
+        "text": "3.3) Cirugía No Cardíaca",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "560",
+        "parent": "0",
+        "text": "• No se recomienda imagen rutinaria de\ncarótidas en asintomáticos (III, B).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "561",
+        "parent": "0",
+        "text": "• Realizar imagen si TIA/AVC <6 meses\nantes de cirugía electiva (I, B).",
+        "guid": "",
+        "children": [
+          {
+            "id": "562",
+            "parent": "561",
+            "text": "4. Métodos de Cribado",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "563",
+        "parent": "0",
+        "text": "• Eco-Doppler en laboratorio\nacreditado preferido sobre\nCTA/MRA (SVS Grado 1, B).",
+        "guid": "",
+        "children": [
+          {
+            "id": "564",
+            "parent": "563",
+            "text": "5. Justificación",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "565",
+        "parent": "0",
+        "text": "• Alta tasa de falsos positivos\nen población general.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "566",
+        "parent": "0",
+        "text": "• Beneficio clínico limitado en asintomáticos\ncon intervención (CEA/CAS).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "567",
+        "parent": "0",
+        "text": "• Posibles daños asociados a pruebas\nconfirmatorias e intervenciones.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "568",
+        "parent": "0",
+        "text": "Fin.",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 569,
+  "relations": [],
+  "cross_references": [
+    {
+      "from_node": "513",
+      "reference": "JAMA"
+    },
+    {
+      "from_node": "516",
+      "reference": "NEJM"
+    }
+  ],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Estenosis carotídea-2025",
+  "id": "map_693",
+  "resolved_references": []
+}

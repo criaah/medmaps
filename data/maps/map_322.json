@@ -1,0 +1,77 @@
+{
+  "title": "TEAM-2023",
+  "guid": "1f705f77-1b0f-4bf1-9d11-b76b046ede90",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/TEAM-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "TEAM (2023)\nTargeted Energy and Muscle Trial\n\\nMeta proteica alta temprana NO mejora\\noutcomes en pacientes criticos\\nDosis moderada proteina es suficiente",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nHeyland DK, et al.\\nN Engl J Med 2024;391:1395-1406\nDOI: 10.1056/NEJMoa2309699\n\\nRCT multicentrico, doble ciego\\n17 paises, 85 UCIs",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=1,301\\nAdultos criticos ventilacion mecanica\\n\\nCriterios:\\n- NUTRIC score mayor o igual 5 (alto riesgo)\\n- VM esperada mayor o igual 48h\\n- Tolerancia nutricion enteral\\n\\nEdad media: 58 años\\nApache II medio: 20\\nSeguimiento: 60 dias",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nDosis alta proteina: 2.0 g/kg/dia\\nvs\\nDosis usual: 1.2 g/kg/dia\\n\\nInicio dentro de 96h ingreso UCI\\nCalorias: 1.3 x gasto energetico basal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (dias vivo sin VM a 60d):\\nDosis alta: 21.9 dias\\nDosis usual: 22.5 dias\\nDiferencia: -0.6 (IC95% -3.4 a 2.2)\\np=0.68 - NO SIGNIFICATIVO\n\\nMortalidad 60 dias:\\nDosis alta: 32%\\nDosis usual: 29%\\nHR 1.11 (IC95% 0.91-1.37)\\np=0.31 (tendencia a daño)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nDosis alta vs usual:\\n- Azotemia: mas frecuente\\n- Sobrecarga volumen: similar\\n- Diarrea: similar\\n- Intolerancia GI: similar\\n\\nSin beneficio funcional\\nSin preservacion masa muscular",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Solo alto riesgo nutricional\\n- Nutricion enteral (no parenteral)\\n- No evaluacion masa muscular directa\\n- Heterogeneidad poblacion UCI\\n- Efecto techo de proteina?",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Ancianos: mayor sarcopenia previa\\n- 1.2-1.5 g/kg/dia es suficiente\\n- Evitar exceso proteico (azotemia)\\n- Monitorizar funcion renal\\n- Inicio temprano enteral: prioritario\\n- Rehabilitacion precoz mas importante que proteina",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Mas proteina NO es mejor en UCI\\n2. 1.2 g/kg/dia es meta razonable\\n3. Ancianos: riesgo azotemia con exceso\\n4. Nutricion enteral temprana SI importa\\n5. NUTRIC score identifica alto riesgo\\n6. Movilizacion precoz es clave\\n7. Proteina alta no preserva musculo en critico\\n8. Individualizar segun funcion renal\\n9. Calorias adecuadas sin sobrealimentar\\n10. Fisioterapia mayor 30 primeras horas",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "TEAM-2026",
+  "id": "map_322",
+  "resolved_references": []
+}

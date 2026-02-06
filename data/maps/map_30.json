@@ -1,0 +1,77 @@
+{
+  "title": "SPRINT-2015",
+  "guid": "66b66faf-33dd-497b-88a3-d95faa8f6b3f",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/SPRINT-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "SPRINT (2015)\nSystolic Blood Pressure Intervention Trial\n\\nControl intensivo PA menor 120 mmHg\\nreduce eventos CV y mortalidad en mayores 75a\nNNTH 27 a 3 años",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nSPRINT Research Group\\nN Engl J Med 2015;373:2103-16\nDOI: 10.1056/NEJMoa1511939\n\\nRCT multicentrico, abierto\\nEEUU, Puerto Rico\\nDetenido precozmente por beneficio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=9,361 (2,636 mayores 75a)\nEdad: mayor o igual 50 años\\nPAS 130-180 mmHg\\n\\nAlto riesgo CV:\\n- ECV clinica o subclinica\\n- ERC (TFG 20-60)\\n- Framingham mayor 15%\\n- Edad mayor 75a\\n\\nExcluidos: DM, ACV previo, IC sintomatica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nControl intensivo: PAS menor 120 mmHg\\nvs\\nControl estandar: PAS menor 140 mmHg\\n\\nPAS lograda:\\n- Intensivo: 121 mmHg\\n- Estandar: 136 mmHg\\n\\nSeguimiento medio: 3.26 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (IAM, SCA, ACV, IC, muerte CV):\\nIntensivo: 5.2%\\nEstandar: 6.8%\\nHR 0.75 (IC95% 0.64-0.89)\nNNTH 61 general, 27 en mayores 75a\n\\nMortalidad total:\\nHR 0.73 (IC95% 0.60-0.90)\nNNTH 90\n\\nSubgrupo mayor 75a:\\nHR 0.66 para outcome primario\\nBeneficio MAYOR que jovenes",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nMayor en grupo intensivo:\\n- Hipotension: 2.4% vs 1.4%\\n- Sincope: 2.3% vs 1.7%\\n- IRA: 4.1% vs 2.5%\\n- Alteraciones electroliticas: 3.1% vs 2.3%\\n\\nSin diferencia en caidas ni fracturas\\nEn mayores 75a: eventos adversos similares",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Exclusion de diabeticos\\n- Exclusion de ACV previo\\n- Medicion PA automatizada sin observador\\n- PA real probablemente mayor que en consultorio\\n- Detenido precozmente\\n- Poblacion seleccionada (excluye fragiles institucionalizados)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Beneficio MAYOR en mayores 75a\\n- NNT 27 muy favorable\\n- Sin aumento de caidas\\n- Considerar PA automatizada vs consultorio\\n- Individualizar en muy fragiles\\n- Velocidad de marcha predictor de beneficio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Mayor 75a = MAYOR beneficio (no menor)\\n2. Meta PAS menor 120 segura en ancianos seleccionados\\n3. NNT 27 a 3 años = excelente\\n4. Sin aumento caidas en analisis\\n5. PA SPRINT equivale a 130-140 en consultorio\\n6. Fragilidad severa fue criterio exclusion\\n7. Velocidad marcha mayor 0.8 m/s predice beneficio\\n8. Individualizar: expectativa de vida, tolerancia\\n9. Monitorizar funcion renal y electrolitos\\n10. Cambio de paradigma en HTA del anciano",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Cardiología",
+  "folder": "- Estudios Pivotales",
+  "filename": "SPRINT-2026",
+  "id": "map_30",
+  "resolved_references": []
+}

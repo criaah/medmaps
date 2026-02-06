@@ -1,0 +1,77 @@
+{
+  "title": "SAVE-Score-2015",
+  "guid": "08b2ca5a-d807-4f27-a31b-587066faf849",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/SAVE-Score-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "SAVE Score (2015)\nSurvival After Veno-arterial ECMO\n\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nSchmidt M, et al.\\nEur Heart J 2015;36:2246-56\nDOI: 10.1093/eurheartj/ehv194\n\\nRegistro ELSO internacional\\nDerivacion y validacion",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nDerivacion: n=3,846\\nValidacion: n=1,601\\n\\nAdultos con VA-ECMO por shock cardiogenico\\n(excluye ECPR)\\n\\nEdad media: 52 años\\nMortalidad global: 58%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "VARIABLES SAVE\n\\nSuman puntos:\\n+ Miocarditis: +3\\n+ Post trasplante/VAD: +3\\n+ Otros: segun causa\\n\\nRestan puntos:\\n- Edad (por decada desde 18a): -2\\n- Peso mayor 117kg: -2\\n- Falla hepatica: -3\\n- Disfuncion SNC: -3\\n- IRA pre-ECMO: -3\\n- VM mayor 10h: -2\\n- PAD baja pre-ECMO: -2\\n- HCO3 bajo: -3\\n- Lactato elevado: -2 a -7",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "INTERPRETACION\n\\nScore y sobrevida:\\nClase I (mayor o igual 5): 75%\\nClase II (-4 a 4): 58%\\nClase III (-9 a -5): 42%\\nClase IV (-14 a -10): 30%\\nClase V (menor -14): 18%\n\\nAUC: 0.68",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "UTILIDAD CLINICA\n\\n- Seleccion candidatos ECMO\\n- Comunicacion pronostica\\n- Toma decisiones equipo\\n- Comparacion entre centros\\n- Investigacion y registros",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Datos de registro (no RCT)\\n- Pre-ECMO: no captura evolucion\\n- No incluye complicaciones ECMO\\n- AUC moderada\\n- Ancianos subrepresentados\\n- No validado especificamente mayor 75a",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Edad penaliza score (-2/decada)\\n- Mayor 70a: considerar cuidadosamente\\n- Fragilidad no incluida explicitamente\\n- Discusion ACP antes si electivo\\n- Sobrevida baja en muy ancianos\\n- Considerar metas del paciente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Score clase V: sobrevida solo 18%\\n2. Edad avanzada penaliza significativamente\\n3. Lactato es predictor fuerte\\n4. Miocarditis: mejor pronostico\\n5. IRA pre-ECMO: mal pronostico\\n6. Usar para discusion equipo\\n7. No reemplaza juicio clinico\\n8. Fragilidad debe considerarse aparte\\n9. ECMO en muy ancianos: excepcional\\n10. Tomar decisiones con familia temprano",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "SAVE-Score-2026",
+  "id": "map_327",
+  "resolved_references": []
+}

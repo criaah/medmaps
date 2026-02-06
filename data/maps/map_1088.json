@@ -1,0 +1,85 @@
+{
+  "title": "MIND-USA (2018)",
+  "guid": "MINDUSA-2018-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/MIND-USA-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "MIND-USA (2018)\nModifying the Incidence of\nNeurologic Dysfunction-USA\n\\n⭐ Haloperidol y ziprasidona\\nNO mejoran delirium en UCI\\nvs placebo",
+    "guid": "MINDUSA-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Girard TD et al.\nAño: 2018\nRevista: NEJM\nDOI: 10.1056/NEJMoa1808217\n\\nDiseño: RCT doble ciego\\nMulticéntrico: USA (16 centros)\\nn = 566 pacientes con delirium\\nSeguimiento: 90 días",
+        "guid": "MINDUSA-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Girard TD et al. NEJM 2018\\n   DOI: 10.1056/NEJMoa1808217\\n\\n2. Guías PADIS 2018\\n   No antipsicóticos rutina\\n\\n3. HOPE-ICU. Lancet 2013\\n   Haloperidol no previene",
+            "guid": "MINDUSA-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusion:\\n• Adultos UCI\\n• Falla respiratoria aguda O shock\\n• Delirium (CAM-ICU positivo)\\n  - 89% hipoactivo\\n  - 11% hiperactivo\\n\\nCriterios Exclusion:\\n• QTc prolongado\\n• Parkinsonismo\\n• Alergia antipsicóticos\\n\\nCaracterísticas:\\n• Edad media: 59 años\\n• 54% hombres\\n• APACHE II: ~27",
+        "guid": "MINDUSA-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Haloperidol (n=192):\\n• IV bolus\\n• Máximo 20 mg/día\\n• Titulado cada 12h según CAM-ICU\\n\\nGrupo Ziprasidona (n=190):\\n• IV bolus\\n• Máximo 40 mg/día\\n• Titulado igual\\n\\nGrupo Placebo (n=184):\\n• IV matching\\n\\nDuración mediana:\\n• 4 días de tratamiento",
+        "guid": "MINDUSA-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nDías sin delirium ni coma (1rio):\\n• Placebo: 8.5 días\\n• Haloperidol: 7.9 días\\n• Ziprasidona: 8.7 días\\n• p = 0.26 (NS) ✗\n\\nMortalidad 30 días:\\n• Sin diferencia significativa\n\\nMortalidad 90 días:\\n• Sin diferencia significativa\n\\nDías ventilación:\\n• Sin diferencia\n\\nConclusion:\\n• Antipsicóticos NO funcionan\\n  para tratar delirium UCI",
+        "guid": "MINDUSA-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nSíntomas extrapiramidales:\\n• Sin diferencia entre grupos\\n• Frecuencia muy baja\\n\\nSedación excesiva:\\n• Sin diferencia significativa\\n\\nProlongación QTc:\\n• Monitorizada\\n• Sin eventos graves\\n\\nMensaje:\\n• Antipsicóticos son seguros\\n• Pero NO son efectivos\\n• No justifica su uso rutinario",
+        "guid": "MINDUSA-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT grande doble ciego\\n✓ Multicéntrico (16 sitios)\\n✓ Outcome validado (CAM-ICU)\\n✓ Resultado NEGATIVO importante\\n\\nLimitaciones:\\n• 89% hipoactivo (menos hiperactivo)\\n• Titulación pudo ser subóptima\\n• Solo 2 antipsicóticos\\n• No incluye quetiapina\\n\\nConfirma:\\n• HOPE-ICU (haloperidol)\\n• Meta-análisis previos",
+        "guid": "MINDUSA-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Estudio CLAVE\n\\nMensaje para geriatría:\\n• NO usar antipsicóticos de rutina\\n  para delirium en UCI\\n• Enfocarse en causas subyacentes\\n\\nAlternativas:\\n• Tratar causa precipitante\\n• Reorientación\\n• Movilización temprana\\n• Ciclo sueño-vigilia\\n• Evitar benzodiacepinas\\n• Dexmedetomidina si sedación\\n\\nExcepción posible:\\n• Agitación peligrosa\\n• Rescate sintomático corto",
+        "guid": "MINDUSA-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Antipsicóticos NO curan delirium:\n   son placebos con efectos adversos\n\\n2. Hipoactivo 89%:\n   la mayoría del delirium UCI\n\\n3. Tratar la CAUSA:\n   no los síntomas\n\\n4. ABCDEF Bundle:\n   mejor que fármacos\n\\n5. Haloperidol = Ziprasidona:\n   ninguno funciona\n\\n6. Seguro pero inútil:\n   no justifica uso rutinario\n\\n7. Confirma CATIE-AD:\n   antipsicóticos NO para confusión\n\\n8. Cambió guías PADIS 2018:\n   no recomienda antipsicóticos",
+        "guid": "MINDUSA-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "MIND-USA-2026",
+  "id": "map_1088",
+  "resolved_references": []
+}

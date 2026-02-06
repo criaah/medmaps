@@ -1,0 +1,77 @@
+{
+  "title": "CHEST-2012",
+  "guid": "015bceb2-df87-4c1f-812a-3139fae80f08",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/CHEST-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "CHEST (2012)\nCrystalloid vs Hydroxyethyl Starch Trial\n\\nHES aumenta injuria renal y necesidad dialisis\\nvs cristaloides en pacientes criticos\\nHES contraindicado en UCI",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nMyburgh JA, et al.\\nN Engl J Med 2012;367:1901-11\nDOI: 10.1056/NEJMoa1209759\n\\nRCT doble ciego\\n32 UCIs, Australia y Nueva Zelanda",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=7,000\\nAdultos UCI que requieren fluidos\\n\\nCriterios:\\n- Cualquier indicacion de fluidos IV\\n- UCI medica o quirurgica\\n\\nEdad media: 63 años\\n29% sepsis\\nSeguimiento: 90 dias",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\n6% HES 130/0.4 (Voluven)\\nvs\\nSolucion salina 0.9%\\n\\nHasta 50 mL/kg/dia\\nPor toda estancia UCI",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nMortalidad 90 dias:\\nHES: 18.0%\\nSalino: 17.0%\\nRR 1.06 (IC95% 0.96-1.18)\\np=0.26 - NO SIGNIFICATIVO\n\\nTerapia reemplazo renal:\\nHES: 7.0%\\nSalino: 5.8%\\nRR 1.21 (IC95% 1.00-1.45)\\np=0.04 - SIGNIFICATIVO\nNNTH para daño: 83",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nHES vs Salino:\\n- IRA: mas frecuente con HES\\n- Requerimiento dialisis: 7% vs 5.8%\\n- Coagulopatia: mas con HES\\n- Prurito: mas con HES\\n\\nEfectos persisten post-UCI",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Salino hipercloremico (no balanceado)\\n- Dosis alta HES permitida\\n- Heterogeneidad patologias\\n- No todos en sepsis\\n- HES mas moderno no probado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Ancianos: mayor riesgo IRA\\n- EVITAR HES en cualquier circunstancia\\n- Cristaloides son primera linea\\n- Considerar balanceados vs salino\\n- Monitorizar cloremia y funcion renal\\n- Albumina en sepsis con hipoalbuminemia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. HES causa nefrotoxicidad\\n2. Cristaloides son primera linea SIEMPRE\\n3. HES contraindicado en sepsis (FDA, EMA)\\n4. Ancianos: especialmente vulnerables a IRA\\n5. Albumina es alternativa si coloide necesario\\n6. Soluciones balanceadas preferibles a salino\\n7. HES puede causar coagulopatia\\n8. Efecto nefrotóxico persiste semanas\\n9. Sin beneficio en expansion volemica\\n10. Evitar en quemados, sepsis, cirugia cardiaca",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "CHEST-2026",
+  "id": "map_338",
+  "resolved_references": []
+}

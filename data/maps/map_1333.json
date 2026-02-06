@@ -1,0 +1,1323 @@
+{
+  "title": "PROA. Infecciones del Torrente Sanguíneo",
+  "guid": "6295C7E9033CB70D613F60A6",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/PROA. 01. Infecciones del Torrente Sanguíneo-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PROA. Infecciones del\nTorrente Sanguíneo",
+    "guid": "ciwEx0DQXMUgcD9sPmGFOA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "› Indicaciones\n(Cuándo tomar)",
+        "guid": "NJ7qHQVkq9oBhglYGaiIvg",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "◊ Sospecha de bacteriemia y/o fungemia ★",
+            "guid": "CwnMcXHpKLNmNg7zBhcSyg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "◊ Condiciones específicas\nimportantes:",
+            "guid": "SiyQqyNAQzQTSal3Z4qxxg",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "• Sepsis severa ★",
+                "guid": "KVyozWoIthgVzlnqK3BWjQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "• Shock séptico ★",
+                "guid": "T42m6VTPS0RyRd1uHr0LIw",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "• Meningitis",
+                "guid": "N2UTLXWClHt__GvKKZEX9A",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "3",
+                "text": "• Osteomielitis",
+                "guid": "NlLxQSBsqzZn8p0tOZU9uw",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "3",
+                "text": "• Artritis séptica",
+                "guid": "ZQmeoRP4ep93lFtna97cFw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "3",
+                "text": "• Endocarditis ★",
+                "guid": "F3fiRS490zhLkhbxIoGutg",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "3",
+                "text": "• Peritonitis",
+                "guid": "ICb76zHIJeQomMGBalOMlg",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "3",
+                "text": "• Neumonía",
+                "guid": "VQhpGDviavhR3j5cfmUR5Q",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "3",
+                "text": "• FOD (Fiebre de Origen Desconocido)",
+                "guid": "JeshEWesmEcp1WhydXjH-g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "◊ Momento de toma: Siempre ANTES de iniciar antibióticos ★",
+            "guid": "PHvjixwbReAUNdMdc-D2uA",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "1",
+            "text": "◊ No esperar necesariamente a fiebre (NO aumenta sensibilidad) ★",
+            "guid": "EZ3aXBQyPucdcg6tR_DLnQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "› Técnica de toma ★",
+        "guid": "",
+        "children": [
+          {
+            "id": "16",
+            "parent": "15",
+            "text": "◊ Preparación: Limpieza y desinfección de piel con clorhexidina ★",
+            "guid": "J1g391EZe8dTVrd1R38z4w",
+            "children": []
+          },
+          {
+            "id": "17",
+            "parent": "15",
+            "text": "◊ Origen muestra: Punción venosa directa a botella de hemocultivos aeróbicos ★",
+            "guid": "AuGhq3vvePYx0sB5V-oKww",
+            "children": []
+          },
+          {
+            "id": "18",
+            "parent": "15",
+            "text": "◊ Evitar: No tomar hemocultivos periféricos a través de CVC recién insertado\n(mayor probabilidad de contaminación) ★",
+            "guid": "N9Hj7gOw_tZWTxyoXb0E_w",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "15",
+            "text": "◊ Volumen y Sets:",
+            "guid": "a12XHQAkhRpTNcz5J9l6qA",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "• 1 Set = 2 punciones venosas separadas ★",
+                "guid": "HD_K-2droBcbunFgLd2lVw",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "19",
+                "text": "• Volumen: 10 mL en cada botella aeróbica adulto ★",
+                "guid": "e53e_jksgA11znD0MDzJHA",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "19",
+                "text": "• Total: 2 botellas por set estándar",
+                "guid": "PpEr53dUekxJ5VHaV-5SYQ",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "19",
+                "text": "• Sospecha de Endocarditis: 3 punciones venosas separadas (3 botellas x 10 mL) ★",
+                "guid": "cG7fC09strAIw1sfF8cXAw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "› Consideraciones para Catéter\nVenoso Central (CVC) ★",
+        "guid": "IIYyd1waEpRfRkrmI2fUIg",
+        "children": [
+          {
+            "id": "25",
+            "parent": "24",
+            "text": "◊ Sospecha infección asociada a CVC\n(ITS/CVC):",
+            "guid": "WAmLihEZC197Ud7lD9tveQ",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "• Si se\nretira CVC:",
+                "guid": "FMoKNVGg-41tmHR4ACehUg",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "▪ Tomar 1 hemocultivo periférico ★",
+                    "guid": "UcWAqEDOQXIoARv6bgVLow",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "▪ Cultivo cuantitativo de punta de catéter ★",
+                    "guid": "KDnhiUO7jVsb4vD6I9fAhw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "parent": "25",
+                "text": "• Si NO se\nretira CVC:",
+                "guid": "eET5ZXCCHS4xVJjIUE6E7w",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "▪ Tomar 1 hemocultivo periférico ★",
+                    "guid": "fOgNaBGxYe5UFImjO3k5UA",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "▪ Tomar 1 hemocultivo de arrastre de CADA lumen del catéter instalado ★",
+                    "guid": "CQXcOh35234TZ4uxeXS7RQ",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "29",
+                    "text": "▪ Mismo volumen de sangre en cada botella ★",
+                    "guid": "bWaSLhwq5tARO9JIDezEpg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "parent": "24",
+            "text": "◊ No tomar cultivos rutinarios al retirar CVC si no se sospecha infección ★",
+            "guid": "AZsojiymd65gKfRoFmUyww",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "24",
+            "text": "◊ Secreción purulenta en\nsitio de inserción CVC:",
+            "guid": "fkdzO03CaOEWjNQWUAzz4w",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "• Solicitar cultivo corriente de secreción (según indicación toma de muestras HPM Intranet)",
+                "guid": "DpCqUz6N8BA-Ej-GNsqL3A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "36",
+        "parent": "0",
+        "text": "◊ Ante sospecha\nde ITS/CVC:",
+        "guid": "",
+        "children": [
+          {
+            "id": "37",
+            "parent": "36",
+            "text": "• Paciente grave (shock séptico/FOM,\nsin foco evidente, o foco CVC) ★",
+            "guid": "a6aSbi621gc6qsQkdKxuqA",
+            "children": [
+              {
+                "id": "38",
+                "parent": "37",
+                "text": "▪ Retirar CVC ★",
+                "guid": "TLCxhU4ST9VuISnuOhdDsw",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "37",
+                "text": "▪ Enviar cultivo de punta ★",
+                "guid": "aj02pX9c_DZIBAhZYoIwCg",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "37",
+                "text": "▪ Tomar 1 hemocultivo periférico ★",
+                "guid": "b98ZZXlYoSIy0LT6cXpB8w",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "37",
+                "text": "▪ Resultado Positivo: Crecimiento del mismo MO en periférico y punta catéter (>15 colonias) ★\n⇄ Hemocultivo Periférico ⇄ Cultivo Punta CVC",
+                "guid": "Jf8Y0BL6qWIH33S2JEaMCw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "parent": "36",
+            "text": "• Paciente no grave (sin\nhipotensión ni FOM) ★",
+            "guid": "YL0SQx5sSMx0U3_vb028lg",
+            "children": [
+              {
+                "id": "43",
+                "parent": "42",
+                "text": "▪ Tomar 1 hemocultivo periférico ★",
+                "guid": "XPo43TJlv3UmGEhyX0O2SA",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "42",
+                "text": "▪ Tomar 1 hemocultivo arrastre CVC ★",
+                "guid": "DFrv9gC6lNZedUEceAGCZA",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "42",
+                "text": "▪ Resultado Positivo: Crecimiento del mismo MO en arrastre CVC ≥ 2 hrs antes que periférico ★\n⇄ Hemocultivo Periférico ⇄ Hemocultivo Arrastre CVC",
+                "guid": "L3Fq3RkgBUBsrfENfCIcYg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "46",
+        "parent": "0",
+        "text": "› Tratamiento\nEmpírico ★",
+        "guid": "Y7hO7wpJLHEJrDXDLWlh7w",
+        "children": [
+          {
+            "id": "47",
+            "parent": "46",
+            "text": "• Tomar Hemocultivos PREVIO a antibióticos, sin esperar fiebre ★ ⇄ Indicaciones y Condiciones",
+            "guid": "USQeFXweRAlj5VikY-REUQ",
+            "children": []
+          },
+          {
+            "id": "48",
+            "parent": "46",
+            "text": "◊ Indicación según\nOrigen y Tinción Gram",
+            "guid": "d5YJkWbCcL87hXKJHZUiYQ",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "• Comunitaria (<72h\nhospitalización, sin diálisis)",
+                "guid": "JG-Oj2tmI-AMSNAbJmAqTQ",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "▪ Cocos Gram\n(+) en racimos",
+                    "guid": "YdEwDDYvLltJx-j8Psto6Q",
+                    "children": [
+                      {
+                        "id": "51",
+                        "parent": "50",
+                        "text": "◦ Cloxacilina 2 gr c/4 hrs EV ★",
+                        "guid": "aJTt0W_gMW4eDx8ydO_dxw",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "50",
+                        "text": "◦ Alternativa: Cefazolina 2 gr c/8 hrs EV (si no compromiso SNC; ajuste renal)",
+                        "guid": "cJrGRHyEYE5s8WArIAwxIQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "53",
+                    "parent": "49",
+                    "text": "▪ Cocos Gram (+) en cadenas,\npares, o aislados",
+                    "guid": "FaRlj1mfUTgcLk2DfNa6pA",
+                    "children": [
+                      {
+                        "id": "54",
+                        "parent": "53",
+                        "text": "◦ Ampicilina/Sulbactam 3 gr c/6 hrs EV\n(ajustar por función renal) ★",
+                        "guid": "NG5sM1JnrZlORkZfDpqDZQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "55",
+                    "parent": "49",
+                    "text": "▪ Bacilos Gram (-)",
+                    "guid": "UKUWCAI4AiVYpbP7SDsfmQ",
+                    "children": [
+                      {
+                        "id": "56",
+                        "parent": "55",
+                        "text": "◦ Ceftriaxona 2 gr/día EV ★",
+                        "guid": "aPpy5BQrJoVl0EH6YreNBg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "57",
+                "parent": "48",
+                "text": "• Nosocomial (>72h ingreso\no CVC comunitario)",
+                "guid": "OXwLTT04h8dmZ5S_PxL2AA",
+                "children": [
+                  {
+                    "id": "58",
+                    "parent": "57",
+                    "text": "▪ Cocos Gram (+) en\nracimos, cadenas, o pares",
+                    "guid": "Xdsewgb5omh4LKa7RnAMkw",
+                    "children": [
+                      {
+                        "id": "59",
+                        "parent": "58",
+                        "text": "◦ Vancomicina 20-30 mg/kg EV de carga, luego dosis mantención según protocolo ★",
+                        "guid": "dtnT1hY7xe07X-paZ3SaGw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "60",
+                    "parent": "57",
+                    "text": "▪ Bacilos Gram (-)",
+                    "guid": "EsAmOyhRSoUHgMs8KGSLyg",
+                    "children": [
+                      {
+                        "id": "61",
+                        "parent": "60",
+                        "text": "◦ Imipenem 500 mg c/6 hrs EV (ajustar por función renal) ★",
+                        "guid": "AfCbviOvGMAlO0ZvNl8H8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "62",
+                        "parent": "60",
+                        "text": "◦ *Si riesgo de convulsiones: usar Meropenem 1 gr c/8 hrs EV (ajustar renal)",
+                        "guid": "dhbGWXOBjM5E-YtWRrvcYQ",
+                        "children": []
+                      },
+                      {
+                        "id": "63",
+                        "parent": "60",
+                        "text": "◦ *Si riesgo de Pseudomonas: agregar Amikacina según protocolo ★",
+                        "guid": "dbmO8x2fP1IO9vv6XrQB2A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "64",
+                "parent": "48",
+                "text": "• Fungemia comunitaria\no nosocomial",
+                "guid": "Mcpl13THPfRBa47eCVpznA",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "▪ Levaduras",
+                    "guid": "HHMuWn6dSEpCu7Ftek5NHA",
+                    "children": [
+                      {
+                        "id": "66",
+                        "parent": "65",
+                        "text": "◦ Fluconazol 800 mg EV de carga, luego\ndosis de mantención según función renal ★",
+                        "guid": "BZbqsjroWChAvlmvfHC-iQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "67",
+        "parent": "0",
+        "text": "› Tratamiento\nEspecífico ★",
+        "guid": "Cs8xDTlyEnJuE-tUGeRtrg",
+        "children": [
+          {
+            "id": "68",
+            "parent": "67",
+            "text": "• Cocáceas Gram (+)",
+            "guid": "UsmpISb9YGwpcuwoRZPLBg",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "◊ Staphylococcus\naureus ★",
+                "guid": "avYo_ErTHZMfEHCnD_vMVQ",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "• Estudio",
+                    "guid": "fLzLrGgv7kVXPFeIZ7L0qQ",
+                    "children": [
+                      {
+                        "id": "71",
+                        "parent": "70",
+                        "text": "▪ Drenaje focos activos SIEMPRE ★",
+                        "guid": "bIvbKGr4UAIquv6iK-PYDw",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "70",
+                        "text": "▪ Hemocultivos (HC) de control 48-72 hrs post inicio tto. activo (repetir hasta negativización) ★",
+                        "guid": "RdcrViQuMsYdBjrNFX1Enw",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "70",
+                        "text": "▪ Ecocardiograma Transtorácico (ETT) en TODOS los pacientes ★",
+                        "guid": "Xwz1yReDEScBloxCGIkBFw",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "70",
+                        "text": "▪ Ecocardiograma Transesofágico (ETE) en: Bacteriemia comunitaria no precisada, Bacteriemia persistente, Válvula\nprotésica/dispositivo cardíaco (DAI, MP), Valvulopatía predisponente endocarditis, Paciente en Hemodiálisis (HD) crónica,\nOsteomielitis/espondilodiscitis/focos metastásicos, Sospecha endocarditis en ETT ★",
+                        "guid": "VLuY7mf-IQFXm_cXTNx43g",
+                        "children": []
+                      },
+                      {
+                        "id": "75",
+                        "parent": "70",
+                        "text": "▪ TC Tórax-Abdomen-Pelvis (TAP) con contraste en TODOS los pacientes ★",
+                        "guid": "DyQPcBMfq6AWIXbkMmhB6Q",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "70",
+                        "text": "▪ Imagen de columna ante dolor y/o sospecha espondilodiscitis",
+                        "guid": "Moi4zUNKuTp6HALwPVfp2g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "77",
+                    "parent": "69",
+                    "text": "• Antimicrobiano",
+                    "guid": "f_wLAz4wFGk-LelHVLej8Q",
+                    "children": [
+                      {
+                        "id": "78",
+                        "parent": "77",
+                        "text": "▪ Sensible a cloxacilina (SAMS): Cloxacilina 2 gr c/4 hrs EV ★",
+                        "guid": "MwML2HZMyDB3rsD-H47nAA",
+                        "children": [
+                          {
+                            "id": "79",
+                            "parent": "78",
+                            "text": "◦ Alternativa: Cefazolina 2 gr c/8 hrs EV (si dificultad accesos venosos, no compromiso SNC, ajuste renal)",
+                            "guid": "YUUYMiJpv6BLcr8PJxxDiA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "80",
+                        "parent": "77",
+                        "text": "▪ Resistente a cloxacilina (SAMR): Vancomicina (carga 20-30 mg/kg, luego mantención según protocolo) ★",
+                        "guid": "RpfyZ2h4-dw8mYgnJaToMA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "81",
+                    "parent": "69",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "ewBM7mHWibUYyi6md70Ymw",
+                    "children": [
+                      {
+                        "id": "82",
+                        "parent": "81",
+                        "text": "▪ 14 días desde 1os HC negativos si cumple TODO: Endocarditis descartada, Retiro material protésico/catéteres\ninfectados, HC control 48-72h negativos, Ausencia compromiso metastásico ★",
+                        "guid": "Ji41axXJ4F4hlBzQNVJE2w",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "81",
+                        "text": "▪ 4-6 semanas en otros casos (definir junto a Infectología) ★",
+                        "guid": "KOmL_je1k7RnuobEW3JEyw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "68",
+                "text": "◊ Staphylococcus coagulasa negativos\n(S. epidermidis, etc.) ★",
+                "guid": "SgZ3-nAGhi5fcA1EfQmD0g",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• Consideración: Posible contaminación (especialmente si crecimiento >24 hrs y en sólo 1 de 2 HC) ★",
+                    "guid": "ZlNOXlcezkIcmGrSR5hmkA",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "• Estudio",
+                    "guid": "Do_RalbjMZBxPui_WJZJZA",
+                    "children": [
+                      {
+                        "id": "87",
+                        "parent": "86",
+                        "text": "▪ HC control 48-72 hrs SÓLO si no hay respuesta clínica (repetir hasta negativización)",
+                        "guid": "eYiN42gLKeFutKoZQCCASg",
+                        "children": []
+                      },
+                      {
+                        "id": "88",
+                        "parent": "86",
+                        "text": "▪ ETT SÓLO si presenta bacteriemia persistente",
+                        "guid": "UIQjvStOMkBlxWh6UIAuwA",
+                        "children": []
+                      },
+                      {
+                        "id": "89",
+                        "parent": "86",
+                        "text": "▪ ETE SÓLO ante sospecha de endocarditis",
+                        "guid": "aX5GqiPzUcIlN9KxD6x8FQ",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "86",
+                        "text": "▪ Descartar infección dispositivos cardíacos (DAI-MP) ante bacteriemia persistente",
+                        "guid": "Ob0yIEbL74FE_sDwYqa-Hw",
+                        "children": []
+                      },
+                      {
+                        "id": "91",
+                        "parent": "86",
+                        "text": "▪ No requiere otro estudio de forma estándar",
+                        "guid": "foGDNSy5R7U-GQLqeYHQJA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "92",
+                    "parent": "84",
+                    "text": "• Antimicrobiano",
+                    "guid": "DthJB0c8Ou17R7RmeFaPsQ",
+                    "children": [
+                      {
+                        "id": "93",
+                        "parent": "92",
+                        "text": "▪ Sensibles a cloxacilina: Cloxacilina 2 gr c/4 hrs EV ★",
+                        "guid": "Rum3v1Cu9gNVn802LT0GHQ",
+                        "children": [
+                          {
+                            "id": "94",
+                            "parent": "93",
+                            "text": "◦ Alternativa: Cefazolina 2 gr c/8 hrs EV (ajuste renal)",
+                            "guid": "J83ERXI4OAh01WyuIVZSKA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "95",
+                        "parent": "92",
+                        "text": "▪ Resistentes a cloxacilina: Vancomicina según esquema S. aureus ★",
+                        "guid": "WkNh6WOKFsdhdtJyKseFpg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "96",
+                    "parent": "84",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "HI-xaVCNsrFg4S86Y3lpKA",
+                    "children": [
+                      {
+                        "id": "97",
+                        "parent": "96",
+                        "text": "▪ Fuente CVC retirado: Completar 5-7 días posterior a retiro ★",
+                        "guid": "ay-MryB_hxcIAwvGJOy-zw",
+                        "children": []
+                      },
+                      {
+                        "id": "98",
+                        "parent": "96",
+                        "text": "▪ Fuente CVC NO retirado (falta accesos): Completar 14 días asociado a lock therapy ★",
+                        "guid": "Z0t2mU0BzLcHk3zuZcz5zg",
+                        "children": []
+                      },
+                      {
+                        "id": "99",
+                        "parent": "96",
+                        "text": "▪ Bacteriemia primaria: Completar 14 días ★",
+                        "guid": "ebsUbEWsf9lfTsnyCErl1g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "100",
+                "parent": "68",
+                "text": "◊ Streptococcus spp. ★",
+                "guid": "ITyotDaA_HAQtm9GSQps-g",
+                "children": [
+                  {
+                    "id": "101",
+                    "parent": "100",
+                    "text": "• Estudio",
+                    "guid": "SYtXhHhH1zojMBgAMNbOHQ",
+                    "children": [
+                      {
+                        "id": "102",
+                        "parent": "101",
+                        "text": "▪ HC control 48-72 hrs SÓLO en endocarditis (repetir hasta negativización)",
+                        "guid": "KLk0eAWL2_RqYL8iAvyWYQ",
+                        "children": []
+                      },
+                      {
+                        "id": "103",
+                        "parent": "101",
+                        "text": "▪ ETT SIEMPRE en Streptococcus grupo viridans (Ej: S. mitis, S. oralis, S. gallolyticus, S. infantarius) ★;\nen otras especies ante sospecha de endocarditis.",
+                        "guid": "aRXyu0vXkZUtxBwHd-47wg",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "101",
+                        "text": "▪ ETE en sospecha de endocarditis en ETT",
+                        "guid": "ExPMgikL0G1wRMt0fkNZMQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "105",
+                    "parent": "100",
+                    "text": "• Antimicrobiano",
+                    "guid": "RoBEkCgwzW1weS9aZ7ztRA",
+                    "children": [
+                      {
+                        "id": "106",
+                        "parent": "105",
+                        "text": "▪ Sensible a penicilina: Penicilina 4 mill UI c/4 hrs EV ★",
+                        "guid": "RUmj8SrDlO8Wo8fsPwS4XQ",
+                        "children": []
+                      },
+                      {
+                        "id": "107",
+                        "parent": "105",
+                        "text": "▪ Resistente a penicilina: Ceftriaxona 2 gr c/24 hrs EV ★",
+                        "guid": "cHAUyHXykd5HT54zDP_GMQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "108",
+                    "parent": "100",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "XrHJ3QEvnqAwx1o-B2r-VQ",
+                    "children": [
+                      {
+                        "id": "109",
+                        "parent": "108",
+                        "text": "▪ Bacteriemia primaria (sin endocarditis): Completar 10-14 días ★",
+                        "guid": "Brt6lBsoGWEKZ5S2b9FtTw",
+                        "children": []
+                      },
+                      {
+                        "id": "110",
+                        "parent": "108",
+                        "text": "▪ Si es endocarditis u otro compromiso metastásico: Definir junto a Infectología ★",
+                        "guid": "Zv-q9jgrsL1nv6kRehN3eA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "111",
+                "parent": "68",
+                "text": "◊ Enterococcus spp. (E.\nfaecalis, E. faecium) ★",
+                "guid": "YTeBKlgEdIV4VtCpKsLYrw",
+                "children": [
+                  {
+                    "id": "112",
+                    "parent": "111",
+                    "text": "• Estudio",
+                    "guid": "aDAAlxvqRkJDuliSLrBFJw",
+                    "children": [
+                      {
+                        "id": "113",
+                        "parent": "112",
+                        "text": "▪ Solicitar ETT en TODOS los pacientes ★",
+                        "guid": "UExLwBuG6KlbmabMFZXvsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "114",
+                        "parent": "112",
+                        "text": "▪ Complementar con ETE SÓLO ante bacteriemia persistente (si se repiten HC),\nenfermedad valvular de base o sospecha de endocarditis",
+                        "guid": "Rkp9mHI9brhUmqgPNrqSYA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "115",
+                    "parent": "111",
+                    "text": "• Antimicrobiano",
+                    "guid": "B9qTg2mySF1m14yVdKW02g",
+                    "children": [
+                      {
+                        "id": "116",
+                        "parent": "115",
+                        "text": "▪ Sensibles a ampicilina: Ampicilina 2 gr c/4 hrs EV (ajuste renal) ★",
+                        "guid": "RBsTsDQzh-wWbTJrIszdjQ",
+                        "children": []
+                      },
+                      {
+                        "id": "117",
+                        "parent": "115",
+                        "text": "▪ Tratamiento biasociado SÓLO ante sospecha de\nendocarditis, meningitis, paciente inmunosuprimido:",
+                        "guid": "NWMmjEc0jKoqN9vjPB6hIA",
+                        "children": [
+                          {
+                            "id": "118",
+                            "parent": "117",
+                            "text": "◦ Asociar Ampicilina + Gentamicina 1 mg/kg c/8 hrs EV (ajuste renal) ★",
+                            "guid": "YlymCzSfcJkr8A5vSVxRAQ",
+                            "children": []
+                          },
+                          {
+                            "id": "119",
+                            "parent": "117",
+                            "text": "◦ O si deterioro renal/resistencia Genta: Ampicilina + Ceftriaxona 2 gr c/12 hrs EV ★",
+                            "guid": "bMshVxOvt4BDb8h5TgKigQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "120",
+                        "parent": "115",
+                        "text": "▪ Resistentes a ampicilina, sensibles a vancomicina: Vancomicina según esquema S. aureus ★",
+                        "guid": "a7QsBjvGmSJ4xXswPAB3xg",
+                        "children": []
+                      },
+                      {
+                        "id": "121",
+                        "parent": "115",
+                        "text": "▪ Resistentes a ampicilina y vancomicina (ERV): Linezolid 600 mg c/12 hrs EV ★",
+                        "guid": "V02By1RfIf1Rlmd3HZf_ZA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "122",
+                    "parent": "111",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "fWH_3ipHVQ5CqFdbaRYr5A",
+                    "children": [
+                      {
+                        "id": "123",
+                        "parent": "122",
+                        "text": "▪ Si foco es CVC: retirarlo y completar 7-10 días desde retiro ★",
+                        "guid": "RpyQtSYxD4ZUUpHELsyRTA",
+                        "children": []
+                      },
+                      {
+                        "id": "124",
+                        "parent": "122",
+                        "text": "▪ Bacteriemia no complicada no asociada a CVC (sin endocarditis/focos metastásicos): 14 días ★",
+                        "guid": "QhtVyRgM6lZdfNZzBjZpeQ",
+                        "children": []
+                      },
+                      {
+                        "id": "125",
+                        "parent": "122",
+                        "text": "▪ Si presenta endocarditis: mantener tto. por 6 semanas desde HC negativo ★",
+                        "guid": "TEByQnPqCN8pA0cGAaOYzg",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "122",
+                        "text": "▪ Si presenta abscesos o compromiso metastásico: mantener hasta resolución del cuadro ★",
+                        "guid": "Ox6ViVM7Iuk9wjnuHXs7lA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "127",
+            "parent": "67",
+            "text": "• Bacilos Gram (-)",
+            "guid": "V2cxTTXIFRICS1uNU_zZhQ",
+            "children": [
+              {
+                "id": "128",
+                "parent": "127",
+                "text": "◊ Enterobacterias (E. coli,\nK. pneumoniae, etc.) ★",
+                "guid": "Zg3uMDtt0owlFqOqPVtv-w",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "• Estudio",
+                    "guid": "R1LremKy7P5lL9nqE5NdvQ",
+                    "children": [
+                      {
+                        "id": "130",
+                        "parent": "129",
+                        "text": "▪ Buscar origen y drenar abscesos si es necesario ★",
+                        "guid": "D8z0iXatCyFa829fVmmFPg",
+                        "children": []
+                      },
+                      {
+                        "id": "131",
+                        "parent": "129",
+                        "text": "▪ No requieren HC control, ecocardiograma, TC TAP ni fondo de ojo en forma rutinaria ★",
+                        "guid": "HN4aqC9GASQFNhaLXvlwcQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "132",
+                    "parent": "128",
+                    "text": "• Antimicrobiano",
+                    "guid": "LiHZWF4Vtw8SfLSzD5AdMg",
+                    "children": [
+                      {
+                        "id": "133",
+                        "parent": "132",
+                        "text": "▪ Multisensibles (MS): Ceftriaxona 2 gr/día EV ★",
+                        "guid": "Vpz13Q4zIPAVNvaLEbuLZg",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "132",
+                        "text": "▪ BLEE (Betalactamasas\nde espectro extendido):",
+                        "guid": "YW5D2lL5MHovNsb6aUjXXQ",
+                        "children": [
+                          {
+                            "id": "135",
+                            "parent": "134",
+                            "text": "◦ Imipenem 500 mg c/6 h EV (ajuste renal) ★",
+                            "guid": "PKt41xYOU49d7ow3Og14tQ",
+                            "children": []
+                          },
+                          {
+                            "id": "136",
+                            "parent": "134",
+                            "text": "◦ Meropenem 1 gr c/8 h EV (ajuste renal) ★",
+                            "guid": "QFWonSCW45IjI6SZJmOWzQ",
+                            "children": []
+                          },
+                          {
+                            "id": "137",
+                            "parent": "134",
+                            "text": "◦ Ertapenem 1 gr/día EV (ajuste renal) ★",
+                            "guid": "XAS2Hkg6SENjvwbJa9Gqpw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "138",
+                        "parent": "132",
+                        "text": "▪ Resistente a carbapenémicos\n(KPC, etc. ): ★",
+                        "guid": "PudTZT6ydihCOy_mW8VuDQ",
+                        "children": [
+                          {
+                            "id": "139",
+                            "parent": "138",
+                            "text": "◦ Amikacina o Colistin o Ceftazidima/avibactam (ajustado por función renal)",
+                            "guid": "bfh3TEdxRnE6vt5-NUtixw",
+                            "children": []
+                          },
+                          {
+                            "id": "140",
+                            "parent": "138",
+                            "text": "◦ Definir mejor terapia con Infectología (según CIM, disponibilidad, necesidad combinación) ★",
+                            "guid": "KiQzbx_uuGhI3sCEAMEpTQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "141",
+                    "parent": "128",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "MQ7niUGze6542PSPbbpgYQ",
+                    "children": [
+                      {
+                        "id": "142",
+                        "parent": "141",
+                        "text": "▪ Si fuente es CVC: retirarlo y completar 7 días desde retiro ★",
+                        "guid": "V8HPPVbHgMYnx9kWGBd32w",
+                        "children": []
+                      },
+                      {
+                        "id": "143",
+                        "parent": "141",
+                        "text": "▪ Bacteriemia no complicada (estabilidad clínica <5º día, sin foco activo no drenado): 7 días en total ★",
+                        "guid": "d15kWUrrfbA-ew6oU2Madw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "144",
+                "parent": "127",
+                "text": "◊ BGN No\nFermentadores ★",
+                "guid": "EyXF8yI6FXE_NMUfUg0ZWA",
+                "children": [
+                  {
+                    "id": "145",
+                    "parent": "144",
+                    "text": "• Pseudomonas\naeruginosa ★",
+                    "guid": "YOyLmgFv9QUt0odlTuUC5g",
+                    "children": [
+                      {
+                        "id": "146",
+                        "parent": "145",
+                        "text": "▪ Estudio: No requieren HC control, eco, TAC TAP ni fondo de ojo rutinario ★",
+                        "guid": "SOE7dmiRZeMEMGWtcwVu5Q",
+                        "children": []
+                      },
+                      {
+                        "id": "147",
+                        "parent": "145",
+                        "text": "▪ Antimicrobiano",
+                        "guid": "CIAeS00PJjFzxpgyNqH3pA",
+                        "children": [
+                          {
+                            "id": "148",
+                            "parent": "147",
+                            "text": "◦ Multisensible (MS): Ceftazidima 2 gr c/8 hrs EV (ajuste renal) ★",
+                            "guid": "KyTdQQZDTOZGMhTWXDPEyg",
+                            "children": []
+                          },
+                          {
+                            "id": "149",
+                            "parent": "147",
+                            "text": "◦ Multirresistente (MDR): Guiarse por antibiograma, preferir siempre betalactámico ★",
+                            "guid": "R_bIlD8LCWZJ7iUrH7iX0Q",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "150",
+                        "parent": "145",
+                        "text": "▪ Duración Tratamiento: Foco catéter → 10 días desde retiro; Otro foco → 14 días ★",
+                        "guid": "FdKKLHG1_kI30A-sDTDuhQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "151",
+                    "parent": "144",
+                    "text": "• Acinetobacter\nbaumannii ★",
+                    "guid": "PKF78nZLHlVglAj9T8dB5Q",
+                    "children": [
+                      {
+                        "id": "152",
+                        "parent": "151",
+                        "text": "▪ Estudio: No requieren HC control, eco, TAC TAP ni fondo de ojo rutinario ★",
+                        "guid": "GIUzxh_Izhwh1Fs-eXG_YA",
+                        "children": []
+                      },
+                      {
+                        "id": "153",
+                        "parent": "151",
+                        "text": "▪ Antimicrobiano",
+                        "guid": "ITjDIU-m4qNIVsJHahn-lw",
+                        "children": [
+                          {
+                            "id": "154",
+                            "parent": "153",
+                            "text": "◦ Multisensible (MS): Ampicilina/sulbactam (1.5 gr) 2-3 frascos c/4 hrs EV (6-9 gr/día sulbactam, ajuste renal) ★",
+                            "guid": "ODhIh0yHJ_RdH218QLhm0g",
+                            "children": []
+                          },
+                          {
+                            "id": "155",
+                            "parent": "153",
+                            "text": "◦ Multirresistente (MDR): Guiarse por antibiograma ★",
+                            "guid": "GZZOJlDmBa93Wl52RLsrZw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "156",
+                        "parent": "151",
+                        "text": "▪ Duración Tratamiento: Foco catéter → 10 días desde retiro; Otro foco → 14 días ★",
+                        "guid": "VylSlT2Mc00g7vAxHyAbKQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "157",
+                    "parent": "144",
+                    "text": "• Stenotrophomonas maltophilia /\nBurkholderia cepacia complex ★",
+                    "guid": "fJd8s2rdFV0-2LL6EmoG3w",
+                    "children": [
+                      {
+                        "id": "158",
+                        "parent": "157",
+                        "text": "▪ Estudio: No requieren HC control, eco, TAC TAP ni fondo de ojo rutinario ★",
+                        "guid": "XJMTn3aowqcfmvVlGTSPkQ",
+                        "children": []
+                      },
+                      {
+                        "id": "159",
+                        "parent": "157",
+                        "text": "▪ Antimicrobiano",
+                        "guid": "WncPWEdBlmorSo42Eq9X3w",
+                        "children": [
+                          {
+                            "id": "160",
+                            "parent": "159",
+                            "text": "◦ Cotrimoxazol 15-20 mg/kg de trimetoprim al día dividido c/8 hrs EV (ajuste renal) ★",
+                            "guid": "bPPg_AAu_mJo-9F2BXkUwg",
+                            "children": []
+                          },
+                          {
+                            "id": "161",
+                            "parent": "159",
+                            "text": "◦ Alternativas según antibiograma",
+                            "guid": "H_fMfgrQLLR-6tQjQTCPnw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "162",
+                        "parent": "157",
+                        "text": "▪ Duración Tratamiento: 14 días ★",
+                        "guid": "E8i-Xghp-7JTZ76xLV8MhA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "163",
+            "parent": "67",
+            "text": "• Gram con\nLevaduras",
+            "guid": "OKOtGSXwXJUxc-saEtZR0w",
+            "children": [
+              {
+                "id": "164",
+                "parent": "163",
+                "text": "◊ Candida spp. ★",
+                "guid": "WVABYUrCHShyGjfrMHlT9g",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "• Estudio",
+                    "guid": "CE6QdRMJKB1PmW8fBOYNKA",
+                    "children": [
+                      {
+                        "id": "166",
+                        "parent": "165",
+                        "text": "▪ Sospechar CVC como fuente (retirar de confirmarse ITS/CVC) ★ ⇄ ITS/CVC",
+                        "guid": "feY9eg5yIhoXUBQHWnlRGQ",
+                        "children": []
+                      },
+                      {
+                        "id": "167",
+                        "parent": "165",
+                        "text": "▪ HC de control a las 48 hrs (repetir con esa frecuencia hasta negativización) ★",
+                        "guid": "BRrkwTbrCWxzreCqcg7FvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "168",
+                        "parent": "165",
+                        "text": "▪ Fondo de ojo en TODOS los pacientes (descartar endoftalmitis, ideal 1 sem post-infección o antes si síntomas visuales) ★",
+                        "guid": "NxoHzlypsiB3h9p_VxHUTA",
+                        "children": []
+                      },
+                      {
+                        "id": "169",
+                        "parent": "165",
+                        "text": "▪ ETT en TODOS los pacientes ★",
+                        "guid": "Z3ne1XZyrqIYQmPrQfDuLQ",
+                        "children": []
+                      },
+                      {
+                        "id": "170",
+                        "parent": "165",
+                        "text": "▪ ETE ante persistencia de candidemia en HC control o sospecha clínica de endocarditis ★",
+                        "guid": "PbRFDEOM8iFUoEYMUX0Daw",
+                        "children": []
+                      },
+                      {
+                        "id": "171",
+                        "parent": "165",
+                        "text": "▪ TAC TAP no estándar (realizar ante HC control (+) para descartar focos drenables)",
+                        "guid": "S_bt1CgIBL1-3A_vJUbvNQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "172",
+                    "parent": "164",
+                    "text": "• Antimicrobiano",
+                    "guid": "csoh5XD2R9tVwEMsexiyWg",
+                    "children": [
+                      {
+                        "id": "173",
+                        "parent": "172",
+                        "text": "▪ General: Fluconazol 800 mg EV de carga, luego continuar con dosis de mantención según función renal ★",
+                        "guid": "A_9v-CVZskt__r-CAeWtcg",
+                        "children": []
+                      },
+                      {
+                        "id": "174",
+                        "parent": "172",
+                        "text": "▪ En caso de C. glabrata o C. krusei: Iniciar Anidulafungina 200 mg carga EV, luego 100 mg/día EV ★",
+                        "guid": "M8vUZRdO04pcXv6LOOa5Jg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "175",
+                    "parent": "164",
+                    "text": "• Duración\nTratamiento",
+                    "guid": "Tjnc9lAM3zUq9X7jBVPkxQ",
+                    "children": [
+                      {
+                        "id": "176",
+                        "parent": "175",
+                        "text": "▪ 14 días desde primer HC (-) si no complicaciones metastásicas y CVC retirado (si fue fuente) ★",
+                        "guid": "LLaRVSJ9WWNcZbkRFDBwKg",
+                        "children": []
+                      },
+                      {
+                        "id": "177",
+                        "parent": "175",
+                        "text": "▪ Ante complicaciones (endoftalmitis, endocarditis, artritis séptica, etc.): Definir duración total junto a Infectología ★",
+                        "guid": "GPAIBXSoHP1WIV5XVqRNEg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 178,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "PROA. 01. Infecciones del Torrente Sanguíneo-2025-1",
+  "id": "map_1333",
+  "resolved_references": []
+}

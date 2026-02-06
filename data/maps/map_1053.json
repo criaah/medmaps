@@ -1,0 +1,2125 @@
+{
+  "title": "Polifarmacia",
+  "guid": "1AE4A9A50CF3EB16B02EF6B0",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/Polifarmacia-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Polifarmacia",
+    "guid": "exq572MXpIy_8hheRwULTA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "1. Definición\ngeneral",
+        "guid": "XuPlt5oU7GALVHLqECbrQA",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Polifarmacia:",
+            "guid": "",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "• Uso crónico de múltiples medicamentos.",
+                "guid": "dq4tZv9_76SWnue2JHZ5ag",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "• Uso innecesario de medicamentos.",
+                "guid": "CRpa44qV187ut3ttBdj54A",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "• Ejemplo: ≥ 5 medicamentos/día (definición más común).",
+                "guid": "PwrWXZyJ-ETillMCvQYWbw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "• Fuente: BMJ Open 2016 Mar 24;6(3):e010989.",
+            "guid": "Ofu-9LkCUyP2X9_72gKDjw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "2. Criterios y herramientas\npara evaluación",
+        "guid": "rH1tf3jfkz2ya-qLvq0UwA",
+        "children": [
+          {
+            "id": "8",
+            "parent": "7",
+            "text": "• Beers\nCriteria:",
+            "guid": "j4_pVJGSh6MTTsTmwZnTxA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "• Lista de medicamentos a evitar en ancianos por relación daño/beneficio desfavorable.",
+                "guid": "YkXuk-REGZiKN7dGJpVaCQ",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "• Incluye recomendaciones para ajuste de dosis.",
+                "guid": "qPIUY1AA8bmRgMuQ1hSzOg",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "• Fuente: Age Ageing 2015 Mar;44(2):213.",
+                "guid": "1hRx3cWUeQ7J_xX3fD5I1A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "7",
+            "text": "• STOPP/START:",
+            "guid": "",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "• STOPP: Lista de prescripciones potencialmente inapropiadas → incluye interacciones fármaco-fármaco y fármaco-enfermedad.",
+                "guid": "EQuZQdKxkUEWLREcyP4l6g",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "12",
+                "text": "• START: Lista de medicamentos comúnmente omitidos, pero beneficiosos en ancianos.",
+                "guid": "tuxkg5yzdbmYck2njGRQHQ",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "12",
+                "text": "• Método: Consenso Delphi de expertos.",
+                "guid": "jbyQQI7mMlgKcDILPKa0_A",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "12",
+                "text": "• Objetivo: Detectar omisiones en prescripción y evitar efectos adversos.",
+                "guid": "ujE9siUEpLSRbYKMKABZMA",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "12",
+                "text": "• Fuente: Int J Clin Pharmacol Ther 2008 Feb;46(2):72.",
+                "guid": "TaTqlshIIXpza8qxIZ_5KQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "7",
+            "text": "• Medication\nAppropriateness\nIndex (MAI):",
+            "guid": "a9H6DHldOWRvLEuaQgbz5w",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "• Índice de 10 preguntas → evalúa precisión de prescripción.",
+                "guid": "cYQgFJn1l-2XdpDXM2bdlA",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "18",
+                "text": "• Detecta errores de prescripción y predice resultados en salud.",
+                "guid": "q299VwyyWOlOq5RwK8eIoA",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "18",
+                "text": "• Limitación: Puede requerir más tiempo del disponible en consulta.",
+                "guid": "d4hMB6_0PGdtBd2tsb9RiA",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "18",
+                "text": "• Fuente: Drugs Aging 2013 Nov;30(11):893.",
+                "guid": "LYfvHR9rLwKSyA44KrGi7g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "3. Factores\ncontribuyentes",
+        "guid": "",
+        "children": [
+          {
+            "id": "24",
+            "parent": "23",
+            "text": "• Efecto silo:",
+            "guid": "",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "• Múltiples médicos manejando problemas específicos del paciente sin comunicación\n→ ↑ riesgo de polifarmacia.",
+                "guid": "DaRg4dKv02_BYb09vgbIog",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "• Mayor riesgo en transiciones de atención o cambios rápidos en condición del paciente.",
+                "guid": "Ttx5wxfMKNhKA5hdfLuCtw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "23",
+            "text": "• Conciliación de\nmedicamentos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "• Proceso para construir lista completa de medicamentos del paciente.",
+                "guid": "sJ2qlDAWBPshReNj0662eQ",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "• Importante en transiciones de atención para prevenir polifarmacia inapropiada.",
+                "guid": "ctAWNf_nWpD8JKaMTn6HYg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "parent": "23",
+            "text": "• Pasos:",
+            "guid": "a8v9F7bTb4S4UMiLLDccAQ",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "1. Identificar todos los medicamentos (prescritos y no prescritos).",
+                "guid": "wRT_61HcO3b8do34cV1DoQ",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "30",
+                "text": "2. Evaluar la idoneidad de cada medicamento.",
+                "guid": "FCz3fF2U-0AFM8HKQPTHyQ",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "30",
+                "text": "3. Documentar cambios en la lista previa.",
+                "guid": "7qO05gnx5pyBa---IUvlng",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "30",
+                "text": "4. Compartir lista con otros proveedores relevantes.",
+                "guid": "PKFB3u4_dDsVnpLFBrSRFg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "4. Revisión de\nmedicamentos",
+        "guid": "",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "• Definición: Actividad para optimizar el uso de medicamentos → evalúa riesgos/beneficios y toma decisiones de manejo futuro.",
+            "guid": "2esIL1A6W2Vxe-w-VJTz1A",
+            "children": []
+          },
+          {
+            "id": "37",
+            "parent": "35",
+            "text": "• Objetivos: Detectar problemas relacionados con medicamentos (PRM) y proponer intervenciones.",
+            "guid": "9U0rAeidl0WlY06P8OftiA",
+            "children": []
+          },
+          {
+            "id": "38",
+            "parent": "35",
+            "text": "• Características:",
+            "guid": "",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "• Proceso estructurado y sistemático.",
+                "guid": "7nAiJ5N5-Hr_g2YLTeo9ww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "parent": "35",
+            "text": "• Puede ser:",
+            "guid": "",
+            "children": [
+              {
+                "id": "41",
+                "parent": "40",
+                "text": "• Integral.",
+                "guid": "d4ix5YQWfjhNjc0Fgkb0JQ",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "40",
+                "text": "• Enfocada en un problema específico.",
+                "guid": "TXwCoReU5lm7fL5jv0rSbQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "35",
+            "text": "• Referencias:",
+            "guid": "",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "• J Am Pharm Assoc (2003) 2008 May;48(3):341.",
+                "guid": "umkDhI4RfvHGY80QPNZt0Q",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "• Int J Clin Pharm 2018 Oct;40(5):1199.",
+                "guid": "szxHZ26cQxp8s47Fu2t2PA",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "43",
+                "text": "• WHO Medication Safety in Polypharmacy 2019 Jun 20.",
+                "guid": "zhMNAuZxR2KoRNzeQgytQQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "1. Prevalencia",
+        "guid": "",
+        "children": [
+          {
+            "id": "48",
+            "parent": "47",
+            "text": "• Estados Unidos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "• ≥ 5 medicamentos en adultos mayores (2009-2016):\n36.8% (PLoS One 2021;16(8):e0255642).",
+                "guid": "n5xbREnfxuhq591LkqRWkw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "47",
+            "text": "• Aumento\n(2005-2006 a\n2010-2011):",
+            "guid": "r3Koeg1V9D1_RlU3ZVXaWg",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "• Solo medicamentos recetados: 30.6% → 35.8%.",
+                "guid": "X2UC2yg1NW_kZaWgV66E-A",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "50",
+                "text": "• Medicamentos recetados + suplementos dietéticos y medicamentos no recetados:\n53.4% → 67.1% (JAMA Intern Med 2016 Apr;176(4):482).",
+                "guid": "Aztx-681htH7e2ingLMtdQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "47",
+            "text": "• ≥ 65 años:",
+            "guid": "",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "• 40% toma 5-9 medicamentos.",
+                "guid": "PqjZb4d8VbQW4S-2zhV3VA",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "• 18% toma ≥ 10 medicamentos (N Engl J Med 2011 Nov 24;365(21):2002).",
+                "guid": "K4G8q5BxHIsXCU-opLx69A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "47",
+            "text": "• Pacientes con cáncer:",
+            "guid": "",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "• Prevalencia: 27%-63%.",
+                "guid": "XvALBqdsOc-HYnSvpS8XAA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "parent": "47",
+            "text": "• Asociado al 4% de muertes por interacciones farmacológicas en hospitalizados (J Geriatr Oncol 2017 Mar; 8(2):77).",
+            "guid": "mudD83UX90znWu0r6kDDag",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "parent": "0",
+        "text": "2. Vulnerabilidad\ngeriátrica a la\npolifarmacia",
+        "guid": "",
+        "children": [
+          {
+            "id": "60",
+            "parent": "59",
+            "text": "• Farmacocinética: Cambios relacionados con la edad.",
+            "guid": "w19Hl0p3ShZ-4IbrHs6jTQ",
+            "children": []
+          },
+          {
+            "id": "61",
+            "parent": "59",
+            "text": "• Absorción:",
+            "guid": "",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "• ↓ saliva, área superficial gástrica, ácido gástrico, motilidad gastrointestinal, transporte activo.",
+                "guid": "pOzDcdcJJffHCltN3t4qdg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "59",
+            "text": "• Distribución:",
+            "guid": "",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "• ↑ resistencia vascular periférica, tejido adiposo → ↑ distribución de medicamentos liposolubles.",
+                "guid": "RgVVptzdUV_iM_LeqMI27A",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "• ↓ gasto cardíaco, albúmina sérica, flujo hepático/renal, agua corporal total → ↓ distribución de medicamentos hidrosolubles.",
+                "guid": "2BXOteTZm5HuhR8uOjTIFw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "parent": "59",
+            "text": "• Metabolismo:",
+            "guid": "",
+            "children": [
+              {
+                "id": "67",
+                "parent": "66",
+                "text": "• ↓ tamaño y perfusión hepática → ↓ oxidación microsomal y metabolismo de primer paso.",
+                "guid": "9K2KXU_mG7NJjAVeodn6gQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "parent": "59",
+            "text": "• Excreción:",
+            "guid": "",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "• ↓ perfusión renal, tamaño renal, secreción/reabsorción tubular, filtración glomerular (GFR).",
+                "guid": "D7sa8GpM-u1zcS9RgmsB6Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "59",
+            "text": "• Farmacodinamia:",
+            "guid": "",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "• Cambios en receptores, señalización celular, ↓ reserva homeostática → ↑ sensibilidad a medicamentos.",
+                "guid": "eoAoj0F2ZCwGkxAXZdeIug",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "59",
+            "text": "• Fuente: Curr Drug Metab 2011 Sep;12(7):611.",
+            "guid": "GMavJQifUHj8eptj6xKs0g",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "parent": "0",
+        "text": "3. Factores de riesgo",
+        "guid": "",
+        "children": [
+          {
+            "id": "74",
+            "parent": "73",
+            "text": "• Factores relacionados\ncon el paciente:",
+            "guid": "",
+            "children": [
+              {
+                "id": "75",
+                "parent": "74",
+                "text": "• Conocimiento incompleto de medicamentos.",
+                "guid": "fuONEb0hIAF81nBpWrFhJg",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "74",
+                "text": "• Comunicación deficiente del historial de medicamentos.",
+                "guid": "eIbaTTNuUN7K_pNSgB0TuA",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "74",
+                "text": "• Honestidad limitada sobre uso de medicamentos.",
+                "guid": "c-x4kfH4tMHVineTKpgM5g",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "74",
+                "text": "• ≥ 2 condiciones médicas crónicas → ↑ prescripciones y médicos por paciente.",
+                "guid": "8Sncf5FtvDhsiNF3xArDlw",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "74",
+                "text": "• Fuente: Epidemiol Rev 2013;35:75.",
+                "guid": "6buq16zgNP-0CB2a4_kSlg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "73",
+            "text": "• Factores relacionados\ncon el prescriptor:",
+            "guid": "",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "• Conocimiento\nincompleto de:",
+                "guid": "nHRoQ9f_yOgrK0KAlDeNGA",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "• Medicamentos y comorbilidades del paciente.",
+                    "guid": "vNtTG_U1dwkAaoJ0Q_DvnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "• Fisiología del envejecimiento, farmacoterapia y medicina geriátrica.",
+                    "guid": "yKqlNXfkojEc5UrJeFH0qQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "80",
+                "text": "• Prescripción delegada a médicos junior → inexperiencia.",
+                "guid": "ZkiBY_e4SIPQ0CtI77QMqQ",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "80",
+                "text": "• Rotaciones frecuentes entre especialidades → adaptación a nuevos fármacos.",
+                "guid": "O2F1xvauAeXrW7NGxE1z3A",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "80",
+                "text": "• Efecto silo: múltiples proveedores centrados en problemas específicos.",
+                "guid": "fuPCErJJmSU-uItjs03uxg",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "80",
+                "text": "• Prescripción\nbajo presión:",
+                "guid": "unZGEM3VEIin8ELnwi0C6Q",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "• Satisfacer al paciente.",
+                    "guid": "OMFqOrc6mkHXlsf1gmLEQw",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "87",
+                    "text": "• Temor de modificar prescripciones de otros médicos.",
+                    "guid": "yBPles-xA-kzVBqoDz_XBg",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "87",
+                    "text": "• Opinión subjetiva > guías clínicas.",
+                    "guid": "Y9rIcvrDipAcQPl_iEVSTg",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "87",
+                    "text": "• Fuente: Drugs Aging 2014 Aug;31(8):631.",
+                    "guid": "4P3YG-j1pz0XNpqIzFm4gA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "parent": "73",
+            "text": "• Factores\ndemográficos:",
+            "guid": "GpVEcAPqgBI2WXd81E7EJg",
+            "children": [
+              {
+                "id": "93",
+                "parent": "92",
+                "text": "• ↑ edad en ambulatorios (no en institucionalizados).",
+                "guid": "RlGyOdwmIuCK7DU3J4XEyQ",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "92",
+                "text": "• Mayor prevalencia en mujeres en la comunidad; disminuye o desaparece con la edad.",
+                "guid": "FEpsQPZhH3Hv3SKOfwOAxQ",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "92",
+                "text": "• Diferencias basadas en raza (prevalencia menor en afroamericanos).",
+                "guid": "_2bN0rYUV9vi1CLlI2D8_w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "96",
+        "parent": "0",
+        "text": "4. Asociaciones\nclínicas",
+        "guid": "vMViqcPJYGog36VSkCCbfg",
+        "children": [
+          {
+            "id": "97",
+            "parent": "96",
+            "text": "• Condiciones relacionadas\ncon polifarmacia:",
+            "guid": "zfCwv05xS4iMEroACLMVAQ",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "• Anemia (OR 4.1).",
+                "guid": "97ZMpqB8R7lhsi9SP-G14Q",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "97",
+                "text": "• Enfermedades cardiovasculares (OR 4. 5).",
+                "guid": "tDgqQnys15i5Ces1s9zYnw",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "97",
+                "text": "• Depresión (OR 2.13).",
+                "guid": "ts67gh-X9rHlm4GOYdd08A",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "97",
+                "text": "• Diabetes mellitus (OR 2. 28).",
+                "guid": "u9bl9DQea2hiijAvHZcwSA",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "97",
+                "text": "• Dolor (OR 2.69).",
+                "guid": "JqY5mGxhbnbi0GBX08f1kQ",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "97",
+                "text": "• Enfermedades respiratorias (OR 3.6).",
+                "guid": "Wgxqebwwm40uWecvtNl4Xw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "96",
+            "text": "• Condiciones relacionadas\ncon polifarmacia excesiva\n(≥ 10 medicamentos):",
+            "guid": "SHx6lPG35xikxwXN0OThpA",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "• Depresión (OR 2.93).",
+                "guid": "4coPvrMl2M1wtI73qOCmAg",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "• Diabetes mellitus (OR 2. 07).",
+                "guid": "tZa4XAKAtk-tGCDCgDlkbA",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "104",
+                "text": "• Enfermedad cardíaca (OR 4.63).",
+                "guid": "ad_AB4r6oRZK1lQ9jvZCFg",
+                "children": []
+              },
+              {
+                "id": "108",
+                "parent": "104",
+                "text": "• EPOC (OR 6.82).",
+                "guid": "2YdCf5zTpV-bAY6n24HF9g",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "104",
+                "text": "• Dolor (OR 2.74).",
+                "guid": "ajJCl7JilWWj7OiKXz5hjw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "parent": "96",
+            "text": "• Fuente: Clin Geriatr Med 2012 May;28(2):159.",
+            "guid": "Sn3Gms1CWSc1rmN0qqEHjg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "parent": "0",
+        "text": "1. Listas de Medicamentos\nPotencialmente Inapropiados",
+        "guid": "",
+        "children": [
+          {
+            "id": "112",
+            "parent": "111",
+            "text": "• Beers Criteria\n(2023):",
+            "guid": "JcxgN6l4AJ28bx2GlzcvEA",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "• Lista de medicamentos\nclasificados en:",
+                "guid": "-OexurUaHRUWWTQnGCFmgg",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "• Evitar para la mayoría o la mayoría de adultos mayores.",
+                    "guid": "nY-Qql8tewiFxamtc9RC7w",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "• Evitar en condiciones/síndromes específicos.",
+                    "guid": "0uH3Zhc1-4O3Tp6gGE9alQ",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "113",
+                    "text": "• Usar con precaución.",
+                    "guid": "tFnP9QimWC2QVEIz4wRjBg",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "113",
+                    "text": "• Potenciales interacciones fármaco-fármaco.",
+                    "guid": "9kpI-_KVLhducVVnkgVI6w",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "113",
+                    "text": "• Dosis cuidadosa o evitar según función renal del paciente.",
+                    "guid": "N-lHxsaMc_D5ogj2O4iCYA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "119",
+                "parent": "112",
+                "text": "• Referencia: J Am Geriatr Soc 2023 May 4.",
+                "guid": "tdz2bqr5yRXHuDu2T2P_kQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "120",
+            "parent": "111",
+            "text": "• STOPP/START\nCriteria:",
+            "guid": "XQgYB-rXQXXWuLwTNIC8TQ",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "• STOPP: Lista de medicamentos que requieren consideración específica para evitar efectos adversos relacionados con medicamentos.",
+                "guid": "BeT87ts8LScOWLX9-p6n6w",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "120",
+                "text": "• START: Lista de medicamentos beneficiosos frecuentemente omitidos de forma inapropiada.",
+                "guid": "olilgWWpRLG8Jf35E5k4sQ",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "120",
+                "text": "• Recomendaciones\ngenerales:",
+                "guid": "BLVUMQxsdyifovRsHvdGMA",
+                "children": [
+                  {
+                    "id": "124",
+                    "parent": "123",
+                    "text": "• Evitar/desprescribir\nmedicamentos:",
+                    "guid": "LoTprenS_t-a3iEwy0Pzsg",
+                    "children": [
+                      {
+                        "id": "125",
+                        "parent": "124",
+                        "text": "• Sin indicación clínica basada en evidencia.",
+                        "guid": "WO41vT3MAtcfLf4s266aUQ",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "124",
+                        "text": "• Con duración de tratamiento excedida.",
+                        "guid": "cI1otvPdZONW8wvrxjKMLQ",
+                        "children": []
+                      },
+                      {
+                        "id": "127",
+                        "parent": "124",
+                        "text": "• Duplicados en la misma clase de fármacos\n(optimizar monoterapia antes de nuevos agentes).",
+                        "guid": "-00F7NtXAIQPX6M0foJDmA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "128",
+                    "parent": "123",
+                    "text": "• Referencia: Age Ageing 2015 Mar;44(2):213.",
+                    "guid": "iWLOvHGJA8WWgDZwKTTmsw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "129",
+            "parent": "111",
+            "text": "• FORTA Criteria\n(Fit fOR The Aged):",
+            "guid": "vI18rIoNfcFrC6brti6ukg",
+            "children": [
+              {
+                "id": "130",
+                "parent": "129",
+                "text": "• Clasificación de medicamentos\nsegún beneficio/seguridad:",
+                "guid": "fofcKD1Bm37JW48YIDxdmA",
+                "children": [
+                  {
+                    "id": "131",
+                    "parent": "130",
+                    "text": "• Clase A: Indispensables, beneficio-riesgo bien establecido.",
+                    "guid": "smRMdWXZ_rriS-rnbJ2Eqw",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "130",
+                    "text": "• Clase B: Beneficiosos, pero con preocupaciones de seguridad o efectividad limitada.",
+                    "guid": "pJdArVzLBaOCbkqSPDO2RQ",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "130",
+                    "text": "• Clase C: Eficacia dudosa o preocupaciones de seguridad → evitar en polifarmacia.",
+                    "guid": "-GOlAzY9gSnXvlb2HooJ9A",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "130",
+                    "text": "• Clase D: Evitar.",
+                    "guid": "MGfeRsqx3yuOYsjaUtiGvA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "135",
+                "parent": "129",
+                "text": "• Etiquetas específicas por indicación (un mismo medicamento\npuede tener diferentes clasificaciones según el contexto).",
+                "guid": "nNuGZewyw6H7gm9F9K1H9g",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "129",
+                "text": "• Referencias: Drugs Aging 2014 Feb;31(2):131; Drugs Aging 2018 Jan;35(1):61.",
+                "guid": "OpL7FoGcky0LX5lxcgEaFg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "137",
+        "parent": "0",
+        "text": "2. Vinculación\nentre criterios",
+        "guid": "",
+        "children": [
+          {
+            "id": "138",
+            "parent": "137",
+            "text": "• Beers Criteria, STOPP/START y FORTA ofrecen enfoques complementarios para evitar medicamentos inapropiados y optimizar la prescripción en adultos mayores.",
+            "guid": "JwA4Snk3uvIBAYHZ9IsEqg",
+            "children": []
+          },
+          {
+            "id": "139",
+            "parent": "137",
+            "text": "• Todas estas herramientas facilitan decisiones clínicas basadas en evidencia para minimizar riesgos en poblaciones vulnerables.",
+            "guid": "Jqcf_xQTk8OFUzD69sMSUw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "parent": "0",
+        "text": "1. Herramientas\nde evaluación",
+        "guid": "",
+        "children": [
+          {
+            "id": "141",
+            "parent": "140",
+            "text": "• Medication\nAppropriateness Index\n(MAI):",
+            "guid": "e5L66KxyaP-8f1Ammo-efA",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "• 10 preguntas para evaluar la idoneidad\nde cada medicamento considerando:",
+                "guid": "Y23PEaT44OR8HMZxioDTAg",
+                "children": [
+                  {
+                    "id": "143",
+                    "parent": "142",
+                    "text": "• Indicación.",
+                    "guid": "m1cXoPumjx1ffQhJE2HEtg",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "142",
+                    "text": "• Eficacia.",
+                    "guid": "X8rja0V-_wngb-RmVUN9mQ",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "142",
+                    "text": "• Dosificación.",
+                    "guid": "Qnsyg14oSavw3B_60ZnR9g",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "142",
+                    "text": "• Indicaciones correctas.",
+                    "guid": "oJHXW1qpyZbwp-2Tz_zQlw",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "142",
+                    "text": "• Indicaciones prácticas.",
+                    "guid": "EB2O66emV2J3dsGzzb234Q",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "142",
+                    "text": "• Interacciones fármaco-fármaco y fármaco-enfermedad.",
+                    "guid": "fYDxE9HTPBdqXiA4JuZilQ",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "142",
+                    "text": "• Duplicación.",
+                    "guid": "SmcnFzIa6zp2V0wWSvj4Nw",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "142",
+                    "text": "• Duración.",
+                    "guid": "SrwZRwhXVqHRIbj58C9UEw",
+                    "children": []
+                  },
+                  {
+                    "id": "151",
+                    "parent": "142",
+                    "text": "• Costo.",
+                    "guid": "5205JYjAo8-s2QUTQpHeww",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "152",
+                "parent": "141",
+                "text": "• Referencia: J Clin Epidemiol 1992 Oct;45(10):1045.",
+                "guid": "TcGtC1YvkFgnqzqHazTf3A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "153",
+            "parent": "140",
+            "text": "• Medication Regimen\nComplexity Index\n(MRCI):",
+            "guid": "QjV1qlyyM-IUM8DTfINahg",
+            "children": [
+              {
+                "id": "154",
+                "parent": "153",
+                "text": "• Instrumento de 65 ítems que evalúa la\ncomplejidad del régimen farmacológico según:",
+                "guid": "RFwJxfnRYXM8skybq80Vdg",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "• Número de medicamentos.",
+                    "guid": "U5ovTrKnNvKHsIAvMKy7lw",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "154",
+                    "text": "• Frecuencia de dosis.",
+                    "guid": "No2G8A17xMLu99ICCvIL2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "157",
+                    "parent": "154",
+                    "text": "• Forma del medicamento (tabletas, líquidos, inhaladores, etc. ).",
+                    "guid": "Avq5FOtFlo46geSXi17ptw",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "154",
+                    "text": "• Instrucciones adicionales (ej. dosificación variable).",
+                    "guid": "JHT34AouGa4eW_7Zh4iugA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "159",
+                "parent": "153",
+                "text": "• Referencia: Ann Pharmacother 2004 Sep;38(9):1369.",
+                "guid": "wijQzsQF1_hTPrD4wyOaeA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "160",
+            "parent": "140",
+            "text": "• Prescribing Optimization Method\n(POM):",
+            "guid": "BikAJHGVX4UyeWL04KwOgA",
+            "children": [
+              {
+                "id": "161",
+                "parent": "160",
+                "text": "• Basado en 6 preguntas\nque evalúan:",
+                "guid": "5F74Tu4JDUW3-YkXnnWazQ",
+                "children": [
+                  {
+                    "id": "162",
+                    "parent": "161",
+                    "text": "• Subtratamiento.",
+                    "guid": "17Q0el1GrYszGKm8KF394w",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "161",
+                    "text": "• Adherencia.",
+                    "guid": "QSpsWfoHhkD167Srm-ecqw",
+                    "children": []
+                  },
+                  {
+                    "id": "164",
+                    "parent": "161",
+                    "text": "• Medicamentos inapropiados.",
+                    "guid": "z5IRP5K84Wl-0PLL5IS-5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "165",
+                    "parent": "161",
+                    "text": "• Efectos adversos.",
+                    "guid": "v579GRvIyUX30Px7g3J6dQ",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "161",
+                    "text": "• Interacciones.",
+                    "guid": "wiIq5SRjfVVwYxN-wESxaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "161",
+                    "text": "• Necesidad de ajustes en dosis, frecuencia o formulación.",
+                    "guid": "p7EGFFzMIls_NBXSd1zaVQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "160",
+                "text": "• Parte del Systematic Tool to Reduce Inappropriate Prescribing (STRIP).",
+                "guid": "fiemA_7L01bCb1_aoK5H0w",
+                "children": []
+              },
+              {
+                "id": "169",
+                "parent": "160",
+                "text": "• Referencias: Drugs Aging 2009;26(8):687, J Am Geriatr Soc 2014 Jul; 62(7):1353.",
+                "guid": "pzzPRR2ReHGsvl1Mnpi2bA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "parent": "140",
+            "text": "• Otros criterios\nespecíficos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "171",
+                "parent": "170",
+                "text": "• PEACE: Para pacientes con demencia\n(J Am Geriatr Soc 2008 Jul;56(7):1306).",
+                "guid": "MSBxuZB3JI0IDuZXSVO2Cw",
+                "children": []
+              },
+              {
+                "id": "172",
+                "parent": "170",
+                "text": "• STOPPFrail: Para adultos mayores frágiles con expectativa de vida limitada\n(Age Ageing 2017 Jul;46(4):600).",
+                "guid": "aTCluCoumoOwek2QT1_pJQ",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "170",
+                "text": "• LESS-CHRON: Lista de medicamentos que pueden volverse inapropiados dependiendo de la situación clínica\n(Geriatr Gerontol Int 2017 Nov;17(11):2200).",
+                "guid": "KU6W33bYXo18SAxM7TVU0g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "174",
+        "parent": "0",
+        "text": "2. Criterios de inapropiación\nde medicamentos",
+        "guid": "fJ4OrVhfxZTn_j45G41SIw",
+        "children": [
+          {
+            "id": "175",
+            "parent": "174",
+            "text": "• Medicamentos identificados con mayor\nfrecuencia como inapropiados:",
+            "guid": "LC6rH43C-FdieSAOLgQ3Iw",
+            "children": [
+              {
+                "id": "176",
+                "parent": "175",
+                "text": "• Benzodiacepinas.",
+                "guid": "f_34eXUXWSOgxjFslaclJQ",
+                "children": []
+              },
+              {
+                "id": "177",
+                "parent": "175",
+                "text": "• Antihistamínicos.",
+                "guid": "KJv5l9BCvgRLlYsnv9-Fbw",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "175",
+                "text": "• AINEs.",
+                "guid": "HSOh_47DY1zM31sAPhf2aQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "174",
+            "text": "• Fuente: Arch Gerontol Geriatr 2017 Jan-Feb;68:55.",
+            "guid": "yXlKPl4wJ_k-f2WdiKKd3w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "180",
+        "parent": "0",
+        "text": "3. Indicadores relevantes\nen polifarmacia",
+        "guid": "X7X6ltaLPxn9453p_9VzOg",
+        "children": [
+          {
+            "id": "181",
+            "parent": "180",
+            "text": "• Basado en consenso de\nexpertos y revisión sistemática:",
+            "guid": "",
+            "children": [
+              {
+                "id": "182",
+                "parent": "181",
+                "text": "• Indicación registrada en historia clínica.",
+                "guid": "xKiJ5Ti2i2plzmjW6x53Bw",
+                "children": []
+              },
+              {
+                "id": "183",
+                "parent": "181",
+                "text": "• No existe tratamiento no farmacológico efectivo disponible.",
+                "guid": "ip4xmUITCFhnP912-uPwEw",
+                "children": []
+              },
+              {
+                "id": "184",
+                "parent": "181",
+                "text": "• Consistente con práctica habitual.",
+                "guid": "JK4YkZdxJ0n4Etv1zmyHnQ",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "181",
+                "text": "• Sin interacciones fármaco-fármaco clínicamente significativas.",
+                "guid": "v2VNn9ufwa4b006EcU_NTw",
+                "children": []
+              },
+              {
+                "id": "186",
+                "parent": "181",
+                "text": "• Razón para prescripción registrada si el medicamento suele estar contraindicado.",
+                "guid": "tsrn2x8WNrACW4NOXRARTA",
+                "children": []
+              },
+              {
+                "id": "187",
+                "parent": "181",
+                "text": "• Efectivo para la indicación especificada.",
+                "guid": "ETIFCefkjlxOghUQaZLUGA",
+                "children": []
+              },
+              {
+                "id": "188",
+                "parent": "181",
+                "text": "• Dosis, vía y frecuencia adecuadas según edad y función renal/hepática.",
+                "guid": "YjhEPkM5K_tHuSQtc_NNVg",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "181",
+                "text": "• Régimen más simple posible.",
+                "guid": "qJqVzL0yT37sUj_Ar85MBA",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "181",
+                "text": "• Paciente/cuidador entiende el régimen.",
+                "guid": "BV9zSVOSA_oMKD9qs-TGoQ",
+                "children": []
+              },
+              {
+                "id": "191",
+                "parent": "181",
+                "text": "• Paciente es adherente.",
+                "guid": "C_ykFVQXBpFWtRrqz2s48A",
+                "children": []
+              },
+              {
+                "id": "192",
+                "parent": "181",
+                "text": "• Revisión del régimen al menos anual.",
+                "guid": "ETJsuZJ9IHdYYK60AR6XTw",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "181",
+                "text": "• Registro de reacciones adversas y planes de monitoreo.",
+                "guid": "I2L2fGqlBELp7LZVMfJ01Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "180",
+            "text": "• Referencia: BMC Med 2018 Jun 13;16(1):91.",
+            "guid": "9EocHWwmiQHYyN1HMpM9ug",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "195",
+        "parent": "0",
+        "text": "4. Recomendaciones\n(Choosing Wisely)",
+        "guid": "",
+        "children": [
+          {
+            "id": "196",
+            "parent": "195",
+            "text": "• Sociedad Americana de\nGeriatría (AGS):",
+            "guid": "rJ31Bg1YckWfOOaVfk0MiA",
+            "children": [
+              {
+                "id": "197",
+                "parent": "196",
+                "text": "• No prescribir medicamentos sin realizar revisión integral del régimen.",
+                "guid": "j1V3L15YaynZc0IW3y5i8g",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "196",
+                "text": "• Evitar iniciar medicamentos para tratar efectos adversos sin determinar la causa.",
+                "guid": "Pru1ABRM5URX6H4yvkMR5w",
+                "children": []
+              },
+              {
+                "id": "199",
+                "parent": "196",
+                "text": "• No continuar medicamentos basándose únicamente en historial no verificado.",
+                "guid": "Wdp2bi8PcmEbYDznOAU2TA",
+                "children": []
+              },
+              {
+                "id": "200",
+                "parent": "196",
+                "text": "• Uso exclusivo de mililitros (mL) al medir medicamentos líquidos.",
+                "guid": "RJ8jIOeBbnuodUIvN--scA",
+                "children": []
+              },
+              {
+                "id": "201",
+                "parent": "196",
+                "text": "• Recomendaciones\nespecíficas:",
+                "guid": "o74Rv5e_wRYGiRtDQ6BRag",
+                "children": [
+                  {
+                    "id": "202",
+                    "parent": "201",
+                    "text": "• Insomnio: Evitar antipsicóticos como primera línea.",
+                    "guid": "uJqR_5CV-g9ESvGYRNphZg",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "201",
+                    "text": "• Demencia: No usar antipsicóticos como primera opción para síntomas conductuales y psicológicos (BPSD).",
+                    "guid": "lYxlT9_1WkDwCCsV1EovDA",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "201",
+                    "text": "• Hipertensión en ancianos frágiles ≥ 60 años: No iniciar tratamiento si PA < 150/90 mmHg.",
+                    "guid": "q0eCFus2fsY6gxJuLxeUcw",
+                    "children": []
+                  },
+                  {
+                    "id": "205",
+                    "parent": "201",
+                    "text": "• CKD, HTA, o insuficiencia cardíaca: Evitar AINEs.",
+                    "guid": "iyiSxRcFUJGawg0GlAMlDg",
+                    "children": []
+                  },
+                  {
+                    "id": "206",
+                    "parent": "201",
+                    "text": "• Diabetes en cuidado a largo plazo: No usar insulina en escala móvil.",
+                    "guid": "b0-nfhsUQbajEmM6_llvmA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "207",
+                "parent": "196",
+                "text": "• Fuentes: Choosing Wisely 2014-2018.",
+                "guid": "TvD53nFuF2ti7QeR8ZfOXQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "208",
+            "parent": "195",
+            "text": "• Internacional:",
+            "guid": "",
+            "children": [
+              {
+                "id": "209",
+                "parent": "208",
+                "text": "• Canadá: Revisar medicamentos de pacientes > 65 años antes de prescribir.",
+                "guid": "85aJmSvLNFRtEAXtbc6rKg",
+                "children": []
+              },
+              {
+                "id": "210",
+                "parent": "208",
+                "text": "• Australia/Nueva Zelanda: Reconocer y detener cascadas de prescripción.",
+                "guid": "bBbUARSdstIDxTVDii08jg",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "208",
+                "text": "• Optimizar la relación beneficio-riesgo y reducir terapias concurrentes.",
+                "guid": "ue_5hqLyI6UWfkc26W-uWA",
+                "children": []
+              },
+              {
+                "id": "212",
+                "parent": "208",
+                "text": "• Realizar revisión completa en pacientes > 65 años con ≥ 5 medicamentos.",
+                "guid": "EeJh7TVVkOFtJTgCgSklXg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "213",
+        "parent": "0",
+        "text": "1. Recomendaciones específicas\npor clase de medicamentos",
+        "guid": "",
+        "children": [
+          {
+            "id": "214",
+            "parent": "213",
+            "text": "• Estatinas:",
+            "guid": "",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "• Uso en prevención primaria en > 75 años → evaluar riesgos,\nbeneficios, interacciones y preferencias del paciente.",
+                "guid": "4QV-wbp98bcC0Eq_UdyZ2Q",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "214",
+                "text": "• Referencia: Circulation 2014 Jun 24;129(25 Suppl 2):S1.",
+                "guid": "AzvohvsnqtNaQBahgvSSww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "217",
+            "parent": "213",
+            "text": "• Antihipertensivos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "218",
+                "parent": "217",
+                "text": "• Individualizar tratamiento en > 70 años con GFR < 60 mL/min/1.73m².",
+                "guid": "EOWxWFcuxL0D0KPmH7l2AQ",
+                "children": []
+              },
+              {
+                "id": "219",
+                "parent": "217",
+                "text": "• Referencia: JAMA 2014 Feb 5;311(5):507.",
+                "guid": "HVtWTh2ypSwsm7bpoFDW6A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "220",
+            "parent": "213",
+            "text": "• Antihiperglicemiantes:",
+            "guid": "",
+            "children": [
+              {
+                "id": "221",
+                "parent": "220",
+                "text": "• Individualizar objetivos de HbA1c en pacientes con diabetes, edad avanzada, fragilidad o expectativa de vida limitada.",
+                "guid": "j5iSW5O8YpFV9ljLBAu-7g",
+                "children": []
+              },
+              {
+                "id": "222",
+                "parent": "220",
+                "text": "• Guía para deprescripción: Can Fam Physician 2017 Nov;63(11):832.",
+                "guid": "ieU-eoWf_orQzy5hjmGmgg",
+                "children": []
+              },
+              {
+                "id": "223",
+                "parent": "220",
+                "text": "• Referencia: Diabetes Care 2018 Jan;41(Suppl 1):S55.",
+                "guid": "BvGAiyMOpPMEuRY8vMM6Lw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "224",
+            "parent": "213",
+            "text": "• Suplementos dietéticos y herbales:",
+            "guid": "Ohn8G7pDJkm86NsTA-9vdQ",
+            "children": [
+              {
+                "id": "225",
+                "parent": "224",
+                "text": "• Directrices en el National Center for Complementary and Integrative Health.",
+                "guid": "6BYIAAebMLjkuAycF5DQRQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "226",
+            "parent": "213",
+            "text": "• Anticoagulantes:",
+            "guid": "",
+            "children": [
+              {
+                "id": "227",
+                "parent": "226",
+                "text": "• Herramienta de soporte para elección en fibrilación auricular: WISDM for AFib.",
+                "guid": "XS57D-HztRc6YDPV_E8hUA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "228",
+            "parent": "213",
+            "text": "• Antiplaquetarios:",
+            "guid": "",
+            "children": [
+              {
+                "id": "229",
+                "parent": "228",
+                "text": "• Uso apropiado de aspirina y otros antiplaquetarios\nen BMC Geriatr 2017 Oct 16;17(Suppl 1):225.",
+                "guid": "bSqMZcuEVCb8B9bz9GdYeg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "230",
+            "parent": "213",
+            "text": "• Inhibidores de bomba\nde protones (IBPs):",
+            "guid": "",
+            "children": [
+              {
+                "id": "231",
+                "parent": "230",
+                "text": "• Guía para deprescripción: Can Fam\nPhysician 2017 May;63(5):354.",
+                "guid": "E6nA-x89O17RFPE4_3JJZw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "232",
+            "parent": "213",
+            "text": "• Antipsicóticos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "233",
+                "parent": "232",
+                "text": "• Guía para deprescripción: Can Fam\nPhysician 2018 Jan;64(1):17.",
+                "guid": "qLvO4N8_7N2Y3COwzisgEw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "234",
+            "parent": "213",
+            "text": "• Anticolinérgicos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "235",
+                "parent": "234",
+                "text": "• Sistema de puntuación para efectos\ncognitivos: Aging Health 2008;4(3):311.",
+                "guid": "fnk3-rjszagBoGFRa8nkPw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "236",
+        "parent": "0",
+        "text": "2. Intervenciones para mejorar la\nprescripción y evitar errores",
+        "guid": "",
+        "children": [
+          {
+            "id": "237",
+            "parent": "236",
+            "text": "• Educación y formación:",
+            "guid": "",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "• Intervenciones multicomponentes (educación clínica)\nreducen prescripción inapropiada y pueden disminuir\nhospitalización y visitas a urgencias.",
+                "guid": "1zYtF3oxXl1E_b7EYbYQ2Q",
+                "children": []
+              },
+              {
+                "id": "239",
+                "parent": "237",
+                "text": "• Referencia: Cochrane Database Syst\nRev 2016 Feb 12;2:CD009095.",
+                "guid": "57wBR8sXxNNuGSTrBNPAyQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "240",
+            "parent": "236",
+            "text": "• Revisión y reconciliación\nde medicamentos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "241",
+                "parent": "240",
+                "text": "• Identificación de problemas y\noportunidades para deprescripción:",
+                "guid": "YxXwK3Vgy6U6joUchgV2Sg",
+                "children": []
+              },
+              {
+                "id": "242",
+                "parent": "240",
+                "text": "• Conciliación de\nmedicamentos.",
+                "guid": "15YTPfkJEwPRsVxIuwBUXw",
+                "children": []
+              },
+              {
+                "id": "243",
+                "parent": "240",
+                "text": "• Evaluación de\nadherencia.",
+                "guid": "XT_lJco0vTPfnGhtm6UbpA",
+                "children": []
+              },
+              {
+                "id": "244",
+                "parent": "240",
+                "text": "• Evaluación de interacciones\n(fármaco-fármaco, fármaco-enfermedad).",
+                "guid": "WFKcYlhsZ4zqGiyNimpsgQ",
+                "children": []
+              },
+              {
+                "id": "245",
+                "parent": "240",
+                "text": "• Identificación de tratamientos duplicados o\nefectos adversos acumulativos.",
+                "guid": "M0jOI9xyD_kSxOuNJCkuzg",
+                "children": []
+              },
+              {
+                "id": "246",
+                "parent": "240",
+                "text": "• Detección de medicamentos inapropiados\nsegún Beers o STOPP/START.",
+                "guid": "JdXdeDRDMpHPyUCyxMHNsw",
+                "children": []
+              },
+              {
+                "id": "247",
+                "parent": "240",
+                "text": "• Monitoreo de niveles de\nlaboratorio y eficacia.",
+                "guid": "W3rK0Idc5Ht7USOM_HrBKg",
+                "children": []
+              },
+              {
+                "id": "248",
+                "parent": "240",
+                "text": "• Revisión de\nsuplementos y\nvitaminas.",
+                "guid": "oUqqSvL8p60w_tr24_6JzQ",
+                "children": []
+              },
+              {
+                "id": "249",
+                "parent": "240",
+                "text": "• Referencia: Mayo Clin Proc\n2021 Jan;96(1):242.",
+                "guid": "e9JDyxteqh3IeLI8cISbew",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "250",
+            "parent": "236",
+            "text": "• Evaluaciones\ncentradas en el\npaciente:",
+            "guid": "",
+            "children": [
+              {
+                "id": "251",
+                "parent": "250",
+                "text": "• Evaluar necesidades, experiencia y\npreferencias del paciente.",
+                "guid": "FJUc72cl7azHFycom7duBQ",
+                "children": []
+              },
+              {
+                "id": "252",
+                "parent": "250",
+                "text": "• Relacionar medicamentos con\nindicaciones específicas y\nestablecer objetivos terapéuticos.",
+                "guid": "p4mLN6EU7sw2Czgml7ebCw",
+                "children": []
+              },
+              {
+                "id": "253",
+                "parent": "250",
+                "text": "• Monitorear resultados y ajustar\nintervenciones según progreso.",
+                "guid": "YKR6Z-9RcySI_MvnykwQew",
+                "children": []
+              },
+              {
+                "id": "254",
+                "parent": "250",
+                "text": "• Referencias: PCPCC y British\nColumbia Guidelines 2017.",
+                "guid": "Qo7dCTHB_4xRvfu0QHICtw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "255",
+            "parent": "236",
+            "text": "• Revisión “Brown Bag”:",
+            "guid": "32ve_q7VdWO9dGMavN0olA",
+            "children": [
+              {
+                "id": "256",
+                "parent": "255",
+                "text": "• Estándar de oro para\nreconciliación de medicamentos.",
+                "guid": "n7o5RftZugjexC5Nism9JA",
+                "children": []
+              },
+              {
+                "id": "257",
+                "parent": "255",
+                "text": "• Pacientes llevan todos sus\nmedicamentos (incluidos no recetados)\npara revisión detallada en consulta.",
+                "guid": "CGR7IGe2SnNX2WUgOiHlUA",
+                "children": []
+              },
+              {
+                "id": "258",
+                "parent": "255",
+                "text": "• Referencia: AHRQ\nHealth Literacy Toolkit.",
+                "guid": "JSKW7JdpdBtctBFcD-3Wyw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "259",
+        "parent": "0",
+        "text": "3. Deprescripción",
+        "guid": "",
+        "children": [
+          {
+            "id": "260",
+            "parent": "259",
+            "text": "• Preocupaciones\nfrecuentes:",
+            "guid": "",
+            "children": [
+              {
+                "id": "261",
+                "parent": "260",
+                "text": "• Percepción de\nabandono del cuidado.",
+                "guid": "tYqGQ4m8aK-OdeUL_hDymQ",
+                "children": []
+              },
+              {
+                "id": "262",
+                "parent": "260",
+                "text": "• Resistencia\ndel paciente.",
+                "guid": "ho80hV9JUp9kqpWQlnuCgw",
+                "children": []
+              },
+              {
+                "id": "263",
+                "parent": "260",
+                "text": "• Posibles\nconsecuencias\nnegativas.",
+                "guid": "mXDU5pXYiKMk2p5NrPEiOg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "264",
+            "parent": "259",
+            "text": "• Soluciones:",
+            "guid": "",
+            "children": [
+              {
+                "id": "265",
+                "parent": "264",
+                "text": "• Enfoque centrado\nen el paciente.",
+                "guid": "qCYs_cBs25CFDPJWIjHS9w",
+                "children": []
+              },
+              {
+                "id": "266",
+                "parent": "264",
+                "text": "• Educación y\nempoderamiento del\npaciente.",
+                "guid": "EzAHvdD7ihjofCdnDpGN3A",
+                "children": []
+              },
+              {
+                "id": "267",
+                "parent": "264",
+                "text": "• Decisiones compartidas y tiempo\nadecuado para consulta.",
+                "guid": "TDtJDK28u4L1FFTxu3Xg4Q",
+                "children": []
+              },
+              {
+                "id": "268",
+                "parent": "264",
+                "text": "• Monitoreo cercano\ntras cambios.",
+                "guid": "SKAcVGfTP8pp4Q7R_AaQvg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "269",
+            "parent": "259",
+            "text": "• Criterios para\ndeprescripción:",
+            "guid": "",
+            "children": [
+              {
+                "id": "270",
+                "parent": "269",
+                "text": "• Evaluar efectos adversos y\nreacciones al retirar medicamentos.",
+                "guid": "rnQ7vlcxbBwu4A_xjGAmVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "271",
+            "parent": "259",
+            "text": "• Medicamentos\na considerar:",
+            "guid": "ZKYuCQaYqoblFJMjGCx5Rw",
+            "children": [
+              {
+                "id": "272",
+                "parent": "271",
+                "text": "• Altamente riesgosos\n(Beers, STOPP/START).",
+                "guid": "205WYHrbuoxsEqyWS5t0jg",
+                "children": []
+              },
+              {
+                "id": "273",
+                "parent": "271",
+                "text": "• Anticolinérgicos.",
+                "guid": "isvKHkE7174vHWC_9W2qsg",
+                "children": []
+              },
+              {
+                "id": "274",
+                "parent": "271",
+                "text": "• Antihipertensivos en riesgo de\nhipotensión ortostática.",
+                "guid": "qArQrpUcwz1a2uebh-YhTw",
+                "children": []
+              },
+              {
+                "id": "275",
+                "parent": "271",
+                "text": "• AINEs.",
+                "guid": "KeXQf_-Jtst9auI-PNDd2w",
+                "children": []
+              },
+              {
+                "id": "276",
+                "parent": "271",
+                "text": "• Insulinas de acción\ncorta y sulfonilureas.",
+                "guid": "KelGDW9jzqoyGUs264zu9g",
+                "children": []
+              },
+              {
+                "id": "277",
+                "parent": "271",
+                "text": "• Estatinas en\nprevención primaria.",
+                "guid": "31N-nDoO9pnE3zLPJMjx1g",
+                "children": []
+              },
+              {
+                "id": "278",
+                "parent": "271",
+                "text": "• Suplementos y vitaminas\nsin beneficio claro.",
+                "guid": "semgTNkZJthSgrYTJI6YyQ",
+                "children": []
+              },
+              {
+                "id": "279",
+                "parent": "271",
+                "text": "• Proceso de\ndeprescripción:",
+                "guid": "RUmgrI2qypMa36hCXRMDNw",
+                "children": []
+              },
+              {
+                "id": "280",
+                "parent": "271",
+                "text": "• Determinar expectativa de vida y\nobjetivos de tratamiento.",
+                "guid": "i6fIxUBtEykdU4bMMaXB9Q",
+                "children": []
+              },
+              {
+                "id": "281",
+                "parent": "271",
+                "text": "• Revisar y evaluar\nmedicamentos.",
+                "guid": "ZML-9awYnx5DVjryOBZPeA",
+                "children": []
+              },
+              {
+                "id": "282",
+                "parent": "271",
+                "text": "• Identificar\nmedicamentos a\nretirar.",
+                "guid": "TZLDv8ys4Z2gijSi2O6GbQ",
+                "children": []
+              },
+              {
+                "id": "283",
+                "parent": "271",
+                "text": "• Crear un plan de\ndeprescripción.",
+                "guid": "Zz1GpTS4JiWVElxlt1jFcQ",
+                "children": [
+                  {
+                    "id": "284",
+                    "parent": "283",
+                    "text": "• Monitorear y ajustar según\nestado del paciente.",
+                    "guid": "pgxXnGgVRI95QSXicJzgJA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "285",
+                "parent": "271",
+                "text": "• Referencia: J Geriatr\nOncol 2017 Mar;8(2):77.",
+                "guid": "HOuwWW8mpdBRYauQ0qF3KA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "286",
+            "parent": "259",
+            "text": "• Evidencia de eficacia:",
+            "guid": "",
+            "children": [
+              {
+                "id": "287",
+                "parent": "286",
+                "text": "• Reducción de caídas, medicación\ninapropiada y carga farmacológica.",
+                "guid": "qIZpykQBEzZRdLw72gMRRw",
+                "children": []
+              },
+              {
+                "id": "288",
+                "parent": "286",
+                "text": "• Impacto variable\nen mortalidad.",
+                "guid": "r0wyq4ENUYxp9E9nF0cI1g",
+                "children": []
+              },
+              {
+                "id": "289",
+                "parent": "286",
+                "text": "• Referencias: J Am Med Dir Assoc\n2019 Mar;20(3):362, Br J Clin\nPharmacol 2016 Sep;82(3):583.",
+                "guid": "NxkdqtptCNZJH-pjotCADg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 290,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "Polifarmacia-2025",
+  "id": "map_1053",
+  "resolved_references": []
+}

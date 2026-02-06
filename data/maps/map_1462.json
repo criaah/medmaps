@@ -1,0 +1,1231 @@
+{
+  "title": "UTD - Enfoque Diagnóstico de Anemia en Adultos",
+  "guid": "5A13B2616B41090B2D89C718",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/UTD - Enfoque Diagnóstico de Anemia en Adultos-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "UTD - Enfoque Diagnóstico de\nAnemia en Adultos",
+    "guid": "eYgxoH0cxncPRXj7BW7SiQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "##\nPRINCIPIOS\nBÁSICOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "### Definiciones\nde Anemia",
+            "guid": "U_vuU2_P_poeOoXWNj75gg",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Hemoglobina (Hb)",
+                "guid": "ODd7hGTV5mBMS0XKD1PdBw",
+                "children": [
+                  {
+                    "id": "4",
+                    "parent": "3",
+                    "text": "- Mujeres: <11.5 g/dL",
+                    "guid": "dMFnWmcPTHo7LwlHImyj5g",
+                    "children": []
+                  },
+                  {
+                    "id": "5",
+                    "parent": "3",
+                    "text": "- Hombres: <13.5 g/dL",
+                    "guid": "LxUITXHX8q5Xa62gd7De-A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "- Hematocrito (HCT)",
+                "guid": "fhyLHnIx5PZOF_4id6S8vw",
+                "children": [
+                  {
+                    "id": "7",
+                    "parent": "6",
+                    "text": "- Mujeres: <35%",
+                    "guid": "b06rbV1ddx19E49IWOpJcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "6",
+                    "text": "- Hombres: <40%",
+                    "guid": "Gi6lxUgeHskzSNPOPKANEA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "### Consideraciones\nEspeciales",
+            "guid": "cXOXdWhTxGM22KtKRW-FyA",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "- Actividad física intensa → valores más bajos",
+                "guid": "WCPC_VUTMSF7rn9KEFs-gQ",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "9",
+                "text": "- Embarazo → anemia fisiológica/dilucional",
+                "guid": "OekXgUf5xRQfrxuILqp-2w",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "9",
+                "text": "- Edad avanzada → valores generalmente más bajos",
+                "guid": "LwkRjlreJM9RFyLBXh4Z3A",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "9",
+                "text": "- Tabaquismo → valores más altos",
+                "guid": "TLYXfiiC0GJVzvjUStKinA",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "9",
+                "text": "- Medicamentos (andrógenos, inhibidores SGLT2) → valores más altos",
+                "guid": "GrS1WCPm9vdCd19bCgNgxQ",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "9",
+                "text": "- Hemoconcentración → valores más altos",
+                "guid": "AURuFD-K7qRi7ao2G3MT2g",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "9",
+                "text": "- Altitud elevada → valores más altos",
+                "guid": "B6kNbRY2fgRYEyDqeRyk4g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "parent": "1",
+            "text": "### Índices\nEritrocitarios",
+            "guid": "fopCZw7rzDU-jCqqVq4FZA",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "- VCM (Volumen Corpuscular Medio): tamaño promedio de GR",
+                "guid": "Y_79Vjo6qfVnCUPlHegU1w",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "17",
+                "text": "- HCM (Hemoglobina Corpuscular Media): contenido promedio de Hb",
+                "guid": "AjRvCQa4X21MkpOyMT2AmA",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "17",
+                "text": "- CHCM (Concentración de Hemoglobina Corpuscular Media): concentración promedio de Hb",
+                "guid": "YZaEPB2ptnMPW5p0Lkybug",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "17",
+                "text": "- RDW (Amplitud de Distribución Eritrocitaria): variación en tamaño de GR",
+                "guid": "RiyG1WUqk0h5Hz5XYOE8LQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "1",
+            "text": "### Producción\nde Reticulocitos",
+            "guid": "CRGKPzuWnbJq5JzyClX4VA",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "- Normal: 0.5-2% de GR totales (25,000-100,000/microL)",
+                "guid": "eyGMVk3SRyglyQwuAsqZww",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "22",
+                "text": "- En anemia: aumento hasta 4-5% (350,000/microL)",
+                "guid": "ZAjFLH3cLRh75z6lYpMHkw",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "22",
+                "text": "- Indicador clave de respuesta medular a la anemia",
+                "guid": "DMf5TTpzaVA5QQz3cMb2ow",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "1",
+            "text": "### Correlación\ncon Síntomas",
+            "guid": "dK4TRSBKUNwOrwt6duKCTg",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "- Depende de:",
+                "guid": "WK_8vlXWv2Rph9JkPLjB6g",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "- Contenido y liberación de oxígeno",
+                    "guid": "JwKwSVtBnywoIALmCJk0hg",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "- Volumen sanguíneo y perfusión tisular",
+                    "guid": "eOtVoDd7nVo25dBAPxfcdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "- Velocidad de disminución de masa eritrocitaria",
+                    "guid": "HKYwozAFDpcf-RijJbe64g",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "27",
+                    "text": "- Mecanismos compensatorios",
+                    "guid": "a5usSgrdtZUwDbM2Zr04oA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "## ENFOQUES\nDIAGNÓSTICOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "33",
+            "parent": "32",
+            "text": "### Categorías a\nConsiderar",
+            "guid": "U7LsfWVvEQkfS8l-YHrlyg",
+            "children": [
+              {
+                "id": "34",
+                "parent": "33",
+                "text": "- Características clínicas evidentes",
+                "guid": "H-J6WViM1nVRQdxuFJCNng",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "33",
+                "text": "- Medicamentos y condiciones subyacentes",
+                "guid": "eNcnUl_w5-gLcw_tH9nXmw",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "33",
+                "text": "- Hallazgos en CBC inicial",
+                "guid": "OzKHFTOTEtMocwwhNB3ctQ",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "33",
+                "text": "- Tamaño de GR (microcíticos/macrocíticos)",
+                "guid": "aw6wLl9Y3GJzNbkqB7Tg0Q",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "33",
+                "text": "- Función medular (según recuento de reticulocitos)",
+                "guid": "D13q-RMu0c0tbJuzevmXQw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "32",
+            "text": "### Información\na Recopilar",
+            "guid": "HgyHY116Tuphts_kdryEIQ",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "- Antecedentes médicos y medicación actual",
+                "guid": "M1EOTks-okgzdUYLBwP6yw",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "39",
+                "text": "- Historia familiar de anemia específica",
+                "guid": "MK2zUVLBD4lnfuCWUJAtqw",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "39",
+                "text": "- Causas adquiridas (dieta, viajes, infecciones, sangrado)",
+                "guid": "K03l_zjAvQRlILtJJCUNUQ",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "39",
+                "text": "- Cronicidad de la anemia",
+                "guid": "GLGk7HCTyzZD_uTsU-QsAQ",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "39",
+                "text": "- Síntomas de hemólisis",
+                "guid": "JCbeCmxx8Q4IAgi2DzWOOA",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "39",
+                "text": "- Rapidez de desarrollo de síntomas",
+                "guid": "S8rNcHs3weEW6m8JWyi4aQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "32",
+            "text": "### Pruebas de\nLaboratorio",
+            "guid": "DmaTrkRXCrxWIk-tLHMbEQ",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "- CBC con índices eritrocitarios y diferencial leucocitario",
+                "guid": "IdFZpjfZH5EjL58yVSJn9Q",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "46",
+                "text": "- Recuento de reticulocitos",
+                "guid": "AxfB2Vak5T5cJmLAM8V1Kg",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "46",
+                "text": "- Panel bioquímico (función renal y hepática)",
+                "guid": "KWX0x0OlQ1YEVaLVVLPaxg",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "46",
+                "text": "- Pruebas de hemólisis (LDH, bilirrubina, haptoglobina)",
+                "guid": "fGYAWml2Xh942OgXFRelRw",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "46",
+                "text": "- Frotis de sangre periférica",
+                "guid": "WgopVTzXzQRo-9FIfjEHXw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "parent": "32",
+            "text": "### Cuando Derivar\na Hematología",
+            "guid": "KUm-EnD92f8NZpWXdRSLgg",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "- Emergencias hematológicas",
+                "guid": "bDWb4CRRBKBQPUPrepwvjg",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "52",
+                "text": "- Pancitopenia severa",
+                "guid": "aKgPXSZfk5gnD0qgCnlpAw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "52",
+                "text": "- Blastos o formas inmaduras",
+                "guid": "XjizKUo-6dJfm9D4YVB1Ag",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "52",
+                "text": "- Pancitopenia con hemólisis/trombosis/sangrado",
+                "guid": "IOPPEDvCM7kVFeotSknD2A",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "52",
+                "text": "- Anemia hemolítica microangiopática",
+                "guid": "f2d3DxlrjQIe_Z6ee813ag",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "52",
+                "text": "- Incertidumbre diagnóstica",
+                "guid": "AuHrIRfWhrYQ5RyxXOwUdw",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "52",
+                "text": "- Necesidad de evaluación especializada",
+                "guid": "VK5Tunng7flbHRvWffgRzA",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "52",
+                "text": "- Examen medular, citometría de flujo, pruebas genéticas",
+                "guid": "at7H-GiDsW5zDJ1OVxRj2A",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "52",
+                "text": "- Necesidad de tratamiento especializado",
+                "guid": "DNS2DkNJ4TlRsJNndXzFaw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "parent": "0",
+        "text": "## EVALUACIÓN SEGÚN\nPRESENTACIÓN CLÍNICA",
+        "guid": "",
+        "children": [
+          {
+            "id": "63",
+            "parent": "62",
+            "text": "### Pérdida Aguda\nde Sangre",
+            "guid": "aal00ni_3gd_9i5vR-In-w",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "- Identificar y manejar sitio de sangrado",
+                "guid": "Qv7H2V-R_2cpMpz-Y-KW6g",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "- Mantener perfusión tisular y entrega de oxígeno",
+                "guid": "G1QzID5IhysuLFrCGruqMA",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "- Evaluar reservas de hierro posteriormente",
+                "guid": "V7QULU0p-WAWiSGaWpX_Tw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "62",
+            "text": "### Anemia Congénita\no Historia Familiar",
+            "guid": "ZQCAFiduPks3ghPGOa7T0A",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "- Identificar parientes específicos afectados",
+                "guid": "IU8sRBKfL5w3puWcDC30PQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "- Evaluar episodios de ictericia, cálculos biliares",
+                "guid": "eyLhCiqzgupjQlgVB_eXGQ",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "67",
+                "text": "- Considerar trastornos hemolíticos hereditarios (G6PD, talasemias)",
+                "guid": "bf1kJDTy63x9dFyEV6bY9g",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "67",
+                "text": "- Evaluar morfología eritrocitaria en frotis",
+                "guid": "LbLJg31qivMfiQDxcLGRXQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "62",
+            "text": "### Mujeres\nPremenopáusicas",
+            "guid": "XPyKW0i7ne9UlChHeFC9ew",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "- Deficiencia de hierro común por menstruación/embarazos",
+                "guid": "BwQlGgLAgwkTDGerXrg5SA",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "- GR pueden ser microcíticos o normocíticos",
+                "guid": "T-p8aSmViUU5TjiXNOr8gA",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "- Obtener estudios de hierro (hierro sérico, TIBC, ferritina, saturación)",
+                "guid": "UQPHkHDQTF1umdBQclLz1Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "62",
+            "text": "### Adultos Mayores",
+            "guid": "A297-SZAte1-gOgSfpJdBA",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "- Causas\nprincipales:",
+                "guid": "UPQ412HDQCcGifQdPvGc-w",
+                "children": [
+                  {
+                    "id": "78",
+                    "parent": "77",
+                    "text": "- Deficiencias nutricionales (~1/3)",
+                    "guid": "FrYrpAP-UKEWmHXxRGj1Jw",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "77",
+                    "text": "- Enfermedad renal o ACD/AI (~1/3)",
+                    "guid": "AWjblTYhduM1GoaEXmVl8A",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "77",
+                    "text": "- Inexplicada (~1/3) - posibles trastornos clonales",
+                    "guid": "ft0U0gmurstWtiNrBeE57Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "81",
+                "parent": "76",
+                "text": "- Pruebas rutinarias: función renal, estudios de hierro, vitamina B12, folato",
+                "guid": "DG8x1GnCixdkmXM1XFmuPg",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "76",
+                "text": "- Pruebas adicionales según contexto",
+                "guid": "E1gUXB3nq8wRRKq-ZFvb7Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "parent": "62",
+            "text": "### Malabsorción/Malnutrición",
+            "guid": "Drf4KX_eew5Wrs_CEid0Ig",
+            "children": [
+              {
+                "id": "84",
+                "parent": "83",
+                "text": "- Deficiencias de hierro, vitamina B12, folato, cobre",
+                "guid": "Jh8w-1Uvt9QQudEmdxNp0w",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "83",
+                "text": "- Cirugía gástrica → malabsorción",
+                "guid": "NvL3-xdDxUM2BQbOTakjnw",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "83",
+                "text": "- Suplementos de zinc → deficiencia de cobre",
+                "guid": "G0IV5UydfMASEhjHHKrxeg",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "83",
+                "text": "- Inanición/anorexia nerviosa → necrosis gelatinosa medular",
+                "guid": "Ar7zo0csn0t7EFdqAZwIdQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "parent": "62",
+            "text": "### Enfermedad\nSistémica Subyacente",
+            "guid": "UNtOF1HGetUHfUJiXUp_6w",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "- Anemia de enfermedad crónica/inflamación (ACD/AI)",
+                "guid": "O4kF7GwWtZc5pC4pTuEaSQ",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "- GR normocíticos, ocasionalmente microcíticos",
+                "guid": "Cf5hY0ro2OczPPY2GLZZjA",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "88",
+                "text": "- Estudios de hierro: hierro y saturación bajos, ferritina normal/elevada",
+                "guid": "SsdT9gnrxfgq3c2vcOaE8Q",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "88",
+                "text": "- Condiciones asociadas: cáncer, ERC, enfermedades reumatológicas, hipotiroidismo, infecciones",
+                "guid": "Xxt9zDuXntVn-e7EFg51xw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "parent": "0",
+        "text": "## EVALUACIÓN SEGÚN\nCBC/RECUENTO RETICULOCITARIO",
+        "guid": "",
+        "children": [
+          {
+            "id": "94",
+            "parent": "93",
+            "text": "### Pancitopenia",
+            "guid": "UttkGR3-9ZNjt5lnbh15_g",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "- Examinar frotis sanguíneo",
+                "guid": "apxyU3XJsi4KyGt4bVtl9g",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "94",
+                "text": "- Considerar:",
+                "guid": "PPZReQXYwuJu925rDdGfkA",
+                "children": [
+                  {
+                    "id": "97",
+                    "parent": "96",
+                    "text": "- Medicamentos, infecciones",
+                    "guid": "V589t3Z0sM5rHB98EyhDpA",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "96",
+                    "text": "- Fallo medular (anemia aplásica)",
+                    "guid": "YotmZSTATaViCV3tbInHyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "96",
+                    "text": "- Mielodisplasia, mielofibrosis",
+                    "guid": "b6kmjRVGVCMFQCFVOnB6gw",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "96",
+                    "text": "- Trastornos clonales (HPN)",
+                    "guid": "HzIaGzAd7wQrVv90fk2X5w",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "96",
+                    "text": "- Neoplasias hematológicas",
+                    "guid": "a7WN2hNQ7jkUXA2uPpDx8w",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "96",
+                    "text": "- Hiperesplenismo, deficiencias vitamínicas",
+                    "guid": "MU_jzHgTpxUsrmvxG-xWHw",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "96",
+                    "text": "- Citopenias autoinmunes, LHH, MAT",
+                    "guid": "bd1ZQzd212kJR7wVKtOqvQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "93",
+            "text": "### Recuento de\nReticulocitos",
+            "guid": "PU-aS3g_KoA4pUpNFO7YAg",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "- Disminuido (o\ninapropiadamente bajo):",
+                "guid": "brPbTiPBackoFxumUT9BtA",
+                "children": [
+                  {
+                    "id": "106",
+                    "parent": "105",
+                    "text": "- Deficiencias (hierro, B12, folato, cobre)",
+                    "guid": "SIG3bwogeZM9yQl9OCrd_A",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "105",
+                    "text": "- Medicamentos supresores medulares",
+                    "guid": "H2bNtkMJKtJym1h_Ppjn0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "105",
+                    "text": "- Trastornos medulares primarios",
+                    "guid": "cycZ1x3yV_M85n-4XtynsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "105",
+                    "text": "- Sangrado muy reciente",
+                    "guid": "MUNGLFFCjWcdbZmkYpMp-A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "110",
+                "parent": "104",
+                "text": "- Aumentado:",
+                "guid": "SVY0fEocBZV-f4AXNzONwA",
+                "children": [
+                  {
+                    "id": "111",
+                    "parent": "110",
+                    "text": "- Hemólisis",
+                    "guid": "AZLc_gfHPCxiBzh9PuJ3SQ",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "110",
+                    "text": "- Repleción de deficiencias",
+                    "guid": "AAZmrRqsgspT0U9LbrpB-w",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "110",
+                    "text": "- Recuperación de sangrado",
+                    "guid": "Pm3slHvoavI_-YOvBu-kAw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "114",
+            "parent": "93",
+            "text": "### Hemólisis",
+            "guid": "BgjkhX3CjSw_GoH_JW-yPA",
+            "children": [
+              {
+                "id": "115",
+                "parent": "114",
+                "text": "- Considerar con caída rápida de Hb + reticulocitos elevados",
+                "guid": "QMu3_zG12n5kCJoNM_LR1g",
+                "children": []
+              },
+              {
+                "id": "116",
+                "parent": "114",
+                "text": "- Esquisocitos sugieren destrucción mecánica",
+                "guid": "T6gycSDvGcYSz3mHAOt4ng",
+                "children": []
+              },
+              {
+                "id": "117",
+                "parent": "114",
+                "text": "- Esquisocitos + trombocitopenia → posible MAT",
+                "guid": "cjGnLTA9EytjfqKWO4fbqQ",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "114",
+                "text": "- Causas:",
+                "guid": "CognRBh_izI0zLVIEJELyg",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "- Hereditarias no inmunes",
+                    "guid": "elkYwGH-Iq5yu2lpe-v1vg",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "- Adquiridas no inmunes",
+                    "guid": "acVe2lTCoeY6zm0HacvFhw",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "118",
+                    "text": "- Adquiridas inmunomediadas",
+                    "guid": "b28ksQ6fvFJYhgeDLd0RRQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "parent": "0",
+        "text": "## EVALUACIÓN\nSEGÚN VCM",
+        "guid": "",
+        "children": [
+          {
+            "id": "123",
+            "parent": "122",
+            "text": "### Microcitosis\n(VCM bajo)",
+            "guid": "FkIYX3PnN0c2AL4GVw3QXg",
+            "children": [
+              {
+                "id": "124",
+                "parent": "123",
+                "text": "- Causas:",
+                "guid": "JZ0RxRoJWBMLAKI0dUVENg",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "- Deficiencia de hierro",
+                    "guid": "Ovhx2R3QG7t2MLzULSoZBg",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "- Talasemia",
+                    "guid": "Tg0u5lmvX2tosfSwSGZHpg",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "124",
+                    "text": "- Anemia de enfermedad crónica/inflamación",
+                    "guid": "O62CGVttXhlEUj1kJXLg8w",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "124",
+                    "text": "- Anemia sideroblástica",
+                    "guid": "MDAAAH8gqmsPPqZ7H58ksQ",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "124",
+                    "text": "- Intoxicación por plomo",
+                    "guid": "DcBmvWfErf5NfDX2GEiOAg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "130",
+                "parent": "123",
+                "text": "- Evaluación:",
+                "guid": "AEQ5MAJI6z4o2ZnMFoZRjw",
+                "children": [
+                  {
+                    "id": "131",
+                    "parent": "130",
+                    "text": "- Estudios de hierro en todos los pacientes",
+                    "guid": "djAihV7aV9JtlCHtG800Sg",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "130",
+                    "text": "- Pruebas de talasemia si estudios de hierro normales",
+                    "guid": "eOOv5XiUxCEREniAM9whvw",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "130",
+                    "text": "- Niveles de plomo si se observa punteado basófilo",
+                    "guid": "FmTf3AdDNVVhBjrFZHIOwg",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "130",
+                    "text": "- Examen medular para anemia sideroblástica",
+                    "guid": "YPKUwEm4L3Us2FZoHKAW2Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "122",
+            "text": "### Macrocitosis\n(VCM alto)",
+            "guid": "JSWNj3Eqk8xCEvfMVVWNjw",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "- Causas:",
+                "guid": "cEs-N1FRnkd09LJAfguk9Q",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "- Anemia megaloblástica (deficiencias B12, folato, cobre)",
+                    "guid": "ORZMRUJw6DYWVDL3OVqFdg",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "- Cambios en membrana (enfermedad hepática, alcohol)",
+                    "guid": "RLnTdD8tzMNP4NcFOun1-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "136",
+                    "text": "- Reticulocitosis",
+                    "guid": "HggklT10-PNWtypDFuvUeg",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "136",
+                    "text": "- Espuria (proteínas/inmunoglobulinas elevadas)",
+                    "guid": "Ngm9FGfJosNKx_Y5TG6c8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "141",
+                "parent": "135",
+                "text": "- Evaluación:",
+                "guid": "bwzYGCvOMP8w4KuzT_9s2A",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "- Niveles de vitamina B12 y folato",
+                    "guid": "dYZgdF25Ahxsn4OxGqvuAw",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "141",
+                    "text": "- TSH, evaluación de consumo de alcohol",
+                    "guid": "TuOV6C6ye35wAXuSPy7UIA",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "141",
+                    "text": "- Nivel de cobre si neutropenia/neuropatía",
+                    "guid": "AAQZxWT2LdI9OnkVORpmCw",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "141",
+                    "text": "- Revisión de frotis sanguíneo",
+                    "guid": "J2cWCFOOrAxydOuBbCDpfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "146",
+            "parent": "122",
+            "text": "### Normocítica\n(VCM normal)",
+            "guid": "Erx4z0JVwoYnCt91MMSdZA",
+            "children": [
+              {
+                "id": "147",
+                "parent": "146",
+                "text": "- Causas:",
+                "guid": "f8q7eX3CCbhHsHHeNdR4jg",
+                "children": [
+                  {
+                    "id": "148",
+                    "parent": "147",
+                    "text": "- Deficiencias nutricionales tempranas",
+                    "guid": "ZYusfBJ4aBgCQxV_VJiElA",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "147",
+                    "text": "- Múltiples causas combinadas",
+                    "guid": "PkaZFzMjwTIkl_FtM8z5iw",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "147",
+                    "text": "- ACD/AI, ERC, insuficiencia cardíaca",
+                    "guid": "ENzDThE3dR5OeOePX8BZNw",
+                    "children": []
+                  },
+                  {
+                    "id": "151",
+                    "parent": "147",
+                    "text": "- Deficiencias endocrinas",
+                    "guid": "P-nwnD56YyEe7y1XP-4KYg",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "147",
+                    "text": "- Anemia asociada a cáncer",
+                    "guid": "I3CQ9Fwppmx5CHBtStem_A",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "147",
+                    "text": "- Trastornos clonales hematopoyéticos",
+                    "guid": "L7hSeGt9W-42-JB5QnTLRw",
+                    "children": []
+                  },
+                  {
+                    "id": "154",
+                    "parent": "147",
+                    "text": "- Pérdida sanguínea temprana",
+                    "guid": "LdMedF4Db-5zOWirLZ3Z7g",
+                    "children": []
+                  },
+                  {
+                    "id": "155",
+                    "parent": "147",
+                    "text": "- Aplasia pura de células rojas",
+                    "guid": "W8V5pzrp2oljclJ8QVEmIw",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "147",
+                    "text": "- Anemia parcialmente tratada",
+                    "guid": "TWJCoWW1Z_sV6aq3C6jbuA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "157",
+                "parent": "146",
+                "text": "- Evaluación:",
+                "guid": "GNkpLTqBnCQ_ddVEKbXsfA",
+                "children": [
+                  {
+                    "id": "158",
+                    "parent": "157",
+                    "text": "- Recuento reticulocitario y panel bioquímico",
+                    "guid": "S7kRQw3uvNMJdkWzC6MB3w",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "157",
+                    "text": "- Estudios de hierro y pruebas de hemólisis",
+                    "guid": "TGkf9ChlcwpLkQxBb9mw6A",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "157",
+                    "text": "- Pruebas adicionales según edad y condiciones médicas",
+                    "guid": "BI8ZdkSZfK46sVflNEdr7g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "161",
+        "parent": "0",
+        "text": "## RESUMEN",
+        "guid": "",
+        "children": [
+          {
+            "id": "162",
+            "parent": "161",
+            "text": "- La anemia puede categorizarse según características clínicas, tamaño de GR o producción reticulocitaria",
+            "guid": "MBbYnHGp6F52vDc1Xen3EQ",
+            "children": []
+          },
+          {
+            "id": "163",
+            "parent": "161",
+            "text": "- La evaluación inicial debe incluir CBC, recuento reticulocitario y panel bioquímico",
+            "guid": "T61YTGn1n-ALh9D_K3LR8w",
+            "children": []
+          },
+          {
+            "id": "164",
+            "parent": "161",
+            "text": "- El VCM es útil para dirigir la evaluación diagnóstica",
+            "guid": "JN96aW76I3tsw_gWckG9Cw",
+            "children": []
+          },
+          {
+            "id": "165",
+            "parent": "161",
+            "text": "- La anemia microcítica sugiere defectos en síntesis de hemoglobina",
+            "guid": "VK-LdgKtos596pjDbYi0ow",
+            "children": []
+          },
+          {
+            "id": "166",
+            "parent": "161",
+            "text": "- La anemia macrocítica sugiere defectos en maduración nuclear",
+            "guid": "PS8-8j1gbgcXPqEfCOhQNQ",
+            "children": []
+          },
+          {
+            "id": "167",
+            "parent": "161",
+            "text": "- La anemia normocítica representa el mayor desafío diagnóstico con múltiples causas potenciales",
+            "guid": "S08q2iC05tIUi1IVF7hKzw",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 168,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "UTD - Enfoque Diagnóstico de Anemia en Adultos-2025",
+  "id": "map_1462",
+  "resolved_references": []
+}

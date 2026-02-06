@@ -1,0 +1,656 @@
+{
+  "title": "ERITROPOYESIS",
+  "guid": "0EAE88BD45E1EAD9403E8A4F",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/2. Eritropoyesis-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ERITROPOYESIS",
+    "guid": "ZdXeG3TP5ddQGq2dNHg7QQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## 1. INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Proceso de producción, proliferación y maduración de glóbulos rojos",
+            "guid": "O5P7rBFAnpYGgD9XPrJtcw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Forma parte de la hematopoyesis junto a leucopoyesis y trombopoyesis",
+            "guid": "ZeHbLzsdys9dy91eaUd_uQ",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Regulada finamente por citocinas, especialmente eritropoyetina (EPO)",
+            "guid": "Ujfmg10sSWo5Q0zabZgtEQ",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "- Ocurre en el microambiente hematopoyético (estroma medular)",
+            "guid": "AWVo00fVM-wDUl4_ZZd4zA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## 2. ERITROPOYESIS",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "### DESARROLLO\nEMBRIONARIO",
+            "guid": "T-SPyy-KsYgzD2QUNcZq-w",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "- Primera eritropoyesis: días 15-18 de vida embrionaria (saco vitelino - fase mesoblástica)",
+                "guid": "NDOS9kFx6loVSQw7Kw61Fw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "- Eritropoyesis definitiva: primero en hígado fetal, luego en médula ósea",
+                "guid": "UCBzF1sq9xRrTT9mNfZRMg",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "7",
+                "text": "- En recién nacido: huesos planos",
+                "guid": "T_rc6ztn7QNqboxzSBv0CA",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "7",
+                "text": "- En pubertad: esternón, vértebras, huesos ilíacos y costillas",
+                "guid": "OMj69D6j8TUpCnIwdFz2oQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "6",
+            "text": "### 2.1. ESTADIOS MADURATIVOS",
+            "guid": "aqh8VxDbQXIfDeq0POBi2g",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "- Producción: 2 millones de glóbulos rojos por segundo",
+                "guid": "bgeK3FhRN48qeI_rb2zzrw",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "12",
+                "text": "- Valores normales:",
+                "guid": "bzzYhGpNeLd_aLOJP11Lmw",
+                "children": [
+                  {
+                    "id": "15",
+                    "parent": "14",
+                    "text": "- Hombres: 4, 7-6,1 x 10⁶/µL",
+                    "guid": "ICZrey3K7ipVBGx8VFn-cg",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "14",
+                    "text": "- Mujeres: 4, 2-5,4 x 10⁶/µL",
+                    "guid": "RXhvy2q18u91U5zNFXNMtg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17",
+                "parent": "12",
+                "text": "#### FASES DE\nDIFERENCIACIÓN",
+                "guid": "Jh3f81_CKUBdj0C_Xuba5w",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "1. **Primera fase**: CMH → progenitor eritroide →\nprogenitor eritroide-megacariocítico → BFU-E → CFU-E",
+                    "guid": "HmYadgaZsu9TQ9GIbkqqQQ",
+                    "children": [
+                      {
+                        "id": "19",
+                        "parent": "18",
+                        "text": "- Participan\nfactores:",
+                        "guid": "NfDBv0mnYhYP8KFtJS2aQw",
+                        "children": [
+                          {
+                            "id": "20",
+                            "parent": "19",
+                            "text": "- De crecimiento: GM-CSF, SCF",
+                            "guid": "NiRkdwZTNZwkERU8IMzgzg",
+                            "children": []
+                          },
+                          {
+                            "id": "21",
+                            "parent": "19",
+                            "text": "- De transcripción: SCL/tol1, GATA1, GATA2, GATA3, KLF1",
+                            "guid": "Fy53DkMe__FdrUOpBTYB6w",
+                            "children": []
+                          },
+                          {
+                            "id": "22",
+                            "parent": "19",
+                            "text": "- miARN",
+                            "guid": "G3A3gAgl05R0ovWaO5ai-w",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23",
+                    "parent": "17",
+                    "text": "2. **Segunda fase**: Precursores nucleados → Proeritroblasto → Eritroblasto basófilo\n→ Eritroblasto policromático → Eritroblasto ortocromático",
+                    "guid": "M_TazQ9ZVPZkiuXfeW1KmA",
+                    "children": [
+                      {
+                        "id": "24",
+                        "parent": "23",
+                        "text": "- Caracterizada por:",
+                        "guid": "LYGF0ieoE-x1D4LfSPG9Ug",
+                        "children": [
+                          {
+                            "id": "25",
+                            "parent": "24",
+                            "text": "- Síntesis y acumulación de hemoglobina",
+                            "guid": "eg9H5lnegqwO4JdPIC0n2Q",
+                            "children": []
+                          },
+                          {
+                            "id": "26",
+                            "parent": "24",
+                            "text": "- Disminución del tamaño celular",
+                            "guid": "OaCr7Wxv2A5_FALAWAbGYw",
+                            "children": []
+                          },
+                          {
+                            "id": "27",
+                            "parent": "24",
+                            "text": "- Picnosis nuclear",
+                            "guid": "cwmK_VJX1ElGUXCkKS3vdQ",
+                            "children": []
+                          },
+                          {
+                            "id": "28",
+                            "parent": "24",
+                            "text": "- Exonucleación",
+                            "guid": "WKsJ5WpiheFJ-tBDb9mA9A",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "29",
+                    "parent": "17",
+                    "text": "3. **Fase final**:\nReticulocito → Eritrocito",
+                    "guid": "L83ngWmyeHkEiGBNZb6pQA",
+                    "children": [
+                      {
+                        "id": "30",
+                        "parent": "29",
+                        "text": "- Adquisición de forma bicóncava",
+                        "guid": "M1nakBR5AbsK7EODZ061XQ",
+                        "children": []
+                      },
+                      {
+                        "id": "31",
+                        "parent": "29",
+                        "text": "- Remodelación de membrana",
+                        "guid": "I9JWsW93KWJgu__2HeGelw",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "29",
+                        "text": "- Paso a circulación por poros endoteliales",
+                        "guid": "SVWsD2-cl0U-DsZwAvZX_A",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "29",
+                        "text": "- Vida media: 90-120 días",
+                        "guid": "XAxvUz0iyTFa_R5fTxX6UA",
+                        "children": []
+                      },
+                      {
+                        "id": "34",
+                        "parent": "29",
+                        "text": "- Eliminación por macrófagos del sistema reticuloendotelial",
+                        "guid": "D3qdeiFOjwN4Q-nFaCWnXw",
+                        "children": []
+                      },
+                      {
+                        "id": "35",
+                        "parent": "29",
+                        "text": "- A partir de 1 proeritroblasto se obtienen 16 eritrocitos",
+                        "guid": "C7EU5EI-uglX_yhTOTKatg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "parent": "12",
+                "text": "#### ISLAS ERITROIDES",
+                "guid": "aebN9U0OqzICJFgIGbS1dg",
+                "children": [
+                  {
+                    "id": "37",
+                    "parent": "36",
+                    "text": "- Lugares especializados en médula ósea roja",
+                    "guid": "NsEjrAasuFZ_c162ahr-PA",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "36",
+                    "text": "- Formadas por macrófagos rodeados de hasta 30 células eritroides",
+                    "guid": "GyW6EQpfojpRabOZPvgQwg",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "36",
+                    "text": "- Función:",
+                    "guid": "edbLnDIls49c2a9aQyx3qw",
+                    "children": [
+                      {
+                        "id": "40",
+                        "parent": "39",
+                        "text": "- Transferencia de hierro del macrófago al progenitor eritroide",
+                        "guid": "IcJK1BrodcpGIs-nfc66Jw",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "39",
+                        "text": "- Fagocitosis del núcleo expulsado por el eritroblasto ortocromático",
+                        "guid": "WAs--yEf7gZM5LR4Z4XcdQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "parent": "6",
+            "text": "### 2.2. REGULACIÓN DE\nLA ERITROPOYESIS",
+            "guid": "Qm59CkUonj1Pq4PVTh-R7g",
+            "children": [
+              {
+                "id": "43",
+                "parent": "42",
+                "text": "#### ERITROPOYETINA\n(EPO)",
+                "guid": "B2dYRieqrCgHUiylcU4mPA",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "- Principal regulador de eritropoyesis",
+                    "guid": "dLlXWwl2hK0LAtuyK3p7Bw",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "- Promueve sobrevida, proliferación y diferenciación de progenitores eritroides",
+                    "guid": "ECM9Awp2OmkVlXlDK0j3FA",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "43",
+                    "text": "- Producida en células endoteliales de capilares peritubulares renales",
+                    "guid": "FNXco2b_LNxqQQfXDqyoPw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "43",
+                    "text": "- Acción dirigida principalmente a CFU-E y proeritroblastos",
+                    "guid": "GSTgbEcatzFR2R_rOucrQA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48",
+                "parent": "42",
+                "text": "#### CONTROL POR\nPRESIÓN DE OXÍGENO",
+                "guid": "SA974ATgcmMa75lXEtKz_Q",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "- Estimulación de EPO:",
+                    "guid": "YgMs-xf775I4teVoOg5r9w",
+                    "children": [
+                      {
+                        "id": "50",
+                        "parent": "49",
+                        "text": "- Hipoxia",
+                        "guid": "ORvdmQWameAhlEhse4paow",
+                        "children": []
+                      },
+                      {
+                        "id": "51",
+                        "parent": "49",
+                        "text": "- Anemia",
+                        "guid": "SsM4HXE_zEFJqeyRUiqQZA",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "49",
+                        "text": "- Isquemia renal",
+                        "guid": "GOp4alD8GTZDeLagDaPPxQ",
+                        "children": []
+                      },
+                      {
+                        "id": "53",
+                        "parent": "49",
+                        "text": "- Altitud > 3000 metros",
+                        "guid": "WnKd5E57klI5HkrMapXa5w",
+                        "children": []
+                      },
+                      {
+                        "id": "54",
+                        "parent": "49",
+                        "text": "- Enfermedad pulmonar",
+                        "guid": "WPHMu06zxA8V3tH8bcepXg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "55",
+                    "parent": "48",
+                    "text": "- Inhibición de EPO:",
+                    "guid": "NbLw6wAf2dN8dFGeTtfRVw",
+                    "children": [
+                      {
+                        "id": "56",
+                        "parent": "55",
+                        "text": "- Hipotiroidismo",
+                        "guid": "RzqRBE5NcYkJvvyYKT29_w",
+                        "children": []
+                      },
+                      {
+                        "id": "57",
+                        "parent": "55",
+                        "text": "- Hipopituitarismo",
+                        "guid": "ZklhG0J04gBjTCn2H2U-tA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "58",
+                "parent": "42",
+                "text": "#### MECANISMO DE ACCIÓN",
+                "guid": "diA-pGSZhelk_URhDwq3Dg",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "1. **Activación\npor hipoxia**:",
+                    "guid": "CGzGlTLKVIkBFRK9brYnsA",
+                    "children": [
+                      {
+                        "id": "60",
+                        "parent": "59",
+                        "text": "- Factor inducible por hipoxia (HIF-1)",
+                        "guid": "NZWfHyh1-wEcrobTEAg9Aw",
+                        "children": []
+                      },
+                      {
+                        "id": "61",
+                        "parent": "59",
+                        "text": "- Se une al elemento de respuesta a hipoxia (HRE)",
+                        "guid": "dvGNVFXM0Z96nhfrT-NaDw",
+                        "children": []
+                      },
+                      {
+                        "id": "62",
+                        "parent": "59",
+                        "text": "- En normoxia: HIF-1α es degradado",
+                        "guid": "JICVrhB86ec9qwNuWjOGmg",
+                        "children": []
+                      },
+                      {
+                        "id": "63",
+                        "parent": "59",
+                        "text": "- En hipoxia: HIF-1α aumenta, se une a HIF-β y activan transcripción de EPO",
+                        "guid": "EJzDujofVQwpC1fxV9dUvg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64",
+                    "parent": "58",
+                    "text": "2. **Vía de\nseñalización**:",
+                    "guid": "YOf9PU3gebMkaY0tBWiS6w",
+                    "children": [
+                      {
+                        "id": "65",
+                        "parent": "64",
+                        "text": "- EPO se une a receptor (R-EPO)",
+                        "guid": "dT82iWRhPLQOG2ZlPU6yaQ",
+                        "children": []
+                      },
+                      {
+                        "id": "66",
+                        "parent": "64",
+                        "text": "- Activación de JAK2",
+                        "guid": "aUGvFykK_7xQIWZnX2Htuw",
+                        "children": []
+                      },
+                      {
+                        "id": "67",
+                        "parent": "64",
+                        "text": "- Fosforilación de STAT5",
+                        "guid": "DaSFpTUeqshubKTKQzokxQ",
+                        "children": []
+                      },
+                      {
+                        "id": "68",
+                        "parent": "64",
+                        "text": "- STAT5 entra al núcleo y activa genes para desarrollo eritroide",
+                        "guid": "XZSlygsbK51TQmHIVIYzHg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "69",
+                "parent": "42",
+                "text": "#### OTROS\nREGULADORES",
+                "guid": "Xl1jmmIUkJtfnBmFbvonVA",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "- **Hormonales**:",
+                    "guid": "Sn06Dj4hFVp062hWWCG_tA",
+                    "children": [
+                      {
+                        "id": "71",
+                        "parent": "70",
+                        "text": "- Hormona tiroidea",
+                        "guid": "HDPlpwincXdG0XwSJKCsPA",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "70",
+                        "text": "- Andrógenos (aumentan hierro por supresión de hepcidina)",
+                        "guid": "O3HGAEfmjtATVtPtMLD8ig",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "70",
+                        "text": "- Corticoides",
+                        "guid": "LEfLhCFyOlJt_67zFYl6mw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "74",
+                    "parent": "69",
+                    "text": "- **Nutricionales**:",
+                    "guid": "K9i21DRf4mwJ1krkSAycew",
+                    "children": [
+                      {
+                        "id": "75",
+                        "parent": "74",
+                        "text": "- Vitamina B12 (cianocobalamina)",
+                        "guid": "cz_AI2NYDSAbW-R5UNRl7Q",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "74",
+                        "text": "- Vitamina B9 (ácido fólico)",
+                        "guid": "bnM4vm6eRkElWpkLT1s1-w",
+                        "children": []
+                      },
+                      {
+                        "id": "77",
+                        "parent": "74",
+                        "text": "- Hierro",
+                        "guid": "PH6_9UnEJjhUw8jmGtwjjw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "78",
+                    "parent": "69",
+                    "text": "- **Inhibidores**:",
+                    "guid": "VUrau09LBDxEFVC5SIqa3g",
+                    "children": [
+                      {
+                        "id": "79",
+                        "parent": "78",
+                        "text": "- Desnutrición",
+                        "guid": "PQdT41CnxvZsrUi4eHkZ4w",
+                        "children": []
+                      },
+                      {
+                        "id": "80",
+                        "parent": "78",
+                        "text": "- Hipoproteinemia",
+                        "guid": "GI5VxgAEHKUpKhZtRNYhSg",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "78",
+                        "text": "- Citoquinas inflamatorias (IL-6, TNF)",
+                        "guid": "IXZW9xcpxWFaX5vla_ORBQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "82",
+                "parent": "42",
+                "text": "####\nREGULACIÓN\nGENÉTICA",
+                "guid": "aRR4u1g_r5xdTOfkCorPsg",
+                "children": [
+                  {
+                    "id": "83",
+                    "parent": "82",
+                    "text": "- Proteína GATA-1: principal regulador de diferenciación y sobrevida",
+                    "guid": "MqMRXF9xNTIZXwDLIRZKGg",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "82",
+                    "text": "- Estimula genes para síntesis de HEM y globinas",
+                    "guid": "Tg97dD65mdZwcYAVCo47aQ",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "82",
+                    "text": "- Regula expresión del R-EPO",
+                    "guid": "CH3AD0U1SPwlal74NFZ24w",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "82",
+                    "text": "- Controla diferenciación de progenitores eritroides",
+                    "guid": "eZUraC9Aqdx8YxNeNpx_Sw",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "82",
+                    "text": "- Regula proliferación de CMH",
+                    "guid": "f-hw02kQXBYvFZkuGHbGmQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 88,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "2. Eritropoyesis-2025-1",
+  "id": "map_1444",
+  "resolved_references": []
+}

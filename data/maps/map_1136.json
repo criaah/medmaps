@@ -1,0 +1,588 @@
+{
+  "title": "ENFERMEDADES DE CÉLULAS FALCIFORMES Y OTRAS HEMOGLOBINOPATÍAS",
+  "guid": "4F6557F73F0C5F8A58C7FDD1",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Cardiología/Williams. ENFERMEDADES DE CÉLULAS FALCIFORMES Y OTRAS HEMOGLOBINOPATÍAS-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ENFERMEDADES DE CÉLULAS FALCIFORMES\nY OTRAS HEMOGLOBINOPATÍAS",
+    "guid": "cHAqOgMRZmMMpCM9IGNNGQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## DEFINICIONES",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Hemoglobinopatías: sustituciones de nucleótido único en cadenas α, β, γ o δ",
+            "guid": "PNi4_16qfm8j9D1rTyaMxw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Variantes de Hb: designadas con letras o lugares donde se encontraron",
+            "guid": "BCyO20OdQtQaKtSTe--A7Q",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Trastorno de células falciformes: estados donde ocurre adopción de forma falciforme durante desoxigenación",
+            "guid": "QRN1iGIEzccyof7tFQmQrg",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "- Enfermedades de células falciformes (ECF): causan morbilidad (HbSS, HbSC, HbS-β-talasemia, HbSD)",
+            "guid": "eK-riC8SgEp1yOk8JVeiYA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## ETIOLOGÍA Y\nPATOGENIA",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "- Polimerización de\nhemoglobina",
+            "guid": "",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "- Mutación HbS: sustitución ácido glutámico → valina en posición 6 de cadena β",
+                "guid": "fnfYQjTVSMZ-H6AxbugCfA",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "- Moléculas desoxiHbS forman polímeros → eritrocitos menos deformables y adherentes",
+                "guid": "N-avKQrDw24PS0-VRVLZaA",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "7",
+                "text": "- Ciclos repetidos → células falciformes irreversibles → aumento viscosidad y estasis vascular",
+                "guid": "C7CdkBV3pZ8V2xn3YloyUQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "parent": "6",
+            "text": "- Factores que influyen en\nadopción de forma falciforme",
+            "guid": "",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "- Concentración intracelular de Hb (MCHC)",
+                "guid": "YkMVAW6CH-MYtrF6HxvOAA",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "11",
+                "text": "- Presencia de otras Hb (HbF protectora)",
+                "guid": "TSyeUjyq7uVuQlrIUVktLQ",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "11",
+                "text": "- Tensión de oxígeno, pH, temperatura",
+                "guid": "AEgxuQhtL1tNSK4bQVunQg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "parent": "6",
+            "text": "- Otras vías\npatogénicas",
+            "guid": "QR_9RRQYDHx_Z36NI2MSRg",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "- Óxido nítrico: hemólisis libera Hb → captación NO → disfunción endotelial",
+                "guid": "anH9I3_qrQhWZTfwYyGoqw",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "15",
+                "text": "- Activación inflamatoria: mediadores proinflamatorios → adhesión → vasooclusión",
+                "guid": "Lv0tU0wuISwIeUsLLXUFlQ",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "15",
+                "text": "- Coagulación activada, isquemia-reperfusión, alteración homeostasis catiónica",
+                "guid": "AQNp8waY6z0cXQgROOoZHA",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "15",
+                "text": "- Señalización anormal por adenosina",
+                "guid": "EVyuqyuoV6Z-PPKEHQ1MOw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "parent": "0",
+        "text": "##\nMANIFESTACIONES\nCLÍNICAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "21",
+            "parent": "20",
+            "text": "- Crisis",
+            "guid": "",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "- Vasooclusivas/dolorosas: más comunes, frecuencia variable, dolor por hipoxia e infarto",
+                "guid": "AposXxgeMAdCfuBGT8bKsQ",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "21",
+                "text": "- Aplásicas: supresión eritropoyesis (parvovirus B19, deficiencia folato)",
+                "guid": "VMke7TDBOw4hH_feVRFQpg",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "21",
+                "text": "- Secuestro esplénico: acumulación masiva de eritrocitos en bazo",
+                "guid": "OS5qam5opfkWbPfoI6BnjQ",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "21",
+                "text": "- Hiperhemolíticas: hemólisis aumentada",
+                "guid": "blNTAmzSL9kGwhA4HVCAVQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "20",
+            "text": "- Sistema\ncardiopulmonar",
+            "guid": "BULTFUOlv_V3TfUsB9z_dA",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "- Síndrome tórax agudo: fiebre, leucocitosis, infiltrado nuevo (principal causa de mortalidad)",
+                "guid": "OQBRBQ87W0RKxYXqOgO6-A",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "- Hipertensión pulmonar crónica: riesgo aumentado de mortalidad",
+                "guid": "FdRGgWcijfty7dQVJzD1LA",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "26",
+                "text": "- Taquicardia, soplos cardiacos",
+                "guid": "EsrloXEqxplEPkFoU-ri5g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "parent": "20",
+            "text": "- Sistema\nnervioso central",
+            "guid": "ao4QgXjDwgQFnl-QI7x66w",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "- Apoplejías trombóticas: mayor riesgo en niños, recurrentes",
+                "guid": "W8Pv_DnM1XJXo8olMI0O6Q",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "30",
+                "text": "- Velocidad alta en Doppler transcraneal: predictor de riesgo",
+                "guid": "Zyxn_RwLV3hHXOJ4VX-6_w",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "30",
+                "text": "- Infartos cerebrales silenciosos, declinación neurocognitiva",
+                "guid": "CN2HUU4e8rBy0DtUQd3YVw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "parent": "20",
+            "text": "- Sistema\ngenitourinario",
+            "guid": "XVpN9D2VwT574ZNPcy6UdQ",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "- Hipostenuria, necrosis papilar, hematuria",
+                "guid": "JLhPOW7PZ2QaX4miN4M02g",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "34",
+                "text": "- Microalbuminuria, proteinuria, enfermedad renal crónica",
+                "guid": "X_ot_l6dywoLbhfAZT0BEw",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "34",
+                "text": "- Priapismo, enuresis nocturna",
+                "guid": "IkOK_wK8DOxtGgCIfgd6-w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "20",
+            "text": "- Sistema\nmusculoesquelético",
+            "guid": "",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "- Retraso crecimiento y pubertad",
+                "guid": "PIjiX0S9yq0ulInlJxby4A",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "- Infartos óseos, dactilitis, necrosis avascular",
+                "guid": "PYGMsTQy6XVK023LJK30rw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "20",
+            "text": "- Otras\nmanifestaciones",
+            "guid": "UD5A7RIwUEN6La-uWRvIPw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "- Bazo: esplenomegalia → autoesplenectomía (HbSS)",
+                "guid": "YE9C82z96wMa-aCWPamQ6A",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "- Hígado: disfunción, cálculos biliares",
+                "guid": "KpOsQRbbM-Uw2CVdT0v7ew",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "41",
+                "text": "- Ojo: retinopatía proliferativa",
+                "guid": "BaqbSks3rv8GzzBVZaTJSA",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "41",
+                "text": "- Úlceras en piernas",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "41",
+                "text": "- Embarazo: riesgo aumentado para madre y feto",
+                "guid": "KdV6CRI9SBZK4cpbTBkFCA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "## DATOS DE\nLABORATORIO",
+        "guid": "",
+        "children": [
+          {
+            "id": "48",
+            "parent": "47",
+            "text": "- Anemia: Hb 50-110 g/L en HbSS, normocrómica/normocítica",
+            "guid": "FPlVAjf7yuNKIIAEUYI3YQ",
+            "children": []
+          },
+          {
+            "id": "49",
+            "parent": "47",
+            "text": "- Células falciformes y en diana en frotis, reticulocitosis",
+            "guid": "fLmVkXi1Cel4mSpBOjsiQg",
+            "children": []
+          },
+          {
+            "id": "50",
+            "parent": "47",
+            "text": "- Leucocitosis, trombocitosis (médula reactiva y asplenia)",
+            "guid": "LOfzXkNsmAxe6RbxfSY0Sw",
+            "children": []
+          },
+          {
+            "id": "51",
+            "parent": "47",
+            "text": "- Electroforesis: detecta HbS, HbA2 y HbF aumentadas",
+            "guid": "VZzoT1kWxqBWQfyKNewrQw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "## TRATAMIENTO",
+        "guid": "",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "- Medidas\ninespecíficas",
+            "guid": "RhSxo3E7nSBzlbwrcKhd5A",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "- Ácido fólico, vacunación antineumocócica",
+                "guid": "CBbRBiRt4Yg_9FlfDcFsUA",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "- Profilaxis con penicilina hasta 5 años",
+                "guid": "b6WQiEbDibVzZjWYGXsKkQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "52",
+            "text": "- Medidas\nespecíficas",
+            "guid": "WQDRyz5H__NllA-abfomzQ",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "- Hidroxiurea: 15-35 mg/kg/día, reduce crisis, aumenta HbF",
+                "guid": "dkPK1y-0j54_fF4vcv1gaA",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "- Trasplante de células madre: curativo en pacientes seleccionados",
+                "guid": "KGmZhzgViHAtOIKqVVGM5Q",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "- Terapia génica: experimental, promisoria",
+                "guid": "e4IgfQwhmZxSd8EwUR8IzA",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "56",
+                "text": "- Transfusión: aumenta Hb, disminuye proporción células falciformes",
+                "guid": "ZThgPCi5vbsHCzQPK00R3w",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "56",
+                "text": "- Nuevos fármacos: L-glutamina, crizanlizumab",
+                "guid": "GfVa23qg8Dob9W_DIgwr4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "parent": "52",
+            "text": "- Manejo de\ncomplicaciones",
+            "guid": "",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "- Crisis vasooclusivas: hidratación, analgesia, temperatura adecuada",
+                "guid": "Hw7Rw1vpySMvzZgxDrRiSw",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "62",
+                "text": "- Síndrome tórax agudo: transfusiones, antibióticos, broncodilatadores",
+                "guid": "Iq1S2CMzzckoL2zce64kow",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "62",
+                "text": "- Accidentes cerebrovasculares: programa transfusión crónica",
+                "guid": "YXvNvQ3DfHZpqEtwV7-YlA",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "62",
+                "text": "- Priapismo: hidratación, transfusión, epinefrina intracavernosa",
+                "guid": "PXgMFCkkqZ9KvPj8ZeGlmw",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "62",
+                "text": "- Sobrecarga hierro: quelantes (deferasirox, desferrioxamina)",
+                "guid": "YToyEHf1e6Y7MzKAXLxSjQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "parent": "0",
+        "text": "## OTRAS\nHEMOGLOBINOPATÍAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "69",
+            "parent": "68",
+            "text": "- Hemoglobina C\n(HbC)",
+            "guid": "BBcVQg2q87Et21tZaU91fg",
+            "children": [
+              {
+                "id": "70",
+                "parent": "69",
+                "text": "- Sustitución ácido glutámico → lisina en posición 6 cadena β",
+                "guid": "NmSxbDTmj2kUnIddUFoMRw",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "69",
+                "text": "- Estado homocigótico: anemia hemolítica leve, esplenomegalia",
+                "guid": "L4d_ozCR9yFyZjgpTpZRZg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "68",
+            "text": "- Hemoglobina D\n(HbD)",
+            "guid": "PaQsz0lf_XE2l060Ht5e3w",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "- Migra como HbS en electroforesis, solubilidad normal",
+                "guid": "DHvARCIz0FpdSrOxLykTHA",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "- Estados heterocigoto y homocigoto: asintomáticos",
+                "guid": "RWeeJAV6II4q1ze_JuNr4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "68",
+            "text": "- Hemoglobina E\n(HbE)",
+            "guid": "QVV5F3HKgTV7mrFsRWyOWg",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "- Común en sudeste asiático",
+                "guid": "Ez2dBBR_gy9-owR1ULWpGQ",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "- Rasgo: asintomático con microcitosis leve",
+                "guid": "f3V05il2DMUuvAPYNdomUg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "75",
+                "text": "- Con β-talasemia: anemia y esplenomegalia moderadas",
+                "guid": "XlycLkNYizYGNDKZDeQb0g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 79,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Cardiología",
+  "filename": "Williams. ENFERMEDADES DE CÉLULAS FALCIFORMES Y OTRAS HEMOGLOBINOPATÍAS-2025-1",
+  "id": "map_1136",
+  "resolved_references": []
+}

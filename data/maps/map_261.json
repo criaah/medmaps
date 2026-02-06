@@ -1,0 +1,2767 @@
+{
+  "title": "TRASTORNOS DE LA CALCEMIA",
+  "guid": "31F3E60D393DE2A9568BF2E8",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Psiquiatría/Arteaga | TRASTORNOS DE LA CALCEMIA-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "TRASTORNOS DE\nLA CALCEMIA",
+    "guid": "IvTn0jRb3uoUj7KGaFxiAw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Ca PLASMÁTICO →\nDISTRIBUCIÓN NORMAL:",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Ca iónico/biológicamente activo: 50%",
+            "guid": "UkeFlgS9Q-xEdZ03IaLw0Q",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Unido a proteínas: 40%",
+            "guid": "fXoPVFdUWcYPFug7Uv5FPQ",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Unido a aniones: 10%",
+            "guid": "U6os9RMuye5_iN-nHC0Uqg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "CALCEMIA\nCORREGIDA:",
+        "guid": "",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "→ Fórmula: mg/dL = calcemia medida + 0,8 x (4 - albuminemia) (1)",
+            "guid": "ZY38qDmkCRIini7KYzJkyg",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "5",
+            "text": "→ Usar solo en hipoalbuminemia",
+            "guid": "JPznOhsG56kv7a24JuBm5A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "FACTORES\nINTERFERENCIA\nMEDICIÓN:",
+        "guid": "",
+        "children": [
+          {
+            "id": "9",
+            "parent": "8",
+            "text": "- Hiperlipemia",
+            "guid": "AEIHq072VBVy_57rcBLftg",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "8",
+            "text": "- Hemólisis",
+            "guid": "P9X04VzcucxUdgGTQl0_MQ",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "8",
+            "text": "- Estasis venoso (lactato)",
+            "guid": "AY8_yzL1Wq9y__MTBfltVA",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "8",
+            "text": "- Anticoagulantes (heparina)",
+            "guid": "FVaJ1QRH5X0ha_pQYLJpzw",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "8",
+            "text": "- Gadolinio:",
+            "guid": "ZwuzbUamxKcoDWDrZ027GA",
+            "children": [
+              {
+                "id": "14",
+                "parent": "13",
+                "text": "* ↑ valores hasta 6 mg/dL (24h post-RM)",
+                "guid": "OY9bWjrJ644jAyoSDTmIUA",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "13",
+                "text": "* Reversible → excreción urinaria",
+                "guid": "Tfi1fCKMCbopZpz6M4ayJA",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "13",
+                "text": "* Excepto: IR (2,3)",
+                "guid": "XDASzEwEy8QWuRbuASz6Bg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "parent": "0",
+        "text": "INDICACIONES\nMEDICIÓN Ca IÓNICO:",
+        "guid": "",
+        "children": [
+          {
+            "id": "18",
+            "parent": "17",
+            "text": "- UCI",
+            "guid": "FZ0YvBsM_9ZXYJrOVXMNnQ",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "17",
+            "text": "- Hemodiálisis",
+            "guid": "d-m5oivWnGEX0EzOeXj5bQ",
+            "children": []
+          },
+          {
+            "id": "20",
+            "parent": "17",
+            "text": "- Circulación extracorpórea",
+            "guid": "Xsv3EArQP-F_cmbBdCKA5Q",
+            "children": []
+          },
+          {
+            "id": "21",
+            "parent": "17",
+            "text": "- Transfusiones repetitivas",
+            "guid": "DxglXiDeYRJU1Oq0SKeAuQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "parent": "0",
+        "text": "HIPERCALCEMIA:",
+        "guid": "",
+        "children": [
+          {
+            "id": "23",
+            "parent": "22",
+            "text": "→ Definición:",
+            "guid": "NR5Brh_pUxolxeX_AZOg9A",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "* Ca total > 10,5 mg/dL",
+                "guid": "PTykC2jldPwpICLwQjdI8Q",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "23",
+                "text": "* Ca iónico > 5,2 mg/dL",
+                "guid": "GSqEtA98xsYn2hYsWngdtg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "22",
+            "text": "→ Epidemiología:",
+            "guid": "JXDCeTjSZpoPgXTGRvqf4w",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "* Población general: 1/1.000",
+                "guid": "EyUzVCaG7mt_rgyGEnD17g",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "* Hospitalizados: 0,5-1%",
+                "guid": "XL_T83n-1OQ7YvRUC1uEpw",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "26",
+                "text": "- ♀ > ♂ en HPT 1° (3,1)",
+                "guid": "Kce5pz0dzN49eTo5XuX7VQ",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "26",
+                "text": "- ↑ incidencia con edad",
+                "guid": "XQcf-GM_IDhgeZxKGkPEAw",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "26",
+                "text": "- 90% casos → HPT 1° (ambulatorios) + hipercalcemia tumoral (hospitalizados)",
+                "guid": "TCSVNQmZvzpcewz0ZU8Z6Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "parent": "22",
+            "text": "CLASIFICACIÓN:",
+            "guid": "edhlVED7klBMpmwtVGrO1g",
+            "children": [
+              {
+                "id": "33",
+                "parent": "32",
+                "text": "1. DEPENDIENTE PTH:",
+                "guid": "GRaGAQRVIyE_xzefPodIeg",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "→ HPT 1°",
+                    "guid": "PSeJu09IrGYFgehdUEy9Dw",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "33",
+                    "text": "→ HPT familiar:",
+                    "guid": "dc-a0QUv9ORivbL9Uo9uxA",
+                    "children": [
+                      {
+                        "id": "36",
+                        "parent": "35",
+                        "text": "* NEM I y IIA",
+                        "guid": "fy7JyB4gp1Fd6vNsdCE-dA",
+                        "children": []
+                      },
+                      {
+                        "id": "37",
+                        "parent": "35",
+                        "text": "* Hipercalcemia hipocalciúrica familiar",
+                        "guid": "cYN1ryJagDhxnYaCG0svVw",
+                        "children": []
+                      },
+                      {
+                        "id": "38",
+                        "parent": "35",
+                        "text": "* HPT familiar aislado",
+                        "guid": "X3hNFy8WwLt6MSqsPH9tDw",
+                        "children": []
+                      },
+                      {
+                        "id": "39",
+                        "parent": "35",
+                        "text": "* HPT + tumor mandibular",
+                        "guid": "ElXg9FqqxvZWwzETXnp2KQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "40",
+                    "parent": "33",
+                    "text": "→ HPT terciario",
+                    "guid": "ZESGMTM-PgdDyZASfVsMMg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41",
+                "parent": "32",
+                "text": "2. INDEPENDIENTE\nPTH:",
+                "guid": "N5NhKAOQx7I74lSsdLrq4w",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "→ Tumoral:",
+                    "guid": "Utl0GEFkPQpFB6fySKkO6Q",
+                    "children": [
+                      {
+                        "id": "43",
+                        "parent": "42",
+                        "text": "* Péptido PTH-rP",
+                        "guid": "RpQx7ifFWu8bOH2uRcL7tg",
+                        "children": []
+                      },
+                      {
+                        "id": "44",
+                        "parent": "42",
+                        "text": "* Metástasis óseas líticas",
+                        "guid": "ReYCQHkjcRo55DoqN2l38A",
+                        "children": []
+                      },
+                      {
+                        "id": "45",
+                        "parent": "42",
+                        "text": "* Activación 1α-hidroxilasa",
+                        "guid": "G33xUiuBwKxStKdHevY-aQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "46",
+                    "parent": "41",
+                    "text": "→ Mediada vitamina D:",
+                    "guid": "WpiBZ0zl0fM3dat5bO5iWw",
+                    "children": [
+                      {
+                        "id": "47",
+                        "parent": "46",
+                        "text": "* Granulomatosis",
+                        "guid": "J5CY6g443IxLaNiEC9UfGw",
+                        "children": []
+                      },
+                      {
+                        "id": "48",
+                        "parent": "46",
+                        "text": "* Intoxicación vit D",
+                        "guid": "QXcakw8yaJcJMCtNeQp7vA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "49",
+                    "parent": "41",
+                    "text": "→ Fármacos:",
+                    "guid": "EsMwSUUSf_ltxWafZZykYQ",
+                    "children": [
+                      {
+                        "id": "50",
+                        "parent": "49",
+                        "text": "* Tiazidas",
+                        "guid": "Bna9AzLNDpIuRbNKTQru8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "51",
+                        "parent": "49",
+                        "text": "* Litio",
+                        "guid": "WpJpgUl-MPgSzeqnIHhrwg",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "49",
+                        "text": "* Intoxicación vit A",
+                        "guid": "QqGiEkyyJNFX4eOyXh-TZQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "53",
+                    "parent": "41",
+                    "text": "→ Miscelánea:",
+                    "guid": "eDPlfSqWivlZFdHOUsxm5Q",
+                    "children": [
+                      {
+                        "id": "54",
+                        "parent": "53",
+                        "text": "* Inmovilización",
+                        "guid": "d3xc7BCLfUc_uslAHwz11g",
+                        "children": []
+                      },
+                      {
+                        "id": "55",
+                        "parent": "53",
+                        "text": "* Nutrición parenteral",
+                        "guid": "HsRZ0wsjocUq4hTxYDt0Zw",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "53",
+                        "text": "* Hipertiroidismo",
+                        "guid": "GlYKXDQSQD5ZRfAjLRk6pQ",
+                        "children": []
+                      },
+                      {
+                        "id": "57",
+                        "parent": "53",
+                        "text": "* Infrecuentes (4)",
+                        "guid": "eSTAOEcLVsIStd8Gf5t9Ow",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "parent": "22",
+            "text": "CLASIFICACIÓN HIPERCALCEMIA\nINDEPENDIENTE PTH:",
+            "guid": "CnnDSV90VtR04zqYTRtlWw",
+            "children": [
+              {
+                "id": "59",
+                "parent": "58",
+                "text": "1. Humoral (80%):",
+                "guid": "LCZ7pkzFHkorOvjAJFphIw",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "- Sin metástasis",
+                    "guid": "d1upQwRQyo93JsgIbtgGLw",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "- PTHrP",
+                    "guid": "FNxH1jbhkUkN5PwGM6Chqg",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "- Ca: pulmón, mama, renal, ovario",
+                    "guid": "QgUzDjjHEPcT3BYRXFs9ag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63",
+                "parent": "58",
+                "text": "2. Osteolítica (20%):",
+                "guid": "bNlRNm0iBjQJdHgPZf4Rbg",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "- Con metástasis",
+                    "guid": "NC1c9hwqVxVlmY6pLgXCSw",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "- Citoquinas",
+                    "guid": "XSXpZTI_-tYCcJEhZ5-srg",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "- Ca: mieloma, mama",
+                    "guid": "EbRRq3dTy7k0uxIKPdrNUQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "58",
+                "text": "3. Vit D ectópica (<1%):",
+                "guid": "RBjqA1_2CspiNS50O3STRg",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "- Variable",
+                    "guid": "ZEbVWVlb9n0qTJl1eSMdMA",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "- 1,25 OH2D3",
+                    "guid": "ED2HxjgxlXssw77aUkK61A",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "67",
+                    "text": "- Linfomas",
+                    "guid": "cPimc0Cf1Osunfg-XdH3qQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71",
+                "parent": "58",
+                "text": "4. HPT ectópico (0,1%):",
+                "guid": "LcHbHzgScE1D0AkXYe84FQ",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "- Variable",
+                    "guid": "VDzHYilpl8AP9PpgMWKwxw",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "71",
+                    "text": "- PTH",
+                    "guid": "W6mSlxJli4EZAl12bV3kQg",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "71",
+                    "text": "- Casos aislados",
+                    "guid": "CblXOk29b4ArOLGTTdJBPQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "22",
+            "text": "ESTUDIO\nHIPERCALCEMIA",
+            "guid": "T1trOni8y2gS3ryObXP3ag",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "EVALUACIÓN INICIAL:",
+                "guid": "LbN6Sg1t4AcJRtSDEfpPpA",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "1. Cuadro clínico",
+                    "guid": "ZsnWhDOTbfkLHWzUdwdeSg",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "2. Medicamentos",
+                    "guid": "a8UDdDfhK65JShkeXL2p5w",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "76",
+                    "text": "3. Etiologías posibles",
+                    "guid": "eIEAmXfoEVw6j6GQJkLbuA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80",
+                "parent": "75",
+                "text": "ESTUDIO BÁSICO:",
+                "guid": "L_qBqX5fqqcIMhPNBDdJCw",
+                "children": [
+                  {
+                    "id": "81",
+                    "parent": "80",
+                    "text": "→ Confirmar\nhipercalcemia:",
+                    "guid": "J8lCaBgnDi41mfnTA3LU_w",
+                    "children": [
+                      {
+                        "id": "82",
+                        "parent": "81",
+                        "text": "- Ca plasmático (total/iónico)",
+                        "guid": "KoyZr06cV0lw0LlBNEXw6g",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "81",
+                        "text": "- Albuminemia",
+                        "guid": "HFnGyRwJatQCGDInSg1BEw",
+                        "children": []
+                      },
+                      {
+                        "id": "84",
+                        "parent": "81",
+                        "text": "- Creatininemia",
+                        "guid": "KXdK2wtfBqtcB5C3EEEhYA",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "81",
+                        "text": "- PTH",
+                        "guid": "PvJ0pGck_YsHSH-qKrd4GA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "86",
+                    "parent": "80",
+                    "text": "→ Casos seleccionados:\nvit D",
+                    "guid": "HwYpOVCSmMkHdSIAF4cp0g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87",
+                "parent": "75",
+                "text": "SI PTH ↑ O NORMAL +\nHIPERCALCEMIA:",
+                "guid": "SHqqJUIEw5A9ygWKeHUrzw",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "→ Medir:",
+                    "guid": "QGRuOEX8GVh8rHTaaC2woA",
+                    "children": [
+                      {
+                        "id": "89",
+                        "parent": "88",
+                        "text": "- Ca sangre/orina 24h",
+                        "guid": "XiMnhjJGbq1roIWfCK_BNQ",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "88",
+                        "text": "- Creatinina sangre/orina 24h",
+                        "guid": "AOLF9lxxPuA89bIfHTyMvw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "parent": "87",
+                    "text": "→ Calcular: clearance Ca/clearance creatinina",
+                    "guid": "eHqptD8N5EdnSc3TIfH0jw",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "87",
+                    "text": "→ Calciuria 24h:",
+                    "guid": "MlWPVXBkPyNTX3puefXcfA",
+                    "children": [
+                      {
+                        "id": "93",
+                        "parent": "92",
+                        "text": "* Normal/baja → estudio\ncausas no frecuentes",
+                        "guid": "b75Hi1wAuUgMAxSUMmmufg",
+                        "children": [
+                          {
+                            "id": "94",
+                            "parent": "93",
+                            "text": "HHF (Hipercalcemia\nHipocalciúrica Familiar):",
+                            "guid": "Smzq8kNRXooyMxXvCV9flg",
+                            "children": [
+                              {
+                                "id": "95",
+                                "parent": "94",
+                                "text": "- Mutación gen sensor Ca (paratiroides+riñón)",
+                                "guid": "KnZcFjl7lZo0FteuSXyFTw",
+                                "children": []
+                              },
+                              {
+                                "id": "96",
+                                "parent": "94",
+                                "text": "- Características:",
+                                "guid": "Cg4uYzuL-a5hA68iUojYiA",
+                                "children": [
+                                  {
+                                    "id": "97",
+                                    "parent": "96",
+                                    "text": "* Hipercalcemia leve asintomática",
+                                    "guid": "fZC9Px7NtKxK_gRXPfUrdw",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "98",
+                                    "parent": "96",
+                                    "text": "* Hipermagnesemia",
+                                    "guid": "ZMnOBEeqeTImItwXQuz1ig",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "99",
+                                    "parent": "96",
+                                    "text": "* PTH normal/alta",
+                                    "guid": "efDn3xHDYbZLnLbAetOt1g",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "100",
+                                    "parent": "96",
+                                    "text": "* Clearance Ca/creatinina < 0, 01",
+                                    "guid": "bjSglgiSaN8YEDqVZq9KSg",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "101",
+                                "parent": "94",
+                                "text": "- Dx: calciuria 24h (menor valor) (5)",
+                                "guid": "R6BNJn9aCGgIoT7ZEg04GA",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "102",
+                        "parent": "92",
+                        "text": "* Elevada → HPT 1° → tto específico",
+                        "guid": "FtUOESdvrEMfi3GHCyT4dA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "103",
+                "parent": "75",
+                "text": "PTH baja/suprimida:",
+                "guid": "Qqtm8zrUVMkbbJeubSHDCQ",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "→ Confirmar cáncer",
+                    "guid": "dE_qY0-Db102nkhYfl4Yxg",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "103",
+                    "text": "→ Si (+): tto específico",
+                    "guid": "Cw9pCxeh93pQ5vFOCKAmSg",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "103",
+                    "text": "→ Si (-): estudio causas no frecuentes",
+                    "guid": "Nm-sJxvk9aZGlVHBGzl6Kw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "parent": "0",
+        "text": "TRATAMIENTO\nHIPERCALCEMIA",
+        "guid": "VYQ16RXq2qByxdU3RVhxKw",
+        "children": [
+          {
+            "id": "108",
+            "parent": "107",
+            "text": "CLASIFICACIÓN POR\nCALCEMIA TOTAL:",
+            "guid": "dvMboFYpueAJgxE6AgKEqw",
+            "children": [
+              {
+                "id": "109",
+                "parent": "108",
+                "text": "- Normocalcemia: ≤ 8.5 mg/dL",
+                "guid": "bcuxWlpqAogKoqr2JDtdgQ",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "108",
+                "text": "- Hipercalcemia leve: 10.5-12 mg/dL",
+                "guid": "dk74LlE3_Lc_dNetWd5nBg",
+                "children": []
+              },
+              {
+                "id": "111",
+                "parent": "108",
+                "text": "- Hipercalcemia moderada: 12-14 mg/dL",
+                "guid": "PfAqkB2bR2M3Xr2-PGu6Hg",
+                "children": []
+              },
+              {
+                "id": "112",
+                "parent": "108",
+                "text": "- Hipercalcemia grave: > 14 mg/dL",
+                "guid": "R15t2Q-ywkspG-pDebP9Lg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "113",
+            "parent": "107",
+            "text": "HIPERCALCEMIA\nLEVE:",
+            "guid": "ABcBbnx7ZLFzqdmqb9VI-g",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "→ Principal causa: HPT 1° asintomático",
+                "guid": "WHwd-X-s7j8iPvd4b1EsCg",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "113",
+                "text": "→ Medidas\ngenerales:",
+                "guid": "JxyagkHKaQB6diR-Hg-2Ig",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- Evitar reposo",
+                    "guid": "F_Qi4AP5NbggEjrNBb_UOg",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- Hidratación adecuada",
+                    "guid": "XmM4QSq05cMp-zG8VLIwbw",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "- Dieta normocálcica",
+                    "guid": "e-zie2lwCWkukJd2Od0NCw",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "115",
+                    "text": "- Evitar diuréticos",
+                    "guid": "BwtQzGXvVTR2SMcpTmm-pQ",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "115",
+                    "text": "- Suspender fármacos hipercalcemiantes",
+                    "guid": "daIXfx9ksWxIHbvTdbkY7g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "121",
+            "parent": "107",
+            "text": "HIPERCALCEMIA\nMODERADA:",
+            "guid": "G-AWHjvHlX5ljmHodFw0Fw",
+            "children": [
+              {
+                "id": "122",
+                "parent": "121",
+                "text": "→ Asintomático: = tto hipercalcemia leve",
+                "guid": "O3SDvQfNWWBjrWAiYpEePw",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "121",
+                "text": "→ Sintomático:",
+                "guid": "SZfCYF4jhKAAoNRhYYvlQA",
+                "children": [
+                  {
+                    "id": "124",
+                    "parent": "123",
+                    "text": "- Compromiso conciencia",
+                    "guid": "Yhy6WSCzDy5nS7l7QH_ymg",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "123",
+                    "text": "- Alteraciones ECG",
+                    "guid": "S2f08hFG6zcVMiMJR1TXbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "123",
+                    "text": "- Compromiso renal",
+                    "guid": "erb0oEPCun8BMeR4AcJFbA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "127",
+                "parent": "121",
+                "text": "→ Tratar como hipercalcemia grave",
+                "guid": "KbIPs3d6q6FQLAQRH1QnMw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "128",
+            "parent": "107",
+            "text": "HIPERCALCEMIA\nGRAVE:",
+            "guid": "Ft9dDhhJv-QVDUAhMr9zLA",
+            "children": [
+              {
+                "id": "129",
+                "parent": "128",
+                "text": "→ Base tto:",
+                "guid": "aOyMBnK3y78tjKMKSwlGXw",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "1. Hidratación",
+                    "guid": "VBFVYnqbogknG6dDD4XZHw",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "2. Fármacos:",
+                    "guid": "Amj7aQrJB2VyFvdeTAC9yg",
+                    "children": [
+                      {
+                        "id": "132",
+                        "parent": "131",
+                        "text": "- Bifosfonatos",
+                        "guid": "E2ra7hTYXIULiTj5XtLP4A",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "131",
+                        "text": "- Calcitonina",
+                        "guid": "Jh9HvCC7XAImJ6dNINY8XA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "134",
+                    "parent": "129",
+                    "text": "3. Diálisis (si necesario)",
+                    "guid": "ZH4WgidZi8UimIHIDjAmNQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "107",
+            "text": "INDICACIONES\nDIÁLISIS:",
+            "guid": "HtQ3ZnLEhdkthE1oNbOUdA",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "- Ca > 18 mg/dL",
+                "guid": "Cw5FvkKRjYlocwegXx-bIA",
+                "children": []
+              },
+              {
+                "id": "137",
+                "parent": "135",
+                "text": "- IRA anúrica",
+                "guid": "PS0vkg-OruRupXRAP5Yq_A",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "135",
+                "text": "- ICC",
+                "guid": "Gle2SWC8a54LlujGA0RCTw",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "135",
+                "text": "- Fracaso tto",
+                "guid": "U3Q3Xjkji9BOTYiuZt8STA",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "135",
+                "text": "- Arritmias malignas",
+                "guid": "TfvoVlnWwadFseIsdBswEg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "141",
+        "parent": "0",
+        "text": "TRATAMIENTO\nHIPERCALCEMIA GRAVE",
+        "guid": "LflbDD-gr-9foPlFbGLh7w",
+        "children": [
+          {
+            "id": "142",
+            "parent": "141",
+            "text": "MANEJO AGUDO:",
+            "guid": "epIdqmvZiXkU8WxvXxA0LA",
+            "children": [
+              {
+                "id": "143",
+                "parent": "142",
+                "text": "1. Hospitalización UCI",
+                "guid": "EzMVPjeJ7jdtQFphMgdMpA",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "142",
+                "text": "2. Hidratación:",
+                "guid": "Kk50ERrEp8pnuuEZNVy5zw",
+                "children": [
+                  {
+                    "id": "145",
+                    "parent": "144",
+                    "text": "→ Sol. salina → diuresis 200 mL/h*",
+                    "guid": "XVY1U1At6LkUfFTvGoNk5g",
+                    "children": [
+                      {
+                        "id": "146",
+                        "parent": "145",
+                        "text": "(*40 mg Ca excretados/100 mEq Na)",
+                        "guid": "X7yXnQMhyS9aGY_iehRN5w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "147",
+                "parent": "142",
+                "text": "3. Bifosfonatos IV:",
+                "guid": "Y940zmWweKh9WJA2N1JsLA",
+                "children": [
+                  {
+                    "id": "148",
+                    "parent": "147",
+                    "text": "→ 1ª elección:\nZoledronato",
+                    "guid": "ByQujnyyLRgNEaVnZHpj4Q",
+                    "children": [
+                      {
+                        "id": "149",
+                        "parent": "148",
+                        "text": "- 4 mg/15 min",
+                        "guid": "HtQEeEumGOUeMX54bM_szg",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "148",
+                        "text": "- Latencia: 24-48h",
+                        "guid": "JXzajGPjYKRg6xzhIA74Ng",
+                        "children": []
+                      },
+                      {
+                        "id": "151",
+                        "parent": "148",
+                        "text": "- Eficacia: 88%",
+                        "guid": "T7zqHXXciVB_HyxiYu__Ww",
+                        "children": []
+                      },
+                      {
+                        "id": "152",
+                        "parent": "148",
+                        "text": "- Duración: 32d",
+                        "guid": "LWZ3h2xfhsQU90v_V7TrmA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "153",
+                    "parent": "147",
+                    "text": "→ Ibandronato",
+                    "guid": "TOAV0iGN-ld-_cjHLJytbw",
+                    "children": [
+                      {
+                        "id": "154",
+                        "parent": "153",
+                        "text": "- 2-6 mg/2h",
+                        "guid": "JK_DhlkXWKkmsPtWCI34VA",
+                        "children": []
+                      },
+                      {
+                        "id": "155",
+                        "parent": "153",
+                        "text": "- Latencia: 48h",
+                        "guid": "PsfRUSQJi40_4GSAXZvVyg",
+                        "children": []
+                      },
+                      {
+                        "id": "156",
+                        "parent": "153",
+                        "text": "- Eficacia: 76%",
+                        "guid": "b6-kcl4R4vhKa8KYFSx-_g",
+                        "children": []
+                      },
+                      {
+                        "id": "157",
+                        "parent": "153",
+                        "text": "- Duración: 14d",
+                        "guid": "QfVDnCtW33k1O3c1EbItuQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "158",
+                    "parent": "147",
+                    "text": "→ Pamidronato",
+                    "guid": "ITNoyTRao5d0oi0UTpngUQ",
+                    "children": [
+                      {
+                        "id": "159",
+                        "parent": "158",
+                        "text": "- 60-90 mg/4-6h",
+                        "guid": "ILoqWwmZeRQmTsvpJ95Y6Q",
+                        "children": []
+                      },
+                      {
+                        "id": "160",
+                        "parent": "158",
+                        "text": "- Latencia: 48-72h",
+                        "guid": "BkumLDNgcVEMWLzLUyu7_g",
+                        "children": []
+                      },
+                      {
+                        "id": "161",
+                        "parent": "158",
+                        "text": "- Eficacia: 70%",
+                        "guid": "VO5rqAtWhZJ_yGlueZ4vLg",
+                        "children": []
+                      },
+                      {
+                        "id": "162",
+                        "parent": "158",
+                        "text": "- Duración: 18d",
+                        "guid": "ZG3ePCZ5ZMQCLCeDIzWvjQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "163",
+                "parent": "142",
+                "text": "4. Calcitonina: 4\nUI/kg sc-im/12h",
+                "guid": "SoLwUUIMjAMA0YVXOjKUww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "parent": "141",
+            "text": "CONSIDERACIONES\nERC:",
+            "guid": "IB5u_Es9R_BPXxPCYhOymA",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "- Ibandronato seguro (6,7)",
+                "guid": "dpQnaQSaivdzxeBSF8eQMw",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "164",
+                "text": "- Si ClCr < 30 mL/min → dosis 2-3 meses",
+                "guid": "OPUujmhoDWZmYXCEWa9Y6g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "167",
+            "parent": "141",
+            "text": "SI HIPERCALCEMIA\nPERSISTENTE (72h):",
+            "guid": "cgGGegywPG0BjbHTeE0spw",
+            "children": [
+              {
+                "id": "168",
+                "parent": "167",
+                "text": "→ Considerar:",
+                "guid": "GTz0MUtBUhMOnUiVfarSbQ",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "- Etiología vitamina D → Prednisona 40-100 mg/d",
+                    "guid": "QBCtvg3mbp5LeOilFP8ZZg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "170",
+                "parent": "167",
+                "text": "- Fracaso tto → Planificar diálisis",
+                "guid": "cbq22BDJcBgg4IH6PD2nKQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "171",
+        "parent": "0",
+        "text": "TRATAMIENTO\nHIPERCALCEMIA CRÓNICA:",
+        "guid": "UtX8GyGyB1J2cDvtcvRrFw",
+        "children": [
+          {
+            "id": "172",
+            "parent": "171",
+            "text": "1. Alendronato:",
+            "guid": "bO9PQkXPT69VCB2wY4N2qw",
+            "children": [
+              {
+                "id": "173",
+                "parent": "172",
+                "text": "→ HPT 1° crónico (alternativa cirugía)",
+                "guid": "SmnapkjN_gJ7SwbeA18JNA",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "172",
+                "text": "→ ↓Ca esperado: 0.3-0.5 mg/dL",
+                "guid": "MTYLaGGsd2JdDmIeIzeR4w",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "172",
+                "text": "→ Protección ósea",
+                "guid": "blyz0F6cE_IbhL6KLm1hjg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "171",
+            "text": "2. Calcitonina:",
+            "guid": "bIKCkGb9py9DbHr1Bb92wQ",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "→ Uso histórico",
+                "guid": "Mj75Q1IJw4oDakkuI_mwGw",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "→ Efecto modesto",
+                "guid": "YtMzoiRKyylgN1dENakvvQ",
+                "children": []
+              },
+              {
+                "id": "179",
+                "parent": "176",
+                "text": "→ En desuso",
+                "guid": "RfzSe1ankzEonZrVMuwhvQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "180",
+            "parent": "171",
+            "text": "3. Raloxifeno:",
+            "guid": "HHbi4H2luIUWb5hoZuC9hg",
+            "children": [
+              {
+                "id": "181",
+                "parent": "180",
+                "text": "→ Similar a alendronato en HPT 1°",
+                "guid": "RnO2hxG6n0dqP8a7d6nB7w",
+                "children": []
+              },
+              {
+                "id": "182",
+                "parent": "180",
+                "text": "→ Menor evidencia",
+                "guid": "c2cWqUdOKNka4VPSYcPKeQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "183",
+            "parent": "171",
+            "text": "CINACALCET:",
+            "guid": "Jeo8yzZmElwQMSwIEmy_XA",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "→ Calcimimético agonista sensor Ca (célula paratiroidea)",
+                "guid": "HWO5jFOdpv0YLDYdT6Kyzw",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "183",
+                "text": "→ Indicaciones/dosis:",
+                "guid": "YPR2XBgStIIihJm3VFuNBg",
+                "children": [
+                  {
+                    "id": "186",
+                    "parent": "185",
+                    "text": "1. HPT en ERC:",
+                    "guid": "JadqhxuWf0xznGLqCHqeKQ",
+                    "children": [
+                      {
+                        "id": "187",
+                        "parent": "186",
+                        "text": "- Inicio: 30 mg/d",
+                        "guid": "P-FKdVPTui4-I83mBd4c8A",
+                        "children": []
+                      },
+                      {
+                        "id": "188",
+                        "parent": "186",
+                        "text": "- Ajuste: c/2-4 sem",
+                        "guid": "KntNYGbBaLs4yj6tRvIwQA",
+                        "children": []
+                      },
+                      {
+                        "id": "189",
+                        "parent": "186",
+                        "text": "- Máx: 180 mg/d",
+                        "guid": "ZGchQE851xUt0u3HKtrXxw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "190",
+                    "parent": "185",
+                    "text": "2. Ca paratiroideo:",
+                    "guid": "X2DdWz1l7Yk2H1d_BUsaJw",
+                    "children": [
+                      {
+                        "id": "191",
+                        "parent": "190",
+                        "text": "- 30 mg/12h",
+                        "guid": "c8v_5kZQg4cXt9mDES-5cg",
+                        "children": []
+                      },
+                      {
+                        "id": "192",
+                        "parent": "190",
+                        "text": "- ↑ según respuesta",
+                        "guid": "Ge4qhC_kD6Bg0mxBP5WVCw",
+                        "children": []
+                      },
+                      {
+                        "id": "193",
+                        "parent": "190",
+                        "text": "- Máx: 360 mg/d",
+                        "guid": "S3qO7FRuzytIEDM0C1vZYQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "194",
+                "parent": "183",
+                "text": "→ Efectos: ↓Ca y PTH (normalización)",
+                "guid": "KEKJWQY0ARsROfZRUr3WuQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "171",
+            "text": "CIRUGÍA HPT 1°\nASINTOMÁTICO (8):",
+            "guid": "Sv3qfVv5ekhhHaN3ZOwVAg",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "- Ca plasmático > 1 mg/dL sobre límite normal",
+                "guid": "bPVp1koENP4ZsAb6UVyLFw",
+                "children": []
+              },
+              {
+                "id": "197",
+                "parent": "195",
+                "text": "- ClCr < 60 mL/min",
+                "guid": "GT4MFEeC9MF8N2LeejKCcA",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "195",
+                "text": "- DMO: score T < -2,5 o fractura previa",
+                "guid": "X5WpQx67_JVOjg92PvaGng",
+                "children": []
+              },
+              {
+                "id": "199",
+                "parent": "195",
+                "text": "- Edad < 50 años",
+                "guid": "XCHqHwStZvZEQaDFT-3qBQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "200",
+        "parent": "0",
+        "text": "HIPOCALCEMIA:",
+        "guid": "",
+        "children": [
+          {
+            "id": "201",
+            "parent": "200",
+            "text": "→ Definición:",
+            "guid": "C92J6UHwD7gkgaoNV1gY1Q",
+            "children": [
+              {
+                "id": "202",
+                "parent": "201",
+                "text": "- Ca total corregido < 8,5 mg/dL",
+                "guid": "Fl7e42yR3UJis_I3PqFoPA",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "201",
+                "text": "- Ca iónico < 4,68 mg/dL (pH 7,4)",
+                "guid": "csXeXXPt6IgRXz72X7tIMw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "204",
+            "parent": "200",
+            "text": "EPIDEMIOLOGÍA\nUCI (9,10):",
+            "guid": "PfIdhysPRfAxF9NKVzApmw",
+            "children": [
+              {
+                "id": "205",
+                "parent": "204",
+                "text": "- Frecuencia: 18-85%",
+                "guid": "cpI6sS1PNilRYqwLUifj9A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "200",
+            "text": "- Causas:",
+            "guid": "TAsyvh_wu4IRHmqSKC0c3Q",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "* Hipoalbuminemia",
+                "guid": "JJ4ieFVgC1h4Gwbib5wM9Q",
+                "children": []
+              },
+              {
+                "id": "208",
+                "parent": "206",
+                "text": "* Quelantes (citrato/lactato/bicarbonato/fosfato)",
+                "guid": "MVmFoFk4qllUiCH3PTcPiQ",
+                "children": []
+              },
+              {
+                "id": "209",
+                "parent": "206",
+                "text": "* Medios contraste",
+                "guid": "Gyi6EXkJzAUUjyhfMYeY9A",
+                "children": []
+              },
+              {
+                "id": "210",
+                "parent": "206",
+                "text": "* Transfusiones repetidas",
+                "guid": "ZZupR3dDGpZwKQExWGGHpA",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "206",
+                "text": "* Anticoagulantes",
+                "guid": "azEDHgGIQCc4HM_XKSMgpQ",
+                "children": []
+              },
+              {
+                "id": "212",
+                "parent": "206",
+                "text": "* Hipovitaminosis D",
+                "guid": "LJeGF2k0oyIAU0pAHynAyA",
+                "children": []
+              },
+              {
+                "id": "213",
+                "parent": "206",
+                "text": "* Resistencia PTH (sepsis)",
+                "guid": "FoPZS1G19kxxUaS8Yo8MCQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "214",
+            "parent": "200",
+            "text": "DX EN UCI:",
+            "guid": "caaxzgJwD04KvCjnFkTURg",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "→ Ca corregido:",
+                "guid": "V9AapgLXL8kF4OE7CSmgRw",
+                "children": [
+                  {
+                    "id": "216",
+                    "parent": "215",
+                    "text": "- Sensibilidad: 53%",
+                    "guid": "XA_aI1ppAzNGYK_QdziUNA",
+                    "children": []
+                  },
+                  {
+                    "id": "217",
+                    "parent": "215",
+                    "text": "- Especificidad: 85%",
+                    "guid": "U3LPOFrv2C8owC0pOQ54fw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "218",
+                "parent": "214",
+                "text": "→ Recomendación: medir Ca iónico",
+                "guid": "UjLyxRjpLloRcAAjPWP15A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "219",
+            "parent": "200",
+            "text": "CLASIFICACIÓN\nCLÍNICA:",
+            "guid": "GnFugUmMz_pmhxaJRwj0mA",
+            "children": [
+              {
+                "id": "220",
+                "parent": "219",
+                "text": "1. PTH ↓: hipoparatiroidismo",
+                "guid": "MsFzHGbaYMpmMrVgSUVMZw",
+                "children": []
+              },
+              {
+                "id": "221",
+                "parent": "219",
+                "text": "2. PTH ↑: hiperparatiroidismo 2°",
+                "guid": "OJBXFleEWhwr1FhxKjcI5A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "222",
+            "parent": "200",
+            "text": "CAUSAS DE\nHIPOCALCEMIA",
+            "guid": "Qo3HtA4_dqhTu8rDZYKvhw",
+            "children": [
+              {
+                "id": "223",
+                "parent": "222",
+                "text": "1. HIPOPARATIROIDISMO:",
+                "guid": "WfRpajaQgVhAe90qMcSEEQ",
+                "children": [
+                  {
+                    "id": "224",
+                    "parent": "223",
+                    "text": "→ Destructivas:",
+                    "guid": "OWexIUZcvmU67iRYFXeLRA",
+                    "children": [
+                      {
+                        "id": "225",
+                        "parent": "224",
+                        "text": "- Cirugía* (*más frecuente)",
+                        "guid": "IMXBmAFO1CgMsB95dDiQ0A",
+                        "children": []
+                      },
+                      {
+                        "id": "226",
+                        "parent": "224",
+                        "text": "- Radioterapia",
+                        "guid": "XD6sWDVwTKItRwlPLnGfHQ",
+                        "children": []
+                      },
+                      {
+                        "id": "227",
+                        "parent": "224",
+                        "text": "- Infiltración metastásica/sistémica",
+                        "guid": "Tll6_D63CXJr1ZUBaMrpfQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "228",
+                    "parent": "223",
+                    "text": "→ Autoinmune:",
+                    "guid": "CEPZbVJcq4sv094VOwVMiQ",
+                    "children": [
+                      {
+                        "id": "229",
+                        "parent": "228",
+                        "text": "- Sd. poliglandular autoinmune I°",
+                        "guid": "OTcMVRYGk3UESpjxccdjaw",
+                        "children": []
+                      },
+                      {
+                        "id": "230",
+                        "parent": "228",
+                        "text": "- Autoinmune aislada",
+                        "guid": "bYrtkTAe8WIb_mxPR39W-w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "231",
+                    "parent": "223",
+                    "text": "→ ↓Secreción PTH:",
+                    "guid": "Zq9yulx6SXl5Q9sMIBcj2w",
+                    "children": [
+                      {
+                        "id": "232",
+                        "parent": "231",
+                        "text": "- Hipomagnesemia* (1)",
+                        "guid": "ItcH3jQx_2Q1jq8gQ5zJdw",
+                        "children": []
+                      },
+                      {
+                        "id": "233",
+                        "parent": "231",
+                        "text": "- Hipocalcemia autosómica dominante",
+                        "guid": "NYDTjUI-zpk31VpHEb9_5Q",
+                        "children": []
+                      },
+                      {
+                        "id": "234",
+                        "parent": "231",
+                        "text": "- Defectos genéticos:",
+                        "guid": "fmNfj16nXclnHJMAN5pr5A",
+                        "children": [
+                          {
+                            "id": "235",
+                            "parent": "234",
+                            "text": "* Aislada",
+                            "guid": "d68bO2UcY5dAMR8CRgiWNw",
+                            "children": []
+                          },
+                          {
+                            "id": "236",
+                            "parent": "234",
+                            "text": "* Sd. Di George",
+                            "guid": "I9NtCSwGtAQu03-0LBdGdg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "237",
+                "parent": "222",
+                "text": "2. HIPERPARATIROIDISMO\n2°:",
+                "guid": "dK3xPmtnK_EpYc9PYjjezw",
+                "children": [
+                  {
+                    "id": "238",
+                    "parent": "237",
+                    "text": "→ Déficit vit D:",
+                    "guid": "G4YdU0VgO54puDXKAjWQDQ",
+                    "children": [
+                      {
+                        "id": "239",
+                        "parent": "238",
+                        "text": "- ERC*",
+                        "guid": "IdqFFyL8ENciTLPoRLGM9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "240",
+                        "parent": "238",
+                        "text": "- Malabsorción/enf. hepática",
+                        "guid": "Vy4QO1fbYwgITlZsDK7jyA",
+                        "children": []
+                      },
+                      {
+                        "id": "241",
+                        "parent": "238",
+                        "text": "- ↓exposición solar",
+                        "guid": "GhoxoUAjsLQebmOtEclM3A",
+                        "children": []
+                      },
+                      {
+                        "id": "242",
+                        "parent": "238",
+                        "text": "- Osteomalacia hipocalcémica",
+                        "guid": "JUAUS16fgrBX0eMTSROBVA",
+                        "children": []
+                      },
+                      {
+                        "id": "243",
+                        "parent": "238",
+                        "text": "- Raquitismo vit D resistente I",
+                        "guid": "CqY2tAalYsd1KsfLCQmWQw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "244",
+                    "parent": "237",
+                    "text": "→ Resistencia\nPTH:",
+                    "guid": "ZUzAkFxHWstApAInWfqxzg",
+                    "children": [
+                      {
+                        "id": "245",
+                        "parent": "244",
+                        "text": "- Pseudohipoparatiroidismo",
+                        "guid": "R66GvGoF0XY8M5CdYzSkDw",
+                        "children": []
+                      },
+                      {
+                        "id": "246",
+                        "parent": "244",
+                        "text": "- Hipomagnesemia*",
+                        "guid": "L2YNFGXrxmhlajQcUUCSKw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "247",
+                    "parent": "237",
+                    "text": "→ Fármacos:",
+                    "guid": "COfXPwe26AQV8h8gYBXneg",
+                    "children": [
+                      {
+                        "id": "248",
+                        "parent": "247",
+                        "text": "- Quelantes Ca (citrato/fosfatos)",
+                        "guid": "X5JLDR5AdY1sxMtDeax8rg",
+                        "children": []
+                      },
+                      {
+                        "id": "249",
+                        "parent": "247",
+                        "text": "- Enemas fosfosoda",
+                        "guid": "XmQmQQszLvALdcmLA6Q6jA",
+                        "children": []
+                      },
+                      {
+                        "id": "250",
+                        "parent": "247",
+                        "text": "- Fenitoína",
+                        "guid": "adKxoGNHrJ5Mt7vgdHjoVA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "251",
+                    "parent": "237",
+                    "text": "→ Misceláneas:",
+                    "guid": "ae0PZkHig6t9gn6XTznP9g",
+                    "children": [
+                      {
+                        "id": "252",
+                        "parent": "251",
+                        "text": "- UTI*",
+                        "guid": "Hinedj4mgL4pNIHFZdhlMg",
+                        "children": []
+                      },
+                      {
+                        "id": "253",
+                        "parent": "251",
+                        "text": "- Pancreatitis aguda",
+                        "guid": "KCxSNGVoEmJJDQlBV5JfSA",
+                        "children": []
+                      },
+                      {
+                        "id": "254",
+                        "parent": "251",
+                        "text": "- Rabdomiólisis aguda",
+                        "guid": "S1PYyi53PV0o0vFzVDuwCQ",
+                        "children": []
+                      },
+                      {
+                        "id": "255",
+                        "parent": "251",
+                        "text": "- Alcalosis respiratoria",
+                        "guid": "Ni4lYj7FEJQ0UZeEFcBwbw",
+                        "children": []
+                      },
+                      {
+                        "id": "256",
+                        "parent": "251",
+                        "text": "- Tumoral (lisis/metástasis)",
+                        "guid": "XQWGISEWYscPbO0dO2msYg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "257",
+                    "parent": "237",
+                    "text": "→ Resistencia vit D:",
+                    "guid": "LEmRtxritqg_DebuFhxDWA",
+                    "children": [
+                      {
+                        "id": "258",
+                        "parent": "257",
+                        "text": "- Raquitismo vit D resistente II",
+                        "guid": "fipjRwvFos4KlSusaBdyrQ",
+                        "children": []
+                      },
+                      {
+                        "id": "259",
+                        "parent": "257",
+                        "text": "*Causas más frecuentes",
+                        "guid": "Rj4rAmCFxGhRqmojbmp9Nw",
+                        "children": [
+                          {
+                            "id": "260",
+                            "parent": "259",
+                            "text": "(1) Mg < 0.8-1 mg/L → ↓secreción/resistencia PTH",
+                            "guid": "TagmeggXqkQ3UUKja9IE8A",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "261",
+            "parent": "200",
+            "text": "ESTUDIO HIPOCALCEMIA\n(9,11,12, 13,14):",
+            "guid": "Re3Wyxq3c2RF_Nx_EUGvlQ",
+            "children": [
+              {
+                "id": "262",
+                "parent": "261",
+                "text": "1. Evaluación:",
+                "guid": "SS6wwm7PzfNlfV-ff1zWJA",
+                "children": [
+                  {
+                    "id": "263",
+                    "parent": "262",
+                    "text": "- Clínica",
+                    "guid": "LZTehxnO9yMVHUaTCppkqA",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "262",
+                    "text": "- Etiologías",
+                    "guid": "OuVZ6iSKM7BGBBEKZy7roQ",
+                    "children": []
+                  },
+                  {
+                    "id": "265",
+                    "parent": "262",
+                    "text": "- Medicamentos",
+                    "guid": "P2zqWQUR9_h9Sy75PZdNoA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "266",
+                "parent": "261",
+                "text": "2. Confirmar:",
+                "guid": "ENeaxgfgWqYlrsBNXn_BQA",
+                "children": [
+                  {
+                    "id": "267",
+                    "parent": "266",
+                    "text": "- Ca total/iónico",
+                    "guid": "D_gE6l0AAvBKUcYxVjYv7A",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "266",
+                    "text": "- Perfil bioquímico",
+                    "guid": "PYXHWRv8MFREoK0jA3OeJA",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "266",
+                    "text": "- Mg",
+                    "guid": "NrOjuAqdiaMUtU25f-JUeg",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "266",
+                    "text": "- Creatinina",
+                    "guid": "eW1XlnoyrVh_PyqeJwI2HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "271",
+                    "parent": "266",
+                    "text": "- PTH (simultánea con Ca)",
+                    "guid": "FAGkexRccTExnJrFTub-ZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "266",
+                    "text": "- Vit D (opcional)",
+                    "guid": "OOak4negq882FeoHeFOPOw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "273",
+                "parent": "261",
+                "text": "3. Continuar según PTH",
+                "guid": "fLKjxzNhGQA16tzbDYo-jQ",
+                "children": [
+                  {
+                    "id": "274",
+                    "parent": "273",
+                    "text": "A. PTH\n\"NORMAL\"/BAJA:",
+                    "guid": "HImKVkK6B7trY6OIVXAvOA",
+                    "children": [
+                      {
+                        "id": "275",
+                        "parent": "274",
+                        "text": "→ Evaluar Mg:",
+                        "guid": "YtWQ5AeURZVCYOwKU4NwKA",
+                        "children": [
+                          {
+                            "id": "276",
+                            "parent": "275",
+                            "text": "- Normal → Hipoparatiroidismo",
+                            "guid": "X0g4djChla1bVZLHF-HYjg",
+                            "children": []
+                          },
+                          {
+                            "id": "277",
+                            "parent": "275",
+                            "text": "- Bajo → Hipomagnesemia",
+                            "guid": "Zv1brHzFO0QOAUAAOVVR_w",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "278",
+                    "parent": "273",
+                    "text": "B. PTH ALTA:",
+                    "guid": "FdyY5EtO2pA9nqcBHleZjA",
+                    "children": [
+                      {
+                        "id": "279",
+                        "parent": "278",
+                        "text": "→ Evaluar función renal:",
+                        "guid": "eBdSGwf9w1QOEhgIXxStxw",
+                        "children": [
+                          {
+                            "id": "280",
+                            "parent": "279",
+                            "text": "- ERC → Insuficiencia renal",
+                            "guid": "U3vztU68E_g61D6vcAV-Cw",
+                            "children": []
+                          },
+                          {
+                            "id": "281",
+                            "parent": "279",
+                            "text": "- Normal →\nMedir 25OHD:",
+                            "guid": "EXYbsyY34jdFda1DS9DPPg",
+                            "children": [
+                              {
+                                "id": "282",
+                                "parent": "281",
+                                "text": "* < 20 ng/mL: deficiencia",
+                                "guid": "R7FvxxM5a7YC3iaPHIwWVw",
+                                "children": []
+                              },
+                              {
+                                "id": "283",
+                                "parent": "281",
+                                "text": "* > 20 ng/mL: causas raras",
+                                "guid": "FugHBEd1vG4sqDCNdjA_eg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "284",
+            "parent": "200",
+            "text": "MANIFESTACIONES\nCLÍNICAS:",
+            "guid": "BML-mBwTWAgYaf_GZ5iPfQ",
+            "children": [
+              {
+                "id": "285",
+                "parent": "284",
+                "text": "- Parestesias",
+                "guid": "I6ednlrK69E7G_-lOYQ2gg",
+                "children": []
+              },
+              {
+                "id": "286",
+                "parent": "284",
+                "text": "- Espasmo carpopedal",
+                "guid": "JhnGYXi6pqZX29AOeZW6Fg",
+                "children": []
+              },
+              {
+                "id": "287",
+                "parent": "284",
+                "text": "- Tetania",
+                "guid": "R3a6nhKwDr1pmzghWOzWUg",
+                "children": []
+              },
+              {
+                "id": "288",
+                "parent": "284",
+                "text": "- Convulsiones",
+                "guid": "OOfw9S8Q5WQkvaWQAJlgvA",
+                "children": []
+              },
+              {
+                "id": "289",
+                "parent": "284",
+                "text": "- Chvostek:",
+                "guid": "QkpRGiebzB8dJXcTWTJYHg",
+                "children": [
+                  {
+                    "id": "290",
+                    "parent": "289",
+                    "text": "* Normal: 10%",
+                    "guid": "bxGIjknNp6BPYpeYZyjaqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "291",
+                    "parent": "289",
+                    "text": "* Hipocalcemia: ausente 29%",
+                    "guid": "Uctq9V10r6FGPYhxVo5pjQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "292",
+                "parent": "284",
+                "text": "- Trousseau:",
+                "guid": "eYgHqV6niDc-JvkKHS-lRw",
+                "children": [
+                  {
+                    "id": "293",
+                    "parent": "292",
+                    "text": "* Normal: 1%",
+                    "guid": "OXJ0CHlC-K9Ws9vKX4w6ag",
+                    "children": []
+                  },
+                  {
+                    "id": "294",
+                    "parent": "292",
+                    "text": "* Hipocalcemia: ausente 6%",
+                    "guid": "cf2fVi6Pq9hZIfSAOXRZ9A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "295",
+                "parent": "284",
+                "text": "- ECG: bradicardia, QT prolongado",
+                "guid": "QT-6lkK9LKISYTBGeieriw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "296",
+            "parent": "200",
+            "text": "INDICACIONES\nCa IV (15):",
+            "guid": "cc4SBjce1dZ6wQxHNBhjIQ",
+            "children": [
+              {
+                "id": "297",
+                "parent": "296",
+                "text": "1. Hipocalcemia sintomática",
+                "guid": "Xrqh9hfmg1oNSrs_TcwqhA",
+                "children": []
+              },
+              {
+                "id": "298",
+                "parent": "296",
+                "text": "2. Asintomática + Ca:",
+                "guid": "YbQq-lytUtg09QUtM3-V7w",
+                "children": [
+                  {
+                    "id": "299",
+                    "parent": "298",
+                    "text": "- Total < 7 mg/dL",
+                    "guid": "OiICeXsyjZ4KDf99M6oKIg",
+                    "children": []
+                  },
+                  {
+                    "id": "300",
+                    "parent": "298",
+                    "text": "- Iónico < 2,8 mg/dL",
+                    "guid": "WdoV1kg0-IdQ2a9qE0yJ3g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "301",
+                "parent": "296",
+                "text": "3. Asintomática +\nECG alterado:",
+                "guid": "QXfxNyeNizRy2MRIM3WQjQ",
+                "children": [
+                  {
+                    "id": "302",
+                    "parent": "301",
+                    "text": "- Ca total: 7-7,5 mg/dL",
+                    "guid": "Vh03DEv6uMls6eqBF1zxog",
+                    "children": []
+                  },
+                  {
+                    "id": "303",
+                    "parent": "301",
+                    "text": "- Ca iónico: 2,8-3 mg/dL",
+                    "guid": "Drfla39LGsgRhJ0tAIX3cQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "304",
+            "parent": "200",
+            "text": "TRATAMIENTO\nHIPOCALCEMIA\nAGUDA",
+            "guid": "actHGitqKXRxxp4XTtLNSw",
+            "children": [
+              {
+                "id": "305",
+                "parent": "304",
+                "text": "ALGORITMO\nTRATAMIENTO:",
+                "guid": "NmnwngxFqXQ0nlqSFSSSlA",
+                "children": [
+                  {
+                    "id": "306",
+                    "parent": "305",
+                    "text": "1. SINTOMÁTICA:",
+                    "guid": "JCwszkHpFdJi8L0YBeBXyQ",
+                    "children": [
+                      {
+                        "id": "307",
+                        "parent": "306",
+                        "text": "→ Ca IV",
+                        "guid": "HpZoqhflwkY5X-24WLhrIw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "308",
+                    "parent": "305",
+                    "text": "2. ASINTOMÁTICA:",
+                    "guid": "ExhP5ENt7TUMYnVFbPJlug",
+                    "children": [
+                      {
+                        "id": "309",
+                        "parent": "308",
+                        "text": "→ Ca total < 7 mg/dL o Ca iónico < 2,8 mg/dL:",
+                        "guid": "C6LlvV08JK8APu-ZTRrW9A",
+                        "children": [
+                          {
+                            "id": "310",
+                            "parent": "309",
+                            "text": "* Ca IV",
+                            "guid": "BMmv43MXs-EAkGeBWubm8A",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "311",
+                        "parent": "308",
+                        "text": "→ Ca total 7-7,5 mg/dL o Ca\niónico 2,8-3 mg/dL:",
+                        "guid": "PxJsqm16UgJyQ9iSTcpSFQ",
+                        "children": [
+                          {
+                            "id": "312",
+                            "parent": "311",
+                            "text": "* ECG → si alterado → Ca IV",
+                            "guid": "bMVsygPIdcBOUEmHIy9daQ",
+                            "children": []
+                          },
+                          {
+                            "id": "313",
+                            "parent": "311",
+                            "text": "* ECG normal → tto oral",
+                            "guid": "EA4fNALupBk4U-_9NDpMAw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "314",
+                        "parent": "308",
+                        "text": "→ Ca total 7, 5-8,5 mg/dL:",
+                        "guid": "RNe56xtErRY6GqPMY24ilQ",
+                        "children": [
+                          {
+                            "id": "315",
+                            "parent": "314",
+                            "text": "* Tto oral",
+                            "guid": "MypvXHN6kYQ8Jo24RkK_QA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "316",
+                "parent": "304",
+                "text": "DOSIS INICIAL\nCa IV:",
+                "guid": "Nuh-ukiJAv4zNST7Qotkdw",
+                "children": [
+                  {
+                    "id": "317",
+                    "parent": "316",
+                    "text": "- Traslado UCI/intermedio",
+                    "guid": "JcUnrTN0FJQPpjtrKo7XkQ",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "316",
+                    "text": "- Monitorización ECG",
+                    "guid": "JovIdRA2ouwFdb6BZZ41IA",
+                    "children": []
+                  },
+                  {
+                    "id": "319",
+                    "parent": "316",
+                    "text": "- Gluconato Ca 10%:",
+                    "guid": "fbD07ne5lxMzaIc1anZhuQ",
+                    "children": [
+                      {
+                        "id": "320",
+                        "parent": "319",
+                        "text": "* 10-20 mL (9,3 mg/mL)",
+                        "guid": "e4IM0wG40LwNpb8iC5AsCA",
+                        "children": []
+                      },
+                      {
+                        "id": "321",
+                        "parent": "319",
+                        "text": "* Diluir: SG 5% 50-100 mL",
+                        "guid": "BKd01kX5rx8_yngLSX8uwQ",
+                        "children": []
+                      },
+                      {
+                        "id": "322",
+                        "parent": "319",
+                        "text": "* Infusión: 10-20 min",
+                        "guid": "YT5cNXnlG9cs7VFXFGjLkQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "323",
+                    "parent": "316",
+                    "text": "- CaCl2:",
+                    "guid": "bV-tW2kT3w9aq4rSJEgsFQ",
+                    "children": [
+                      {
+                        "id": "324",
+                        "parent": "323",
+                        "text": "* Requiere CVC",
+                        "guid": "MZziDQ3gr81m05CMV2IJuw",
+                        "children": []
+                      },
+                      {
+                        "id": "325",
+                        "parent": "323",
+                        "text": "* Riesgo necrosis",
+                        "guid": "QVTEYXZ5y_cB8OFMZ-CM1g",
+                        "children": []
+                      },
+                      {
+                        "id": "326",
+                        "parent": "323",
+                        "text": "* Solo UCI/pabellón",
+                        "guid": "BrBu4wdmn81NfsH2BGFj0g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "327",
+                    "parent": "316",
+                    "text": "- Vía exclusiva (no bicarbonato/fosfato)",
+                    "guid": "fyA24ADnSSxu18WLeqJDtA",
+                    "children": []
+                  },
+                  {
+                    "id": "328",
+                    "parent": "316",
+                    "text": "- Efecto: 2-3h",
+                    "guid": "AqAZ6Hx9hK0GMm-8B0eOvg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "329",
+                "parent": "304",
+                "text": "DOSIS MANTENCIÓN\nCa IV:",
+                "guid": "QnczzEX858dQxr2AI7WQAg",
+                "children": [
+                  {
+                    "id": "330",
+                    "parent": "329",
+                    "text": "- Dosis: 0,5-1,5 mg Ca elemental/kg/h",
+                    "guid": "P-IDnn20Dtc4HluTLUGw-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "331",
+                    "parent": "329",
+                    "text": "- Preparación:",
+                    "guid": "Zsft5hLJ5mVRid0PGGTP9A",
+                    "children": [
+                      {
+                        "id": "332",
+                        "parent": "331",
+                        "text": "* 6 amp gluconato Ca 10% (558 mg Ca elemental)",
+                        "guid": "IKqWMjhdbZtvxtmvYf9akw",
+                        "children": []
+                      },
+                      {
+                        "id": "333",
+                        "parent": "331",
+                        "text": "* Diluir 500 mL SG 5%",
+                        "guid": "Ltc5k3G3uvtJ3-dqNYeodg",
+                        "children": []
+                      },
+                      {
+                        "id": "334",
+                        "parent": "331",
+                        "text": "* 1 mL = 1 mg Ca elemental",
+                        "guid": "eR5ayBdeqWA56QxIeD6RqA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "335",
+                    "parent": "329",
+                    "text": "- Inicio: 1 mg/kg/h",
+                    "guid": "GEXyjCjA0dNy4NVcGuYMdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "336",
+                    "parent": "329",
+                    "text": "- Control Ca: c/4-6h",
+                    "guid": "JT5WgHkTRRgiLZszZ7WKTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "337",
+                    "parent": "329",
+                    "text": "- Objetivo: Ca total > 7,5 mg/dL",
+                    "guid": "PxAs33L0WLMLaxpPfvIwfQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "338",
+            "parent": "200",
+            "text": "TRATAMIENTO\nORAL:",
+            "guid": "cKhnikOJdeIsM-F3V3BVcQ",
+            "children": [
+              {
+                "id": "339",
+                "parent": "338",
+                "text": "- Dosis: 500-1000 mg Ca elemental c/4-6h",
+                "guid": "VlNcSH29voZv1SVldv3yeg",
+                "children": []
+              },
+              {
+                "id": "340",
+                "parent": "338",
+                "text": "TIPOS Ca ORAL:",
+                "guid": "UVO6DyLdNHgaeg4rSnIU1w",
+                "children": [
+                  {
+                    "id": "341",
+                    "parent": "340",
+                    "text": "1. CARBONATO Ca:",
+                    "guid": "WQxdRhja_8hKoo28L1-5jg",
+                    "children": [
+                      {
+                        "id": "342",
+                        "parent": "341",
+                        "text": "- < 50 años",
+                        "guid": "Ojvd2FRjGnNCsKZ_UoHQZQ",
+                        "children": []
+                      },
+                      {
+                        "id": "343",
+                        "parent": "341",
+                        "text": "- Acidez gástrica normal",
+                        "guid": "fSPsRzWRe9xtZ9zaImJCxw",
+                        "children": []
+                      },
+                      {
+                        "id": "344",
+                        "parent": "341",
+                        "text": "- No IBP",
+                        "guid": "LqTA9A-VeA0KF80UbbTt1A",
+                        "children": []
+                      },
+                      {
+                        "id": "345",
+                        "parent": "341",
+                        "text": "- FR normal/alterada",
+                        "guid": "AonQwRWC52Nspx5RczI4Sw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "346",
+                    "parent": "340",
+                    "text": "2. CITRATO Ca:",
+                    "guid": "LhujdxxduKZACafRXMBkaw",
+                    "children": [
+                      {
+                        "id": "347",
+                        "parent": "346",
+                        "text": "- > 50 años",
+                        "guid": "Fpi-Tjp3syEmXawITLPqcA",
+                        "children": []
+                      },
+                      {
+                        "id": "348",
+                        "parent": "346",
+                        "text": "- ↓acidez gástrica",
+                        "guid": "GhOyNX9a-RYxplAka2dsRA",
+                        "children": []
+                      },
+                      {
+                        "id": "349",
+                        "parent": "346",
+                        "text": "- Patologías gástricas",
+                        "guid": "IjgtjkwgXk812YEbXHQLZw",
+                        "children": []
+                      },
+                      {
+                        "id": "350",
+                        "parent": "346",
+                        "text": "- IBP",
+                        "guid": "IIN4w3iKJ5su9dvMHadlCg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "351",
+                    "parent": "340",
+                    "text": "3. ACETATO Ca:",
+                    "guid": "T_dwWWxRx3xoEHMdZpAuqA",
+                    "children": [
+                      {
+                        "id": "352",
+                        "parent": "351",
+                        "text": "- IRC",
+                        "guid": "K_Mws0ohdOZKdVI_Ln0BdA",
+                        "children": []
+                      },
+                      {
+                        "id": "353",
+                        "parent": "351",
+                        "text": "- Mayor quelación P",
+                        "guid": "X6RcSTcccJEhrznAOLC5jw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "354",
+                "parent": "338",
+                "text": "SUPLEMENTACIÓN\nVIT D:",
+                "guid": "Jsl6ng5uHyYzRBkYQN0s0w",
+                "children": [
+                  {
+                    "id": "355",
+                    "parent": "354",
+                    "text": "→ Indicación:",
+                    "guid": "DckYPGTqaTwsRJkYMAFFyw",
+                    "children": [
+                      {
+                        "id": "356",
+                        "parent": "355",
+                        "text": "- Déficit vit D",
+                        "guid": "MQrHjGIeGjMMdVEyUY5ATw",
+                        "children": []
+                      },
+                      {
+                        "id": "357",
+                        "parent": "355",
+                        "text": "- Hipoparatiroidismo",
+                        "guid": "WqhBzjtrLP5vNaVZCMPlRQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "358",
+                    "parent": "354",
+                    "text": "→ Según PTH:",
+                    "guid": "V8jlpC8_TSplhEmxA7wWVw",
+                    "children": [
+                      {
+                        "id": "359",
+                        "parent": "358",
+                        "text": "1. PTH alta:",
+                        "guid": "CDRqLVDhxJsn4MB6Ff2CaQ",
+                        "children": [
+                          {
+                            "id": "360",
+                            "parent": "359",
+                            "text": "- Colecalciferol/ergocalciferol",
+                            "guid": "eWDCEC_5m_AyORfMWQUeWg",
+                            "children": []
+                          },
+                          {
+                            "id": "361",
+                            "parent": "359",
+                            "text": "- Carga: 50. 000U/sem x 6 sem",
+                            "guid": "ZxYMgVPoUYwRtdfpNw182w",
+                            "children": []
+                          },
+                          {
+                            "id": "362",
+                            "parent": "359",
+                            "text": "- Mantención: 800-2000 UI/d",
+                            "guid": "QDoZCHnGSwcdnauDZwOTpg",
+                            "children": []
+                          },
+                          {
+                            "id": "363",
+                            "parent": "359",
+                            "text": "- En IRC: 1α-hidroxilados",
+                            "guid": "Ncwt11QlWZJF_sg0Ztb1Yw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "364",
+                        "parent": "358",
+                        "text": "2. PTH baja:",
+                        "guid": "NkNzxVJ0GWY4ZTWyEOu1lA",
+                        "children": [
+                          {
+                            "id": "365",
+                            "parent": "364",
+                            "text": "- Calcitriol (0,25-0,5 μg)",
+                            "guid": "Dd9GZCea2wsZr5rZZagsCA",
+                            "children": []
+                          },
+                          {
+                            "id": "366",
+                            "parent": "364",
+                            "text": "- Alfacalcidiol (0,25-1 μg)",
+                            "guid": "VtooNn8z5IppZEJgUDrqRg",
+                            "children": []
+                          },
+                          {
+                            "id": "367",
+                            "parent": "364",
+                            "text": "- Inicio: 0,5-1 μg/d",
+                            "guid": "Ly2AexudWiwpQAigFkOM_A",
+                            "children": []
+                          },
+                          {
+                            "id": "368",
+                            "parent": "364",
+                            "text": "- ↑dosis c/4-7d según respuesta",
+                            "guid": "b4WruDr14IpNUQnXL7_EwA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "369",
+            "parent": "200",
+            "text": "SEGUIMIENTO:",
+            "guid": "NLwrkWrutVoWw1hnPPCVvg",
+            "children": [
+              {
+                "id": "370",
+                "parent": "369",
+                "text": "1. Control 2 sem:",
+                "guid": "O9B59T6kGOFS7hgncZynzQ",
+                "children": [
+                  {
+                    "id": "371",
+                    "parent": "370",
+                    "text": "- Ca plasma",
+                    "guid": "Eslycxjs4FxYc50wSQzmOA",
+                    "children": []
+                  },
+                  {
+                    "id": "372",
+                    "parent": "370",
+                    "text": "- Ca orina 24h",
+                    "guid": "a2D5whDY0uNZ-JvMeUBAJw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "373",
+                "parent": "369",
+                "text": "2. Control c/3-6 meses hasta dosis estable",
+                "guid": "OHOt7nOoNqZe6GwvD03WJA",
+                "children": []
+              },
+              {
+                "id": "374",
+                "parent": "369",
+                "text": "3. Luego control anual",
+                "guid": "ctwbMEhMro9fiMBrIgmbqw",
+                "children": []
+              },
+              {
+                "id": "375",
+                "parent": "369",
+                "text": "4. Si hipercalciuria: evaluar tiazidas",
+                "guid": "Y-oIuwjIyQs4TSioU2-0cw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 376,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Psiquiatría",
+  "filename": "Arteaga | TRASTORNOS DE LA CALCEMIA-2024",
+  "id": "map_261",
+  "resolved_references": []
+}

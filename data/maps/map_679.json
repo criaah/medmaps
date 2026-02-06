@@ -1,0 +1,693 @@
+{
+  "title": "Estilo central",
+  "guid": "245628E708B8D88F339699D0",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/9.B3-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Estilo central",
+    "guid": "Pn_kNn1ALm8Z2GKxXtydXA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "# Tests Diagnósticos en\nla Práctica Clínica",
+        "guid": "E6pLTwrG9Fwsn409Ishgqg",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "## Conceptos\nfundamentales",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "- Tests diagnósticos: herramientas\ncomplementarias para sustentar\nhipótesis diagnósticas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "- Análisis cualitativo mediante\nepidemiología clínica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "- Proceso diagnóstico:\nsecuencia de ideas y acciones\npara llegar a un diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## El proceso\ndiagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "- Probabilidad pre-test: probabilidad\ninicial antes de realizar test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "- Umbrales de decisión:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "- Umbral de estudio adicional: bajo\neste se descarta diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "- Umbral terapéutico: sobre este se\nconfirma diagnóstico e inicia terapia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "11",
+        "parent": "0",
+        "text": "- Zona de incertidumbre: entre\nambos umbrales → requiere\ntests adicionales",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "12",
+        "parent": "0",
+        "text": "- Probabilidad post-test: probabilidad\nmodificada tras realizar el test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "13",
+        "parent": "0",
+        "text": "- Test útil: modifica\nsignificativamente la probabilidad\npre-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "14",
+        "parent": "0",
+        "text": "## Propiedades de un\ntest diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "- Comparación con\nestándar de oro:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "16",
+        "parent": "0",
+        "text": "- Método ampliamente aceptado\ncomo mejor disponible",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "17",
+        "parent": "0",
+        "text": "- Requisitos: evaluación ciega,\nresultados categóricos, exhaustivos y\nmutuamente excluyentes",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "18",
+        "parent": "0",
+        "text": "- Validez (grado en que el test\nmide lo que debe medir):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "19",
+        "parent": "0",
+        "text": "- Sensibilidad (S): proporción de\nenfermos identificados como tal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "20",
+        "parent": "0",
+        "text": "- S =\nVP/(VP+FN) =\na/(a+c)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "21",
+        "parent": "0",
+        "text": "- A mayor S, menor\nprobabilidad de falsos\nnegativos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "22",
+        "parent": "0",
+        "text": "- Propiedad inherente al test\n(independiente de prevalencia)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "- Especificidad (E): proporción de no\nenfermos identificados como tal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "- E =\nVN/(FP+VN) =\nd/(b+d)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "25",
+        "parent": "0",
+        "text": "- A mayor E, menor\nprobabilidad de falsos\npositivos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "26",
+        "parent": "0",
+        "text": "- Propiedad inherente al test\n(independiente de prevalencia)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "27",
+        "parent": "0",
+        "text": "- Limitación: responden a\ninterrogantes en sentido inverso\nal proceso diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "28",
+        "parent": "0",
+        "text": "- Valores predictores:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "29",
+        "parent": "0",
+        "text": "- Valor Predictor Positivo\n(VPP): probabilidad de estar\nenfermo si test positivo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "30",
+        "parent": "0",
+        "text": "- VPP =\nVP/(VP+FP) =\na/(a+b)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "31",
+        "parent": "0",
+        "text": "- Aumenta con mayor\nprevalencia de la enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "- Valor Predictor Negativo\n(VPN): probabilidad de estar\nsano si test negativo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "33",
+        "parent": "0",
+        "text": "- VPN =\nVN/(FN+VN) =\nd/(c+d)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "34",
+        "parent": "0",
+        "text": "- Disminuye con mayor\nprevalencia de la enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "- Ventaja: útiles para toma\nde decisiones clínicas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "36",
+        "parent": "0",
+        "text": "- Limitación: dependientes de la\nprevalencia de la enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "37",
+        "parent": "0",
+        "text": "## Tabla de\ncontingencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "38",
+        "parent": "0",
+        "text": "- Verdaderos Positivos (VP): test\n(+) y estándar de oro (+)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "39",
+        "parent": "0",
+        "text": "- Falsos Positivos (FP): test (+)\ny estándar de oro (-)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "- Falsos Negativos (FN): test (-)\ny estándar de oro (+)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "41",
+        "parent": "0",
+        "text": "- Verdaderos Negativos (VN): test\n(-) y estándar de oro (-)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "42",
+        "parent": "0",
+        "text": "## Fortalezas y\nlimitaciones",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "43",
+        "parent": "0",
+        "text": "- Sensibilidad y\nEspecificidad:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "44",
+        "parent": "0",
+        "text": "- Fortaleza: propiedades\ninherentes al test,\nindependientes de\nprevalencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "45",
+        "parent": "0",
+        "text": "- Limitación: escasa utilidad en\nresolución de dilemas clínicos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "46",
+        "parent": "0",
+        "text": "- Valores Predictores:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "- Fortaleza: útiles para toma\nde decisiones clínicas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "48",
+        "parent": "0",
+        "text": "- Limitación: varían según\nprevalencia de la enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "49",
+        "parent": "0",
+        "text": "# Tests Diagnósticos en la Práctica Clínica\n- Aplicación Clínica y Utilidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "50",
+        "parent": "0",
+        "text": "## Introducción",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "51",
+        "parent": "0",
+        "text": "- Complemento a Parte 1\n(análisis de propiedades)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "- Enfoque en utilidad clínica\nmediante likelihood ratios (LR)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "53",
+        "parent": "0",
+        "text": "- También conocidos como\nrazones de verosimilitud",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "54",
+        "parent": "0",
+        "text": "## Concepto y cálculo\nde likelihood ratios",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "55",
+        "parent": "0",
+        "text": "- Ventajas:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "56",
+        "parent": "0",
+        "text": "- Valores inherentes al\ntest diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "57",
+        "parent": "0",
+        "text": "- Independientes de la\nprevalencia de enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "58",
+        "parent": "0",
+        "text": "- Responden a preguntas en mismo\nsentido del proceso diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "59",
+        "parent": "0",
+        "text": "- Cada resultado posible de un test\nposee un LR específico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "60",
+        "parent": "0",
+        "text": "## Cálculo de LR para tests con\nresultados dicotómicos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "61",
+        "parent": "0",
+        "text": "- Tests con resultados\nbinarios (positivo/negativo)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "62",
+        "parent": "0",
+        "text": "- Solo dos LR posibles:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "63",
+        "parent": "0",
+        "text": "- LR+ (likelihood ratio positivo):\nsensibilidad / (1-especificidad)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "64",
+        "parent": "0",
+        "text": "- LR- (likelihood ratio negativo):\n(1-sensibilidad) / especificidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "65",
+        "parent": "0",
+        "text": "- Test útil: LR+ de mayor magnitud y\nLR- de menor magnitud",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "66",
+        "parent": "0",
+        "text": "## Cálculo de LR para tests con\nresultados politómicos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "67",
+        "parent": "0",
+        "text": "- Tests con más de dos\ncategorías de resultados",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "68",
+        "parent": "0",
+        "text": "- Ventaja: no requiere\ndicotomizar resultados (evita\npérdida de información)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "69",
+        "parent": "0",
+        "text": "- LR para cada\ncategoría:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "70",
+        "parent": "0",
+        "text": "- (proporción de enfermos con\nresultado X) / (proporción de no\nenfermos con resultado X)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "71",
+        "parent": "0",
+        "text": "## Aplicación clínica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "72",
+        "parent": "0",
+        "text": "- LR indica magnitud de\nmodificación de probabilidad\npre-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "73",
+        "parent": "0",
+        "text": "- Mientras más se aleja un LR del\nvalor 1, mayor es el cambio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "74",
+        "parent": "0",
+        "text": "- LR > 10 o < 0,1: evidencia fuerte para\napoyar o rechazar hipótesis",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "75",
+        "parent": "0",
+        "text": "- Utilidad real: capacidad de salir de\n\"zona de incertidumbre\"",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "76",
+        "parent": "0",
+        "text": "##\nNomograma\nde Fagan",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "77",
+        "parent": "0",
+        "text": "- Herramienta gráfica para\ncálculo simplificado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "78",
+        "parent": "0",
+        "text": "- Tres columnas:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "- Primera:\nprobabilidad\npre-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "80",
+        "parent": "0",
+        "text": "- Segunda:\nlikelihood ratio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "81",
+        "parent": "0",
+        "text": "- Tercera:\nprobabilidad\npost-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "82",
+        "parent": "0",
+        "text": "- Uso: trazar línea desde probabilidad\npre-test, pasando por el LR, hasta\nprobabilidad post-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "83",
+        "parent": "0",
+        "text": "## Proceso\ndiagnóstico con\nLR",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "84",
+        "parent": "0",
+        "text": "- Paso 1: Definir\nprobabilidad pre-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "85",
+        "parent": "0",
+        "text": "- Paso 2: Calcular LR del\nresultado obtenido",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "86",
+        "parent": "0",
+        "text": "- Paso 3: Usar nomograma para\ndeterminar probabilidad post-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "- Paso 4: Evaluar si probabilidad\npost-test supera umbral terapéutico o\nestá bajo umbral diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "88",
+        "parent": "0",
+        "text": "- Tests seriados: probabilidad post-test\ndel primer test se convierte en\nprobabilidad pre-test del segundo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "89",
+        "parent": "0",
+        "text": "## Interpretación clínica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "90",
+        "parent": "0",
+        "text": "- LR positivos altos:\naumentan significativamente\nla probabilidad post-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "91",
+        "parent": "0",
+        "text": "- LR negativos bajos:\ndisminuyen significativamente\nla probabilidad post-test",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "92",
+        "parent": "0",
+        "text": "- Precisión inicial (probabilidad\npre-test) depende del\nconocimiento y experiencia clínica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "93",
+        "parent": "0",
+        "text": "## Importancia clínica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "94",
+        "parent": "0",
+        "text": "- Optimización de\nrendimiento diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "- Permite realizar mínima cantidad\nde exámenes necesarios",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "96",
+        "parent": "0",
+        "text": "- Facilita toma de decisiones\nclínicas basadas en evidencia",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 97,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "9.B3-2025",
+  "id": "map_679",
+  "resolved_references": []
+}

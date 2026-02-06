@@ -1,0 +1,77 @@
+{
+  "title": "PROFUND-2011",
+  "guid": "ed38d3e1-2e03-43bc-8a80-54335bbc1e0f",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/PROFUND-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PROFUND (2011)\nIndice Pronostico en Pluripatologia\n\\nScore pronostico para mortalidad a 1 año\\nen pacientes pluripatologicos\\nValidado en poblacion española",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nBernabeu-Wittel M, et al.\\nArch Intern Med 2011;171:1277-84\nDOI: 10.1001/archinternmed.2011.122\n\\nCohorte prospectiva\\nEspaña, hospitales terciarios\\n\\nPluripat: 2+ categorias clinicas SEMI",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nDerivacion: n=1,632\\nValidacion: n=1,503\\n\\nCriterios:\\n- Adultos hospitalizados\\n- 2+ categorias clinicas SEMI\\n\\nEdad media: 77 años\\n60% varones\\nSeguimiento: 12 meses",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "VARIABLES PROFUND\n\\nEdad mayor 85a: 3 puntos\\nNeoplasia activa: 6 puntos\\nDemencia: 3 puntos\\nClase NYHA III-IV: 3 puntos\\nDelirium al ingreso: 3 puntos\\nHb menor 10 g/dL: 3 puntos\\nBarthel menor 60: 4 puntos\\nCuidador no esposo: 2 puntos\\nHospitalizaciones ultimo año mayor o igual 4: 3 puntos\n\\nTotal maximo: 30 puntos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nMortalidad 1 año segun score:\\n0 puntos: 12%\\n1-2 puntos: 15%\\n3-6 puntos: 24%\\n7-10 puntos: 36%\\n11+ puntos: 61%\n\\nAUC: 0.77 derivacion\\nAUC: 0.70 validacion\\n\\nEstratificacion riesgo efectiva",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "UTILIDAD CLINICA\n\\n- Identificar pacientes alto riesgo\\n- Planificar cuidados paliativos\\n- Comunicacion pronostica con familia\\n- Toma decisiones compartidas\\n- Evitar futilidad terapeutica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Poblacion española especifica\\n- Requiere validacion externa\\n- Definicion pluripatologia SEMI\\n- No incluye fragilidad directa\\n- Score estatico (no dinamico)\\n- No considera trayectoria",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Util en decision ACP\\n- Identificar candidatos paliativos\\n- Score mayor 7: alta mortalidad\\n- Complementa VGI\\n- Barthel es componente clave\\n- Integrar con preferencias paciente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Score mayor 11 = 61% mortalidad 1 año\\n2. Barthel bajo (4 pts) = mayor peso\\n3. Neoplasia activa = 6 pts (muy predictivo)\\n4. Delirium al ingreso es marcador pronostico\\n5. Hospitalizaciones recurrentes = mal pronostico\\n6. Util para planificar ACP\\n7. Validado en contexto hispanohablante\\n8. Complementa con PALIAR para necesidad paliativa\\n9. No reemplaza juicio clinico\\n10. Comunicar pronostico con sensibilidad",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "PROFUND-2026",
+  "id": "map_341",
+  "resolved_references": []
+}

@@ -1,0 +1,1218 @@
+{
+  "title": "OFTALMOPATÍA DISTIROIDEA (ODT)",
+  "guid": "0413C17826DB952466A85152",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Endocrinología/Arteaga | OFTALMOPATÍA DISTIROIDEA (ODT)-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "OFTALMOPATÍA\nDISTIROIDEA (ODT)",
+    "guid": "au3r5xoZ2VdwdF_2PcCQag",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "DEFINICIÓN",
+        "guid": "VfCUXxbcpBBDKC_pCjXw0w",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Enfermedad ocular autoinmune + inflamación tejidos orbitarios",
+            "guid": "P-gMvUlxzn0rlh_yH_yZjA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "4",
+            "parent": "3",
+            "text": "50% pacientes con Graves → diagnóstico clínico",
+            "guid": "VmfNOFciNGkqhd6YTPQOVQ",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "3",
+            "text": "Relación con\nestado tiroideo:",
+            "guid": "WzX14lFhc7wznF-nRiPhyQ",
+            "children": [
+              {
+                "id": "6",
+                "parent": "5",
+                "text": "90% → hipertiroidismo",
+                "guid": "a3tNFCQQv50D5HIzXfgXTw",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "5",
+                "text": "10% → otras etapas (eutiroidismo/hipotiroidismo postratamiento)",
+                "guid": "XOzNwRtjOt8TL4DmAbdY4w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "3",
+            "text": "Gravedad:",
+            "guid": "IBorrg4FvM1GKL8nAlFJQg",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "20-30% → clínicamente relevante",
+                "guid": "f0OBn0UIBds9WB1mVTQV_g",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "5% → grave (neuropatía óptica distiroidea)",
+                "guid": "W-Sp6wCATU9fagbSG8y2qA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "parent": "0",
+        "text": "FISIOPATOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "12",
+            "parent": "11",
+            "text": "Inicio → Linfocitos vs antígenos comunes tiroides/órbitas",
+            "guid": "SfIbzQsAJsQ7yVA1IFnpBQ",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "11",
+            "text": "Proceso: ↑ Vol. músculos extraoculares + tejido conjuntivo/adiposo retroorbitario\n→ • Inflamación • ↑ GAG (glucosaminoglicanos) hidrofílicos + ác. hialurónico",
+            "guid": "YiJbLmZPLs1tTfdaPVhREA",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "11",
+            "text": "Mecanismo: Células T → ↑citoquinas (TNF-α + interferón-γ) → Fibroblastos → ↑GAG\n→ ↑Presión osmótica → ↑líquido → ↑Presión intraorbitaria →",
+            "guid": "N7CiiSDqVwEDfDLZIyvvnQ",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "↓Drenaje venoso",
+                "guid": "RPsWngdgpQwBJAbtIefkXw",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "↓Movilidad músculos extraoculares",
+                "guid": "IsPf6xRTh9Mjnz1CQt4LmQ",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "14",
+                "text": "Desplazamiento anterior órbitas",
+                "guid": "IllEoWnH_GpFL1TbIZzGQA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "parent": "0",
+        "text": "CAUSA\nPROBABLE",
+        "guid": "LtACRQKHckF20Nw_CrSsMA",
+        "children": [
+          {
+            "id": "19",
+            "parent": "18",
+            "text": "Activación inmune × TRab en adipocitos/fibroblastos orbitarios",
+            "guid": "Awe_kVY64xEmgWLYTPnbXg",
+            "children": []
+          },
+          {
+            "id": "20",
+            "parent": "18",
+            "text": "Otros autoantígenos posibles: anti-IGF-1 + tiroglobulina",
+            "guid": "YTsJ1WJKsw1tU8RjQ11lAw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "parent": "0",
+        "text": "DIAGNÓSTICO\nDIFERENCIAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "22",
+            "parent": "21",
+            "text": "Esp. forma unilateral\n→ considerar:",
+            "guid": "SJnh2lqhu70AtbYTAEqEZA",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "Pseudotumor orbitario",
+                "guid": "e4wSvgQx6OwjdnQBQIcpXA",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "22",
+                "text": "Miositis orbitaria",
+                "guid": "C5KN-CSaeu5ibw28LlZt4w",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "22",
+                "text": "Fístula seno cavernoso",
+                "guid": "OO4CwgYOSv5xNHl8W0dHYw",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "22",
+                "text": "Celulitis orbitaria",
+                "guid": "b9ZHaDZjzld85A2jHqZJrQ",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "22",
+                "text": "Tumores orbitarios",
+                "guid": "OOtAmXO06eIpWvXdO_MAKg",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "22",
+                "text": "Miopía grave",
+                "guid": "Se_M80_cWLYI7NuIKyrWyQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "parent": "0",
+        "text": "EVALUACIÓN\nCLÍNICA",
+        "guid": "UOJbqG898eB7C3ICTG5uZg",
+        "children": [
+          {
+            "id": "30",
+            "parent": "29",
+            "text": "2 parámetros complementarios: \n→ Evaluar simultáneamente ambos parámetros",
+            "guid": "MicLw3ZAn-tuiDvMesDtng",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "Actividad (inflamación)\n→ Escala CAS",
+                "guid": "c2_azB6B5gMM9ZfCfwJoxQ",
+                "children": [
+                  {
+                    "id": "32",
+                    "parent": "31",
+                    "text": "• Score ≥3 → activa",
+                    "guid": "Qxxg8m9kpX4tWNaofApjtA",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "31",
+                    "text": "• Score <3 → inactiva",
+                    "guid": "dXLwfR6NUCVXUasXZUk35Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "30",
+                "text": "Gravedad",
+                "guid": "VPEefFQ1uLoD74GTDdxfFQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "EVALUACIÓN ODT",
+        "guid": "fSbQJlK8Osc9BUZZL03b6g",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "Escala de Actividad Clínica (CAS)\nPuntaje: 1 punto c/u",
+            "guid": "Q5whjXNDPIMNPbeXBriCfw",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "• Dolor retroocular espontáneo",
+                "guid": "WSPeZVoUkUo9ZApkLhT84Q",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "• Dolor en movimientos oculares",
+                "guid": "LkpKBUFTi_c78Vv3djTsog",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "36",
+                "text": "• Enrojecimiento de párpados",
+                "guid": "bp4DZwXAuzYID1wya8TTjg",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "36",
+                "text": "• Enrojecimiento conjuntival",
+                "guid": "WHz1_kUUoowbEq94IXnQsA",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "36",
+                "text": "• Edema palpebral",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "36",
+                "text": "• Edema de carúncula",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "36",
+                "text": "• Edema conjuntival (quemosis)",
+                "guid": "cKIkskUheQA7WQcLC22YuA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "35",
+            "text": "Score de Gravedad\nde ODT",
+            "guid": "aju0iiGmq8sZqOeKLdfWFw",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "1. Retracción\npalpebral:",
+                "guid": "HZJJhh0aiKwAyyN0CCnZgA",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "• Leve: <2 mm",
+                    "guid": "FOnoTibmnyI0kFiXd5HKUA",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "• Moderada-grave: ≥2 mm",
+                    "guid": "YX0tYjdTPspPrJzOOqELxw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48",
+                "parent": "44",
+                "text": "2. Exoftalmo:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "• Leve: <3 mm sobre máx. normal (raza/género)",
+                    "guid": "EWfQFQ0QpzJotgioP7IaGg",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "48",
+                    "text": "• Moderada-grave: ≥3 mm sobre máx. normal",
+                    "guid": "TmQzKSSnZJ815wa8PQI2kQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51",
+                "parent": "44",
+                "text": "3. Tejidos\nblandos:",
+                "guid": "VX6qK0ALYL5BUgXyYnD-xQ",
+                "children": [
+                  {
+                    "id": "52",
+                    "parent": "51",
+                    "text": "• Leve",
+                    "guid": "Kmgf1j32Yu4oxwofAuUV1A",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "51",
+                    "text": "• Moderado-grave",
+                    "guid": "AwsFekPZuZckXuaEc60qLA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "44",
+                "text": "4. Músculos extraoculares:\n(Diplopia)",
+                "guid": "AV6ZWxjDqm8hDr04FkiBqQ",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "• Leve: Ninguno/intermitente",
+                    "guid": "CPsyl1-37Y9_GsLkczbnIQ",
+                    "children": [
+                      {
+                        "id": "56",
+                        "parent": "55",
+                        "text": "• Intermitente: Fatiga/despertar",
+                        "guid": "P6pJkVWfFc8N2kv5ISd28w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "• Moderado-grave: Inconstante/constante",
+                    "guid": "DPJUml2G6MhbyIK6Hlokrw",
+                    "children": [
+                      {
+                        "id": "58",
+                        "parent": "57",
+                        "text": "• Inconstante: Extremos de mirada",
+                        "guid": "apeP-kR-i2JeDD7JOPvDJA",
+                        "children": []
+                      },
+                      {
+                        "id": "59",
+                        "parent": "57",
+                        "text": "• Constante: Mirada al frente/abajo",
+                        "guid": "aSXwAhPzRYV1_fm1E44P2A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "60",
+                "parent": "44",
+                "text": "5. Compromiso\ncorneal:",
+                "guid": "YIBFbn_flFsyMRTEICqO_w",
+                "children": [
+                  {
+                    "id": "61",
+                    "parent": "60",
+                    "text": "• Leve: Ausente/leve",
+                    "guid": "Yp69azrSDDBIodgaa5nwAg",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "60",
+                    "text": "• Moderado",
+                    "guid": "Gon5wEe8mv9e0NcjG-iTGw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "63",
+        "parent": "0",
+        "text": "DERIVACIÓN\nOFTALMOLÓGICA",
+        "guid": "",
+        "children": [
+          {
+            "id": "64",
+            "parent": "63",
+            "text": "ODT moderada-grave → evaluación/seguimiento",
+            "guid": "KgdxPQLyHr1mBNKgCoe2qw",
+            "children": []
+          },
+          {
+            "id": "65",
+            "parent": "63",
+            "text": "Urgente si:",
+            "guid": "AtGzGRg152QqskWqWFBdRA",
+            "children": [
+              {
+                "id": "66",
+                "parent": "65",
+                "text": "• ↓Visual aguda • Alteración visión colores • Subluxación globo ocular\n• Opacidad corneal • Exposición corneal",
+                "guid": "WEFIImwES5w6wVwJddORqA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "67",
+        "parent": "0",
+        "text": "FACTORES\nRIESGO",
+        "guid": "K8n2RWg3kc4CZdX7LpupXg",
+        "children": [
+          {
+            "id": "68",
+            "parent": "67",
+            "text": "Genético: • Antecedente\npersonal/familiar:",
+            "guid": "TdauEyjX14cCMr8ud94fUA",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "Graves",
+                "guid": "CR7USDuMf319_WsparfoVg",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "68",
+                "text": "Tiroiditis Hashimoto",
+                "guid": "GmPhuj8jB801duxnDS6JfA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "68",
+                "text": "Otras enf. autoinmunes",
+                "guid": "dkaeJxPEAE9R4tmxTC84VA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "67",
+            "text": "Sexo: • + frecuente mujeres • Hombres → evolución + grave",
+            "guid": "CIQ55GuL19UEto_tOBZ_qQ",
+            "children": []
+          },
+          {
+            "id": "73",
+            "parent": "67",
+            "text": "Tabaco (4,5): • Riesgo 7.7× > en fumadores\n• Mecanismo:",
+            "guid": "fTniKEx_viYM8yPfF53D4g",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "↑volumen tejido conectivo orbital",
+                "guid": "C6LF9EJqEEYkzE1eAelkGw",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "73",
+                "text": "↑GAG + adipogénesis →\nexposición-dependiente",
+                "guid": "Vi4QlnavJw9OGJxvXrJKeg",
+                "children": [
+                  {
+                    "id": "76",
+                    "parent": "75",
+                    "text": "• Recomendación: cese inmediato en\ntodo paciente Graves (esp. con ODT)",
+                    "guid": "Yjr-5FLPLFwWyMojMBGs9w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "parent": "67",
+            "text": "Disfunción\ntiroidea:",
+            "guid": "e6cD5Bj7iVEn78xHJ3D6KQ",
+            "children": [
+              {
+                "id": "78",
+                "parent": "77",
+                "text": "• Hipertiroidismo persistente → + riesgo ODT grave",
+                "guid": "ATMbHypVokJWDKOHAaCUUQ",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "77",
+                "text": "• Hipotiroidismo → deletéreo × ↑TSH",
+                "guid": "V22951z4qilaT1WmcIolKA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "67",
+            "text": "Tratamiento\nhipertiroidismo:",
+            "guid": "HqYM1CjRqKQSxWCxG9_u_A",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "• I131 → + riesgo vs tionamidas/cirugía",
+                "guid": "dVFmyh-4hJEzfbLeAPQsvg",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "80",
+                "text": "• Post-I131: 15% casos → ODT nueva/progresión (2-6 meses)",
+                "guid": "YiKU11hKADwC3ZDZOFClbQ",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "80",
+                "text": "• Prevención: glucocorticoides + I131",
+                "guid": "TvknS1D2LUkXAu_nMTQmMA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "84",
+            "parent": "67",
+            "text": "TRab:",
+            "guid": "I8VZpS3LugphRdMnH2xdiQ",
+            "children": [
+              {
+                "id": "85",
+                "parent": "84",
+                "text": "• Títulos elevados → + frecuencia/gravedad ODT",
+                "guid": "RsdDWwk1n29G3VeyR_peeg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "parent": "67",
+            "text": "Otros:",
+            "guid": "M4tBsRzp-zlJmvLMCvj_mQ",
+            "children": [
+              {
+                "id": "87",
+                "parent": "86",
+                "text": "• Edad >60 años • Estrés",
+                "guid": "eeKlYiPqSHJ7gyTBGIiyNg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "88",
+        "parent": "0",
+        "text": "RECOMENDACIONES\nDIAGNÓSTICAS",
+        "guid": "WTkhNnxAC2Vyo42JZnwPcQ",
+        "children": [
+          {
+            "id": "89",
+            "parent": "88",
+            "text": "Medición\nTRab:",
+            "guid": "TLvxFg5IhXM0aKEyQg1X4Q",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "• Justificada en todo paciente ODT\n• Especial utilidad:",
+                "guid": "LgEKBGfmVBBDAYSfECOe2w",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "Duda diagnóstica",
+                    "guid": "QDBUTEXfFXlIdERJDyl7mA",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "90",
+                    "text": "ODT + eutiroidismo",
+                    "guid": "FtVCwl93NDBAXaHIOpqcZw",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "90",
+                    "text": "Predictor gravedad",
+                    "guid": "DULuOyGjdO9aBvnxVAoxlg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "parent": "88",
+            "text": "TAC sin contraste/RM órbita:\n• Indicaciones:",
+            "guid": "KtkUXiDkUaMcBJARXmRWEA",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "Sospecha neuropatía óptica",
+                "guid": "Pc5M3WWfgt1pXVWpN7DyPw",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "94",
+                "text": "Score de gravedad de ODT (+)\nElementos gravedad",
+                "guid": "CYnLT2TgempQOaR2VkW8Zg",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "94",
+                "text": "Dx diferencial otras patologías",
+                "guid": "cyj_3QSiRagYUxRHISoJ4Q",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "Exoftalmo unilateral/eutiroideos",
+                    "guid": "bIiZuVtUmOYxTai9LLjuBQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "parent": "88",
+            "text": "Profilaxis corticoides en ODT + I131:\n• Indicaciones:",
+            "guid": "HeOAVUyqh3o6hkEISLyUsw",
+            "children": [
+              {
+                "id": "100",
+                "parent": "99",
+                "text": "CAS ≥3 puntos/score gravedad moderada",
+                "guid": "bY7ZHVaK0RknIOrDK10l-g",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "99",
+                "text": "Factores\nriesgo:",
+                "guid": "PCpT9hB-QGxjDhg6RbQfRQ",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "• TRab >7.5-10 U/L (normal <1. 5) • Tabaquismo • Orbitopatía preexistente\n• Contraindicación: ODT grave",
+                    "guid": "dV661zNHvLAb-duraIe6tA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "103",
+        "parent": "0",
+        "text": "MANEJO ODT",
+        "guid": "",
+        "children": [
+          {
+            "id": "104",
+            "parent": "103",
+            "text": "CORTICOIDES + I131",
+            "guid": "D6GI2Tr_bVNRK4oXMNU3OA",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "Prednisona 0.3-0.5 mg/kg/d:",
+                "guid": "J40_UiQmVK8HZhBdHOv6KQ",
+                "children": [
+                  {
+                    "id": "106",
+                    "parent": "105",
+                    "text": "Inicio: día 1 a 3 post-I131",
+                    "guid": "NMFaWQ0N87Ro3ihaDfp7jw",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "105",
+                    "text": "↓progresiva hasta suspender al 3er mes",
+                    "guid": "CU3_GluBteN0dosBJzF_bw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "108",
+                "parent": "104",
+                "text": "Levotiroxina si post-I131\nSi T4 total <7 μg/dL",
+                "guid": "BYedIhcO_uZBGDx1QbHxGA",
+                "children": [
+                  {
+                    "id": "109",
+                    "parent": "108",
+                    "text": "Inicio: 50 μg/d a 3 sem",
+                    "guid": "KCw9XS78zAlv7hQiFbsWeg",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "108",
+                    "text": "Independiente de TSH",
+                    "guid": "V6zb-w8leXQzyq_JZ05k1A",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "108",
+                    "text": "Hipotiroidismo puede agravar la evolución de la ODT",
+                    "guid": "UZVKR1eTucN8CvJEUT6pjA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "103",
+            "text": "MEDIDAS\nGENERALES",
+            "guid": "SiTmxwT2OeAYI5wNfuZBIA",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "• Suspender tabaco",
+                "guid": "EgQtlAEBxGcM4LyvG1Isrg",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "112",
+                "text": "• Lentes oscuros → fotofobia",
+                "guid": "XIN6SgFXR7BCg6wdBK-3pw",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "112",
+                "text": "• Lágrimas artificiales/gel → noches/mala oclusión",
+                "guid": "MFQTuTJxwEAaas4hNduw2w",
+                "children": []
+              },
+              {
+                "id": "116",
+                "parent": "112",
+                "text": "• Parches oculares → lagoftalmo",
+                "guid": "SYC_JluDCpZ3jaHzcQ3-eA",
+                "children": []
+              },
+              {
+                "id": "117",
+                "parent": "112",
+                "text": "• Prismas → diplopía",
+                "guid": "f6lfRX7zslEN-fiiVxdwpA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "118",
+            "parent": "103",
+            "text": "ODT LEVE",
+            "guid": "IlOeWhNtrYBmb4RcegB6VQ",
+            "children": [
+              {
+                "id": "119",
+                "parent": "118",
+                "text": "• Solo observación + medidas generales",
+                "guid": "IpMm9Bo6NCVhTt8qbLgNuw",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "118",
+                "text": "• Selenio: 100 μg/12h × 6 meses",
+                "guid": "HzBuBXlyezdrnk7bMTSbmQ",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "Beneficios > placebo",
+                    "guid": "enQ_nnh_C4pMhshIVve56A",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "No estándar clínico actual",
+                    "guid": "edZTOw8KdGVbp3GPKipm9A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "123",
+                "parent": "118",
+                "text": "• Si I131 → evaluar profilaxis corticoides",
+                "guid": "QXw0pXYSP7BgBhfQCvzzyw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "124",
+            "parent": "103",
+            "text": "ODT Moderada-Grave + Activa\n(CAS ≥3)",
+            "guid": "VPYY_nqwSjo02-GqFnJNow",
+            "children": [
+              {
+                "id": "125",
+                "parent": "124",
+                "text": "A. Corticoides:",
+                "guid": "cMKJ6hTh-Xohb0FvQlfUMQ",
+                "children": [
+                  {
+                    "id": "126",
+                    "parent": "125",
+                    "text": "• VO: Prednisona 60 mg/d",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "125",
+                    "text": "• IV: Metilprednisolona (mejores resultados)",
+                    "guid": "At4ScjG1Q2474knlUHrxlw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "128",
+                "parent": "124",
+                "text": "B. Esquemas IV",
+                "guid": "bHWzPR16M7MTln2-Qv0fUg",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "• Ambulatorio:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "130",
+                        "parent": "129",
+                        "text": "• 500 mg/sem × 6 sem → 250 mg/sem × 6 sem",
+                        "guid": "J38emTvsl-872CnARPG2_w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "131",
+                    "parent": "128",
+                    "text": "• Hospitalario:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "132",
+                        "parent": "131",
+                        "text": "• 1 g/60 min × 3 días consecutivos",
+                        "guid": "SrI2fC6zroQE93ZZc7IJLg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "133",
+                "parent": "124",
+                "text": "C. Consideraciones\nMetilprednisolona:",
+                "guid": "ShFfXjVHJjUYjBBaWuyG2A",
+                "children": [
+                  {
+                    "id": "134",
+                    "parent": "133",
+                    "text": "• Dosis acumulada máx: 8 g",
+                    "guid": "ezLKzjeU6QVlngGOUCjjzA",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "133",
+                    "text": "• Evaluar pre-tratamiento:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "136",
+                        "parent": "135",
+                        "text": "• Función hepática, PA, úlcera péptica, diabetes, glaucoma",
+                        "guid": "MkUzPxp54zhmmzFvIwe9Kg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "137",
+                    "parent": "133",
+                    "text": "• Monitorización\nhospitalaria:",
+                    "guid": "L1vcsggKct5lX5FbG9GP7w",
+                    "children": [
+                      {
+                        "id": "138",
+                        "parent": "137",
+                        "text": "• Electrolitos/glucemia diaria",
+                        "guid": "JYSmkXj2Dxlezq9BTQPFKg",
+                        "children": []
+                      },
+                      {
+                        "id": "139",
+                        "parent": "137",
+                        "text": "• Manifestaciones psiquiátricas",
+                        "guid": "NOKnCBqm2QIR9Xwpf5TdhA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "parent": "103",
+            "text": "ODT Moderada-Grave + Inactiva\n(CAS <3)",
+            "guid": "SVqHhhbs8oJzRuayTDiZ-Q",
+            "children": [
+              {
+                "id": "141",
+                "parent": "140",
+                "text": "• Inactividad >6 meses",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "140",
+                "text": "• Tto quirúrgico\nreconstructivo:",
+                "guid": "SKI18C8pMJccs4uQErOVTg",
+                "children": [
+                  {
+                    "id": "143",
+                    "parent": "142",
+                    "text": "• Descompresión orbital",
+                    "guid": "ZHBWzTU_m-ttoBwnX6Mhmw",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "142",
+                    "text": "• Corrección retracción palpebral",
+                    "guid": "bNSE8FM-HbUvzAVnHxm4MA",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "142",
+                    "text": "• Blefaroplastia",
+                    "guid": "bbgA7RZnNtZCIXVaHRPdnw",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "142",
+                    "text": "• Corrección estrabismo",
+                    "guid": "HnGptSeBBrU45W2OQ_ZQRg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "147",
+            "parent": "103",
+            "text": "Neuropatía\nÓptica",
+            "guid": "Mlr10iLvkZpU7ppce7V9WA",
+            "children": [
+              {
+                "id": "148",
+                "parent": "147",
+                "text": "Corticoides\nSistémicos:",
+                "guid": "OdyEHUg1gQ5H7hdRAn66DQ",
+                "children": [
+                  {
+                    "id": "149",
+                    "parent": "148",
+                    "text": "• Metilprednisolona: 1 g IV/30-60 min × 3 días",
+                    "guid": "d16xpmShouIVMk9cW88Icw",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "148",
+                    "text": "• Mejoría\n(2 sem):",
+                    "guid": "F_cHUloxZP9fhmVNUdOLbw",
+                    "children": [
+                      {
+                        "id": "151",
+                        "parent": "150",
+                        "text": "• Prednisona VO:",
+                        "guid": "GeE-zQLSa4M7cioOBrXDvQ",
+                        "children": [
+                          {
+                            "id": "152",
+                            "parent": "151",
+                            "text": "• 40 mg/d × 2 sem →",
+                            "guid": "VhCJOGs-L3Ulz3vtQ8iKJQ",
+                            "children": []
+                          },
+                          {
+                            "id": "153",
+                            "parent": "151",
+                            "text": "• 30 mg/d × 4 sem →",
+                            "guid": "AaVmS2fw8Udg3GfEIBcQAA",
+                            "children": []
+                          },
+                          {
+                            "id": "154",
+                            "parent": "151",
+                            "text": "• 20 mg/d × 4 sem → ↓ progresiva hasta suspender",
+                            "guid": "D3H3_RnB1VJkDWBHL-kNzA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "155",
+                        "parent": "150",
+                        "text": "• Sin respuesta: Cirugía descompresiva",
+                        "guid": "MXXyInUHdbgFQsqjY9Dn9A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "156",
+                "parent": "147",
+                "text": "Radioterapia",
+                "guid": "ImbmDid0fJ5UUkV9GcWXtA",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "• Indicaciones:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "158",
+                        "parent": "157",
+                        "text": "• Útil en combinación con corticoides",
+                        "guid": "DBYfgGmElNl1lKAnJfdeTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "159",
+                        "parent": "157",
+                        "text": "• Especialmente en compromiso músculos extraoculares",
+                        "guid": "bFcAXDEGyjUsrSILQmeJlA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "160",
+                    "parent": "156",
+                    "text": "• Contraindicaciones:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "161",
+                        "parent": "160",
+                        "text": "• Retinopatía diabética",
+                        "guid": "HET5qlJ8nfgGMBO5Hepf9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "162",
+                        "parent": "160",
+                        "text": "• Retinopatía hipertensiva grave",
+                        "guid": "Om2PQGcMe30-AW_2Sd-HPQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 163,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Endocrinología",
+  "filename": "Arteaga | OFTALMOPATÍA DISTIROIDEA (ODT)-2024",
+  "id": "map_1540",
+  "resolved_references": []
+}

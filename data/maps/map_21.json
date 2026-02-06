@@ -1,0 +1,77 @@
+{
+  "title": "PROSPER-2002",
+  "guid": "526de294-12e0-4fda-bccf-f742564b0391",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/PROSPER-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PROSPER (2002)\nPROspective Study of Pravastatin in the Elderly at Risk\n\\nPravastatina reduce eventos CV en ancianos 70-82a\nRRR 15% eventos coronarios",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nShepherd J, et al.\nLancet 2002;360:1623-30\nDOI: 10.1016/S0140-6736(02)11600-X\n\\nRCT multicentrico, doble ciego\\nEscocia, Irlanda, Holanda",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=5,804 ancianos\nEdad: 70-82 años (media 75a)\n\\nCriterios inclusion:\\n- Historia de enfermedad vascular O\\n- Factores de riesgo CV (tabaco, HTA, DM)\\n- Colesterol total 4.0-9.0 mmol/L\n\\n50% mujeres\\nSeguimiento: 3.2 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nPravastatina 40 mg/dia vs Placebo\n\\nReduccion LDL: 34%\\nReduccion colesterol total: 23%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario compuesto:\\n(muerte coronaria + IAM no fatal + ACV)\\n\\nPravastatina: 14.1%\\nPlacebo: 16.2%\\nHR 0.85 (IC95% 0.74-0.97)\\np=0.014\nRRR 15%, NNT=48\n\\nEventos coronarios: HR 0.81\\nACV: HR 0.98 (NS)\\nMortalidad total: HR 0.97 (NS)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nBien tolerada\\nMiopatia: similar placebo\\nElevacion enzimas hepaticas: rara\\n\\nSin aumento cancer\\nSin deterioro cognitivo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Seguimiento relativamente corto (3.2a)\\n- No beneficio en ACV\\n- Sin reduccion mortalidad total\\n- Poblacion relativamente sana para 70-82a\\n- Exclusion de fragiles",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Primer RCT grandes en mayores 70a\\n- Beneficio principalmente coronario\\n- Considerar expectativa de vida\\n- NNT 48 a 3 años aceptable\\n- Base para prevencion secundaria en ancianos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Estatinas seguras en 70-82 años\\n2. Beneficio coronario mayor que cerebrovascular\\n3. NNT 48 = tratar 48 pacientes 3a para evitar 1 evento\\n4. No aumento de cancer ni deterioro cognitivo\\n5. Prevencion secundaria si expectativa mayor 3 años\\n6. Primera evidencia solida en ancianos\\n7. Beneficio absoluto modesto pero significativo\\n8. Considerar fragilidad al extrapolar",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "PROSPER-2026",
+  "id": "map_21",
+  "resolved_references": []
+}

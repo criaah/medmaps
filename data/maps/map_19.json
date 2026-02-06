@@ -1,0 +1,77 @@
+{
+  "title": "STOPP-START-v2-2015",
+  "guid": "b4cd99dc-9a46-4760-9ce9-0601e61b37a8",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/STOPP-START-v2-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "STOPP/START v2 (2015)\nCriterios prescripcion en ancianos\n\\n80 STOPP + 34 START criterios\\nHerramienta para optimizar polifarmacia\\nBasados en evidencia y consenso Delphi",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nOMahony D, et al.\\nAge Ageing 2015;44:213-8\nDOI: 10.1093/ageing/afu145\n\\nConsenso Delphi europeo\\nActualizacion STOPP/START v1 (2008)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "STOPP PRINCIPALES\n\\n80 criterios de prescripcion potencialmente inapropiada\n\\nDestacados geriatria:\\n- BZD mayor 4 semanas (caidas)\\n- Antidepresivos triciclicos (anticolinergicos)\\n- Anticolinergicos en demencia\\n- AINE mayor 2 semanas sin IBP\\n- Opioides sin laxante\\n- Sulfonilureas vida media larga\\n- Digoxina mayor 125mcg/dia\\n- Antipsicóticos para insomnio\\n- IBP mayor 8 semanas sin indicacion",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "START PRINCIPALES\n\\n34 criterios de omision prescripcion\n\\nDestacados geriatria:\\n- Estatina en prevencion 2aria (si expectativa mayor 5a)\\n- Metformina en DM2 sin contraindicacion\\n- IECA en IC-FEr\\n- Betabloqueador post-IAM\\n- Anticoagulacion en FA con CHADS2 mayor 1\\n- Calcio + Vit D en osteoporosis\\n- Bifosfonato tras fractura\\n- Vacuna influenza anual\\n- Vacuna neumococo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "ORGANIZACION\n\\nSTOPP por sistema:\\nA. Cardiovascular\\nB. Anticoagulantes\\nC. SNC\\nD. Renal\\nE. Gastrointestinal\\nF. Respiratorio\\nG. Musculoesqueletico\\nH. Urogenital\\nI. Endocrino\\nJ. Medicamentos con riesgo caidas\\nK. Analgesicos\\nL. Carga anticolinergica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "EVIDENCIA\n\\n- Reduce eventos adversos medicamentos\\n- Reduce hospitalizaciones\\n- Detecta mas PIP que Beers\\n- Mas aplicable en Europa\\n- Validado en multiples settings\\n- Asociado a mejor calidad prescripcion",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- No reemplaza juicio clinico\\n- Requiere contexto individual\\n- Expectativa de vida importa\\n- No todos criterios igual evidencia\\n- Necesita actualizacion periodica\\n- Aplicacion requiere tiempo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Usar en VGI sistematicamente\\n- Revisar al ingreso hospitalario\\n- Incluir en transiciones cuidado\\n- Complementar con reconciliacion\\n- Individualizar segun metas\\n- Priorizar criterios alto impacto",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. STOPP = Suspender potencialmente\\n2. START = Iniciar potencialmente\\n3. BZD mayor 4 semanas: riesgo caidas x2\\n4. IBP indefinido: riesgo fracturas, infecciones\\n5. Anticolinergicos en demencia: empeoran cognicion\\n6. Omision anticoagulacion en FA: alta morbilidad\\n7. Estatinas: deprescribir si expectativa menor 5a\\n8. Aplicar en CADA hospitalizacion\\n9. Involucrar farmaceutico clinico\\n10. Version 3 en desarrollo (2024)",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "STOPP-START-v2-2026",
+  "id": "map_19",
+  "resolved_references": []
+}

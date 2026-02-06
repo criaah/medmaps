@@ -1,0 +1,1320 @@
+{
+  "title": "Nistagmus",
+  "guid": "67681A46B478B498DCB9973B",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/UTD. Nistagmus-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Nistagmus",
+    "guid": "CD9NJH42RPsCL_OUy7NF_w",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Movimiento oscilatorio rítmico de los ojos.",
+            "guid": "O6feqvdUYPQuA34TkkmaHQ",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• Puede ser:",
+            "guid": "",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "• Jerk → fase lenta en una dirección + fase rápida correctiva opuesta.",
+                "guid": "is7ziqkTX8gmrC-ev7iuAw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "• Pendular → oscilaciones sinusoidales sin fase rápida.",
+                "guid": "0cvCPshuQiWJ6QHMNI1emw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "Clasificación",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "1. Jerk nystagmus",
+            "guid": "",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "• Por trayectoria\n(posición primaria)",
+                "guid": "nc7LNygbBj-47juNwtxuVA",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "• ↓ Downbeat",
+                    "guid": "fiCt2XHSuEXqwxHhU5Fkog",
+                    "children": []
+                  },
+                  {
+                    "id": "10",
+                    "parent": "8",
+                    "text": "• ↑ Upbeat",
+                    "guid": "LI_SC5O3cFjZ1jIc-mXf_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "8",
+                    "text": "• ↔ Horizontal",
+                    "guid": "c5UVHAkBfymMCKdVbEVirQ",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "8",
+                    "text": "• ⟲ Torsional",
+                    "guid": "tSGU0iqCY1kG3_CjDGvUYg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "8",
+                    "text": "• ⟳ Mixto",
+                    "guid": "nUDB3bIKlv-8rZ7THE0Pqg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14",
+                "parent": "7",
+                "text": "• Por condiciones\nespecíficas",
+                "guid": "G-X0bm7AXmn-bYdjGemUig",
+                "children": [
+                  {
+                    "id": "15",
+                    "parent": "14",
+                    "text": "• Gaze-evoked → aparece en mirada periférica.",
+                    "guid": "ZiG9W7WP6w-HMcu3gu1NlA",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "14",
+                    "text": "• Posicional → inducido por posiciones cefálicas.",
+                    "guid": "zGi_OI-Zca2EQuqaBvYq1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17",
+                "parent": "7",
+                "text": "• Etiología",
+                "guid": "cJRNB90_qBU6QdFB1_K3qw",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "• Adquirido → asimetría en entradas del sistema vestibular (central/periférico).",
+                    "guid": "RHiuTPA8k45K9xoLxDPrZw",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "17",
+                    "text": "• Congénito → casi siempre horizontal, variable en el tiempo/gaze, sin oscilopsia.",
+                    "guid": "EAEL8j-51RU6V5H0Y7hM6w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "parent": "6",
+            "text": "2. Pendular\nnystagmus",
+            "guid": "OtkEp6V1DO0hUsZr6ty31Q",
+            "children": [
+              {
+                "id": "21",
+                "parent": "20",
+                "text": "• Características",
+                "guid": "5vZOj-I1sPY7MrwbAtSlAA",
+                "children": [
+                  {
+                    "id": "22",
+                    "parent": "21",
+                    "text": "• Sin fase rápida.",
+                    "guid": "gYNmuTeau7c-P8XRaTsTNg",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "21",
+                    "text": "• Dirección: torsional, horizontal, vertical o combinaciones → trayectorias circulares, oblicuas o elípticas.",
+                    "guid": "KDFIBQl6I9kRWGWsJHDIIA",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "21",
+                    "text": "• Puede ser monocular o diferir entre ojos.",
+                    "guid": "XaFydp_8WqaGYcgCjZa5UA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25",
+                "parent": "20",
+                "text": "• Subtipos",
+                "guid": "i8gp6B4TRoTNZvm0e_j-6Q",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "• Adquirido",
+                    "guid": "PTeb7ypTjzzO3GAU_iPMAw",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "25",
+                    "text": "• Congénito",
+                    "guid": "-DM1x2jS-Zk9mGzLOtO5qw",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "25",
+                    "text": "• Asociado a pérdida visual",
+                    "guid": "jwtk3-RYHRMddjO8IM6VxA",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "25",
+                    "text": "• Variantes\nespecíficas",
+                    "guid": "6QLmZrO_RPJrPCb7WJPUBg",
+                    "children": [
+                      {
+                        "id": "30",
+                        "parent": "29",
+                        "text": "• Spasmus nutans",
+                        "guid": "61x8p1rnLuUJ6gZNf2Q00A",
+                        "children": []
+                      },
+                      {
+                        "id": "31",
+                        "parent": "29",
+                        "text": "• Oculopalatal myoclonus",
+                        "guid": "yJXXtx9DY6mRfKI5kaJAHQ",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "29",
+                        "text": "• See-saw nystagmus",
+                        "guid": "6Ht96pg0VjgCHiuDL4Nw4A",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "29",
+                        "text": "• Oculomasticatory myorhythmia (Whipple’s)",
+                        "guid": "CalBprotVxLuj9skQWJXTQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "20",
+                "text": "Fisiopatología",
+                "guid": "8KDFD_Kj_VL5XLOYlQN9fQ",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "• Relacionado con la función de los canales semicirculares vestibulares.",
+                    "guid": "198d5KdVS019SSD3HGRJOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "• Importante conocer fisiología vestibular para interpretar trayectorias.",
+                    "guid": "zdzSv7QfqKcj4d9XJuoXdQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "parent": "20",
+                "text": "Evaluación y\nAbordaje",
+                "guid": "tgZ6fSQPqoNc8z1pnY7apg",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "• Depende del tipo y características del nistagmo.",
+                    "guid": "AQXhOsi2Oo6D4JLj5EQDag",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "• Evaluación del vértigo asociada se trata por separado.",
+                    "guid": "TGybbsC8c-iziDh-_rgkeg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "FISIOLOGÍA CLÍNICA\nBÁSICA VESTIBULAR",
+        "guid": "-qaudx831lTP0C1J_YuXMg",
+        "children": [
+          {
+            "id": "41",
+            "parent": "40",
+            "text": "Órganos\nSensitivos\nVestibulares",
+            "guid": "f29mWUPxOOKn6FlwOwcwAQ",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "1. Órganos otolíticos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "• Sáculo y utrículo",
+                    "guid": "_nSaNhnotsZZBByybNFlCw",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "42",
+                    "text": "• Contienen otoconias (cristales de Ca²⁺) → inercia significativa",
+                    "guid": "y5azgKYIqc15R364obRWaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "42",
+                    "text": "• Detectan aceleración lineal (ej. gravedad) → deflexión de cilios → cambio en actividad neural",
+                    "guid": "oC4MZsHCAN5H5H-KAot0Cw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46",
+                "parent": "41",
+                "text": "2. Canales\nsemicirculares",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "47",
+                    "parent": "46",
+                    "text": "• Detectan aceleraciones angulares (rotaciones cefálicas)",
+                    "guid": "ji1sPNfhjlEFmp30TZkbEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "46",
+                    "text": "• Contienen ampolla con cilios en matriz gelatinosa",
+                    "guid": "WWwEdFC6qFZ12n63sZVqiA",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "46",
+                    "text": "• Movimiento cefálico → desplazamiento relativo de la endolinfa → fuerza sobre ampolla\n→ deflexión cilios → cambio en tasa de disparo basal",
+                    "guid": "OkvnrkmoVg6iyQC_RTOD4g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "40",
+            "text": "Organización de los\ncanales semicirculares",
+            "guid": "SL_P3o3RSgVwtiQZoQFTtQ",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "• 6 canales en 3 planos\ncardinales por lado:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "52",
+                    "parent": "51",
+                    "text": "• Canales horizontales → ~30° inclinados ↓",
+                    "guid": "Hjpb-4mm36IeAHV4tIDvuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "51",
+                    "text": "• Canales verticales (ant/post) → perpendiculares al horizontal, a 45° del plano sagital",
+                    "guid": "6Uoqfak03EgMG-tAOWCTQw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "50",
+                "text": "• Pares funcionales →\nActivación recíproca push-pull",
+                "guid": "3IdvDaU9XmAs0Hwjjn0RxQ",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "• Horizontal derecho ↔ Horizontal izquierdo",
+                    "guid": "jhhtuAqgkv6G3wpglBiT7g",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "• Anterior derecho ↔ Posterior izquierdo",
+                    "guid": "G9IHAaLPx_eIlFuCKvJfxw",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "• Anterior izquierdo ↔ Posterior derecho",
+                    "guid": "FQNYBc1H2N6MsqhhTXwikg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58",
+                "parent": "50",
+                "text": "• Regla de excitación: “Un canal se excita con el\nmovimiento cefálico hacia él en su plano correspondiente”",
+                "guid": "5i7PtoOQUDmbIqpsNzDSFQ",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "50",
+                "text": "• Ejemplos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "• Canal horizontal derecho → excitado por giro cefálico a la derecha",
+                    "guid": "bUf_ApjbIFc_kzcFotTIqw",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "• Canal posterior derecho → excitado por inclinación cefálica derecha o extensión cervical",
+                    "guid": "JvClmd5Hf_IYJvWEYOhUKw",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "• Canal anterior izquierdo → excitado por inclinación cefálica izquierda o flexión cervical",
+                    "guid": "1sEFh2s_yUGFSROYLdDK6A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "40",
+            "text": "Reflejo Vestíbulo-Ocular\n(RVO)",
+            "guid": "uRaPO7k0QxEN_Xll_VRKCA",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "Función: Mantener la mirada estable durante el movimiento cefálico.",
+                "guid": "xa4bcb1D8cStdJdcUA6HXg",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "• Información sobre rotación cefálica → proyección a núcleos oculomotores → activación de pares musculares extraoculares",
+                "guid": "BkENDE6qc-rB3rs55yfr1g",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "• Músculos activados/inhibidos según canal estimulado",
+                "guid": "7DUW1vRofPKsHpmh-Jmb3Q",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "63",
+                "text": "• Rectos\nhorizontales:",
+                "guid": "zh4jJBSfI0WOaNVGNKlXUw",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "• Recto lateral → abducción",
+                    "guid": "yXPKLIyQtsjKe_vVcpCFXg",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "• Recto medial → aducción",
+                    "guid": "VyX6IUvnrcTHWXjhRXSOKQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70",
+                "parent": "63",
+                "text": "• Rectos verticales y\noblicuos:",
+                "guid": "j3EqQE1ary6tkHbI-4YR5Q",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "• Recto superior → elevación (máxima en abducción), intorsión en aducción",
+                    "guid": "RyLX5doOgn0TxtbFduPEew",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "• Recto inferior → depresión en abducción, extorsión en aducción",
+                    "guid": "k1Ah5w26QdrRUAcvCYB63g",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "70",
+                    "text": "• Oblicuo superior → intorsión (máxima en abducción), depresión en aducción",
+                    "guid": "T2hy1uOGbZHzdnx2I2l6Nw",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "70",
+                    "text": "• Oblicuo inferior → extorsión en abducción, elevación en aducción",
+                    "guid": "JK-OKHdJVPOa5Lj49SdQFg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "40",
+            "text": "Generación del\nNistagmo",
+            "guid": "uAYdXJo5FKAQhmSQTi3aQA",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "• Mecanismo push-pull → Activación asimétrica de canales semicirculares",
+                "guid": "PWFdocMCZn6jzQMBKRtwcA",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "• Ejemplo: lesión de canal horizontal derecho",
+                "guid": "w1-AKLv-vmEm7VFjspmxfg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "75",
+                "text": "• ↓ Actividad vestibular derecha → sin oposición al empuje izquierdo → fase lenta derecha",
+                "guid": "33vqeQw-VyMWPD_OJGwyrA",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "75",
+                "text": "• Corrección sacádica izquierda → nistagmo izquierdo (fase rápida)",
+                "guid": "Iq9fNuwPB-5qqOGV2J9-3Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "40",
+            "text": "Patrones de Nistagmo\nsegún canal afectado",
+            "guid": "nNIPd-wS29662s7_yXCpXA",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "• Canal horizontal derecho → Nistagmo izquierdo (fase rápida izquierda)",
+                "guid": "ypJV_RG_taydcn7VPRB1Yg",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "80",
+                "text": "• Canal anterior derecho → Nistagmo mixto: upbeat + torsional antihorario",
+                "guid": "UmQiZ8onVBHHVaZxdr8EuA",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "80",
+                "text": "• Canal posterior derecho → Nistagmo mixto: downbeat + torsional antihorario",
+                "guid": "YU0xLYCAa2aOW3rLH0otzA",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "80",
+                "text": "• Pérdida total de canales derechos → Nistagmo mixto horizontal-torsional",
+                "guid": "fdgGqpDyUFOxTjiyob6WSQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "40",
+            "text": "Diferenciación\nCentral vs Periférico",
+            "guid": "ZjFMOawUiVd8bNjBDUPCMQ",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "• Nistagmo puro vertical → Poco probable en lesión periférica → indica patología troncoencefálica",
+                "guid": "xMFfhyRifQxiU1oZ1bj-xw",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "85",
+                "text": "• Nistagmo torsional puro → Raro en patología vestibular periférica → improbable por segregación anatómica vascular/nerviosa",
+                "guid": "eg2f5baz2wMrHMMDCQA6Tw",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "85",
+                "text": "• Nistagmo horizontal puro → Puede ser central o periférico",
+                "guid": "rSTC9KsKG5t-JECoRpb-mg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "40",
+            "text": "Hiperfunción Canalicular\n(Ejemplo: VPPB)",
+            "guid": "_hv_4v_EP9WHwO2Npz3e0Q",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "• Movimiento de detritos en canal posterior → Activación anómala",
+                "guid": "JjMCk-QwBeNhAURb5nZ_yQ",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "89",
+                "text": "• Genera nistagmo mixto: upbeat + torsional",
+                "guid": "jB5xkizc2d1FwEnQNesFtw",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "89",
+                "text": "• Clásico en vértigo posicional paroxístico benigno (VPPB)",
+                "guid": "c2FfMaPFx2dpAd_ugbCANA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "parent": "0",
+        "text": "SÍNTOMAS DEL\nNISTAGMO",
+        "guid": "ggC6UFY64JzrDcJ8MObCpQ",
+        "children": [
+          {
+            "id": "94",
+            "parent": "93",
+            "text": "Principales síntomas",
+            "guid": "4XXCUclyI3GFXMpyx93Vpw",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "1. Vértigo",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "• Síntoma principal en enfermedad vestibular periférica unilateral aguda.",
+                    "guid": "eKnFtjfEwpDJQ9CDaD3oIA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97",
+                "parent": "94",
+                "text": "2. Oscilopsia",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "• Ilusión de movimiento ambiental (to-and-fro).",
+                    "guid": "TFdTylA32EV174rltLWM2g",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "97",
+                    "text": "• Puede ser continua, intermitente o inducida por la mirada.",
+                    "guid": "sSAJNTsPVZyf3A2Gn_UZ3A",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "97",
+                    "text": "• Diferencia con hipofunción vestibular bilateral → en esta última, solo ocurre con movimientos cefálicos\n(ej. caminar, viajar en auto).",
+                    "guid": "bnAdRMoGypCk-kRJFunFgg",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "97",
+                    "text": "• No es específica de patología vestibular → también en intrusiones sacádicas\n(opsoclonus, ocular flutter).",
+                    "guid": "IqwJfFH5AU304Xknvhls6w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "102",
+                "parent": "94",
+                "text": "3. Visión borrosa",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "• Ocurre por desenfoque de la imagen retiniana debido al movimiento del estímulo.",
+                    "guid": "csEOjUuWCfw83JFfm20D7A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "104",
+                "parent": "94",
+                "text": "4. Posturas cefálicas anormales",
+                "guid": "8_2LYvR_9KPIIB3fx8iDtQ",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "• Pacientes pueden adoptar posiciones que minimicen el nistagmo para reducir oscilopsia o visión borrosa.",
+                    "guid": "qs-w9s0xjNVboUN__SCk8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "94",
+                "text": "5. Inestabilidad",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "• Información vestibular también contribuye al equilibrio y control postural (reflejos vestibuloespinales).",
+                    "guid": "ZdLEYga98OV9Yv7zdbAnTg",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "• Puede acompañar al nistagmo incluso sin ser su causa directa.",
+                    "guid": "-2ptxzQVtLoW9CqGkLri1g",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "• Lesión otolítica asociada también puede generar inestabilidad.",
+                    "guid": "LgY6tBSVIVfEDR06qQq8bQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "parent": "93",
+            "text": "Casos asintomáticos",
+            "guid": "D3EVq5_chaSwTfM3L5VAvQ",
+            "children": [
+              {
+                "id": "111",
+                "parent": "110",
+                "text": "• Algunos pacientes con nistagmo pueden no presentar síntomas.",
+                "guid": "G4uUcQ7jLVDts_UliW3jSA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "parent": "0",
+        "text": "DIAGNÓSTICO\nDIFERENCIAL DEL\nNISTAGMO",
+        "guid": "ki9PKRMRUzq0YadJl_6fnA",
+        "children": [
+          {
+            "id": "113",
+            "parent": "112",
+            "text": "Movimientos oculares\nanormales a diferenciar",
+            "guid": "mpRToI8SuXlEoLPPijADpA",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "1. Intrusiones sacádicas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "115",
+                    "parent": "114",
+                    "text": "• Movimientos rápidos e irregulares.",
+                    "guid": "rNJoonQ14TyEgZHjPQQgiw",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "114",
+                    "text": "• Indican alteración del cerebelo medio.",
+                    "guid": "l5eTvXNbitHrO0DCWM71fw",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "114",
+                    "text": "• Ejemplos:",
+                    "guid": "I5Nf3A9uD0q-_vaftgdZWw",
+                    "children": [
+                      {
+                        "id": "118",
+                        "parent": "117",
+                        "text": "• Opsoclonus",
+                        "guid": "UV9-g3wBZqDTqiRQzSeIAg",
+                        "children": []
+                      },
+                      {
+                        "id": "119",
+                        "parent": "117",
+                        "text": "• Ocular flutter",
+                        "guid": "jIP0ra5nIbF9IeVl8S1Yag",
+                        "children": []
+                      },
+                      {
+                        "id": "120",
+                        "parent": "117",
+                        "text": "• Square wave jerks",
+                        "guid": "krXj3_pGglXmpn7FQ4i0bw",
+                        "children": []
+                      },
+                      {
+                        "id": "121",
+                        "parent": "117",
+                        "text": "• Oscilaciones macrosacádicas",
+                        "guid": "Y2uzgaGcUdvvx5OdMsV18Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "122",
+                    "parent": "114",
+                    "text": "• “Nistagmo voluntario” es en realidad una intrusión sacádica similar al ocular flutter.",
+                    "guid": "irdou96Ze9ZtWm_UrllYEw",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "114",
+                    "text": "• Diferencia con nistagmo → No es rítmico ni tiene fase lenta.",
+                    "guid": "wibC7VL1FuIEaH1ncZFjKA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "124",
+                "parent": "113",
+                "text": "2. Ocular bobbing y\nvariantes",
+                "guid": "wMPp0udjfmImKlRYbtR8cA",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "• Presentan fases lentas y rápidas, pero son irregulares.",
+                    "guid": "opoMawtG7A_0WCHjQlVS4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "• Se observan en pacientes en coma o síndrome de enclaustramiento.",
+                    "guid": "DgZ3nW6M1EaxlIqilATFTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "124",
+                    "text": "• Diferencia con nistagmo → No es rítmico ni constante.",
+                    "guid": "WVVdBEw3INQO5f3jsnahHg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "128",
+                "parent": "113",
+                "text": "3. Crisis\noculógiras",
+                "guid": "bsdwEwehClfKK_r4lenAhA",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "• Desviaciones oculares prolongadas e irregulares, usualmente hacia arriba y lateral.",
+                    "guid": "CrpxheXfF0ekOldxCucWxg",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "• No tienen ritmicidad ni fases lentas.",
+                    "guid": "VbQSrDVuF-WUJJ_bmUTHng",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "128",
+                    "text": "• Frecuentemente asociadas a intoxicación por fenotiazinas.",
+                    "guid": "fPYPGiVuIapqNkMnzLLKNg",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "128",
+                    "text": "• Diferencia con nistagmo → No tiene oscilación rítmica.",
+                    "guid": "Cfpjrl8ZrwNGLhvJn6Qllg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "133",
+        "parent": "0",
+        "text": "TRATAMIENTO\nSINTOMÁTICO DEL\nNISTAGMO",
+        "guid": "DHg2c29CY5UqzVwyqBys4g",
+        "children": [
+          {
+            "id": "134",
+            "parent": "133",
+            "text": "Enfoque\ngeneral",
+            "guid": "3wcBWvdQroM_OBuKzPP22A",
+            "children": [
+              {
+                "id": "135",
+                "parent": "134",
+                "text": "1. Identificar el tipo de nistagmo.",
+                "guid": "1hJJVOoL8HqDt60UMrB0tA",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "134",
+                "text": "2. Buscar causas tratables (intoxicaciones, trastornos metabólicos, infecciones,\nlesiones estructurales operables) antes de considerar tratamiento sintomático.",
+                "guid": "jiY8FWHF2jJWcNmzq2wpig",
+                "children": []
+              },
+              {
+                "id": "137",
+                "parent": "134",
+                "text": "3. Determinar el beneficio potencial\nde la terapia sintomática.",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "• Objetivos: mejorar vértigo, oscilopsia, agudeza visual degradada o postura cefálica anormal.",
+                    "guid": "OiqobLlLk3Sy87f2xWqqaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "• Pacientes asintomáticos → no requieren tratamiento sintomático.",
+                    "guid": "CT-R8G6EpnCA2FEi92cRfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "parent": "133",
+            "text": "Opciones de\ntratamiento",
+            "guid": "rKy-eWIJVxYBZeJE3Lz1ew",
+            "children": [
+              {
+                "id": "141",
+                "parent": "140",
+                "text": "1. Medicación",
+                "guid": "3BM442J9GgsNTAuS-fCY1g",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "• Depende del tipo de nistagmo.",
+                    "guid": "qpkwYrXrLEG4j9qD5xjodQ",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "141",
+                    "text": "• Se revisa en\nsecciones\nespecíficas:",
+                    "guid": "O0uaZR8YiqPbA5EtGxTVdg",
+                    "children": [
+                      {
+                        "id": "144",
+                        "parent": "143",
+                        "text": "• Nistagmo pendular",
+                        "guid": "K6HcQCKEu6BrWaqAGo_afg",
+                        "children": []
+                      },
+                      {
+                        "id": "145",
+                        "parent": "143",
+                        "text": "• Nistagmo en sacudida (jerk)",
+                        "guid": "n3W_j5qvcC9k8Elw7AN82A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "146",
+                "parent": "140",
+                "text": "2. Inyecciones de\ntoxina botulínica",
+                "guid": "EopRxK2LHropcWMjVaQx5Q",
+                "children": [
+                  {
+                    "id": "147",
+                    "parent": "146",
+                    "text": "• Aplicada en músculos extraoculares o espacio intraconal.",
+                    "guid": "FbV7XtSTGPrKpPfzbKVIig",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "146",
+                    "text": "• Objetivo → debilitar músculos y reducir amplitud del nistagmo.",
+                    "guid": "Yi-LAqrNog_sq4qGGhJMhQ",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "146",
+                    "text": "• Beneficios:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "150",
+                        "parent": "149",
+                        "text": "• Puede mejorar visión, oscilopsia y amplitud del nistagmo.",
+                        "guid": "vWCRZ_k3Wv8PLyvL458eOg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "151",
+                    "parent": "146",
+                    "text": "• Limitaciones:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "152",
+                        "parent": "151",
+                        "text": "• Debilita movimientos oculares normales.",
+                        "guid": "-C1RmHB80KU_jJxYhNAT3Q",
+                        "children": []
+                      },
+                      {
+                        "id": "153",
+                        "parent": "151",
+                        "text": "• Pocos pacientes repiten el tratamiento debido a efectos adversos.",
+                        "guid": "9NTCgf6Al5oOCeuV07DcsA",
+                        "children": []
+                      },
+                      {
+                        "id": "154",
+                        "parent": "151",
+                        "text": "• Ocasionalmente útil en niños con nistagmo horizontal.",
+                        "guid": "s2UCwxaK-nEegq0AA30sAg",
+                        "children": []
+                      },
+                      {
+                        "id": "155",
+                        "parent": "151",
+                        "text": "• Casos aislados con nistagmo alternante periódico adquirido muestran mejoría en agudeza visual y oscilopsia.",
+                        "guid": "rVfxIZXj8JFGHHkXMgE10w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "156",
+                "parent": "140",
+                "text": "3. Lentes de prisma y\nsoluciones ópticas",
+                "guid": "A3X6glP49miCg4MG1HYjWg",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "• Casos en los\nque es útil:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "158",
+                        "parent": "157",
+                        "text": "1. Posición de “punto nulo” → Si el paciente tiene una posición de mirada donde el nistagmo\nes mínimo, los prismas pueden desviar la mirada a esa posición al mirar al frente.",
+                        "guid": "PRfQoerV-Jr7qAV0cpSJGQ",
+                        "children": [
+                          {
+                            "id": "159",
+                            "parent": "158",
+                            "text": "• Limita oscilopsia en mirada primaria, pero los\nsíntomas persisten en otros ángulos de mirada.",
+                            "guid": "MZ8TJsJkmeynNibZ1YF2MA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "160",
+                        "parent": "157",
+                        "text": "2. Convergencia reduce el nistagmo → Se pueden usar prismas que induzcan\nconvergencia al enfocar en la distancia.",
+                        "guid": "EkxsT7shLj_txWd2MoBM4A",
+                        "children": []
+                      },
+                      {
+                        "id": "161",
+                        "parent": "157",
+                        "text": "3. Lentes combinadas\n(hipermetrópicas + miopes de\ncontacto) →",
+                        "guid": "SvwG3GZpMG5M6lmB6bNJdA",
+                        "children": [
+                          {
+                            "id": "162",
+                            "parent": "161",
+                            "text": "• Crean un sistema donde la imagen retiniana no se desplaza con el movimiento ocular.",
+                            "guid": "ElJ3gAqVc2rnPY3uozLGsA",
+                            "children": []
+                          },
+                          {
+                            "id": "163",
+                            "parent": "161",
+                            "text": "• Útil para lectura pero\ntiene limitaciones:",
+                            "guid": "Rj98je7vPO7H3au8F7ia_A",
+                            "children": [
+                              {
+                                "id": "164",
+                                "parent": "163",
+                                "text": "• Campo visual reducido (efecto túnel).",
+                                "guid": "ilKhp94_a1P5GEQFnllNhw",
+                                "children": []
+                              },
+                              {
+                                "id": "165",
+                                "parent": "163",
+                                "text": "• No se puede usar al caminar, ya que impide la estabilización visual normal.",
+                                "guid": "aXQp-X-1cHEhMzv1pHP5wg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "166",
+                        "parent": "157",
+                        "text": "4. Lentes de contacto → Pueden reducir el nistagmo congénito por mecanismos desconocidos.",
+                        "guid": "rzPa1nqPU8p6rjvBcLr9qQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "167",
+                "parent": "140",
+                "text": "4. Cirugía",
+                "guid": "sUYYna5p_xwuNNp7Ry5C-g",
+                "children": [
+                  {
+                    "id": "168",
+                    "parent": "167",
+                    "text": "• Objetivo: reposicionar inserciones musculares para que la tensión muscular en la\nposición de mirada central coincida con la posición de “punto nulo”.",
+                    "guid": "4dX7Htb8EyVsjVXKcj5PUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "167",
+                    "text": "• Similar al efecto de los prismas, pero con resultado más permanente.",
+                    "guid": "YY9xalCYrsteP2kSu-n_MQ",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "167",
+                    "text": "• Indicaciones:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "171",
+                        "parent": "170",
+                        "text": "• Principalmente en nistagmo congénito.",
+                        "guid": "M2fRllpR4mFCKippjD1NwA",
+                        "children": []
+                      },
+                      {
+                        "id": "172",
+                        "parent": "170",
+                        "text": "• Puede mejorar agudeza visual en algunos casos.",
+                        "guid": "yS4Ibqer4tilgG-K8ARgHA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "173",
+                    "parent": "167",
+                    "text": "• Técnicas:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "174",
+                        "parent": "173",
+                        "text": "1. Tenotomía y reinserción\nde cuatro músculos",
+                        "guid": "4lsK_EpYBfAHG1u8J0rgPA",
+                        "children": [
+                          {
+                            "id": "175",
+                            "parent": "174",
+                            "text": "• No cambia la posición del punto nulo.",
+                            "guid": "TEBzHKpNtNre5VRNcC__BQ",
+                            "children": []
+                          },
+                          {
+                            "id": "176",
+                            "parent": "174",
+                            "text": "• Disminuye la retroalimentación propioceptiva en el control motor ocular.",
+                            "guid": "vDRJUAC7aoGqQ4hQREnw-g",
+                            "children": []
+                          },
+                          {
+                            "id": "177",
+                            "parent": "174",
+                            "text": "• Puede ampliar el punto nulo y mejorar la agudeza visual en nistagmo congénito.",
+                            "guid": "C6O4if_O-bQG5tFZAvkv0g",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 178,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "UTD. Nistagmus-2025",
+  "id": "map_1632",
+  "resolved_references": []
+}

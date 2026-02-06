@@ -1,0 +1,77 @@
+{
+  "title": "ARISTOTLE-2011",
+  "guid": "e62400cc-2d04-4ece-9a04-a3cb29ee7e14",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/ARISTOTLE-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ARISTOTLE (2011)\nApixaban vs Warfarin in AF\n\\nApixaban superior a warfarina en FA:\\nReduce ACV 21%, sangrado mayor 31%, mortalidad 11%\\nMejor perfil general vs warfarina",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nGranger CB, et al.\\nN Engl J Med 2011;365:981-92\nDOI: 10.1056/NEJMoa1107039\n\\nRCT doble ciego, doble dummy\\n39 paises",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=18,201\\nFA no valvular con CHADS2 mayor o igual 1\\n\\nEdad media: 70 años\\n31% mayor 75 años\\nCHADS2 medio: 2.1\\n\\nSeguimiento: 1.8 años (mediana)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nApixaban 5 mg bid\\nvs\\nWarfarina (INR 2-3)\\n\\nDosis reducida 2.5 mg bid si:\\n- Edad mayor o igual 80 años\\n- Peso menor o igual 60 kg\\n- Creatinina mayor o igual 1.5 mg/dL\\n(2 de 3 criterios)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (ACV o embolia):\\nApixaban: 1.27%/año\\nWarfarina: 1.60%/año\\nHR 0.79 (IC95% 0.66-0.95)\\np=0.01 para superioridad\n\\nSangrado mayor:\\nHR 0.69 (IC95% 0.60-0.80)\\np menor 0.001\n\\nMortalidad total:\\nHR 0.89 (IC95% 0.80-0.99)\\np=0.047",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nApixaban vs Warfarina:\\n- Sangrado mayor: 2.13% vs 3.09%/año\\n- Hemorragia intracraneal: 0.33% vs 0.80%\\n- Sangrado GI: similar\\n\\nMenos discontinuacion con apixaban\\nMejor tolerabilidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- TTR warfarina 62% (moderado)\\n- Exclusion ERC severa\\n- Poblacion ensayo clinico\\n- Seguimiento relativamente corto\\n- No valvulares (excluye EM, protesis)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Beneficio mayor en ancianos\\n- Dosis reducida para criterios especificos\\n- Menos sangrado intracraneal vs warfarina\\n- No requiere monitoreo INR\\n- Considerar funcion renal\\n- Apixaban mejor perfil en mayor 80a\\n- Menos interacciones que warfarina",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Unico DOAC superior en TODOS los outcomes\\n2. Reduce ACV, sangrado Y mortalidad\\n3. Dosis 2.5mg si: mayor80a + menor60kg o Cr mayor1.5\\n4. 2 de 3 criterios para reducir dosis\\n5. Mejor perfil en ancianos vs warfarina\\n6. Menos hemorragia intracraneal: 58%\\n7. No monitoreo rutinario\\n8. Ajuste por funcion renal\\n9. Considerar en fragiles (ELDERCARE-AF)\\n10. Primera linea en FA no valvular",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Cardiología",
+  "folder": "- Estudios Pivotales",
+  "filename": "ARISTOTLE-2026",
+  "id": "map_20",
+  "resolved_references": []
+}

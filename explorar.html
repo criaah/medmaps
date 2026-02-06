@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explorar Mapas - MedMaps</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <a href="/" class="logo">🧠 MedMaps</a>
+    <button class="hamburger" aria-label="Menú">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav>
+      <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="planes.html">Planes</a></li>
+        <li><a href="explorar.html" class="active">Explorar</a></li>
+        <li><button id="themeToggle" class="theme-toggle">🌙</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="container section">
+    <h1 class="section-title">Explorar Mapas Mentales</h1>
+
+    <!-- Filtros -->
+    <div class="filters-container">
+      <div class="search-bar" style="max-width: 400px;">
+        <input type="search" id="searchInput" placeholder="Buscar mapas...">
+        <button id="searchBtn">🔍</button>
+      </div>
+
+      <div class="filter-group">
+        <label for="specialtyFilter">Especialidad:</label>
+        <select id="specialtyFilter">
+          <option value="">Todas</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="sortBy">Ordenar:</label>
+        <select id="sortBy">
+          <option value="title">Alfabético</option>
+          <option value="nodes">Más contenido</option>
+          <option value="specialty">Especialidad</option>
+        </select>
+      </div>
+    </div>
+
+    <!-- Estadísticas -->
+    <div class="results-info" id="resultsInfo">Cargando mapas...</div>
+
+    <!-- Lista de mapas -->
+    <div id="mapsList" class="maps-list"></div>
+
+    <!-- Paginación -->
+    <div class="pagination" id="pagination"></div>
+  </section>
+</main>
+
+<!-- Modal para visualizar mapas -->
+<div id="mapModal" class="modal-overlay">
+  <div class="modal modal-large">
+    <div class="modal-header">
+      <div>
+        <h2 id="modalTitle">Mapa Mental</h2>
+        <p id="modalMeta" class="modal-meta"></p>
+      </div>
+      <button class="modal-close">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+    <div class="modal-footer">
+      <span id="modalLinks"></span>
+      <button class="btn btn-secondary btn-small" onclick="closeModal()">Cerrar</button>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2026 MedMaps | <a href="https://github.com/criaah">GitHub</a></p>
+</footer>
+
+<script src="js/app.js"></script>
+<script>
+const SPECIALTY_EMOJIS = {
+  'Cardiología': '❤️',
+  'Geriatría': '👴',
+  'Neurología': '🧠',
+  'Nefrología': '🫘',
+  'Endocrinología': '🦋',
+  'General': '📚',
+  'Estudios Pivotales': '⭐',
+  'Continuum': '📖',
+};
+
+let mapsIndex = [];
+let filteredMaps = [];
+let currentPage = 1;
+const MAPS_PER_PAGE = 20;
+
+async function loadData() {
+  try {
+    // Cargar índice de mapas
+    const mapsRes = await fetch('data/maps_index.json');
+    mapsIndex = await mapsRes.json();
+    filteredMaps = [...mapsIndex];
+
+    // Cargar especialidades para el filtro
+    const specRes = await fetch('data/specialties.json');
+    const specialties = await specRes.json();
+
+    const select = document.getElementById('specialtyFilter');
+    Object.keys(specialties).sort().forEach(name => {
+      const option = document.createElement('option');
+      option.value = name;
+      option.textContent = `${SPECIALTY_EMOJIS[name] || '📋'} ${name} (${specialties[name].count})`;
+      select.appendChild(option);
+    });
+
+    // Verificar parámetro de URL
+    const urlParams = new URLSearchParams(window.location.search);
+    const specialty = urlParams.get('specialty');
+    if (specialty) {
+      document.getElementById('specialtyFilter').value = specialty;
+      applyFilters();
+    }
+
+    renderMaps();
+    setupEventListeners();
+  } catch (error) {
+    console.error('Error cargando datos:', error);
+    document.getElementById('resultsInfo').textContent = 'Error cargando datos';
+  }
+}
+
+function setupEventListeners() {
+  document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 300));
+  document.getElementById('specialtyFilter').addEventListener('change', applyFilters);
+  document.getElementById('sortBy').addEventListener('change', applyFilters);
+}
+
+function applyFilters() {
+  const query = document.getElementById('searchInput').value.toLowerCase().trim();
+  const specialty = document.getElementById('specialtyFilter').value;
+  const sortBy = document.getElementById('sortBy').value;
+
+  filteredMaps = mapsIndex.filter(map => {
+    const matchesSearch = !query ||
+      map.title.toLowerCase().includes(query) ||
+      map.filename.toLowerCase().includes(query);
+    const matchesSpecialty = !specialty || map.specialty === specialty;
+    return matchesSearch && matchesSpecialty;
+  });
+
+  // Ordenar
+  filteredMaps.sort((a, b) => {
+    switch (sortBy) {
+      case 'nodes':
+        return b.node_count - a.node_count;
+      case 'specialty':
+        return a.specialty.localeCompare(b.specialty);
+      default:
+        return a.title.localeCompare(b.title);
+    }
+  });
+
+  currentPage = 1;
+  renderMaps();
+}
+
+function renderMaps() {
+  const container = document.getElementById('mapsList');
+  const start = (currentPage - 1) * MAPS_PER_PAGE;
+  const end = start + MAPS_PER_PAGE;
+  const pageMaps = filteredMaps.slice(start, end);
+
+  document.getElementById('resultsInfo').textContent =
+    `Mostrando ${Math.min(end, filteredMaps.length)} de ${filteredMaps.length} mapas`;
+
+  container.innerHTML = pageMaps.map(map => `
+    <div class="map-list-item" onclick="openMap('${map.id}')">
+      <div class="map-list-info">
+        <h3>${map.title}</h3>
+        <p class="map-list-meta">
+          ${SPECIALTY_EMOJIS[map.specialty] || '📋'} ${map.specialty}
+          • ${map.node_count} nodos
+          ${map.has_references ? '• 🔗 Con enlaces' : ''}
+        </p>
+      </div>
+      <div class="map-list-action">
+        <span class="btn btn-small btn-secondary">Ver Mapa</span>
+      </div>
+    </div>
+  `).join('');
+
+  renderPagination();
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(filteredMaps.length / MAPS_PER_PAGE);
+  const container = document.getElementById('pagination');
+
+  if (totalPages <= 1) {
+    container.innerHTML = '';
+    return;
+  }
+
+  let html = '';
+  if (currentPage > 1) {
+    html += `<button onclick="goToPage(${currentPage - 1})">← Anterior</button>`;
+  }
+
+  html += `<span class="page-info">Página ${currentPage} de ${totalPages}</span>`;
+
+  if (currentPage < totalPages) {
+    html += `<button onclick="goToPage(${currentPage + 1})">Siguiente →</button>`;
+  }
+
+  container.innerHTML = html;
+}
+
+function goToPage(page) {
+  currentPage = page;
+  renderMaps();
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+async function openMap(mapId) {
+  try {
+    const res = await fetch(`data/maps/${mapId}.json`);
+    const mapData = await res.json();
+
+    document.getElementById('modalTitle').textContent = mapData.title;
+    document.getElementById('modalMeta').innerHTML =
+      `${SPECIALTY_EMOJIS[mapData.specialty] || '📋'} ${mapData.specialty} • ${mapData.node_count} nodos`;
+
+    document.getElementById('modalBody').innerHTML = renderMapTree(mapData.root);
+
+    // Mostrar enlaces relacionados
+    const links = mapData.resolved_references || [];
+    if (links.length > 0) {
+      document.getElementById('modalLinks').innerHTML =
+        `<span style="font-size: 0.9rem; color: var(--gray);">🔗 Enlaces: ${links.map(l => l.reference_name).join(', ')}</span>`;
+    } else {
+      document.getElementById('modalLinks').innerHTML = '';
+    }
+
+    document.getElementById('mapModal').classList.add('visible');
+    document.body.style.overflow = 'hidden';
+
+    initializeToggleLists();
+  } catch (error) {
+    console.error('Error:', error);
+    alert('Error al cargar el mapa');
+  }
+}
+
+function renderMapTree(node, level = 0) {
+  if (!node) return '<p>Sin contenido</p>';
+
+  const text = node.text?.replace(/\n/g, '<br>') || '(Sin texto)';
+  const hasChildren = node.children && node.children.length > 0;
+
+  let html = `<div class="toggle-item" data-level="${level}" style="margin-left: ${level * 16}px;">`;
+
+  if (hasChildren) {
+    html += `
+      <div class="toggle-header ${level === 0 ? 'expanded' : ''}">
+        <span class="toggle-icon">▶</span>
+        <span class="toggle-title">${text}</span>
+      </div>
+      <div class="toggle-children ${level === 0 ? 'visible' : ''}">
+        ${node.children.map(child => renderMapTree(child, level + 1)).join('')}
+      </div>
+    `;
+  } else {
+    html += `
+      <div class="toggle-header no-toggle">
+        <span class="toggle-icon">•</span>
+        <span class="toggle-title">${text}</span>
+      </div>
+    `;
+  }
+
+  html += '</div>';
+  return html;
+}
+
+function closeModal() {
+  document.getElementById('mapModal').classList.remove('visible');
+  document.body.style.overflow = '';
+}
+
+function debounce(func, wait) {
+  let timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func.apply(this, args), wait);
+  };
+}
+
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+document.getElementById('mapModal').addEventListener('click', e => { if (e.target.id === 'mapModal') closeModal(); });
+
+document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+<style>
+.filters-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--gray-light);
+  border-radius: 8px;
+}
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.filter-group label {
+  font-weight: 500;
+  color: var(--gray);
+}
+.filter-group select {
+  padding: 0.5rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--white);
+}
+.results-info {
+  margin-bottom: 1rem;
+  color: var(--gray);
+  font-size: 0.95rem;
+}
+.maps-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.map-list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+.map-list-item:hover {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-color: var(--primary);
+}
+.map-list-info h3 {
+  margin: 0 0 0.25rem 0;
+  font-size: 1rem;
+}
+.map-list-meta {
+  margin: 0;
+  font-size: 0.85rem;
+  color: var(--gray);
+}
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.pagination button {
+  padding: 0.5rem 1rem;
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.pagination button:hover {
+  background: var(--secondary);
+}
+.page-info {
+  color: var(--gray);
+}
+.modal-large {
+  max-width: 900px;
+  max-height: 85vh;
+}
+.modal-meta {
+  color: var(--gray);
+  font-size: 0.9rem;
+  margin: 0.25rem 0 0 0;
+}
+@media (max-width: 768px) {
+  .filters-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .filter-group {
+    width: 100%;
+  }
+  .filter-group select {
+    flex: 1;
+  }
+  .map-list-item {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+}
+</style>
+
+</body>
+</html>

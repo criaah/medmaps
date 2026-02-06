@@ -1,0 +1,77 @@
+{
+  "title": "DAPA-HF-2019",
+  "guid": "2d4decd5-12fb-4f3d-ad30-c77b229812ad",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/DAPA-HF-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "DAPA-HF (2019)\nDapagliflozin in Heart Failure\n\\nDapagliflozina reduce muerte CV y hospitalizacion IC\\nen IC-FEr CON y SIN diabetes\nNNTH 21",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nMcMurray JJV, et al.\\nN Engl J Med 2019;381:1995-2008\nDOI: 10.1056/NEJMoa1911303\n\\nRCT multicentrico, doble ciego\\n20 paises",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=4,744\\nEdad media: 66 años\\n\\nCriterios:\\n- IC NYHA II-IV\\n- FEVI menor o igual 40%\\n- NT-proBNP elevado\\n- Con o sin diabetes (42% DM)\\n\\nSeguimiento: 18.2 meses (mediana)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nDapagliflozina 10 mg/dia\\nvs\\nPlacebo\\n\\nAdicional a terapia optima IC\\n(IECA/ARA2, betabloqueador, ARM)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (muerte CV + hosp IC + visita urgente IC):\\nDapagliflozina: 16.3%\\nPlacebo: 21.2%\\nHR 0.74 (IC95% 0.65-0.85)\\np menor 0.001\nNNTH 21\n\\nMuerte CV: HR 0.82\\nHospitalizacion IC: HR 0.70\\nMortalidad total: HR 0.83\\n\\nBeneficio SIMILAR con y sin DM\\nMejoria sintomas (KCCQ)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nBien tolerada\\n\\nDapagliflozina vs placebo:\\n- Hipoglicemia (solo DM): similar\\n- Deplecion volumen: 7.5% vs 6.8%\\n- IRA: 6.5% vs 7.2% (menor!)\\n- Amputaciones: similar\\n- Gangrena Fournier: 0\\n- Cetoacidosis: rara",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Seguimiento relativamente corto\\n- Pocos muy ancianos\\n- Exclusion TFG menor 30\\n- No IC-FEp incluida\\n- Mayoria raza blanca",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Beneficio independiente de edad\\n- NO requiere diabetes\\n- Puede ayudar a reducir diureticos\\n- Precaucion deplecion volumen en ancianos\\n- Monitorizar TFG inicial\\n- Proteccion renal adicional\\n- Simplicidad: 1 tableta/dia, sin titulacion",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. iSGLT2 = pilar terapia IC-FEr\\n2. Beneficio SIN diabetes es igual\\n3. NNT 21 muy favorable\\n4. No requiere titulacion\\n5. Efecto rapido (semanas)\\n6. Reduce hospitalizaciones y mejora calidad vida\\n7. Seguro en ERC hasta TFG 25-30\\n8. Puede permitir reducir diuretico de asa\\n9. Pilar del cuadruple terapia IC\\n10. Indicacion Clase I en guias IC",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Cardiología",
+  "folder": "- Estudios Pivotales",
+  "filename": "DAPA-HF-2026",
+  "id": "map_14",
+  "resolved_references": []
+}

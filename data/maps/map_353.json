@@ -1,0 +1,3072 @@
+{
+  "title": "Variables y Medidas de Frecuencia",
+  "guid": "7C323DAB415F46FD6046D965",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Bioestadística/6.1 Variables y Medidas de Frecuencia-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Variables y Medidas de Frecuencia",
+    "guid": "fgde7itKbgUK2-W6Wu_mcA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "General",
+        "guid": "S6FEiCxdBuptY0LpQNM7vg",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "INTRO",
+            "guid": "Eu936G0p6esb9aFoZFooXQ",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "→ Obj. investigación: comunicar\nresultados clara/mente",
+                "guid": "dsGiS3ufDgBV72gOBHtLZw",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "→ Formas específicas\n→ expresar:",
+                "guid": "PJqZQkOctENFbo2dItB6tw",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "Frecuencia del desenlace",
+                    "guid": "Ue7rBWXo7jdj6dRldWW_1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "Asociación exposición-desenlace",
+                    "guid": "bqzcpg6D4pYLD7LKGxpflw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "VARIABLE",
+            "guid": "FFNAtmxJlb0IsCU-TBD8MQ",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "→ Def: \"Cantidad que puede tomar diferentes valores en sujetos/otras unidades\" (1)",
+                "guid": "KgLUj0ira9x-4AEXCH_Hxw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "→ Tipos:",
+                "guid": "I8hqMyLutUxCdlIlG0B2Dg",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "Según naturaleza:",
+                    "guid": "I7SaUUyOP24rvMTvIKy9AQ",
+                    "children": [
+                      {
+                        "id": "11",
+                        "parent": "10",
+                        "text": "Cualitativas/categóricas",
+                        "guid": "GAVztBx_7TUbrD6fDscV_w",
+                        "children": []
+                      },
+                      {
+                        "id": "12",
+                        "parent": "10",
+                        "text": "Cuantitativas/numéricas",
+                        "guid": "GB77NXGbpq4TQmFmVLmUdw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "13",
+                    "parent": "9",
+                    "text": "Según función:",
+                    "guid": "NTha8Viw7wN3ig8uBydF9g",
+                    "children": [
+                      {
+                        "id": "14",
+                        "parent": "13",
+                        "text": "Exposición/independiente",
+                        "guid": "PpndO1tz45N8jQXMLUa54Q",
+                        "children": []
+                      },
+                      {
+                        "id": "15",
+                        "parent": "13",
+                        "text": "Desenlace/dependiente",
+                        "guid": "affGKQecuJZIYRl5E_qauA",
+                        "children": []
+                      },
+                      {
+                        "id": "16",
+                        "parent": "13",
+                        "text": "Control/confusión",
+                        "guid": "UEgkckdBGpAcemJ_dBCOpQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "parent": "1",
+            "text": "MEDIDAS DE\nFRECUENCIA",
+            "guid": "ai_P3V7wtKQPUQSzDeRqLg",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "→ Tipos principales:",
+                "guid": "K370EzsNyaIukScvQ4Rnxw",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "Proporción",
+                    "guid": "V42210o9Zc5SS33Hb6yyDA",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "Razón",
+                    "guid": "O9kMfGWN3y1EZkaDcRFnbg",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "18",
+                    "text": "Tasa",
+                    "guid": "Pj7OMTvwVbF4OK1kfNirbA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "1",
+            "text": "CARACTERIZACIÓN",
+            "guid": "XeXMRjqcOktIW-yKbFdL0Q",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "→ Proporción:",
+                "guid": "F2Q5RHTFszAqH2VNAVv_bQ",
+                "children": [
+                  {
+                    "id": "24",
+                    "parent": "23",
+                    "text": "Numerador ⊂ denominador",
+                    "guid": "fGJrxnKAfsYVVpolTKqQOA",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "23",
+                    "text": "Rango: 0-1",
+                    "guid": "OcGZVzHQ_KRAux7dI_FpNA",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "23",
+                    "text": "Ej: prevalencia",
+                    "guid": "EMGxSFAMI5Ax1dNiPEClWw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27",
+                "parent": "22",
+                "text": "→ Razón:",
+                "guid": "CxntMmBm-pF_xQ0jYqekCQ",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "Numerador ≠ denominador",
+                    "guid": "KqRgX1IQiupSVFYVZn1s3A",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "Sin límite superior",
+                    "guid": "N55qFxa6nJhXjtRKdd04SA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "Ej: razón mortalidad",
+                    "guid": "UqrySU_Hga5yteO0ag8rjQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31",
+                "parent": "22",
+                "text": "→ Tasa:",
+                "guid": "RI003xzVSQJrayr6QO-gpQ",
+                "children": [
+                  {
+                    "id": "32",
+                    "parent": "31",
+                    "text": "Incorpora tiempo",
+                    "guid": "D1XHyADBxR8NmjDeSRdhHw",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "31",
+                    "text": "Unidad: personas-tiempo",
+                    "guid": "MpLBw05VT7ttCMpTQ1RzDA",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "31",
+                    "text": "Ej: incidencia",
+                    "guid": "HmFzTB7enbV_lRhnKXtgfg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "parent": "1",
+            "text": "APLICACIÓN\nEPIDEMIOLÓGICA",
+            "guid": "V_N6UgWWfYkKHpMldgx_eQ",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "→ Prevalencia:",
+                "guid": "f0WYRn9aJYoMIwSIKen4pg",
+                "children": [
+                  {
+                    "id": "37",
+                    "parent": "36",
+                    "text": "Casos existentes/población total",
+                    "guid": "UWqwdF53Wp0QZ2WCCQkajA",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "36",
+                    "text": "Momento (puntual)",
+                    "guid": "dTH3Nmf2Ocx-5lLUR9zpfw",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "36",
+                    "text": "Período (lapso)",
+                    "guid": "N727enGcNokx7BUNfErwWQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "40",
+                "parent": "35",
+                "text": "→ Incidencia:",
+                "guid": "DnF_ix1XQAc9OpD_HcdHUw",
+                "children": [
+                  {
+                    "id": "41",
+                    "parent": "40",
+                    "text": "Casos nuevos/población riesgo",
+                    "guid": "HhkFJ0rUwd1m3qhzUKvG6g",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "40",
+                    "text": "Acumulada (proporción)",
+                    "guid": "GSoRmFPncsYUADn2N4uE5A",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "40",
+                    "text": "Densidad (tasa)",
+                    "guid": "csYQfBOVUl5hBuVjcguowg",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "40",
+                    "text": "Según naturaleza:",
+                    "guid": "UGs_ZnD9O5hGuEZkaZVQ_w",
+                    "children": [
+                      {
+                        "id": "45",
+                        "parent": "44",
+                        "text": "Cualitativas/categóricas",
+                        "guid": "ROSuXlq4gFohINXjN6q-2g",
+                        "children": []
+                      },
+                      {
+                        "id": "46",
+                        "parent": "44",
+                        "text": "Cuantitativas/numéricas",
+                        "guid": "bk3SuAInu0YptmedAT1KoQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "47",
+                    "parent": "40",
+                    "text": "Según función:",
+                    "guid": "P0RLpAR2SrZSbUzXHSoX6w",
+                    "children": [
+                      {
+                        "id": "48",
+                        "parent": "47",
+                        "text": "Exposición/independiente",
+                        "guid": "b1GlMUWsCQVll3L-OvLpug",
+                        "children": []
+                      },
+                      {
+                        "id": "49",
+                        "parent": "47",
+                        "text": "Desenlace/dependiente",
+                        "guid": "cgkP8FL6ted7xiV4BlxQpg",
+                        "children": []
+                      },
+                      {
+                        "id": "50",
+                        "parent": "47",
+                        "text": "Control/confusión",
+                        "guid": "PxKFARrJOWIJgWO8FwX_VA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "51",
+            "parent": "1",
+            "text": "MEDIDAS DE FRECUENCIA\n→ Tipos principales:",
+            "guid": "IF-26xOf9uENEn7NcMr2Ug",
+            "children": [
+              {
+                "id": "52",
+                "parent": "51",
+                "text": "Proporción",
+                "guid": "BJ0yeVPKxTFaYEdRSYHg2A",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "51",
+                "text": "Razón",
+                "guid": "LoNFjHuBHTQBLJ-yHNEYRA",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "51",
+                "text": "Tasa",
+                "guid": "fajYeyrjB08eDmLlbPp9rA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "parent": "1",
+            "text": "CARACTERIZACIÓN",
+            "guid": "cI8QVQOl1eMn7WdmYpggRQ",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "→ Proporción:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "Numerador ⊂ denominador",
+                    "guid": "VqCLyiOzjN9o9HDrFeTXbw",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "56",
+                    "text": "Rango: 0-1",
+                    "guid": "KCnXlTthvcMzDu9aZzxclw",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "56",
+                    "text": "Ej: prevalencia",
+                    "guid": "Vir3JTyQUxZ-QlvrdoquEA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60",
+                "parent": "55",
+                "text": "→ Razón:",
+                "guid": "UDBJ-AtU2rhnVaRiVM18cQ",
+                "children": [
+                  {
+                    "id": "61",
+                    "parent": "60",
+                    "text": "Numerador ≠ denominador",
+                    "guid": "Xx-f6kG167MeT11JDaLldg",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "60",
+                    "text": "Sin límite superior",
+                    "guid": "PTcI6B97_Pwqc_26Ot_hYw",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "60",
+                    "text": "Ej: razón mortalidad",
+                    "guid": "Sl8ES0iCYKAn2l8POu4UoA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64",
+                "parent": "55",
+                "text": "→ Tasa:",
+                "guid": "TCg2g0_HxnYdhjTlIsjCTg",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "Incorpora tiempo",
+                    "guid": "c3tTVQZ6pdE4rZm9G6Uq6g",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "64",
+                    "text": "Unidad: personas-tiempo",
+                    "guid": "QdxjlGu8iRcC4YeBGAdauQ",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "64",
+                    "text": "Ej: incidencia",
+                    "guid": "KEzcLQEj42wOkgjJeH0mJQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "parent": "1",
+            "text": "APLICACIÓN\nEPIDEMIOLÓGICA",
+            "guid": "DHi-JXXnrSxNSqKXa5heDw",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "→ Prevalencia:",
+                "guid": "NGPwfxPQNG42dybvdkBUEw",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "Casos existentes/población total",
+                    "guid": "N52Y32uZ_-B5O0OFdNShxw",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "69",
+                    "text": "Momento (puntual)",
+                    "guid": "CxX83COvQT8vtIMqVXUBKA",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "69",
+                    "text": "Período (lapso)",
+                    "guid": "bDGh31eO4joQYxXIOFnYYw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73",
+                "parent": "68",
+                "text": "→ Incidencia:",
+                "guid": "J1aosC3pSq5bIpqxGtH8BQ",
+                "children": [
+                  {
+                    "id": "74",
+                    "parent": "73",
+                    "text": "Casos nuevos/población riesgo",
+                    "guid": "f4y9hTlYrnEOR67MJ9mZsg",
+                    "children": []
+                  },
+                  {
+                    "id": "75",
+                    "parent": "73",
+                    "text": "Acumulada (proporción)",
+                    "guid": "OnyR3RzZt5UgVr_YRvVQAg",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "73",
+                    "text": "Densidad (tasa)",
+                    "guid": "EsFkwW2hYm8yja4RSl79oQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "parent": "0",
+        "text": "VARIABLES - CLASIFICACIÓN\nY CARACTERÍSTICAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "78",
+            "parent": "77",
+            "text": "DEFINICIÓN BASE → Cantidad con diferentes valores en sujetos/unidades estudio\n→ Contraria a constante → Requisito: definición precoz inicio estudio",
+            "guid": "YvZ8Nz8W0HEitwVcYoM5vA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "VARIABLES CATEGÓRICAS A.\nNominal → Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "80",
+        "parent": "0",
+        "text": "Solo nombra niveles",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "81",
+        "parent": "0",
+        "text": "Sin orden lógico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "82",
+        "parent": "0",
+        "text": "Expresión: n° y % →\nEj: Estado civil",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "83",
+        "parent": "0",
+        "text": "Soltero",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "84",
+        "parent": "0",
+        "text": "Casado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "85",
+        "parent": "0",
+        "text": "Viudo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "86",
+        "parent": "0",
+        "text": "B. Ordinal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "→ Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "88",
+        "parent": "0",
+        "text": "Nombra niveles",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "89",
+        "parent": "0",
+        "text": "Con orden lógico (<)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "90",
+        "parent": "0",
+        "text": "Expresión: n° y % → Ej:\nSeveridad asma",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "91",
+        "parent": "0",
+        "text": "Leve",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "92",
+        "parent": "0",
+        "text": "Moderado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "93",
+        "parent": "0",
+        "text": "Severo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "94",
+        "parent": "0",
+        "text": "VARIABLES NUMÉRICAS A.\nDiscreta → Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "Valores enteros",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "96",
+        "parent": "0",
+        "text": "Sin valores\nintermedios → Ej: N°\nhijos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "97",
+        "parent": "0",
+        "text": "B. Continua",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "98",
+        "parent": "0",
+        "text": "→ Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "99",
+        "parent": "0",
+        "text": "Valores fraccionados",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "100",
+        "parent": "0",
+        "text": "Con valores intermedios\n→ Ej: Peso, talla",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "101",
+        "parent": "0",
+        "text": "APLICACIÓN PRÁCTICA → Análisis posterior\nfacilitado → Base para estadística →\nDetermina métodos estadísticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "102",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "103",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "104",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "105",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "106",
+        "parent": "0",
+        "text": "VARIABLES NUMÉRICAS & MEDIDAS\nFRECUENCIA - DETALLES",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "107",
+        "parent": "0",
+        "text": "NUMÉRICA DISCRETA\n→ Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "108",
+        "parent": "0",
+        "text": "Cuantifica valores\nenteros (1,2,3...)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "109",
+        "parent": "0",
+        "text": "Orden lógico: 1<2<3",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "110",
+        "parent": "0",
+        "text": "Operaciones\nmatemáticas ✓",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "111",
+        "parent": "0",
+        "text": "Decimales ✗ →\nExpresión:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "112",
+        "parent": "0",
+        "text": "N° y %",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "113",
+        "parent": "0",
+        "text": "Promedio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "114",
+        "parent": "0",
+        "text": "DE",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "115",
+        "parent": "0",
+        "text": "Mediana",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "116",
+        "parent": "0",
+        "text": "Rango → Ej: N° hijos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "117",
+        "parent": "0",
+        "text": "NUMÉRICA CONTINUA\n→ Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "118",
+        "parent": "0",
+        "text": "Cuantifica todo valor",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "119",
+        "parent": "0",
+        "text": "Orden lógico ✓",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "120",
+        "parent": "0",
+        "text": "Operaciones\nmatemáticas ✓",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "121",
+        "parent": "0",
+        "text": "Decimales ✓ →\nExpresión:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "122",
+        "parent": "0",
+        "text": "Promedio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "123",
+        "parent": "0",
+        "text": "DE",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "124",
+        "parent": "0",
+        "text": "Mediana",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "125",
+        "parent": "0",
+        "text": "Rango → Ej: Talla (cm)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "126",
+        "parent": "0",
+        "text": "CLASIFICACIÓN GENERAL\nVARIABLES (Fig 2.2) →\nCualitativas (categóricas):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "127",
+        "parent": "0",
+        "text": "Nominales →\nClasificar",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "128",
+        "parent": "0",
+        "text": "Ordinales → Jerarquizar →\nCuantitativas (numéricas):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "129",
+        "parent": "0",
+        "text": "Discretas → Contar",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "130",
+        "parent": "0",
+        "text": "Continuas → Medir",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "131",
+        "parent": "0",
+        "text": "MEDIDAS FRECUENCIA →\nObjetivos fundamentales:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "132",
+        "parent": "0",
+        "text": "Casos nuevos\nenfermedad/condición",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "133",
+        "parent": "0",
+        "text": "Frecuencia\nexposición\npoblación",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "134",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "135",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "136",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "137",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "138",
+        "parent": "0",
+        "text": "DINÁMICA\nENFERMEDAD/POBLACIÓN &\nINCIDENCIA",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "139",
+        "parent": "0",
+        "text": "MEDIDAS FRECUENCIA - TIPOS\nBÁSICOS → Incidencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "140",
+        "parent": "0",
+        "text": "Casos nuevos\nenfermedad/condición",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "141",
+        "parent": "0",
+        "text": "Tiempo específico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "142",
+        "parent": "0",
+        "text": "→ Prevalencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "143",
+        "parent": "0",
+        "text": "Casos existentes\nenfermedad/condición",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "144",
+        "parent": "0",
+        "text": "Tiempo específico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "145",
+        "parent": "0",
+        "text": "DINÁMICA ENFERMEDAD A.\nProceso Individual → Secuencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "146",
+        "parent": "0",
+        "text": "Inicio enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "147",
+        "parent": "0",
+        "text": "Síntomas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "148",
+        "parent": "0",
+        "text": "Búsqueda atención",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "149",
+        "parent": "0",
+        "text": "Diagnóstico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "150",
+        "parent": "0",
+        "text": "Tratamiento →\nFuentes datos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "151",
+        "parent": "0",
+        "text": "Registros médicos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "Registros hospital",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "153",
+        "parent": "0",
+        "text": "B. Proceso\nPoblacional",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "154",
+        "parent": "0",
+        "text": "→ Etapas:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "155",
+        "parent": "0",
+        "text": "Población total sana",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "156",
+        "parent": "0",
+        "text": "Aparición enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "157",
+        "parent": "0",
+        "text": "Búsqueda atención",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "Hospitalización",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "159",
+        "parent": "0",
+        "text": "INCIDENCIA - DEFINICIÓN\nOPERATIVA → Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "160",
+        "parent": "0",
+        "text": "N° casos nuevos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "161",
+        "parent": "0",
+        "text": "Condición/enfermedad\nespecífica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "162",
+        "parent": "0",
+        "text": "Muestra/población\ndefinida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "163",
+        "parent": "0",
+        "text": "Período determinado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "164",
+        "parent": "0",
+        "text": "Lugar específico →\nMedición temporal:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "165",
+        "parent": "0",
+        "text": "Inicio preciso",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "166",
+        "parent": "0",
+        "text": "Final establecido",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "167",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "168",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "169",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "170",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "171",
+        "parent": "0",
+        "text": "INCIDENCIA -\nCÁLCULO Y\nAPLICACIÓN",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "172",
+        "parent": "0",
+        "text": "DEFINICIÓN → Sinónimo: ocurrencia →\nMide: casos nuevos\nenfermedad/condición → Elementos\nclave:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "173",
+        "parent": "0",
+        "text": "Muestra/población\ndefinida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "174",
+        "parent": "0",
+        "text": "Período específico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "Lugar determinado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "176",
+        "parent": "0",
+        "text": "FÓRMULA BÁSICA → Numerador: N° casos nuevos\nenfermedad → Denominador: N° total sujetos en\nriesgo → Condición: mismo lugar/tiempo →\nAmplificación: x10n (100/1000 sujetos)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "177",
+        "parent": "0",
+        "text": "EJEMPLOS PRÁCTICOS (Chile) A.\nTuberculosis 2008-2018: → Tendencia\nrelativamente estable → Rango: 13-15.7/100.\n000 hab → Ligero aumento 2018",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "178",
+        "parent": "0",
+        "text": "B. VIH 2010-2018:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "179",
+        "parent": "0",
+        "text": "→ Tendencia\nascendente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "180",
+        "parent": "0",
+        "text": "→ Mayor en\nhombres vs\nmujeres",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "181",
+        "parent": "0",
+        "text": "→ Relación H:M ≈ 5:1",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "182",
+        "parent": "0",
+        "text": "ELEMENTOS CRÍTICOS\nMEDICIÓN → Requiere:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "183",
+        "parent": "0",
+        "text": "Definición precisa\nenfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "184",
+        "parent": "0",
+        "text": "Método diagnóstico\nestandarizado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "185",
+        "parent": "0",
+        "text": "Población riesgo\nidentificada",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "186",
+        "parent": "0",
+        "text": "Sistema\nvigilancia\nactivo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "187",
+        "parent": "0",
+        "text": "CONSIDERACIONES TÉCNICAS\n→ Afectan medición:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "188",
+        "parent": "0",
+        "text": "Criterios diagnósticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "189",
+        "parent": "0",
+        "text": "Calidad registro",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "190",
+        "parent": "0",
+        "text": "Acceso\nservicios\nsalud",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "191",
+        "parent": "0",
+        "text": "Métodos detección",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "192",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "193",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "194",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "195",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "196",
+        "parent": "0",
+        "text": "INCIDENCIA -\nCOMPONENTES &\nTIPOS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "197",
+        "parent": "0",
+        "text": "REQUISITOS\nMEDICIÓN → Caso\nnuevo:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "198",
+        "parent": "0",
+        "text": "Definición\nenfermedad\nprecisa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "199",
+        "parent": "0",
+        "text": "Diagnóstico:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "200",
+        "parent": "0",
+        "text": "Clásico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "201",
+        "parent": "0",
+        "text": "Intensivo\nsegún evento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "202",
+        "parent": "0",
+        "text": "Pesquisa poblacional →\nDenominador exacto:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "203",
+        "parent": "0",
+        "text": "Incluye\npoblación riesgo\ntotal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "204",
+        "parent": "0",
+        "text": "Ej: Ca útero +\nhisterectomizadas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "205",
+        "parent": "0",
+        "text": "EJEMPLO HISTÓRICO → Ca\ntiroides infantil 1986-94:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "206",
+        "parent": "0",
+        "text": "Bielorrusia: ↑↑↑\npost-1990",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "207",
+        "parent": "0",
+        "text": "Ucrania: ↑ moderado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "208",
+        "parent": "0",
+        "text": "Rusia: ↑ leve",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "209",
+        "parent": "0",
+        "text": "Belarus:\ntendencia\nintermedia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "210",
+        "parent": "0",
+        "text": "TIPOS INCIDENCIA A. Incidencia\nAcumulada → Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "211",
+        "parent": "0",
+        "text": "Denominador:\nsujetos en riesgo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "212",
+        "parent": "0",
+        "text": "Medida:\nproporción\nsimple",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "213",
+        "parent": "0",
+        "text": "B. Densidad Incidencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "214",
+        "parent": "0",
+        "text": "→ Características:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "215",
+        "parent": "0",
+        "text": "Denominador:\ntiempo-persona",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "216",
+        "parent": "0",
+        "text": "Suma tiempo individual en\nriesgo → Particularidades:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "217",
+        "parent": "0",
+        "text": "Tiempo riesgo variable",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "218",
+        "parent": "0",
+        "text": "Pérdidas:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "219",
+        "parent": "0",
+        "text": "Seguimiento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "220",
+        "parent": "0",
+        "text": "Fallecimientos → Ej:\nseguimiento 12m",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "221",
+        "parent": "0",
+        "text": "Si diagnóstico 1°abril",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "222",
+        "parent": "0",
+        "text": "Riesgo real:\n3m (no 12m)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "223",
+        "parent": "0",
+        "text": "REPRESENTACIÓN GRÁFICA → Líneas temporales\nindividuales → Marcadores eventos específicos →\nTiempo seguimiento variable",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "224",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "225",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "226",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "227",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "228",
+        "parent": "0",
+        "text": "DENSIDAD INCIDENCIA -\nANÁLISIS & EJEMPLO",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "229",
+        "parent": "0",
+        "text": "PATRONES SEGUIMIENTO (GRÁFICOS) A.\nSeguimiento Completo → 5 sujetos x 5 años = 25 py →\nSin pérdidas → Total: 25 personas-año",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "230",
+        "parent": "0",
+        "text": "B. Pérdidas\nSeguimiento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "231",
+        "parent": "0",
+        "text": "→ 5 sujetos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "232",
+        "parent": "0",
+        "text": "→ Eventos (x)\n= pérdidas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "233",
+        "parent": "0",
+        "text": "→ Tiempo\nvariable/sujeto",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "234",
+        "parent": "0",
+        "text": "C. Seguimiento Mixto",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "235",
+        "parent": "0",
+        "text": "→ Total: 17 py",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "236",
+        "parent": "0",
+        "text": "→ Años variables:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "237",
+        "parent": "0",
+        "text": "Año 1-2: 5 py",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "238",
+        "parent": "0",
+        "text": "Año 3: 3 py",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "239",
+        "parent": "0",
+        "text": "Año 4-5: 2 py",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "240",
+        "parent": "0",
+        "text": "EJEMPLO PRÁCTICO HTA 2020 A. Datos Base →\nPoblación: 2000 adultos mayores → Casos\nnuevos: 250 → Período: 1 enero-31 diciembre →\nSeguimiento teórico: 24.000 meses →\nSeguimiento real: 22.200 meses",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "241",
+        "parent": "0",
+        "text": "B. Cálculos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "242",
+        "parent": "0",
+        "text": "→ Incidencia\nacumulada:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "243",
+        "parent": "0",
+        "text": "250/2000 = 0,125",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "244",
+        "parent": "0",
+        "text": "125/1000\nadultos\nmayores",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "245",
+        "parent": "0",
+        "text": "→ Densidad\nincidencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "246",
+        "parent": "0",
+        "text": "250/22.000 = 0,0113",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "247",
+        "parent": "0",
+        "text": "11,3/1000\nmeses-persona",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "248",
+        "parent": "0",
+        "text": "PREVALENCIA - CONCEPTOS\nBÁSICOS → Def: proporción casos\nexistentes → Elementos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "249",
+        "parent": "0",
+        "text": "Muestra/población\ndefinida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "250",
+        "parent": "0",
+        "text": "Momento específico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "251",
+        "parent": "0",
+        "text": "Lugar determinado →\nSinónimo: frecuencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "252",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "253",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "254",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "255",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "256",
+        "parent": "0",
+        "text": "PREVALENCIA -\nTIPOS & CÁLCULO",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "257",
+        "parent": "0",
+        "text": "DEFINICIÓN BASE →\nProporción casos\nexistentes → Elementos\nclave:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "258",
+        "parent": "0",
+        "text": "Muestra/población\ndefinida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "259",
+        "parent": "0",
+        "text": "Momento/período\nespecífico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "260",
+        "parent": "0",
+        "text": "Lugar determinado →\nSinónimo: frecuencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "261",
+        "parent": "0",
+        "text": "FÓRMULA BÁSICA → Numerador: N° sujetos con\nenfermedad → Denominador: N° total sujetos en\nriesgo → Condición: mismo lugar/tiempo →\nAmplificación: x10n (100/1000)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "262",
+        "parent": "0",
+        "text": "TIPOS PREVALENCIA A. Puntual\n→ Momento específico → Ej: 10\nseptiembre 2010",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "263",
+        "parent": "0",
+        "text": "B. Período (lápsica)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "264",
+        "parent": "0",
+        "text": "→ Intervalo definido",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "265",
+        "parent": "0",
+        "text": "→ Ej:\nabril-septiembre\n2010",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "266",
+        "parent": "0",
+        "text": "→ Incluye: cualquier\nmomento del período",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "267",
+        "parent": "0",
+        "text": "C. Vida\n(Incidencia\nacumulada)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "268",
+        "parent": "0",
+        "text": "→ Todo el curso vital",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "269",
+        "parent": "0",
+        "text": "→ Cualquier\nmomento de la\nvida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "270",
+        "parent": "0",
+        "text": "→ Medida\nacumulativa\ntotal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "271",
+        "parent": "0",
+        "text": "REPRESENTACIÓN GRÁFICA → Líneas\ntemporales → Marcadores:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "272",
+        "parent": "0",
+        "text": "x = evento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "273",
+        "parent": "0",
+        "text": "| = límite período →\nDiferencias según tipo:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "274",
+        "parent": "0",
+        "text": "Puntual:\nmomento\nespecífico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "275",
+        "parent": "0",
+        "text": "Período:\nintervalo\ncompleto",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "276",
+        "parent": "0",
+        "text": "Vida: toda la\nlínea temporal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "277",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "278",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "279",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "280",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "281",
+        "parent": "0",
+        "text": "PREVALENCIA -\nANÁLISIS DE CASOS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "282",
+        "parent": "0",
+        "text": "INTERPRETACIÓN GRÁFICA 2012\n→ Seguimiento pacientes\nenero-diciembre → Eventos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "283",
+        "parent": "0",
+        "text": "X = fallecido",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "284",
+        "parent": "0",
+        "text": "| = curado →\nMediciones\nprevalencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "285",
+        "parent": "0",
+        "text": "Mayo:\npost-fallecimiento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "286",
+        "parent": "0",
+        "text": "Julio/Septiembre:\nperíodos intermedios",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "287",
+        "parent": "0",
+        "text": "Diciembre: final\nseguimiento",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "288",
+        "parent": "0",
+        "text": "EJEMPLO TABAQUISMO MEDICINA 2021\nA. Datos Base → Población: 120 alumnos\n4° año → Mediciones:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "289",
+        "parent": "0",
+        "text": "Fumadores\n10/agosto: 30",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "290",
+        "parent": "0",
+        "text": "Fumadores\nabril-agosto: 40",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "291",
+        "parent": "0",
+        "text": "Fumadores\nalguna vez: 50",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "292",
+        "parent": "0",
+        "text": "Población riesgo: 120",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "293",
+        "parent": "0",
+        "text": "B. Cálculos\nPrevalencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "294",
+        "parent": "0",
+        "text": "→ Puntual (10 agosto):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "295",
+        "parent": "0",
+        "text": "30/120 = 0,25",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "296",
+        "parent": "0",
+        "text": "25/100 alumnos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "297",
+        "parent": "0",
+        "text": "→ Lápsica\n(abril-agosto):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "298",
+        "parent": "0",
+        "text": "40/120 = 0,33",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "299",
+        "parent": "0",
+        "text": "33/100 alumnos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "300",
+        "parent": "0",
+        "text": "→ Vida:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "301",
+        "parent": "0",
+        "text": "50/120 = 0,41",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "302",
+        "parent": "0",
+        "text": "41/100 alumnos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "303",
+        "parent": "0",
+        "text": "MODELO CONCEPTUAL\nPREVALENCIA →\nRepresentación \"vaso\nagua\":",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "304",
+        "parent": "0",
+        "text": "Nivel basal =\nprevalencia normal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "305",
+        "parent": "0",
+        "text": "Entrada agua =\nincidencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "306",
+        "parent": "0",
+        "text": "↑ nivel = ↑ prevalencia →\nFactores influencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "307",
+        "parent": "0",
+        "text": "Entrada =\ncasos nuevos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "308",
+        "parent": "0",
+        "text": "Salida = casos\nresueltos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "309",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "310",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "311",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "312",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "313",
+        "parent": "0",
+        "text": "PREVALENCIA E INCIDENCIA -\nDINÁMICA Y PROBLEMAS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "314",
+        "parent": "0",
+        "text": "MODELO \"VASO AGUA\" A. Estado Base\n(Fig A) → Prevalencia basal estable → Sin\ncambios entrada/salida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "315",
+        "parent": "0",
+        "text": "B. Aumento\nPrevalencia (Fig\nB)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "316",
+        "parent": "0",
+        "text": "→ ↑\nincidencia\n(entrada)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "317",
+        "parent": "0",
+        "text": "→ ↑ nivel agua = ↑\nprevalencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "318",
+        "parent": "0",
+        "text": "C. Disminución\nPrevalencia (Fig C)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "319",
+        "parent": "0",
+        "text": "→ ↑ salidas:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "320",
+        "parent": "0",
+        "text": "Muertes",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "321",
+        "parent": "0",
+        "text": "Curaciones → ↓ nivel\nagua = ↓ prevalencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "322",
+        "parent": "0",
+        "text": "D. Estado\nDinámico (Fig\nD)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "323",
+        "parent": "0",
+        "text": "→ Balance\nentrada/salida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "324",
+        "parent": "0",
+        "text": "→ Incidencia continua",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "325",
+        "parent": "0",
+        "text": "→ Salidas constantes",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "326",
+        "parent": "0",
+        "text": "PROBLEMAS NUMERADORES\nA. Definición Enfermedad →\nCriterios diagnósticos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "327",
+        "parent": "0",
+        "text": "Consenso vs arbitrario",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "328",
+        "parent": "0",
+        "text": "Ej: Criterios Lynch:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "329",
+        "parent": "0",
+        "text": "Requisitos específicos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "330",
+        "parent": "0",
+        "text": "Confirmación\nhistológica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "331",
+        "parent": "0",
+        "text": "Patrones familiares",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "332",
+        "parent": "0",
+        "text": "B. Métodos Evaluación",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "333",
+        "parent": "0",
+        "text": "→ Tipos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "334",
+        "parent": "0",
+        "text": "Encuestas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "335",
+        "parent": "0",
+        "text": "Tests laboratorio →\nConsideraciones:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "336",
+        "parent": "0",
+        "text": "Sensibilidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "337",
+        "parent": "0",
+        "text": "Especificidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "338",
+        "parent": "0",
+        "text": "Disponibilidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "339",
+        "parent": "0",
+        "text": "EJEMPLO CUANTITATIVO →\nDistribución casos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "340",
+        "parent": "0",
+        "text": "546 (29.1%)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "341",
+        "parent": "0",
+        "text": "393 (20.9%)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "342",
+        "parent": "0",
+        "text": "Variación temporal\nsignificativa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "343",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "344",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "345",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "346",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "347",
+        "parent": "0",
+        "text": "PROBLEMAS MEDICIÓN\nEPIDEMIOLÓGICA",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "348",
+        "parent": "0",
+        "text": "PROBLEMA NUMERADORES\n(DEMENCIA CANADÁ 1997) →\nVariación según sistema clasificación:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "349",
+        "parent": "0",
+        "text": "DSM-III: 29.1% (546)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "350",
+        "parent": "0",
+        "text": "DSM-IIIR: 17.3% (326)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "351",
+        "parent": "0",
+        "text": "DSM-IV: 13.7% (257)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "352",
+        "parent": "0",
+        "text": "ICD-9: 5.0% (94)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "353",
+        "parent": "0",
+        "text": "ICD-10: 3.1% (58)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "354",
+        "parent": "0",
+        "text": "CAMDEX: 4.9% (92)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "355",
+        "parent": "0",
+        "text": "CLIN CONS:\n20.9% (393)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "356",
+        "parent": "0",
+        "text": "PROBLEMA DENOMINADORES (CA\nÚTERO USA) → Corrección x\nhisterectomía → Raza blanca (A):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "357",
+        "parent": "0",
+        "text": "Sin corrección:\n≈3/100.000",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "358",
+        "parent": "0",
+        "text": "Con corrección: ≈5/100.000\n→ Raza negra (B):",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "359",
+        "parent": "0",
+        "text": "Sin corrección:\n≈7/100.000",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "360",
+        "parent": "0",
+        "text": "Con corrección: ≈12/100.000 →\nTendencia temporal:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "361",
+        "parent": "0",
+        "text": "2000-2012: ↓ general",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "362",
+        "parent": "0",
+        "text": "Disparidad racial\npersistente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "363",
+        "parent": "0",
+        "text": "CONSIDERACIONES\nFINALES → Prevalencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "364",
+        "parent": "0",
+        "text": "= proporción",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "365",
+        "parent": "0",
+        "text": "= frecuencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "366",
+        "parent": "0",
+        "text": "→ Incidencia:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "367",
+        "parent": "0",
+        "text": "= probabilidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "368",
+        "parent": "0",
+        "text": "= ocurrencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "369",
+        "parent": "0",
+        "text": "= riesgo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "370",
+        "parent": "0",
+        "text": "IMPLICACIONES PRÁCTICA → Criterios\ndiagnósticos influyen resultados →\nDenominador requiere ajustes específicos →\nInterpretación según contexto/población",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "371",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "372",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "373",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "374",
+        "parent": "0",
+        "text": "C",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "375",
+        "parent": "0",
+        "text": "SÍNTESIS FINAL - MEDIDAS\nEPIDEMIOLÓGICAS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "376",
+        "parent": "0",
+        "text": "CONCEPTOS BASE → Prevalencia = proporción =\nfrecuencia → Incidencia = probabilidad/riesgo →\nTasa incidencia = cambio/tiempo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "377",
+        "parent": "0",
+        "text": "CARACTERÍSTICAS INCIDENCIA → Tasa: medida\nfrecuencia temporal → Uso: estudios prospectivos\n→ Relación temporal definida",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "378",
+        "parent": "0",
+        "text": "RELACIÓN\nINCIDENCIA-PREVALENCIA → ↑\nincidencia → ↑ prevalencia →\nModuladores relación:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "379",
+        "parent": "0",
+        "text": "Duración enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "380",
+        "parent": "0",
+        "text": "Letalidad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "381",
+        "parent": "0",
+        "text": "Capacidad diagnóstica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "382",
+        "parent": "0",
+        "text": "EJEMPLO PRÁCTICO (CA ÚTERO\nUSA) → Ajuste denominador:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "383",
+        "parent": "0",
+        "text": "Corrección x\nhisterectomía",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "384",
+        "parent": "0",
+        "text": "Variación racial\nsignificativa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "385",
+        "parent": "0",
+        "text": "Tendencia temporal\ndescendente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "386",
+        "parent": "0",
+        "text": "APLICACIÓN METODOLÓGICA → Diseño\nestudio determina medida → Ajustes\npoblación específicos → Interpretación\ncontextual necesaria",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "387",
+        "parent": "0",
+        "text": "Copy",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "388",
+        "parent": "0",
+        "text": "Retry",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "389",
+        "parent": "0",
+        "text": "Claude can make mistakes. Please\ndouble-check responses.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "390",
+        "parent": "0",
+        "text": "Sin archivos\nseleccionados",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "391",
+        "parent": "0",
+        "text": "3.5 Sonnet",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "392",
+        "parent": "0",
+        "text": "Choose style",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "393",
+        "parent": "0",
+        "text": "2",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "394",
+        "parent": "0",
+        "text": "Tip:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "395",
+        "parent": "0",
+        "text": "Long chats cause you to reach\nyour usage limits faster.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "396",
+        "parent": "0",
+        "text": "Start a new chat",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "397",
+        "parent": "0",
+        "text": "Chat controls",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "398",
+        "parent": "0",
+        "text": "3.5 Sonnet",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "399",
+        "parent": "0",
+        "text": "Most intelligent\nmodel Learn more",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "400",
+        "parent": "0",
+        "text": "Project content",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "401",
+        "parent": "0",
+        "text": "Investigación",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "402",
+        "parent": "0",
+        "text": "Created by Cristian",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "403",
+        "parent": "0",
+        "text": "No knowledge\nadded yet.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "404",
+        "parent": "0",
+        "text": "Content",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "405",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "406",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "407",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "408",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "409",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "410",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "411",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "412",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "413",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "414",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "415",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "416",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "417",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "418",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "419",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "420",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "421",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "422",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "423",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "424",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "425",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "426",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "427",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "428",
+        "parent": "0",
+        "text": "image.png",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "429",
+        "parent": "0",
+        "text": "Chat styles",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "430",
+        "parent": "0",
+        "text": "Font",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "431",
+        "parent": "0",
+        "text": "Default",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "432",
+        "parent": "0",
+        "text": "Claude",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 433,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Bioestadística",
+  "filename": "6.1 Variables y Medidas de Frecuencia-2024",
+  "id": "map_353",
+  "resolved_references": []
+}

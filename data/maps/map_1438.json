@@ -1,0 +1,1115 @@
+{
+  "title": "UTD - Enfoque Diagnóstico de Trombocitopenia en Adultos",
+  "guid": "01F0DF4054CCB3A133ED3BFA",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/UTD - Enfoque Diagnóstico de Trombocitopenia en Adultos-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "UTD - Enfoque Diagnóstico de\nTrombocitopenia en Adultos",
+    "guid": "eK0WdTK2qrIDmpRHYqK2VQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## DEFINICIONES Y ÁREAS\nDE PREOCUPACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "### Severidad de la\nTrombocitopenia",
+            "guid": "G9FeUXnD7coB6CqiHn8BHw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- **Leve**: 100, 000-149,000/microL",
+                "guid": "d66GjW9w30ZbrkARNQ70lQ",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- **Moderada**: 50, 000-99,000/microL",
+                "guid": "Bq-AZWSWkEcAXh9vJ2RnOA",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- **Severa**: <50,000/microL",
+                "guid": "eSHiXBgWaj5wfsEUWT5Asg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "### Estabilidad\ny Variación",
+            "guid": "H6hl9j4oNGd99Bu3Yeu5kg",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "- Recuentos plaquetarios estables en individuos sanos",
+                "guid": "QBkTp1LAz1kV2PWNOMYqHQ",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "- Variación normal entre individuos",
+                "guid": "BXd6CxlzidQbaOByQ7X1vQ",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "6",
+                "text": "- Masa plaquetaria total regulada, no recuento",
+                "guid": "SIDwDiLrETFw7pTpZFJOXw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "parent": "1",
+            "text": "### Riesgo de\nSangrado",
+            "guid": "HK7--3LWv4wC0U9-FF2FiQ",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "- Correlación débil entre recuento y riesgo",
+                "guid": "Ykee0l5_j5BJbHoeaPcfNw",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "- Factores predictivos: sangrados previos, púrpura húmeda, hematuria",
+                "guid": "QxYf10nKmY0QW4ZvPDgCMw",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "- Umbral \"seguro\":",
+                "guid": "Zist9nlOGOE34bmva6KoAQ",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "- Cirugías: >50,000/microL (>100,000/microL para neurocirugía/cardíaca)",
+                    "guid": "YeEDzADaR4QVdkLlAYlpwg",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "13",
+                    "text": "- Sangrado espontáneo severo: <20,000/microL, especialmente <10,000/microL",
+                    "guid": "PwJ76xNqXp1jdSNUfxuPkg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "### Riesgo de\nTrombosis",
+            "guid": "EsGitVNKmiIvWJ2-W0KSxA",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "- Trombocitopenia inducida por heparina (HIT)",
+                "guid": "djWrUyBHMqg_lOEjEuSqTw",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "- Trombocitopenia trombótica inmune inducida por vacunas (VITT)",
+                "guid": "Ex3yNEJmMKInQi_YdWWRBg",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "- Síndrome antifosfolípido (SAF)",
+                "guid": "IOXAMnCuqfZeXLA9Y_vgCQ",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "16",
+                "text": "- Coagulación intravascular diseminada (CID)",
+                "guid": "OnlDg264Nq0gM-I8HFpHTw",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "16",
+                "text": "- Microangiopatía trombótica (MAT)",
+                "guid": "b5J-MTWqJSEd47ERLpT6HA",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "16",
+                "text": "- Hemoglobinuria paroxística nocturna (HPN)",
+                "guid": "SRSDvgFY1GYtsImuLz-xtA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "## CATEGORÍAS\nDE CAUSAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "24",
+            "parent": "23",
+            "text": "### Por Mecanismo",
+            "guid": "eqbtR2WSQ14a4lm2DWiP_Q",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "#### Disminución\nde Producción",
+                "guid": "ONzdgEo693RoqyLBLxKI0w",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "- Trastornos plaquetarios hereditarios",
+                    "guid": "aoIqHChAA-RB9zMifaAcUA",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "25",
+                    "text": "- Alteraciones de médula ósea",
+                    "guid": "aqY0hmk5YvpzBa1WC4v0uA",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "25",
+                    "text": "- Pérdida de megacariocitos",
+                    "guid": "WegM8FFiXZRvh9TBFGFQdA",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "25",
+                    "text": "- Enfermedad hepática (↓ trombopoyetina)",
+                    "guid": "QBqUQQ-7tv0wu5fDL60Scg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "30",
+                "parent": "24",
+                "text": "#### Aumento de Destrucción\no Consumo",
+                "guid": "RWXcH06fSNVeQgyODnpf3Q",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "- Aumento de eliminación\nplaquetaria:",
+                    "guid": "T_gdOwvyljw9uhGSSp8Kgg",
+                    "children": [
+                      {
+                        "id": "32",
+                        "parent": "31",
+                        "text": "- PTI (primaria o secundaria)",
+                        "guid": "cYTZmlica0hYB5p_KmG3Gg",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "31",
+                        "text": "- PTI inducida por fármacos",
+                        "guid": "ItdivECyvUBZdD_uDVmM2Q",
+                        "children": []
+                      },
+                      {
+                        "id": "34",
+                        "parent": "31",
+                        "text": "- Púrpura postransfusional",
+                        "guid": "aPLBJRtrcxAK-akpU5j1qw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "35",
+                    "parent": "30",
+                    "text": "- Consumo:",
+                    "guid": "BKTWC33_VoBfJOpkXozi-w",
+                    "children": [
+                      {
+                        "id": "36",
+                        "parent": "35",
+                        "text": "- CID",
+                        "guid": "T2G0FE6svyVy7jNvD3xIVQ",
+                        "children": []
+                      },
+                      {
+                        "id": "37",
+                        "parent": "35",
+                        "text": "- MAT (PTT, SUH, DTMI)",
+                        "guid": "Xmh2IyOpyzM_KVrHI85SQg",
+                        "children": []
+                      },
+                      {
+                        "id": "38",
+                        "parent": "35",
+                        "text": "- Dispositivos intravasculares",
+                        "guid": "ckkUCB1rZ1UySLIfQkExQw",
+                        "children": []
+                      },
+                      {
+                        "id": "39",
+                        "parent": "35",
+                        "text": "- Cirugía",
+                        "guid": "KV39kXACw7EM4DvFGuLXLA",
+                        "children": []
+                      },
+                      {
+                        "id": "40",
+                        "parent": "35",
+                        "text": "- Trombosis extensa",
+                        "guid": "SJ8u-WTn1kVFRI5Ga3aRtg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "23",
+            "text": "#### Dilución",
+            "guid": "JZqThR64zjR40B6PDo1Uqg",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "- Reanimación con líquidos",
+                "guid": "OiRBRQPJx7hiJkpWPskXUA",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "- Transfusión masiva",
+                "guid": "AckeOEFLNLodVfpLUSrSTA",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "41",
+                "text": "- Trombocitopenia gestacional",
+                "guid": "D_fz3xBELbtgpxqhbmBqAg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "parent": "23",
+            "text": "####\nRedistribución/Hiperesplenismo",
+            "guid": "M-347h_QdWgSLrxEJjcM9g",
+            "children": [
+              {
+                "id": "46",
+                "parent": "45",
+                "text": "- Esplenomegalia",
+                "guid": "PTvcvUR3bmRoeD45ZpnaTw",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "45",
+                "text": "- Congestión esplénica por hipertensión portal",
+                "guid": "NHoyFXVYef4BfLF7fRlhDw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "48",
+        "parent": "0",
+        "text": "### Por Nivel\nde Urgencia",
+        "guid": "WkBQQ0bBP8Foj_LFf9rjyQ",
+        "children": [
+          {
+            "id": "49",
+            "parent": "48",
+            "text": "#### Emergencias\nTrombocitopénicas",
+            "guid": "ZXoN9mFgEVQOaDhzH55POw",
+            "children": [
+              {
+                "id": "50",
+                "parent": "49",
+                "text": "- Sangrado con trombocitopenia severa",
+                "guid": "ZSnZDHCOgsleZ2aLZvL3RQ",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "49",
+                "text": "- Procedimientos invasivos urgentes",
+                "guid": "Mdm3g3u9YNY4HcmRQdGrYw",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "49",
+                "text": "- Embarazo con trombocitopenia severa",
+                "guid": "DAGOkRjE5DMwMhVlP--Hfw",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "49",
+                "text": "- HIT, VITT, PTT, SUH, CID, LMA",
+                "guid": "OJVZm0Jg0apmJpR1ddE2WQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "parent": "48",
+            "text": "#### Pacientes\nCríticos/UCI",
+            "guid": "BthADk6e0q5caxCoO1JyIw",
+            "children": [
+              {
+                "id": "55",
+                "parent": "54",
+                "text": "- Causas comunes: sepsis, CID, fármacos",
+                "guid": "Q_dMrV3nwiM4a9MyHjec8A",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "54",
+                "text": "- Causas menos comunes pero críticas: MAT, leucemias, aplasia medular, LHH",
+                "guid": "JKkB5CD7xfceEoC5CiMP2g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "48",
+            "text": "####\nPosquirúrgicos/Hospitalizados",
+            "guid": "AlvXSyx6uS0pwV8VZ4WwWA",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "- Caída transitoria posquirúrgica (dilución/consumo)",
+                "guid": "HQk79ggoxaBOeKedTuLzeg",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "57",
+                "text": "- Múltiples causas en hospitalizados",
+                "guid": "A-YmdwaWcS4QtJ7dD-e1CA",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "57",
+                "text": "- HIT: caso especial con riesgo de trombosis",
+                "guid": "H1tVYUDmtEJP1zyIV_Cu_Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "parent": "48",
+            "text": "#### Infección o Fiebre",
+            "guid": "A0eF7DX90P1NweVWCh_F-g",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "- Viral: rubéola, paperas, varicela, parvovirus, hepatitis C, VEB, COVID-19",
+                "guid": "BJyjrCos9f5FcjgeSJPwWQ",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "61",
+                "text": "- VIH: mecanismos múltiples",
+                "guid": "CBS4IX3eC1Bmy41JLL26BQ",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "61",
+                "text": "- Bacteriana/sepsis: supresión medular directa, CID, consumo",
+                "guid": "HtnRSATeDgM24MngITWokw",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "61",
+                "text": "- Parásitos intracelulares: malaria, babesiosis",
+                "guid": "MVjHMGCiKPUIu1jrTmIDJg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "parent": "48",
+            "text": "#### Sangrado u\nOtros Síntomas",
+            "guid": "aMrullc0AIgdRPagbLEVDQ",
+            "children": [
+              {
+                "id": "67",
+                "parent": "66",
+                "text": "- PTI primaria o inducida por fármacos",
+                "guid": "Xcpxty35lX18mMoVfSXHGA",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "66",
+                "text": "- Enfermedades\nsistémicas:",
+                "guid": "X5asZVhHx-Nu1roIPWEeHA",
+                "children": [
+                  {
+                    "id": "69",
+                    "parent": "68",
+                    "text": "- Fiebre",
+                    "guid": "buBJwExwBp1VFnYVcifPrA",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "68",
+                    "text": "- Hepatoesplenomegalia",
+                    "guid": "Am3XmyLYW2t8R5WnBwp7Rw",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "68",
+                    "text": "- Alteraciones neurológicas",
+                    "guid": "TQVRaUG5zcVPnmugVRoJig",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "68",
+                    "text": "- Linfadenopatía",
+                    "guid": "P5fZFTZp-OkB18OQXnGqXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "68",
+                    "text": "- Afectación articular",
+                    "guid": "O0gG7Di4jXB_p1LxbKDOHA",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "68",
+                    "text": "- Trombosis",
+                    "guid": "GVq2ZQhiq9w7AtFDAiWk-w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "48",
+            "text": "#### Hallazgo Incidental",
+            "guid": "BkFdYWtvhB46huU0dSGnIQ",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "- Variación normal",
+                "guid": "N9-Kuw-dW0pnSXbNOk1iVg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "- PTI",
+                "guid": "MnW2tWORDHRBV92df3sIHw",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "75",
+                "text": "- Enfermedad hepática oculta",
+                "guid": "JUraORD2ST1UlRGpZOKzTw",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "75",
+                "text": "- Infección por VIH",
+                "guid": "R2BCJ1Zs1TlDVF2sAqhJEw",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "75",
+                "text": "- Neoplasia hematológica (SMD)",
+                "guid": "DyViqUL7sJ1vSRcwKIAZDw",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "75",
+                "text": "- Deficiencias nutricionales (B12, folato, cobre)",
+                "guid": "S15ceipL6HMqpb4KKvUI3w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "82",
+        "parent": "0",
+        "text": "## ENFOQUE DE\nEVALUACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "83",
+            "parent": "82",
+            "text": "### Evaluación Inicial",
+            "guid": "ApOwVhl8eBNoVib7CNUNtw",
+            "children": [
+              {
+                "id": "84",
+                "parent": "83",
+                "text": "- Determinar si existe emergencia trombocitopénica",
+                "guid": "BOv8MSLdDC999rTYPMuG7A",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "83",
+                "text": "- Preguntas clave:",
+                "guid": "MnpneWVAK6Z3GOlDZPAeLw",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "- ¿Es real la trombocitopenia?",
+                    "guid": "SNE4GjhwxuBkayZObhwSVA",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "85",
+                    "text": "- ¿Es nueva?",
+                    "guid": "SWcQHjkAN_dS_sWjEMdSRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "85",
+                    "text": "- ¿Hay otras anomalías hematológicas?",
+                    "guid": "D20NMRZTI08Tb5tYHpJv2g",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "85",
+                    "text": "- ¿Hay consecuencias graves por no\niniciar tratamiento rápidamente?",
+                    "guid": "WU7T7QK4sohHEojpJK0wZw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "parent": "82",
+            "text": "### Historia Clínica",
+            "guid": "LQSa-3G4RvRPojlGL5hLUg",
+            "children": [
+              {
+                "id": "91",
+                "parent": "90",
+                "text": "- Recuentos plaquetarios previos",
+                "guid": "CzS_Bzf4YEE4bVkJECC7OA",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "90",
+                "text": "- Antecedentes familiares",
+                "guid": "WtVscDZkDeJM7EIkDU_T6g",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "90",
+                "text": "- Historia de sangrado",
+                "guid": "G6Q5iEQFK2dyP_IZZHVxog",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "90",
+                "text": "- Exposición a medicamentos",
+                "guid": "fHXySFarGGdSkYP2Rd0CZg",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "90",
+                "text": "- Exposiciones infecciosas",
+                "guid": "D6tQXiWQSZlWpFSrHxhdjw",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "90",
+                "text": "- Prácticas dietéticas",
+                "guid": "O-Ns6WoT8AM9qs1qFTJA1g",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "90",
+                "text": "- Condiciones médicas asociadas",
+                "guid": "bMyijAS9VlM533E9GdE9hw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "parent": "82",
+            "text": "### Examen Físico",
+            "guid": "dnWdRwmBqoNJaYjZAapcTg",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "- Piel y sitios de\nsangrado:",
+                "guid": "QXoKxAHW4eMRyxeGHE93NA",
+                "children": [
+                  {
+                    "id": "100",
+                    "parent": "99",
+                    "text": "- Petequias: lesiones puntiformes rojas planas",
+                    "guid": "ODrvxV63Waspn0seU98pTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "99",
+                    "text": "- Púrpura: decoloración purpúrea por petequias confluentes",
+                    "guid": "IryFEhvfPTc4VJrvHzJ3Wg",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "99",
+                    "text": "- Equimosis: áreas de sangrado en piel",
+                    "guid": "copVngrmHuZlD3nAAjWl_Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "103",
+                "parent": "98",
+                "text": "- Hígado, bazo, ganglios linfáticos",
+                "guid": "MHZofzuzzmshTgOMbFnVaA",
+                "children": []
+              },
+              {
+                "id": "104",
+                "parent": "98",
+                "text": "- Signos de trombosis",
+                "guid": "Jce-b1740PYBjBY-EpRg-w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "105",
+            "parent": "82",
+            "text": "### Pruebas de\nLaboratorio",
+            "guid": "eVEbLBMu2KIlfv1EVo0nlw",
+            "children": [
+              {
+                "id": "106",
+                "parent": "105",
+                "text": "- Repetir hemograma completo",
+                "guid": "Y7YnSjtrh3ssZZ6CWivEkQ",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "105",
+                "text": "- Revisión de frotis sanguíneo periférico",
+                "guid": "RO0x_nXPJ1xb1iDgBmc8wg",
+                "children": []
+              },
+              {
+                "id": "108",
+                "parent": "105",
+                "text": "- Pseudotrombocitopenia: agregación plaquetaria en EDTA",
+                "guid": "d6YJP22hOGYitrP3L-D5BA",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "105",
+                "text": "- Anomalías de\nGR y GB:",
+                "guid": "IMK3yBPMlJcbHfhHZa_pxw",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "- Esquistocitos → proceso microangiopático",
+                    "guid": "TFiSEUxV_xUDwCJRbxUXJA",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "- GR nucleados → asplenia/hipofunción esplénica",
+                    "guid": "aDU8TTwUvUAOR45-Wr-R6w",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "109",
+                    "text": "- Esferocitos → anemia hemolítica o esferocitosis hereditaria",
+                    "guid": "RvrcJnNXCD9c9Tfod3FEpg",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "109",
+                    "text": "- Leucoeritroblastosis → proceso infiltrativo medular",
+                    "guid": "LwrWqn5DO3VjyxoOVNKVGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "114",
+                "parent": "105",
+                "text": "- Panel metabólico y función hepática",
+                "guid": "XTwMa2VXME1nZvYUQPIztQ",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "105",
+                "text": "- Pruebas para VIH y VHC",
+                "guid": "CZu783b0GSdsFyaJAUHFMg",
+                "children": []
+              },
+              {
+                "id": "116",
+                "parent": "105",
+                "text": "- Pruebas adicionales según hallazgos específicos",
+                "guid": "ZJVRjQ7N2oAxIr42MO3jnw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "117",
+            "parent": "82",
+            "text": "### Diagnóstico Final",
+            "guid": "eIYI7wzl81kXf1tNGUjAuA",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "- PTI inducida por fármacos: suspender medicamentos implicados",
+                "guid": "WyPZljTi4IcgAvrDQ1kV4w",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "117",
+                "text": "- PTI: diagnóstico de exclusión",
+                "guid": "cPedxy5KiUEeGKfON_J57g",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "117",
+                "text": "- Respuesta a terapias para PTI apoya diagnóstico",
+                "guid": "IaGRgHsN37cvY76UUKxoKw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "121",
+            "parent": "82",
+            "text": "### Derivación a\nHematología",
+            "guid": "EZWn0l8XnKoYWpsCAo1FmQ",
+            "children": [
+              {
+                "id": "122",
+                "parent": "121",
+                "text": "- Confirmar cualquier diagnóstico hematológico nuevo",
+                "guid": "ILKH8DKdU5R--Kp_Kk5D4w",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "121",
+                "text": "- Determinar causa de trombocitopenia inexplicada",
+                "guid": "KZFsu2sP0QgrkAkVDia-SA",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "121",
+                "text": "- Urgencia según grado de trombocitopenia y estabilidad",
+                "guid": "ed2riVyyx0s_FKHnVQGFHw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "82",
+            "text": "### Evaluación de\nMédula Ósea",
+            "guid": "DWIl7DZzQtA6f7-HLwO3bA",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "- No requerida en todos los pacientes",
+                "guid": "MYEih2njfht_sB-XKtI9sw",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "- Útil si causa poco clara o sospecha de trastorno medular primario",
+                "guid": "fRJWviUvHNwBX2VLdZhfrQ",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "125",
+                "text": "- Hallazgos relevantes:",
+                "guid": "MhUQNRjewJgO4SBlUseYJQ",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "- Megacariocitos normales o aumentados → destrucción plaquetaria",
+                    "guid": "S3wULA3ZyuR9FdwIdQ2A5w",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "- Disminución de megacariocitos → menor producción",
+                    "guid": "eOmb7Sil5R0DND8vcsdHdg",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "128",
+                    "text": "- Cambios megaloblásticos → deficiencia de B12, folato o cobre",
+                    "guid": "BVisaEJI4RdHyMyVFu5UOg",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "128",
+                    "text": "- Cambios displásicos → SMD o deficiencia de cobre",
+                    "guid": "IWB9wWAjZ5cZe5nTLsKjrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "128",
+                    "text": "- Fibrosis, granulomas, infiltración maligna → diagnóstico específico",
+                    "guid": "FpaqZ1P7WVtdxlsaSBfM7w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "parent": "0",
+        "text": "## PRINCIPIOS GENERALES\nDE MANEJO",
+        "guid": "Pd7Xdl12erFy6gqiOvEuNA",
+        "children": [
+          {
+            "id": "135",
+            "parent": "134",
+            "text": "- Tratar causa subyacente",
+            "guid": "AqWXjXRJb-0wiY3iNLqnwg",
+            "children": []
+          },
+          {
+            "id": "136",
+            "parent": "134",
+            "text": "- Transfusiones plaquetarias como medida temporaria",
+            "guid": "DSgwhT9qrkcHgj_nWKREsQ",
+            "children": []
+          },
+          {
+            "id": "137",
+            "parent": "134",
+            "text": "- Restricciones de actividad según severidad",
+            "guid": "TUR5LASYG-9NscWYRi4VGQ",
+            "children": []
+          },
+          {
+            "id": "138",
+            "parent": "134",
+            "text": "- Evaluación de anticoagulantes y antiplaquetarios",
+            "guid": "LT4BDFDmBMg49VyPMpatdA",
+            "children": []
+          },
+          {
+            "id": "139",
+            "parent": "134",
+            "text": "- Evitar remedios de venta libre que afecten función plaquetaria",
+            "guid": "Ey7l3wC-KSRJhQGuNI9joA",
+            "children": []
+          },
+          {
+            "id": "140",
+            "parent": "134",
+            "text": "- Recuento plaquetario seguro para procedimientos invasivos varía según tipo",
+            "guid": "YOGQu2MAm4JjUgdOd3g7Ig",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "141",
+        "parent": "0",
+        "text": "## RESUMEN",
+        "guid": "",
+        "children": [
+          {
+            "id": "142",
+            "parent": "141",
+            "text": "- La trombocitopenia es común y puede tener múltiples causas",
+            "guid": "Nvv03UEYYmg_kAgRdNrMUw",
+            "children": []
+          },
+          {
+            "id": "143",
+            "parent": "141",
+            "text": "- El enfoque diagnóstico\ndebe basarse en:",
+            "guid": "KyfCOWwoIYVB3ibBPlaoGA",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "- Severidad y estabilidad del recuento",
+                "guid": "Ho7dGTJ6ErQvy_qIITR0pw",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "143",
+                "text": "- Presencia de sangrado o trombosis",
+                "guid": "JsOCoWBViGpV7xxpM-uzJw",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "143",
+                "text": "- Hallazgos clínicos asociados",
+                "guid": "H8A2sV1xXFEMj_fYbQSv3Q",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "143",
+                "text": "- Resultados de laboratorio complementarios",
+                "guid": "Ygl4QFpBvXEzMsT2D0d5TQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "148",
+            "parent": "141",
+            "text": "- El manejo depende de la causa subyacente",
+            "guid": "bOZKqQtjKHBy5gu4TcfbZA",
+            "children": []
+          },
+          {
+            "id": "149",
+            "parent": "141",
+            "text": "- La consulta hematológica es apropiada para nuevos diagnósticos y casos inexplicados",
+            "guid": "bmPD8lY4EwZFQBaHJV-4zw",
+            "children": []
+          },
+          {
+            "id": "150",
+            "parent": "141",
+            "text": "- La evaluación de médula ósea es útil en casos seleccionados",
+            "guid": "F1B1bgTQHpgaOoUiNd9SiA",
+            "children": []
+          },
+          {
+            "id": "151",
+            "parent": "141",
+            "text": "- El riesgo de sangrado no correlaciona estrictamente con el recuento plaquetario",
+            "guid": "N0oxTEoGf6pXE8cvXg2z7g",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 152,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "UTD - Enfoque Diagnóstico de Trombocitopenia en Adultos-2025",
+  "id": "map_1438",
+  "resolved_references": []
+}

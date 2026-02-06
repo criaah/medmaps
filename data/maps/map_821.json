@@ -1,0 +1,85 @@
+{
+  "title": "LIFE Study (2014)",
+  "guid": "LIFE-2014-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/LIFE-Study-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "LIFE Study (2014)\nLifestyle Interventions and\nIndependence for Elders\n\\n⭐ Actividad física estructurada\nREDUCE discapacidad de movilidad\nen ancianos sedentarios",
+    "guid": "LIFE-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Pahor M et al.\nAño: 2014\nRevista: JAMA\nDOI: 10.1001/jama.2014.5616\n\\nDiseño: RCT multicéntrico\\n8 centros USA\\nn = 1,635 participantes\\nSeguimiento: Media 2.6 años",
+        "guid": "LIFE-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Pahor M et al. JAMA 2014\\n   DOI: 10.1001/jama.2014.5616\\n\\n2. LIFE-P Study. J Gerontol 2006\\n   (Estudio piloto)\\n\\n3. AGS Exercise Guidelines 2019",
+            "guid": "LIFE-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Edad 70-89 años\\n• Sedentarios (menor 20 min/sem\\n  actividad física estructurada)\\n• SPPB 9 o menor (riesgo discapacidad)\\n• Capaces de caminar 400m\\n\\nCriterios Exclusion:\\n• Demencia\\n• Enfermedad terminal\\n• Ya en ejercicio regular\\n\\nCaracterísticas:\\n• Edad media: 79 años\\n• 68% mujeres\\n• SPPB medio: 7.4\\n• 78% con 2+ comorbilidades",
+        "guid": "LIFE-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Actividad Física:\\n• Caminar (meta 150 min/sem)\\n• Entrenamiento fuerza MMII\\n• Ejercicios flexibilidad\\n• Ejercicios equilibrio\\n• Supervisado en centro 2x/sem\\n• Domiciliario 3-4x/sem\\n\\nGrupo Control (Educación):\\n• Talleres educativos salud\\n• Estiramientos suaves\\n• Sin ejercicio aeróbico\\n• Sesiones grupales semanales\\n  primeros 6 meses, luego mensuales",
+        "guid": "LIFE-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nDiscapacidad movilidad mayor (primario):\\n(Incapacidad caminar 400m)\\n• Ejercicio: 30.1%\\n• Control: 35.5%\\n• HR 0.82 (IC95% 0.69-0.98)\\n• p = 0.03 ✓\\n• RRR: 18%\n\\nDiscapacidad persistente:\\n• HR 0.77 (IC95% 0.64-0.94)\\n• p = 0.01 ✓\n\\nSPPB al final:\\n• Mejor en grupo ejercicio ✓\n\\nHospitalizaciones:\\n• Sin diferencia significativa",
+        "guid": "LIFE-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos adversos serios:\\n• Ejercicio: 49.4%\\n• Control: 45.7%\\n• p = 0.11 (NS)\\n• Mayoría hospitalizaciones\\n\\nLesiones musculoesqueléticas:\\n• Ligeramente mayor en ejercicio\\n• Ninguna seria o permanente\\n\\nCaídas:\\n• Similar entre grupos\\n\\nMortalidad:\\n• Similar entre grupos\\n\\nBalance:\\n• Beneficio supera riesgos\\n• Ejercicio supervisado seguro\\n  incluso en ancianos frágiles",
+        "guid": "LIFE-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT grande y largo\\n✓ Outcome funcional relevante\\n✓ Población alto riesgo\\n✓ Intervención replicable\\n✓ Financiado NIH\\n\\nLimitaciones:\\n• Solo sedentarios (selección)\\n• Adherencia decrece con tiempo\\n• Control activo (no inerte)\\n• USA (generalización?)\\n• Costo intervención supervisada\\n\\nAdherencia:\\n• 63% asistencia sesiones centro\\n• Variable en domicilio",
+        "guid": "LIFE-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Altísima relevancia\n\\nTraducción clínica:\\n• Prescribir ejercicio SIEMPRE\\n• Meta: 150 min/semana caminar\\n• Incluir fuerza y equilibrio\\n• Supervisión inicial importante\\n\\nPoblación ideal:\\n• Ancianos sedentarios\\n• SPPB 4-9 (en riesgo)\\n• Sin contraindicación ejercicio\\n\\nBarreras:\\n• Acceso a programas supervisados\\n• Adherencia largo plazo\\n• Costo",
+        "guid": "LIFE-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Ejercicio es MEDICINA:\n   reduce discapacidad 18%\n\\n2. NUNCA es tarde para empezar:\n   beneficio hasta los 89 años\n\\n3. Componentes clave:\n   Aeróbico + Fuerza + Equilibrio\n\\n4. SPPB identifica candidatos:\n   puntuación 4-9 = alto riesgo\n\\n5. Supervisión inicial crítica:\n   luego transición a domicilio\n\\n6. Prescripción ejercicio:\n   tan importante como fármacos\n\\n7. Sedentarismo es modificable:\n   incluso en muy ancianos",
+        "guid": "LIFE-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "LIFE-Study-2026",
+  "id": "map_821",
+  "resolved_references": []
+}

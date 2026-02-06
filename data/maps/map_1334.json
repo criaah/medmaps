@@ -1,0 +1,4334 @@
+{
+  "title": "Meningitis aséptica",
+  "guid": "B81476268C329FFA7EC8DAFA",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/UTD. Meningitis aséptica-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Meningitis aséptica",
+    "guid": "9ldK31XhI973gUDAqP32ow",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "1. INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "📌 Definición:",
+            "guid": "ZSLFMM-oLGXPxR6a7PoHAw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "✔ Descrita en 1925 por Wallgren.",
+                "guid": "CwzAVJFuOJv5bR_u9Gz4_Q",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "✔ Meningitis adquirida\nen comunidad con:",
+                "guid": "wsaWfrokUSrI6mRA6IGasA",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "• Gram y cultivo de LCR (-)",
+                    "guid": "SZ-kYycC7wTdXY8MEkzMVw",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "• Sin enfermedad sistémica o foco parameningeo",
+                    "guid": "CMyDx1b_wSmBBy8J-g8Tpg",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "4",
+                    "text": "• Evolución benigna",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "📌 Etiología\nmás frecuente:",
+            "guid": "hAN4pt3S3o8_NtBUdbKD-w",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "✔ Virales → Enterovirus, Arbovirus, VHS-2",
+                "guid": "dAR0fV3Yeluh4ZGDsMAaKQ",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "✔ Otras causas\n(>100 posibles):",
+                "guid": "35binWY4_L0v8G6Nmf1jmg",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "• Infecciones: Mycobacterias, Hongos, Espiroquetas",
+                    "guid": "HM_hH1jUUcByS0xcAngKXA",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "• Infecciones parameníngeas",
+                    "guid": "TOJWTryo60I4wqVpDXYszg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "• Fármacos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "10",
+                    "text": "• Neoplasias",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "parent": "1",
+            "text": "📌 Problemas\ndiagnósticos:",
+            "guid": "aokciETDCKbtmd1w_RlxOQ",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "✔ Diagnóstico incierto → ↑ Hospitalización, neuroimagen innecesaria, ATB empíricos injustificados",
+                "guid": "RDnZKlPc7-vPs5wS4ru_wg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "parent": "0",
+        "text": "2. EVALUACIÓN\nINICIAL",
+        "guid": "wFvDLuMf6vj_ifHZ1DsDow",
+        "children": [
+          {
+            "id": "18",
+            "parent": "17",
+            "text": "2.1 Evaluación\nClínica",
+            "guid": "8mU9IK-n1if98ks8fy6kBw",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "📌 Historia\nClínica:",
+                "guid": "Y-4yjNP6CiBjZfuBu2t1hg",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "✔ Esencial para guiar Dx y tratamiento empírico",
+                    "guid": "Agfg0_2AjkwAoH1r0z59mg",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "19",
+                    "text": "✔ Evaluar condiciones subyacentes → Inmunocompromiso",
+                    "guid": "gFLjIRZ9E0QY83fphqdNJw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "parent": "18",
+                "text": "📌 Diferenciar meningitis\naséptica de otras patologías",
+                "guid": "tLbA4k928zMY_fK91Kgl0g",
+                "children": [
+                  {
+                    "id": "23",
+                    "parent": "22",
+                    "text": "✅ Meningitis\nbacteriana:",
+                    "guid": "KgNE_GwY8JLPJZKJO_E5Og",
+                    "children": [
+                      {
+                        "id": "24",
+                        "parent": "23",
+                        "text": "• Inicio brusco",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "25",
+                        "parent": "23",
+                        "text": "• Paciente grave",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "26",
+                        "parent": "23",
+                        "text": "• Tríada clásica\n(41% de casos):",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "27",
+                            "parent": "26",
+                            "text": "🔹 Fiebre",
+                            "guid": "vWHLeLpEBK4KG8UA7LDamw",
+                            "children": []
+                          },
+                          {
+                            "id": "28",
+                            "parent": "26",
+                            "text": "🔹 Rigidez de nuca",
+                            "guid": "KqMakBrZlc13efznpq08uA",
+                            "children": []
+                          },
+                          {
+                            "id": "29",
+                            "parent": "26",
+                            "text": "🔹 Alteración del estado mental",
+                            "guid": "8UQyu73f1AJmOG8ZTCgudw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "30",
+                    "parent": "22",
+                    "text": "✅ Meningitis\naséptica:",
+                    "guid": "Zk808ias6VxFMNWSury7HA",
+                    "children": [
+                      {
+                        "id": "31",
+                        "parent": "30",
+                        "text": "• Curso más insidioso",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "30",
+                        "text": "• No hay alteración del estado mental",
+                        "guid": "WtDywPWAobbsb0pUzIOYKA",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "30",
+                        "text": "• Síntomas:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "34",
+                            "parent": "33",
+                            "text": "🔹 Fiebre",
+                            "guid": "gQFnFQk9TR7U7sUxsWuwEA",
+                            "children": []
+                          },
+                          {
+                            "id": "35",
+                            "parent": "33",
+                            "text": "🔹 Cefalea",
+                            "guid": "Hfz_aolxDUgKFOmA3AKeVw",
+                            "children": []
+                          },
+                          {
+                            "id": "36",
+                            "parent": "33",
+                            "text": "🔹 Rigidez de nuca",
+                            "guid": "H8tJ8sirtsqXEzUG0AAGLA",
+                            "children": []
+                          },
+                          {
+                            "id": "37",
+                            "parent": "33",
+                            "text": "🔹 Náuseas",
+                            "guid": "SxF4bxskivwVEkFfPqhkqA",
+                            "children": []
+                          },
+                          {
+                            "id": "38",
+                            "parent": "33",
+                            "text": "🔹 Fotofobia",
+                            "guid": "pthwbl_K_3cargsnRy_WmQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "39",
+                    "parent": "22",
+                    "text": "✅ Encefalitis:",
+                    "guid": "v6PS0Etyr26w8kU-KBmA1Q",
+                    "children": [
+                      {
+                        "id": "40",
+                        "parent": "39",
+                        "text": "• Clave diferenciadora → Función cerebral",
+                        "guid": "AGpDxs8XbaiBrtfFcp6XiQ",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "39",
+                        "text": "• Meningitis aséptica → Función cerebral normal\n(puede haber letargo transitorio)",
+                        "guid": "eTu5mIzUvs4t3dGfTQhKJw",
+                        "children": []
+                      },
+                      {
+                        "id": "42",
+                        "parent": "39",
+                        "text": "• Encefalitis → Alteración mental sostenida (>24 h)\n+ ≥2 criterios:",
+                        "guid": "jK8-pCjWA1lmuOJhdtUVVA",
+                        "children": [
+                          {
+                            "id": "43",
+                            "parent": "42",
+                            "text": "🔹 Fiebre >38°C",
+                            "guid": "YteI62NrHDhz2k-IES4dCQ",
+                            "children": []
+                          },
+                          {
+                            "id": "44",
+                            "parent": "42",
+                            "text": "🔹 Convulsiones nuevas",
+                            "guid": "iuLUY-ps36M3vb04-0qPdg",
+                            "children": []
+                          },
+                          {
+                            "id": "45",
+                            "parent": "42",
+                            "text": "🔹 Déficit neurológico focal",
+                            "guid": "Of3XzS70KqwzweC3ahoVfA",
+                            "children": []
+                          },
+                          {
+                            "id": "46",
+                            "parent": "42",
+                            "text": "🔹 LCR con ≥5 leucocitos/µL",
+                            "guid": "SUDJ-qBvyG7eqPUmEXwaTA",
+                            "children": []
+                          },
+                          {
+                            "id": "47",
+                            "parent": "42",
+                            "text": "🔹 Alteraciones en neuroimagen",
+                            "guid": "WTAAj9mnSjZVgqsJ0SHr2w",
+                            "children": []
+                          },
+                          {
+                            "id": "48",
+                            "parent": "42",
+                            "text": "🔹 EEG anormal",
+                            "guid": "vHTDRQ_3EtJW2RO4hkcEqw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "49",
+                    "parent": "22",
+                    "text": "✅ Meningoencefalitis:",
+                    "guid": "cWgVSgAQ2iCz_rbAD0_LUA",
+                    "children": [
+                      {
+                        "id": "50",
+                        "parent": "49",
+                        "text": "• Superposición de características de meningitis y encefalitis",
+                        "guid": "uOv6Kz_eOaCuyWFTYKjvig",
+                        "children": []
+                      },
+                      {
+                        "id": "51",
+                        "parent": "49",
+                        "text": "• Dx basado en predominancia de síntomas",
+                        "guid": "g6XmYqOxm4wsfeES4_lI1g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "52",
+                "parent": "18",
+                "text": "📌 Pistas para\nidentificar etiología",
+                "guid": "4kZE8uiWEoiYYEdfOpNLzQ",
+                "children": [
+                  {
+                    "id": "53",
+                    "parent": "52",
+                    "text": "✔ Historia de viajes\ny exposiciones",
+                    "guid": "CRWdqTFUX3pMOfsXgWN3vw",
+                    "children": [
+                      {
+                        "id": "54",
+                        "parent": "53",
+                        "text": "• Mosquitos → Arbovirus",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "55",
+                        "parent": "53",
+                        "text": "• Roedores → LCMV",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "53",
+                        "text": "• Garrapatas → Borrelia burgdorferi",
+                        "guid": "hRb25oQkfCBsnTPZXRwmvA",
+                        "children": []
+                      },
+                      {
+                        "id": "57",
+                        "parent": "53",
+                        "text": "• Áreas endémicas → Tb, Coccidioides",
+                        "guid": "xgXJUneX2d7KxxORA9DlBQ",
+                        "children": []
+                      },
+                      {
+                        "id": "58",
+                        "parent": "53",
+                        "text": "• Sexualidad → VHS-2, VIH, Treponema pallidum",
+                        "guid": "6TRkrJD7WN48eFAUoyLnxw",
+                        "children": []
+                      },
+                      {
+                        "id": "59",
+                        "parent": "53",
+                        "text": "• Contacto con casos similares o exantemas → Enterovirus",
+                        "guid": "lxJjPulDLnY60CvU7UW90Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "60",
+                    "parent": "52",
+                    "text": "✔ Estacionalidad",
+                    "guid": "OFD3FYDOlssRU7HDY91Jfw",
+                    "children": [
+                      {
+                        "id": "61",
+                        "parent": "60",
+                        "text": "• Verano/Otoño → Enterovirus (Coxsackie, Echovirus), Parechovirus",
+                        "guid": "o9Z0r55PW3NbtdPeL9CTow",
+                        "children": []
+                      },
+                      {
+                        "id": "62",
+                        "parent": "60",
+                        "text": "• Otros en verano/otoño → Arbovirus, Lyme",
+                        "guid": "2OVYneJa6JWjNHLwsB4WLw",
+                        "children": []
+                      },
+                      {
+                        "id": "63",
+                        "parent": "60",
+                        "text": "• Todo el año → VHS y otros",
+                        "guid": "RL1RcPs2fLzjIGJxn0wa8Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64",
+                    "parent": "52",
+                    "text": "✔ Fármacos nuevos",
+                    "guid": "7E_MNONFvjWSKWPQqMO8Uw",
+                    "children": [
+                      {
+                        "id": "65",
+                        "parent": "64",
+                        "text": "• Fármacos asociados a\nmeningitis aséptica:",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "66",
+                            "parent": "65",
+                            "text": "🔹 AINEs",
+                            "guid": "u7z2CFY_0Gh4i0kDA4kHKA",
+                            "children": []
+                          },
+                          {
+                            "id": "67",
+                            "parent": "65",
+                            "text": "🔹 Inmunoglobulina IV",
+                            "guid": "5xdtp0dD5VjfcKP8zeYPYA",
+                            "children": []
+                          },
+                          {
+                            "id": "68",
+                            "parent": "65",
+                            "text": "🔹 TMP-SMX",
+                            "guid": "94xE4d3tguDWrRh0tedWlA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "parent": "17",
+            "text": "2.2 EXAMEN\nFÍSICO",
+            "guid": "ovfmbWBCy8iXrY0woswepA",
+            "children": [
+              {
+                "id": "70",
+                "parent": "69",
+                "text": "📌 Hallazgos generales",
+                "guid": "w-p3fdvT-VsB-Mjgjn7_YA",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "✔ Fiebre",
+                    "guid": "_6EQNNRz_u_qdM78mHDKSw",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "✔ Signos de irritación meníngea → Rigidez de nuca, fotofobia",
+                    "guid": "2FSDcBFpNC4DXcKjgXsKKw",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "70",
+                    "text": "✔ Pruebas meníngeas (Kernig, Brudzinski) → (+) en casos severos de meningitis bacteriana/TB en era pre-ATB",
+                    "guid": "dfA13oatgMIhR-UXNfQR2g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74",
+                "parent": "69",
+                "text": "📌 Diferenciar meningitis\nbacteriana vs. aséptica",
+                "guid": "w9WLVYUjxFhEzxAviXRoWw",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "✔ Meningitis\nbacteriana:",
+                    "guid": "Mqbd1Ovu23vF3NUZ994GhQ",
+                    "children": [
+                      {
+                        "id": "76",
+                        "parent": "75",
+                        "text": "• Alteración del estado mental",
+                        "guid": "ZQ-1r9_-ICh-wj0ZI-ZdvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "77",
+                        "parent": "75",
+                        "text": "• Déficit neurológico focal",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "78",
+                        "parent": "75",
+                        "text": "• Exantema petequial/púrpura palpable → ⚠️ Sospecha Neisseria meningitidis",
+                        "guid": "Pc-3M8YOCpuq--jyNQ03dg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "79",
+                "parent": "69",
+                "text": "📌 Hallazgos sugerentes de\netiología específica",
+                "guid": "CGSPG7zv4H9ybguElFP_6A",
+                "children": [
+                  {
+                    "id": "80",
+                    "parent": "79",
+                    "text": "✅ Virales y bacterianas\nespecíficas",
+                    "guid": "k9i9k7Plea_LJekd-0u6KQ",
+                    "children": [
+                      {
+                        "id": "81",
+                        "parent": "80",
+                        "text": "🔹 Exantema maculopapular difuso → Enterovirus, Virus del Nilo, Seroconversión VIH, Sífilis",
+                        "guid": "qxABylemOZ1g3Q5j-IgKxw",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "80",
+                        "text": "🔹 Parotiditis → Sospecha de Parotiditis viral (Paperas) en no vacunados",
+                        "guid": "IralY1NBUGxwWeB8uyGkcA",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "80",
+                        "text": "🔹 Lesiones vesiculares en dermatomas → VZV (aunque su ausencia no descarta infección → Zóster sine herpete)",
+                        "guid": "jHcwbYgKoV8RRIz9_vRqhQ",
+                        "children": []
+                      },
+                      {
+                        "id": "84",
+                        "parent": "80",
+                        "text": "🔹 Úlceras genitales dolorosas → Primoinfección VHS-2",
+                        "guid": "8PzOOck5Ozl2JzEVjrSBng",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "80",
+                        "text": "🔹 Candidiasis oral + linfadenopatía cervical → Infección primaria por VIH",
+                        "guid": "6rg4961eLAuEaIvXcSPzKw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "86",
+                    "parent": "79",
+                    "text": "✅ Neuroinvasivos",
+                    "guid": "nvGIajdqSy5hYgiypGd4Gg",
+                    "children": [
+                      {
+                        "id": "87",
+                        "parent": "86",
+                        "text": "🔹 Parálisis flácida asimétrica → Virus del Nilo Occidental, Enterovirus D68/D71",
+                        "guid": "sBmT4BpECqT86NGmeQLlVA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "88",
+        "parent": "0",
+        "text": "3. PRUEBAS\nDIAGNÓSTICAS",
+        "guid": "SCZFgzziCx0-Cg864LCYSg",
+        "children": [
+          {
+            "id": "89",
+            "parent": "88",
+            "text": "📌 Objetivo: Identificar etiología y diferenciar entre meningitis bacteriana y aséptica",
+            "guid": "qa_wGrhHvGNO0qhnwo9erg",
+            "children": []
+          },
+          {
+            "id": "90",
+            "parent": "88",
+            "text": "3.1 Hemocultivos",
+            "guid": "m5PkZSsoo-LiPjsN-8NtfQ",
+            "children": [
+              {
+                "id": "91",
+                "parent": "90",
+                "text": "✔ Indicado en todos los pacientes con sospecha de meningitis",
+                "guid": "tc9kWXE7VBCKZRIW51cK0g",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "90",
+                "text": "✔ Útil para identificar patógenos en meningitis bacteriana o foco parameníngeo",
+                "guid": "tPJ2BfVlLUnPxSXbSARlmA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "parent": "88",
+            "text": "3.2 Líquido\nCefalorraquídeo\n(LCR)",
+            "guid": "p9_JZfbDNLkXUc3yhU_UCg",
+            "children": [
+              {
+                "id": "94",
+                "parent": "93",
+                "text": "✔ Punción lumbar (PL) inmediata, salvo contraindicación (evaluar necesidad de TC previo)",
+                "guid": "iGsAATnVmt3MGdkUDUzl6g",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "93",
+                "text": "✔ Parámetros\na analizar:",
+                "guid": "nua2T5JVGpI6yitN5rvZtw",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "• Presión de apertura",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "• Recuento celular",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "95",
+                    "text": "• Glucosa",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "95",
+                    "text": "• Proteínas",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "95",
+                    "text": "• Cultivo bacteriano",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "101",
+                "parent": "93",
+                "text": "✔ Pruebas\nmoleculares:",
+                "guid": "tVu7jZ7pw-XDIVQhaS8rbw",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "• PCR rutinario para Enterovirus, VHS y otros virus comunes",
+                    "guid": "WudoYmIA1GXhAoqRyxUE6A",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "• Multiplex PCR rápido (detecta 14 etiologías en 1 h) → No de rutina (falsos positivos con CMV, HHV6)",
+                    "guid": "CXlA4zt-YJebfH2GpmRU6w",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "101",
+                    "text": "• IgM para Virus del Nilo Occidental (pacientes en EE. UU. entre junio-octubre)",
+                    "guid": "t1fqAUQRtdeuQ4xoio-TBA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "105",
+                "parent": "93",
+                "text": "✔ Pruebas adicionales según sospecha etiológica",
+                "guid": "HmCCsawy_FsR0ROtCIlNmA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "106",
+            "parent": "88",
+            "text": "3.3 Otros estudios",
+            "guid": "dt53JVNzGzYDVKO4REA5qw",
+            "children": [
+              {
+                "id": "107",
+                "parent": "106",
+                "text": "✅ Serologías específicas\nsegún sospecha",
+                "guid": "ODSPanx14PrhheSLmSKlpw",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "• Sífilis → Pruebas serológicas específicas",
+                    "guid": "ImwLGigee5b9mK5Mus8XZA",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "• Enfermedad de Lyme → Serología si hay antecedentes epidemiológicos",
+                    "guid": "TToZMQP52Jw9jPzLAr91jw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "110",
+                "parent": "106",
+                "text": "✅ VIH",
+                "guid": "XzbsL2-TfV5t4FiVIWV2fQ",
+                "children": [
+                  {
+                    "id": "111",
+                    "parent": "110",
+                    "text": "• Todos los pacientes con meningitis → Prueba de VIH",
+                    "guid": "qfA4i-m-ehw4cBkYzYraQA",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "110",
+                    "text": "• Si se sospecha infección aguda → Carga viral VIH (RNA)",
+                    "guid": "0RXlD2Q9QNur05YzPhQmoQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "113",
+                "parent": "106",
+                "text": "✅ VHS",
+                "guid": "GZOV5OWBv5fuErNa4IRdeQ",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "• Sospecha de meningitis por VHS → Evaluar lesiones genitales",
+                    "guid": "xoELDW2LmKZanrHKcHtXgw",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "• Si hay lesiones activas → Toma de muestra con hisopado",
+                    "guid": "H436hws7QGbGledQakAJLQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "parent": "0",
+        "text": "4. TERAPIA\nANTIMICROBIANA",
+        "guid": "FzOafMlLVOup8ZAgmhn9Jg",
+        "children": [
+          {
+            "id": "117",
+            "parent": "116",
+            "text": "4.1 Terapia\nempírica",
+            "guid": "ZuDmvQjjNxQY802n_UuqBw",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "📌 Indicaciones",
+                "guid": "JjIRnjxf03GtR0YIpjkYBw",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "✔ Se basa en historia clínica, examen físico y hallazgos en LCR",
+                    "guid": "UYqnORzhOn7Wa9B0Gyd-fQ",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "✔ Si hay sospecha de meningitis bacteriana → Iniciar ATB de inmediato",
+                    "guid": "ne-5hZQR8cSV-COKJ-QBAA",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "118",
+                    "text": "✔ Criterios de alto riesgo para\nmeningitis bacteriana:",
+                    "guid": "kBKJkcgfayrtAnXdZ88HNQ",
+                    "children": [
+                      {
+                        "id": "122",
+                        "parent": "121",
+                        "text": "• Leucocitos séricos >10.0 ×10⁹/L",
+                        "guid": "4g3u_kkZcgoLAojRgptxWw",
+                        "children": []
+                      },
+                      {
+                        "id": "123",
+                        "parent": "121",
+                        "text": "• Leucocitos en LCR >2000/mm³",
+                        "guid": "ISpEc7nu1pktwQCESlvgXg",
+                        "children": []
+                      },
+                      {
+                        "id": "124",
+                        "parent": "121",
+                        "text": "• Granulocitos en LCR >1180/mm³",
+                        "guid": "4YtfeZCm1jDuvrFt8El4hQ",
+                        "children": []
+                      },
+                      {
+                        "id": "125",
+                        "parent": "121",
+                        "text": "• Proteínas en LCR >2.2 g/L",
+                        "guid": "loLsLIsWhrodTicKtKsqxw",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "121",
+                        "text": "• Glucosa en LCR <1.9 mmol/L",
+                        "guid": "NX2Fjbd7rdO7oM-DLHpjkg",
+                        "children": []
+                      },
+                      {
+                        "id": "127",
+                        "parent": "121",
+                        "text": "• Fiebre al ingreso",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "128",
+                "parent": "117",
+                "text": "📌 Estrategia\nde manejo",
+                "guid": "YNGDWVj8gGCpfpUp1Xd_dA",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "✔ Si hay duda entre origen bacteriano o viral → Iniciar ATB empírico por 48 h hasta resultados de cultivo",
+                    "guid": "tkdDmoGuIPl1hrfBf6aw1w",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "✔ Punción lumbar (PL) debe realizarse antes de iniciar ATB para no alterar cultivos",
+                    "guid": "hU6g3kFOfDSRIIAPfVdbBQ",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "128",
+                    "text": "✔ Si hay mejoría\ny cultivos (-):",
+                    "guid": "9sA-O0GHM-aEF5PkR33NBg",
+                    "children": [
+                      {
+                        "id": "132",
+                        "parent": "131",
+                        "text": "• Evaluar posibilidad de meningitis bacteriana parcialmente tratada",
+                        "guid": "aLStsGP8YbfiKWwWpIfbbQ",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "131",
+                        "text": "• Si no hay sospecha de este escenario → Suspender ATB",
+                        "guid": "Of-gmQ3fJj1OIo7FuFjxUw",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "131",
+                        "text": "• Si síntomas persisten sin Dx claro → Repetir PL sin ATB",
+                        "guid": "QELNXdtD_zY8qgEKrLpOWQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "116",
+            "text": "4.2 Terapia\nantiviral",
+            "guid": "GUuTtETpOJ_IPe2hDqwmrA",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "✔ Aciclovir IV empírico si\nhay sospecha de:",
+                "guid": "6ZFE-y7k7J5E7czXXODJog",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "• Encefalitis VHS o VZV",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "• Lesiones vesiculares en piel o mucosas",
+                    "guid": "yuM_siTjLg3U7KMqXd7OEw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "parent": "116",
+            "text": "4.3 Terapia\ndirigida",
+            "guid": "Ilh8R7hmM_HZtNhfr8WiIQ",
+            "children": [
+              {
+                "id": "140",
+                "parent": "139",
+                "text": "✔ Si se identifica un patógeno tratable → Ajustar tratamiento",
+                "guid": "pdetsWhKe4cEVBUy0I-oqQ",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "• Ej: Borrelia burgdorferi (Lyme), Treponema pallidum (Sífilis)",
+                    "guid": "gPb2TcOqqzVvbhPX8aV5Og",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "142",
+                "parent": "139",
+                "text": "✔ Ver sección de “Infecciones por patógenos específicos”",
+                "guid": "87ITjhKpIlJ0jmE1lvBKEg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "143",
+        "parent": "0",
+        "text": "5. INFECCIONES POR\nPATÓGENOS ESPECÍFICOS",
+        "guid": "7wMEr1zDmVyKWsMcKX6doQ",
+        "children": [
+          {
+            "id": "144",
+            "parent": "143",
+            "text": "5.1 Meningitis viral",
+            "guid": "a2XuO2Hqm2YcLcVCsSBQMg",
+            "children": [
+              {
+                "id": "145",
+                "parent": "144",
+                "text": "📌 Principales\nvirus asociados:",
+                "guid": "AAnpHtHmNhgnmR2_JISHHg",
+                "children": [
+                  {
+                    "id": "146",
+                    "parent": "145",
+                    "text": "✔ Estacionales (Verano/Otoño) → Enterovirus, Parechovirus, Arbovirus, Toscana (Mediterráneo)",
+                    "guid": "saXQpKk1SwIty91oLapmdg",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "145",
+                    "text": "✔ Todo el año → VHS, VIH, VZV",
+                    "guid": "ERRjuuT-RQNGsJgdLHv9Yw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "148",
+                "parent": "144",
+                "text": "5.1.1 Enterovirus y\nParechovirus",
+                "guid": "_cIgWQoG2OcXDv5bC2-qvA",
+                "children": [
+                  {
+                    "id": "149",
+                    "parent": "148",
+                    "text": "📌 Epidemiología:",
+                    "guid": "P5YJLANmWU8hut2BoiNYBg",
+                    "children": [
+                      {
+                        "id": "150",
+                        "parent": "149",
+                        "text": "✔ Causa más común de meningitis viral",
+                        "guid": "mLs00Fi8T1bD1VwY1vPqHQ",
+                        "children": []
+                      },
+                      {
+                        "id": "151",
+                        "parent": "149",
+                        "text": "✔ Predomina en verano/otoño pero presente todo el año (6-10% en invierno/primavera)",
+                        "guid": "88LXuEw2BskSWFJ0cjVzhw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "152",
+                    "parent": "148",
+                    "text": "📌 Clínica:",
+                    "guid": "B-O77N625_HINP6-BBZwMA",
+                    "children": [
+                      {
+                        "id": "153",
+                        "parent": "152",
+                        "text": "✔ Curso subagudo (~3 días de síntomas antes de consulta)",
+                        "guid": "KHz1ew40DMh9gL0UY011xA",
+                        "children": []
+                      },
+                      {
+                        "id": "154",
+                        "parent": "152",
+                        "text": "✔ Síntomas\nprincipales:",
+                        "guid": "XvUcGNh_to8XbaNbgnYOBQ",
+                        "children": [
+                          {
+                            "id": "155",
+                            "parent": "154",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "156",
+                            "parent": "154",
+                            "text": "• Fiebre",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "157",
+                            "parent": "154",
+                            "text": "• Náuseas/Vómitos",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "158",
+                            "parent": "154",
+                            "text": "• Malestar general",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "159",
+                            "parent": "154",
+                            "text": "• Fotofobia",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "160",
+                            "parent": "154",
+                            "text": "• Signos meníngeos",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "161",
+                        "parent": "152",
+                        "text": "✔ Puede\nhaber:",
+                        "guid": "uluE-9eOPVDYElzG8ouHhQ",
+                        "children": [
+                          {
+                            "id": "162",
+                            "parent": "161",
+                            "text": "• Exantema maculopapular",
+                            "guid": "adyzM-OcO85tcZKmsfaVPA",
+                            "children": []
+                          },
+                          {
+                            "id": "163",
+                            "parent": "161",
+                            "text": "• Diarrea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "164",
+                            "parent": "161",
+                            "text": "• Síntomas respiratorios altos",
+                            "guid": "KXJ1hUwWspyqVxAyjcUBew",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "165",
+                    "parent": "148",
+                    "text": "📌 LCR:",
+                    "guid": "u7w0PdR74q9sjmirMjTpNw",
+                    "children": [
+                      {
+                        "id": "166",
+                        "parent": "165",
+                        "text": "✔ Leucocitos <250 células/µL (predominio linfocítico)",
+                        "guid": "F8SAiuYx4lLDXh6fMknS2Q",
+                        "children": []
+                      },
+                      {
+                        "id": "167",
+                        "parent": "165",
+                        "text": "✔ Proteínas <100 mg/dL",
+                        "guid": "8yFDCfKMQB-UoZhUmSN60w",
+                        "children": []
+                      },
+                      {
+                        "id": "168",
+                        "parent": "165",
+                        "text": "✔ Glucosa normal",
+                        "guid": "11lo85fpS8OTh7_Ofm9CqA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "169",
+                    "parent": "148",
+                    "text": "📌 Dx:",
+                    "guid": "FUDIxdxmlZ5qklOc8HbKNw",
+                    "children": [
+                      {
+                        "id": "170",
+                        "parent": "169",
+                        "text": "✔ PCR para Enterovirus y Parechovirus → Alta sensibilidad (86-100%) y especificidad (92-100%)",
+                        "guid": "rQCkOwO2OSf9MTM5_ngsEg",
+                        "children": []
+                      },
+                      {
+                        "id": "171",
+                        "parent": "169",
+                        "text": "✔ Multiplex PCR rápido disponible en 1 h",
+                        "guid": "l-j7csZOCft4vemRRHPRDg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "172",
+                    "parent": "148",
+                    "text": "📌 Manejo:",
+                    "guid": "ZTVmEhFNSnpxfGlW4XbnBg",
+                    "children": [
+                      {
+                        "id": "173",
+                        "parent": "172",
+                        "text": "✔ Soporte sintomático",
+                        "guid": "7q7P_yPBcL2QwyDc71ALYA",
+                        "children": []
+                      },
+                      {
+                        "id": "174",
+                        "parent": "172",
+                        "text": "✔ No requiere antivirales",
+                        "guid": "a8HCbmYEyHRiWVMOuV4VGw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "175",
+                "parent": "144",
+                "text": "5.1.2 Meningitis\npor Herpesvirus",
+                "guid": "_KYkHJqL_o5nabFXpOEUeg",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "📌 Principales\nagentes:",
+                    "guid": "3pIlAeDoCLqW84gXr3RbUQ",
+                    "children": [
+                      {
+                        "id": "177",
+                        "parent": "176",
+                        "text": "✔ VHS-2 (más común en adultos inmunocompetentes)",
+                        "guid": "sj5Yssk0Kzga37066BRKvw",
+                        "children": []
+                      },
+                      {
+                        "id": "178",
+                        "parent": "176",
+                        "text": "✔ VZV",
+                        "guid": "EIYkAaQCHbPLKjAvL9G8MQ",
+                        "children": []
+                      },
+                      {
+                        "id": "179",
+                        "parent": "176",
+                        "text": "✔ CMV, EBV, HHV-6 (menos frecuentes)",
+                        "guid": "Zq7YvBBkU6WsZVi23LjfXw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "180",
+                    "parent": "175",
+                    "text": "A) Meningitis\npor VHS",
+                    "guid": "ORN7w_zOUmzYp8VZwS96dQ",
+                    "children": [
+                      {
+                        "id": "181",
+                        "parent": "180",
+                        "text": "📌 Epidemiología:",
+                        "guid": "JaSCcK2ZePQkc8KSoO3Oqg",
+                        "children": [
+                          {
+                            "id": "182",
+                            "parent": "181",
+                            "text": "✔ Frecuente → Principalmente VHS-2",
+                            "guid": "s5Gp94QM9C-M5n_r28An5w",
+                            "children": []
+                          },
+                          {
+                            "id": "183",
+                            "parent": "181",
+                            "text": "✔ En jóvenes y mujeres",
+                            "guid": "ePVH5iCZmxHvOkKUxKCXug",
+                            "children": []
+                          },
+                          {
+                            "id": "184",
+                            "parent": "181",
+                            "text": "✔ 50% con historia de herpes genital",
+                            "guid": "jJbN6EbrBUvb3zSBhOZE8g",
+                            "children": []
+                          },
+                          {
+                            "id": "185",
+                            "parent": "181",
+                            "text": "✔ 30% con meningitis viral previa",
+                            "guid": "OUSEhlF_XTZKXi5MXmRpJg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "186",
+                        "parent": "180",
+                        "text": "📌 Clínica:",
+                        "guid": "_ureN_xNRTgH6FdXaaxTPw",
+                        "children": [
+                          {
+                            "id": "187",
+                            "parent": "186",
+                            "text": "✔ Síntomas típicos de meningitis viral",
+                            "guid": "3SMvbVEgSwrMF8Ci5vPchA",
+                            "children": []
+                          },
+                          {
+                            "id": "188",
+                            "parent": "186",
+                            "text": "✔ Solo 8% con lesiones genitales activas → Su ausencia NO descarta VHS",
+                            "guid": "aQVW88nNz3AdXl2rYWxeKA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "189",
+                        "parent": "180",
+                        "text": "📌 LCR:",
+                        "guid": "MdtBjgFMTZpxJAHmxqOZzg",
+                        "children": [
+                          {
+                            "id": "190",
+                            "parent": "189",
+                            "text": "✔ Pleocitosis linfocítica",
+                            "guid": "iTlvWUpBRen1ZG8XGgZIeA",
+                            "children": []
+                          },
+                          {
+                            "id": "191",
+                            "parent": "189",
+                            "text": "✔ Glucosa normal",
+                            "guid": "xK4p1jdvNJjvolngEDYyvA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "192",
+                        "parent": "180",
+                        "text": "📌 Dx:",
+                        "guid": "v7w3xblaSBw0-NUmlS-6PQ",
+                        "children": [
+                          {
+                            "id": "193",
+                            "parent": "192",
+                            "text": "✔ PCR de LCR para VHS",
+                            "guid": "NGRT2oCQV_7iUS6Dn4iv8Q",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "194",
+                        "parent": "180",
+                        "text": "📌 Manejo:",
+                        "guid": "ANuFLxO3DEkSjNPQj6UV3g",
+                        "children": [
+                          {
+                            "id": "195",
+                            "parent": "194",
+                            "text": "✔ Aciclovir IV 10 mg/kg c/8h (ajustar en IR)",
+                            "guid": "iDS5xBXJmmo7l3HVO7GzEQ",
+                            "children": []
+                          },
+                          {
+                            "id": "196",
+                            "parent": "194",
+                            "text": "✔ Cambio a Valaciclovir VO 1 g c/8h al alta → Total 10 días",
+                            "guid": "OSYuB7C9KHNcu8BS_a2wPw",
+                            "children": []
+                          },
+                          {
+                            "id": "197",
+                            "parent": "194",
+                            "text": "✔ No usar Aciclovir VO (baja biodisponibilidad)",
+                            "guid": "eNwK5n1nFqCpPv3r-IYAfQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "198",
+                        "parent": "180",
+                        "text": "📌 Pronóstico:",
+                        "guid": "NkKuDRWRkjGBGNOhKSmAOQ",
+                        "children": [
+                          {
+                            "id": "199",
+                            "parent": "198",
+                            "text": "✔ Generalmente bueno",
+                            "guid": "HJTCsCcgQ9ltD8af2_WMXw",
+                            "children": []
+                          },
+                          {
+                            "id": "200",
+                            "parent": "198",
+                            "text": "✔ 1/3 con alteraciones neurocognitivas al alta",
+                            "guid": "ziDXSo_L-Jhf-Z9iK4Aa1Q",
+                            "children": []
+                          },
+                          {
+                            "id": "201",
+                            "parent": "198",
+                            "text": "✔ 11% con secuelas a 6 meses",
+                            "guid": "4ri6ZziIOFJh6NuDtXUDQA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "202",
+                    "parent": "175",
+                    "text": "B) Meningitis\npor VZV",
+                    "guid": "J8Mhfy9MM-8S5jtQokEMmg",
+                    "children": [
+                      {
+                        "id": "203",
+                        "parent": "202",
+                        "text": "📌 Epidemiología:",
+                        "guid": "00QwdZF7oeyFLDNXmTiMGA",
+                        "children": [
+                          {
+                            "id": "204",
+                            "parent": "203",
+                            "text": "✔ Puede ocurrir con o sin lesiones cutáneas → Zoster sine herpete",
+                            "guid": "V4hP7BYY6qeREWX05Kh0zw",
+                            "children": []
+                          },
+                          {
+                            "id": "205",
+                            "parent": "203",
+                            "text": "✔ Subdiagnosticado (solo 1. 2% de meningitis virales tienen PCR para VZV)",
+                            "guid": "W2nI8Ap-DfkYhTClp_H4IA",
+                            "children": []
+                          },
+                          {
+                            "id": "206",
+                            "parent": "203",
+                            "text": "✔ En estudios, VZV es la tercera causa más frecuente de meningitis viral",
+                            "guid": "63jomuWBEfN0AbUapqKRhA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "207",
+                        "parent": "202",
+                        "text": "📌 Dx:",
+                        "guid": "bE3fZypE8rDSvKKAp11AAQ",
+                        "children": [
+                          {
+                            "id": "208",
+                            "parent": "207",
+                            "text": "✔ PCR de LCR para VZV",
+                            "guid": "r5dxhFOjkClNYY_eXNyo3Q",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "209",
+                        "parent": "202",
+                        "text": "📌 Manejo:",
+                        "guid": "EdGMsscXHjRzDRTtNDrg3Q",
+                        "children": [
+                          {
+                            "id": "210",
+                            "parent": "209",
+                            "text": "✔ Aciclovir IV",
+                            "guid": "rItQziAJwM5x4leTBGPDVw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "211",
+                    "parent": "175",
+                    "text": "C) Otras meningitis\npor Herpesvirus",
+                    "guid": "NjvNOsqKD5WSfDnbAKBgVA",
+                    "children": [
+                      {
+                        "id": "212",
+                        "parent": "211",
+                        "text": "📌 Agentes\nmenos comunes:",
+                        "guid": "d0I9MwtinXFQ0tcaYL_9sw",
+                        "children": [
+                          {
+                            "id": "213",
+                            "parent": "212",
+                            "text": "✔ CMV",
+                            "guid": "zvLmNFOREjooZxLdJ-5cZg",
+                            "children": []
+                          },
+                          {
+                            "id": "214",
+                            "parent": "212",
+                            "text": "✔ EBV",
+                            "guid": "9Klb_os0yxrPAuXO2b9gvg",
+                            "children": []
+                          },
+                          {
+                            "id": "215",
+                            "parent": "212",
+                            "text": "✔ HHV-6",
+                            "guid": "7I66njQDvl-Y_NrsBw8yGw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "216",
+                        "parent": "211",
+                        "text": "📌 Consideraciones:",
+                        "guid": "-Rk8QQL-qY1oh2klM4NBbA",
+                        "children": [
+                          {
+                            "id": "217",
+                            "parent": "216",
+                            "text": "✔ Evaluar en inmunosuprimidos",
+                            "guid": "0MJRu54ShKNfVwtL-lmbAA",
+                            "children": []
+                          },
+                          {
+                            "id": "218",
+                            "parent": "216",
+                            "text": "✔ Diagnóstico y manejo detallado en secciones específicas",
+                            "guid": "iqaXtBrzjsQaceX_xa1aVQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "219",
+            "parent": "143",
+            "text": "5.2 Otras Causas Infecciosas\nde Meningitis Aséptica",
+            "guid": "3UyuhGZZTp1-OTLRC_VLBw",
+            "children": [
+              {
+                "id": "220",
+                "parent": "219",
+                "text": "5.2.1 Arbovirus",
+                "guid": "fZsck3lVnbCZbZMd0ryoyA",
+                "children": [
+                  {
+                    "id": "221",
+                    "parent": "220",
+                    "text": "📌 Epidemiología:",
+                    "guid": "i3jss3wX_CoV_Lap4N4hfg",
+                    "children": [
+                      {
+                        "id": "222",
+                        "parent": "221",
+                        "text": "✔ Transmitidos por mosquitos, garrapatas o flebótomos",
+                        "guid": "lCxW4v2XvEhaiZFMOrliLw",
+                        "children": []
+                      },
+                      {
+                        "id": "223",
+                        "parent": "221",
+                        "text": "✔ Frecuentemente causan meningitis y encefalitis",
+                        "guid": "2UfpjTjQkAWl_xOLx_-T6Q",
+                        "children": []
+                      },
+                      {
+                        "id": "224",
+                        "parent": "221",
+                        "text": "✔ Principal arbovirus en EE.UU. → Virus del Nilo Occidental (flavivirus)",
+                        "guid": "z5mYrz_vTP47JGWVoYvpsw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "225",
+                    "parent": "220",
+                    "text": "📌 Clínica:",
+                    "guid": "w3NlfIlkWV-NMq3M9fPp0g",
+                    "children": [
+                      {
+                        "id": "226",
+                        "parent": "225",
+                        "text": "✔ Ocurre en verano/otoño",
+                        "guid": "bYNbFS2R-kH8eHudY2me5w",
+                        "children": []
+                      },
+                      {
+                        "id": "227",
+                        "parent": "225",
+                        "text": "✔ Síntomas típicos de\nmeningitis viral",
+                        "guid": "c4Ua-gdyYZdUzMBA-uyWlQ",
+                        "children": [
+                          {
+                            "id": "228",
+                            "parent": "227",
+                            "text": "• Fiebre",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "229",
+                            "parent": "227",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "230",
+                            "parent": "227",
+                            "text": "• Náuseas/vómitos",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "231",
+                            "parent": "227",
+                            "text": "• Rigidez de nuca",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "232",
+                            "parent": "227",
+                            "text": "• Fotofobia",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "233",
+                        "parent": "225",
+                        "text": "✔ Puede asociarse a:",
+                        "guid": "3_fkahFjdsDRZaMJVRSKkA",
+                        "children": [
+                          {
+                            "id": "234",
+                            "parent": "233",
+                            "text": "• Exantema maculopapular",
+                            "guid": "oBai450iDcqA2tqH6Of49Q",
+                            "children": []
+                          },
+                          {
+                            "id": "235",
+                            "parent": "233",
+                            "text": "• Parálisis flácida aguda",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "236",
+                            "parent": "233",
+                            "text": "• Retinopatía",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "237",
+                    "parent": "220",
+                    "text": "📌 LCR:",
+                    "guid": "Szf8J0-LsZQLGb_i_MDofg",
+                    "children": [
+                      {
+                        "id": "238",
+                        "parent": "237",
+                        "text": "✔ Similar a Enterovirus",
+                        "guid": "Fj9DX70RG2ajvL3nxPZU9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "239",
+                        "parent": "237",
+                        "text": "✔ Puede presentar pleocitosis neutrofílica transitoria",
+                        "guid": "nNHL20_E7p7zEOPJ3_Igjg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "240",
+                    "parent": "220",
+                    "text": "📌 Dx:",
+                    "guid": "57C6XefIcfjPCGcKb6djJg",
+                    "children": [
+                      {
+                        "id": "241",
+                        "parent": "240",
+                        "text": "✔ IgM para Virus del Nilo Occidental en LCR o suero",
+                        "guid": "jjPQMGwfBd4I7hwSFMAhLg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "242",
+                    "parent": "220",
+                    "text": "📌 Manejo:",
+                    "guid": "FMhmPms9G3zN3GNVZppU9A",
+                    "children": [
+                      {
+                        "id": "243",
+                        "parent": "242",
+                        "text": "✔ No hay tratamiento antiviral específico",
+                        "guid": "Ytopw4ARJXqWOkUZFCZxCw",
+                        "children": []
+                      },
+                      {
+                        "id": "244",
+                        "parent": "242",
+                        "text": "✔ Soporte sintomático",
+                        "guid": "5cVqT5bfaT7ck6WwLtKqOA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "245",
+                "parent": "219",
+                "text": "5.2.2 Meningitis\npor VIH",
+                "guid": "C5j3realb91Pv-yJSPpHUQ",
+                "children": [
+                  {
+                    "id": "246",
+                    "parent": "245",
+                    "text": "📌 Epidemiología:",
+                    "guid": "MYVbbUAt_3QwPH4aENz9Ag",
+                    "children": [
+                      {
+                        "id": "247",
+                        "parent": "246",
+                        "text": "✔ Ocurre en infección primaria por VIH",
+                        "guid": "HUE9RGBonC23TlGsCgWjXA",
+                        "children": []
+                      },
+                      {
+                        "id": "248",
+                        "parent": "246",
+                        "text": "✔ Puede parecer un síndrome mononucleósico",
+                        "guid": "3GH5OrvBxb2T79nmzkwldA",
+                        "children": []
+                      },
+                      {
+                        "id": "249",
+                        "parent": "246",
+                        "text": "✔ Alto índice de sospecha en pacientes con FR para VIH",
+                        "guid": "TcKsHtUcc2sYhxHzowbClg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "250",
+                    "parent": "245",
+                    "text": "📌 Clínica:",
+                    "guid": "lkIuAdmkMtYKDKqFXVVkyw",
+                    "children": [
+                      {
+                        "id": "251",
+                        "parent": "250",
+                        "text": "✔ Fiebre",
+                        "guid": "IZHa0IWDPUV6X1RH2146UA",
+                        "children": []
+                      },
+                      {
+                        "id": "252",
+                        "parent": "250",
+                        "text": "✔ Malestar general",
+                        "guid": "oL38XGNwnZQVQtJyOH53NA",
+                        "children": []
+                      },
+                      {
+                        "id": "253",
+                        "parent": "250",
+                        "text": "✔ Linfadenopatía",
+                        "guid": "zWbC7ajOB_YfMLESY9bp-g",
+                        "children": []
+                      },
+                      {
+                        "id": "254",
+                        "parent": "250",
+                        "text": "✔ Exantema",
+                        "guid": "jHdsQDJlhWKMpNQIib36mQ",
+                        "children": []
+                      },
+                      {
+                        "id": "255",
+                        "parent": "250",
+                        "text": "✔ Faringitis",
+                        "guid": "VWNo-9teOZFcrLe2BuQEHg",
+                        "children": []
+                      },
+                      {
+                        "id": "256",
+                        "parent": "250",
+                        "text": "✔ Cefalea +\nsíntomas neurológicos",
+                        "guid": "KaSzD8IhMgHMJaikq9P6vg",
+                        "children": [
+                          {
+                            "id": "257",
+                            "parent": "256",
+                            "text": "• Confusión",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "258",
+                            "parent": "256",
+                            "text": "• Convulsiones",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "259",
+                            "parent": "256",
+                            "text": "• Parálisis de pares craneales",
+                            "guid": "1k17F-Gz0tYdIZ-k-_PMSw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "260",
+                    "parent": "245",
+                    "text": "📌 LCR:",
+                    "guid": "sC9J6ClS1OhA2lH6SHgbtA",
+                    "children": [
+                      {
+                        "id": "261",
+                        "parent": "260",
+                        "text": "✔ Pleocitosis linfocítica",
+                        "guid": "5urmuwJIs_BdyG7KuR7M4A",
+                        "children": []
+                      },
+                      {
+                        "id": "262",
+                        "parent": "260",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "JhA6llSdWChCRy1QWc6Cvw",
+                        "children": []
+                      },
+                      {
+                        "id": "263",
+                        "parent": "260",
+                        "text": "✔ Glucosa normal",
+                        "guid": "6jxJN6mgPvGvbQwYLWoBmQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "264",
+                    "parent": "245",
+                    "text": "📌 Dx:",
+                    "guid": "er1yFySsXqZzRhdOPnMFoQ",
+                    "children": [
+                      {
+                        "id": "265",
+                        "parent": "264",
+                        "text": "✔ Carga viral VIH (RNA-1) ± anticuerpos VIH",
+                        "guid": "czKM3zNEbOTgGImNOd0iCQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "266",
+                    "parent": "245",
+                    "text": "📌 Manejo:",
+                    "guid": "-H02e65nQqvAqFbkaPmkFQ",
+                    "children": [
+                      {
+                        "id": "267",
+                        "parent": "266",
+                        "text": "✔ Terapia antirretroviral (TAR) temprana",
+                        "guid": "6s2llEeA6MDIPDFuLJEs4Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "268",
+                "parent": "219",
+                "text": "5.2.3 Virus de\nCoriomeningitis Linfocítica\n(LCMV)",
+                "guid": "ZFc1EyQtIVgGVv4E-TZsDA",
+                "children": [
+                  {
+                    "id": "269",
+                    "parent": "268",
+                    "text": "📌 Epidemiología:",
+                    "guid": "X9vY4AGmXYOLPw1ntRPLEA",
+                    "children": [
+                      {
+                        "id": "270",
+                        "parent": "269",
+                        "text": "✔ Arenavirus transmitido por roedores (ratones, ratas, hámsters)",
+                        "guid": "hwBNpXUog96tr6ogSfhQZg",
+                        "children": []
+                      },
+                      {
+                        "id": "271",
+                        "parent": "269",
+                        "text": "✔ Transmisión:",
+                        "guid": "0JUeXjjg-ccvmGj3zxkTwA",
+                        "children": [
+                          {
+                            "id": "272",
+                            "parent": "271",
+                            "text": "• Contacto directo\ncon excreciones",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "273",
+                            "parent": "271",
+                            "text": "• Aerosoles ambientales",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "274",
+                        "parent": "269",
+                        "text": "✔ Predominio\nen invierno",
+                        "guid": "Lm3PhwmkkwGVzmla-fzjMQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "275",
+                    "parent": "268",
+                    "text": "📌 Clínica:",
+                    "guid": "AiV4mtz82uU23HKP-krIfQ",
+                    "children": [
+                      {
+                        "id": "276",
+                        "parent": "275",
+                        "text": "✔ Enfermedad sistémica tipo influenza",
+                        "guid": "tUsNayMzEeE9zORpq_VSWw",
+                        "children": []
+                      },
+                      {
+                        "id": "277",
+                        "parent": "275",
+                        "text": "✔ Cefalea + signos meníngeos",
+                        "guid": "kX-yJj35OzuqlBL30AC4Mw",
+                        "children": []
+                      },
+                      {
+                        "id": "278",
+                        "parent": "275",
+                        "text": "✔ Síntomas\nasociados (raros):",
+                        "guid": "cWwXkPcHLVRBZ2cwUuEJBQ",
+                        "children": [
+                          {
+                            "id": "279",
+                            "parent": "278",
+                            "text": "• Orquitis",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "280",
+                            "parent": "278",
+                            "text": "• Parotiditis",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "281",
+                            "parent": "278",
+                            "text": "• Miopericarditis",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "282",
+                            "parent": "278",
+                            "text": "• Artritis",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "283",
+                    "parent": "268",
+                    "text": "📌 LCR:",
+                    "guid": "suEyIINBqjJ7St9U4YywcQ",
+                    "children": [
+                      {
+                        "id": "284",
+                        "parent": "283",
+                        "text": "✔ Pleocitosis linfocítica (>1000 células/µL)",
+                        "guid": "y74yz5l4iQi01PatCa3HwQ",
+                        "children": []
+                      },
+                      {
+                        "id": "285",
+                        "parent": "283",
+                        "text": "✔ Glucosa baja (diferente a otras meningitis virales)",
+                        "guid": "toE-CPfFhIRaq7UKY1tkbw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "286",
+                    "parent": "268",
+                    "text": "📌 Dx:",
+                    "guid": "S5uMJuiUKb_0JFaIcsBT4g",
+                    "children": [
+                      {
+                        "id": "287",
+                        "parent": "286",
+                        "text": "✔ Serología → Seroconversión en muestras pareadas (2-4 semanas)",
+                        "guid": "OST_nVqeG8eFu9T8fveayg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "288",
+                    "parent": "268",
+                    "text": "📌 Manejo:",
+                    "guid": "RrCp_AQpcAlO484f2mBSuA",
+                    "children": [
+                      {
+                        "id": "289",
+                        "parent": "288",
+                        "text": "✔ No hay antiviral específico",
+                        "guid": "6SsqLeRvLPUQ3P_56lhbEQ",
+                        "children": []
+                      },
+                      {
+                        "id": "290",
+                        "parent": "288",
+                        "text": "✔ Tratamiento sintomático",
+                        "guid": "O7BZVPPevQEbanrcTprPCA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "291",
+                "parent": "219",
+                "text": "5.2.4 Meningitis\npor Paperas",
+                "guid": "mFjYR9c0A-luQDyGBQfq6w",
+                "children": [
+                  {
+                    "id": "292",
+                    "parent": "291",
+                    "text": "📌 Epidemiología:",
+                    "guid": "H9RTvrVG8i1dXtBnCmip6Q",
+                    "children": [
+                      {
+                        "id": "293",
+                        "parent": "292",
+                        "text": "✔ Complicación más frecuente del virus de paperas",
+                        "guid": "p8PYdfqmJ1FCxa5YFvINjQ",
+                        "children": []
+                      },
+                      {
+                        "id": "294",
+                        "parent": "292",
+                        "text": "✔ Antes de la vacuna causaba 10-20% de meningitis virales",
+                        "guid": "Mf3RvpFiARgaluc2dsVypg",
+                        "children": []
+                      },
+                      {
+                        "id": "295",
+                        "parent": "292",
+                        "text": "✔ Post-vacuna → <1% de las meningitis en EE.UU./Reino Unido",
+                        "guid": "i6Osc_Nlq6JowfumxsWkcw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "296",
+                    "parent": "291",
+                    "text": "📌 Clínica:",
+                    "guid": "MbTd6iYWFY1R8tedMfyWvQ",
+                    "children": [
+                      {
+                        "id": "297",
+                        "parent": "296",
+                        "text": "✔ Síntomas leves:",
+                        "guid": "F9vblx52JhYhUOOAVUiAIg",
+                        "children": [
+                          {
+                            "id": "298",
+                            "parent": "297",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "299",
+                            "parent": "297",
+                            "text": "• Fiebre baja",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "300",
+                            "parent": "297",
+                            "text": "• Rigidez de nuca leve",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "301",
+                        "parent": "296",
+                        "text": "✔ Ocurre en cualquier momento respecto a parotiditis:",
+                        "guid": "vhKUxB-CbBu0byA2bEsbdQ",
+                        "children": [
+                          {
+                            "id": "302",
+                            "parent": "301",
+                            "text": "• Antes, durante o después",
+                            "guid": "_-mXUX8lJ92C_l58FG43aw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "303",
+                        "parent": "296",
+                        "text": "✔ 50% de los casos SIN parotiditis",
+                        "guid": "4ux_GGjqnVucx1rdEUHqgw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "304",
+                    "parent": "291",
+                    "text": "📌 LCR:",
+                    "guid": "tljQfDiwJNw3TACh03dcdw",
+                    "children": [
+                      {
+                        "id": "305",
+                        "parent": "304",
+                        "text": "✔ Leucocitos <500 células/µL (predominio linfocítico)",
+                        "guid": "qeoJ2HyAlHWUrNT7ycz1hg",
+                        "children": []
+                      },
+                      {
+                        "id": "306",
+                        "parent": "304",
+                        "text": "✔ Puede haber >1000 células/µL con predominio neutrofílico inicial",
+                        "guid": "iAePuA3ybISd4W76zvmdVg",
+                        "children": []
+                      },
+                      {
+                        "id": "307",
+                        "parent": "304",
+                        "text": "✔ Proteínas normales o levemente elevadas",
+                        "guid": "cP4VGQmcHh6FxNPIFLe93g",
+                        "children": []
+                      },
+                      {
+                        "id": "308",
+                        "parent": "304",
+                        "text": "✔ Glucosa normal o ligeramente disminuida",
+                        "guid": "Sssz2K4rIakQEIvM3fYR-A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "309",
+                    "parent": "291",
+                    "text": "📌 Dx:",
+                    "guid": "oRaYgMIIG5Mpj4FTw5cghA",
+                    "children": [
+                      {
+                        "id": "310",
+                        "parent": "309",
+                        "text": "✔ PCR o serología para Parotidovirus",
+                        "guid": "nOPWUVPndudi16RBpaQH4A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "311",
+                    "parent": "291",
+                    "text": "📌 Manejo:",
+                    "guid": "s78QvkPL4lGsysslFEqwhw",
+                    "children": [
+                      {
+                        "id": "312",
+                        "parent": "311",
+                        "text": "✔ Soporte sintomático",
+                        "guid": "eSN1BH6FRtr38beFwXse6w",
+                        "children": []
+                      },
+                      {
+                        "id": "313",
+                        "parent": "311",
+                        "text": "✔ No hay tratamiento antiviral específico",
+                        "guid": "db8AYFVEt3zLFjtWsyi8yA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "314",
+            "parent": "143",
+            "text": "5.3 Meningitis por\nEspiroquetas",
+            "guid": "z1WzfUnMD0rudecWZ15HEw",
+            "children": [
+              {
+                "id": "315",
+                "parent": "314",
+                "text": "📌 Principales\nagentes:",
+                "guid": "3ydTzM0Yja0IeH_Sc0H6Sg",
+                "children": [
+                  {
+                    "id": "316",
+                    "parent": "315",
+                    "text": "✔ Treponema pallidum (Sífilis)",
+                    "guid": "HEY3LAvAaVp-YIz79wGN5w",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "315",
+                    "text": "✔ Borrelia burgdorferi (Enfermedad de Lyme)",
+                    "guid": "eXM4gV--jz4D9ZSX3sp5EQ",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "315",
+                    "text": "✔ Leptospira spp. (Leptospirosis)",
+                    "guid": "JBNwF4nzCk8OpDciV4m-hA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "319",
+                "parent": "314",
+                "text": "5.3.1 Neurosífilis",
+                "guid": "HF461Y0eW3pgJJP-WpxfPg",
+                "children": [
+                  {
+                    "id": "320",
+                    "parent": "319",
+                    "text": "📌 Epidemiología:",
+                    "guid": "0pDz8sTS10wlTb0qGJFMRw",
+                    "children": [
+                      {
+                        "id": "321",
+                        "parent": "320",
+                        "text": "✔ T. pallidum disemina al SNC en fase temprana de sífilis",
+                        "guid": "FzUVsb8cylbTuIXQJt_hng",
+                        "children": []
+                      },
+                      {
+                        "id": "322",
+                        "parent": "320",
+                        "text": "✔ Puede ocurrir en cualquier estadio",
+                        "guid": "zd_D6NcgTJ1btxQI_XDjYQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "323",
+                    "parent": "319",
+                    "text": "📌 Clínica:",
+                    "guid": "0KlU8CiH-2-K2rQEEZPbpw",
+                    "children": [
+                      {
+                        "id": "324",
+                        "parent": "323",
+                        "text": "✔ Sífilis temprana con:",
+                        "guid": "cote3E5I50UlhwcunZ_ahA",
+                        "children": [
+                          {
+                            "id": "325",
+                            "parent": "324",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "326",
+                            "parent": "324",
+                            "text": "• Malestar general",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "327",
+                            "parent": "324",
+                            "text": "• Exantema diseminado",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "328",
+                        "parent": "323",
+                        "text": "✔ Puede progresar a neurosífilis tardía → Tabes dorsal, paresia general",
+                        "guid": "qNoIH6ACFaU1v2Th9hvluw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "329",
+                    "parent": "319",
+                    "text": "📌 LCR:",
+                    "guid": "VHcRA7KGC9ApUyh-6hZsUg",
+                    "children": [
+                      {
+                        "id": "330",
+                        "parent": "329",
+                        "text": "✔ Pleocitosis linfocítica",
+                        "guid": "jfmq9igWDwv5PHajCr-z0w",
+                        "children": []
+                      },
+                      {
+                        "id": "331",
+                        "parent": "329",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "tb0QqU2QSXkhx8C3L91U7w",
+                        "children": []
+                      },
+                      {
+                        "id": "332",
+                        "parent": "329",
+                        "text": "✔ Glucosa ocasionalmente baja",
+                        "guid": "BH0kz8kB7llIiaTcvsppPw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "333",
+                    "parent": "319",
+                    "text": "📌 Dx:",
+                    "guid": "meR0U__S4v7cwVWMNG3qqw",
+                    "children": [
+                      {
+                        "id": "334",
+                        "parent": "333",
+                        "text": "✔ Pruebas treponémicas séricas (+) en casi todos los casos",
+                        "guid": "vuhz2DlPJqUdvr4a_p8Rbw",
+                        "children": []
+                      },
+                      {
+                        "id": "335",
+                        "parent": "333",
+                        "text": "✔ VDRL en LCR → Alta especificidad, pero sensibilidad 30-70%",
+                        "guid": "bGx98o33FDlpRn00KrMLBQ",
+                        "children": []
+                      },
+                      {
+                        "id": "336",
+                        "parent": "333",
+                        "text": "✔ Evitar contaminación con sangre para interpretar VDRL",
+                        "guid": "xOGa-9Ef9REbWiBzjMMlAw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "337",
+                    "parent": "319",
+                    "text": "📌 Manejo:",
+                    "guid": "yb5jNgrGFcAHRASn7n7ErQ",
+                    "children": [
+                      {
+                        "id": "338",
+                        "parent": "337",
+                        "text": "✔ Penicilina G IV 18-24 millones U/día (3-4 millones U c/4h) por 10-14 días",
+                        "guid": "eoUslqYXD0tu7CiH6levqA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "339",
+                "parent": "314",
+                "text": "5.3.2 Meningitis\npor Lyme",
+                "guid": "lgWQ7oaNKuR2MPWHVWGLuQ",
+                "children": [
+                  {
+                    "id": "340",
+                    "parent": "339",
+                    "text": "📌 Epidemiología:",
+                    "guid": "SLp5vYR3HG1YmeWoTsK7Sw",
+                    "children": [
+                      {
+                        "id": "341",
+                        "parent": "340",
+                        "text": "✔ B. burgdorferi",
+                        "guid": "0Pok3lmOGXYw5JYVTOrqYg",
+                        "children": []
+                      },
+                      {
+                        "id": "342",
+                        "parent": "340",
+                        "text": "✔ Predomina en verano/otoño (mismo período que enterovirus)",
+                        "guid": "I72WDkGFjqVDCV5bWoAHmg",
+                        "children": []
+                      },
+                      {
+                        "id": "343",
+                        "parent": "340",
+                        "text": "✔ Ocurre semanas o meses después de picadura de garrapata",
+                        "guid": "WbkluTHjOkFHTqZp3vOr0w",
+                        "children": []
+                      },
+                      {
+                        "id": "344",
+                        "parent": "340",
+                        "text": "✔ Puede ser primera manifestación de Lyme",
+                        "guid": "GumGqmQukXqs8JzcXqWH3w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "345",
+                    "parent": "339",
+                    "text": "📌 Clínica:",
+                    "guid": "C-ycrzLcZkRNEurWM3mxiQ",
+                    "children": [
+                      {
+                        "id": "346",
+                        "parent": "345",
+                        "text": "✔ Indistinguible de\nmeningitis viral",
+                        "guid": "OlBcgaP5wlw8jNkUSHqg7g",
+                        "children": [
+                          {
+                            "id": "347",
+                            "parent": "346",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "348",
+                            "parent": "346",
+                            "text": "• Fiebre leve",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "349",
+                            "parent": "346",
+                            "text": "• Fotofobia",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "350",
+                            "parent": "346",
+                            "text": "• Rigidez de nuca",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "351",
+                        "parent": "345",
+                        "text": "✔ Signos adicionales\nútiles para Dx:",
+                        "guid": "EXtQGHr4Y7KzRgTLdMFTyA",
+                        "children": [
+                          {
+                            "id": "352",
+                            "parent": "351",
+                            "text": "• Eritema migrans",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "353",
+                            "parent": "351",
+                            "text": "• Parálisis de pares craneales (ej. VII)",
+                            "guid": "6-hkHHHTEn53a4MH-GNUbA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "354",
+                        "parent": "345",
+                        "text": "✔ En niños, bajo riesgo si no\ncumplen la “Regla de los 7’s”:",
+                        "guid": "R7zGhMdVYIsKt2yWakARMA",
+                        "children": [
+                          {
+                            "id": "355",
+                            "parent": "354",
+                            "text": "• Cefalea ≥7 días",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "356",
+                            "parent": "354",
+                            "text": "• Neuritis craneal",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "357",
+                            "parent": "354",
+                            "text": "• ≥70% de células mononucleares en LCR",
+                            "guid": "RUW4v2XHF3LuEtESlGkgMA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "358",
+                    "parent": "339",
+                    "text": "📌 LCR:",
+                    "guid": "MNmpSqkPkWOb8EJ9XKdzMA",
+                    "children": [
+                      {
+                        "id": "359",
+                        "parent": "358",
+                        "text": "✔ Similar a meningitis viral",
+                        "guid": "2uw2MYJi7BnfBvBLQfe_gQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "360",
+                    "parent": "339",
+                    "text": "📌 Dx:",
+                    "guid": "EWewR3Xr0awLFItf-QsqUA",
+                    "children": [
+                      {
+                        "id": "361",
+                        "parent": "360",
+                        "text": "✔ Serología para Lyme",
+                        "guid": "Ybg5N-dBzWv6WJhS4torjQ",
+                        "children": []
+                      },
+                      {
+                        "id": "362",
+                        "parent": "360",
+                        "text": "✔ Considerar antecedente de exposición a garrapatas o viajes a zonas endémicas",
+                        "guid": "QS98rnBwUHODP61nBZG2EQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "363",
+                    "parent": "339",
+                    "text": "📌 Manejo:",
+                    "guid": "o5QUufOD5Uee4ANsxjGswA",
+                    "children": [
+                      {
+                        "id": "364",
+                        "parent": "363",
+                        "text": "✔ Ceftriaxona IV 2 g/día por 14-28 días",
+                        "guid": "EMCj_1EY6chlGvTVQbMg6Q",
+                        "children": []
+                      },
+                      {
+                        "id": "365",
+                        "parent": "363",
+                        "text": "✔ Alternativa en casos leves: Doxiciclina VO 100 mg c/12h por 14-28 días",
+                        "guid": "YN3yiCQSs5iWOhSGC-_Fww",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "366",
+                "parent": "314",
+                "text": "5.3.3 Meningitis\npor Leptospira",
+                "guid": "a5Y8Gj9TDgWT9Z7eYailrw",
+                "children": [
+                  {
+                    "id": "367",
+                    "parent": "366",
+                    "text": "📌 Epidemiología:",
+                    "guid": "tDogSn3IZf9ptb0USm6Srg",
+                    "children": [
+                      {
+                        "id": "368",
+                        "parent": "367",
+                        "text": "✔ Zoonosis transmitida por agua contaminada con orina de animales",
+                        "guid": "pZ-6kJfyt9oxRJiDDrSPUg",
+                        "children": []
+                      },
+                      {
+                        "id": "369",
+                        "parent": "367",
+                        "text": "✔ Más frecuente en climas tropicales y trabajadores expuestos a aguas contaminadas",
+                        "guid": "UaqIK7FBp9u4SjUQX-bVAA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "370",
+                    "parent": "366",
+                    "text": "📌 Clínica:",
+                    "guid": "XQ8WZuMJkKmyjsXqdvqdPA",
+                    "children": [
+                      {
+                        "id": "371",
+                        "parent": "370",
+                        "text": "✔ Puede causar síndrome de meningitis aséptica",
+                        "guid": "1Ob_d0V3gQhAVNz3BaXfow",
+                        "children": []
+                      },
+                      {
+                        "id": "372",
+                        "parent": "370",
+                        "text": "✔ Síntomas\nsistémicos:",
+                        "guid": "bI4zGBZuQvJg29zrFG4RhA",
+                        "children": [
+                          {
+                            "id": "373",
+                            "parent": "372",
+                            "text": "• Fiebre",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "374",
+                            "parent": "372",
+                            "text": "• Mialgias (especialmente en pantorrillas)",
+                            "guid": "nbpfSFSjhzbzicxXepOpUw",
+                            "children": []
+                          },
+                          {
+                            "id": "375",
+                            "parent": "372",
+                            "text": "• Ictericia (en formas severas)",
+                            "guid": "pIQCdBDbFr2V7PegkWs1pw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "376",
+                    "parent": "366",
+                    "text": "📌 LCR:",
+                    "guid": "Ey5Nlzxd3X0D4HPluVu7bw",
+                    "children": [
+                      {
+                        "id": "377",
+                        "parent": "376",
+                        "text": "✔ Pleocitosis linfocítica o neutrofílica",
+                        "guid": "I0C8DHweTnQH6HeFTZvYsg",
+                        "children": []
+                      },
+                      {
+                        "id": "378",
+                        "parent": "376",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "BcHmnHMR8YZAYv3R1CbpZg",
+                        "children": []
+                      },
+                      {
+                        "id": "379",
+                        "parent": "376",
+                        "text": "✔ Glucosa normal o baja",
+                        "guid": "8cuQRHof1l3dLCsrXwpYIg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "380",
+                    "parent": "366",
+                    "text": "📌 Dx:",
+                    "guid": "-Pgq5OFaxnTMl8Auqb4tjw",
+                    "children": [
+                      {
+                        "id": "381",
+                        "parent": "380",
+                        "text": "✔ Serología (MAT o ELISA)",
+                        "guid": "f0ag-SVVcdz9xjXJu9B5Jg",
+                        "children": []
+                      },
+                      {
+                        "id": "382",
+                        "parent": "380",
+                        "text": "✔ PCR en sangre/LCR",
+                        "guid": "KfscBYKx1euyiF3w6bavDQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "383",
+                    "parent": "366",
+                    "text": "📌 Manejo:",
+                    "guid": "k8JXvauV1Bt-y9PVadGf3A",
+                    "children": [
+                      {
+                        "id": "384",
+                        "parent": "383",
+                        "text": "✔ Doxiciclina VO 100 mg c/12h (casos leves)",
+                        "guid": "RPsnf82gXXMkoh-2QzxYXw",
+                        "children": []
+                      },
+                      {
+                        "id": "385",
+                        "parent": "383",
+                        "text": "✔ Penicilina G IV 1.5 millones U c/6h (casos graves)",
+                        "guid": "1p3AdeFv76zYY3dHczBpfA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "386",
+            "parent": "143",
+            "text": "5.4 Meningitis\npor Hongos",
+            "guid": "5aOHmyj3X4IAzrtR7MqWWQ",
+            "children": [
+              {
+                "id": "387",
+                "parent": "386",
+                "text": "📌 Principales agentes:",
+                "guid": "QbHfj9_1IEjGd_4HRcekqw",
+                "children": [
+                  {
+                    "id": "388",
+                    "parent": "387",
+                    "text": "✔ Cryptococcus neoformans",
+                    "guid": "Z2rKuLXFpSghEhadDL5pnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "389",
+                    "parent": "387",
+                    "text": "✔ Coccidioides immitis",
+                    "guid": "bb_1ZecWklZULwhoSwdhyw",
+                    "children": []
+                  },
+                  {
+                    "id": "390",
+                    "parent": "387",
+                    "text": "✔ Fusarium spp.",
+                    "guid": "KwnFC4XtONJtREOxpu70xQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "391",
+                "parent": "386",
+                "text": "5.4.1 Meningitis\nCriptocócica",
+                "guid": "tAB24ihUaAsaWbtIEDzH9Q",
+                "children": [
+                  {
+                    "id": "392",
+                    "parent": "391",
+                    "text": "📌 Epidemiología:",
+                    "guid": "IRuXlhPeYdV63dJVeXHS6A",
+                    "children": [
+                      {
+                        "id": "393",
+                        "parent": "392",
+                        "text": "✔ Infección por inhalación",
+                        "guid": "PxPWGCUbJWXjdeI9etzNsw",
+                        "children": []
+                      },
+                      {
+                        "id": "394",
+                        "parent": "392",
+                        "text": "✔ Diseminación hematógena con tropismo por SNC",
+                        "guid": "bn-WBxWNEi73LNbAeoz1QQ",
+                        "children": []
+                      },
+                      {
+                        "id": "395",
+                        "parent": "392",
+                        "text": "✔ Mayor riesgo en inmunosuprimidos (VIH, trasplantados, uso de inmunosupresores)",
+                        "guid": "PI47fPIP3h4zm8MSIj7Xzg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "396",
+                    "parent": "391",
+                    "text": "📌 Clínica:",
+                    "guid": "pPjdeqGkOUKpV4_Gj4Oe1w",
+                    "children": [
+                      {
+                        "id": "397",
+                        "parent": "396",
+                        "text": "✔ Curso subagudo (1-2 semanas)",
+                        "guid": "Q5q-MxQ9doE10S28yVrDXg",
+                        "children": []
+                      },
+                      {
+                        "id": "398",
+                        "parent": "396",
+                        "text": "✔ Síntomas principales:",
+                        "guid": "5ISOpjpP10ET4JtsPj0uqg",
+                        "children": [
+                          {
+                            "id": "399",
+                            "parent": "398",
+                            "text": "• Fiebre",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "400",
+                            "parent": "398",
+                            "text": "• Malestar general",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "401",
+                            "parent": "398",
+                            "text": "• Cefalea",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "402",
+                        "parent": "396",
+                        "text": "✔ Puede haber:",
+                        "guid": "YZsE3PqCbsmEKWVLBKZCnQ",
+                        "children": [
+                          {
+                            "id": "403",
+                            "parent": "402",
+                            "text": "• Rigidez de nuca",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "404",
+                            "parent": "402",
+                            "text": "• Fotofobia",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "405",
+                            "parent": "402",
+                            "text": "• Vómitos",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "406",
+                    "parent": "391",
+                    "text": "📌 LCR:",
+                    "guid": "77ekkcQr39zl4wmyTJ2kKQ",
+                    "children": [
+                      {
+                        "id": "407",
+                        "parent": "406",
+                        "text": "✔ Leucocitos <50/µL (mononucleares)",
+                        "guid": "_kEVAKioCfqSky5zZx_5lg",
+                        "children": []
+                      },
+                      {
+                        "id": "408",
+                        "parent": "406",
+                        "text": "✔ Proteínas y glucosa ligeramente alteradas",
+                        "guid": "Rdx1EWk4KXZDRDGbTihq0A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "409",
+                    "parent": "391",
+                    "text": "📌 Dx:",
+                    "guid": "wV1XKkz5dd2e1kVNubRQqg",
+                    "children": [
+                      {
+                        "id": "410",
+                        "parent": "409",
+                        "text": "✔ Cultivo de LCR",
+                        "guid": "O0DoaUPqg9De3DQ3VcNw9g",
+                        "children": []
+                      },
+                      {
+                        "id": "411",
+                        "parent": "409",
+                        "text": "✔ Antígeno polisacárido criptocócico en LCR o suero (alta sensibilidad en inmunosuprimidos)",
+                        "guid": "syvIhsYmro5hz2uw1BWRtQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "412",
+                    "parent": "391",
+                    "text": "📌 Manejo:",
+                    "guid": "s0qZAk2f-jZU6XSWqlzvZA",
+                    "children": [
+                      {
+                        "id": "413",
+                        "parent": "412",
+                        "text": "✔ Inducción:",
+                        "guid": "vr6qdTC6AI6SvLufCO6Dsw",
+                        "children": [
+                          {
+                            "id": "414",
+                            "parent": "413",
+                            "text": "• Anfotericina B liposomal + Flucitosina por 2 semanas",
+                            "guid": "PJvmq1-HruNwbX1v8urBhg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "415",
+                        "parent": "412",
+                        "text": "✔ Consolidación:",
+                        "guid": "cT5Rss5qOAoHsHFyLGh6gg",
+                        "children": [
+                          {
+                            "id": "416",
+                            "parent": "415",
+                            "text": "• Fluconazol 400 mg/día por 8 semanas",
+                            "guid": "hZETrWsRTgv0lF3W1U_RLA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "417",
+                        "parent": "412",
+                        "text": "✔ Mantenimiento:",
+                        "guid": "cq9kbTVIgRdCMODyHP-psA",
+                        "children": [
+                          {
+                            "id": "418",
+                            "parent": "417",
+                            "text": "• Fluconazol 200 mg/día por ≥1 año",
+                            "guid": "hqZRGw3o_MFDjG4yFYqUug",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "419",
+                "parent": "386",
+                "text": "5.4.2 Meningitis\nCoccidioidea",
+                "guid": "HJQ8MwWmd3snuDNVfJWelA",
+                "children": [
+                  {
+                    "id": "420",
+                    "parent": "419",
+                    "text": "📌 Epidemiología:",
+                    "guid": "Xfe5SXSP0IjgJ2p2G34O4w",
+                    "children": [
+                      {
+                        "id": "421",
+                        "parent": "420",
+                        "text": "✔ Coccidioides immitis",
+                        "guid": "W3L4ghAAWAPntm3ALbygeg",
+                        "children": []
+                      },
+                      {
+                        "id": "422",
+                        "parent": "420",
+                        "text": "✔ Endémico en EE.UU. (sudoeste), Centro y Sudamérica",
+                        "guid": "EOyl_-bq2I57o4w6YQCCHQ",
+                        "children": []
+                      },
+                      {
+                        "id": "423",
+                        "parent": "420",
+                        "text": "✔ Meningitis = complicación más grave",
+                        "guid": "71b2XRX74iRBhXi8ezhx3A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "424",
+                    "parent": "419",
+                    "text": "📌 Clínica:",
+                    "guid": "hHsGgBVkMbeADAcU48m9Jg",
+                    "children": [
+                      {
+                        "id": "425",
+                        "parent": "424",
+                        "text": "✔ Síntoma principal → Cefalea intensa y persistente",
+                        "guid": "2X26P_cGymihXUeCAHs3Dg",
+                        "children": []
+                      },
+                      {
+                        "id": "426",
+                        "parent": "424",
+                        "text": "✔ Síntomas meníngeos pueden ser sutiles",
+                        "guid": "13s4NyzAqQKQq2O1gwYrpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "427",
+                        "parent": "424",
+                        "text": "✔ Ausencia de signos neurológicos iniciales",
+                        "guid": "l8SLaYAIM4Rhw_Gtkvbgtw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "428",
+                    "parent": "419",
+                    "text": "📌 LCR:",
+                    "guid": "dcyrQPxi4HBWHddoj7Kb9w",
+                    "children": [
+                      {
+                        "id": "429",
+                        "parent": "428",
+                        "text": "✔ Leucocitos 1 - varios cientos/µL",
+                        "guid": "-MoDnQH7G25hUXnDd5agmw",
+                        "children": []
+                      },
+                      {
+                        "id": "430",
+                        "parent": "428",
+                        "text": "✔ Eosinofilia frecuente (pero no específica)",
+                        "guid": "Cs_EdXrG92jTPPxEQoX-Qw",
+                        "children": []
+                      },
+                      {
+                        "id": "431",
+                        "parent": "428",
+                        "text": "✔ Glucosa baja",
+                        "guid": "yhc12u4Nrk0qSNnOVJXh4g",
+                        "children": []
+                      },
+                      {
+                        "id": "432",
+                        "parent": "428",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "o_cihaL-QB8d4fl3aryCVA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "433",
+                    "parent": "419",
+                    "text": "📌 Dx:",
+                    "guid": "2o1qqZWFGoB2uqcC0QOh7A",
+                    "children": [
+                      {
+                        "id": "434",
+                        "parent": "433",
+                        "text": "✔ Cultivo de LCR (baja sensibilidad)",
+                        "guid": "b6AEJcwEfhhNTKEF1gncAw",
+                        "children": []
+                      },
+                      {
+                        "id": "435",
+                        "parent": "433",
+                        "text": "✔ Anticuerpos anticoccidioidales en LCR",
+                        "guid": "i-QVs2hbQCMHp3UHm5CvGg",
+                        "children": []
+                      },
+                      {
+                        "id": "436",
+                        "parent": "433",
+                        "text": "✔ Antígeno de Coccidioides en LCR",
+                        "guid": "o3ocMr8S2iJH7HIyFliPPw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "437",
+                    "parent": "419",
+                    "text": "📌 Manejo:",
+                    "guid": "lIh6e0Haw1P9wturVPFT7Q",
+                    "children": [
+                      {
+                        "id": "438",
+                        "parent": "437",
+                        "text": "✔ Fluconazol (dosis altas) → Tratamiento de por vida",
+                        "guid": "RsCAmZTpRwFH2_2en2wFbg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "439",
+                "parent": "386",
+                "text": "5.4.3 Meningitis por Fusarium spp.\n(Asociada a brotes epidurales)",
+                "guid": "ZQQlBuhJeVViAvP5i-WFdw",
+                "children": [
+                  {
+                    "id": "440",
+                    "parent": "439",
+                    "text": "📌 Epidemiología:",
+                    "guid": "1g32Q7qFfj5L0yLbvUod8g",
+                    "children": [
+                      {
+                        "id": "441",
+                        "parent": "440",
+                        "text": "✔ Asociada a brotes nosocomiales",
+                        "guid": "syjoDnkl-DswRHUiEXdfOg",
+                        "children": []
+                      },
+                      {
+                        "id": "442",
+                        "parent": "440",
+                        "text": "✔ Casos recientes en México y EE.UU. (2022-2023)",
+                        "guid": "RErA2rQwnADgw5SuS53xaQ",
+                        "children": []
+                      },
+                      {
+                        "id": "443",
+                        "parent": "440",
+                        "text": "✔ Exposición principal → Anestesia epidural contaminada",
+                        "guid": "vVrWGmNfbuM0fHEUops-qw",
+                        "children": []
+                      },
+                      {
+                        "id": "444",
+                        "parent": "440",
+                        "text": "✔ Alta tasa de mortalidad (>40% en brotes previos)",
+                        "guid": "WlCiUx-HboaY0yS2Az1t6Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "445",
+                    "parent": "439",
+                    "text": "📌 Evaluación\ndiagnóstica:",
+                    "guid": "zqtVC15F0eVD5KI-IoKXXg",
+                    "children": [
+                      {
+                        "id": "446",
+                        "parent": "445",
+                        "text": "✔ Punción lumbar (PL) obligatoria, salvo contraindicación",
+                        "guid": "07kNRGTa6U2oI3LIHLVGMA",
+                        "children": []
+                      },
+                      {
+                        "id": "447",
+                        "parent": "445",
+                        "text": "✔ Estudios\nen LCR:",
+                        "guid": "09Un3O_BEeMKEU71NyMW8Q",
+                        "children": [
+                          {
+                            "id": "448",
+                            "parent": "447",
+                            "text": "• Beta-D-glucano",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "449",
+                            "parent": "447",
+                            "text": "• Cultivo fúngico",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "450",
+                            "parent": "447",
+                            "text": "• PCR panfúngico o metagenómico",
+                            "guid": "cLDpmjIMZP7u01JgAOmjeg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "451",
+                        "parent": "445",
+                        "text": "✔ Beta-D-glucano sérico",
+                        "guid": "oOTyMoaHuLOQoZc_Ttf1iw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "452",
+                    "parent": "439",
+                    "text": "📌 Neuroimagen:",
+                    "guid": "wGu7DPcSRUQFlCuUEud0EQ",
+                    "children": [
+                      {
+                        "id": "453",
+                        "parent": "452",
+                        "text": "✔ Si PL alterada (>5 leucocitos/µL) → RMN con/sin contraste",
+                        "guid": "2OoeeGPzGgXicNnzoM_yRQ",
+                        "children": [
+                          {
+                            "id": "454",
+                            "parent": "453",
+                            "text": "• Evaluar realce meníngeo, vasculitis, estenosis, hemorragias, isquemia",
+                            "guid": "OGqYM0NN8UE5RbqpD-m2HA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "455",
+                    "parent": "439",
+                    "text": "📌 Manejo inicial:",
+                    "guid": "4OFn-vyQ7D-IkdiSpCqZLw",
+                    "children": [
+                      {
+                        "id": "456",
+                        "parent": "455",
+                        "text": "✔ Si LCR >5 leucocitos/µL → Iniciar tratamiento empírico inmediato",
+                        "guid": "KTzbbgAbIY6yX0F30bw04w",
+                        "children": []
+                      },
+                      {
+                        "id": "457",
+                        "parent": "455",
+                        "text": "✔ Esquema inicial:",
+                        "guid": "T64Nd081P2MSkd4d1iegIg",
+                        "children": [
+                          {
+                            "id": "458",
+                            "parent": "457",
+                            "text": "• Anfotericina B liposomal (5 mg/kg IV/día)",
+                            "guid": "_GeOhBpBpZw3zSU6CzAa2w",
+                            "children": []
+                          },
+                          {
+                            "id": "459",
+                            "parent": "457",
+                            "text": "• Voriconazol IV (6 mg/kg c/12h x 2 dosis, luego 4 mg/kg c/12h)",
+                            "guid": "0rpen7rdJCJpDMiAhN2SRA",
+                            "children": []
+                          },
+                          {
+                            "id": "460",
+                            "parent": "457",
+                            "text": "• Monitorear niveles séricos (meta: 4-5 mcg/mL)",
+                            "guid": "U2BKS-BAJfe3Z4_XAEiM5Q",
+                            "children": []
+                          },
+                          {
+                            "id": "461",
+                            "parent": "457",
+                            "text": "• Fosmanogepix (uso compasivo, Pfizer)",
+                            "guid": "E0IHR2kX-i-qL7_pG1u7eQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "462",
+                        "parent": "455",
+                        "text": "✔ Si LCR ≤5 leucocitos/µL → No iniciar antifúngicos, pero monitorizar",
+                        "guid": "_TexjteY03MoIk2vOID-PA",
+                        "children": []
+                      },
+                      {
+                        "id": "463",
+                        "parent": "455",
+                        "text": "✔ Complicaciones graves → Neurocirugía (drenaje, stents, shunts)",
+                        "guid": "H4cmcMLJKc9dh7_1ChnPpQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "464",
+            "parent": "143",
+            "text": "5.5 Otras Causas de\nMeningitis Aséptica",
+            "guid": "",
+            "children": [
+              {
+                "id": "465",
+                "parent": "464",
+                "text": "5.5.1 Meningitis\nTuberculosa (TBM)",
+                "guid": "93hvRGA-AEwhiVc7-tug_Q",
+                "children": [
+                  {
+                    "id": "466",
+                    "parent": "465",
+                    "text": "📌 Epidemiología:",
+                    "guid": "batbhjHvxPbkoEBupoItTA",
+                    "children": [
+                      {
+                        "id": "467",
+                        "parent": "466",
+                        "text": "✔ Mycobacterium tuberculosis",
+                        "guid": "0H1J5TUcWfW8Rh7-AnhikQ",
+                        "children": []
+                      },
+                      {
+                        "id": "468",
+                        "parent": "466",
+                        "text": "✔ Forma subaguda/crónica → Dura semanas/meses",
+                        "guid": "gPrIsn-rZ5XcMTqnjAPWXw",
+                        "children": []
+                      },
+                      {
+                        "id": "469",
+                        "parent": "466",
+                        "text": "✔ Puede presentarse sin signos de TB diseminada",
+                        "guid": "6B08879qsostxiYZGaLDsQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "470",
+                    "parent": "465",
+                    "text": "📌 Clínica:",
+                    "guid": "Ubu3p7BUz9K-zjiQmHuQjA",
+                    "children": [
+                      {
+                        "id": "471",
+                        "parent": "470",
+                        "text": "✔ Síntomas\niniciales:",
+                        "guid": "SApzUOQpBhgyHttUnwG-9A",
+                        "children": [
+                          {
+                            "id": "472",
+                            "parent": "471",
+                            "text": "• Cefalea persistente",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "473",
+                            "parent": "471",
+                            "text": "• Vómitos",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "474",
+                            "parent": "471",
+                            "text": "• Confusión",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "475",
+                            "parent": "471",
+                            "text": "• Signos de pares craneales (afectación basilar en RMN)",
+                            "guid": "vccH4_TlHyoZ-cmBO60ySg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "476",
+                        "parent": "470",
+                        "text": "✔ Complicaciones\ntardías:",
+                        "guid": "bdDmeMNksNtoL7QBL7amKw",
+                        "children": [
+                          {
+                            "id": "477",
+                            "parent": "476",
+                            "text": "• Coma",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "478",
+                            "parent": "476",
+                            "text": "• Convulsiones",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "479",
+                            "parent": "476",
+                            "text": "• Hemiparesia",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "480",
+                    "parent": "465",
+                    "text": "📌 LCR:",
+                    "guid": "Z9sQG3fWT1bSGCJt5_0CCQ",
+                    "children": [
+                      {
+                        "id": "481",
+                        "parent": "480",
+                        "text": "✔ Pleocitosis mononuclear",
+                        "guid": "FYKReH0ORdVL3bIN6UqitQ",
+                        "children": []
+                      },
+                      {
+                        "id": "482",
+                        "parent": "480",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "G9_xzPBMw4E_8bEjafnUWA",
+                        "children": []
+                      },
+                      {
+                        "id": "483",
+                        "parent": "480",
+                        "text": "✔ Glucosa baja",
+                        "guid": "q4HUHrIQUC7xFIX8EGqCpA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "484",
+                    "parent": "465",
+                    "text": "📌 Dx:",
+                    "guid": "kBN0zx_j-KikA7dSelhbDQ",
+                    "children": [
+                      {
+                        "id": "485",
+                        "parent": "484",
+                        "text": "✔ Baciloscopia de LCR (sensibilidad variable)",
+                        "guid": "T_TK86iPpbKYbBooWszCQQ",
+                        "children": []
+                      },
+                      {
+                        "id": "486",
+                        "parent": "484",
+                        "text": "✔ Cultivo de LCR para M. tuberculosis",
+                        "guid": "e127XvC35U-0_cV1JnhbVQ",
+                        "children": []
+                      },
+                      {
+                        "id": "487",
+                        "parent": "484",
+                        "text": "✔ NAAT para TB",
+                        "guid": "nf8RP9Ilq6aDWn_MpOBWzQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "488",
+                    "parent": "465",
+                    "text": "📌 Manejo:",
+                    "guid": "ZH6eqwAdBs4zK1JffNDchA",
+                    "children": [
+                      {
+                        "id": "489",
+                        "parent": "488",
+                        "text": "✔ Duración: 9-12 meses",
+                        "guid": "5s-LlzdWRG-ksDMAIr7GmQ",
+                        "children": []
+                      },
+                      {
+                        "id": "490",
+                        "parent": "488",
+                        "text": "✔ Fase intensiva (2 meses):",
+                        "guid": "lALepZ4fD3L9366Br_MRQA",
+                        "children": [
+                          {
+                            "id": "491",
+                            "parent": "490",
+                            "text": "• Isoniazida + Rifampicina + Pirazinamida + Etambutol",
+                            "guid": "_Zs-H3yoMw6RcnVMrgfooA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "492",
+                        "parent": "488",
+                        "text": "✔ Fase de continuación (7-10 meses):",
+                        "guid": "-V5KedqUQhcqysaq3Bn2Pw",
+                        "children": [
+                          {
+                            "id": "493",
+                            "parent": "492",
+                            "text": "• Isoniazida + Rifampicina",
+                            "guid": "oQh_cvUSDbGl3z0VJA98cg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "494",
+                        "parent": "488",
+                        "text": "✔ Corticoterapia (casos graves): Prednisona o Dexametasona",
+                        "guid": "FyIo_dAcafeAfJE3WJPZWw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "495",
+                "parent": "464",
+                "text": "5.5.2 Meningitis por\nAngiostrongylus cantonensis",
+                "guid": "QfX4RoekAhTmovuYajEXSw",
+                "children": [
+                  {
+                    "id": "496",
+                    "parent": "495",
+                    "text": "📌 Epidemiología:",
+                    "guid": "6M8JC0xYTvVndu80uLHu8Q",
+                    "children": [
+                      {
+                        "id": "497",
+                        "parent": "496",
+                        "text": "✔ Parásito endémico en Asia y el Pacífico",
+                        "guid": "lep7VmZgizLqhjugOtvtAw",
+                        "children": []
+                      },
+                      {
+                        "id": "498",
+                        "parent": "496",
+                        "text": "✔ Transmisión por consumo de caracoles contaminados o agua infectada",
+                        "guid": "3N5IioqsbV9xYdkg--6obA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "499",
+                    "parent": "495",
+                    "text": "📌 Clínica:",
+                    "guid": "ewn-ilOeGCH76gfbIS1zpw",
+                    "children": [
+                      {
+                        "id": "500",
+                        "parent": "499",
+                        "text": "✔ Síntomas\nmeníngeos severos:",
+                        "guid": "OCxeU1yp4Gfh7U7UvFRm4A",
+                        "children": [
+                          {
+                            "id": "501",
+                            "parent": "500",
+                            "text": "• Cefalea intensa",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "502",
+                            "parent": "500",
+                            "text": "• Rigidez de nuca",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "503",
+                            "parent": "500",
+                            "text": "• Parestesias",
+                            "guid": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "504",
+                        "parent": "499",
+                        "text": "✔ Puede haber:",
+                        "guid": "7bv4enEGQESv8BSGDCWBHA",
+                        "children": [
+                          {
+                            "id": "505",
+                            "parent": "504",
+                            "text": "• Parálisis facial periférica (raro)",
+                            "guid": "nxEZE3QB1vVR9xkx0QuhZw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "506",
+                    "parent": "495",
+                    "text": "📌 LCR:",
+                    "guid": "Z2NKese5Irbjnp6UETDblg",
+                    "children": [
+                      {
+                        "id": "507",
+                        "parent": "506",
+                        "text": "✔ Eosinofilia en LCR y sangre periférica",
+                        "guid": "nG29IhjmPT54EXsuX-P6cg",
+                        "children": []
+                      },
+                      {
+                        "id": "508",
+                        "parent": "506",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "ObPvuAmEJaSwrd00CEthAw",
+                        "children": []
+                      },
+                      {
+                        "id": "509",
+                        "parent": "506",
+                        "text": "✔ Glucosa normal o ligeramente reducida",
+                        "guid": "cIpDeV7T_iesfRK7sxMNPA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "510",
+                    "parent": "495",
+                    "text": "📌 Dx:",
+                    "guid": "RXSXyeUA5xc3cozAxFrmmA",
+                    "children": [
+                      {
+                        "id": "511",
+                        "parent": "510",
+                        "text": "✔ Sospecha clínica + eosinofilia en LCR",
+                        "guid": "F2bJpKv_yEAV1E4iFMzIXQ",
+                        "children": []
+                      },
+                      {
+                        "id": "512",
+                        "parent": "510",
+                        "text": "✔ Antecedente epidemiológico",
+                        "guid": "s7o7u0jCltQDPixNjUqowg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "513",
+                    "parent": "495",
+                    "text": "📌 Manejo:",
+                    "guid": "ZovPOf-4-zzfi2RLDpWTGA",
+                    "children": [
+                      {
+                        "id": "514",
+                        "parent": "513",
+                        "text": "✔ Soporte sintomático",
+                        "guid": "C3HqQQZ2V_NzYIehC61LJg",
+                        "children": []
+                      },
+                      {
+                        "id": "515",
+                        "parent": "513",
+                        "text": "✔ Corticoides en casos graves",
+                        "guid": "xdTu1TlfOijFJWAe3wYGTQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "516",
+                "parent": "464",
+                "text": "5.5.3 Meningitis Bacteriana Subtratada\no con Foco Parameningeo",
+                "guid": "2EO696owkRTXiPfelsPxSA",
+                "children": [
+                  {
+                    "id": "517",
+                    "parent": "516",
+                    "text": "📌 Causas:",
+                    "guid": "FUuArSfA0NSnLRl7jFKgXQ",
+                    "children": [
+                      {
+                        "id": "518",
+                        "parent": "517",
+                        "text": "✔ Uso previo de antibióticos → Cultivos estériles con pleocitosis linfocítica",
+                        "guid": "YMEu4My0Hhcnt_nWnrjKQQ",
+                        "children": []
+                      },
+                      {
+                        "id": "519",
+                        "parent": "517",
+                        "text": "✔ Infecciones parameníngeas → Absceso epidural, empiema subdural, sinusitis, otitis media",
+                        "guid": "cLR1st5Qu0tOEewhF6_ftQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "520",
+                    "parent": "516",
+                    "text": "📌 Dx:",
+                    "guid": "B9rqLkHZ1VKLdk_RHXmexw",
+                    "children": [
+                      {
+                        "id": "521",
+                        "parent": "520",
+                        "text": "✔ Historia clínica detallada",
+                        "guid": "Yaw6uOcS6k7N9lVDi6mKqA",
+                        "children": []
+                      },
+                      {
+                        "id": "522",
+                        "parent": "520",
+                        "text": "✔ Neuroimagen (RMN/TAC)",
+                        "guid": "vr_P1SEcUjuOX-287lD5CQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "523",
+                    "parent": "516",
+                    "text": "📌 Manejo:",
+                    "guid": "EREpHrLvoV5S6B8mDh-7JQ",
+                    "children": [
+                      {
+                        "id": "524",
+                        "parent": "523",
+                        "text": "✔ Antibioticoterapia dirigida según foco infeccioso",
+                        "guid": "XyXhhPsFitDu3UITSYQ0YQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "525",
+                "parent": "464",
+                "text": "5.5.4 Meningitis Neoplásica\n(Carcinomatosis Leptomeníngea)",
+                "guid": "oNdMl5lESF50IZ7rnuIZhQ",
+                "children": [
+                  {
+                    "id": "526",
+                    "parent": "525",
+                    "text": "📌 Etiología:",
+                    "guid": "lFOPcqG-d2xAN58frtNhPQ",
+                    "children": [
+                      {
+                        "id": "527",
+                        "parent": "526",
+                        "text": "✔ Tumores hematológicos: Linfoma, leucemia",
+                        "guid": "yDOALRVMWcCMx8vCaKERlg",
+                        "children": []
+                      },
+                      {
+                        "id": "528",
+                        "parent": "526",
+                        "text": "✔ Tumores sólidos: Mama, pulmón, melanoma, gastrointestinales",
+                        "guid": "INBqcmMrBzSwQ6TJGizkrA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "529",
+                    "parent": "525",
+                    "text": "📌 Clínica:",
+                    "guid": "T8bocGZAA0RQElkz7B8DHg",
+                    "children": [
+                      {
+                        "id": "530",
+                        "parent": "529",
+                        "text": "✔ Cefalea",
+                        "guid": "jkqzylzZFYSsw0GGBEEWlA",
+                        "children": []
+                      },
+                      {
+                        "id": "531",
+                        "parent": "529",
+                        "text": "✔ Náuseas/Vómitos",
+                        "guid": "drQVGhuu6fbvrjg8Yy-0aQ",
+                        "children": []
+                      },
+                      {
+                        "id": "532",
+                        "parent": "529",
+                        "text": "✔ Signos meníngeos",
+                        "guid": "At_ntaV565bUY42pc-zzAw",
+                        "children": []
+                      },
+                      {
+                        "id": "533",
+                        "parent": "529",
+                        "text": "✔ Hipertensión\nintracraneal",
+                        "guid": "dLd5xErGpmmTDNxq0VV-xQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "534",
+                    "parent": "525",
+                    "text": "📌 LCR:",
+                    "guid": "MPnWJaFrPo9jhDIX2BLFVw",
+                    "children": [
+                      {
+                        "id": "535",
+                        "parent": "534",
+                        "text": "✔ Pleocitosis linfocítica",
+                        "guid": "cn-7H0PxwwnjsB3Yfam-Sw",
+                        "children": []
+                      },
+                      {
+                        "id": "536",
+                        "parent": "534",
+                        "text": "✔ Proteínas elevadas",
+                        "guid": "SBLkjnlhz7ykefFKbQ6BwA",
+                        "children": []
+                      },
+                      {
+                        "id": "537",
+                        "parent": "534",
+                        "text": "✔ Glucosa baja (cercana a\n0 en algunos casos)",
+                        "guid": "s6oTlI-ZafoYMkVok8nQMA",
+                        "children": []
+                      },
+                      {
+                        "id": "538",
+                        "parent": "534",
+                        "text": "✔ Eosinofilia en LCR (raro,\nen linfoma de Hodgkin)",
+                        "guid": "PmkLa0YGQx1OIXrMD2mIuw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "539",
+                    "parent": "525",
+                    "text": "📌 Dx:",
+                    "guid": "y5VcaHNCtoHY-xCYEVpMtg",
+                    "children": [
+                      {
+                        "id": "540",
+                        "parent": "539",
+                        "text": "✔ Citología de LCR →\nCélulas malignas",
+                        "guid": "b0nw4P9gyzXtRQAJUZTPSg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "541",
+                    "parent": "525",
+                    "text": "📌 Manejo:",
+                    "guid": "67f7q4LD9wySxn_tV7W9wg",
+                    "children": [
+                      {
+                        "id": "542",
+                        "parent": "541",
+                        "text": "✔ Quimioterapia intratecal o\nsistémica según tumor primario",
+                        "guid": "6uKhq784QL3nwr8Ia6asyw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "543",
+                "parent": "464",
+                "text": "5.5.5 Meningitis Inducida\npor Fármacos",
+                "guid": "Jk2T_MInHMy29SjrywQKtw",
+                "children": [
+                  {
+                    "id": "544",
+                    "parent": "543",
+                    "text": "📌 Mecanismos:",
+                    "guid": "sEPReUCowjvAXvXLkFWViQ",
+                    "children": [
+                      {
+                        "id": "545",
+                        "parent": "544",
+                        "text": "✔ Hipersensibilidad retardada",
+                        "guid": "XJglcWMG7g5d47b0WMRzgw",
+                        "children": []
+                      },
+                      {
+                        "id": "546",
+                        "parent": "544",
+                        "text": "✔ Irritación meníngea directa",
+                        "guid": "W0z-SuYjkCagI5R-Zc7vyg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "547",
+                    "parent": "543",
+                    "text": "📌 Fármacos\nmás comunes:",
+                    "guid": "U1VdqvyweDBFLJBglZqGzw",
+                    "children": [
+                      {
+                        "id": "548",
+                        "parent": "547",
+                        "text": "✔ AINEs",
+                        "guid": "-2tJZGXt2tX8PW0nYMGZoA",
+                        "children": []
+                      },
+                      {
+                        "id": "549",
+                        "parent": "547",
+                        "text": "✔ TMP-SMX",
+                        "guid": "jq3ZBj7Lvhf4MCRye_QNZQ",
+                        "children": []
+                      },
+                      {
+                        "id": "550",
+                        "parent": "547",
+                        "text": "✔ Inmunoglobulina IV",
+                        "guid": "90RaIk_oGsfEwQB81gJ7Bw",
+                        "children": []
+                      },
+                      {
+                        "id": "551",
+                        "parent": "547",
+                        "text": "✔ Vacunas",
+                        "guid": "hbUMvIjO3EmB_J__ow1Zig",
+                        "children": []
+                      },
+                      {
+                        "id": "552",
+                        "parent": "547",
+                        "text": "✔ Corticoides intratecales",
+                        "guid": "EMtrDDZ7tkfbYIqBDBRAeQ",
+                        "children": []
+                      },
+                      {
+                        "id": "553",
+                        "parent": "547",
+                        "text": "✔ Anestésicos",
+                        "guid": "OfVu8s333rQHbWtiwSn41Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "554",
+                    "parent": "543",
+                    "text": "📌 LCR:",
+                    "guid": "DYxoxGq1iUNyrmh9eGDFJQ",
+                    "children": [
+                      {
+                        "id": "555",
+                        "parent": "554",
+                        "text": "✔ Pleocitosis purulenta (45%) o linfocítica (33%)",
+                        "guid": "Zjo55Nypk-UzfzTXbrki1w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "556",
+                    "parent": "543",
+                    "text": "📌 Manejo:",
+                    "guid": "9KPpHOJrR1EfQ6iWSssVIQ",
+                    "children": [
+                      {
+                        "id": "557",
+                        "parent": "556",
+                        "text": "✔ Suspensión del fármaco → 96% mejora completa",
+                        "guid": "g1K81eyBKX4WIixvVuSZIw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "558",
+                "parent": "464",
+                "text": "5.5.6 Meningitis de Mollaret\n(Recurrente/Crónica)",
+                "guid": "uX3ME2UrLtZjTbHyMpQOOA",
+                "children": [
+                  {
+                    "id": "559",
+                    "parent": "558",
+                    "text": "📌 Epidemiología:",
+                    "guid": "awHT3jgyNSgI1RCjiazPSQ",
+                    "children": [
+                      {
+                        "id": "560",
+                        "parent": "559",
+                        "text": "✔ Forma recurrente benigna de meningitis linfocítica",
+                        "guid": "ogES25yrX_bPhYHQ-HMoQg",
+                        "children": []
+                      },
+                      {
+                        "id": "561",
+                        "parent": "559",
+                        "text": "✔ Asociada a VHS-2 (principal), VHS-1 y EBV",
+                        "guid": "jzDO057ZuZCytLFZM6lAuw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "562",
+                    "parent": "558",
+                    "text": "📌 Clínica:",
+                    "guid": "dmmFWhbyVfufA8LhRo96uQ",
+                    "children": [
+                      {
+                        "id": "563",
+                        "parent": "562",
+                        "text": "✔ ≥3 episodios de fiebre y meningismo",
+                        "guid": "xNgamnOMx6ForuDPfiSu9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "564",
+                        "parent": "562",
+                        "text": "✔ Duración de 2-5 días, con resolución espontánea",
+                        "guid": "fZb3sudGqOmLvWjmPlm3vQ",
+                        "children": []
+                      },
+                      {
+                        "id": "565",
+                        "parent": "562",
+                        "text": "✔ Síntomas neurológicos\ntransitorios en 50%:",
+                        "guid": "aNZIzRs4wILtGlQkafKVVQ",
+                        "children": [
+                          {
+                            "id": "566",
+                            "parent": "565",
+                            "text": "• Convulsiones",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "567",
+                            "parent": "565",
+                            "text": "• Alucinaciones",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "568",
+                            "parent": "565",
+                            "text": "• Diplopía",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "569",
+                            "parent": "565",
+                            "text": "• Parálisis de pares craneales",
+                            "guid": "ajcwq-D6iVsZrxOUMgjxNw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "570",
+                    "parent": "558",
+                    "text": "📌 Dx:",
+                    "guid": "LBqImksSOqAhXQlBQVAcAg",
+                    "children": [
+                      {
+                        "id": "571",
+                        "parent": "570",
+                        "text": "✔ PCR para VHS-2",
+                        "guid": "FbieC5WKqg6SQ7R1gShJLg",
+                        "children": []
+                      },
+                      {
+                        "id": "572",
+                        "parent": "570",
+                        "text": "✔ Descartar otras causas",
+                        "guid": "bIA6slbww7XUpC72XhgGUg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "573",
+                    "parent": "558",
+                    "text": "📌 Manejo:",
+                    "guid": "hifm4ib-k_TZ3bdPP3PkoQ",
+                    "children": [
+                      {
+                        "id": "574",
+                        "parent": "573",
+                        "text": "✔ Terapia supresiva con Valaciclovir (500 mg c/12h)",
+                        "guid": "cUi1KOXFcJRnCV9N2nzfoA",
+                        "children": []
+                      },
+                      {
+                        "id": "575",
+                        "parent": "573",
+                        "text": "✔ No se ha demostrado reducción de meningitis recurrente,\npero sí ↓ recurrencias genitales",
+                        "guid": "dey1o9hLN0RlzzWk6txEEg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "576",
+                "parent": "464",
+                "text": "5.5.7 Otras Causas de\nMeningitis Crónica",
+                "guid": "8hLhNtJAAcqZcYtZsHzpRg",
+                "children": [
+                  {
+                    "id": "577",
+                    "parent": "576",
+                    "text": "📌 Definición:",
+                    "guid": "JIqmzAgADGsMC2UoMKz_WA",
+                    "children": [
+                      {
+                        "id": "578",
+                        "parent": "577",
+                        "text": "✔ Meningitis con duración ≥4 semanas",
+                        "guid": "kuGxBZzJHGh6Wciu0It4mg",
+                        "children": []
+                      },
+                      {
+                        "id": "579",
+                        "parent": "577",
+                        "text": "✔ Puede ser infecciosa o no infecciosa",
+                        "guid": "ufr8v2AVVtJoUi0lntlr9g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "580",
+                    "parent": "576",
+                    "text": "📌 Clínica:",
+                    "guid": "Xg88ghzmakygpmzPvj87nQ",
+                    "children": [
+                      {
+                        "id": "581",
+                        "parent": "580",
+                        "text": "✔ Curso fluctuante o progresivo",
+                        "guid": "vCoaO0UCnB5ApRJa01jgzQ",
+                        "children": []
+                      },
+                      {
+                        "id": "582",
+                        "parent": "580",
+                        "text": "✔ Síntomas inespecíficos",
+                        "guid": "kbdQI8P8WtPniAboufZHVQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "583",
+                    "parent": "576",
+                    "text": "📌 Etiologías\ncomunes:",
+                    "guid": "6qOHFbYEw-4NzVn-zExptg",
+                    "children": [
+                      {
+                        "id": "584",
+                        "parent": "583",
+                        "text": "✔ Infecciosas: TB, Brucelosis, Hongos, Parásitos",
+                        "guid": "Rd8QymkJCiN3oH_isEHwWw",
+                        "children": []
+                      },
+                      {
+                        "id": "585",
+                        "parent": "583",
+                        "text": "✔ No infecciosas: Sarcoidosis, LES, Síndrome de Sjögren, Vasculitis",
+                        "guid": "72hHH9D86dpWZFeOsMd3sw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "586",
+                    "parent": "576",
+                    "text": "📌 Dx:",
+                    "guid": "YTiG9oAp9Iw_quHOumVFoA",
+                    "children": [
+                      {
+                        "id": "587",
+                        "parent": "586",
+                        "text": "✔ Evaluación extensa → Etiología desconocida en 33% de los casos",
+                        "guid": "WOyl1DmqaViQBCauQVMIHQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 588,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "UTD. Meningitis aséptica-2025",
+  "id": "map_1334",
+  "resolved_references": []
+}

@@ -1,0 +1,1130 @@
+{
+  "title": "UTD - Enfoque Diagnóstico de Pancitopenia en Adultos",
+  "guid": "416AD5BE61841489792143C6",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/UTD - Enfoque Diagnóstico de Pancitopenia en Adultos-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "UTD - Enfoque Diagnóstico de\nPancitopenia en Adultos",
+    "guid": "W7-DBCV7mEUVLTKcTnn3-g",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## DEFINICIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Disminución en las tres líneas\ncelulares sanguíneas:",
+            "guid": "SxYKk05oWNcboytma66buA",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Glóbulos rojos: Hemoglobina <12 g/dL (mujeres) o <13 g/dL (hombres)",
+                "guid": "Hq194T0sNJB3V-ayKIFgAw",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Glóbulos blancos: Recuento absoluto de neutrófilos <1800/microL",
+                "guid": "XNLDgQFfzhQZbRiUCHbCdQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- Plaquetas: <150,000/microL",
+                "guid": "VVLkqhgvb0cX-1t7GJEXfg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## MECANISMOS DE\nPANCITOPENIA",
+        "guid": "X3fGiRFXmmxMgH5wQLKyyw",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "- **Infiltración/reemplazo medular**: Neoplasias hematológicas, cáncer metastásico, mielofibrosis, enfermedades infecciosas",
+            "guid": "UsJwKi4Ekvk50_aSLoHzLg",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "6",
+            "text": "- **Aplasia medular**: Deficiencias nutricionales, anemia aplásica, enfermedades infecciosas, destrucción inmune, medicamentos",
+            "guid": "U4ArPk8BKS58--soQeKh9g",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "6",
+            "text": "- **Destrucción o secuestro celular**: Coagulación intravascular diseminada, púrpura trombocitopénica trombótica, hiperesplenismo",
+            "guid": "YKoHsH5NkeNxUxTKK8ASQw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "## CAUSAS DE\nPANCITOPENIA",
+        "guid": "",
+        "children": [
+          {
+            "id": "11",
+            "parent": "10",
+            "text": "### Aplasia/Hipoplasia\nMedular",
+            "guid": "TLXqugz2QDAXbq37a2Nomw",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "- Deficiencias nutricionales (B12, folato, cobre)",
+                "guid": "SiJ0wQ7GlK4T5MifJvU4Qg",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "11",
+                "text": "- Anemia aplásica",
+                "guid": "ECZiwi1R4TMva_q3ZXlHbA",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "11",
+                "text": "- Exposición a drogas y toxinas",
+                "guid": "RYFQekdnVjJ-Cl7qJPkXAw",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "11",
+                "text": "- Infecciones virales (hepatitis, VIH, parvovirus B19)",
+                "guid": "WL7wnkqK3Vplq8nPK4FgyQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "10",
+            "text": "### Infiltración\nMedular",
+            "guid": "eI9wVB9_wGFaA1P3TA-bkg",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "- Leucemias agudas",
+                "guid": "boDpj1b_PyAN8j2ITyrxPw",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "- Síndromes mielodisplásicos",
+                "guid": "VUzRA39FUlN66wOCIgK7vQ",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "- Linfomas",
+                "guid": "DDuSgxJZsX4NZiRZVl4HRA",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "16",
+                "text": "- Mieloma múltiple",
+                "guid": "ISBGLCFK7Ph9Uz-GMUao7g",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "16",
+                "text": "- Mielofibrosis primaria",
+                "guid": "TpzOKyy_Oj0Wv_BaFB4epQ",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "16",
+                "text": "- Cáncer metastásico",
+                "guid": "dCaQbxTKT0Q5FzWoTOWBDg",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "16",
+                "text": "- Infecciones (tuberculosis, hongos)",
+                "guid": "X1Usnx7C_3d4ZuHXV-Sc8w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "10",
+            "text": "### Hiperesplenismo",
+            "guid": "PkK_2FJqNc4j9DiFLMOpaA",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "- Cirrosis hepática/hipertensión portal",
+                "guid": "KWl07jHmdg577pqnfrZF8Q",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "- Enfermedades hematológicas (linfomas, leucemias)",
+                "guid": "MSvIYXbZnioguQGvPWda5A",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "24",
+                "text": "- Enfermedades infecciosas",
+                "guid": "CTNPqC4fJggTxWIpKlOV1A",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "24",
+                "text": "- Enfermedades de almacenamiento",
+                "guid": "T2oTABEYoa9bmj7CHgbhKw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "parent": "10",
+            "text": "### Destrucción\nCelular",
+            "guid": "Pdfb7XJaLxwyJP_QMf5sXA",
+            "children": [
+              {
+                "id": "30",
+                "parent": "29",
+                "text": "- Coagulación intravascular diseminada (CID)",
+                "guid": "ByR-YGs8NXh-4-1qZnmq_w",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "29",
+                "text": "- Microangiopatías trombóticas",
+                "guid": "Cf808HdKz0E-XkfySEH0yA",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "29",
+                "text": "- Destrucción inmune (LES, artritis reumatoide)",
+                "guid": "SbUFEGJSgHh1BZ4wcx55_g",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "29",
+                "text": "- Hemoglobinuria paroxística nocturna (HPN)",
+                "guid": "FDj2hnD0ONhx1L_wRWS-5w",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "29",
+                "text": "- Linfohistiocitosis hemofagocítica (LHH)",
+                "guid": "Z83XAhKNwZ8CzBnLcQEmqg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "## EMERGENCIAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "### Requieren Hospitalización\nInmediata",
+            "guid": "QKznpxaRe_QbVLx-EBb6pw",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "- Neutropenia con fiebre (RAN <1000/microL)",
+                "guid": "J6odpHbu-0AuHdvSZYH5kQ",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "- Anemia sintomática (isquemia miocárdica, hipotensión)",
+                "guid": "aUkqXGBC26IXgGXtcG2ovA",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "36",
+                "text": "- Trombocitopenia <10,000/microL o sangrado con <50,000/microL",
+                "guid": "S38RGhZkU1hW51O8VX5GCg",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "36",
+                "text": "- Sospecha de CID, PTT, SUH u otra microangiopatía trombótica",
+                "guid": "Da8imRVFm64dwDrTV2QnqQ",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "36",
+                "text": "- Sospecha de leucemia aguda",
+                "guid": "d5gcJhLF2QNKgqGoC9ESrA",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "36",
+                "text": "- Sospecha de anemia aplásica severa",
+                "guid": "A7oR2zxXYZhRNdGTa4fo3Q",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "36",
+                "text": "- Sospecha de linfohistiocitosis hemofagocítica",
+                "guid": "TuUjN1QB619ciQ-HD5IK3g",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "36",
+                "text": "- Emergencias metabólicas (hipercalcemia, insuficiencia renal, síndrome de lisis tumoral)",
+                "guid": "apNnU3fdzAUfqQWFEj2E9w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "parent": "0",
+        "text": "##\nEVALUACIÓN\nINICIAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "46",
+            "parent": "45",
+            "text": "### Historia Clínica",
+            "guid": "bszHRU3G4Vd3v36IWBXxoQ",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "- Evolución temporal y severidad clínica",
+                "guid": "Lgm8-Q8_5HZIg5peeYjOEw",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "46",
+                "text": "- Síntomas asociados a citopenias (infecciones, fatiga, sangrado)",
+                "guid": "JaQ3zh9q7hpPBxQeM1NaZw",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "46",
+                "text": "- Tratamientos previos",
+                "guid": "NLCJyGzHTvEKt4IRLEil7w",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "46",
+                "text": "- Condiciones médicas preexistentes",
+                "guid": "f40n9FU6I7k4GbibA0c50A",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "46",
+                "text": "- Medicamentos potencialmente causales",
+                "guid": "EZGFUQlPii9uzyKtYHaoiA",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "46",
+                "text": "- Exposiciones personales y ocupacionales",
+                "guid": "XVF1jktYMjVwCLNmR-Tc4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "45",
+            "text": "### Examen Físico",
+            "guid": "QzX-Og-xuOtaImHZMgLFgA",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "- Erupciones cutáneas",
+                "guid": "XXiaQlHh4GEKGLchC4JXOw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "- Lesiones orales",
+                "guid": "YSHE11KcUX8FCyVOBsX8pQ",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "- Linfadenopatía y/o esplenomegalia",
+                "guid": "cgc_mVQSOWw6GVcNJrfJYg",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "53",
+                "text": "- Ictericia y estigmas de enfermedad hepática",
+                "guid": "QNmIXUTQ2R5TAG9RQGawUg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "parent": "45",
+            "text": "### Estudios de\nLaboratorio",
+            "guid": "Ggr81wsaJ-xDreoiK5yCKA",
+            "children": [
+              {
+                "id": "59",
+                "parent": "58",
+                "text": "- Hemograma completo con diferencial",
+                "guid": "FGmyGzJ9DM8MEyqwcbsnqQ",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "58",
+                "text": "- Recuento de reticulocitos",
+                "guid": "fdU_BHwb3hY5oASLQQs9Pw",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "58",
+                "text": "- Examen del frotis de sangre periférica",
+                "guid": "C82XARPCZmRzDgK_aUYxQw",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "58",
+                "text": "- Tiempo de protrombina (TP) y tiempo parcial de tromboplastina (TPT)",
+                "guid": "ZaRGxX0mueB0yIh-RsYLnQ",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "58",
+                "text": "- Química sanguínea completa",
+                "guid": "T8MLYHnTrcxNjAhCQcpK-Q",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "58",
+                "text": "- Grupo sanguíneo y pruebas de compatibilidad",
+                "guid": "TeXnOQelX09oghRbDr9vlg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "65",
+            "parent": "45",
+            "text": "### Derivación a\nHematología",
+            "guid": "THY4bTuCg6xPJh_oZoE1RA",
+            "children": [
+              {
+                "id": "66",
+                "parent": "65",
+                "text": "- Casi siempre apropiada, excepto cuando se identifica rápidamente una etiología tratable",
+                "guid": "RpyrmRLUCgoSHbdsWwZdtA",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "65",
+                "text": "- Urgencia según severidad, trayectoria de citopenias y estabilidad clínica",
+                "guid": "RVEW2h4w4hxMwYVeQyZV3g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "parent": "0",
+        "text": "## EVALUACIÓN\nPOSTERIOR",
+        "guid": "",
+        "children": [
+          {
+            "id": "69",
+            "parent": "68",
+            "text": "### Examen de\nMédula Ósea",
+            "guid": "GkzAMgZhiekEMZMdJhpXMw",
+            "children": [
+              {
+                "id": "70",
+                "parent": "69",
+                "text": "- Útil en la mayoría de pacientes con pancitopenia",
+                "guid": "GiPwTXc_ldwPYIh2f8g3Eg",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "69",
+                "text": "- Esencial cuando se sospecha trastorno hematológico primario",
+                "guid": "dGZPvQQpEPRGjkKvRClbHQ",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "69",
+                "text": "- Puede ser engañoso si se realiza poco después de suspender medicamentos",
+                "guid": "ffy-wRQaSvIF86YWS-Kl-g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "parent": "68",
+            "text": "### Escenarios\nClínicos Específicos",
+            "guid": "G7-qQW51unJaohWQaDXirw",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "#### Coagulopatía",
+                "guid": "Kfg-HinINXlOtxfzcJTptw",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "- Evaluación urgente del frotis sanguíneo para anemia hemolítica microangiopática",
+                    "guid": "PJw_g2DUz2BLm0dsAe1WXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "- Descartar CID por sepsis, leucemia promielocítica aguda u otras causas",
+                    "guid": "fwWxfBhczMpFE6w8GVJxrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77",
+                "parent": "73",
+                "text": "#### Células Anormales\nen Frotis Sanguíneo",
+                "guid": "Hr5Ws0lFP1k_bMjiOOJHAA",
+                "children": [
+                  {
+                    "id": "78",
+                    "parent": "77",
+                    "text": "- **Células malignas**:",
+                    "guid": "IUASEmX_sJgICwhuXdxRlQ",
+                    "children": [
+                      {
+                        "id": "79",
+                        "parent": "78",
+                        "text": "- Blastos circulantes (leucemia)",
+                        "guid": "QITVNk7NUVk4qn4SNOsk8w",
+                        "children": []
+                      },
+                      {
+                        "id": "80",
+                        "parent": "78",
+                        "text": "- Leucocitos displásicos (síndromes mielodisplásicos)",
+                        "guid": "UvZiTX84wMJ5FIAQUPMhDg",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "78",
+                        "text": "- Células mieloides inmaduras (neoplasia mieloproliferativa)",
+                        "guid": "E1MLtH8IJiYc1ccILxK19Q",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "78",
+                        "text": "- Hallazgos leucoeritroblásticos (mielofibrosis)",
+                        "guid": "bX3gmHd33JkXSJikF3Yetw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "83",
+                    "parent": "77",
+                    "text": "- **Células no\nmalignas**:",
+                    "guid": "e4b5LFynDcERUEC7DtoE4A",
+                    "children": [
+                      {
+                        "id": "84",
+                        "parent": "83",
+                        "text": "- Neutrófilos hipersegmentados y ovalomacrocitos (trastorno megaloblástico)",
+                        "guid": "RtR_-FOmT9pfyafzRdoxdA",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "83",
+                        "text": "- Linfocitos atípicos (infecciones virales)",
+                        "guid": "bAMcpCTdVC9fLKMjCsFzVw",
+                        "children": []
+                      },
+                      {
+                        "id": "86",
+                        "parent": "83",
+                        "text": "- Aspecto leucoeritroblástico con dacriocitos (mielofibrosis, cáncer metastásico)",
+                        "guid": "biKTiB6ZbAZDo7pXLqdovg",
+                        "children": []
+                      },
+                      {
+                        "id": "87",
+                        "parent": "83",
+                        "text": "- Esquistocitos (CID)",
+                        "guid": "bWa9X3xOOGpjko2xQF0frA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "88",
+                "parent": "73",
+                "text": "#### Condiciones\nHipoproliferativas",
+                "guid": "W68z6C4mB8M97LrVSS0UgA",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "- Reticulocitopenia (<20,000 reticulocitos/microL)",
+                    "guid": "JZ3kXFU1U3pgozM3Rt32bg",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "88",
+                    "text": "- Evaluar:",
+                    "guid": "OzUEEmiuO6YkukgEAgmECg",
+                    "children": [
+                      {
+                        "id": "91",
+                        "parent": "90",
+                        "text": "- Deficiencias vitamínicas/minerales",
+                        "guid": "PFSLgASD7_dH47V-KFeoJQ",
+                        "children": []
+                      },
+                      {
+                        "id": "92",
+                        "parent": "90",
+                        "text": "- Medicamentos",
+                        "guid": "KWFEJicQWKIzGRt8F4PXrg",
+                        "children": []
+                      },
+                      {
+                        "id": "93",
+                        "parent": "90",
+                        "text": "- Supresión medular",
+                        "guid": "RanEqHa81dRGK0BtMxCCBw",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "90",
+                        "text": "- Anemia aplásica",
+                        "guid": "cwsOPim9zh5zbaGzbpIHag",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "90",
+                        "text": "- Hematopoyesis ineficaz",
+                        "guid": "BmTb4AS94m59bAxKYhQPyA",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "90",
+                        "text": "- Infiltración/reemplazo medular",
+                        "guid": "MuPqMjtYxx8rQSRIWIHOjg",
+                        "children": []
+                      },
+                      {
+                        "id": "97",
+                        "parent": "90",
+                        "text": "- Neoplasias con inmunosupresión",
+                        "guid": "EI4amQvkV4AfX8T9S8Meqw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "98",
+                "parent": "73",
+                "text": "#### Esplenomegalia y/o\nEnfermedad Hepática",
+                "guid": "dJKTJkQaDQFNzKK1MOcepg",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "- Sugiere hiperesplenismo (secuestro/destrucción celular)",
+                    "guid": "SJ38-BWwWDRZPsbLcf9BHg",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "98",
+                    "text": "- Evaluar:",
+                    "guid": "JBrpqGCmXUgcb_uwJy-hxA",
+                    "children": [
+                      {
+                        "id": "101",
+                        "parent": "100",
+                        "text": "- Enfermedad hepática/cirrosis",
+                        "guid": "PMCw1gxX4kgJgxjMAmp1fg",
+                        "children": []
+                      },
+                      {
+                        "id": "102",
+                        "parent": "100",
+                        "text": "- Infecciones",
+                        "guid": "AxS4HE-uWTk1eveFdh_GWg",
+                        "children": []
+                      },
+                      {
+                        "id": "103",
+                        "parent": "100",
+                        "text": "- Neoplasias hematológicas",
+                        "guid": "eWwnWCjomThksc3Ef9EDOA",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "100",
+                        "text": "- Hematopoyesis extramedular",
+                        "guid": "LaZ7p2Id2g5h5RMAYIpl2Q",
+                        "children": []
+                      },
+                      {
+                        "id": "105",
+                        "parent": "100",
+                        "text": "- Congestión (insuficiencia cardíaca)",
+                        "guid": "HXahLQ0mN0g5DDRnLgS7xw",
+                        "children": []
+                      },
+                      {
+                        "id": "106",
+                        "parent": "100",
+                        "text": "- Inflamación (artritis reumatoide, síndrome de Felty)",
+                        "guid": "GQqOyFhr-WR5x9pyDZ0h7g",
+                        "children": []
+                      },
+                      {
+                        "id": "107",
+                        "parent": "100",
+                        "text": "- Enfermedad esplénica primaria",
+                        "guid": "HIYGZUeUfSg-hECVZSQDXQ",
+                        "children": []
+                      },
+                      {
+                        "id": "108",
+                        "parent": "100",
+                        "text": "- Enfermedades de almacenamiento",
+                        "guid": "XUTVXBfDB2BXI0R7GgWGMg",
+                        "children": []
+                      },
+                      {
+                        "id": "109",
+                        "parent": "100",
+                        "text": "- Linfohistiocitosis hemofagocítica",
+                        "guid": "MFS2gVHq8zUdT2geKcDd2Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "110",
+                "parent": "73",
+                "text": "#### Linfadenopatía",
+                "guid": "etOMbQIBNeIpkeERKHoIFA",
+                "children": [
+                  {
+                    "id": "111",
+                    "parent": "110",
+                    "text": "- Posibles causas:",
+                    "guid": "cPbEf33JHKYcJqV8TjuZ2w",
+                    "children": [
+                      {
+                        "id": "112",
+                        "parent": "111",
+                        "text": "- Neoplasias hematológicas",
+                        "guid": "ZB8P8At29BEJBG3tAZWxHg",
+                        "children": []
+                      },
+                      {
+                        "id": "113",
+                        "parent": "111",
+                        "text": "- Enfermedades autoinmunes",
+                        "guid": "GJ0rWkIQolUvmmzlMae6Ig",
+                        "children": []
+                      },
+                      {
+                        "id": "114",
+                        "parent": "111",
+                        "text": "- Enfermedades infecciosas",
+                        "guid": "GnybuSliR1c_RNwRNwKiHw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "115",
+                    "parent": "110",
+                    "text": "- Evaluar con:",
+                    "guid": "Yw6wvgLuEWJl3A6De6vcGA",
+                    "children": [
+                      {
+                        "id": "116",
+                        "parent": "115",
+                        "text": "- Estudios de imagen",
+                        "guid": "FYwkBnNJ6fhoQSANOacNrw",
+                        "children": []
+                      },
+                      {
+                        "id": "117",
+                        "parent": "115",
+                        "text": "- Biopsia de ganglio linfático",
+                        "guid": "U_BHQASxG71g1q9zBET9wQ",
+                        "children": []
+                      },
+                      {
+                        "id": "118",
+                        "parent": "115",
+                        "text": "- Citometría de flujo",
+                        "guid": "VpwO8n4mF5IuBdubUW-bYA",
+                        "children": []
+                      },
+                      {
+                        "id": "119",
+                        "parent": "115",
+                        "text": "- Estudios serológicos",
+                        "guid": "ACdNdFeXvKx56aN0ZEZdZQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "73",
+                "text": "#### Condiciones\nAutoinmunes",
+                "guid": "RP6ztxV2e2gtU5Y6X3tPcA",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "- Enfermedades comunes: artritis reumatoide/síndrome de Felty, LES, sarcoidosis",
+                    "guid": "PtjCv2yYcksWffGPL8-HPw",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "- Evaluar:",
+                    "guid": "amGO8TKklwx-CyEaf-2y-A",
+                    "children": [
+                      {
+                        "id": "123",
+                        "parent": "122",
+                        "text": "- Trastornos asociados (anemia perniciosa, enfermedad tiroidea)",
+                        "guid": "Je6BBGZMQSg5lMCned7IRA",
+                        "children": []
+                      },
+                      {
+                        "id": "124",
+                        "parent": "122",
+                        "text": "- Considerar agentes terapéuticos alternativos",
+                        "guid": "av1c5RprcBp-I8YFQZlr2A",
+                        "children": []
+                      },
+                      {
+                        "id": "125",
+                        "parent": "122",
+                        "text": "- Evaluar esplenectomía en casos seleccionados",
+                        "guid": "GJGHrCwpoaATCQc4GLjVIQ",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "122",
+                        "text": "- Descartar leucemia de linfocitos grandes granulares",
+                        "guid": "A8FeTQzyqqx8_zKGZtAPCw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "127",
+                "parent": "73",
+                "text": "#### Síntomas\nConstitucionales",
+                "guid": "D-C8DmLbQQlie-sjVN9vxQ",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "- Fiebre, sudores nocturnos, pérdida de peso",
+                    "guid": "eFG8cQ_PgV00Wr82Nyp_MA",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "127",
+                    "text": "- Posibles causas:",
+                    "guid": "fGfzqUrYsMVm-gZvZsmCmg",
+                    "children": [
+                      {
+                        "id": "130",
+                        "parent": "129",
+                        "text": "- Infecciones",
+                        "guid": "fX1H0WUFJ4pmtzWSI2vI1Q",
+                        "children": []
+                      },
+                      {
+                        "id": "131",
+                        "parent": "129",
+                        "text": "- Linfohistiocitosis hemofagocítica",
+                        "guid": "S1FosiBL9jkdSpEZNk7Flw",
+                        "children": []
+                      },
+                      {
+                        "id": "132",
+                        "parent": "129",
+                        "text": "- Neoplasias hematológicas",
+                        "guid": "OrdmVBtuVx936DFvU0juAA",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "129",
+                        "text": "- Enfermedades autoinmunes",
+                        "guid": "R5f4vwrxOKdsAcMhS1lXDA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "73",
+                "text": "#### Anomalías\nMetabólicas",
+                "guid": "F-PjVGkA9acyKWYXJ8SfYg",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "- Hipercalcemia, síndrome de lisis tumoral, insuficiencia renal, hiperuricemia",
+                    "guid": "S9w2sBSlUTp8pA8oRC3zIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "- Asociadas a mieloma múltiple, leucemia, linfoma",
+                    "guid": "JHTSmDD-zl57WHJSINzGQQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "137",
+                "parent": "73",
+                "text": "#### Medicamentos\nSospechosos",
+                "guid": "e9d_I2JSeMEHpkjbeVTG9Q",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "- Considerar suspensión o reducción de dosis",
+                    "guid": "R1egS25dfm4cwI_KEqkI_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "- La recuperación puede tardar semanas",
+                    "guid": "Dql0pzoLIORI986VSWDa-w",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "137",
+                    "text": "- La biopsia de médula ósea inmediata puede no ser útil",
+                    "guid": "VXl4A0DgAAQcqcj8HRFwwg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "141",
+                "parent": "73",
+                "text": "#### Causas\nMultifactoriales",
+                "guid": "S9E4rAirjB1oasfPY7UcAA",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "- Ejemplos:",
+                    "guid": "ao7fQ0sJbss5Yj_zeThT6w",
+                    "children": [
+                      {
+                        "id": "143",
+                        "parent": "142",
+                        "text": "- Consumo de alcohol + deficiencia de folato + cirrosis + esplenomegalia",
+                        "guid": "cayBxRqULeYLebtiPYi4dQ",
+                        "children": []
+                      },
+                      {
+                        "id": "144",
+                        "parent": "142",
+                        "text": "- Infección por VIH + múltiples medicamentos + linfoma asociado a SIDA",
+                        "guid": "Lzl_IQgdyooBtquXU65RuQ",
+                        "children": []
+                      },
+                      {
+                        "id": "145",
+                        "parent": "142",
+                        "text": "- Trastorno autoinmune + esplenomegalia + múltiples medicamentos",
+                        "guid": "ORyY6H0PHel0ixf6NPQYDA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "146",
+                    "parent": "141",
+                    "text": "- Identificar causas reversibles o tratables",
+                    "guid": "X2GWqnwxYNUuSN8BJrk29g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "147",
+        "parent": "0",
+        "text": "## RESUMEN",
+        "guid": "",
+        "children": [
+          {
+            "id": "148",
+            "parent": "147",
+            "text": "- La pancitopenia es la disminución de todas las líneas celulares sanguíneas",
+            "guid": "BRSPrwJaDohCmS7mWo4Hsg",
+            "children": []
+          },
+          {
+            "id": "149",
+            "parent": "147",
+            "text": "- Puede ser causada por múltiples mecanismos: aplasia medular, infiltración/reemplazo, destrucción acelerada, secuestro",
+            "guid": "QzoOjV9C9-J3n3h1DwtHOQ",
+            "children": []
+          },
+          {
+            "id": "150",
+            "parent": "147",
+            "text": "- La evaluación inicial debe identificar emergencias y orientar la búsqueda diagnóstica",
+            "guid": "Z-6EAGAKQERywGM5WZsFxQ",
+            "children": []
+          },
+          {
+            "id": "151",
+            "parent": "147",
+            "text": "- El frotis de sangre periférica es fundamental para detectar características diagnósticas",
+            "guid": "ep5uKn46HpsXI746KdftSw",
+            "children": []
+          },
+          {
+            "id": "152",
+            "parent": "147",
+            "text": "- El examen de médula ósea es útil en la mayoría de los casos, pero no en todos",
+            "guid": "BlfpJhjaadF9hj8EP3SCDg",
+            "children": []
+          },
+          {
+            "id": "153",
+            "parent": "147",
+            "text": "- Las causas son a menudo multifactoriales y requieren un abordaje integral",
+            "guid": "FemHunIRVv50aJoadUseZQ",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 154,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "UTD - Enfoque Diagnóstico de Pancitopenia en Adultos-2025",
+  "id": "map_1448",
+  "resolved_references": []
+}

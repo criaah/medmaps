@@ -1,0 +1,960 @@
+{
+  "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**",
+  "guid": "3015243E23D574EE298EC3F6",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/Paper. Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Inmunoglobulina Intravenosa (IVIg) como Terapia de\nRescate en Anemia Hemolítica Autoinmune (AHAI) Grave\ndel Adulto: Estudio Observacional Multicéntrico Francés\n**(Publicado 2024)**",
+    "guid": "DVTfzAjbi-MhKrKIFWz75g",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "- Diseño del Estudio",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "› Tipo: Observacional, multicéntrico, retrospectivo **(Periodo 2013-2021)**",
+            "guid": "KwHHtnbnBFM421sHK1Z2vw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "› Objetivo Principal",
+            "guid": "HU_ZCWR3YDdU98ESEJ6G7w",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "◊ Evaluar eficacia inmediata y seguridad de IVIg como terapia de \"rescate\" en AHAI del adulto. ★",
+                "guid": "NxAwyV88Rmcs2kDbJuYO8w",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "◊ Identificar factores predictivos de respuesta.",
+                "guid": "b_xeKz3nLKhbCuXCcZOh8w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "› Fuente de\nDatos Primaria",
+            "guid": "a6WEx3tqmDUv6burK9ZSCw",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "◊ Registro CARMEN-FRANCE AIHA (**NCT02877706**, iniciado en **2016**)",
+                "guid": "K3-8c1O_MJpVZRYBONScPw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "› Criterios de Inclusión\n(n=34 seleccionados\nde 78 iniciales)",
+            "guid": "XJq8fXaPyIpOQZgmLtCPgw",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "◊ Edad ≥ 18 años.",
+                "guid": "T3yMDW2Hn8Bi90I1en5Tww",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "◊ Diagnóstico de AHAI",
+                "guid": "ZG6kExvSnTwl1MqDAb59HA",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "• Hb < 12 g/dL.",
+                    "guid": "AEn9dHrMi5USXQQLN1ouPQ",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "• >2 características de hemólisis (haptoglobina baja y/o LDH elevada y/o bilirrubina indirecta elevada).",
+                    "guid": "WgjR_D83ROdeQD0wSgUwJw",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "• Test de Antiglobulina Directa (TAD) positivo.",
+                    "guid": "fR5xjzlLIvM7mNIaaMP2Vg",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "10",
+                    "text": "• Sin otra causa de anemia hemolítica adquirida o hereditaria.",
+                    "guid": "NLW7KGuCjcYUmkhiYDV3mw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "8",
+                "text": "◊ Haber recibido ≥ 1 ciclo de IVIg para manejo de AHAI.",
+                "guid": "P0G-YGn_XmMZChPaG9x63Q",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "8",
+                "text": "◊ Tipos de\nAHAI incluidos:",
+                "guid": "YI8m7WdLrABKrQpgMAuy-w",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "• Primaria o Secundaria.",
+                    "guid": "VNNLwC2kTJYqiga-OUHv1A",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "16",
+                    "text": "• AHAI por anticuerpos calientes (WAIHA).",
+                    "guid": "SXbp0lBe0UE7AGzwScDnRg",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "16",
+                    "text": "• Enfermedad por Aglutininas Frías (CAD).",
+                    "guid": "Sytc1k1dcPwBGxWEJTQu0g",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "16",
+                    "text": "• AHAI Mixta.",
+                    "guid": "DJS1419bUrRvOV75CbMncg",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "16",
+                    "text": "• Síndrome de Evans.",
+                    "guid": "GKZ1pyrSMRRydx3ITVwwzw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "1",
+            "text": "› Criterios de\nExclusión",
+            "guid": "FlS-2gcRZiotkahqVZZ9Og",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "◊ AHAI con TAD negativo.",
+                "guid": "cRDEjkabvEVxcvgXUZ_rew",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "22",
+                "text": "◊ Síndrome de Evans donde IVIg se usó específicamente para Trombocitopenia Inmune (PTI).",
+                "guid": "LedoRTwgAncBq552Arq0Bg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "25",
+        "parent": "0",
+        "text": "- Características Basales de\nlos Pacientes (n=34)",
+        "guid": "",
+        "children": [
+          {
+            "id": "26",
+            "parent": "25",
+            "text": "› Demografía",
+            "guid": "acRPDSw1pTU7_KPaMzs44A",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "◊ Edad mediana: 59 años (rango 19-91).",
+                "guid": "fJR2dnb9EMp8_CAmR7_TTQ",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "◊ Sexo: 18 mujeres (53%) / 16 hombres (47%).",
+                "guid": "RFqBxn4XNaps9AIfUO83qQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "parent": "25",
+            "text": "› Características\nde la AHAI",
+            "guid": "XXKIX1wtYRlaol8bdhj-Bg",
+            "children": [
+              {
+                "id": "30",
+                "parent": "29",
+                "text": "◊ Subtipo:",
+                "guid": "IH3IzxiHMY5oRK_RCkIX3Q",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "• WAIHA: 23 (68%) (incluyendo 7 Síndrome de Evans).",
+                    "guid": "Bv-SLU0ZfORDdS7WHVRRBw",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "30",
+                    "text": "• CAD: 6 (18%).",
+                    "guid": "VCrjDnEG10By6s5BRTunnA",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "30",
+                    "text": "• Mixta: 5 (14%).",
+                    "guid": "N6KThWRdxlgW25MYZYn7yw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "29",
+                "text": "◊ Etiología:",
+                "guid": "OJCmjnYFIqYwiB3lFgMu7Q",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "• Secundaria: 12 (35%).",
+                    "guid": "RLzWwyRBU6s9fVC9QVFNOg",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "• Causas: Linfoma (n=3), Inmunodeficiencia primaria (n=3), Infección (n=2),\nNeoplasia mieloide (n=2), LES (n=1), Anti-PD1 (n=1).",
+                    "guid": "Gz5kdTp5cOMJESCHX5jmPA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "parent": "29",
+                "text": "◊ Parámetros\nHematológicos Basales:",
+                "guid": "UjKDvwsqfQEMHCzzWTIV7A",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "• Hb mediana: 6.1 g/dL (rango 2.7-8.9).",
+                    "guid": "WEP55U-RW8l2hmbzLG7c8w",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "• Hb nadir mediana (pre-IVIg): 4. 4 g/dL (rango 1.7-7.6).",
+                    "guid": "QJgzCmlxNTRxqoSQeDrGjw",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "• Recuento mediano de reticulocitos: 185 x10⁹/L (rango 24-675).",
+                    "guid": "Tc77jAiGF6hdxMJabkzEXA",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "37",
+                    "text": "• 10 pacientes (29%) con recuento < 120 x10⁹/L.",
+                    "guid": "IQ1JNkYJcit4jtw5Zcof-g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "42",
+            "parent": "25",
+            "text": "› Justificación Clínica para Uso de IVIg\n(reportada por médicos)",
+            "guid": "akrF1jYMLPYnG200BYkqTA",
+            "children": [
+              {
+                "id": "43",
+                "parent": "42",
+                "text": "◊ Gravedad de AHAI: 82%.",
+                "guid": "cIWd2TAsjbtlIhCIKRZEZw",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "42",
+                "text": "◊ Dependencia transfusional: 41%.",
+                "guid": "JjGwYRWqLm0_GXNUeGQ0IQ",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "42",
+                "text": "◊ Refractariedad a corticoides: 38%.",
+                "guid": "INSrbks1oEhRlkoNeRilUw",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "42",
+                "text": "◊ Desencadenante infeccioso: 32%.",
+                "guid": "Gsb8EUgcsQElh4JHW18vGw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "25",
+            "text": "› Tratamientos\nPrevios para AHAI",
+            "guid": "MY3mNRcyBtdTmfWrf1zhwg",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "◊ Número mediano de líneas previas: 1 (rango 0-8).",
+                "guid": "H7gefzFeuAVtqaYeQMVntQ",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "◊ Tipos de tratamiento previos\n(excluyendo transfusiones):",
+                "guid": "d2gqMWY4glcmj4evYbLwBw",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "• **Corticoides**: 30 (88%). ★",
+                    "guid": "HESvTU2q9ONnPBpTDMpNJg",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "49",
+                    "text": "• EPO: 13 (38%).",
+                    "guid": "fdeCnkxeKts14JGOJAkzAA",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "49",
+                    "text": "• **Rituximab**: 8 (24%). ★",
+                    "guid": "YghZSXT6BOIcbWchAt0Etw",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "49",
+                    "text": "• Inmunosupresor: 4 (12%).",
+                    "guid": "QC-lKm4DsS579aoLWvahPA",
+                    "children": []
+                  },
+                  {
+                    "id": "54",
+                    "parent": "49",
+                    "text": "• Esplenectomía: 1 (3%).",
+                    "guid": "NiBiLyF9LFI2VdBXZ65IZQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "55",
+                "parent": "47",
+                "text": "◊ Transfusiones de Glóbulos Rojos (GR)\nprevias a IVIg:",
+                "guid": "OK8zKQnvxgJnCyonWGdRqA",
+                "children": [
+                  {
+                    "id": "56",
+                    "parent": "55",
+                    "text": "• Pacientes transfundidos: 21 (62%).",
+                    "guid": "O05-CFS00EUZLLldMraoOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "55",
+                    "text": "• Mediana de concentrados de GR: 2 (rango 1-15).",
+                    "guid": "Ou1SnD-8QQ0UaZhAVzIB6Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "58",
+        "parent": "0",
+        "text": "- Tratamiento con IVIg y\nEvaluación de Eficacia",
+        "guid": "DWc18HulspRj_E8PCz64jw",
+        "children": [
+          {
+            "id": "59",
+            "parent": "58",
+            "text": "› Administración de\nIVIg",
+            "guid": "SAPdbxnc4J0vR-uPKgw2uA",
+            "children": [
+              {
+                "id": "60",
+                "parent": "59",
+                "text": "◊ Dosis:",
+                "guid": "DtblgEu1UrAs6TtwTwaKqg",
+                "children": [
+                  {
+                    "id": "61",
+                    "parent": "60",
+                    "text": "• 2 g/kg: 31 (91%). ★",
+                    "guid": "ObkD3ije5Xsp_Svmb9lmDg",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "60",
+                    "text": "• 1 g/kg: 3 (9%).",
+                    "guid": "SlwRzWBS_D5Xh65zAwtE9g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63",
+                "parent": "59",
+                "text": "◊ Fecha de referencia (D0): Primera administración del primer ciclo de IVIg.",
+                "guid": "akLCQD6S2JpbcpaeJZFASA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "parent": "58",
+            "text": "› Terapias Concomitantes ★ (Definición: Ttos en curso al momento de IVIg o\niniciados/administrados para AHAI dentro de los 14 días post-IVIg)",
+            "guid": "E0eo33SfT_tYR-iBTjT7ew",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "◊ **Corticoides**: 28 (82%).",
+                "guid": "NFuRCGyxgMIlZv1kQcLG-Q",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "64",
+                "text": "◊ EPO Recombinante: 12 (35%). *Nota: El texto original tiene un error listando 41% aquí pero 12/34 es ~35%.*",
+                "guid": "aFczVgljTHNNAX-IMFsQxQ",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "64",
+                "text": "◊ **Rituximab**: 10 (29%).",
+                "guid": "I0AtEXxJaxdaZ0d-MhcSkQ",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "64",
+                "text": "◊ Inmunosupresor/inmunomodulador: 8 (24%).",
+                "guid": "R_69xwdQgu4BHZ07AbfBpQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "64",
+                "text": "◊ Plasmaféresis: 5 (15%).",
+                "guid": "MC9oaSsaySJxkSezeot6Ng",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "64",
+                "text": "◊ Esplenectomía: 1 (3%).",
+                "guid": "C23FYEkY1iZ9lr8sdbCHoA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "64",
+                "text": "◊ Eculizumab: 1 (3%).",
+                "guid": "B6uuwFkJVcobQcfpGvNXnw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "58",
+            "text": "› Criterios de Respuesta (Endpoint\nPrimario: Día 7 ± 1 post-IVIg) ★",
+            "guid": "TailxXOJsGppKFMaAgQ2zg",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "◊ Respuesta (R): Aumento Hb ≥ 2 g/dL vs basal (D0), sin transfusión en los 7 días post-IVIg.",
+                "guid": "YDsxLA6PUH5Dxv3HSJJkgg",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "◊ Buena Respuesta (GR): Hb ≥ 10 g/dL Y aumento Hb ≥ 2 g/dL vs basal (D0), sin transfusión en los 7 días post-IVIg.",
+                "guid": "F_Kc8hDIfU947XVIOzLKAw",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "◊ No Respuesta (NR): Aumento Hb < 2 g/dL y/o necesidad de transfusión en los 7 días post-IVIg.",
+                "guid": "DRHoZlNUvMZtSdyUVRCmLQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "58",
+            "text": "› Evaluación Secundaria: Tasa de Respuesta Global\n(ORR = R + GR) al Día 14 ± 1.",
+            "guid": "WqU_tG5nec9WyGfSCtSoHQ",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "◊ Pacientes transfundidos entre D7 y\nD14 se consideran NR en D14.",
+                "guid": "GYJC8UhZj4YFYCJTJPAIUQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "78",
+        "parent": "0",
+        "text": "- Resultados y\nConclusiones",
+        "guid": "",
+        "children": [
+          {
+            "id": "79",
+            "parent": "78",
+            "text": "› Eficacia de IVIg",
+            "guid": "EXJlrAL24X8aoI_yGR4UbQ",
+            "children": [
+              {
+                "id": "80",
+                "parent": "79",
+                "text": "◊ Tasa de Respuesta Global (ORR) al\nDía 7: 32.4% (11/34 pacientes).",
+                "guid": "XAA3STXiV9s0EWwMKajdDg",
+                "children": [
+                  {
+                    "id": "81",
+                    "parent": "80",
+                    "text": "• GR: 2 pacientes.",
+                    "guid": "KWwIRR05vycrrRPcCac5cg",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "80",
+                    "text": "• R: 9 pacientes.",
+                    "guid": "K8kPpW90EaNSOZ30Q7uslw",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "80",
+                    "text": "• NR: 67.6% (incluye 13 [38. 2%] pacientes transfundidos entre D0 y D7).",
+                    "guid": "ADyO8ksnEzx-7naaDU53WA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "79",
+                "text": "◊ Tasa de Respuesta Global (ORR) al Día 14\n(datos disponibles para 28/34 pacientes): 57%.",
+                "guid": "HnvQAmw4Uy5iXx2FeSEPtg",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• GR: 6 pacientes.",
+                    "guid": "Wp_M_jknhVgD9bfTdCIP7w",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "• R: 10 pacientes.",
+                    "guid": "AYEU3glV2iYZEhhBEvN6ig",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "87",
+                "parent": "79",
+                "text": "◊ Patrones de respuesta observados\n(ver Figura S2 en el artículo original).",
+                "guid": "DEy7pTOyqDMsEY73aEzy7g",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "• Algunos con aumento inmediato y claro de Hb (sugiere mecanismo tipo bloqueo FcR).\n⇄ Relacionado con justificación fisiopatológica.",
+                    "guid": "aZUADmAi-wQR9c_9EwEIUw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "78",
+            "text": "› Factores Predictivos de Respuesta\n(Análisis univariado y multivariado)",
+            "guid": "fVy6Kz2i49kcqEHFKSXJ0A",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "◊ Único factor significativo asociado a\nmayor tasa de respuesta: ★",
+                "guid": "LRb1fW7h37ps4XZoLVOEbw",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "• Administración temprana de IVIg después del inicio de AHAI (ORR 14.571, p=0.030).",
+                    "guid": "Ogjy9mvP7QI6ofvIWITC-Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92",
+                "parent": "89",
+                "text": "◊ No asociados significativamente (en este estudio): Edad, sexo, tipo de AHAI (caliente, fría, mixta), forma (primaria/secundaria), gravedad inicial (Hb<6), recuento reticulocitos,\npatrón TAD (C3d+), desencadenante infeccioso, AHAI de novo vs recaída, uso concomitante corticoides u otros ttos, número transfusiones D0-D7.",
+                "guid": "WAhAMR0BGU1RpdKvMqgNLw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "93",
+            "parent": "78",
+            "text": "› Seguridad",
+            "guid": "ViiepVWbioMmyh0eV6mzgw",
+            "children": [
+              {
+                "id": "94",
+                "parent": "93",
+                "text": "◊ Perfil general: Bueno.",
+                "guid": "XvFkqT_cNV9qnS4Oaz4gTw",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "93",
+                "text": "◊ Eventos adversos\nnotables:",
+                "guid": "c47dkhauvQVTixM9XSPdoA",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "• Ningún caso de exacerbación de hemólisis inducida por IVIg.",
+                    "guid": "dtG4CWWA4zpwJOX0dC5yNA",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "• 1 evento tromboembólico (trombosis parcial arteria esplénica → trombosis VCI → embolia pulmonar) 5 días post-IVIg.",
+                    "guid": "IyPHFAzNJ7kdVDwFUDq8kQ",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "95",
+                    "text": "• Paciente: Hombre, 60 años, con COVID-19 reciente y hemólisis activa. ★",
+                    "guid": "e68Hcwo1sm19jkEANbf6ag",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "parent": "78",
+            "text": "› Conclusiones\ndel Estudio",
+            "guid": "dgWfbzgwPMgOPL1jTg3foA",
+            "children": [
+              {
+                "id": "100",
+                "parent": "99",
+                "text": "◊ IVIg (uso off-label) puede ser útil como terapia adicional en aprox. 1/3 de adultos con AHAI grave. ★",
+                "guid": "VTFWFl_ikBIAtezPK1n0uw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "99",
+                "text": "◊ Falta de factores predictivos claros (excepto inicio temprano) dificulta selección de pacientes.",
+                "guid": "NX4alSeACe4DA6g_FG9_Pw",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "99",
+                "text": "◊ Recomendación: Uso\nlimitado y bien ponderado. ★",
+                "guid": "Z1w_TW2g1k1_rZ-OWusc4A",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "• Considerar costo y problemas recurrentes de escasez de IVIg.",
+                    "guid": "BE-TUlM4sss4DvqAeyFLXA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "parent": "0",
+        "text": "- Contexto y\nEstudios Previos",
+        "guid": "",
+        "children": [
+          {
+            "id": "105",
+            "parent": "104",
+            "text": "› Justificación del Uso\nde IVIg en AHAI",
+            "guid": "OLmWBigz4HRvT72QW91dGg",
+            "children": [
+              {
+                "id": "106",
+                "parent": "105",
+                "text": "◊ Analogía con **PTI** y otras enfermedades autoinmunes mediadas por autoanticuerpos. ★",
+                "guid": "NQEILgyj-ZUsGBmrMLAPoQ",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "105",
+                "text": "◊ Fisiopatología de AHAI (destrucción de GR mediada por autoanticuerpos).",
+                "guid": "FtmsAimmWqtmaAoLDN9Lcg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "108",
+            "parent": "104",
+            "text": "› Evidencia Previa sobre Eficacia\nde IVIg en AHAI (Limitada)",
+            "guid": "YdaXdHSkx25a7SsSNwftig",
+            "children": [
+              {
+                "id": "109",
+                "parent": "108",
+                "text": "◊ **Flores G et al.\n(1993)** ★",
+                "guid": "VIdXgVujF-JiYeJFCgVyFg",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "• Estudio retrospectivo (n=73, incluyendo 32 adultos).",
+                    "guid": "AyMh0GVlioQedPFVan9hHQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "• ORR (aumento Hb ≥ 2 g/dL en 10 días): 39.7%.",
+                    "guid": "UwZg0R4ikONFan39V1X0JA",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "109",
+                    "text": "• Limitaciones: No especificó transfusiones; dosis altas (5-7 g/kg) no más eficaces.",
+                    "guid": "cVtDr315eH5Sdz-AKhTZtQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "113",
+                "parent": "108",
+                "text": "◊ **Mueller-Eckhardt C\net al. (2009)** ★",
+                "guid": "Ja1Y8kHG_RAF8jbPWq5hIA",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "• Estudio pequeño (n=5).",
+                    "guid": "Tmr2pjIKUHoLXnDCZUSiqA",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "• No encontró evidencia de eficacia (supervivencia GR marcados con 51Cr sin cambios en 4/5).",
+                    "guid": "W7CrJXHGes1yI-4aPYdCmQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "116",
+                "parent": "108",
+                "text": "◊ **Gil-Fernández JJ\net al. (2013)** ★",
+                "guid": "ZmtCPE0RGS10jzAjOvKZvQ",
+                "children": [
+                  {
+                    "id": "117",
+                    "parent": "116",
+                    "text": "• Estudio pequeño (n=17).",
+                    "guid": "KLQxD1bxEmlE-AvTK9dS3w",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "116",
+                    "text": "• No encontró evidencia de eficacia.",
+                    "guid": "PFac7WNs_SkWVrP8D1z9vw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "119",
+            "parent": "104",
+            "text": "› Tratamientos Estándar de AHAI\n(Contexto) ★",
+            "guid": "AY-ODFvBMfpmsvHjcurRuw",
+            "children": [
+              {
+                "id": "120",
+                "parent": "119",
+                "text": "◊ AHAI Caliente (WAIHA): **Corticoides** (1ª línea), **Rituximab** (2ª línea, off-label).",
+                "guid": "WTqqeDkqMWMc_6twfugDag",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "119",
+                "text": "◊ Enfermedad por Aglutininas Frías (CAD): **Rituximab** (solo o + **Bendamustina**); Corticoides poco eficaces.",
+                "guid": "evEucyLx4j9ZlmSLSVwlGQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "122",
+            "parent": "104",
+            "text": "› Gravedad y Pronóstico\nde AHAI Severa",
+            "guid": "VPwyuWT01U0uoMfCMKzd3w",
+            "children": [
+              {
+                "id": "123",
+                "parent": "122",
+                "text": "◊ Alta mortalidad a corto plazo en UCI: 13% **(Pouchelon C et al., 2021)**.",
+                "guid": "VrtQGiDEtdxuNCB4PSaSVg",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "122",
+                "text": "◊ Mortalidad a 1 año: 30% **(Fattizzo B et al., 2015)**.",
+                "guid": "bdXPCWLDUJx4GSwTFooAGA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "104",
+            "text": "› Limitaciones del Estudio Actual\n**(Reconocidas por los autores)**",
+            "guid": "ObRjBT0RN-dCYVL3dgr_8g",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "◊ Diseño retrospectivo y no controlado (riesgo de datos faltantes, sesgo de memoria).",
+                "guid": "IH41EFi4BvQFZ_2xIg3DHA",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "◊ Población específica: Pacientes con AHAI grave, alta tasa de AHAI mixta, uso frecuente de terapias concomitantes.\n⇄ Dificulta aislar efecto de IVIg y generalizar resultados.",
+                "guid": "NHk47mwa75QU-JTYDbPjZg",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "125",
+                "text": "◊ Tamaño muestral relativamente pequeño (n=34). ⇄ Pudo limitar poder para detectar otros factores predictivos (ej. patrón TAD, subtipo AHAI).",
+                "guid": "JUUg9zH4QEgMm-bQIDZPaw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 129,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "Paper. Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto-2025",
+  "id": "map_1427",
+  "resolved_references": []
+}

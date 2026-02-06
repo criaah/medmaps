@@ -1,0 +1,758 @@
+{
+  "title": "Validez de una investigación",
+  "guid": "4C94C0315FB2FBA1DB2C025F",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Bioestadística/3. Validez de una investigación-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Validez de una\ninvestigación",
+    "guid": "8de-P-HjJx3QPwzbJdv5uQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Validez",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "1. Definición",
+            "guid": "dnaDEglkSgApiaeGYrbDbg",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "→ Evalúa si los resultados son representativos y aplicables a diferentes poblaciones.",
+                "guid": "JBKV0nWktwh3SseBquDF4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "2. Aspectos Clave",
+            "guid": "mkIu3iApF_JoqGoUUHLfuA",
+            "children": [
+              {
+                "id": "5",
+                "parent": "4",
+                "text": "2.1. Validez\nInterna",
+                "guid": "oI-CeHrnwmsGK0V4s2DxFg",
+                "children": [
+                  {
+                    "id": "6",
+                    "parent": "5",
+                    "text": "→ Resultados fiables dentro del estudio.",
+                    "guid": "Za_TxcyaRMWhOKRqMKfYng",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "5",
+                    "text": "→ Libre de error sistemático.",
+                    "guid": "7CX4D75wmK6UCNBPwhAbrg",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "5",
+                    "text": "→ Incluye selección de participantes y diseño metodológico para evitar sesgos.",
+                    "guid": "6vmelElW0hfH-tyf9hhSpA",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "5",
+                    "text": "→ Determina la calidad de las conclusiones.",
+                    "guid": "xrkznq4QXna8BwZESgHPtw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "10",
+                "parent": "4",
+                "text": "2.2. Validez\nExterna",
+                "guid": "afcx0I4Jqd9ce4EIP6Ku_Q",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "→ Generalización de los resultados.",
+                    "guid": "pwaBrQQNwBiiYA2D7Ji_2w",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "→ Relacionada con la validez interna y muestreo adecuado.",
+                    "guid": "A9yTSB5E6TKHZaZOc0C6tg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "3. Importancia",
+            "guid": "rJyuzQ2Gi0i3A_hVAMp5uQ",
+            "children": [
+              {
+                "id": "14",
+                "parent": "13",
+                "text": "→ Avanza el conocimiento verdadero sobre un fenómeno.",
+                "guid": "AWf4wTNtdHB3QUntVlZ_zA",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "13",
+                "text": "→ Esencial para obtener resultados confiables.",
+                "guid": "9-DAKD0EbrxWok2iplPFrw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "4. Metodología\nde Trabajo",
+            "guid": "imoCW2pjAhF0XpDoUNUPWw",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "→ Funciona como “anteojos” para interpretar resultados.",
+                "guid": "xG0p0zFVO-3v84J5I2mZvw",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "→ Una metodología inadecuada distorsiona los resultados.",
+                "guid": "HfAoDiSlccLSHpGOR4WbNQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "parent": "1",
+            "text": "5. Relación entre\nValidez y Error",
+            "guid": "BIxHExIG3w5rSZXTFJkaMQ",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "5.1. Validez",
+                "guid": "gVRRZH3DOIC1xX0_CPjnYA",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "→ Mide la precisión de los métodos para acercarse a la verdad.",
+                    "guid": "o0wLj4IGYoj1FI9N1oQGIg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "parent": "19",
+                "text": "5.2. Error",
+                "guid": "rHmzEFRzAk2LmyLlz9d9uA",
+                "children": [
+                  {
+                    "id": "23",
+                    "parent": "22",
+                    "text": "→ Resultados falsos o equivocados en la medición.",
+                    "guid": "NhVfNvFqE0vRZLaeL6kEXg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "24",
+                "parent": "19",
+                "text": "→ ↑ Validez → ↓ Error.",
+                "guid": "loLWiRYpUbLC9D8gZzrNmQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "parent": "1",
+            "text": "6. Tipos\nde Error",
+            "guid": "RWerjbj3H10xLE1lsmyM2g",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "6.1. Error\nAleatorio",
+                "guid": "dFjtu_QqjwhZxLhRbql4ZQ",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "→ Explicado por el azar.",
+                    "guid": "TtOySw8FIq9Lf_604T-qdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "→ Refleja la variación normal entre individuos.",
+                    "guid": "mM78enm9NAwZyxBjJK0Csw",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "26",
+                    "text": "→ Corregible con fórmulas matemáticas.",
+                    "guid": "J-d5ec20hqEB6E0EGTt2Gw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "30",
+                "parent": "25",
+                "text": "6.2. Error Sistemático\n(Sesgo)",
+                "guid": "WZxDqGrIxi3HI2C-j2zTYg",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "→ Controlable, repetido en una dirección.",
+                    "guid": "CSiffLnTyEMmNKunWcAqIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "30",
+                    "text": "→ Mayor impacto negativo en la validez.",
+                    "guid": "GetidUhimKDy23QswKNaSg",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "30",
+                    "text": "→ Ocurre en cualquier etapa de la investigación.",
+                    "guid": "gmCySUAyxEQ4Hco4S-UK0g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "parent": "1",
+            "text": "7. Fuentes\nde Sesgo",
+            "guid": "sp9fjGZ9FdbbyzkgpoudRA",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "→ Diferencias en métodos de medición, características del instrumento\n(ej. tamaño del manguito).",
+                "guid": "y-5hM9KeIA4ed8BGm05bmw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "parent": "1",
+            "text": "8. Tipos\nde Sesgo",
+            "guid": "uJXSuFkJhFfPillh9InN4A",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "→ Sesgo de Selección",
+                "guid": "Z8hVzHRhSLJbNt55Wu8I2w",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "→ Sesgo de Medición",
+                "guid": "8OWxh6UsIowzP4idGzuHbQ",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "36",
+                "text": "→ Confusión",
+                "guid": "R0lS76yEqKOyHxrLLg7cVw",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "36",
+                "text": "→ Azar",
+                "guid": "V1_xKUUDKQ3pu9dYUMJu0A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "1",
+            "text": "9. Rigurosidad\nMetodológica",
+            "guid": "F6qc54op1RMVf3pGWACClw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "→ Esencial para evitar inducir respuestas.",
+                "guid": "qtTT7pUcib76fUBL8SXXrQ",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "→ Considerar limitaciones de los instrumentos.",
+                "guid": "lSg61mgoyfjSZrgKYyUIjA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "1",
+            "text": "10. Variabilidad\ny Sesgo",
+            "guid": "DDfRTq5AciUxo-287TZufg",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "→ Variación inherente a los sujetos.",
+                "guid": "xlX-uPOaNG4prL5FwVqcMg",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "44",
+                "text": "→ Mayor desviación de la medición real → ↑ Sesgo.",
+                "guid": "qhCFipWHWOGI3MYQ5-7Epg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "1",
+            "text": "11. Estudios con\nMenor Sesgo",
+            "guid": "j2-M3Isc4xldI-tx9VOvUg",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "→ Experimentales y aleatorizados → menor sesgo, mayor validez interna.",
+                "guid": "5vvW0Gvq4rcAoJTXjX3fmw",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "→ Observacionales → mayor sesgo, menor validez.",
+                "guid": "gedE2rFMKVWQRnoMt2CGtg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "1",
+            "text": "12. Importancia de\nla Planificación",
+            "guid": "0LaWJK05wAyEqP1wCNrwBg",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "→ Fase clave para minimizar\nsesgo y asegurar validez.",
+                "guid": "jlms1hhQcv5KTbOHQU6c9g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "parent": "1",
+            "text": "13. Ejemplos",
+            "guid": "09pJiNiITcHheEVeiloYbw",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "→ Estudio sobre COVID-19 y enfermedades cardiovasculares retractado por problemas metodológicos.",
+                "guid": "Qq6MnlJgKAP2H-H0EsLTWQ",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "52",
+                "text": "→ Estudios recientes sobre uso de cloroquina y factores de riesgo cardiovascular.",
+                "guid": "x6G6RPLar9t4SyZHq1EaNA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "parent": "0",
+        "text": "Conceptos Clave de\nInvestigación Científica",
+        "guid": "",
+        "children": [
+          {
+            "id": "56",
+            "parent": "55",
+            "text": "1. Errores en la\nInvestigación",
+            "guid": "",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "→ Error Aleatorio",
+                "guid": "FVYw1yOME_r02NhcDGI98Q",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "→ Biología/población",
+                "guid": "9Bz6h4d61AdhgMochwXxag",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "→ ↑ Tamaño muestra = ↑ Representatividad",
+                "guid": "jrSCbKF3g3NU3VWaXhcylA",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "56",
+                "text": "→ Error Sistemático (Sesgo)",
+                "guid": "DTrt-mb-twUUWqSgEDMXcQ",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "56",
+                "text": "→ Fallos en metodología, no corregibles por ↑ muestra.",
+                "guid": "3C0jyGw36g4zzid7zkylDg",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "56",
+                "text": "→ Sub/sobreestimación de resultados.",
+                "guid": "rV4tRwZgC9Wg_JA8XPlVjw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "55",
+            "text": "2. Tipos\nde Sesgo",
+            "guid": "rY2bUkcAt1abfimLI5D9kA",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "→ Sesgo de Selección",
+                "guid": "seGAdXW4KEKzue-RbIkv1A",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "→ Muestra no representativa.",
+                "guid": "B8dJK8OMN6Vhvp4eCQMqWw",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "→ Afecta estudios de casos-controles, retros, prevalencia, encuestas.",
+                "guid": "B8toX29Io_GId5N3l_u1gQ",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "63",
+                "text": "→ Sesgo de Información",
+                "guid": "8fYcHAtMI5WncpVnvXWRHA",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "63",
+                "text": "→ Error en recolección/registro/interpretación.",
+                "guid": "UORi2lTMOXL0n7rMIMJtUQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "63",
+                "text": "→ Problemas de medición, falta de enmascaramiento.",
+                "guid": "sTLWqG_Z7s-zzckim2FmsA",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "63",
+                "text": "→ Sesgo de Confusión",
+                "guid": "1qiqrSOGE0WvoolUi1aqbA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "63",
+                "text": "→ Variables extrañas alteran relación entre variables de interés.",
+                "guid": "THgFSL0FU6DPbgIaRC0vhA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "55",
+            "text": "3. Importancia del\nControl de Sesgos",
+            "guid": "vV_fWv021mnoxAzOMorodQ",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "→ Revisores evalúan metodología buscando sesgos.",
+                "guid": "RuHaMQ5VYCpRsuVLNyMSxQ",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "→ Validez depende de metodología adecuada.",
+                "guid": "vjIZr3IrFWFJehULjQNT1Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "55",
+            "text": "4. Estrategias para\nMinimizar Sesgos",
+            "guid": "J-0mGg5sv_JrVH1qhBRXoA",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "→ Planificación:",
+                "guid": "jL6v1zwGvBlWigl_sx_K5A",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "• Objetivos claros.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "• Muestreo adecuado.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "76",
+                    "text": "• ↓ Pérdidas de seguimiento.",
+                    "guid": "VEjCKkSOwNSuXT5XoSHc5g",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "76",
+                    "text": "• Asignación aleatoria de grupos.",
+                    "guid": "CEdeqntuC2QaoY4UIr-6IA",
+                    "children": []
+                  },
+                  {
+                    "id": "81",
+                    "parent": "76",
+                    "text": "• Instrumentos válidos/confiables.",
+                    "guid": "vtDiGZCLpPaE4KoBd-hWtA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "82",
+                "parent": "75",
+                "text": "→ Desarrollo:",
+                "guid": "YWNVnDJTXKXPQhEWG0axKw",
+                "children": [
+                  {
+                    "id": "83",
+                    "parent": "82",
+                    "text": "• Auditorías internas para detectar incoherencias.",
+                    "guid": "ZnWfJ_s5mW-1GyvvVxl2Rg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "75",
+                "text": "→ Finalización:",
+                "guid": "zY4HQdBtXItyNNsGr15ASw",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• Corrección estadística de sesgos.",
+                    "guid": "OvQliQzloitt4I8TITYcbw",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "• Interpretar resultados considerando sesgos.",
+                    "guid": "Mcohc2XKxE6bx9G5BHrstA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "parent": "55",
+            "text": "5. Sesgos\nEspecíficos",
+            "guid": "hoy93OIu2_Hx8xlCCqj0ug",
+            "children": [
+              {
+                "id": "88",
+                "parent": "87",
+                "text": "→ Sesgo de Bergson (Admisión/Diagnóstico)",
+                "guid": "OBtK1t-z2FBcXupdw3PbaA",
+                "children": []
+              },
+              {
+                "id": "89",
+                "parent": "87",
+                "text": "→ Sesgo de Neyman (Prevalencia)",
+                "guid": "v_Ij_Pjm3GTyLlqvCA5fvQ",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "87",
+                "text": "→ Sesgo de Respuesta del Voluntario",
+                "guid": "wFN5Xqt9v68cT6YE8pVK8Q",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "87",
+                "text": "→ Sesgo de Membresía/Pertenencia",
+                "guid": "ZBnelHKURTwTdRYjtCve_g",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "87",
+                "text": "→ Sesgo de Procedimiento de Selección",
+                "guid": "JMNcvBkoxR2Yt6gIgZFTVA",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "87",
+                "text": "→ Sesgo por Pérdidas de Seguimiento",
+                "guid": "UMxUvgxP3WjJ2MdBu9qv9Q",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "87",
+                "text": "→ Sesgo de Información/Misión",
+                "guid": "DpzJIN5GaP9tQvg9ov-FWw",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "87",
+                "text": "→ Clasificación Errónea de la Exposición",
+                "guid": "PtxKvDqyRqEFaKig80ngqQ",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "87",
+                "text": "→ Sesgo de Memoria",
+                "guid": "4M0S_-VzaAdEJl9lJTnYoQ",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "87",
+                "text": "→ Sesgo del Entrevistador",
+                "guid": "kd73zOQV2KdO2OjTE7uzTw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "parent": "55",
+            "text": "6. Estrategias\nAdicionales",
+            "guid": "e97PtHhROoWnlIfVtyaHOw",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "→ Biomarcadores: Detectan exposición.",
+                "guid": "TbsZ2GLWDhwTjWEsRUFeWQ",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "98",
+                "text": "→ Estudios a Ciego: Entrevistador desconoce desenlace.",
+                "guid": "7QUEInhU5JgiyQPV7g-SLg",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "98",
+                "text": "→ Planificación Exhaustiva: Identificación y control de sesgos desde el inicio.",
+                "guid": "lQx0PzRo1Q4NAgKNXBt7kQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 102,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Bioestadística",
+  "filename": "3. Validez de una investigación-2024",
+  "id": "map_349",
+  "resolved_references": []
+}

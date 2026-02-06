@@ -1,0 +1,85 @@
+{
+  "title": "PODCAST (2019)",
+  "guid": "PODCAST-2019",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/PODCAST-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PODCAST (2019)\nPrevention of Delirium and\nComplications Associated\nwith Surgical Treatments\n\\n⭐ BIS guiado (40-60) NO reduce\\ndelirium postoperatorio vs\\nanestesia convencional",
+    "guid": "PODCAST-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Wildes TS et al.\nAño: 2019\nRevista: Br J Anaesth\nDOI: 10.1016/j.bja.2018.12.021\n\\nDiseño: RCT multicéntrico\\nUSA (3 centros)\\nn = 1,232 pacientes\\nSeguimiento: 30 días",
+        "guid": "PODCAST-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Wildes TS et al. Br J Anaesth 2019\\n   DOI: 10.1016/j.bja.2018.12.021\\n\\n2. CODA Trial. Lancet 2018\\n   BIS sí redujo delirium\\n\\n3. AGS Guidelines POD 2015\\n   Prevención multimodal",
+            "guid": "PODCAST-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusión:\\n• Edad mayor o igual 60 años\\n• Cirugía mayor no cardíaca\\n• Anestesia general\\n• Alto riesgo delirium\\n\\nCaracterísticas:\\n• Edad media: 69 años\\n• ASA III-IV: 60%\\n• Cirugía abdominal, ortopédica\\n• Factores riesgo delirium",
+        "guid": "PODCAST-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo BIS-guiado:\\n• Monitoreo profundidad anestesia\\n• Meta BIS 40-60\\n• Evitar anestesia profunda\\n• n = 614\\n\\nGrupo Convencional:\\n• Anestesia según práctica habitual\\n• Sin BIS visible\\n• n = 618\\n\\nHipótesis:\\n• Evitar anestesia profunda\\n  reduciría delirium",
+        "guid": "PODCAST-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nDelirium postoperatorio (1rio):\\n• BIS-guiado: 26.0%\\n• Convencional: 23.0%\\n• OR 1.13 (IC95% 0.86-1.50)\\n• Sin diferencia (NS) ✗\\n\\nDías con delirium:\\n• Sin diferencia\\n\\nEstadía hospitalaria:\\n• Sin diferencia\\n\\nMortalidad 30 días:\\n• Sin diferencia\\n\\nConclusión: NEGATIVO",
+        "guid": "PODCAST-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "🔍 POR QUE NEGATIVO\n\\nPosibles razones:\\n• Delirium multifactorial\\n• Anestesia es solo 1 factor\\n• BIS en grupo control no tan alto\\n• Población heterogénea\\n\\nDiferencia con estudios previos:\\n• CODA: BIS redujo delirium\\n• Pero meta-análisis mixtos\\n\\nFactores más importantes:\\n• Edad, comorbilidades\\n• Dolor postoperatorio\\n• Alteración sueño\\n• Fármacos anticolinérgicos",
+        "guid": "PODCAST-WHY",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT grande bien diseñado\\n✓ Multicéntrico\\n✓ Población de riesgo\\n✓ Evaluación delirium rigurosa\\n\\nLimitaciones:\\n• Abierto para anestesiólogo\\n• BIS no muy diferente entre grupos\\n• Heterogeneidad cirugías\\n\\nImplicancia:\\n• BIS solo no es la solución\\n• Enfoque multimodal necesario",
+        "guid": "PODCAST-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐ Importante saber\n\\nMensaje:\\n• BIS aislado no previene delirium\\n• No confiar solo en tecnología\\n\\nEnfoque correcto:\\n• Prevención multimodal\\n• HELP perioperatorio\\n• Evitar anticolinérgicos\\n• Manejo dolor\\n• Movilización precoz\\n\\nNo abandonar BIS:\\n• Útil para evitar awareness\\n• Parte del bundle, no solución",
+        "guid": "PODCAST-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. BIS solo NO previene delirium:\n   enfoque simplista no funciona\n\\n2. Delirium es MULTIFACTORIAL:\n   anestesia es solo 1 factor\n\\n3. 26% vs 23%:\n   sin diferencia clínica\n\\n4. Prevención multimodal:\n   HELP bundle perioperatorio\n\\n5. Evitar anticolinérgicos:\n   más importante que BIS\n\\n6. Dolor = factor mayor:\n   analgesia multimodal\n\\n7. Movilización precoz:\n   evidencia más fuerte\n\\n8. BIS útil para awareness:\n   no para delirium",
+        "guid": "PODCAST-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "PODCAST-2026",
+  "id": "map_330",
+  "resolved_references": []
+}

@@ -1,0 +1,2360 @@
+{
+  "title": "GLUCOCORTICOIDES (GC)",
+  "guid": "3AF8C92F1C86B90C276AEC0C",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Endocrinología/Arteaga | Glucocorticoides-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "GLUCOCORTICOIDES\n(GC)",
+    "guid": "e_B_1ApLwssA9jmnJzVBtw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "├─ DEFINICIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "│ └─ Esteroide → unión receptor nuclear específico (1)",
+            "guid": "J9yNP2GhXBcqUjaPYXYcbA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "├─ SÍNTESIS",
+        "guid": "",
+        "children": [
+          {
+            "id": "4",
+            "parent": "3",
+            "text": "│ └─ Biosíntesis cortisol",
+            "guid": "YW9CwmuCc_U3wwxaHLM7Wg",
+            "children": [
+              {
+                "id": "5",
+                "parent": "4",
+                "text": "│    └─ Corteza suprarrenal → colesterol + enzimas",
+                "guid": "fKSMsTGMSF9NMrRycNacvQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "3",
+            "text": "├─ TIPOS",
+            "guid": "SeqqKEK8mktImq-lRdsp_Q",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "│ ├─ GC Naturales",
+                "guid": "TQhdFkmQ6UxtEGu0eQMS1w",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "│ └─ GC Sintéticos",
+                "guid": "FzPQ4HyJKCIkbSjhPxBeIA",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "│    ├─ ↑ potencia glucocorticoidea",
+                    "guid": "XiqEOU6_X3EghnqMHJcDEQ",
+                    "children": [
+                      {
+                        "id": "10",
+                        "parent": "9",
+                        "text": "│    │ └─ Causas: ↑vida media + ↑afinidad receptor + ↓depuración plasmática",
+                        "guid": "dE9rgXaCosAs1ij0Vb6uQw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "11",
+                    "parent": "8",
+                    "text": "│    └─ Activación",
+                    "guid": "YgUWtWSZNU9ycemeXqmjZg",
+                    "children": [
+                      {
+                        "id": "12",
+                        "parent": "11",
+                        "text": "│        └─ Hidroxilación hepática → cortisol/prednisolona",
+                        "guid": "FiV9rj-knhBPgEAkZ5GFmw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "parent": "0",
+        "text": "├─ FISIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "14",
+            "parent": "13",
+            "text": "│ ├─ Regulación\nsecreción cortisol",
+            "guid": "OHK7rVFb-NpeXFMvBXsYww",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "│ │ ├─ Ritmo circadiano (CRH hipotalámico)",
+                "guid": "GuziJ0tsvuN-fiubMiCzBw",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "│ │ ├─ Feedback (-) ACTH y CRH",
+                "guid": "R_XnBiLrVHxxMREnJiBrPw",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "14",
+                "text": "│ │ └─ Respuesta estrés/dolor",
+                "guid": "caqz7RG3i7NCt25QZfofbg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "13",
+            "text": "│ ├─ Metabolismo",
+            "guid": "VCbMlC4qt1BI6OiPakxKQg",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "│ │ ├─ Lugar: hígado",
+                "guid": "bc9VYBhpKLNR3c_ePGXUag",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "18",
+                "text": "│ │ └─ Excreción: renal (2)",
+                "guid": "Dh9KFlqfGRNU5v2cRpIFww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "parent": "13",
+            "text": "│ ├─ Unión proteínas",
+            "guid": "frAPrkqLSiJ5CKccRqX2tA",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "│ │ ├─ 90% → CBG",
+                "guid": "bXaenmo5uENsxmH0XyFSjA",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "21",
+                "text": "│ │ ├─ 10% → albúmina",
+                "guid": "e_FD9y990ERFG3H6BCtyag",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "21",
+                "text": "│ │ └─ Fracción libre = biológicamente activa",
+                "guid": "HwtniQDUP6xuareTczI0HQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "parent": "13",
+            "text": "│ └─ Receptores",
+            "guid": "T7zI1i9cTj5ZNCDHXdwS7A",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "│     ├─ GR (receptor GC)",
+                "guid": "CftnUS4bHmMkbhiwNfZ5Pg",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "25",
+                "text": "│     └─ MR (receptor mineralocorticoide)",
+                "guid": "YV5vLnB7Nzd83m1TYA5-3A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "parent": "0",
+        "text": "└─ USO CLÍNICO",
+        "guid": "",
+        "children": [
+          {
+            "id": "29",
+            "parent": "28",
+            "text": "├─ Indicación → antiinflamatorios potentes",
+            "guid": "YCDMshN614UHnnKDXBIQqQ",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "28",
+            "text": "└─ Efectos adversos",
+            "guid": "QvinyUy55H5gPYMUYgQPUw",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "└─ Tto prolongado/dosis ↑ → supresión eje HHS",
+                "guid": "TY4kKk6oOqdVNkNwfI0bJw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "├─ REGULACIÓN\nRECEPTOR MR",
+        "guid": "",
+        "children": [
+          {
+            "id": "33",
+            "parent": "32",
+            "text": "│ ├─ 11βHSD2 → inactiva cortisol a cortisona",
+            "guid": "HEbhzjOgGkhQ-0-8Xz-JmA",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "32",
+            "text": "│ └─ Exceso cortisol (endógeno/exógeno) → sobrepasa capacidad enzimática → activa MR",
+            "guid": "AFn-xjE40tBBQ5jrTegi8Q",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "├─ CLASIFICACIÓN GC",
+        "guid": "SS6eLGPQpZxblYvjKz-uOg",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "│ ├─ Origen: naturales/sintéticos",
+            "guid": "VmAt5w8qQnAXTCWadwrUlQ",
+            "children": []
+          },
+          {
+            "id": "37",
+            "parent": "35",
+            "text": "│ ├─ Vida media",
+            "guid": "Zy0RrjlPFjh5E-pxL6sYIg",
+            "children": []
+          },
+          {
+            "id": "38",
+            "parent": "35",
+            "text": "│ ├─ Tiempo acción: corto/intermedio/prolongado",
+            "guid": "WDB0KVsrfykzL5_wbPjmiQ",
+            "children": []
+          },
+          {
+            "id": "39",
+            "parent": "35",
+            "text": "│ └─ Potencia: gluco/mineralocorticoide",
+            "guid": "Y_eJc18xR7Vh4iWbAD5rQQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "├─ EFECTOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "41",
+            "parent": "40",
+            "text": "│ ├─ Metabólicos",
+            "guid": "ZBZIJyDBjcRhE4O1Y_dVnw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "│ │ ├─ ↑ gluconeogénesis",
+                "guid": "NztqICuIwc1p1D3hAGoITA",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "│ │ └─ ↓ secreción insulina",
+                "guid": "D1lnaUVpycQrqbaGZbmVUA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "40",
+            "text": "│ ├─ Catabólicos",
+            "guid": "fETyWFXYVFZrbDYFVHVmgQ",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "│ │ ├─ Lípidos",
+                "guid": "MQPTfx6b1fVBbk0KFPtc8g",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "44",
+                "text": "│ │ ├─ Músculos",
+                "guid": "fc0dqiNQcqYVOcg0EJ5_pw",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "44",
+                "text": "│ │ └─ Huesos",
+                "guid": "Vi3n_XS3vQ0jyeBrOkQwJQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "40",
+            "text": "│ └─ Sistema inmune (3)",
+            "guid": "MGYl7QgPw6VNHr0-P7-NVg",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "│     ├─ ↓ migración células inflamatorias",
+                "guid": "TXmNaXjIc8QleSKmIg2ZnQ",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "│     ├─ ↓ producción linfocitos",
+                "guid": "O75P5QI9jItdzreAOANCPQ",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "48",
+                "text": "│     └─ ↓ síntesis: prostaglandinas + IL-6 + TNF-α",
+                "guid": "WBXg4Uk67YUMeKi_CRm0YQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "└─ TERAPIA CRÓNICA",
+        "guid": "",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "├─ Factores riesgo\ncomplicaciones",
+            "guid": "cTdobzNO2Yd2QmDLR2VQbQ",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "│ ├─ Dosis",
+                "guid": "KAaWlRoMQTcBqYCSPX_hZw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "│ ├─ Vía administración (oral = ↑riesgo)",
+                "guid": "HumlVx_lBlYKNJZZT0_LRQ",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "│ ├─ Duración tratamiento",
+                "guid": "J_TJ-1dTU5cPD1ibdW5XZA",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "53",
+                "text": "│ ├─ Condición paciente",
+                "guid": "UBvHWzSIe0IXe_EBC9oXQA",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "53",
+                "text": "│ └─ Interacciones farmacológicas",
+                "guid": "NsYHzXVKqIFD3Vl-Dtvorw",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "53",
+                "text": "└─ Esquema días alternos (4-8)",
+                "guid": "Hjz4BjYKrmMMADqkD3Rgdg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "52",
+            "text": "├─ Ventaja: ↓supresión eje H-H-S",
+            "guid": "aVmH6wJCm3BW2bDjEWAegA",
+            "children": []
+          },
+          {
+            "id": "61",
+            "parent": "52",
+            "text": "└─ Desventaja: ↓eficacia algunas patologías",
+            "guid": "HE7cp1iDMXVO3__nOziB_g",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "parent": "0",
+        "text": "CLASIFICACIÓN Y\nEFECTOS GC",
+        "guid": "",
+        "children": [
+          {
+            "id": "63",
+            "parent": "62",
+            "text": "├─ TIPOS GC\n(según duración)",
+            "guid": "IJEkLiu3rq0Hc-I0Ps4cNA",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "│ ├─ Acción corta",
+                "guid": "YcJdERN0HNhOQnyqSxvk_A",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "│ │ ├─ Cortisol: 20mg = potencia 1 (GC/MC) → VM 80min → Acción 8-12h",
+                    "guid": "Fba4SCUcLY1cfAN8MgWU7w",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "64",
+                    "text": "│ │ └─ Cortisona: 25mg = potencia 0.8 (GC/MC) → VM 80min → Acción 6-12h",
+                    "guid": "fZ9fAitcA2NtPhbudgeWzQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "63",
+                "text": "│ ├─ Acción intermedia",
+                "guid": "BHCZo3fGZDEWZJiTNNiDeg",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "│ │ ├─ Prednisona/prednisolona: 5mg = potencia GC 4/MC 0.25 → VM 60min → Acción 12-36h",
+                    "guid": "EV4KECwv8b01XDSsX34rMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "│ │ └─ Metilprednisolona: 4mg = potencia GC 4 → VM 200min → Acción 12-36h",
+                    "guid": "WXc76UG5_R9kZFQgfAkulg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70",
+                "parent": "63",
+                "text": "│ └─ Acción prolongada",
+                "guid": "EfUfEHgmZb1dILdJMoZDPg",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "│   ├─ Betametasona: 0.6mg = potencia GC 25 → VM 300min → Acción 36-72h",
+                    "guid": "I94Ua2SUmX1xVF9zBaBxfA",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "│   └─ Dexametasona: 0.5mg = potencia GC 30 → VM 300min → Acción 36-72h",
+                    "guid": "eAi2Vj-W3B1QvFZ4Db9ung",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "parent": "62",
+            "text": "└─ EFECTOS\nPOR SISTEMAS",
+            "guid": "ZLMJqy04WfQ_xQOOYlJorQ",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "├─ Metabolismo glúcido",
+                "guid": "WJRdVy0DGnxYWf97XQT2-g",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "│ ├─ Normal: mantiene glicemia ayuno/estrés",
+                    "guid": "JMl-rW6-mA4R3Xp0NieIvg",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "│ └─ Exceso: resistencia insulina → DM",
+                    "guid": "Gu6JzEc5ryAVpbPvdGXFtQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "77",
+                "parent": "73",
+                "text": "├─ Páncreas",
+                "guid": "GaOkIHexbZRFX7x4cjgBdw",
+                "children": [
+                  {
+                    "id": "78",
+                    "parent": "77",
+                    "text": "│ ├─ Normal: ↓secreción insulina",
+                    "guid": "JLSIEB25u_NPPPhxSX4Gvg",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "77",
+                    "text": "│ └─ Exceso: disfunción células β → hipoinsulinemia",
+                    "guid": "DHhUAWEacuV_pY98J2bdzQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80",
+                "parent": "73",
+                "text": "├─ Hígado",
+                "guid": "KFQiBRVLQ2sbzKOCMUfORQ",
+                "children": [
+                  {
+                    "id": "81",
+                    "parent": "80",
+                    "text": "│ ├─ Normal: ↑enzimas gluconeogénicas",
+                    "guid": "D1VLeww7l81MMJmWAYW5SA",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "80",
+                    "text": "│ └─ Exceso: ↑glucosa + glucógeno + hígado graso",
+                    "guid": "WctDYhmfqCUXlDuAC--IdA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83",
+                "parent": "73",
+                "text": "├─ Tejido\ngraso/muscular",
+                "guid": "WGMWJzNDLzQ2HIPcVr1gRg",
+                "children": [
+                  {
+                    "id": "84",
+                    "parent": "83",
+                    "text": "│ ├─ Normal: ↑ácidos grasos/aminoácidos → gluconeogénesis",
+                    "guid": "H655YG4I7eI5yrQROVIdgA",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "83",
+                    "text": "│ └─ Exceso: obesidad central\n+ debilidad muscular",
+                    "guid": "Zbpbd38qcIkrih73Cm7jhw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86",
+                "parent": "73",
+                "text": "├─ Sistema inmune",
+                "guid": "eMuZmwGuFC55uMHwUpbc_Q",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "│ ├─ Normal",
+                    "guid": "G028UxFM_XBehmVxc7DSeg",
+                    "children": [
+                      {
+                        "id": "88",
+                        "parent": "87",
+                        "text": "│ │ ├─ ↓proliferación monocitos",
+                        "guid": "RJAspBSi6U1KbjLAZD6mBA",
+                        "children": []
+                      },
+                      {
+                        "id": "89",
+                        "parent": "87",
+                        "text": "│ │ ├─ ↓IL-1/IL-6/TNF-α",
+                        "guid": "AqvXLwQ45tEdkMOEaGYypg",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "87",
+                        "text": "│ │ └─ ↓inflamación",
+                        "guid": "A2NXWkka4nty1RYuIEeD1g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "parent": "86",
+                    "text": "│ └─ Exceso: inmunosupresión + linfopenia",
+                    "guid": "Q-H540bCAHNJpARUH8OEMA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92",
+                "parent": "73",
+                "text": "├─ Eje HHS",
+                "guid": "GlR6NRpnYp8j-TCCAzI3Yg",
+                "children": [
+                  {
+                    "id": "93",
+                    "parent": "92",
+                    "text": "│ ├─ Normal: ↓opioides\n+ ↓FSH/LH/GnRH",
+                    "guid": "BvdkbFl2qxp7ZUAKf8L-Bw",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "92",
+                    "text": "│ └─ Exceso: alteraciones menstruales",
+                    "guid": "WyS_SHUeAfpSWdsEdnJ7mw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95",
+                "parent": "73",
+                "text": "└─ Otros sistemas",
+                "guid": "Bmr_ajDgQHVqI04VSvssDg",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "├─ Renal: ↓Ca++ → hiperparatiroidismo 2º",
+                    "guid": "RYMpwjSRgNYvOdISSC8A8g",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "├─ Cardiovascular: ↑contractilidad → HTA",
+                    "guid": "OMpnp0zKlZYwlTOYPC2_Ag",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "95",
+                    "text": "├─ Psiquiátrico: euforia/depresión + insomnio",
+                    "guid": "FeV4ESNqScZcdULYWcdx9A",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "95",
+                    "text": "└─ Óseo: ↓colágeno → osteoporosis",
+                    "guid": "aixKOiYZRyx5ivYkBIDEbw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "parent": "62",
+            "text": "├─ COMPROMISO\nÓSEO (5)",
+            "guid": "Xs2MPy7YsR4a0952H042Cg",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "│ ├─ Epidemiología",
+                "guid": "TFzXxCKG2kdmxkRCQ1ephQ",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "│ │ ├─ EA más frecuente",
+                    "guid": "JZ8WIi4BUIIVdzqPHdVT9w",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "│ │ └─ 50% pacientes crónicos → osteoporosis (columna lumbar)",
+                    "guid": "R5Y3xl4JRzQcdpE2Egtffw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "104",
+                "parent": "100",
+                "text": "│ ├─ Factor riesgo",
+                "guid": "Xuk14norA2kYFsC3JIoG1w",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "│ │ └─ Dosis >7.5 mg/d prednisona → ↑riesgo fracturas",
+                    "guid": "AueJcHRVwvEAEE_dLw5ZPQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "100",
+                "text": "│ ├─ Prevención (9)",
+                "guid": "ZDa79WA1UborJcpNMJOTuQ",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "│ │ ├─ Ca++ 1000-1500 mg/d + VitD >800 UI/d",
+                    "guid": "ArwsARHsDo9z6z0_KFtCIw",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "│ │ ├─ Actividad física máxima posible",
+                    "guid": "P-1fEQlid85GMJYaB4OW1w",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "│ │ ├─ No tabaco/alcohol",
+                    "guid": "Z2u_AmKnJ1AZjvZXeCpg8A",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "│ │ ├─ Dosis GC mínima efectiva",
+                    "guid": "SLoh0zuSp1JwL95vJ6NXtQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "106",
+                    "text": "│ │ ├─ Diuréticos tiazídicos si hipercalciuria",
+                    "guid": "Nb2qvAhGnyZMLV6MOKU0LA",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "106",
+                    "text": "│ │ └─ Densitometría anual",
+                    "guid": "fJxiF0w9rmlns41pKaZqGw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "113",
+                "parent": "100",
+                "text": "│ └─ Bisfosfonatos (9,10)",
+                "guid": "DUpSZ2CjyKoWZgjuEAZ-aA",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "│     ├─ Riesgo bajo (<10%)",
+                    "guid": "co_XOgpRRi04YcCLMn02Sw",
+                    "children": [
+                      {
+                        "id": "115",
+                        "parent": "114",
+                        "text": "│     │ └─ Indicación: prednisona >7.5mg/d >3 meses",
+                        "guid": "E7O9-36SVqU6AM0jex98_Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "116",
+                    "parent": "113",
+                    "text": "│     ├─ Riesgo medio (10-20%)",
+                    "guid": "DyJqzGN5vF1Rlvd9ROAViA",
+                    "children": [
+                      {
+                        "id": "117",
+                        "parent": "116",
+                        "text": "│     │ └─ Indicación: GC >3 meses (cualquier dosis)",
+                        "guid": "a8BbhB3EVgl9hUm0aFy9mw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "118",
+                    "parent": "113",
+                    "text": "│     ├─ Riesgo alto (>20%)",
+                    "guid": "Ek3XykeBJhRRcDLnH5gqMQ",
+                    "children": [
+                      {
+                        "id": "119",
+                        "parent": "118",
+                        "text": "│     │ ├─ Indicación: siempre",
+                        "guid": "KCTuvmfWO9UvnqiZGrTF-A",
+                        "children": []
+                      },
+                      {
+                        "id": "120",
+                        "parent": "118",
+                        "text": "│     │ └─ Alternativa: teriparatide (↑costo)",
+                        "guid": "cieCA2gAaSRNMfxEBds__g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "121",
+                    "parent": "113",
+                    "text": "│     └─ Mujeres premenopáusicas",
+                    "guid": "WsKM4XREmupxv92GaeT3rQ",
+                    "children": [
+                      {
+                        "id": "122",
+                        "parent": "121",
+                        "text": "│         └─ Indicación: pérdida ósea >4%/año + prednisona >7.5mg/d >3 meses",
+                        "guid": "V75XR0NW1QMuxQ02Q36yyw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "123",
+            "parent": "62",
+            "text": "├─ NECROSIS ÓSEA\nAVASCULAR CADERA (11)",
+            "guid": "EYMuCD3emB02uu0wI9EF0g",
+            "children": [
+              {
+                "id": "124",
+                "parent": "123",
+                "text": "│ ├─ Población: jóvenes + dosis altas",
+                "guid": "BV--MQgrIBdDaTAELYSs8A",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "123",
+                "text": "│ └─ Diagnóstico: RNM precoz",
+                "guid": "cAFb7XMH2J1IOXLoYijd8A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "126",
+            "parent": "62",
+            "text": "└─ MIOPATÍA (12,13)",
+            "guid": "WwhBwhVrbyxoBB3uQZsBiw",
+            "children": [
+              {
+                "id": "127",
+                "parent": "126",
+                "text": "├─ Clínica",
+                "guid": "HJ44k2j-2uoJZz9Kd2DFdA",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "│ └─ Debilidad simétrica proximal (EESS/EEII)",
+                    "guid": "XUN11HsnHNBhRb0iNQHNHA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "126",
+                "text": "├─ Laboratorio",
+                "guid": "Pn3x1BAKylh4gH_nH5kc4A",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "│ ├─ Enzimas musculares normales",
+                    "guid": "PFUhQiRb8E5qtkxfTdhPSg",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "│ └─ EMG: patrón miopático",
+                    "guid": "YjqIbCFxOY9xqVUdZ5pGnQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "126",
+                "text": "└─ Tratamiento",
+                "guid": "KZxZpzUShSEVHvONGZ21lA",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "├─ ↓dosis GC",
+                    "guid": "KBpdvl1YZnZ7xpOEAyKfgA",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "├─ Ejercicios preventivos",
+                    "guid": "csPVomPKsXJEvaEMD2IONg",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "132",
+                    "text": "└─ Cambio a GC no fluorados\n(prednisona/hidrocortisona)",
+                    "guid": "TMmMXU4k4FYGwtOqKg0CMQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "parent": "0",
+        "text": "OTROS EFECTOS\nADVERSOS GC",
+        "guid": "",
+        "children": [
+          {
+            "id": "137",
+            "parent": "136",
+            "text": "├─ INFECCIONES",
+            "guid": "ODdokHKLNIhUOaMuKvs-Mw",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "│ ├─ Factores riesgo",
+                "guid": "VlXl-xj3RDo6XUxpIx9yWA",
+                "children": [
+                  {
+                    "id": "139",
+                    "parent": "138",
+                    "text": "│ │ ├─ ↓inmunidad celular",
+                    "guid": "ZxwkkEEgIBNNLHSJMGghtw",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "138",
+                    "text": "│ │ └─ ↓función fagocitos/neutrófilos",
+                    "guid": "KSiw4Cw7Q9c4MhCxITwMBA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "141",
+                "parent": "137",
+                "text": "│ ├─ Neumonía\nPneumocystis",
+                "guid": "A8qTDF-VHIxVpIhrf7XSjw",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "│ │ ├─ Riesgo: prednisona >10mg/d",
+                    "guid": "ca50xlflVB1d25p_JTkGkA",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "141",
+                    "text": "│ │ └─ Profilaxis: TMP/SMX\n800/160mg 3x/sem",
+                    "guid": "S8906yObqQwCX_IAdMwa2w",
+                    "children": [
+                      {
+                        "id": "144",
+                        "parent": "143",
+                        "text": "│ │     └─ Indicaciones (14)",
+                        "guid": "a6_HjRocwbdhrVHqQgWtiA",
+                        "children": [
+                          {
+                            "id": "145",
+                            "parent": "144",
+                            "text": "│ │         ├─ Trasplante órganos sólidos/hematológicos",
+                            "guid": "MxQF8hwKnlNlJR_gGjAqgg",
+                            "children": []
+                          },
+                          {
+                            "id": "146",
+                            "parent": "144",
+                            "text": "│ │         ├─ Enfermedades neurológicas asociadas",
+                            "guid": "XSq-ZjJRlGpKmEw5BlNvRg",
+                            "children": []
+                          },
+                          {
+                            "id": "147",
+                            "parent": "144",
+                            "text": "│ │         └─ Enfermedad Wegener",
+                            "guid": "XozYQQLKXOsnj3tLYldrTQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "148",
+            "parent": "136",
+            "text": "├─ GASTROINTESTINALES (8,15)",
+            "guid": "VRlX0z_o2Ft5RvTOIOjMvw",
+            "children": [
+              {
+                "id": "149",
+                "parent": "148",
+                "text": "│ ├─ ↑Riesgo úlcera péptica",
+                "guid": "Y4SBZ3um5s4VtOeaYf8sjg",
+                "children": [
+                  {
+                    "id": "150",
+                    "parent": "149",
+                    "text": "│ │ └─ Factores: +AINE/antecedente sangrado/anticoagulantes",
+                    "guid": "dMt501uYBiMYsUBFYHtBYQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "151",
+                "parent": "148",
+                "text": "│ └─ Prevención: IBP si GC+AINE/factores riesgo",
+                "guid": "dbTH2npeki8igO7pKMjNzA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "152",
+            "parent": "136",
+            "text": "├─ CARDIOVASCULARES (16,17)",
+            "guid": "OfejNA2RRIh5514vGIR7dQ",
+            "children": [
+              {
+                "id": "153",
+                "parent": "152",
+                "text": "│ ├─ ↑Riesgo proporcional a dosis (RR 4.5 dosis altas)",
+                "guid": "EFuhcyF22Xp62-bCcrsa6w",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "152",
+                "text": "│ ├─ Mecanismo: receptores GC+MC",
+                "guid": "HqrdMFzpJJ5GyQkpc8Q1BA",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "152",
+                "text": "│ └─ ↓Riesgo: días alternos/dosis bajas",
+                "guid": "HNH8-kAP_fcUrQHDAFZ-YQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "156",
+            "parent": "136",
+            "text": "├─ DERMATOLÓGICOS (17)",
+            "guid": "BfnvgHsG6zQQ_Z_6e663Wg",
+            "children": [
+              {
+                "id": "157",
+                "parent": "156",
+                "text": "│ ├─ Dosis >5mg/d prednisona",
+                "guid": "dWV9YzN-juMkd4UnC86t5Q",
+                "children": [
+                  {
+                    "id": "158",
+                    "parent": "157",
+                    "text": "│ │ ├─ Adelgazamiento piel",
+                    "guid": "OySdrWdwfXZ_YpzOdRxA4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "157",
+                    "text": "│ │ ├─ Estrías",
+                    "guid": "dQHB_nlJ-v0NoLxWBV1jcg",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "157",
+                    "text": "│ │ ├─ Acné",
+                    "guid": "GsDUdwh8oxh4GH5dOWuxpw",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "157",
+                    "text": "│ │ ├─ Rosácea",
+                    "guid": "ZWXHtz7hh4YtL-arAjfEsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "157",
+                    "text": "│ │ ├─ Telangiectasias",
+                    "guid": "fvGFfUHc6G4CjkMSOqhqQg",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "157",
+                    "text": "│ │ └─ Facies cushingoide",
+                    "guid": "bD7Ry2Tj7gJrKsjbcjjBSw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "164",
+                "parent": "156",
+                "text": "│ └─ ↑Riesgo cáncer piel no melanoma",
+                "guid": "X-rZNnwoaNVt53imVVBWmg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "165",
+            "parent": "136",
+            "text": "├─ OCULARES",
+            "guid": "ec97Q2CBoU1f59ZIbtE9QQ",
+            "children": [
+              {
+                "id": "166",
+                "parent": "165",
+                "text": "│ ├─ Catarata subcapsular posterior",
+                "guid": "WcucSm2Ikp50LqCzdIxwwQ",
+                "children": [
+                  {
+                    "id": "167",
+                    "parent": "166",
+                    "text": "│ │ └─ No relacionada dosis/vía administración",
+                    "guid": "dgU1t2xHHxAt-CJpW2r9bg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "165",
+                "text": "│ └─ Glaucoma",
+                "guid": "KyimllsoCRRdosIfKhosEw",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "│     └─ Riesgo ∝ dosis + susceptibilidad genética",
+                    "guid": "HQTxg2AxBTFkwpZWCUPDTg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "parent": "136",
+            "text": "├─ SNC (18-20)",
+            "guid": "RRTzM0_tXzF7fISaJP_Mag",
+            "children": [
+              {
+                "id": "171",
+                "parent": "170",
+                "text": "│ ├─ Dosis >5mg/d prednisona >1mes",
+                "guid": "TBXIB2lj_UB6UCMEe7y_wA",
+                "children": [
+                  {
+                    "id": "172",
+                    "parent": "171",
+                    "text": "│ │ └─ Alteración hipocampo → deterioro memoria",
+                    "guid": "e8L7DVtvJ4NmiFUmdZJ2UA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "173",
+                "parent": "170",
+                "text": "│ ├─ Inicio: euforia",
+                "guid": "O_DI0UZwK25kY7ORFbxlGw",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "170",
+                "text": "│ └─ Crónico",
+                "guid": "M_i-DViSVEUKSNXdKf3zxA",
+                "children": [
+                  {
+                    "id": "175",
+                    "parent": "174",
+                    "text": "│     ├─ Depresión (10%)",
+                    "guid": "RNlzVThA-EYFaPEycAIZ7A",
+                    "children": []
+                  },
+                  {
+                    "id": "176",
+                    "parent": "174",
+                    "text": "│     ├─ Hipomanía (30%)",
+                    "guid": "Qzy4gn7e3FU5sbYsCFGrtg",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "174",
+                    "text": "│     └─ Psicosis (también pulsos agudos altas dosis)",
+                    "guid": "Tsw7hzUuOsYtUXggGuIDjg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "178",
+            "parent": "136",
+            "text": "└─ EJE HHS (21)",
+            "guid": "AxDCp30nGHQP56ljPwGLeA",
+            "children": [
+              {
+                "id": "179",
+                "parent": "178",
+                "text": "├─ Supresión: prednisona >5mg/d >2sem",
+                "guid": "Q5dD43RLXPRUvfCUd5AB8A",
+                "children": []
+              },
+              {
+                "id": "180",
+                "parent": "178",
+                "text": "└─ Mecanismo",
+                "guid": "TN2xOV8GxnEhjfW0Ebckjw",
+                "children": [
+                  {
+                    "id": "181",
+                    "parent": "180",
+                    "text": "├─ ↓CRH hipotalámico",
+                    "guid": "F0e-tyb25uYBuT57KrDAEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "182",
+                    "parent": "180",
+                    "text": "├─ ↓ACTH hipofisaria",
+                    "guid": "CgKaNxvVhHpbHrLvTT9SuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "180",
+                    "text": "└─ Atrofia corteza suprarrenal (zonas fascicular/reticular)",
+                    "guid": "GrRg0BTQaRtVkP5vaYCcVw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "184",
+        "parent": "0",
+        "text": "ALTERACIONES METABÓLICAS Y\nSUPRESIÓN EJE HHS",
+        "guid": "",
+        "children": [
+          {
+            "id": "185",
+            "parent": "184",
+            "text": "├─ METABOLISMO\nGLUCOSA (3,17,22-25)",
+            "guid": "IFsW2HTdty5lresaN6LVjw",
+            "children": [
+              {
+                "id": "186",
+                "parent": "185",
+                "text": "│ ├─ Mecanismos\nhiperglicemia",
+                "guid": "G9SeFGdnKZViU5WhJdc4Sw",
+                "children": [
+                  {
+                    "id": "187",
+                    "parent": "186",
+                    "text": "│ │ ├─ ↑gluconeogénesis hepática",
+                    "guid": "AzyuDz1ySJBzFosFHfEO3w",
+                    "children": []
+                  },
+                  {
+                    "id": "188",
+                    "parent": "186",
+                    "text": "│ │ ├─ ↑respuesta hepática glucagón",
+                    "guid": "UkKxq0iniXQHcas2HEFVjA",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "186",
+                    "text": "│ │ ├─ ↓ingreso glucosa músculo/adiposo",
+                    "guid": "S4oABAvUSxsE0jFzdg4Rtw",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "186",
+                    "text": "│ │ └─ Daño célula β (lipotoxicidad)",
+                    "guid": "JtWuTge4QG0jouYSPv4p9g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "191",
+                "parent": "185",
+                "text": "│ ├─ Riesgo\nDM esteroidal",
+                "guid": "UY2WTW4Nqvt1ldSmceitJg",
+                "children": [
+                  {
+                    "id": "192",
+                    "parent": "191",
+                    "text": "│ │ ├─ RR 8.9: prednisona <10mg/d",
+                    "guid": "YutiKVtDv8Api4K1fsAAPg",
+                    "children": []
+                  },
+                  {
+                    "id": "193",
+                    "parent": "191",
+                    "text": "│ │ └─ RR 10.3: prednisona >30mg/d",
+                    "guid": "QqrpVQvfGFYklziJReeXZQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "194",
+                "parent": "185",
+                "text": "│ ├─ Factores riesgo",
+                "guid": "SVFg5hetw45j2KZEG5QSkQ",
+                "children": [
+                  {
+                    "id": "195",
+                    "parent": "194",
+                    "text": "│ │ ├─ Edad avanzada",
+                    "guid": "dx6cljynmZAh7V6-HfRK5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "196",
+                    "parent": "194",
+                    "text": "│ │ └─ Obesidad",
+                    "guid": "RF_Z_UWQRNFc8nTbXuXSxw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "197",
+                "parent": "185",
+                "text": "│ └─ Manejo: similar DM/hiperglicemia no esteroidal",
+                "guid": "Zb4JVnYatYkZP84qSKlrgA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "198",
+            "parent": "184",
+            "text": "└─ SUPRESIÓN\nEJE HHS (26)",
+            "guid": "TqppNmwApEdZ8PYEF_vKHQ",
+            "children": [
+              {
+                "id": "199",
+                "parent": "198",
+                "text": "├─ Consideraciones suspensión GC",
+                "guid": "A65n1j3JnEkzj9yuZAO02Q",
+                "children": [
+                  {
+                    "id": "200",
+                    "parent": "199",
+                    "text": "│ ├─ Riesgo reactivación enfermedad base",
+                    "guid": "KRPtxGtlRMwP4wHgIDKKWg",
+                    "children": []
+                  },
+                  {
+                    "id": "201",
+                    "parent": "199",
+                    "text": "│ └─ Riesgo insuficiencia suprarrenal 2ª",
+                    "guid": "KAzeXDHQYJ4-JtU_bGy4Wg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "202",
+                "parent": "198",
+                "text": "├─ Recuperación eje",
+                "guid": "EsmodkvXbAR0gVEreIexzA",
+                "children": [
+                  {
+                    "id": "203",
+                    "parent": "202",
+                    "text": "│ ├─ Mayoría: semanas-meses",
+                    "guid": "QfIhjg3BH1VBMR1ME1CW2A",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "202",
+                    "text": "│ └─ Algunos: hasta 1 año",
+                    "guid": "UIxwNQiaiQonWfV3HzbZbA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "parent": "198",
+                "text": "└─ Grupos riesgo",
+                "guid": "PxSHxWrCgDdcTUoBaCh1iQ",
+                "children": [
+                  {
+                    "id": "206",
+                    "parent": "205",
+                    "text": "├─ ALTO",
+                    "guid": "ZM3yli4dlsxXDgtGNVpiyw",
+                    "children": [
+                      {
+                        "id": "207",
+                        "parent": "206",
+                        "text": "│ └─ Criterios",
+                        "guid": "VifFA2wwS-EIWv_jfjSjYA",
+                        "children": [
+                          {
+                            "id": "208",
+                            "parent": "207",
+                            "text": "│     ├─ Prednisona >20mg/d >2sem",
+                            "guid": "HgCsf0aB1SNqoVu6FWFR7w",
+                            "children": []
+                          },
+                          {
+                            "id": "209",
+                            "parent": "207",
+                            "text": "│     ├─ GC vespertinos/noche >1sem",
+                            "guid": "YZsfPTXz5ttii4IVdGTHsw",
+                            "children": []
+                          },
+                          {
+                            "id": "210",
+                            "parent": "207",
+                            "text": "│     └─ Fenotipo cushingoideo",
+                            "guid": "ActS4FcM00Bs7HmAQ710bg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "211",
+                    "parent": "205",
+                    "text": "├─ INTERMEDIO",
+                    "guid": "bBp4My9K6WtK4shbChsksg",
+                    "children": [
+                      {
+                        "id": "212",
+                        "parent": "211",
+                        "text": "│ └─ Criterios",
+                        "guid": "Nrgf135oAL1UkTw3K1NNKQ",
+                        "children": [
+                          {
+                            "id": "213",
+                            "parent": "212",
+                            "text": "│     ├─ Prednisona 7. 5-20mg/d >2-3sem",
+                            "guid": "f7LsOQvD38AjnOJRPsdz_g",
+                            "children": []
+                          },
+                          {
+                            "id": "214",
+                            "parent": "212",
+                            "text": "│     └─ Riesgo alto ISR aguda (ej: cirugía)",
+                            "guid": "doZf-H_qLFIm7-mHTK4k-w",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "215",
+                    "parent": "205",
+                    "text": "└─ BAJO",
+                    "guid": "BnbeQkfOXZBI4iLLBinKfA",
+                    "children": [
+                      {
+                        "id": "216",
+                        "parent": "215",
+                        "text": "└─ Criterios",
+                        "guid": "dcy-jjWEJBUffHahV2fdyw",
+                        "children": [
+                          {
+                            "id": "217",
+                            "parent": "216",
+                            "text": "├─ GC <2-3sem (cualquier dosis)",
+                            "guid": "a3gK8QIH-LdLzKV_bUNd0Q",
+                            "children": []
+                          },
+                          {
+                            "id": "218",
+                            "parent": "216",
+                            "text": "└─ GC días alternos",
+                            "guid": "WRTL9zi5Hv8xANI_PeK-jQ",
+                            "children": [
+                              {
+                                "id": "219",
+                                "parent": "218",
+                                "text": "└─ Suspensión segura 72h",
+                                "guid": "Zta1ywgO3YVzPSFZHY7Vog",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "220",
+        "parent": "0",
+        "text": "EVALUACIÓN FUNCIÓN EJE\nHHS Y SUSPENSIÓN GC",
+        "guid": "",
+        "children": [
+          {
+            "id": "221",
+            "parent": "220",
+            "text": "├─ CORTISOL MATINAL\n(21,26)",
+            "guid": "KPjHOw5X6YpxS_2yL2-lfg",
+            "children": [
+              {
+                "id": "222",
+                "parent": "221",
+                "text": "│ ├─ Indicaciones",
+                "guid": "ViZHGzouIH41mW_6KbiEbA",
+                "children": [
+                  {
+                    "id": "223",
+                    "parent": "222",
+                    "text": "│ │ └─ Riesgo intermedio + GC bajas dosis <2sem + ↓gradual hasta 5-7.5mg/d",
+                    "guid": "Jq0lmnqKrnRz0SG1ExZXCQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "224",
+                "parent": "221",
+                "text": "│ └─ Interpretación",
+                "guid": "bEFumU44zv4SkLfeA28dTw",
+                "children": [
+                  {
+                    "id": "225",
+                    "parent": "224",
+                    "text": "│     ├─ <5 µg/dL → insuficiencia suprarrenal",
+                    "guid": "UFQT9HrxZaUGFNb1VHdRoA",
+                    "children": []
+                  },
+                  {
+                    "id": "226",
+                    "parent": "224",
+                    "text": "│     └─ >15 µg/dL → recuperación eje",
+                    "guid": "Lx646nX97m0xr1tEHAUrLw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "227",
+            "parent": "220",
+            "text": "├─ TEST\nESTÍMULO ACTH",
+            "guid": "WyINAGEOUPFvUETdMUhUGw",
+            "children": [
+              {
+                "id": "228",
+                "parent": "227",
+                "text": "│ ├─ Indicaciones",
+                "guid": "GzxxbyTptNdbANiHQemXCg",
+                "children": [
+                  {
+                    "id": "229",
+                    "parent": "228",
+                    "text": "│ │ ├─ Alto riesgo insuficiencia suprarrenal",
+                    "guid": "H3RjS07R-jxU_-4TBeA5wg",
+                    "children": []
+                  },
+                  {
+                    "id": "230",
+                    "parent": "228",
+                    "text": "│ │ └─ Riesgo incierto + cortisol matinal dudoso",
+                    "guid": "WWneNkCZ7r0HeCGlRatMzw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "231",
+                "parent": "227",
+                "text": "│ ├─ Contraindicaciones",
+                "guid": "FPo_KU8vQRQzniNQRBj4Ew",
+                "children": [
+                  {
+                    "id": "232",
+                    "parent": "231",
+                    "text": "│ │ └─ ACO/THR menopausia",
+                    "guid": "RS0vgWVNfpVgHiNCXBUHpA",
+                    "children": [
+                      {
+                        "id": "233",
+                        "parent": "232",
+                        "text": "│ │     └─ Estrógenos → ↑CBG → alteración cortisol",
+                        "guid": "MheiC0_gdoEb9acDDTmvCw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "234",
+                    "parent": "231",
+                    "text": "│ └─ Técnica",
+                    "guid": "MC-gtxmC264OFM_sT6QEAw",
+                    "children": [
+                      {
+                        "id": "235",
+                        "parent": "234",
+                        "text": "│     ├─ Suspender GC 24h antes",
+                        "guid": "aFTV62MUvf9VhD3FQb60IQ",
+                        "children": []
+                      },
+                      {
+                        "id": "236",
+                        "parent": "234",
+                        "text": "│     ├─ ACTH (Synacthen) 250µg IM 09:00h",
+                        "guid": "I66svVz8X2oHagDwMoFqeQ",
+                        "children": []
+                      },
+                      {
+                        "id": "237",
+                        "parent": "234",
+                        "text": "│     └─ Cortisol 60min post-ACTH",
+                        "guid": "dwU47lCEaw8RqDwpC_94Fw",
+                        "children": [
+                          {
+                            "id": "238",
+                            "parent": "237",
+                            "text": "│         └─ ISR si <15-18 µg/dL (S:97.5%)",
+                            "guid": "H7OsI0VGX3lQGHArZODbpA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "239",
+            "parent": "220",
+            "text": "└─ SUSPENSIÓN\nTRATAMIENTO",
+            "guid": "ABcJ71zrikxp5S8lMQXRYg",
+            "children": [
+              {
+                "id": "240",
+                "parent": "239",
+                "text": "└─ Indicaciones",
+                "guid": "aDF2LChnMkx9MQpEGGEW5A",
+                "children": [
+                  {
+                    "id": "241",
+                    "parent": "240",
+                    "text": "├─ No beneficio terapéutico esperado",
+                    "guid": "QeoN-gtF2jFoBRrnKj7j5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "240",
+                    "text": "├─ EA graves/incontrolables",
+                    "guid": "blqYMD2JWKxr_ZgGEglE7Q",
+                    "children": [
+                      {
+                        "id": "243",
+                        "parent": "242",
+                        "text": "│ ├─ Osteoporosis lumbar",
+                        "guid": "GoW4FnNnmPdEiq9mEYrxBQ",
+                        "children": []
+                      },
+                      {
+                        "id": "244",
+                        "parent": "242",
+                        "text": "│ └─ Hipertensión",
+                        "guid": "Q-wEBlYy648dimkcY5-wKQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "245",
+                    "parent": "240",
+                    "text": "└─ Complicaciones graves",
+                    "guid": "G3lLCW2i2UdIgIvNRg0pFw",
+                    "children": [
+                      {
+                        "id": "246",
+                        "parent": "245",
+                        "text": "├─ Psicosis aguda resistente",
+                        "guid": "HdlstQl2bxUiuKkxHfB2pA",
+                        "children": []
+                      },
+                      {
+                        "id": "247",
+                        "parent": "245",
+                        "text": "└─ Úlcera corneal herpética → riesgo perforación/ceguera",
+                        "guid": "ZmH5YQyd2FZO9kgGTpNvjg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "248",
+            "parent": "220",
+            "text": "├─ COMPLICACIONES\nSUSPENSIÓN (21)",
+            "guid": "Q8DlhHCfbXtUFRiwYZpSOQ",
+            "children": [
+              {
+                "id": "249",
+                "parent": "248",
+                "text": "│ ├─ ISR 2ª",
+                "guid": "ehXckXbNweF_isjdYHfV8g",
+                "children": []
+              },
+              {
+                "id": "250",
+                "parent": "248",
+                "text": "│ ├─ Recaída enfermedad base",
+                "guid": "A2uaN06BEOMvC0WAOHCk2Q",
+                "children": []
+              },
+              {
+                "id": "251",
+                "parent": "248",
+                "text": "│ └─ Síndrome privación",
+                "guid": "GqhjLhX_y_IvX711chWPqQ",
+                "children": [
+                  {
+                    "id": "252",
+                    "parent": "251",
+                    "text": "│     ├─ Cansancio",
+                    "guid": "ZPltS1CNufc33VRVcXxnUA",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "251",
+                    "text": "│     ├─ Fatigabilidad",
+                    "guid": "XblOgA-uXe8YhRlsXkx7_w",
+                    "children": []
+                  },
+                  {
+                    "id": "254",
+                    "parent": "251",
+                    "text": "│     ├─ Anorexia",
+                    "guid": "LAoW71EYvIwiy62FHpi7fg",
+                    "children": []
+                  },
+                  {
+                    "id": "255",
+                    "parent": "251",
+                    "text": "│     └─ Trastornos ánimo",
+                    "guid": "JzbIyUrqjzMsoKsXaveuTg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "256",
+            "parent": "220",
+            "text": "├─ CONSIDERACIONES\nRETIRO (21,27)",
+            "guid": "O4n8rwC1w8dMkgCHNZ_ZQA",
+            "children": [
+              {
+                "id": "257",
+                "parent": "256",
+                "text": "│ ├─ Factores\nindividuales",
+                "guid": "d4OFqEwcyWUWF68yeu8f3w",
+                "children": [
+                  {
+                    "id": "258",
+                    "parent": "257",
+                    "text": "│ │ ├─ Edad",
+                    "guid": "Gp3aSEUi9LMzX8S4NUY9dg",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "257",
+                    "text": "│ │ ├─ Fragilidad",
+                    "guid": "WyLApWK_gi0nW80gQBwt8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "260",
+                    "parent": "257",
+                    "text": "│ │ ├─ Comorbilidades",
+                    "guid": "M008JV85IXUxmJVBEQaKpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "261",
+                    "parent": "257",
+                    "text": "│ │ ├─ Riesgo recurrencia",
+                    "guid": "bud_ZEodrq1vUwakGvGWUw",
+                    "children": []
+                  },
+                  {
+                    "id": "262",
+                    "parent": "257",
+                    "text": "│ │ ├─ Factores psicológicos",
+                    "guid": "GzZrOhIetCk5ilHSQm00Aw",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "257",
+                    "text": "│ │ └─ Duración previa GC",
+                    "guid": "XQlDXWYq_OktZOJRGJNADA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "264",
+                "parent": "256",
+                "text": "│ └─ Dosis segura suspensión",
+                "guid": "KW29MQyzKu8V98P9BJB91w",
+                "children": [
+                  {
+                    "id": "265",
+                    "parent": "264",
+                    "text": "│     └─ Prednisona <5mg/d → baja probabilidad supresión HHS",
+                    "guid": "b3KtHD1TkR1ErKvIIr_pQQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "266",
+            "parent": "220",
+            "text": "└─\nRECOMENDACIONES\nESPECÍFICAS",
+            "guid": "QGLvtyMZeosmZchKW5la8Q",
+            "children": [
+              {
+                "id": "267",
+                "parent": "266",
+                "text": "├─ GC >2-3sem",
+                "guid": "NTgutF_wGhweBo70EkFyEQ",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "│ └─ Reducir hasta prednisona 5mg/d (=20mg/d hidrocortisona)",
+                    "guid": "RhsXBUtrcUYq1LIdLPvXtQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "269",
+                "parent": "266",
+                "text": "├─ Esquema reducción\nsegún dosis inicial",
+                "guid": "XVKT6GSzhERsJ4bjBsBRGQ",
+                "children": [
+                  {
+                    "id": "270",
+                    "parent": "269",
+                    "text": "│ ├─ >60mg/d → ↓10mg/sem",
+                    "guid": "cWavMwIfSuALUM7wYNlcUA",
+                    "children": []
+                  },
+                  {
+                    "id": "271",
+                    "parent": "269",
+                    "text": "│ ├─ 20-60mg/d → ↓5mg/sem",
+                    "guid": "P3Lb_U_9ergDmUWRW_-OkA",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "269",
+                    "text": "│ └─ 5-20mg/d → ↓2.5mg/sem",
+                    "guid": "RkK7wjdfuXhnc8CHBqWreQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "273",
+                "parent": "266",
+                "text": "├─ Monitorización 1\nmes con 5mg/d",
+                "guid": "bcmi7gBFlV4h8tTJM-S58w",
+                "children": [
+                  {
+                    "id": "274",
+                    "parent": "273",
+                    "text": "│ ├─ Si cortisol <5µg/dL → mantener GC",
+                    "guid": "S7EGpEzHhuZg4JGpERNaww",
+                    "children": []
+                  },
+                  {
+                    "id": "275",
+                    "parent": "273",
+                    "text": "│ ├─ Si cortisol >15µg/dL → suspender",
+                    "guid": "Rc9SUGxAr7YciVsgIyHmOA",
+                    "children": []
+                  },
+                  {
+                    "id": "276",
+                    "parent": "273",
+                    "text": "│ └─ Si cortisol 5-15µg/dL → test ACTH",
+                    "guid": "UPQz-wiw4gQp4jdRQlrjLg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "277",
+                "parent": "266",
+                "text": "├─ Alternativa:\ndías alternos",
+                "guid": "BTCA-ibNhRAmQpdyS3M8vA",
+                "children": [
+                  {
+                    "id": "278",
+                    "parent": "277",
+                    "text": "│ └─ Útil si estables\n+ ya en 5mg/d",
+                    "guid": "Xi0-iA22V_lSGOg1OKZyiw",
+                    "children": []
+                  },
+                  {
+                    "id": "279",
+                    "parent": "277",
+                    "text": "└─ Sin test ACTH disponible",
+                    "guid": "NJ2D_mpKqgs9Pj2sAE6Kog",
+                    "children": [
+                      {
+                        "id": "280",
+                        "parent": "279",
+                        "text": "└─ Considerar eje suprimido 1 año post-suspensión",
+                        "guid": "NxIw8h4ez1URYeVmfOGDQg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "281",
+                "parent": "266",
+                "text": "└─ Suplementar\nhidrocortisona si:",
+                "guid": "Cl9_Cy3rQIYgA2l6W1OzBg",
+                "children": [
+                  {
+                    "id": "282",
+                    "parent": "281",
+                    "text": "├─ Cirugía",
+                    "guid": "NpwiiknloMsdrpY1QWxPbw",
+                    "children": []
+                  },
+                  {
+                    "id": "283",
+                    "parent": "281",
+                    "text": "└─ Infección",
+                    "guid": "fxinDUDi1bMLr1hRBEkoCA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "284",
+        "parent": "0",
+        "text": "ALGORITMO SUSPENSIÓN GC Y\nEDUCACIÓN PACIENTE",
+        "guid": "",
+        "children": [
+          {
+            "id": "285",
+            "parent": "284",
+            "text": "├─ ALGORITMO\nSUSPENSIÓN GC",
+            "guid": "P-65QBx7L6BlGj9YSk44Sw",
+            "children": [
+              {
+                "id": "286",
+                "parent": "285",
+                "text": "│ ├─ GC <2sem",
+                "guid": "SmZwJgUdqNIloetSAQKSsQ",
+                "children": [
+                  {
+                    "id": "287",
+                    "parent": "286",
+                    "text": "│ │ └─\nSuspensión\ndirecta",
+                    "guid": "TwNJnkNQgYdCbuIgThvwqw",
+                    "children": []
+                  },
+                  {
+                    "id": "288",
+                    "parent": "286",
+                    "text": "│ │     └─ Riesgo bajo\nsupresión HHS",
+                    "guid": "BDNXOk4eOnFSZRiza-Ox_g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "289",
+                "parent": "285",
+                "text": "│ └─ GC >3sem",
+                "guid": "Q_bKcjBFVyAa8Jp2GiQGCw",
+                "children": [
+                  {
+                    "id": "290",
+                    "parent": "289",
+                    "text": "│     ├─\nPrednisona 5-7.\n5mg/d",
+                    "guid": "dyE4OX-CRrUk7sWjKEfDXQ",
+                    "children": [
+                      {
+                        "id": "291",
+                        "parent": "290",
+                        "text": "│     │ └─ Riesgo\nintermedio/incierto",
+                        "guid": "IVIwoDAID90QgH90YUDp4A",
+                        "children": []
+                      },
+                      {
+                        "id": "292",
+                        "parent": "290",
+                        "text": "│     │     └─ Evaluar:\ncortisol basal matinal",
+                        "guid": "TIM_fXWavswrjyIsFumvow",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "293",
+                    "parent": "289",
+                    "text": "│     ├─\nPrednisona\n>10mg/d",
+                    "guid": "FIGPBVpbJHQX16HoGLTmPw",
+                    "children": [
+                      {
+                        "id": "294",
+                        "parent": "293",
+                        "text": "│     │ └─ Riesgo alto",
+                        "guid": "KHle5Wo8upwEmJg9KImJGQ",
+                        "children": []
+                      },
+                      {
+                        "id": "295",
+                        "parent": "293",
+                        "text": "│     │     └─\nEvaluar: test ACTH",
+                        "guid": "DF44FDZZ44doQfsJUFUChg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "296",
+                    "parent": "289",
+                    "text": "│     └─ Decisión\nsegún cortisol",
+                    "guid": "ArTcNQ9nzjQGCDY9JAcM1g",
+                    "children": [
+                      {
+                        "id": "297",
+                        "parent": "296",
+                        "text": "│         ├─ <5µg/dL",
+                        "guid": "P2_eERaItbEFR_a2C_Mdjg",
+                        "children": [
+                          {
+                            "id": "298",
+                            "parent": "297",
+                            "text": "│         │ └─ Mantener\nGC + control 1 mes",
+                            "guid": "DCN0fjDXGOIi3M0yBtvcHQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "299",
+                        "parent": "296",
+                        "text": "│         ├─ 5-15µg/dL",
+                        "guid": "FSQz-2hvL0IvPpulPZ2S4A",
+                        "children": [
+                          {
+                            "id": "300",
+                            "parent": "299",
+                            "text": "│         │ └─ Test\nACTH o días alternos",
+                            "guid": "Uqvp3jPXM-JmJxv6Xwoh8g",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "301",
+                        "parent": "296",
+                        "text": "│         └─ >15µg/dL",
+                        "guid": "UZusgxnYLQoukMTwVFCIuQ",
+                        "children": [
+                          {
+                            "id": "302",
+                            "parent": "301",
+                            "text": "│             └─\nSuspender GC",
+                            "guid": "KT_7PjSY-y54V5WPaK_ZUA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "303",
+            "parent": "284",
+            "text": "└─ EDUCACIÓN\nPACIENTE CRÓNICO",
+            "guid": "LnalKBd_xBBeIQF6MH7LiA",
+            "children": [
+              {
+                "id": "304",
+                "parent": "303",
+                "text": "├─ Identificación",
+                "guid": "UkjTly64jtRHCIDuZ20Hkg",
+                "children": [
+                  {
+                    "id": "305",
+                    "parent": "304",
+                    "text": "│ └─\nMedalla/pulsera\nusuario GC",
+                    "guid": "Fye-F3ZHHJMlCppyadOn9Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "306",
+                "parent": "303",
+                "text": "└─ Educación\npaciente/familia",
+                "guid": "Kh5QdQsxtmxI3cnoFE9n3w",
+                "children": [
+                  {
+                    "id": "307",
+                    "parent": "306",
+                    "text": "├─ Importancia\nadherencia",
+                    "guid": "WZrNcHg87mBlH7nvKzZ58w",
+                    "children": []
+                  },
+                  {
+                    "id": "308",
+                    "parent": "306",
+                    "text": "├─ Ajuste dosis",
+                    "guid": "EhUbahOwfuB_hwKsO1UWqQ",
+                    "children": [
+                      {
+                        "id": "309",
+                        "parent": "308",
+                        "text": "│ └─ Situaciones estrés",
+                        "guid": "SEl6DnfemDskBO_5E2sq7Q",
+                        "children": []
+                      },
+                      {
+                        "id": "310",
+                        "parent": "308",
+                        "text": "│     ├─ Fiebre",
+                        "guid": "dX4kgRin5tdqsFBLI_TJqQ",
+                        "children": []
+                      },
+                      {
+                        "id": "311",
+                        "parent": "308",
+                        "text": "│     ├─ Cirugía",
+                        "guid": "MCeq6EjRUcVUc5UxAnB-fw",
+                        "children": []
+                      },
+                      {
+                        "id": "312",
+                        "parent": "308",
+                        "text": "│     └─ Trauma",
+                        "guid": "d4ngmht8Fh9p3YYRDrGesQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "313",
+                    "parent": "306",
+                    "text": "└─ Síntomas alarma",
+                    "guid": "SQEj1h5yIQAHCjECEUqd5A",
+                    "children": [
+                      {
+                        "id": "314",
+                        "parent": "313",
+                        "text": "├─ Vómitos",
+                        "guid": "FlC5OysPIPsktcjSC87dvA",
+                        "children": []
+                      },
+                      {
+                        "id": "315",
+                        "parent": "313",
+                        "text": "└─ Diarrea",
+                        "guid": "Q7cH0w9mGR0vw6dlc96yuw",
+                        "children": [
+                          {
+                            "id": "316",
+                            "parent": "315",
+                            "text": "└─ Consulta urgencia\n→ GC parenteral",
+                            "guid": "WDdq4gQ3PJd2TzE6T8FLfA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 317,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Endocrinología",
+  "filename": "Arteaga | Glucocorticoides-2024",
+  "id": "map_1543",
+  "resolved_references": []
+}

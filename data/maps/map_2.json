@@ -1,0 +1,85 @@
+{
+  "title": "HORIZON-RFT (2007)",
+  "guid": "HORIZON-RFT-2007",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/HORIZON-RFT-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HORIZON-RFT (2007)\nHealth Outcomes and Reduced\nIncidence with Zoledronic Acid\nOnce Yearly - Recurrent Fracture Trial\n\n⭐ Zoledronato post fractura cadera\nreduce refracturas Y mortalidad",
+    "guid": "HORIZON-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Lyles KW et al.\nAño: 2007\nRevista: NEJM\nDOI: 10.1056/NEJMoa074941\n\\nDiseño: RCT doble ciego\nMulticéntrico internacional\\nn = 2,127 pacientes\\nMediana seguimiento: 1.9 años",
+        "guid": "HORIZON-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Lyles KW et al. NEJM 2007\\n   DOI: 10.1056/NEJMoa074941\\n\\n2. NOGG Guidelines 2021\\n   Secondary Fx Prevention\\n\\n3. IOF/ECTS Framework 2020\\n   Imminent Fracture Risk",
+            "guid": "HORIZON-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Fractura cadera por trauma bajo\\n• Reparación quirúrgica menor 90 días\\n• Edad media: 74.5 años\\n• Ambos sexos incluidos\\n\\nCriterios Exclusion:\\n• TFG menor 30 mL/min\\n• Hipocalcemia\\n• Uso previo bifosfonatos IV\\n• Cancer activo\\n\\nCaracterísticas:\\n• 76% mujeres\\n• 41% con fractura vertebral previa",
+        "guid": "HORIZON-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Intervencion:\\n• Acido Zoledronico 5 mg IV\\n• Infusión anual (dentro 90 días post-cx)\\n\\nGrupo Control:\\n• Placebo IV\\n\\nCo-intervenciones (ambos grupos):\\n• Vitamina D: carga + mantencion\\n• Calcio: 1000-1500 mg/día\\n\\nDuración: Mediana 1.9 años",
+        "guid": "HORIZON-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nOutcome Primario - Nueva Fx clínica:\\n• Zoledronato: 8.6%\\n• Placebo: 13.9%\\n• RRR: 35%\\n• HR 0.65 (IC95% 0.50-0.84)\\n• p = 0.001 ✓\\n• NNT = 19\n\\nFractura cadera contralateral:\\n• RRR: 30% (NS)\n\\nMORTALIDAD (outcome secundario):\\n• Zoledronato: 9.6%\\n• Placebo: 13.3%\\n• RRR: 28%\\n• HR 0.72 (IC95% 0.56-0.93)\\n• p = 0.01 ✓\\n• NNT = 27",
+        "guid": "HORIZON-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEfectos adversos frecuentes:\\n• Fiebre post-infusión: 8.7%\\n• Mialgias: 5.2%\\n• Dolor óseo: 4.3%\\n• Cefalea: 3.1%\\n\\nEventos serios:\\n• Sin diferencia significativa\\n• Sin casos osteonecrosis mandibular\\n• Sin fracturas atípicas\\n\\nRenal:\\n• Sin deterioro TFG significativo\\n• Contraindicado si ClCr menor 35",
+        "guid": "HORIZON-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT doble ciego\\n✓ Outcome duro (mortalidad)\\n✓ Población clínicamente relevante\\n✓ Alta adherencia (IV anual)\\n\\nLimitaciones:\\n• Seguimiento corto (1.9 años)\\n• Terminación precoz\\n• Financiado por Novartis\\n• No evalúa calidad hueso\\n\\nRiesgo sesgo: BAJO-MODERADO",
+        "guid": "HORIZON-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Altamente relevante\n\\nOrtogeriatría:\\n• Iniciar zoledronato dentro 90 días\\n• Asegurar vitamina D previo\\n• Primera dosis intrahospitalaria\\n• Único antirresortivo con beneficio\\n  mortalidad demostrado\\n\\nPoblación aplicable:\\n• Post fractura cadera quirúrgica\\n• Sin IRC severa (ClCr mayor 35)\\n• Sin hipocalcemia\\n• Expectativa vida mayor 1 año",
+        "guid": "HORIZON-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. UNICO bifosfonato que reduce\n   mortalidad post-Fx cadera\n\\n2. Ventana terapéutica: menor 90 días\n   post-cirugía para beneficio máximo\n\\n3. NNT fractura = 19\n   NNT mortalidad = 27\n   Beneficio claro y significativo\n\\n4. Vía IV evita problema adherencia\n   (60% abandono bifosfonatos orales)\n\\n5. Premedicar: hidratación + paracetamol\n   para reducir reacción fase aguda\n\\n6. Modelo de intervención en\n   ventana de oportunidad ortogeriatría",
+        "guid": "HORIZON-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "HORIZON-RFT-2026",
+  "id": "map_2",
+  "resolved_references": []
+}

@@ -1,0 +1,1536 @@
+{
+  "title": "Distonia",
+  "guid": "C0B0220A29ACBC7B87C61C16",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/UTD. Distonia-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Distonia",
+    "guid": "cRmgWG82b1N9ru7lGM22Vg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "1. INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Distonía = Trastorno del mov. → contracciones musculares sostenidas/intermitentes\n→ mov. anormales, posturas o ambos.",
+            "guid": "YSE3lypI_-n_e3ptktrwqQ",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "✔ Mov. repetitivos, patrones torsionales, temblorosos.",
+            "guid": "KYW5KkdyTkNqCCCt6b6nNg",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "✔ Se agrava con acción voluntaria y activación muscular excesiva.",
+            "guid": "DqdDCvN6HSYkpHbqOVzttw",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "✔ Puede ser: hereditaria, adquirida o idiopática.",
+            "guid": "mxcmLsqHVbrc16gcODhSYQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "2. EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "✔ Grupo heterogéneo → prevalencia variable.",
+            "guid": "C6yvVaxsQouWU_ikyihs1g",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "6",
+            "text": "✔ Distonía focal = más común (ej. cervical).",
+            "guid": "s2ojDtFTnUBORQKPvAxIUA",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "6",
+            "text": "✔ Distonía primaria (aislada) = 16.4/100,000 pers.",
+            "guid": "jPzhrunk8QxTzqoNbxoPrQ",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "6",
+            "text": "✔ Variante genética más común: DYT-TOR1A → 18-26/100,000 portadores.",
+            "guid": "_Kme3TOEI_E6bF5U3Yq5YQ",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "6",
+            "text": "✔ EE.UU.: 54,000-81,000 portadores → 16,000-25,000 con síntomas.",
+            "guid": "5MizazK0TSXdKcMMMHEsow",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "6",
+            "text": "✔ Subdiagnóstico común.",
+            "guid": "cSfHEg1eqw3elCta-AhQTQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "parent": "0",
+        "text": "3. PATOGENIA",
+        "guid": "",
+        "children": [
+          {
+            "id": "14",
+            "parent": "13",
+            "text": "✔ No hay hallazgos neuropatológicos consistentes en distonía aislada\n→ trastorno dinámico (disfunción neuronal, no degeneración).",
+            "guid": "spKZLEP3C1pW2liw3o63bA",
+            "children": []
+          },
+          {
+            "id": "15",
+            "parent": "13",
+            "text": "3.1. Áreas cerebrales\ninvolucradas",
+            "guid": "VYNEWCGu24rulybzYGhsaA",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "🧠 Imágenes\nestructurales:",
+                "guid": "hsLo7hxoWG0Lsi2mZ0q8VQ",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "• Hemidistonía ↔ Lesiones en ganglios basales o sus eferencias (contralateral).",
+                    "guid": "rOIunIxse04lMmsjZIRb_w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18",
+                "parent": "15",
+                "text": "🧠 Neuroimagen funcional (PET, fMRI)\n→ actividad anormal en:",
+                "guid": "zi4mOuXciNE57ObFyPDiZQ",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "• Corteza motora",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "• Áreas motoras suplementarias",
+                    "guid": "9rOtw26SFKHSK7OUqk6KTg",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "18",
+                    "text": "• Tronco encefálico",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "18",
+                    "text": "• Cerebelo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "18",
+                    "text": "• Ganglios basales",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "24",
+                "parent": "15",
+                "text": "🧠 Modelo en red:",
+                "guid": "_hiIHFiydo-oeHFgIcz_aQ",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "• Distonía = trastorno de la red neuronal.",
+                    "guid": "3hqvTOsqZ2-AWXq8p0_2eA",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "• Puede haber disfunción en varios nodos de la red.",
+                    "guid": "64dU_b8FttpfJ0nRzvKNMA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "13",
+            "text": "3.2. Estudios\nelectrofisiológicos",
+            "guid": "a-Tt17LCz-IgBVk33WjLmA",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "• ⬇ Mecanismos inhibitorios centrales.",
+                "guid": "HyFOpZAYM7R8NTKUqJKkag",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "• ⬆ Plasticidad neuronal.",
+                "guid": "vdLcJfVTFRMB2LUUwNNCYg",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "27",
+                "text": "• ❌ Alteración en función sensorial.",
+                "guid": "03tq49qhIxjZSwZkHadDxA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "parent": "13",
+            "text": "3.3. Registro con microelectrodos\n(DBS en distonía)",
+            "guid": "3MPZJjJZLsSQebzwD5IeRg",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "• Alteraciones en tasas de descarga y respuesta somatosensorial en globo pálido.",
+                "guid": "3MSuqIErErDEkXmyuw_awg",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "31",
+                "text": "• Patrón de actividad neuronal alterado → modulación dependiente del movimiento.",
+                "guid": "8mZEMmGyyyyJKJp1RdziPQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "34",
+        "parent": "0",
+        "text": "4. NEUROQUÍMICA\nDE LA DISTONÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "35",
+            "parent": "34",
+            "text": "4.1. Dopamina (DA) ⚡",
+            "guid": "7AwZnXnQLur73a2-neLFcg",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "• Hipótesis\ndopaminérgica:",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "35",
+                "text": "• Antagonistas de DA → pueden inducir\nsíntomas distónicos (reacciones agudas,\ncrisis oculógiras, distonía tardía).",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "35",
+                "text": "• Enf. de Parkinson (déficit de DA\npresináptica) puede cursar con distonía.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "35",
+                "text": "• Disfunción estriosomal → afecta\nliberación de DA → hiperquinesia.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "35",
+                "text": "• DRD (distonía sensible a levodopa)\nrefuerza rol de DA en patogenia.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "34",
+            "text": "4.2.\nAcetilcolina\n(ACh) 💡",
+            "guid": "kl96e3UujlbnllsixWGLuQ",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "• Evidencia:",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "• Respuesta a anticolinérgicos →\nespecialmente en niños.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "41",
+                "text": "• Modelos en ratón (TOR1A mutante)\n→ alteraciones en vía dopaminérgica\ny función colinérgica.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "41",
+                "text": "• Modelos DYT-TOR1A knock-in → estado\nhipercolinérgico en el estriado.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "34",
+            "text": "4.3. Otros sistemas",
+            "guid": "BYQ3bmb94c1br4VSxxfbcw",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "• GABA, adenosina, glutamato →\nposiblemente involucrados.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "34",
+            "text": "4.4. Estudios\nemergentes",
+            "guid": "OqnOfU9qkWldprFx7c-LGQ",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "🧪 Proteómica plasmática\n→ nuevas hipótesis:",
+                "guid": "SnO6r_skLFkMXpGqPks9ag",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "• Mecanismos inmunes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "49",
+                    "text": "• Alteraciones en\ntransporte de metales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "49",
+                    "text": "• Estrés oxidativo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "49",
+                    "text": "• Involucrados en distonía cervical,\nlaríngea y blefaroespasmo.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "48",
+                "text": "📌 Investigaciones\nfuturas necesarias.",
+                "guid": "TEmLLGEjjvaSPIejL-cGKQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "parent": "0",
+        "text": "1. CATEGORÍAS\nETIOLÓGICAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "56",
+            "parent": "55",
+            "text": "✔ Hereditarias 🧬\n(probada base genética).",
+            "guid": "0lvsmQy3Wdlwq-131N8QVQ",
+            "children": []
+          },
+          {
+            "id": "57",
+            "parent": "55",
+            "text": "✔ Adquiridas ⚠️ (prev.\n“secundarias”).",
+            "guid": "RJf9WBb9Oj_Fi4DQFL9KVA",
+            "children": []
+          },
+          {
+            "id": "58",
+            "parent": "55",
+            "text": "✔ Idiopáticas ❓\n(causa desconocida).",
+            "guid": "EpXkIDXH1XJ8hQxCS7UBZA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "parent": "0",
+        "text": "2. DISTONÍAS\nHEREDITARIAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "60",
+            "parent": "59",
+            "text": "📌 Criterios:",
+            "guid": "vWLcKD8F9xR3ihl4gD3BIw",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "✔ Gen probando.",
+                "guid": "O_P7uKtj6AIM1cFm19nKRg",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "✔ Clasificación actual = mutación genética en vez de numeración (DYT-TOR1A en vez de DYT1).",
+                "guid": "6Wwcx7WbwDFqhW_Jmm70Gw",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "✔ Se agrupan según fenotipo predominante y gen mutado.",
+                "guid": "Z7u_UOMjvWoKFQ4CzfHUCA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "parent": "59",
+            "text": "📌 Clasificación por\nvías afectadas:",
+            "guid": "kin7psasCZjUnW58d8RIRg",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "1️⃣ Alteración en transcripción génica (KMT2B, THAP1).",
+                "guid": "x05XpjvL4pOTwDI_GVXw7A",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "64",
+                "text": "2️⃣ Disrupción en homeostasis de Ca²⁺ (ANO3, HPCA).",
+                "guid": "HgrVllKAEOrXHsWYJDLZSg",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "64",
+                "text": "3️⃣ Alteración en señalización dopaminérgica estriatal (GNAL).",
+                "guid": "sTLw6SFVZfZdUnuT0rsrog",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "64",
+                "text": "4️⃣ Alteración en respuesta a estrés del RE (EIF2AK2, PRKRA, TOR1A).",
+                "guid": "sNcd3yJnrjZePcbV62B-DA",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "64",
+                "text": "5️⃣ Disfunción en autofagia (VPS16).",
+                "guid": "HdVJyzIactiJeYweWhiZCQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "59",
+            "text": "✔ 🆕 Se espera que esta categorización facilite nuevos tratamientos.",
+            "guid": "WrPlNBw1YdNztizBB2YJdg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "71",
+        "parent": "0",
+        "text": "3. DISTONÍAS\nADQUIRIDAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "72",
+            "parent": "71",
+            "text": "📌 Causas:",
+            "guid": "7tI-amimxz7Zd8jcD9fNaA",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "✔ Daño cerebral perinatal 🧠",
+                "guid": "xg4PygVNoE4qxOuqwxZSjQ",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "✔ Fármacos bloqueadores de R-Dopamina → distonía aguda/tardía.",
+                "guid": "BtrgLT1PdKXdP1D38oAMGg",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "✔ Lesiones en:",
+                "guid": "HEQzGJwNOCEerGbLJ9qUig",
+                "children": [
+                  {
+                    "id": "76",
+                    "parent": "75",
+                    "text": "• Ganglios basales",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "75",
+                    "text": "• Tálamo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "75",
+                    "text": "• Tronco encefálico",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "parent": "71",
+            "text": "📌 Enfermedades\nautoinmunes:",
+            "guid": "MAEMaNm0quPOC77AfceGug",
+            "children": [
+              {
+                "id": "80",
+                "parent": "79",
+                "text": "✔ Encefalitis anti-NMDA → distonía + mov. anormales + síntomas cognitivos/conductuales.",
+                "guid": "gvtI1FnWfVArX6BFOr440w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "81",
+        "parent": "0",
+        "text": "4. DISTONÍAS\nIDIOPÁTICAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "82",
+            "parent": "81",
+            "text": "📌 Definición:",
+            "guid": "EdxtHUbXrBRsCUnhJzIkoA",
+            "children": [
+              {
+                "id": "83",
+                "parent": "82",
+                "text": "✔ Causa desconocida.",
+                "guid": "FAMFg9uVkrxn_ZB_R7fAGA",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "82",
+                "text": "✔ Mayoría de distonías focales/segmentarias en adultos.",
+                "guid": "YWvR5vw4LSSlvMFusc1mVg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "81",
+            "text": "📌 Herencia posible:",
+            "guid": "6S8wzkSRJszWfQUoyGefIw",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "✔ Esporádicas o agrupadas familiarmente.",
+                "guid": "vFpl24rHjs1EigYGl6NdSA",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "85",
+                "text": "✔ Si se identifica un gen, → reclasificación como hereditaria.",
+                "guid": "EX2PSCKNRbHLseK8ls3I1w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "88",
+        "parent": "0",
+        "text": "1. FACTORES CLÍNICOS\nRELEVANTES PARA CLASIFICACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "89",
+            "parent": "88",
+            "text": "✔ Edad de inicio",
+            "guid": "8fIfDymfpcESKg4EsR7zFQ",
+            "children": []
+          },
+          {
+            "id": "90",
+            "parent": "88",
+            "text": "✔ Distribución corporal",
+            "guid": "IzbU382U_wBoTh0MXeWWYA",
+            "children": []
+          },
+          {
+            "id": "91",
+            "parent": "88",
+            "text": "✔ Patrón temporal y dinámico",
+            "guid": "-oQBHmky3OBQSyjdYXDrXg",
+            "children": []
+          },
+          {
+            "id": "92",
+            "parent": "88",
+            "text": "✔ Características asociadas",
+            "guid": "awbAnFrte7A0KugIqGDeig",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "93",
+        "parent": "0",
+        "text": "2. CARACTERÍSTICAS\nMOTORAS DEFINITORIAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "94",
+            "parent": "93",
+            "text": "✔ Trastorno del mov. → Contracciones musculares sostenidas/intermitentes\n→ Mov. anormales, posturas o ambos.",
+            "guid": "I3Z0nsGJNsdzhev6qm1yOA",
+            "children": []
+          },
+          {
+            "id": "95",
+            "parent": "93",
+            "text": "✔ Mov. patrón torsional, repetitivo, tembloroso.",
+            "guid": "hqtCzCmStGmPvw0DU-k9YQ",
+            "children": []
+          },
+          {
+            "id": "96",
+            "parent": "93",
+            "text": "✔ Se agrava con acción voluntaria → “Overflow” (activación involuntaria de otros músculos).",
+            "guid": "vCf1t_FXzQehsS2oBI8yBA",
+            "children": []
+          },
+          {
+            "id": "97",
+            "parent": "93",
+            "text": "✔ Puede incluir temblor distónico (mov. rítmicos espasmódicos sobrepuestos).",
+            "guid": "G_XgwRlsCiVHbtqK4QJpbA",
+            "children": []
+          },
+          {
+            "id": "98",
+            "parent": "93",
+            "text": "📌 Excepciones:",
+            "guid": "bcFNDZYPGpiSg_DHwkfeTQ",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "✔ Blefaroespasmo y distonía laríngea → No hay postura anormal,\npero sí contracciones intermitentes que afectan función muscular.",
+                "guid": "eP413ZP0WuhWjKg_iCR7lA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "100",
+        "parent": "0",
+        "text": "3. CARACTERÍSTICAS\nNO MOTORAS",
+        "guid": "",
+        "children": [
+          {
+            "id": "101",
+            "parent": "100",
+            "text": "📌 Impacto en\ncalidad de vida:",
+            "guid": "OcT8CZ_Bbc6fRm6w9IPVwA",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "✔ Ansiedad y depresión → Frecuentes.",
+                "guid": "UVmqy7t5ttMn86yRRPerHQ",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "101",
+                "text": "✔ Alteraciones del sueño (insomnio, somnolencia diurna).",
+                "guid": "fKDVglEW-X8OksL0irkpEA",
+                "children": []
+              },
+              {
+                "id": "104",
+                "parent": "101",
+                "text": "✔ Severidad de distonía → Impacto en función social/emocional.",
+                "guid": "wB4rFoeOtVun4zvaQa-RBw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "105",
+        "parent": "0",
+        "text": "4. EDAD DE INICIO",
+        "guid": "",
+        "children": [
+          {
+            "id": "106",
+            "parent": "105",
+            "text": "📌 Importante para Dx y pronóstico",
+            "guid": "NcDZK_To1XrBVA3xcalFFQ",
+            "children": []
+          },
+          {
+            "id": "107",
+            "parent": "105",
+            "text": "A. Distonía de inicio\ntemprano (≤20 años)",
+            "guid": "gSb73lK2Lyuq6S5gGq2ZJQ",
+            "children": [
+              {
+                "id": "108",
+                "parent": "107",
+                "text": "✔ Infancia (0-2 años) / Niñez (3-12 años) / Adolescencia (13-20 años).",
+                "guid": "7PL19a1GIEURLZWwM_JO4A",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "107",
+                "text": "✔ Más probabilidad de ser genética/idiopática.",
+                "guid": "QasQsg_rC4DIoJyqgb3lCw",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "107",
+                "text": "✔ Frecuente en piernas → progresión lenta a generalizada.",
+                "guid": "bytbFrWNnoEpm_zYrms9kg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "111",
+            "parent": "105",
+            "text": "B. Distonía de inicio en\nadultos (>21 años)",
+            "guid": "4rXLBxa81p2XVkN96hOXJQ",
+            "children": [
+              {
+                "id": "112",
+                "parent": "111",
+                "text": "✔ Adultez temprana (21-40 años) / Adultez tardía (>40 años).",
+                "guid": "uHrmLVxKQaxTZgwCrBO-jQ",
+                "children": []
+              },
+              {
+                "id": "113",
+                "parent": "111",
+                "text": "✔ Frecuentemente focal o segmentaria → Afecta cuello, cara, brazos.",
+                "guid": "qfhEcdC6PaqS7IFuIfmTaw",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "111",
+                "text": "✔ Distonía generalizada en adultos es rara → Sospechar causa adquirida\n(fármacos, lesión cerebral).",
+                "guid": "oh1gsPy4WMDFDm_38mOsZQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "115",
+        "parent": "0",
+        "text": "5. DISTRIBUCIÓN\nCORPORAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "116",
+            "parent": "115",
+            "text": "📌 Puede cambiar con el tiempo → Expansión a regiones contiguas o distantes.",
+            "guid": "7zgWnieVlc8gFZ9rq15vJA",
+            "children": []
+          },
+          {
+            "id": "117",
+            "parent": "115",
+            "text": "✔ Focal → Un solo segmento corporal (ej. blefaroespasmo, distonía laríngea, calambre del escribiente).",
+            "guid": "j_L7GG_2mgdPORK5OKf8hg",
+            "children": []
+          },
+          {
+            "id": "118",
+            "parent": "115",
+            "text": "✔ Segmentaria → ≥2 regiones contiguas (ej. distonía craneal, cervical y brazo).",
+            "guid": "UV08iLgnfn45WwZ-FzjDBg",
+            "children": []
+          },
+          {
+            "id": "119",
+            "parent": "115",
+            "text": "✔ Generalizada → Tronco + ≥2 sitios más.",
+            "guid": "tl0bFRK-cNpjSufBKEBK3Q",
+            "children": []
+          },
+          {
+            "id": "120",
+            "parent": "115",
+            "text": "✔ Multifocal → ≥2 regiones NO contiguas.",
+            "guid": "Hi_V7qW0wrd59_jw_7tABg",
+            "children": []
+          },
+          {
+            "id": "121",
+            "parent": "115",
+            "text": "✔ Hemidistonía → Un solo lado del cuerpo → Causa adquirida\n(lesión contralateral en ganglios basales).",
+            "guid": "4QTZFGibHohaZlXqIDjcgg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "parent": "0",
+        "text": "6. PATRÓN TEMPORAL Y\nDINÁMICO",
+        "guid": "wHeT7swk17EXc7sfDsPeOQ",
+        "children": [
+          {
+            "id": "123",
+            "parent": "122",
+            "text": "✔ Específica por acción/tarea → Ej. distonía del escritor.",
+            "guid": "KG54Msyr7pRIQCwmpdqMbw",
+            "children": []
+          },
+          {
+            "id": "124",
+            "parent": "122",
+            "text": "✔ Fenómeno de “Overflow” → Movimiento en una zona afecta otra.",
+            "guid": "Ovx7EPL2Kn7KeNZeC1ANDA",
+            "children": []
+          },
+          {
+            "id": "125",
+            "parent": "122",
+            "text": "✔ Variación diurna → Empeora en el día (ej. distonía sensible a dopamina - DRD).",
+            "guid": "C0432WXCQhd2wvbh0SujIQ",
+            "children": []
+          },
+          {
+            "id": "126",
+            "parent": "122",
+            "text": "✔ “Geste antagoniste” (Truco sensorial) → Maniobras que reducen síntomas (ej. tocar suavemente la zona afecta).",
+            "guid": "RK_cxV447Fzea8Jgw2ACQg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "parent": "0",
+        "text": "7. DISTONÍA AISLADA\nvs COMBINADA",
+        "guid": "",
+        "children": [
+          {
+            "id": "128",
+            "parent": "127",
+            "text": "✔ Aislada → Solo distonía +/- temblor.",
+            "guid": "iYwPIEXgS-1uVuMav3DEtg",
+            "children": []
+          },
+          {
+            "id": "129",
+            "parent": "127",
+            "text": "✔ Combinada → Distonía + otro trastorno del movimiento (parkinsonismo, mioclonías).",
+            "guid": "8tKZy5EdCuXwDVaxcHKgJA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "130",
+        "parent": "0",
+        "text": "8. SÍNDROMES\nESPECÍFICOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "131",
+            "parent": "130",
+            "text": "A. Distonía de\ninicio temprano",
+            "guid": "uqS4yfcjS58tS6eO_cPvLg",
+            "children": [
+              {
+                "id": "132",
+                "parent": "131",
+                "text": "✔ DYT-TOR1A (ex DYT1) → Infancia, progresión a generalizada, mutación en TOR1A.",
+                "guid": "Fe0iy8xsk7PT4T3E_hbbpQ",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "131",
+                "text": "✔ DYT-THAP1 (ex DYT6) → Adolescentes, inicio craneocervical, penetrancia 60%.",
+                "guid": "EnUImG6jOaOJaC2p8fZhzA",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "131",
+                "text": "✔ DYT-KMT2B (ex DYT28) → Infancia, progresión rápida, discapacidad intelectual frecuente.",
+                "guid": "o6x6iPNSbUc2OrJXNwOpVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "130",
+            "text": "B. Distonía focal/segmentaria\nen adultos",
+            "guid": "rZiO4RUyt_PN0GBzQ8shxQ",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "✔ Cervical (tortícolis espasmódico) → Más común.",
+                "guid": "kIy2yyBbg6lfq7Ahmro5mQ",
+                "children": []
+              },
+              {
+                "id": "137",
+                "parent": "135",
+                "text": "✔ Blefaroespasmo → Afecta músculos perioculares.",
+                "guid": "CziJHwsEX8S6uwC4NlyVGw",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "135",
+                "text": "✔ Oromandibular → Mandíbula, lengua, músculos faciales.",
+                "guid": "9Tc9w5KoqaLYAMmqSQYF1Q",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "135",
+                "text": "✔ Laríngea → Interrumpe habla, más común en mujeres.",
+                "guid": "PcxsxMrSi_-6gfdm1VMNZw",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "135",
+                "text": "✔ Miembro superior → Calambre del escribiente, distonía de músicos.",
+                "guid": "xaqZpSbWWpr-bD3wCkdosQ",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "135",
+                "text": "✔ DYT-GNAL (ex DYT25) → Distonía craneocervical autosómica dominante.",
+                "guid": "cmjgbwFQmWQkfrwNIjYdCw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "142",
+        "parent": "0",
+        "text": "C. Distonía combinada",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "143",
+        "parent": "0",
+        "text": "✔ Distonía-Parkinsonismo →\nDRD, Enf. de Wilson,\nPARK-PINK1-DJ1, Lubag\n(DYT-TAF1).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "144",
+        "parent": "0",
+        "text": "✔ Mioclonía-Distonía →\nDYT-SGCE, DYT-KCTD17.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "145",
+        "parent": "0",
+        "text": "✔ Paroxística → No kinesigénica\n(DYT-MR1), kinesigénica (DYT-PRRT2),\ninducida por ejercicio (DYT-SLC2A1).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "146",
+        "parent": "0",
+        "text": "D. Distonía sensible a\ndopamina (DRD)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "147",
+        "parent": "0",
+        "text": "✔ Autosómica dominante\n(DYT-GCH1) → Respuesta\nsostenida a levodopa.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "148",
+        "parent": "0",
+        "text": "✔ Autosómica recesiva (DYT-TH,\nDYT-SPR) → Responde a levodopa,\npero menos frecuente.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "149",
+        "parent": "0",
+        "text": "📌 Conclusión",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "150",
+        "parent": "0",
+        "text": "✔ Clasificación basada en edad de\ninicio, distribución, patrón y\ncaracterísticas motoras/no motoras.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "151",
+        "parent": "0",
+        "text": "✔ Etiología genética vs adquirida →\nGuía evaluación y manejo.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "✔ Distonía focal/segmentaria en\nadultos es frecuente y rara vez\nprogresa a generalizada.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "153",
+        "parent": "0",
+        "text": "✔ Tratamiento específico según subtipo (Ej. DRD\ncon levodopa, distonía cervical con toxina\nbotulínica, DBS en casos graves).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "154",
+        "parent": "0",
+        "text": "DIAGNÓSTICO DIFERENCIAL\nY EVALUACIÓN DIAGNÓSTICA\nDE LA DISTONÍA",
+        "guid": "aXs3_v52gCvib36eYDBAew",
+        "children": []
+      },
+      {
+        "id": "155",
+        "parent": "0",
+        "text": "1. DIAGNÓSTICO\nDIFERENCIAL",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "156",
+        "parent": "0",
+        "text": "1.1. Pseudodistonía\n(Mimics de distonía)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "157",
+        "parent": "0",
+        "text": "📌 Movimientos, posturas o\nespasmos que imitan distonía\npero tienen otra causa.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "✔ Ejemplos:",
+        "guid": "",
+        "children": [
+          {
+            "id": "159",
+            "parent": "158",
+            "text": "• Síndrome de Sandifer (ERGE en\nlactantes) → Posturas anormales.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "160",
+            "parent": "158",
+            "text": "• Tortícolis congénito.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "161",
+            "parent": "158",
+            "text": "• Subluxaciones atlantoaxial o\ntemporomandibular.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "162",
+            "parent": "158",
+            "text": "• Escoliosis severa.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "163",
+        "parent": "0",
+        "text": "1.2. Distonía\nfuncional\n(psicogénica)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "164",
+        "parent": "0",
+        "text": "📌 Puede ser focal o generalizada, pero\ncon características atípicas.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "165",
+        "parent": "0",
+        "text": "✔ Movimientos\ninconsistentes, sin relación\nclara con postura/actividad.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "166",
+        "parent": "0",
+        "text": "✔ Ausencia de “overflow”\nmarcado (aunque puede haber\nleve en personas sanas).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "167",
+        "parent": "0",
+        "text": "✔ Posturas fijas postraumáticas\nsin causa estructural.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "168",
+        "parent": "0",
+        "text": "2. EVALUACIÓN\nDIAGNÓSTICA",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "169",
+        "parent": "0",
+        "text": "📌 Dx clínico basado en historia\ny examen neurológico.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "170",
+        "parent": "0",
+        "text": "✔ Confirmar si es distonía aislada o\nsecundaria a otra condición.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "171",
+        "parent": "0",
+        "text": "✔ Considerar prueba con levodopa,\nestudios de laboratorio y neuroimagen\nen casos seleccionados.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "172",
+        "parent": "0",
+        "text": "2.1. Historia clínica y\nexamen neurológico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "173",
+        "parent": "0",
+        "text": "✔ Edad de inicio y distribución\nanatómica → Indicios clave para Dx.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "174",
+        "parent": "0",
+        "text": "✔ Revisión de medicamentos → Fármacos\nbloqueadores de R-Dopamina (neurolépticos,\nmetoclopramida) → Sospecha de distonía tardía.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "✔ Patrón atípico →\nSospecha de otra causa:",
+        "guid": "",
+        "children": [
+          {
+            "id": "176",
+            "parent": "175",
+            "text": "• Distonía en\ncuello/cara en\nniños.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "177",
+            "parent": "175",
+            "text": "• Distonía en pierna en adultos →\nSospecha Parkinson temprano.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "178",
+            "parent": "175",
+            "text": "• Distonía generalizada en adultos →\nSospecha causa adquirida.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "179",
+            "parent": "175",
+            "text": "• Hemidistonía → Sospecha\nlesión cerebral contralateral.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "180",
+        "parent": "0",
+        "text": "2.2. Prueba\ncon levodopa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "181",
+        "parent": "0",
+        "text": "📌 Indicación:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "182",
+        "parent": "0",
+        "text": "✔ Jóvenes (≤20 años) con\ndistonía focal/generalizada\nsin causa clara.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "183",
+        "parent": "0",
+        "text": "✔ Historia familiar de\ndistonía o parkinsonismo.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "184",
+        "parent": "0",
+        "text": "✔ Adultos con distonía\nde causa incierta.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "185",
+        "parent": "0",
+        "text": "📌 Interpretación:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "186",
+        "parent": "0",
+        "text": "✔ Respuesta marcada y\nsostenida → Distonía\nsensible a dopamina (DRD).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "187",
+        "parent": "0",
+        "text": "✔ Respuesta parcial o nula →\nDRD menos probable.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "188",
+        "parent": "0",
+        "text": "2.3. Estudios de\nlaboratorio y\nneuroimagen",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "189",
+        "parent": "0",
+        "text": "📌 Indicación: Sospecha de\ncausa adquirida, hereditaria o\nneurodegenerativa.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "190",
+        "parent": "0",
+        "text": "✔ Neuroimagen:",
+        "guid": "",
+        "children": [
+          {
+            "id": "191",
+            "parent": "190",
+            "text": "• TC/MRI cerebral → Buscar\ncalcificaciones, necrosis en ganglios\nbasales u otras anomalías.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "192",
+            "parent": "190",
+            "text": "• DaTscan (SPECT con\n¹²³I-FP-CIT) → Útil en casos con\nsospecha de parkinsonismo.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "193",
+        "parent": "0",
+        "text": "✔ Laboratorio básico:",
+        "guid": "",
+        "children": [
+          {
+            "id": "194",
+            "parent": "193",
+            "text": "• Hemograma, electrolitos,\nfunción renal/hepática.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "195",
+            "parent": "193",
+            "text": "• ANA, VSG, RPR (sífilis).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "196",
+            "parent": "193",
+            "text": "• Ceruloplasmina y cobre sérico + excreción urinaria\n24h + lámpara de hendidura (anillos de\nKayser-Fleischer) → Descartar Enf. de Wilson.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "197",
+        "parent": "0",
+        "text": "3. PRUEBAS\nGENÉTICAS",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "198",
+        "parent": "0",
+        "text": "📌 Indicación:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "199",
+        "parent": "0",
+        "text": "✔ Distonía de\ninicio temprano.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "200",
+        "parent": "0",
+        "text": "✔ Historia familiar de\ndistonía/parkinsonismo.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "201",
+        "parent": "0",
+        "text": "✔ Adultos con distonía\nde causa incierta.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "202",
+        "parent": "0",
+        "text": "✔ Pruebas\nrecomendadas:",
+        "guid": "",
+        "children": [
+          {
+            "id": "203",
+            "parent": "202",
+            "text": "• DYT-TOR1A → Primera prueba en\ndistonía temprana, especialmente en\njudíos Ashkenazíes.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "204",
+            "parent": "202",
+            "text": "• Panel multigénico para DRD (DYT-GCH1),\nmioclonía-distonía (DYT-SGCE),\ndistonía-parkinsonismo rápido (DYT-ATP1A3),\ndeficiencia de GLUT1 (DYT-SLC2A1).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "205",
+            "parent": "202",
+            "text": "• Wilson (ATP7B) → Si\nsospecha clínica alta.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "206",
+        "parent": "0",
+        "text": "✔ Secuenciación de nueva\ngeneración (NGS) → Aumento en el\nrendimiento diagnóstico (10-20%).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "207",
+        "parent": "0",
+        "text": "📌 Puntos clave:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "208",
+        "parent": "0",
+        "text": "✔ Distonía en niños y adultos\njóvenes → Mayor probabilidad\nde causa genética.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "209",
+        "parent": "0",
+        "text": "✔ Distonía en adultos → Menos\nprobabilidad de causa genética, pero\nconsiderar Wilson o GLUT1.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "210",
+        "parent": "0",
+        "text": "✔ NGS y exoma/genoma completo →\nMayor rendimiento en distonía con\nsíntomas neurológicos adicionales.",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 211,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "UTD. Distonia-2025",
+  "id": "map_1588",
+  "resolved_references": []
+}

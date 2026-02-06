@@ -1,0 +1,2948 @@
+{
+  "title": "HTA ORIGEN ENDOCRINO",
+  "guid": "038EF22543349BC5592032F1",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Cardiología/Arteaga | Hipertension Endrocrina-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HTA ORIGEN\nENDOCRINO",
+    "guid": "ccxo6xJAUSdfaFt0FpquDw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Población adulta → 26% presenta HTA",
+            "guid": "O0mHPCb6msk_RztMOFSZGg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• HTA resistente →\n2-35% hipertensos",
+            "guid": "AIN-TlLrkDVbdPdvDm1wVw",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "→ PA>140/90 pob.general",
+                "guid": "HVb2iQUWCI8KLBMTCtBTdA",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "→ PA>130/80 DM/IRC",
+                "guid": "cP-P-mMcEtx1PcaMBwVHAA",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "→ ≥3 antihipertensivos + diurético",
+                "guid": "bQmfYQMnT5gVbdjNKSWUyg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "• Meta PA<140/90 → solo 45-81% alcanza",
+            "guid": "BrZBvliidJICRce7eIKqqQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "CAUSAS\nPRINCIPALES",
+        "guid": "HgfR2hCpKZxmPo_WSkI4-A",
+        "children": [
+          {
+            "id": "9",
+            "parent": "8",
+            "text": "1. Hiperaldosteronismo 1º (HAP)",
+            "guid": "auLFumGuIy8PHVi4WQ2-Ww",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "8",
+            "text": "2. Exceso mineralocorticoides",
+            "guid": "LIKWkz7i79waB5ubZ8wdzw",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "8",
+            "text": "3. Menos frecuentes:",
+            "guid": "Zd2KpVlO1uggILbpZmEI9A",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "→ S.Cushing",
+                "guid": "LDpnHXuVrlh0znlLSZFdpw",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "11",
+                "text": "→ Acromegalia",
+                "guid": "AKu25376jF5UYbEbcatG4g",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "11",
+                "text": "→ Hiperparatiroidismo 1º",
+                "guid": "YhafOkmfd6h4sI3iTyA-mw",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "11",
+                "text": "→ Hipertiroidismo",
+                "guid": "TMbHQA4eZq94RdNlU30I_g",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "11",
+                "text": "→ Hipotiroidismo",
+                "guid": "ZsDbQnqLmyBL_7OoUaOg_A",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "11",
+                "text": "→ Feocromocitoma",
+                "guid": "XDm-UFsdDGAqsV9XCLxU4w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "18",
+        "parent": "0",
+        "text": "HIPERALDOSTERONISMO 1º\n(HAP)",
+        "guid": "Gf_8PES4-vJwiHKzf92G4g",
+        "children": [
+          {
+            "id": "19",
+            "parent": "18",
+            "text": "CARACTERÍSTICAS:",
+            "guid": "ZDeRXnlRYp4VfauqcHZpUw",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "→ Dx precoz importante x > morbimortalidad CV vs HTA esencial",
+                "guid": "DD7X9VsNCSET05afDOqO3A",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "19",
+                "text": "• Aldosterona ↑ autónoma",
+                "guid": "VF5rvylRQkl9YPgwLmYBPw",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "19",
+                "text": "• No supresible x Na+",
+                "guid": "EYaKA3v2ze5qhDX5Q1tJZg",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "19",
+                "text": "• Hipokalemia: 9-37% casos (7)",
+                "guid": "MdS_YndGY6ALPnNVfpuGow",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "19",
+                "text": "• Prevalencia: >10% hipertensos (7)",
+                "guid": "WgeVf2g1R7p-ldW-PB40ug",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "• Adenomas productores → 50% casos",
+                    "guid": "cz0xj3XCqU5B9tAJeKH73w",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "• HAP idiopático → 17% casos",
+                    "guid": "eUbwCRQPX6pkx6Fxd1bR5Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "18",
+            "text": "ETIOLOGÍA\nHAP (7):",
+            "guid": "BWTKUAOERrtSGI-hbCWlkg",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "1. APA (adenoma productor aldosterona) → 30-35%",
+                "guid": "fg_h2x4YQ0k9yUaOWkmgKw",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "2. IHA (hiperaldosteronismo idiopático) → 60-70%",
+                "guid": "eTVPqmh6peVjBfUPEzVL5g",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "27",
+                "text": "3. HPU (hiperplasia suprarrenal uni/bilateral)",
+                "guid": "LTOg11OOZ8ITEtLISztysg",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "27",
+                "text": "HIPERALDOSTERONISMO\nFAMILIAR (HF)",
+                "guid": "VjqPsjg_FuMXK2LKSXfBQQ",
+                "children": [
+                  {
+                    "id": "32",
+                    "parent": "31",
+                    "text": "• Tipo I → remediable x glucocorticoides (GRA)",
+                    "guid": "CwuN5DSmZx8-kj6EOD8uuw",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "31",
+                    "text": "• Tipo II y III → recién descritos",
+                    "guid": "CDTO4VGlEU0DeqFtbGxgQA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "parent": "18",
+            "text": "EVALUACIÓN\nBIOQUÍMICA HAP",
+            "guid": "",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "INDICACIONES\nTAMIZAJE:",
+                "guid": "SvZz6xj4TRdc4smTH1Tfqw",
+                "children": [
+                  {
+                    "id": "36",
+                    "parent": "35",
+                    "text": "1. HTA moderada-grave",
+                    "guid": "QkmPYFpDwcNNuuDqU9AZZA",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "35",
+                    "text": "2. HTA resistente → PA>140/90 + 3 antihipertensivos",
+                    "guid": "LgHAMVkiMtNCGb0gJ0iwOw",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "35",
+                    "text": "3. HTA + hipokalemia (espontánea/x diuréticos)",
+                    "guid": "bTGSfSbhXpEen4IgH1k1cQ",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "35",
+                    "text": "4. HTA + incidentaloma suprarrenal",
+                    "guid": "SXJGkHA_9DBKtigPVH3UdA",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "35",
+                    "text": "5. HTA familiar/AVE <40 años",
+                    "guid": "JOZbUAlIZpQMvQMvLRsqMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "35",
+                    "text": "6. Familiares 1º grado pacientes HAP",
+                    "guid": "Wu134RA3pJ0Zh4pxJePrzA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42",
+                "parent": "34",
+                "text": "TEST\nTAMIZAJE:",
+                "guid": "KS_xtHZqVAVFOMt3a3mBFQ",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "ARR (Aldosterone\nto Renin Ratio)",
+                    "guid": "UK4VyBLzrGE_SZp5Juileg",
+                    "children": [
+                      {
+                        "id": "44",
+                        "parent": "43",
+                        "text": "• Condiciones:",
+                        "guid": "SzLDRFZ0_UNwYGa7eTSDdg",
+                        "children": [
+                          {
+                            "id": "45",
+                            "parent": "44",
+                            "text": "→ Ayuno + reposo 30min",
+                            "guid": "L5cwFjJ6I9sgfTOxHMjCkw",
+                            "children": []
+                          },
+                          {
+                            "id": "46",
+                            "parent": "44",
+                            "text": "→ 9am sentado",
+                            "guid": "WVuCbD8ctdE8IfgFIs3I_A",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "47",
+                        "parent": "43",
+                        "text": "• Valores sospecha:",
+                        "guid": "L1yqAQbYIBR3S51wVEMFUQ",
+                        "children": [
+                          {
+                            "id": "48",
+                            "parent": "47",
+                            "text": "→ ARR >25 + aldosterona >10 ng/dL",
+                            "guid": "ECCGqAQIoKABXi-Daw3-iQ",
+                            "children": []
+                          },
+                          {
+                            "id": "49",
+                            "parent": "47",
+                            "text": "→ Si ARP suprimida → usar 0.3 ng/mL/h",
+                            "guid": "FEBFPRrlufQQ8epWPXA28Q",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "50",
+                        "parent": "43",
+                        "text": "PREPARACIÓN\nTEST:",
+                        "guid": "EVAN-VYqtc0o6bgGYf4jwg",
+                        "children": [
+                          {
+                            "id": "51",
+                            "parent": "50",
+                            "text": "1. Corregir hipokalemia",
+                            "guid": "aR5iL2gzUn8I5sk8NFElcw",
+                            "children": []
+                          },
+                          {
+                            "id": "52",
+                            "parent": "50",
+                            "text": "2. Dieta libre Na+",
+                            "guid": "PqhPwnlHL_gthajpbj9_2A",
+                            "children": []
+                          },
+                          {
+                            "id": "53",
+                            "parent": "50",
+                            "text": "3. Suspender fármacos interferentes (≥2sem)",
+                            "guid": "K8FT004C3JoLCEJsBRzWQA",
+                            "children": []
+                          },
+                          {
+                            "id": "54",
+                            "parent": "50",
+                            "text": "4. Cambiar a antihipertensivos mínima interferencia",
+                            "guid": "DR-Sa0cqOnEn6p88PHw8bQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "55",
+                        "parent": "43",
+                        "text": "FÁRMACOS A\nSUSPENDER:",
+                        "guid": "TgJahR82PK0Qv0G-XiLhLg",
+                        "children": [
+                          {
+                            "id": "56",
+                            "parent": "55",
+                            "text": "FALSOS NEGATIVOS\nARR:",
+                            "guid": "Q7aIYi67drgHA1wqSN042w",
+                            "children": [
+                              {
+                                "id": "57",
+                                "parent": "56",
+                                "text": "• Ahorradores de K",
+                                "guid": "C3cqTmWkPoY-K8QpN0HJJA",
+                                "children": [
+                                  {
+                                    "id": "58",
+                                    "parent": "57",
+                                    "text": "• Triamterene",
+                                    "guid": "ME1_2x3ZEYIgUVzxGWviCg",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "59",
+                                    "parent": "57",
+                                    "text": "• Amiloride",
+                                    "guid": "LQMrNloiyg1071l7PlM5Lw",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "60",
+                                    "parent": "57",
+                                    "text": "• Espironolactona",
+                                    "guid": "KgOWLhnkuAQcBkPaRIHyUQ",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "61",
+                                "parent": "56",
+                                "text": "• Diuréticos K+",
+                                "guid": "BgxkASk4Ji5NvQd9RLSzxA",
+                                "children": [
+                                  {
+                                    "id": "62",
+                                    "parent": "61",
+                                    "text": "• Tiazidas",
+                                    "guid": "PYVVnE1SMAcCPyvBc0Nkdg",
+                                    "children": []
+                                  },
+                                  {
+                                    "id": "63",
+                                    "parent": "61",
+                                    "text": "Furosemida",
+                                    "guid": "",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "64",
+                                "parent": "56",
+                                "text": "• Anticonceptivos",
+                                "guid": "OH7h9z-0n4J3vS8hIxzYVg",
+                                "children": []
+                              },
+                              {
+                                "id": "65",
+                                "parent": "56",
+                                "text": "• BCC dihidropiridínicos",
+                                "guid": "K8qe1kqDDd4wOiTbEyNOkg",
+                                "children": []
+                              },
+                              {
+                                "id": "66",
+                                "parent": "56",
+                                "text": "• IECA",
+                                "guid": "R8777Hd7h7tWBJ6GHG6R3g",
+                                "children": []
+                              },
+                              {
+                                "id": "67",
+                                "parent": "56",
+                                "text": "• ARA II",
+                                "guid": "Yac9MHcZEcYhW6eraawEKA",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "68",
+                            "parent": "55",
+                            "text": "FALSOS POSITIVOS\nARR:",
+                            "guid": "YpAJ3EvCisxt5w9lGw7r0w",
+                            "children": [
+                              {
+                                "id": "69",
+                                "parent": "68",
+                                "text": "• Clonidina",
+                                "guid": "UD0gNwuYG1lDwYtPE_OomQ",
+                                "children": []
+                              },
+                              {
+                                "id": "70",
+                                "parent": "68",
+                                "text": "• Inhibidores renina",
+                                "guid": "Gn5cIyOgnZgxS-wtPb05cA",
+                                "children": [
+                                  {
+                                    "id": "71",
+                                    "parent": "70",
+                                    "text": "• Aliskireno (cuando renina = actividad plasmática)",
+                                    "guid": "OlOSEUrE53lc0OF1ZFcoPw",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "72",
+                                "parent": "68",
+                                "text": "• β-bloqueadores",
+                                "guid": "ZKmffXjXJU8o2RqQIi71GQ",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "73",
+                        "parent": "43",
+                        "text": "ANTIHIPERTENSIVOS\nPERMITIDOS:",
+                        "guid": "Nb4O2np8y-R1PFv6YsE6EA",
+                        "children": [
+                          {
+                            "id": "74",
+                            "parent": "73",
+                            "text": "1. Verapamilo LP → 90-120mg/12h",
+                            "guid": "VJ-V8mortXUhFHM_BO0VzQ",
+                            "children": []
+                          },
+                          {
+                            "id": "75",
+                            "parent": "73",
+                            "text": "2. Hidralazina → 10-12.5mg/12h",
+                            "guid": "CATG90Fl0DEeWPfXDhEq-Q",
+                            "children": []
+                          },
+                          {
+                            "id": "76",
+                            "parent": "73",
+                            "text": "3. Prazosina → 0.5-1mg/12h",
+                            "guid": "ap32X2wV_1RSxd69DR1MhQ",
+                            "children": []
+                          },
+                          {
+                            "id": "77",
+                            "parent": "73",
+                            "text": "4. Doxazosina → 1-2mg/24h",
+                            "guid": "Z1ivuwW6EllbXfZ-MJ48vQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "78",
+                "parent": "34",
+                "text": "CONFIRMACIÓN\nBIOQUÍMICA HAP",
+                "guid": "IpPODGt2-BYqZuMhBDsLPQ",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "INDICACIÓN:",
+                    "guid": "MCdMZG5l6QRKZRe2AGRsmw",
+                    "children": [
+                      {
+                        "id": "80",
+                        "parent": "79",
+                        "text": "→ Renina plasmática aumentada",
+                        "guid": "agAb-UGB2T9fxB8VMClxUA",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "79",
+                        "text": "→ Evita exámenes riesgosos innecesarios",
+                        "guid": "WOuKfnEo9qoYqL6vPZUp-w",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "79",
+                        "text": "→ ARR >25 → test confirmatorio obligatorio",
+                        "guid": "ef4EXg4mowUUWBU1NFGWbw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "83",
+                    "parent": "78",
+                    "text": "SELECCIÓN TEST:",
+                    "guid": "bJofkXU2eKU-IcKTDy3tnQ",
+                    "children": [
+                      {
+                        "id": "84",
+                        "parent": "83",
+                        "text": "• Sin evidencia suficiente para recomendar uno específico",
+                        "guid": "YK1wu2iIpbQTaPjaQz16mA",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "83",
+                        "text": "• Considerar:",
+                        "guid": "HQELpFHWbRZmEJMpBwEnnQ",
+                        "children": [
+                          {
+                            "id": "86",
+                            "parent": "85",
+                            "text": "→ Costos",
+                            "guid": "NEswgAFQCD9eTGZrP8Jazg",
+                            "children": []
+                          },
+                          {
+                            "id": "87",
+                            "parent": "85",
+                            "text": "→ Cumplimiento paciente",
+                            "guid": "ZvRGxRx4KpV3BCPzFxuTKQ",
+                            "children": []
+                          },
+                          {
+                            "id": "88",
+                            "parent": "85",
+                            "text": "→ Laboratorio disponible",
+                            "guid": "Ct4TmUFpO6kXf__FBNwX9w",
+                            "children": []
+                          },
+                          {
+                            "id": "89",
+                            "parent": "85",
+                            "text": "→ Experiencia local",
+                            "guid": "T4_eryvYFPo5La5nKHtpLQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "90",
+                    "parent": "78",
+                    "text": "TESTS\nCONFIRMATORIOS:",
+                    "guid": "ITzSv3eSKm5oFCplevd59g",
+                    "children": [
+                      {
+                        "id": "91",
+                        "parent": "90",
+                        "text": "1. Sobrecarga salina IV:",
+                        "guid": "E1hGVUXUsj43Kpjuf_Jl5g",
+                        "children": [
+                          {
+                            "id": "92",
+                            "parent": "91",
+                            "text": "→ Simple + rápido",
+                            "guid": "Owsq43VMW4EPIFOEG7ibng",
+                            "children": []
+                          },
+                          {
+                            "id": "93",
+                            "parent": "91",
+                            "text": "→ No requiere orina",
+                            "guid": "XdUBNiKJTF5e9hY2EiAxtg",
+                            "children": []
+                          },
+                          {
+                            "id": "94",
+                            "parent": "91",
+                            "text": "→ 2L SF 0.9% en 4h",
+                            "guid": "I9lUnj1CfKJR4oyFCs2bYw",
+                            "children": []
+                          },
+                          {
+                            "id": "95",
+                            "parent": "91",
+                            "text": "→ Aldosterona: 9am pre/post",
+                            "guid": "WbqnN0jmsHgh6S6NZJi60A",
+                            "children": []
+                          },
+                          {
+                            "id": "96",
+                            "parent": "91",
+                            "text": "→ (+) si aldosterona post >5 ng/dL",
+                            "guid": "Ck_sITlpLlJpdNLIWd_K0A",
+                            "children": []
+                          },
+                          {
+                            "id": "97",
+                            "parent": "91",
+                            "text": "→ Más usado",
+                            "guid": "ZUFDTCKigS8CWzP-AkJO8A",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "98",
+                        "parent": "90",
+                        "text": "2. Supresión\nfludrocortisona:",
+                        "guid": "dHjuRWhrxycJQ3aNB9E0mg",
+                        "children": [
+                          {
+                            "id": "99",
+                            "parent": "98",
+                            "text": "→ 0.1mg/6h x 4 días",
+                            "guid": "LkB5ZUBuD3sHw5qBaUukSA",
+                            "children": []
+                          },
+                          {
+                            "id": "100",
+                            "parent": "98",
+                            "text": "→ Aldosterona día 5 a 9am",
+                            "guid": "Nbpq_Rbj7gUFBD_mE49sMw",
+                            "children": []
+                          },
+                          {
+                            "id": "101",
+                            "parent": "98",
+                            "text": "→ (+) si >5 ng/dL",
+                            "guid": "OW06Y2P6Vh0lr53pXUaPAQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "102",
+                        "parent": "90",
+                        "text": "3. Sobrecarga\noral Na+:",
+                        "guid": "eDK7MyYwdrl5diZPfsvvVg",
+                        "children": [
+                          {
+                            "id": "103",
+                            "parent": "102",
+                            "text": "→ Requiere orina",
+                            "guid": "MhU4riZW7DMgi8l4QYTFrA",
+                            "children": []
+                          },
+                          {
+                            "id": "104",
+                            "parent": "102",
+                            "text": "→ NaCl 6g/día x 3 días + K+",
+                            "guid": "WoR8QAh9dRV_NMwOTyAbyQ",
+                            "children": []
+                          },
+                          {
+                            "id": "105",
+                            "parent": "102",
+                            "text": "→ (+) si:",
+                            "guid": "UjBhSjdbnQg-0l3cYiqh-A",
+                            "children": [
+                              {
+                                "id": "106",
+                                "parent": "105",
+                                "text": "• Aldosterona urinaria >12 µg/24h",
+                                "guid": "GvCxq1wfW2QTYbVldhfwvA",
+                                "children": []
+                              },
+                              {
+                                "id": "107",
+                                "parent": "105",
+                                "text": "• Na+ urinario >200 mEq/24h",
+                                "guid": "YYCDUT-QQsgRuAqzcN8EMA",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "108",
+                        "parent": "90",
+                        "text": "4. Test captopril:",
+                        "guid": "Wr-_aTF7V0sO4G63XfId9A",
+                        "children": [
+                          {
+                            "id": "109",
+                            "parent": "108",
+                            "text": "→ Posición sentada 60min",
+                            "guid": "S08E8Xgg67NDpAxTIBLOqQ",
+                            "children": []
+                          },
+                          {
+                            "id": "110",
+                            "parent": "108",
+                            "text": "→ 25mg captopril oral 9am",
+                            "guid": "AzJeiz8Q3wZgfiEfNUeXOQ",
+                            "children": []
+                          },
+                          {
+                            "id": "111",
+                            "parent": "108",
+                            "text": "→ Medir a 2h:",
+                            "guid": "ZWfLOQEJ6pd2zFzlP-xHeg",
+                            "children": [
+                              {
+                                "id": "112",
+                                "parent": "111",
+                                "text": "• Aldosterona plasmática",
+                                "guid": "CYdfrHYBKPQPDGNDAboa3w",
+                                "children": []
+                              },
+                              {
+                                "id": "113",
+                                "parent": "111",
+                                "text": "• ARP",
+                                "guid": "HDGfrQiCiZMAhgo1bmIA9w",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "114",
+                            "parent": "108",
+                            "text": "→ (+) si:",
+                            "guid": "P94mmz9YaBFQjKLvWs7YRg",
+                            "children": [
+                              {
+                                "id": "115",
+                                "parent": "114",
+                                "text": "• ARR >30 o",
+                                "guid": "G3fDdmPuWFRQ5skCfPhGxw",
+                                "children": []
+                              },
+                              {
+                                "id": "116",
+                                "parent": "114",
+                                "text": "• Aldosterona >8.5 ng/dL",
+                                "guid": "I36bHGKe07Zt10r4bs2gDQ",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "117",
+                    "parent": "78",
+                    "text": "PRECAUCIONES\nTESTS:",
+                    "guid": "O4hnPlsnfppIHDS-VwAqtA",
+                    "children": [
+                      {
+                        "id": "118",
+                        "parent": "117",
+                        "text": "• Fludrocortisona/salina IV:",
+                        "guid": "cIw2Um9ej9YTObUtVfQBiw",
+                        "children": [
+                          {
+                            "id": "119",
+                            "parent": "118",
+                            "text": "→ Contraindicados: HTA no controlada/ICC",
+                            "guid": "cGh6bQoGEhMV4EkFee_aGQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "120",
+                        "parent": "117",
+                        "text": "• Captopril:",
+                        "guid": "AAc7ByTsrEl7qfT4HDjatA",
+                        "children": [
+                          {
+                            "id": "121",
+                            "parent": "120",
+                            "text": "→ Preferible si riesgo sobrecarga volumen",
+                            "guid": "LW813Hwv_y0KmturbU1cdw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "122",
+            "parent": "18",
+            "text": "ALGORITMO\nESTUDIO HAP:",
+            "guid": "D16A3wu-wilmaOD_UsUIIw",
+            "children": [
+              {
+                "id": "123",
+                "parent": "122",
+                "text": "1. HTA alta probabilidad HAP",
+                "guid": "QHja5gn9WPJfkDTGSsjHCA",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "122",
+                "text": "2. Medir ARR",
+                "guid": "Q2aHREkFB44kqJHYKKfKkA",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "→ <25 → HAP improbable",
+                    "guid": "a6eIvScDxdYq6hmAYCB3Ag",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "→ >25 → Test confirmatorio",
+                    "guid": "D2-M_TQtkA1n8audPbAGYg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "127",
+                "parent": "122",
+                "text": "3. Si (+) → TAC abdomen",
+                "guid": "dJufiW-1Rh4m-6qqKlYKhg",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "122",
+                "text": "4. Según hallazgos:",
+                "guid": "Bpk0Iyv_6pE95Xa5QAZuhg",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "→ Unilateral → Suprarrenalectomía laparoscópica",
+                    "guid": "D_pArmOVFKIdTP2IMTcTbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "→ Bilateral → Antagonistas mineralocorticoides",
+                    "guid": "RilVVysYRlEVclmQDfhRQw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "131",
+                "parent": "122",
+                "text": "5. Resultado → Determina subtipo",
+                "guid": "Wyc_EQVhJ-0sLo1jG6AZ9w",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "122",
+                "text": "CLASIFICACIÓN\nSUBTIPO HAP",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "133",
+            "parent": "18",
+            "text": "EXÁMENES\nFUNDAMENTALES:",
+            "guid": "XmxhlgOlgzYo2rbYRGNgMg",
+            "children": [
+              {
+                "id": "134",
+                "parent": "133",
+                "text": "1. TAC abdomen:",
+                "guid": "PxXW7hkC_cBT-HF8YpRyCg",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "→ Obligatorio si HAP confirmado",
+                    "guid": "e6HRdkHPvHRRYhIXVmGQ3w",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "→ APA: nódulo <2cm",
+                    "guid": "c0sTv2BCgM40U67TY9dKEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "134",
+                    "text": "→ IHA: glándulas normales/↑bilateral",
+                    "guid": "T6EQpEeNZAE5y0udQAmLEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "134",
+                    "text": "→ Carcinomas: >4cm",
+                    "guid": "UZN2FE-rlKI5-WUqUZqxGw",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "134",
+                    "text": "• Limitaciones (7):",
+                    "guid": "MdNZT3huZ3oPVNM_bVvAjg",
+                    "children": [
+                      {
+                        "id": "140",
+                        "parent": "139",
+                        "text": "→ APA pequeños",
+                        "guid": "dJhA6zWjWiJt04vPIgd2xw",
+                        "children": []
+                      },
+                      {
+                        "id": "141",
+                        "parent": "139",
+                        "text": "→ IHA falso",
+                        "guid": "cHQFvRhUXL51QC8MbBXXNA",
+                        "children": []
+                      },
+                      {
+                        "id": "142",
+                        "parent": "139",
+                        "text": "→ Adenomas no funcionantes",
+                        "guid": "U5XmFFdxB_1EW-tCEqu9Ag",
+                        "children": []
+                      },
+                      {
+                        "id": "143",
+                        "parent": "139",
+                        "text": "→ Exactitud 53%",
+                        "guid": "WiQZMkaiQSNCd2gTTW8s8g",
+                        "children": []
+                      },
+                      {
+                        "id": "144",
+                        "parent": "139",
+                        "text": "→ RM sin ventajas vs TAC",
+                        "guid": "JuTB8nbLFucxRncDdoXSlg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "145",
+                "parent": "133",
+                "text": "2. MVS (muestreo\nvenas suprarrenales):",
+                "guid": "Plh66GsRwqA2j12oD-vw_A",
+                "children": [
+                  {
+                    "id": "146",
+                    "parent": "145",
+                    "text": "→ Indicado pre-cirugía",
+                    "guid": "Or1XQ3CIwtJhhqIXL1WYLg",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "145",
+                    "text": "→ Gold standard lateralización",
+                    "guid": "Jiwc9U9aLeZRXQ72V_92RA",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "145",
+                    "text": "• Características (7):",
+                    "guid": "aeyopVckLzdJnsT4ENFqlw",
+                    "children": [
+                      {
+                        "id": "149",
+                        "parent": "148",
+                        "text": "→ Sensibilidad 95%",
+                        "guid": "R8iVYGCx4jVFWzbSG157dA",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "148",
+                        "text": "→ Especificidad 100%",
+                        "guid": "OCLqMgm3IhUuCjh2KJbv7w",
+                        "children": []
+                      },
+                      {
+                        "id": "151",
+                        "parent": "148",
+                        "text": "→ Complicaciones 2.5%",
+                        "guid": "Igt-0yNKZ4IUrMcjfC-YBg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "152",
+                    "parent": "145",
+                    "text": "• Técnica:",
+                    "guid": "AZAyy3d_gH0Z6GCja3zbcA",
+                    "children": [
+                      {
+                        "id": "153",
+                        "parent": "152",
+                        "text": "→ Mide aldosterona/cortisol bilateral",
+                        "guid": "Te9GHnrlO_sHVz0uDEfBBg",
+                        "children": []
+                      },
+                      {
+                        "id": "154",
+                        "parent": "152",
+                        "text": "→ Éxito: cortisol vena/cava >2",
+                        "guid": "Zfb-nD3mmtYcM7ICILRV3w",
+                        "children": []
+                      },
+                      {
+                        "id": "155",
+                        "parent": "152",
+                        "text": "→ Lateralización (+): ratio >4",
+                        "guid": "Lm9dqH26VBlQCe4NVJt6nQ",
+                        "children": []
+                      },
+                      {
+                        "id": "156",
+                        "parent": "152",
+                        "text": "→ Bajo ACTH",
+                        "guid": "TRSB_yFm_QMsmvDiFN0XXw",
+                        "children": []
+                      },
+                      {
+                        "id": "157",
+                        "parent": "152",
+                        "text": "→ Dificultad canulación vena derecha",
+                        "guid": "AhjfOHH2J7QwO5LTOjvJag",
+                        "children": []
+                      },
+                      {
+                        "id": "158",
+                        "parent": "152",
+                        "text": "→ Solo centros experimentados",
+                        "guid": "e61JyV5Fy0li0rlaHbjInQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "159",
+            "parent": "18",
+            "text": "CLASIFICACIÓN\nHAP FAMILIAR",
+            "guid": "",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "HAP FAMILIAR (HF):",
+                "guid": "QYweDEUOaNplF7YRb_t7tA",
+                "children": [
+                  {
+                    "id": "161",
+                    "parent": "160",
+                    "text": "1. TIPO I (HF-I):",
+                    "guid": "Qsi88zUhpB9ElvZSD90-8g",
+                    "children": [
+                      {
+                        "id": "162",
+                        "parent": "161",
+                        "text": "→ Test genético: CYP11B1/CYP11B2 (XL-PCR)",
+                        "guid": "VoihInEx5zQkulZRWKGAWw",
+                        "children": []
+                      },
+                      {
+                        "id": "163",
+                        "parent": "161",
+                        "text": "→ Indicaciones:",
+                        "guid": "ef2njRyXCLFYZikkWGoJIw",
+                        "children": [
+                          {
+                            "id": "164",
+                            "parent": "163",
+                            "text": "• Pacientes HF-I",
+                            "guid": "YygO6FT16SQS3UnFXtVYsg",
+                            "children": []
+                          },
+                          {
+                            "id": "165",
+                            "parent": "163",
+                            "text": "• HTA temprana",
+                            "guid": "Mzu0bXWwAx98jiFPNMvnOA",
+                            "children": []
+                          },
+                          {
+                            "id": "166",
+                            "parent": "163",
+                            "text": "• Historia familiar HTA + ACV",
+                            "guid": "bS-DnRZ2gfIgSMKpO9MzUQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "167",
+                    "parent": "160",
+                    "text": "2. TIPO II:",
+                    "guid": "TqOvtGOHJZt8TkYIHJL10g",
+                    "children": [
+                      {
+                        "id": "168",
+                        "parent": "167",
+                        "text": "→ HAP confirmado ≥2 familiares",
+                        "guid": "IDyL5wFA3_wczWlWYcip8w",
+                        "children": []
+                      },
+                      {
+                        "id": "169",
+                        "parent": "167",
+                        "text": "→ Excluir HF-I (test genético -)",
+                        "guid": "Rk9I1wHlH2dRxCWnCRgFyg",
+                        "children": []
+                      },
+                      {
+                        "id": "170",
+                        "parent": "167",
+                        "text": "→ Genética no aclarada",
+                        "guid": "NwbDhhZbG_kY9US9DY9kqQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "171",
+            "parent": "18",
+            "text": "TRATAMIENTO\nSEGÚN SUBTIPO",
+            "guid": "",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "1. APA + HP:",
+                "guid": "EqWEM3kOLslJimrIReE4oA",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "→ Suprarrenalectomía laparoscópica (8)",
+                    "guid": "br4x6UYYjBd6rR_ZW-21hg",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "172",
+                    "text": "→ Control electrolitos 15 días post-cx",
+                    "guid": "XI8OCRr14oIXwOjXVoy1lg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "175",
+                "parent": "171",
+                "text": "2. IHA:",
+                "guid": "N4zrM3AnEfsu9r65V8l3Gg",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "→ Espironolactona 25-200mg/día",
+                    "guid": "cWfx-EvEKA85kiENN7c6zw",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "175",
+                    "text": "→ Alternativa: eplerenona 25-100mg/día",
+                    "guid": "TalHdwtWRrRAz0CZBLAK_Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "178",
+                "parent": "171",
+                "text": "3. HF tipo I:",
+                "guid": "IbFirlnEhVYSP2-mKT5l2w",
+                "children": [
+                  {
+                    "id": "179",
+                    "parent": "178",
+                    "text": "→ Dexametasona 0. 125-0.5mg nocturna",
+                    "guid": "F3QgZXhwVKoT83fxKhmkmA",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "178",
+                    "text": "→ Dosis mínima efectiva",
+                    "guid": "cX6DdF194rlv-t04YDy1XQ",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "178",
+                    "text": "→ ± espironolactona según respuesta",
+                    "guid": "I5Zu0Gqn_RE8KmrjACV82Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "182",
+        "parent": "0",
+        "text": "SEAM (S.Exceso Aparente\nMineralocorticoide)",
+        "guid": "BEYPhGZE2JBho6rMUuxDNA",
+        "children": [
+          {
+            "id": "183",
+            "parent": "182",
+            "text": "CARACTERÍSTICAS:",
+            "guid": "BZ3fk1PrU7pWsjJvPSrKxg",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "• Genética: autosómica recesiva",
+                "guid": "RBJltgWo8SkU9EHgNXpXrg",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "183",
+                "text": "• Déficit 11β-HSD2",
+                "guid": "UW0ZOE6GYu1tMZJ9HxZgrw",
+                "children": []
+              },
+              {
+                "id": "186",
+                "parent": "183",
+                "text": "• Cortisol → cortisona (riñón)",
+                "guid": "Wdypoi4A0xYjxmute44MUA",
+                "children": []
+              },
+              {
+                "id": "187",
+                "parent": "183",
+                "text": "• Déficit → cortisol activa receptor mineralocorticoide",
+                "guid": "B8VYbTYF21MkzHIrHzl40g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "188",
+            "parent": "182",
+            "text": "EPIDEMIOLOGÍA:",
+            "guid": "LnYv_ji_6h1JUx1qH_Szcg",
+            "children": [
+              {
+                "id": "189",
+                "parent": "188",
+                "text": "• 15.7% hipertensos esenciales (9)",
+                "guid": "Fj3M1jlN-qIAMWjPOdQ7pw",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "188",
+                "text": "• Presentación:",
+                "guid": "I_X3tDxb07I5-biAKZPXRw",
+                "children": [
+                  {
+                    "id": "191",
+                    "parent": "190",
+                    "text": "→ Niñez: grave",
+                    "guid": "EEcnbBCr6vBmvqIOVFmNIg",
+                    "children": []
+                  },
+                  {
+                    "id": "192",
+                    "parent": "190",
+                    "text": "→ Adultez: leve",
+                    "guid": "FlTcGXuy4-4J0-TQZ8H1UQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "193",
+                "parent": "188",
+                "text": "• Gravedad ∝ actividad 11β-HSD2",
+                "guid": "SjlG3HcFd00G2FYBJBXwfg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "182",
+            "text": "CLÍNICA:",
+            "guid": "JQZKZCqewa4fo_zOLMui0Q",
+            "children": [
+              {
+                "id": "195",
+                "parent": "194",
+                "text": "• Hipokalemia",
+                "guid": "YKSdAURwbvlMBRujDxrM_w",
+                "children": []
+              },
+              {
+                "id": "196",
+                "parent": "194",
+                "text": "• Diabetes insípida",
+                "guid": "fTBZFhVYOQ0vD4BxE24l7Q",
+                "children": []
+              },
+              {
+                "id": "197",
+                "parent": "194",
+                "text": "• Nefrocalcinosis",
+                "guid": "TqYzry9A6UBNQmGUcpwrYw",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "194",
+                "text": "• HTA",
+                "guid": "a5y88gc8GhQcMAKre-PkXw",
+                "children": []
+              },
+              {
+                "id": "199",
+                "parent": "194",
+                "text": "• Retraso crecimiento (niños)",
+                "guid": "F-gFBALupLlQPXGBLjzhHQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "200",
+            "parent": "182",
+            "text": "DIAGNÓSTICO:",
+            "guid": "fqGIp1oRVlIV_tZvSNrPgw",
+            "children": [
+              {
+                "id": "201",
+                "parent": "200",
+                "text": "• ARP <1 ng/mL/h",
+                "guid": "URbNnxzXLHBs8MABdh0YAw",
+                "children": []
+              },
+              {
+                "id": "202",
+                "parent": "200",
+                "text": "• Aldosterona <5 ng/dL",
+                "guid": "R3XuHgyUvM8i6LrUKBqLHw",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "200",
+                "text": "• Ratio cortisol/cortisona urinaria ↑",
+                "guid": "B40DLT2vmw5mMOUEarUSFg",
+                "children": [
+                  {
+                    "id": "204",
+                    "parent": "203",
+                    "text": "→ Normal: 0.2-0.5",
+                    "guid": "UQUryW7t1nc3NVgfTjWE3w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "parent": "182",
+            "text": "FÁRMACOS:",
+            "guid": "",
+            "children": [
+              {
+                "id": "206",
+                "parent": "205",
+                "text": "1. Espironolactona y/o\ndexametasona",
+                "guid": "frkYQyxjQtlGsPQGbXZxXg",
+                "children": [
+                  {
+                    "id": "207",
+                    "parent": "206",
+                    "text": "→ Suprime cortisol endógeno",
+                    "guid": "dEx5qGjT49U7C36URVe1Cg",
+                    "children": []
+                  },
+                  {
+                    "id": "208",
+                    "parent": "206",
+                    "text": "→ Sin efecto mineralocorticoide propio",
+                    "guid": "McyMyhKgTk08cUM1MZGUHQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "209",
+                "parent": "205",
+                "text": "2. Alternativas:",
+                "guid": "Pd935H7KF-Y9AD7yJm99LA",
+                "children": [
+                  {
+                    "id": "210",
+                    "parent": "209",
+                    "text": "→ Amiloride",
+                    "guid": "YOhdnTtrYal4zMWZOOkkrA",
+                    "children": []
+                  },
+                  {
+                    "id": "211",
+                    "parent": "209",
+                    "text": "→ Tiazidas",
+                    "guid": "La2AJDOxQPVQNLByKKC26Q",
+                    "children": []
+                  },
+                  {
+                    "id": "212",
+                    "parent": "209",
+                    "text": "• Beneficio adicional: ↓hipercalciuria",
+                    "guid": "HUDXxGoEWG5n0Qt4PNrOnw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "213",
+        "parent": "0",
+        "text": "S.LIDDLE",
+        "guid": "Mz04ph148B9-EG3rYOq4yg",
+        "children": [
+          {
+            "id": "214",
+            "parent": "213",
+            "text": "FISIOPATOLOGÍA:",
+            "guid": "ZHScrzBnZ_wih4UfJNHSJQ",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "• Autosómico dominante",
+                "guid": "USoxFE5FHl0Ji2-0bmsI2A",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "214",
+                "text": "• Mutación ENaC túbulo colector renal",
+                "guid": "OEl2y3FceywrRdd4PstVvg",
+                "children": []
+              },
+              {
+                "id": "217",
+                "parent": "214",
+                "text": "• ↑canales Na+ funcionantes",
+                "guid": "NFiaJlM0dsBEBkzzI7f7-g",
+                "children": []
+              },
+              {
+                "id": "218",
+                "parent": "214",
+                "text": "• ↑reabsorción Na+/H2O → HTA",
+                "guid": "QdQKDja3tYcHY9d2GUeBMg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "219",
+            "parent": "213",
+            "text": "CLÍNICA:",
+            "guid": "ZDrQd1AOq4oCrMlpGJNqnQ",
+            "children": [
+              {
+                "id": "220",
+                "parent": "219",
+                "text": "• HTA grave",
+                "guid": "Fdw7uF1ZHSojDn9_ehsnWQ",
+                "children": []
+              },
+              {
+                "id": "221",
+                "parent": "219",
+                "text": "• Hipokalemia + alcalosis metabólica",
+                "guid": "VSr0Jke6qgU_QnCYCGgszA",
+                "children": []
+              },
+              {
+                "id": "222",
+                "parent": "219",
+                "text": "• ARP/aldosterona ↓",
+                "guid": "ZTOaJT1S3oNpUuWXNl3LOQ",
+                "children": []
+              },
+              {
+                "id": "223",
+                "parent": "219",
+                "text": "• No responde espironolactona\n(actúa receptor, no ENaC)",
+                "guid": "C5f84HLeVUskyNQSQ-Fzqw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "224",
+            "parent": "213",
+            "text": "TRATAMIENTO:",
+            "guid": "cXpkPUNQebNb0nDHVq3-Yg",
+            "children": [
+              {
+                "id": "225",
+                "parent": "224",
+                "text": "• Dieta Na+ <2g/día",
+                "guid": "I0MiSkazFl08S2aXZRcsWA",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "224",
+                "text": "• Inhibidores ENaC:",
+                "guid": "fWrL5EOvPg1-Xq2KYd9olA",
+                "children": [
+                  {
+                    "id": "227",
+                    "parent": "226",
+                    "text": "→ Amiloride",
+                    "guid": "dBamCiDmMqoGsTq5CfLhwg",
+                    "children": []
+                  },
+                  {
+                    "id": "228",
+                    "parent": "226",
+                    "text": "→ Triamterene",
+                    "guid": "fj9P1Cm_ujgEDgkbU2pD-g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "229",
+        "parent": "0",
+        "text": "FEOCROMOCITOMA",
+        "guid": "",
+        "children": [
+          {
+            "id": "230",
+            "parent": "229",
+            "text": "CARACTERÍSTICAS:",
+            "guid": "AKNYNkUlVl4NC8mcDDtVFg",
+            "children": [
+              {
+                "id": "231",
+                "parent": "230",
+                "text": "• Neoplasia productora catecolaminas",
+                "guid": "OAOrqTHUna5QHMjCHD58IA",
+                "children": []
+              },
+              {
+                "id": "232",
+                "parent": "230",
+                "text": "• Origen:",
+                "guid": "AeNJOFLJkis00ea9JSZrgg",
+                "children": [
+                  {
+                    "id": "233",
+                    "parent": "232",
+                    "text": "→ Médula suprarrenal (85%)",
+                    "guid": "GXyoiHEdTVUKPZfaFud0bQ",
+                    "children": []
+                  },
+                  {
+                    "id": "234",
+                    "parent": "232",
+                    "text": "→ Ganglios SNS (15%)",
+                    "guid": "NMyLYgicRWV4xt0BKOMxbA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "235",
+                "parent": "230",
+                "text": "• Epidemiología:",
+                "guid": "MECb3FcwDAxwZfrLMiPlFA",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "→ Incidencia: 1-2/100.000/año",
+                    "guid": "KYJ4D394F7oy1hMuJ8HH4w",
+                    "children": []
+                  },
+                  {
+                    "id": "237",
+                    "parent": "235",
+                    "text": "→ 0.2% hipertensos",
+                    "guid": "KTfR8jbkHEp7LAvdGrI2Lw",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "235",
+                    "text": "→ 10% hallazgo incidental TAC/RM (10)",
+                    "guid": "ejSV_Vb-fKRxYDSSetfuNA",
+                    "children": []
+                  },
+                  {
+                    "id": "239",
+                    "parent": "235",
+                    "text": "→ 15-20% familiares",
+                    "guid": "HCPTAn5r_i4HE0NKVCd-qw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "240",
+            "parent": "229",
+            "text": "SOSPECHA DX:",
+            "guid": "fgUSJVKTFa0FptFXKEp0ng",
+            "children": [
+              {
+                "id": "241",
+                "parent": "240",
+                "text": "1. Clínica + síntomas",
+                "guid": "FlUu3mGH6HBaXbstSyG6QA",
+                "children": []
+              },
+              {
+                "id": "242",
+                "parent": "240",
+                "text": "2. Masa suprarrenal incidental",
+                "guid": "aiQt1VMkmC50BOutE6al5A",
+                "children": []
+              },
+              {
+                "id": "243",
+                "parent": "240",
+                "text": "3. Historia familiar/síndrome genético",
+                "guid": "Upyv6Cba_ts7aG3He9SB2g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "244",
+            "parent": "229",
+            "text": "CLÍNICA:",
+            "guid": "bDC15V9Vecgsb2R3cyg3lQ",
+            "children": [
+              {
+                "id": "245",
+                "parent": "244",
+                "text": "• Tríada clásica:",
+                "guid": "Xb8bJTaUeaUWhrgKV_OxIw",
+                "children": [
+                  {
+                    "id": "246",
+                    "parent": "245",
+                    "text": "→ Cefalea",
+                    "guid": "DZL2SQfm7JxSy59XKbbJTA",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "245",
+                    "text": "→ Sudoración",
+                    "guid": "BlLqylne4qF93kf3NpOGpg",
+                    "children": []
+                  },
+                  {
+                    "id": "248",
+                    "parent": "245",
+                    "text": "→ Taquicardia",
+                    "guid": "MQ7urm5EQsNot2u6WwiM5g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "249",
+                "parent": "244",
+                "text": "• Otros:",
+                "guid": "E3wkTEABvFAeftOmKdFTKg",
+                "children": [
+                  {
+                    "id": "250",
+                    "parent": "249",
+                    "text": "→ HTA paroxística (48%)",
+                    "guid": "IYmkwHjcjtR08w1qC63Slg",
+                    "children": []
+                  },
+                  {
+                    "id": "251",
+                    "parent": "249",
+                    "text": "→ HTA sostenida (29%)",
+                    "guid": "TAEnAmj3-RcfVHh6Hp3W6w",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "249",
+                    "text": "→ Ansiedad",
+                    "guid": "D9L381q85kIacljFbZITGA",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "249",
+                    "text": "→ Temblor",
+                    "guid": "EVFf5zD5EM9FhcQ7HuRWMA",
+                    "children": []
+                  },
+                  {
+                    "id": "254",
+                    "parent": "249",
+                    "text": "→ Parestesias",
+                    "guid": "ON_9axhRY5JImx98PzLoNQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "255",
+                "parent": "244",
+                "text": "• 8% asintomáticos",
+                "guid": "cjBGNEZ5Z3R1xm7bIz804g",
+                "children": []
+              },
+              {
+                "id": "256",
+                "parent": "244",
+                "text": "• 13% normotensos",
+                "guid": "NL2qN1592pV-R8HISDnOgw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "257",
+            "parent": "229",
+            "text": "DIAGNÓSTICO:",
+            "guid": "ZI2yk0nfaEBECTe-Vvip9A",
+            "children": [
+              {
+                "id": "258",
+                "parent": "257",
+                "text": "Metanefrinas:",
+                "guid": "Hn-W5RzGlW5yCyGtQAk7pg",
+                "children": [
+                  {
+                    "id": "259",
+                    "parent": "258",
+                    "text": "→ Plasma: sensibilidad 99%",
+                    "guid": "FaMkQmb-LxdLtw48YaRLRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "260",
+                    "parent": "258",
+                    "text": "→ Orina 24h fraccionada: sensibilidad 97%",
+                    "guid": "T_YoL2sLhrYAQiIwX8kgIg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "261",
+                "parent": "257",
+                "text": "LOCALIZACIÓN:",
+                "guid": "ZX4wzSdELX5vTRfVMs1WXw",
+                "children": [
+                  {
+                    "id": "262",
+                    "parent": "261",
+                    "text": "• Tumores:",
+                    "guid": "Rchs-Bq0evVNWzM6VxnM3w",
+                    "children": [
+                      {
+                        "id": "263",
+                        "parent": "262",
+                        "text": "→ 95% abdominopélvicos",
+                        "guid": "S62LxRLg93Z1_iMQBI2JMA",
+                        "children": []
+                      },
+                      {
+                        "id": "264",
+                        "parent": "262",
+                        "text": "→ 85% suprarrenales",
+                        "guid": "KzJbCD6ZQoxDwHFmHWKhPA",
+                        "children": []
+                      },
+                      {
+                        "id": "265",
+                        "parent": "262",
+                        "text": "→ 15% extrasuprarrenales",
+                        "guid": "BRKqADmG4EFAodYeOdBUNw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "266",
+                    "parent": "261",
+                    "text": "• Extrasuprarrenales:",
+                    "guid": "GAS61z7pl-YCCiK6NoRRvA",
+                    "children": [
+                      {
+                        "id": "267",
+                        "parent": "266",
+                        "text": "→ 75% paraórticos abdominales",
+                        "guid": "W7AtVXQVRGd2jY1icVNRlw",
+                        "children": []
+                      },
+                      {
+                        "id": "268",
+                        "parent": "266",
+                        "text": "→ 10% vejiga",
+                        "guid": "WxNzf0JEm55S95zcKwmbrg",
+                        "children": []
+                      },
+                      {
+                        "id": "269",
+                        "parent": "266",
+                        "text": "→ 10% tórax",
+                        "guid": "LVAiVVM5vwwK0rvQcxiPTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "270",
+                        "parent": "266",
+                        "text": "→ 5% cabeza/cuello/pelvis",
+                        "guid": "be46Algt7wpKMlwtOZvFxw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "271",
+                    "parent": "261",
+                    "text": "ESTUDIOS\nIMAGEN:",
+                    "guid": "aw7mgEAwfz0-KU73FkFBiQ",
+                    "children": [
+                      {
+                        "id": "272",
+                        "parent": "271",
+                        "text": "1. TAC/RM abdomen-pelvis:",
+                        "guid": "fsnByQHpwF0zo-LFA9xryg",
+                        "children": [
+                          {
+                            "id": "273",
+                            "parent": "272",
+                            "text": "→ Sensibilidad: 98-100%",
+                            "guid": "O3Cgn3RFuOQ9rMABU3Vbdg",
+                            "children": []
+                          },
+                          {
+                            "id": "274",
+                            "parent": "272",
+                            "text": "→ Especificidad: 70-80%",
+                            "guid": "My9Qyj-24rwJ-a0yDt9-Hw",
+                            "children": []
+                          },
+                          {
+                            "id": "275",
+                            "parent": "272",
+                            "text": "→ RM: tumor hiperintenso T2",
+                            "guid": "M8wnIwCHOpUAMs-3Dt-aog",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "276",
+                        "parent": "271",
+                        "text": "2. Cintigrama MIBG:",
+                        "guid": "QsvWM1MqbJM56TZQcBv4iA",
+                        "children": [
+                          {
+                            "id": "277",
+                            "parent": "276",
+                            "text": "→ Sensibilidad: 90-95%",
+                            "guid": "JmQroES78iBjNIfWFFJlog",
+                            "children": []
+                          },
+                          {
+                            "id": "278",
+                            "parent": "276",
+                            "text": "• Especificidad: 99%",
+                            "guid": "eclEX0WD3v1ttmSsX0d1LA",
+                            "children": []
+                          },
+                          {
+                            "id": "279",
+                            "parent": "276",
+                            "text": "• Indicaciones:",
+                            "guid": "J1DjJwvio5NbwwPVEiH7cQ",
+                            "children": [
+                              {
+                                "id": "280",
+                                "parent": "279",
+                                "text": "→ Tumores >5cm",
+                                "guid": "bMgMe10DfIESFMuLUVW_Dg",
+                                "children": []
+                              },
+                              {
+                                "id": "281",
+                                "parent": "279",
+                                "text": "→ Paragangliomas",
+                                "guid": "JuLkwVYeA0koTmkDExOapg",
+                                "children": []
+                              },
+                              {
+                                "id": "282",
+                                "parent": "279",
+                                "text": "→ Sospecha enfermedad multifocal",
+                                "guid": "NXN9EVS9zXoGO9I8M3iPNw",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "283",
+                "parent": "257",
+                "text": "CRITERIOS ESTUDIO\nGENÉTICO:",
+                "guid": "VvdFWUJN6Ic3mF0VBJzjBg",
+                "children": [
+                  {
+                    "id": "284",
+                    "parent": "283",
+                    "text": "1. Paragangliomas",
+                    "guid": "VqP6-iRRenkMRpVsCkPUjA",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "283",
+                    "text": "2. Feocromocitoma suprarrenal bilateral",
+                    "guid": "E9zjyiLr6ohk8k_zDaYoKg",
+                    "children": []
+                  },
+                  {
+                    "id": "286",
+                    "parent": "283",
+                    "text": "3. Feocromocitoma unilateral + historia familiar",
+                    "guid": "L6wxIH8CaOImjZUPVo8V4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "287",
+                    "parent": "283",
+                    "text": "4. Feocromocitoma unilateral <40 años\n+ clínica sugerente:",
+                    "guid": "aG_JhVKotJ9s7Z1WVTfWAQ",
+                    "children": [
+                      {
+                        "id": "288",
+                        "parent": "287",
+                        "text": "→ NEM2",
+                        "guid": "VSBsK07b_hJporCICpPpPQ",
+                        "children": []
+                      },
+                      {
+                        "id": "289",
+                        "parent": "287",
+                        "text": "→ Von Hippel-Lindau",
+                        "guid": "I5nLjW_egsQ-DHh0SuqutA",
+                        "children": []
+                      },
+                      {
+                        "id": "290",
+                        "parent": "287",
+                        "text": "→ Neurofibromatosis-1",
+                        "guid": "e8EmVxnPfEldDKolUrhrsA",
+                        "children": []
+                      },
+                      {
+                        "id": "291",
+                        "parent": "287",
+                        "text": "→ S.paragangliomas",
+                        "guid": "XB1k0RSlBzpXVU63MsFfyw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "292",
+            "parent": "229",
+            "text": "INTERFERENCIAS\nMETANEFRINAS:",
+            "guid": "atEYSUsUocVmiuSyJXZhpA",
+            "children": [
+              {
+                "id": "293",
+                "parent": "292",
+                "text": "ALIMENTOS:",
+                "guid": "HOnhKy1m5ANN7itpB_jHqw",
+                "children": [
+                  {
+                    "id": "294",
+                    "parent": "293",
+                    "text": "• Café/descafeinado/té/mate",
+                    "guid": "bZdjQAwXemAeOgk0bGElCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "295",
+                    "parent": "293",
+                    "text": "• Alcohol",
+                    "guid": "DgE6vlHd6_pwPZDTSXHbXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "296",
+                    "parent": "293",
+                    "text": "• Bebidas cola",
+                    "guid": "RiOk3i3qUNUc5zbTeVL1qA",
+                    "children": []
+                  },
+                  {
+                    "id": "297",
+                    "parent": "293",
+                    "text": "• Chocolate",
+                    "guid": "baEzkSbg5AUIMnPIIW1atA",
+                    "children": []
+                  },
+                  {
+                    "id": "298",
+                    "parent": "293",
+                    "text": "• Tomates",
+                    "guid": "J2gemghlQ38wTPVXajP0zg",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "parent": "293",
+                    "text": "• Palta",
+                    "guid": "W4-wEmo2K6daT-1WAfPbsg",
+                    "children": []
+                  },
+                  {
+                    "id": "300",
+                    "parent": "293",
+                    "text": "• Berenjenas",
+                    "guid": "LvIdyD2EdSwWRkFUS9v-8w",
+                    "children": []
+                  },
+                  {
+                    "id": "301",
+                    "parent": "293",
+                    "text": "• Nueces",
+                    "guid": "autZL2Q0bL1T1MaeWIK8bw",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "parent": "293",
+                    "text": "• Plátanos",
+                    "guid": "cEvnHnIOz9NE4-F5fk0h3A",
+                    "children": []
+                  },
+                  {
+                    "id": "303",
+                    "parent": "293",
+                    "text": "• Queso",
+                    "guid": "Q-y7zTUhckxHvv05ChBgqw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "304",
+                "parent": "292",
+                "text": "MEDICAMENTOS:",
+                "guid": "YwvDIWSmNAwDY1ZTUKz2sg",
+                "children": [
+                  {
+                    "id": "305",
+                    "parent": "304",
+                    "text": "• Labetalol",
+                    "guid": "C4cYEQuVyhtyGlFnMu82rA",
+                    "children": []
+                  },
+                  {
+                    "id": "306",
+                    "parent": "304",
+                    "text": "• Sotalol",
+                    "guid": "E_sNmiJnRr4dIyt6b4q9rQ",
+                    "children": []
+                  },
+                  {
+                    "id": "307",
+                    "parent": "304",
+                    "text": "• Paracetamol",
+                    "guid": "DJ1yZXdzGNBxfplfO4-QLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "308",
+                    "parent": "304",
+                    "text": "• Levodopa",
+                    "guid": "NPeN_QfE2rQHa48gH-LnLA",
+                    "children": []
+                  },
+                  {
+                    "id": "309",
+                    "parent": "304",
+                    "text": "• Metildopa",
+                    "guid": "a_lHcVtAVb94ZaOcXEUujw",
+                    "children": []
+                  },
+                  {
+                    "id": "310",
+                    "parent": "304",
+                    "text": "• Anfetaminas",
+                    "guid": "TU8lkj1JhRVaklBrETvhXw",
+                    "children": []
+                  },
+                  {
+                    "id": "311",
+                    "parent": "304",
+                    "text": "• Efedrina",
+                    "guid": "cmr3YSJRTaQbTEIKVXa6gw",
+                    "children": []
+                  },
+                  {
+                    "id": "312",
+                    "parent": "304",
+                    "text": "• ADT",
+                    "guid": "BveBsB6vmF0mI7E1En6Zwg",
+                    "children": []
+                  },
+                  {
+                    "id": "313",
+                    "parent": "304",
+                    "text": "• IMAO",
+                    "guid": "KkVieRg-ApxFbdBuPkBwEw",
+                    "children": []
+                  },
+                  {
+                    "id": "314",
+                    "parent": "304",
+                    "text": "• Teofilina",
+                    "guid": "OqVJWmKQ--gtyy3AR0K7wA",
+                    "children": []
+                  },
+                  {
+                    "id": "315",
+                    "parent": "304",
+                    "text": "• Hidralazina monoterapia",
+                    "guid": "WgQUuB9JxyAC0kvtDvuitQ",
+                    "children": []
+                  },
+                  {
+                    "id": "316",
+                    "parent": "304",
+                    "text": "• Minoxidil monoterapia",
+                    "guid": "Jw6h1Ao92w4u3oniEwfpRQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "317",
+            "parent": "229",
+            "text": "TRATAMIENTO\nPRE-QUIRÚRGICO:",
+            "guid": "",
+            "children": [
+              {
+                "id": "318",
+                "parent": "317",
+                "text": "1. EVALUACIÓN INICIAL:",
+                "guid": "OPaBs2Ob5CM9BTRXTNNlfg",
+                "children": [
+                  {
+                    "id": "319",
+                    "parent": "318",
+                    "text": "→ Capacidad funcional",
+                    "guid": "BofOqyH3hEpaeY2obveYMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "320",
+                    "parent": "318",
+                    "text": "→ ECG",
+                    "guid": "dKA46UdnKv5EL24yJExqCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "321",
+                    "parent": "318",
+                    "text": "→ ± Ecocardiograma",
+                    "guid": "RmmT4Gq9A0F623_rG4oADA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "322",
+                "parent": "317",
+                "text": "2. PROTOCOLO\nFARMACOLÓGICO:",
+                "guid": "OZkBVGR-MHMmHelJXTLM4Q",
+                "children": [
+                  {
+                    "id": "323",
+                    "parent": "322",
+                    "text": "a) Bloqueo α-adrenérgico:",
+                    "guid": "VFyzN2QqYb0oHXuVUB3Zjg",
+                    "children": [
+                      {
+                        "id": "324",
+                        "parent": "323",
+                        "text": "→ Inicio ≥1 semana pre-cx",
+                        "guid": "ffneBgUqJbsi1kU_WhdC1w",
+                        "children": []
+                      },
+                      {
+                        "id": "325",
+                        "parent": "323",
+                        "text": "→ Objetivo: normalizar PA/FC",
+                        "guid": "Gc8s9Xork_YM2KKiUsWuqQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "326",
+                    "parent": "322",
+                    "text": "b) Si no control:",
+                    "guid": "Xcd4GUnd1vofmRQnZE9GxQ",
+                    "children": [
+                      {
+                        "id": "327",
+                        "parent": "326",
+                        "text": "→ Añadir BCC → PA",
+                        "guid": "a9VbRHoSoc9TRt72YHWULg",
+                        "children": []
+                      },
+                      {
+                        "id": "328",
+                        "parent": "326",
+                        "text": "→ Añadir β-bloqueador → FC",
+                        "guid": "QXnMzRd2TSgEwf43B-Ngrg",
+                        "children": []
+                      },
+                      {
+                        "id": "329",
+                        "parent": "326",
+                        "text": "(post bloqueo α)",
+                        "guid": "AjNQaX-dfiIjbWC6O8xRvQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "330",
+                    "parent": "322",
+                    "text": "c) Día 3 bloqueo α:",
+                    "guid": "ZBuulUmLSgMY_x6eOHhhzA",
+                    "children": [
+                      {
+                        "id": "331",
+                        "parent": "330",
+                        "text": "→ Dieta Na+ >5g/día",
+                        "guid": "LbWrwEEcmjQIljtbK6-Jxg",
+                        "children": []
+                      },
+                      {
+                        "id": "332",
+                        "parent": "330",
+                        "text": "→ Prevenir shock hipovolémico post-cx",
+                        "guid": "Rka_7ytsgJoFxsyeYBXs5A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "333",
+                "parent": "317",
+                "text": "3. PRECAUCIONES:",
+                "guid": "JZgUkBKfb0Ay25uNA1-MqQ",
+                "children": [
+                  {
+                    "id": "334",
+                    "parent": "333",
+                    "text": "→ ICC",
+                    "guid": "XH1GOlJ0r7RnrtNuSFKhfw",
+                    "children": []
+                  },
+                  {
+                    "id": "335",
+                    "parent": "333",
+                    "text": "→ IRC",
+                    "guid": "TIdRgzr1smQoyDWtDgEeUQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "336",
+            "parent": "229",
+            "text": "FÁRMACOS (11,12):",
+            "guid": "Umv_jC2KM-QV5H7_VJ9P9g",
+            "children": [
+              {
+                "id": "337",
+                "parent": "336",
+                "text": "1. Doxazosina: 1-16mg/día",
+                "guid": "LSeyBzlR37kQa6GzEUNgnA",
+                "children": []
+              },
+              {
+                "id": "338",
+                "parent": "336",
+                "text": "2. Post bloqueo α:",
+                "guid": "At0pvClqwFJJu8JpMJLVfA",
+                "children": [
+                  {
+                    "id": "339",
+                    "parent": "338",
+                    "text": "→ Propanolol 40mg/8h o",
+                    "guid": "aodahlJR_cRcQl9CMM4adQ",
+                    "children": []
+                  },
+                  {
+                    "id": "340",
+                    "parent": "338",
+                    "text": "→ Atenolol 25-50mg/día",
+                    "guid": "fb5-XmIJK-AQ5AdZI1aS7g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "341",
+                "parent": "336",
+                "text": "3. Amlodipino 5-20mg/día si HTA persistente",
+                "guid": "dKibIUO_oucmth-XUSXhWw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "342",
+            "parent": "229",
+            "text": "CONTRAINDICADOS:",
+            "guid": "P_MhKADRlqAuNf8PQtBK5A",
+            "children": [
+              {
+                "id": "343",
+                "parent": "342",
+                "text": "• Labetalol",
+                "guid": "FjRSmw5k8wYZeILaYrukHw",
+                "children": []
+              },
+              {
+                "id": "344",
+                "parent": "342",
+                "text": "• Carvedilol",
+                "guid": "SVqlakJAuIdwvMJwG8ak9w",
+                "children": []
+              },
+              {
+                "id": "345",
+                "parent": "342",
+                "text": "(α+β → crisis paradójica/HTA grave)",
+                "guid": "b8rsbAahQW9wZfTtHPKecw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "346",
+        "parent": "0",
+        "text": "TABLA RESUMEN HTA\nMINERALOCORTICOIDE",
+        "guid": "LLUYNEpkCdMfM55iW56TuQ",
+        "children": [
+          {
+            "id": "347",
+            "parent": "346",
+            "text": "APA (Adenoma\nProductor Aldosterona):",
+            "guid": "evM2xWmPls8Zz6f8PzBUjg",
+            "children": [
+              {
+                "id": "348",
+                "parent": "347",
+                "text": "→ Aldosterona: ↑↑",
+                "guid": "H3KeJnNlyOFlxM2pFNGT4A",
+                "children": []
+              },
+              {
+                "id": "349",
+                "parent": "347",
+                "text": "→ ARP: ↓↓",
+                "guid": "GDpnLgSk8vw8mXWTYs1iXg",
+                "children": []
+              },
+              {
+                "id": "350",
+                "parent": "347",
+                "text": "→ ARR: >25",
+                "guid": "UwN1s19UL2tLzoDbH87BmA",
+                "children": []
+              },
+              {
+                "id": "351",
+                "parent": "347",
+                "text": "→ F/E: Normal",
+                "guid": "KxydJiKllFFPCxhlV9G1Wg",
+                "children": []
+              },
+              {
+                "id": "352",
+                "parent": "347",
+                "text": "→ TAC: Nódulo <2cm",
+                "guid": "bQmeJG4-tsczcEkUOX3rGQ",
+                "children": []
+              },
+              {
+                "id": "353",
+                "parent": "347",
+                "text": "→ Bilateral: NO",
+                "guid": "BblOq0WwZ0N9yVRrFT_naw",
+                "children": []
+              },
+              {
+                "id": "354",
+                "parent": "347",
+                "text": "→ Tratamiento: Suprarrenalectomía",
+                "guid": "AXlhiicQkTlNju9QItn7Jg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "355",
+            "parent": "346",
+            "text": "IHA\n(Hiperaldosteronismo\nIdiopático):",
+            "guid": "WADHD3JCHns65HtcF0uLxQ",
+            "children": [
+              {
+                "id": "356",
+                "parent": "355",
+                "text": "→ Aldosterona: ↑",
+                "guid": "UkGvEQcSIEQPZ6K3cbRNOA",
+                "children": []
+              },
+              {
+                "id": "357",
+                "parent": "355",
+                "text": "→ ARP: ↓",
+                "guid": "enfpJXUscGEGheEYErJQUw",
+                "children": []
+              },
+              {
+                "id": "358",
+                "parent": "355",
+                "text": "→ ARR: >25",
+                "guid": "edFjXUMfVqx1f7KyTNTZEQ",
+                "children": []
+              },
+              {
+                "id": "359",
+                "parent": "355",
+                "text": "→ F/E: Normal",
+                "guid": "InOGF0FOM41so5qpTZAjPg",
+                "children": []
+              },
+              {
+                "id": "360",
+                "parent": "355",
+                "text": "→ TAC: Normal/nódulos bilaterales",
+                "guid": "Y_PH3juusw8lYdiYUP1mAw",
+                "children": []
+              },
+              {
+                "id": "361",
+                "parent": "355",
+                "text": "→ Bilateral: SÍ",
+                "guid": "Ke1p1ljSIawKe1EcL6a4gQ",
+                "children": []
+              },
+              {
+                "id": "362",
+                "parent": "355",
+                "text": "→ Tratamiento: Espironolactona",
+                "guid": "HoKI7whEpYhE5p_sH_vqeg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "363",
+            "parent": "346",
+            "text": "HP\n(Hiperplasia\nPrimaria):",
+            "guid": "XX_POHqzz9As9BQlQXOXFg",
+            "children": [
+              {
+                "id": "364",
+                "parent": "363",
+                "text": "→ Aldosterona: ↑",
+                "guid": "L1U2wRJ1jzxC1eWgAZbl0w",
+                "children": []
+              },
+              {
+                "id": "365",
+                "parent": "363",
+                "text": "→ ARP: ↓",
+                "guid": "GYevgFI9iFdzSzMLE_-YpQ",
+                "children": []
+              },
+              {
+                "id": "366",
+                "parent": "363",
+                "text": "→ ARR: >25",
+                "guid": "R2n4uHnRFCMmsej5QTtcFg",
+                "children": []
+              },
+              {
+                "id": "367",
+                "parent": "363",
+                "text": "→ F/E: Normal",
+                "guid": "PPBqzxwxm6sOEDUnX2Pw5w",
+                "children": []
+              },
+              {
+                "id": "368",
+                "parent": "363",
+                "text": "→ TAC: Normal/hiperplasia unilateral",
+                "guid": "NmKC31JV7L0ScP0ZYE_stg",
+                "children": []
+              },
+              {
+                "id": "369",
+                "parent": "363",
+                "text": "→ Bilateral: NO",
+                "guid": "KygOahzsTjYP9qU3SaqXWQ",
+                "children": []
+              },
+              {
+                "id": "370",
+                "parent": "363",
+                "text": "→ Tratamiento: Suprarrenalectomía",
+                "guid": "JTDzvlTdRSRppoHTVIYqfw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "371",
+            "parent": "346",
+            "text": "HF tipo I:",
+            "guid": "aJAFSGIeRbd-ayK3Ul1IbA",
+            "children": [
+              {
+                "id": "372",
+                "parent": "371",
+                "text": "→ Aldosterona: ↑",
+                "guid": "Z1LUYCx8Z3NWHRBSANqD4Q",
+                "children": []
+              },
+              {
+                "id": "373",
+                "parent": "371",
+                "text": "→ ARP: ↓",
+                "guid": "frnvy0loQ10U2hyGRiPogw",
+                "children": []
+              },
+              {
+                "id": "374",
+                "parent": "371",
+                "text": "→ ARR: >25",
+                "guid": "QzlXgTuMBX8HX0SZACnCUA",
+                "children": []
+              },
+              {
+                "id": "375",
+                "parent": "371",
+                "text": "→ F/E: Normal",
+                "guid": "V72hKhVvecBfjbM3NT1wYg",
+                "children": []
+              },
+              {
+                "id": "376",
+                "parent": "371",
+                "text": "→ TAC: Normal",
+                "guid": "ECNJkQyBx1x2sQd5RoXMcA",
+                "children": []
+              },
+              {
+                "id": "377",
+                "parent": "371",
+                "text": "→ Bilateral: SÍ",
+                "guid": "Xte0GgkiBJIm1bkmCf_ChA",
+                "children": []
+              },
+              {
+                "id": "378",
+                "parent": "371",
+                "text": "→ Tratamiento: Dexametasona",
+                "guid": "Jg5SyDbMXl5TqlndSz9Ghg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "379",
+            "parent": "346",
+            "text": "SEAM:",
+            "guid": "SInsLHivxmpO7mvKLhrbvg",
+            "children": [
+              {
+                "id": "380",
+                "parent": "379",
+                "text": "• Aldosterona: ↓",
+                "guid": "T2fRrWQEQbo33vaWBbcBYg",
+                "children": []
+              },
+              {
+                "id": "381",
+                "parent": "379",
+                "text": "• ARP: ↓",
+                "guid": "DYY8rU380QwOg0zFCE-x7A",
+                "children": []
+              },
+              {
+                "id": "382",
+                "parent": "379",
+                "text": "• ARR: <25",
+                "guid": "B7gO8HXG2Tt_xQdbcudRow",
+                "children": []
+              },
+              {
+                "id": "383",
+                "parent": "379",
+                "text": "• F/E: ↑",
+                "guid": "bSS3HzC8bkg8DsM7HO4Njg",
+                "children": []
+              },
+              {
+                "id": "384",
+                "parent": "379",
+                "text": "• TAC: normal",
+                "guid": "WGu56mWVbqJyV59EOK5u3g",
+                "children": []
+              },
+              {
+                "id": "385",
+                "parent": "379",
+                "text": "• Bilateral: N/A",
+                "guid": "LgoYIgEddWtq8gZgJaj_Ow",
+                "children": []
+              },
+              {
+                "id": "386",
+                "parent": "379",
+                "text": "• Tratamiento: espironolactona ± dexametasona",
+                "guid": "Mmjr-SW-XOIvfl1kevLYJQ",
+                "children": []
+              },
+              {
+                "id": "387",
+                "parent": "379",
+                "text": "• Alternativas: amiloride/tiazidas (↓hipercalciuria)",
+                "guid": "Hm4jTH5syS4pDbPjbdX0-g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "388",
+            "parent": "346",
+            "text": "S.LIDDLE:",
+            "guid": "YnEK6GDsqnlzjPZcb_dHlQ",
+            "children": [
+              {
+                "id": "389",
+                "parent": "388",
+                "text": "• Aldosterona: ↓",
+                "guid": "Lul7hQIQQyJ4RvmBNqGKdQ",
+                "children": []
+              },
+              {
+                "id": "390",
+                "parent": "388",
+                "text": "• ARP: ↓",
+                "guid": "d9ccXXgMANwpiNwYZPvTfA",
+                "children": []
+              },
+              {
+                "id": "391",
+                "parent": "388",
+                "text": "• ARR: <25",
+                "guid": "KMhvJWWXn1QB6eEKATQpDw",
+                "children": []
+              },
+              {
+                "id": "392",
+                "parent": "388",
+                "text": "• F/E: normal",
+                "guid": "Sy0N9nRBgE454pfteTcmGA",
+                "children": []
+              },
+              {
+                "id": "393",
+                "parent": "388",
+                "text": "• TAC: normal",
+                "guid": "dV71uiTUnk0e4CVTJ8fhsw",
+                "children": []
+              },
+              {
+                "id": "394",
+                "parent": "388",
+                "text": "• Bilateral: N/A",
+                "guid": "SpL7ME5egrciurnYaQEefA",
+                "children": []
+              },
+              {
+                "id": "395",
+                "parent": "388",
+                "text": "• Tratamiento: amiloride/triamterene",
+                "guid": "TMtL5UvIbbtW1xN2LzxWzQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "396",
+        "parent": "0",
+        "text": "S.CUSHING",
+        "guid": "KjxW8nfxwXhzYyBgFMOxeA",
+        "children": [
+          {
+            "id": "397",
+            "parent": "396",
+            "text": "CARACTERÍSTICAS:",
+            "guid": "SkO_PE-lf6JFkcvtSAI9mg",
+            "children": [
+              {
+                "id": "398",
+                "parent": "397",
+                "text": "• Síntomas/signos exposición excesiva glucocorticoides",
+                "guid": "Ma6rg1Z100drWNCIJldGpA",
+                "children": []
+              },
+              {
+                "id": "399",
+                "parent": "397",
+                "text": "• HTA en 76% pacientes (13)",
+                "guid": "GjV2LhIO8CB3fSf_MGnIyQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "400",
+            "parent": "396",
+            "text": "• Mecanismo:",
+            "guid": "IHPjJhD1qtoTJWzoac6IkA",
+            "children": [
+              {
+                "id": "401",
+                "parent": "400",
+                "text": "→ Alta afinidad cortisol-receptor mineralocorticoide",
+                "guid": "UzZjYQPiL1gFlS2HQwFPzQ",
+                "children": []
+              },
+              {
+                "id": "402",
+                "parent": "400",
+                "text": "→ [Cortisol] ↑ → HTA",
+                "guid": "CoNwx3X7InRf8-5ASnaR7w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 403,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Cardiología",
+  "filename": "Arteaga | Hipertension Endrocrina-2024",
+  "id": "map_1157",
+  "resolved_references": []
+}

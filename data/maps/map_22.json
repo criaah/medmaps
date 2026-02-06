@@ -1,0 +1,77 @@
+{
+  "title": "ACOVE-2001",
+  "guid": "f76367cc-0db3-463a-ae21-4f620a0ce355",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/ACOVE-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ACOVE (2001)\nAssessing Care of Vulnerable Elders\n\\nIndicadores de calidad para\\ncuidado de ancianos vulnerables\\nBase para medicion calidad geriatrica",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nWenger NS, et al.\\nAnn Intern Med 2001;135:641-58\nDOI: 10.7326/0003-4819-135-8_Part_2\n\\nRAND/UCLA, ACOVE Investigators\\nConsenso expertos + revision sistematica\\nACOVE-1 (2001), ACOVE-3 (2007)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "METODOLOGIA\n\\n1. Revision literatura\\n2. Panel expertos (metodo Delphi)\\n3. Indicadores IF-THEN\\n4. Validacion contenido\\n\\nIndicadores:\\n- Proceso (mayoria)\\n- Estructura\\n- Algunos outcome",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "DOMINIOS ACOVE\n\\n22 condiciones evaluadas:\\n- Caidas y movilidad\\n- Demencia\\n- Depresion\\n- Diabetes\\n- Hipertension\\n- IC\\n- Enfermedad coronaria\\n- FA\\n- Osteoartritis\\n- Osteoporosis\\n- Ulceras por presion\\n- Incontinencia urinaria\\n- Malnutricion\\n- Polifarmacia\\n- Cuidados fin de vida\\n- Prevencion\\n- Continuidad de cuidados",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "EJEMPLOS INDICADORES\n\\nCaidas:\\nSI anciano reporta caida ENTONCES documentar\\ncircunstancias en 3 meses\\n\\nPolifarmacia:\\nSI mayor 65a con mayor 5 medicamentos ENTONCES\\nrevisar medicacion anualmente\\n\\nDemencia:\\nSI diagnostico demencia ENTONCES evaluar\\nseguridad conduccion vehiculos\\n\\nDepresion:\\nSI screening positivo ENTONCES confirmar\\ncon criterios DSM",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "IMPACTO\n\\n- Base para medicion calidad\\n- Usado en investigacion\\n- Mejora de sistemas\\n- Identificacion brechas\\n- Acreditacion programas\\n- Politicas publicas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Basado en proceso (no outcome)\\n- Aplicabilidad variable\\n- Requiere documentacion\\n- No pondera importancia\\n- Contexto EEUU principalmente\\n- Necesita adaptacion local",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Framework para VGI sistematica\\n- Checklist de calidad\\n- Identificar omisiones de cuidado\\n- Audit interno\\n- Mejora continua\\n- Estandarizar practica",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Indicadores IF-THEN son auditables\\n2. Proceso medible = calidad medible\\n3. Caidas: documentar SIEMPRE circunstancias\\n4. Polifarmacia: revision anual obligatoria\\n5. Demencia: evaluar conduccion\\n6. Base para politicas geriatricas\\n7. Adaptar a contexto local\\n8. Complementar con outcomes\\n9. Uso en formacion residentes\\n10. ACOVE-3 actualizo indicadores",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "ACOVE-2026",
+  "id": "map_22",
+  "resolved_references": []
+}

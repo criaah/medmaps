@@ -1,0 +1,334 @@
+{
+  "title": "# Curvas ROC en Investigación Clínica",
+  "guid": "537C60285BA439A226576A06",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/9.B2-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "# Curvas ROC en\nInvestigación Clínica",
+    "guid": "VCAyrlQ_MxMdSHSeFJYMSA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Conceptos básicos",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- ROC = Receiver Operating Characteristic curve",
+            "guid": "NZPzLywNl0Z4xcIfGpdcfA",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Método estadístico para determinar exactitud diagnóstica de tests con escalas continuas",
+            "guid": "dBWGChmwlmknMzjkVtExfA",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Aplicable a tests que reportan resultados cuantitativos",
+            "guid": "Qo61KkqahlN_HfF8d0ELUQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "## Propósitos\nespecíficos",
+        "guid": "",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "- Determinar punto de corte con mayor sensibilidad y especificidad",
+            "guid": "I_h7gUI8yFgrN4Y2YDwn4w",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "5",
+            "text": "- Evaluar capacidad discriminativa del test",
+            "guid": "CZ9_32d-smhWle5LQ6BQTw",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "5",
+            "text": "- Comparar capacidad discriminativa de dos o más tests",
+            "guid": "OvsSkTI6J-1p97pWDxtFPw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "## Construcción\nde curva ROC",
+        "guid": "",
+        "children": [
+          {
+            "id": "10",
+            "parent": "9",
+            "text": "- Eje Y: Sensibilidad",
+            "guid": "BnlbAQdALvQjsVGHcZBUkQ",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "9",
+            "text": "- Eje X: 1-Especificidad",
+            "guid": "NgeuKwG_qa94NnBBa5uhWg",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "9",
+            "text": "- Ambos ejes incluyen valores entre 0 y 1 (0% a 100%)",
+            "guid": "Lc1A9XD8MmAGMv3XIeLG_w",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "9",
+            "text": "- Diagonal de referencia: línea desde punto 0,0 al punto 1,1 (línea de no-discriminación)",
+            "guid": "CqzIyS1mNrt4s_h8TTt98w",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "9",
+            "text": "- Se construye uniendo puntos de corte de la escala continua",
+            "guid": "eAC9D3fR6fhEfIlFG_k4kA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "## Categorías\ndiagnósticas",
+        "guid": "",
+        "children": [
+          {
+            "id": "16",
+            "parent": "15",
+            "text": "- Verdaderos Positivos (VP): Estándar de oro positivo y test positivo",
+            "guid": "Og6yUG-0D3t8NWB0Q64yMA",
+            "children": []
+          },
+          {
+            "id": "17",
+            "parent": "15",
+            "text": "- Falsos Negativos (FN): Estándar de oro positivo y test negativo",
+            "guid": "VzLB41LLTr8HToJ_Ei3UdA",
+            "children": []
+          },
+          {
+            "id": "18",
+            "parent": "15",
+            "text": "- Verdaderos Negativos (VN): Estándar de oro negativo y test negativo",
+            "guid": "BQV2rXFGPNUhSRmzC37Rrg",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "15",
+            "text": "- Falsos Positivos (FP): Estándar de oro negativo y test positivo",
+            "guid": "eIZryUT6azt9DyY_Lo4Z9A",
+            "children": []
+          },
+          {
+            "id": "20",
+            "parent": "15",
+            "text": "- Sensibilidad = VP/(VP+FN)",
+            "guid": "RroU6nVFloEaKbtPdIdV4A",
+            "children": []
+          },
+          {
+            "id": "21",
+            "parent": "15",
+            "text": "- Especificidad = VN/(FP+VN)",
+            "guid": "ZkHI4SBcuSYWahzfcO6Rqw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "parent": "0",
+        "text": "## Punto de\ncorte óptimo",
+        "guid": "",
+        "children": [
+          {
+            "id": "23",
+            "parent": "22",
+            "text": "- Mayor índice de Youden = (sensibilidad + especificidad - 1)",
+            "guid": "TcLv4Q8eFVs-Kg-eRcOs8A",
+            "children": []
+          },
+          {
+            "id": "24",
+            "parent": "22",
+            "text": "- Gráficamente: punto más cercano al ángulo superior-izquierdo (punto 0,1)",
+            "guid": "Bu__UwKmmONhvOWBQP6xpA",
+            "children": []
+          },
+          {
+            "id": "25",
+            "parent": "22",
+            "text": "- Determina sensibilidad y especificidad más alta conjuntamente",
+            "guid": "clqoXl3yRfUErOPUSY1qQg",
+            "children": []
+          },
+          {
+            "id": "26",
+            "parent": "22",
+            "text": "- En algunos casos se prefiere maximizar solo sensibilidad (tamizaje) o especificidad (confirmación)",
+            "guid": "ML2UtAv7ZlNbuz62NcMLYQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "parent": "0",
+        "text": "## Capacidad\ndiscriminativa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "28",
+        "parent": "0",
+        "text": "- Medida a través del área\nbajo la curva ROC (AUC -\nArea Under the Curve)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "29",
+        "parent": "0",
+        "text": "- AUC: parámetro independiente de la\nprevalencia de la enfermedad",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "30",
+        "parent": "0",
+        "text": "- AUC = 0,50: test\nno-discriminativo (coincide\ncon línea de\nno-discriminación)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "31",
+        "parent": "0",
+        "text": "- AUC = 1,00: test\ndiagnóstico perfecto",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "- Mayor AUC = mayor\ncapacidad discriminativa",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "33",
+        "parent": "0",
+        "text": "- AUC es un estimador muestral\n→ necesario reportar intervalos de\nconfianza (IC 95%)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "34",
+        "parent": "0",
+        "text": "## Comparación de\ntests diagnósticos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "- Prerrequisitos\nmetodológicos:",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "36",
+        "parent": "0",
+        "text": "- Tests medidos\nsimultáneamente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "37",
+        "parent": "0",
+        "text": "- Aplicados sobre\nmismos sujetos",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "38",
+        "parent": "0",
+        "text": "- Contrastados contra\nmismo estándar de oro",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "39",
+        "parent": "0",
+        "text": "- Comparar AUC estadísticamente\n(no solo numéricamente)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "- Métodos de comparación: Hanley &\nMcNeil o DeLong (preferido)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "41",
+        "parent": "0",
+        "text": "##\nConsideraciones\nfinales",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "42",
+        "parent": "0",
+        "text": "- Sensibilidad, especificidad y\nAUC son estimadores\nmuestrales → reportar IC 95%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "43",
+        "parent": "0",
+        "text": "- Evaluar validez\nmetodológica del estudio\nbase",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "44",
+        "parent": "0",
+        "text": "- Uso de curvas ROC trasciende\nárea de tests diagnósticos (modelos\nde regresión logística)",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 45,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "9.B2-2025",
+  "id": "map_719",
+  "resolved_references": []
+}

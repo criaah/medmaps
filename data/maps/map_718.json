@@ -1,0 +1,85 @@
+{
+  "title": "Fried Frailty (2001)",
+  "guid": "FRIED-2001-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Fried-Frailty-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Fried Frailty Phenotype (2001)\nCardiovascular Health Study\n\\n⭐ Definición operacional de\nFRAGILIDAD como síndrome\ncon 5 criterios medibles",
+    "guid": "FRIED-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Fried LP et al.\nAño: 2001\nRevista: J Gerontol A Biol Sci\nDOI: 10.1093/gerona/56.3.M146\n\\nDiseño: Cohorte prospectiva\\nCardiovascular Health Study\\nn = 5,317 participantes\\nSeguimiento: 3-7 años",
+        "guid": "FRIED-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Fried LP et al. J Gerontol 2001\\n   DOI: 10.1093/gerona/56.3.M146\\n\\n2. Rockwood K. CFS 2005\\n   Escala Clínica de Fragilidad\\n\\n3. Dent E. Lancet 2019\\n   Manejo fragilidad",
+            "guid": "FRIED-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCardiovascular Health Study:\\n• Edad mayor o igual 65 años\\n• Comunidad USA\\n• 4 comunidades\\n\\nCaracterísticas:\\n• Edad media: 73 años\\n• 58% mujeres\\n• 15% afroamericanos\\n\\nPrevalencia fragilidad:\\n• Frágil: 6.9%\\n• Prefrágil: 46.6%\\n• Robusto: 46.5%",
+        "guid": "FRIED-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "📋 5 CRITERIOS FRIED\n\\n1. PÉRDIDA PESO involuntaria\\n   mayor 4.5 kg o mayor 5% en 1 año\\n\\n2. DEBILIDAD\\n   Fuerza prensión menor P20\\n   ajustado por sexo e IMC\\n\\n3. AGOTAMIENTO (autorreporte)\\n   CES-D: todo es un esfuerzo\\n   3+ días/semana\\n\\n4. LENTITUD\\n   Velocidad marcha menor P20\\n   en 4.6m (ajustado sexo/talla)\\n\\n5. BAJA ACTIVIDAD FÍSICA\\n   kcal/semana menor P20\\n   Hombres: menor 383 kcal\\n   Mujeres: menor 270 kcal\\n\\nFRÁGIL: 3+ criterios\\nPREFRÁGIL: 1-2 criterios\\nROBUSTO: 0 criterios",
+        "guid": "FRIED-CRIT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nMortalidad a 3 años:\\n• Frágil: HR 2.24\\n• Prefrágil: HR 1.63\\n• vs Robusto\\n• p menor 0.001 ✓\n\\nCaídas (ajustado):\\n• Frágil: HR 1.82\\n• p menor 0.001 ✓\n\\nHospitalización:\\n• Frágil: HR 1.95\\n• p menor 0.001 ✓\n\\nDiscapacidad incidente:\\n• Frágil: HR 3.15\\n• p menor 0.001 ✓\n\\nValidación: Reproducido en\\nmúltiples cohortes mundiales",
+        "guid": "FRIED-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "🔄 FRIED vs ROCKWOOD\n\\nFRIED (Fenotipo):\\n✓ Simple: 5 criterios\\n✓ Operacionalizable\\n✓ Más usado en investigación\\n✗ No incluye cognición\\n✗ Requiere mediciones\\n\\nROCKWOOD (Acumulación déficits):\\n✓ Incluye más dominios\\n✓ CFS es práctico clínicamente\\n✓ Gradiente continuo\\n✗ Más complejo de calcular\\n\\nAmbos válidos y complementarios",
+        "guid": "FRIED-COMP",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ FUNDAMENTAL\n\\nImpacto clínico:\\n• Identifica pacientes alto riesgo\\n• Guía intensidad tratamientos\\n• Informa pronóstico\\n• Personaliza metas terapéuticas\\n\\nUso práctico:\\n• Screening consulta geriatría\\n• Evaluación preoperatoria\\n• Decisiones terapéuticas\\n• Planificación anticipada\\n\\nIntervenciones:\\n• Ejercicio multicomponente\\n• Nutrición proteica\\n• Revisión polifarmacia\\n• Manejo comorbilidades",
+        "guid": "FRIED-GERI",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "🏥 USO CLINICO FRAGILIDAD\n\\nPreoperatorio:\\n• Frágil = mayor riesgo complicaciones\\n• Prehabilitation si electivo\\n• Ajustar expectativas\\n\\nDecisiones tratamiento:\\n• Oncogeriatría: toxicidad QT\\n• Cardiología: TAVI vs cirugía\\n• Nefrología: diálisis vs conservador\\n\\nTransiciones:\\n• Riesgo reingresos\\n• Planificación alta\\n• Seguimiento cercano",
+        "guid": "FRIED-CLINICAL",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Fragilidad NO es envejecimiento:\n   es síndrome distinto de edad\n\\n2. Prefragilidad es REVERSIBLE:\n   ventana de intervención\n\\n3. 5 criterios simples:\n   peso, fuerza, cansancio,\n   velocidad, actividad\n\\n4. Predice TODO:\n   caídas, hospit, muerte, discapacidad\n\\n5. Guía intensidad tratamiento:\n   no edad cronológica\n\\n6. Velocidad marcha es clave:\n   el sexto signo vital\n\\n7. Ejercicio es tratamiento:\n   único con evidencia revertir fragilidad\n\\n8. Complementar con CFS:\n   para uso clínico rápido",
+        "guid": "FRIED-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Fried-Frailty-2026",
+  "id": "map_718",
+  "resolved_references": []
+}

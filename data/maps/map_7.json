@@ -1,0 +1,85 @@
+{
+  "title": "ASPREE (2018)",
+  "guid": "ASPREE-2018-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/ASPREE-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ASPREE (2018)\nAspirin in Reducing Events\nin the Elderly Trial\n\n⭐ NEGATIVO para AAS en\nprevención primaria en ancianos",
+    "guid": "ASPREE-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: McNeil JJ et al.\nAño: 2018\nRevista: NEJM\nDOI: 10.1056/NEJMoa1800722\n\\nDiseño: RCT doble ciego\nMulticéntrico\nAustralia + USA\nn = 19,114 participantes",
+        "guid": "ASPREE-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. McNeil JJ et al. NEJM 2018\\n   DOI: 10.1056/NEJMoa1800722\\n\\n2. McNeil JJ et al. NEJM 2018\\n   (Mortality) DOI: 10.1056/NEJMoa1803955\\n\\n3. AHA/ACC 2019 Guidelines\\n   Primary Prevention CVD",
+            "guid": "ASPREE-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\n• Edad mayor o igual 70 años\n  (mayor o igual 65 en afroamericanos/hispanos)\n• Sin enfermedad CV establecida\n• Sin demencia\n• Sin discapacidad física\n• Expectativa vida mayor 5 años\n\nCriterios Exclusion:\n• Uso previo AAS crónico\n• Alto riesgo sangrado\n• Anemia\n• Evento CV previo",
+        "guid": "ASPREE-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Intervencion:\\n• AAS 100 mg/día VO\\n\\nGrupo Control:\\n• Placebo idéntico\\n\\nDuración: Mediana 4.7 años\\nSeguimiento: Anual presencial\\n+ contacto telefónico c/6 meses",
+        "guid": "ASPREE-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nOutcome Primario:\\nSobrevida libre de discapacidad\\n• AAS: 21.5 eventos/1000 personas-año\\n• Placebo: 21.2/1000 personas-año\\n• HR 1.01 (IC95% 0.92-1.11)\\n• p = NS ❌\\n\\nMortalidad total:\\n• AAS: 12.7/1000 personas-año\\n• Placebo: 11.1/1000 personas-año\\n• HR 1.14 (IC95% 1.01-1.29)\\n⚠️ Mayor mortalidad con AAS",
+        "guid": "ASPREE-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nSangrado mayor:\\n• AAS: 8.6 eventos/1000 personas-año\\n• Placebo: 6.2/1000 personas-año\\n• HR 1.38 (IC95% 1.18-1.62)\\n• p menor 0.001\\n• NNH = 98/año\\n\\nHemorragia GI:\\n• AAS: 48% mayor riesgo\\n\\nHemorragia intracraneal:\\n• AAS: 50% mayor riesgo",
+        "guid": "ASPREE-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Gran tamaño muestral\\n✓ Doble ciego riguroso\\n✓ Seguimiento prolongado\\n✓ Población objetivo clara\\n\\nLimitaciones:\\n• Población predominante blanca\\n• Baja tasa eventos CV basal\\n• Seguimiento terminado precoz\\n• No evaluó subgrupos de riesgo\\n\\nRiesgo sesgo: BAJO",
+        "guid": "ASPREE-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Altamente relevante\n\\nImplicancias:\\n• NO iniciar AAS en mayores 70 años\\n  sin ECV establecida\\n• Considerar deprescripción en\\n  usuarios crónicos sin indicación\\n• Balance riesgo/beneficio negativo\n\\nPoblación aplicable:\\n• Adultos mayores sanos\\n• Sin cardiopatía isquémica\\n• Sin ACV/AIT previo\\n• Sin enfermedad arterial periférica",
+        "guid": "ASPREE-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. AAS NO prolonga vida saludable\n   en mayores de 70 años sanos\n\\n2. Aumento inesperado mortalidad\n   por cáncer con AAS (exploratorio)\n\\n3. NNH sangrado mayor = 98/año\n   vs NNT CV = No significativo\n\\n4. Cambió guías: AHA/ACC 2019\n   ya NO recomiendan AAS rutinario\n   en prevención primaria mayor 70\n\\n5. Start low, go slow NO aplica:\n   Simplemente NO iniciar",
+        "guid": "ASPREE-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "ASPREE-2026",
+  "id": "map_7",
+  "resolved_references": []
+}

@@ -1,0 +1,481 @@
+{
+  "title": "Neoplasias malignas linfoides",
+  "guid": "4AA020043907B5F9B1698048",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Oncología/18. Neoplasias malignas linfoides-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Neoplasias\nmalignas linfoides",
+    "guid": "vESSEb_XZbPZq6L2J0AMpg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Epidemiología y\nfactores de riesgo",
+        "guid": "aliOivdxEb0wQWbuOK5TBw",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "incidencia",
+            "guid": "_7ryTtnf-pR5mOxDjsum9g",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "2018 se habrán diagnosticado 83.180 casos\nnuevos de linfoma en Estados Unidos",
+                "guid": "_-4SSLwFxdihLCqcFuD6iA",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "riesgo de desarrollar un linfoma no Hodgkin durante la vida es\ndel 2,1% y es mucho más bajo para el linfoma de Hodgkin",
+                "guid": "-MltRpENvv2_pGp1kbwxfw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "linfoma no Hodgkin aumenta con la edad",
+                "guid": "8fEtaf8A01ukrvM38V3D-g",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "linfoma de Hodgkin muestra una\ndistribución etaria bimodal",
+                "guid": "qclJUQuvYdD46okMAk2u6Q",
+                "children": [
+                  {
+                    "id": "7",
+                    "parent": "6",
+                    "text": "pico inicial en la segunda y la tercera décadas de la vida",
+                    "guid": "AViW2aujj-j3vaouOiw4Ng",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "6",
+                    "text": "declinación subsiguiente y luego un aumento sostenido con la edad",
+                    "guid": "G6s-VGj9tvyh-S7IYzSI0g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "progresos terapéuticos han reducido notablemente las tasas de mortalidad",
+            "guid": "6tMi6AL6GjEmqtYymOXvqw",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "1",
+            "text": "mayoría de estos casos\nparecen ser esporádicos",
+            "guid": "oUetev-9Mh7GVxo7c-eIhg",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "se ha observado agrupamiento familiar que se asocia a un\naumento del riesgo relativo en los familiares de primer grado",
+                "guid": "jvgN87e3KlTIvk7ZiNJNCg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "Factores de Riesgo",
+            "guid": "Ge9t-47flyY1YpVLPUC6jQ",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "inmunosupresión",
+                "guid": "2cpngadqj1JnHa4DTdsTQg",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "tanto congénita como adquirida (infección por VIH,\ntrasplante de órganos o inmunodeficiencia hereditaria)",
+                    "guid": "mOvpQBTkeQ9jFqXOPSyCLg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "12",
+                "text": "infecciones\nvirales",
+                "guid": "7TsLQOb219NHxV5N2C5s8A",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "Epstein-Barr",
+                    "guid": "z-SkoL7VAHn2dS_YK5skyA",
+                    "children": [
+                      {
+                        "id": "17",
+                        "parent": "16",
+                        "text": "linfoma de Burkitt",
+                        "guid": "vNXHNkaNTbOHjeNnpFyrZw",
+                        "children": [
+                          {
+                            "id": "18",
+                            "parent": "17",
+                            "text": "pacientes pediátricos de África",
+                            "guid": "1Ent9ZFOqVu9pTCFet3z5w",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "19",
+                        "parent": "16",
+                        "text": "linfoma de Hodgkin",
+                        "guid": "FWHWPT75lXrBm7WsQbqyrg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "20",
+                    "parent": "15",
+                    "text": "virus linfotrópico de linfocitos T\nhumanos tipo 1 (HTLV-1)",
+                    "guid": "2HW3PP6Pem3rTCdOB_B10g",
+                    "children": [
+                      {
+                        "id": "21",
+                        "parent": "20",
+                        "text": "leucemias y linfomas de linfocitos T",
+                        "guid": "PlHijwxN_fPqcfQ51lZKbQ",
+                        "children": []
+                      },
+                      {
+                        "id": "22",
+                        "parent": "20",
+                        "text": "endémico en Japón, África Occidental, América\nCentral, el sudeste de Estados Unidos y el Caribe",
+                        "guid": "oydrr4H9y1zkLuDyECdhHA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "23",
+                    "parent": "15",
+                    "text": "hepatitis C",
+                    "guid": "we9Kdp3iPUL5dtmvyMEDpg",
+                    "children": [
+                      {
+                        "id": "24",
+                        "parent": "23",
+                        "text": "linfoma esplénico de la zona marginal",
+                        "guid": "KMpMbvSgQnW_Pj02kekTFg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "25",
+                    "parent": "15",
+                    "text": "VIH",
+                    "guid": "IJ5eNJ8rNyu1Xi-nkldftQ",
+                    "children": [
+                      {
+                        "id": "26",
+                        "parent": "25",
+                        "text": "linfomas (principalmente\nde linfocitos B)",
+                        "guid": "bLHiJuUZbBxVK-kqFxwIGg",
+                        "children": [
+                          {
+                            "id": "27",
+                            "parent": "26",
+                            "text": "histología agresiva",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "28",
+                            "parent": "26",
+                            "text": "diagnóstico en un estadio más avanzado",
+                            "guid": "DNMhsyO9gsL-H7fF_yVomA",
+                            "children": []
+                          },
+                          {
+                            "id": "29",
+                            "parent": "26",
+                            "text": "más síntomas B",
+                            "guid": "LLYBfME1B0rkl7sBmMLUyQ",
+                            "children": []
+                          },
+                          {
+                            "id": "30",
+                            "parent": "26",
+                            "text": "aumento del riesgo de compromiso\nextraganglionar y nervioso central",
+                            "guid": "IClCQU3TZJm30dRnMrxsHQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "31",
+                    "parent": "15",
+                    "text": "herpesvirus",
+                    "guid": "mu9p9a8JuaV5Q0nprktZ0g",
+                    "children": [
+                      {
+                        "id": "32",
+                        "parent": "31",
+                        "text": "responsable del sarcoma de Kaposi\n(herpesvirus humano 8)",
+                        "guid": "TsVh-VaNUCUOs-mxmmDo4w",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "31",
+                        "text": "se asocia al linfoma\nprimario de cavidades",
+                        "guid": "p-wugMiu0G0WmbAMFC7cSw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "12",
+                "text": "trastornos reumáticos\nautoinmunes",
+                "guid": "rH-K1s4Vagid24KZmm6Zgg",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "síndrome de Sjögren, el lupus eritematoso\nsistémico y la artritis reumatoide",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "un riesgo más alto de\ndesarrollar linfoma no Hodgkin",
+                    "guid": "Bx7VIIqASYFNdAzZbncrKw",
+                    "children": [
+                      {
+                        "id": "37",
+                        "parent": "36",
+                        "text": "asociación más estrecha con el síndrome de Sjögren\ny los linfomas extraganglionares de la zona marginal",
+                        "guid": "ZRWcWGw6yK59IABGPQ_sFQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "parent": "0",
+        "text": "Evaluación y\ndiagnóstico",
+        "guid": "hYGBvUOReA31bUnBn5NJoQ",
+        "children": [
+          {
+            "id": "39",
+            "parent": "38",
+            "text": "adenopatías",
+            "guid": "kvNGEbwxV7Jg9y7tH1Dgug",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "se deben a\nnumerosas causas",
+                "guid": "rjm7Zo-bHtAszg4jZ4Gyxw",
+                "children": [
+                  {
+                    "id": "41",
+                    "parent": "40",
+                    "text": "mayoría de los\ncasos benignas",
+                    "guid": "9xP-4IKTBMQseZnj_k6WwQ",
+                    "children": [
+                      {
+                        "id": "42",
+                        "parent": "41",
+                        "text": "inflamatorias o\ninfecciosas",
+                        "guid": "HqgqD36N9TiRe9cnCLTl_Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "43",
+                    "parent": "40",
+                    "text": "signo más frecuente del linfoma",
+                    "guid": "J6TjTFDtF933QSMQ7ftdkg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "44",
+                "parent": "39",
+                "text": "ganglios linfáticos cervicales e\ninguinales palpables",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "tamaño pequeño a moderado, que\nno necesitan evaluación adicional",
+                    "guid": "Hw60LoT3te3RqnV4NvLUxA",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "44",
+                    "text": "adenopatía de corta duración (menos de 3-4 semanas)\nen un adulto joven probablemente es benigna",
+                    "guid": "nj5BzZ4vGKSuExU8HyYPbw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47",
+                "parent": "39",
+                "text": "ganglios linfáticos palpables no\nsusceptibles de examen físico",
+                "guid": "QQk7jrr0eE1E_90mNl8epg",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "pueden evaluar con una TC de\ntórax, abdomen y pelvis",
+                    "guid": "rBmH2k2F_FewskUUgvTAQw",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "no se debe indicar en\npacientes asintomáticos",
+                    "guid": "oR0ScQBSKJHF4b33x4iAow",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50",
+                "parent": "39",
+                "text": "tamaño, la distribución o la persistencia de las adenopatías o los\nsíntomas sistémicos despiertan la sospecha de un linfoma,\ngeneralmente se indica una biopsia del ganglio linfático afectado",
+                "guid": "GVaMTkpAenTdOkthUbHpDA",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "39",
+                "text": "Aunque la mayoría de los pacientes con linfoma consultan debido a afectación\nganglionar, la presentación en localizaciones extraganglionares no es infrecuente",
+                "guid": "unIIufV_y8VZAPpiTg9KtQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "52",
+            "parent": "38",
+            "text": "biopsia",
+            "guid": "3uWM6bT7X-yfK52TJ7rUAQ",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "escisional",
+                "guid": "j0i6n_DL9pghISBvRrXhWw",
+                "children": [
+                  {
+                    "id": "54",
+                    "parent": "53",
+                    "text": "mayor rendimiento diagnóstico",
+                    "guid": "Ie_vwCb6_KUSwu_Y5mnPBw",
+                    "children": []
+                  },
+                  {
+                    "id": "55",
+                    "parent": "53",
+                    "text": "puede determinar mejor la\narquitectura ganglionar",
+                    "guid": "jtvNd1nFp5Lz7vF2I_P1bQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "56",
+                "parent": "52",
+                "text": "punción-aspiración\ncon aguja fina",
+                "guid": "Blh68nV_iO8KOqTB4WaysQ",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "examinar la citología",
+                    "guid": "nG5PU9h4nVc1MqTEg8ZbJg",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "56",
+                    "text": "generalmente obtiene material insuficiente\npara establecer un diagnóstico específico",
+                    "guid": "ZufF_UPpLcaKEMak7wwsOA",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "56",
+                    "text": "puede mostrar características sospechosas de linfoma que requieren\nuna biopsia escisional más definitiva o, a la inversa, signos de\ninflamación que reducen la probabilidad de que se trate de un linfoma",
+                    "guid": "OBkY897SjRdQM69eQBaIEg",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "56",
+                    "text": "citometría de flujo de la\nmuestra de citología",
+                    "guid": "H-MuK22arwXh3QduAPukTg",
+                    "children": [
+                      {
+                        "id": "61",
+                        "parent": "60",
+                        "text": "puede demostrar marcadores de linfocitos B o T\ny características de monoclonalidad",
+                        "guid": "wk9NQA06JqsrycmT5q3wTg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "parent": "0",
+        "text": "Clasificaciones, estadificación y\npronóstico del linfoma maligno",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 63,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Oncología",
+  "filename": "18. Neoplasias malignas linfoides-2025",
+  "id": "map_1666",
+  "resolved_references": []
+}

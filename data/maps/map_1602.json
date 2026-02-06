@@ -1,0 +1,438 @@
+{
+  "title": "Cefalea Tipo Tensional",
+  "guid": "0C67B7BD650B4AE831DC5AEC",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Wiki. Cefalea Tipo Tensional-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Cefalea Tipo\nTensional",
+    "guid": "BIen7XaxZt4oox4vHjiqOQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Introducción",
+        "guid": "R-qy-xGDrgtnRbrdduPk2w",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Frecuencia: 30-78% de prevalencia",
+            "guid": "ZNpA6TRLlv9Lal7aCqIj9w",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Impacto: Alto impacto socioeconómico",
+            "guid": "SfBbL1lT-UI-AUhjNtxOhQ",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "Desencadenantes: Estrés, trastornos del sueño, fatiga visual",
+            "guid": "W_bcXBWqKbIz62XgHAMI3g",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "Prevalencia en APS: 36% de las consultas por cefalea (OMS)",
+            "guid": "QMk-8w3bY-Z15z58cJ857w",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "Inicio: Más frecuente en la 2da década, mayor prevalencia 30-39 años",
+            "guid": "TKbFPVJ59Kc7eBdXKiRheQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "Clasificación",
+        "guid": "HxlKvy5ROroIzi5cZ1wKWg",
+        "children": [
+          {
+            "id": "8",
+            "parent": "7",
+            "text": "Cefalea tipo tensional\nepisódica (CTE)",
+            "guid": "FxEpIn13xNlCdI-xe-tqDA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "CTE infrecuente: <1 episodio/mes, la más común, poco impacto, no suele requerir atención médica",
+                "guid": "McNb2A3e7osGjY4Dea4O0w",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "CTE frecuente: 1-15 episodios/mes, asociada a discapacidad considerable",
+                "guid": "H2Kclm3TSOBwkfOvaVL3xQ",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "Cefalea tipo tensional crónica: >15 episodios/mes por >3 meses",
+                "guid": "RydCIi6TPBIgL0ZKIx4efg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "parent": "0",
+        "text": "Etiología y\nFisiopatología",
+        "guid": "RD1lxFQarCo_ISdcBQaktw",
+        "children": [
+          {
+            "id": "13",
+            "parent": "12",
+            "text": "Origen: Antes psicógeno, ahora fuerte base neurobiológica",
+            "guid": "YfYQEDUIZdh1pd6mLpzVTg",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "12",
+            "text": "Mecanismos\nexactos desconocidos",
+            "guid": "B4JafzEd9f1YwTbHJpulPg",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "CTEI y CTEF: Mecanismo de dolor periférico",
+                "guid": "X28wt2GPZSMN96-YdoBZ2Q",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "Crónica: Mecanismo\nde dolor central",
+                "guid": "Xwcp_VBsP0lya8PlEMqF1Q",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "Sensibilidad pericraneal: ↑ actividad muscular, isquemia muscular, alteraciones del flujo sanguíneo",
+                    "guid": "Xkst1Hj5UegKeJSpfa3Kaw",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "16",
+                    "text": "Sensibilización\ncentral:",
+                    "guid": "ZsyayHsKiFhnAMIwLfPc6g",
+                    "children": [
+                      {
+                        "id": "19",
+                        "parent": "18",
+                        "text": "Vasoconstricción simpática → ↓ flujo sanguíneo muscular + disfunción periférica → hipersensibilidad",
+                        "guid": "KZ3EagcwCHtREftobdsqLg",
+                        "children": []
+                      },
+                      {
+                        "id": "20",
+                        "parent": "18",
+                        "text": "↓ inhibición supraespinal (disfunción serotoninérgica) → ↓ serotonina plasmática y sináptica → ↑ estimulación nociceptiva de neuronas de 2do orden\n→ ↑ campos receptivos → hiperexcitabilidad neuronal",
+                        "guid": "W0q0pRAzIsRy4c7lPUDEtg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "parent": "14",
+                "text": "Cambios nociceptivos → ↑ actividad y tono muscular, hipersensibilidad cutánea pericraneana",
+                "guid": "RTuInGiHrYtr3ZoETL3jHA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "parent": "0",
+        "text": "Clínica y\nDiagnóstico",
+        "guid": "GaWjiESe0MtzWYhaeRTUPw",
+        "children": [
+          {
+            "id": "23",
+            "parent": "22",
+            "text": "Características: Dolor leve a moderado, opresivo, holocráneo, ↑ durante el día,\nalivia con el sueño, duración variable (horas a días)",
+            "guid": "Ji417wFRN_NvlS4YBTVf7A",
+            "children": []
+          },
+          {
+            "id": "24",
+            "parent": "22",
+            "text": "Hallazgo: Sensibilidad pericraneal (interictal y en crisis aguda)",
+            "guid": "Ub13PGIA8f4V_-XBMAilEQ",
+            "children": []
+          },
+          {
+            "id": "25",
+            "parent": "22",
+            "text": "Examen: Palpación manual de músculos (frontal, temporal, masetero, pterigoideo, esternocleidomastoideo, esplenio, trapecio)",
+            "guid": "WvpD5iB4emottm98Qcberw",
+            "children": []
+          },
+          {
+            "id": "26",
+            "parent": "22",
+            "text": "Diferenciar\nde migraña:",
+            "guid": "G4MCwhS3MaxvuruZRSDHLA",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "CTT más común en el día, migraña más común en consultas.",
+                "guid": "G-c6J0DMtwIy-_FadzHuzQ",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "26",
+                "text": "CTT: holocraneal, no pulsátil, no severa, no empeora con actividad, sin náuseas, fotofobia ni fonofobia",
+                "guid": "UP_ZxiXdwD80crODFjtiYw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "parent": "22",
+            "text": "Criterios diagnósticos\n(ICHD-III) (1)",
+            "guid": "DmVtyiBQTYdi-UV_KAsRUg",
+            "children": [
+              {
+                "id": "30",
+                "parent": "29",
+                "text": "infrecuente:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "A. Al menos 10 episodios, <1 día/mes (<12 días/año), cumple B-D",
+                    "guid": "V6QFzBC1E6oQUrQtKWF9CQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32",
+                "parent": "29",
+                "text": "frecuente:",
+                "guid": "AEiP4mNjn7onOdcCDq39rQ",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "A. Al menos 10 episodios, 1-14 días/mes por >3 meses (≥12 y <180 días/año), cumple B-D",
+                    "guid": "A7PtQQozHIE2uQ7_aKMLkw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "29",
+                "text": "CTT crónica:",
+                "guid": "N51jhnrtt68VrOGNd5v-Xw",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "A. Cefalea ≥15 días/mes por >3 meses (≥180 días/año), cumple B-D",
+                    "guid": "VViHUkSdzcQImnL-VaEXNQ",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "B. Duración de minutos a días, o sin remisión",
+                    "guid": "KAFtfi_USgFkTxTiK7Vavw",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "34",
+                    "text": "D. Solo una de fotofobia, fonofobia o náuseas leves; o ni náuseas moderadas-intensas ni vómitos",
+                    "guid": "DCvaKjRCrjU2sy6QNpGIGw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38",
+                "parent": "29",
+                "text": "CTE",
+                "guid": "ZO8eUlZSzdkhH-WRCx1UQQ",
+                "children": [
+                  {
+                    "id": "39",
+                    "parent": "38",
+                    "text": "B. Duración 30 min a 7 días",
+                    "guid": "crYFqCZSme9ZaiIaTbBJjg",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "38",
+                    "text": "C. Al menos 2 de: Bilateral, opresiva (no pulsátil), intensidad leve-moderada, no empeora con actividad física",
+                    "guid": "RssUWQcgkZYPdyg9Yk4XHA",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "38",
+                    "text": "D. Sin náuseas ni vómitos, puede asociar fotofobia o fonofobia (no ambas)",
+                    "guid": "G9fDQn8x49cnbt5IN779ag",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "38",
+                    "text": "E. Sin mejor explicación por otro diagnóstico",
+                    "guid": "P_6a2Vpqz6Mu8Ow3EP50nw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "parent": "0",
+        "text": "Diagnóstico:",
+        "guid": "bzg9gF-nhgInwkpmMU5eYA",
+        "children": [
+          {
+            "id": "44",
+            "parent": "43",
+            "text": "Clínico. Imágenes generalmente no necesarias (excepto si hay banderas rojas, cefalea en trueno, o no cumple criterios de cefalea primaria)",
+            "guid": "GBMFsXtBI80PPEKDT7BpNw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "45",
+        "parent": "0",
+        "text": "Tratamiento",
+        "guid": "di7bfSTpJBBHTGeWS4dizw",
+        "children": [
+          {
+            "id": "46",
+            "parent": "45",
+            "text": "Objetivo: ↓ frecuencia, gravedad y duración, ↑ respuesta al tratamiento agudo, ↑ función, ↓ discapacidad",
+            "guid": "aYbx1E_m2pQhKHoEEYhfUg",
+            "children": []
+          },
+          {
+            "id": "47",
+            "parent": "45",
+            "text": "Medidas no\nfarmacológicas:",
+            "guid": "f7sklQV3juY9PboROcKLGA",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "Regulación del sueño, ejercicio y comidas",
+                "guid": "IH-yyFGWIGRUT9v1E2DLOg",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "Terapia cognitivo-conductual: Identificar y responder a pensamientos disfuncionales, desarrollar conductas adaptables",
+                "guid": "Wa7miycHHPpuz-voZdrAtQ",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "47",
+                "text": "Relajación: Meditación, autohipnosis",
+                "guid": "W0nLMCWDGngcbEjRSoIIsA",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "47",
+                "text": "Biorretroalimentación",
+                "guid": "BSqgekQukzd70GcQHT2mKw",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "47",
+                "text": "Fisioterapia: Calor/frío local, ultrasonido, TENS, mejoras posturales",
+                "guid": "P2-3BQsMqZRs7g9iNZ6Sgg",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "47",
+                "text": "Terapia manual: Manipulación osteopática, masajes (↓ excitabilidad y sensibilidad del SNC)",
+                "guid": "L_XNpDQ6dvgBJfVRGXy_eQ",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "47",
+                "text": "Acupuntura: Alternativa para CTT crónica y CTEF",
+                "guid": "BCFRjSJOb1YrBR7LA9x2Ig",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "parent": "45",
+            "text": "Manejo\nfarmacológico:",
+            "guid": "J8X-PGhC2N09nwE6SEWxBA",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "CTEF: Paracetamol 1 g c/8 h VO o Naproxeno 550 mg c/12 h VO (no exceder\nlímites para evitar cefalea por sobreuso, no >10-15 días/mes alternados o consecutivos)",
+                "guid": "Odj5QRHu3TBbpnw_E4ffzA",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "55",
+                "text": "No usar: Ergotamínicos ni triptanes",
+                "guid": "OPX6Kkp2aCd5YqCCFD_FWg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 58,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Wiki. Cefalea Tipo Tensional-2025-1",
+  "id": "map_1602",
+  "resolved_references": []
+}

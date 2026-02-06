@@ -1,0 +1,964 @@
+{
+  "title": "Actualización en Medicina de Emergencias: Ataque Isquémico Transitorio (2025)",
+  "guid": "36B0406D59A3CC0278565FEF",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Ataque Isquémico Transitorio-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Actualización en Medicina de Emergencias:\nAtaque Isquémico Transitorio (2025)",
+    "guid": "eXRBuEujkvVKFQTXQnMkQA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "1. Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "1.1. Definición\ny Contexto",
+            "guid": "RcLsG0DnoIorokz8eGkSSg",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "El ataque isquémico transitorio (AIT) ha evolucionado en su definición. La definición original se basaba en el tiempo,\ndescribiéndolo como la aparición de un déficit neurológico focal consistente con isquemia cerebral y resolución completa\nde los síntomas en 24 horas. Sin embargo, la definición actual se basa en tejido, reconociendo que hasta el 50% de los\npacientes pueden presentar infartos en las imágenes diagnósticas a pesar de cumplir con la definición temporal.",
+                "guid": "Kqqfii4laOR6apuZF-szWg",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "La definición basada\nen tejido incluye:",
+                "guid": "ZedxU37oFPgV5_6-Z8cmFg",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "Episodio transitorio de disfunción neurológica causada por isquemia focal",
+                    "guid": "JluocknBup8mS9Spa28ahw",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "Ausencia de infarto agudo en las imágenes",
+                    "guid": "AHH7DH_voKxjxXp2eeY8xA",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "4",
+                    "text": "Evaluación basada en la lesión tisular y no solo en el tiempo de resolución",
+                    "guid": "S5MzoS3af048WWEFDqOZ7g",
+                    "children": []
+                  },
+                  {
+                    "id": "8",
+                    "parent": "4",
+                    "text": "Consideración de la historia clínica, examen neurológico y disponibilidad/sensibilidad de las neuroimágenes",
+                    "guid": "X0P7lRIDm2ctroElXDi8HA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "1.2. Epidemiología",
+            "guid": "Tq49G1AAwYsrH7Z1FHEpNg",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "La incidencia del AIT se estima entre 240.000 a 500.000 casos por año en Estados Unidos, con una tasa que varía entre 0,22 y\n1,1 por 1.000 personas-año. El riesgo es mayor en personas entre 45 y 54 años y más elevado en aquellos entre 85 y 94 años.",
+                "guid": "EOhiFVbCA3EM2juAO5MBnw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "parent": "0",
+        "text": "2. Factores de Riesgo",
+        "guid": "",
+        "children": [
+          {
+            "id": "12",
+            "parent": "11",
+            "text": "Los factores de riesgo más\ncomúnmente asociados incluyen:",
+            "guid": "BOdsVgdE1xlTfjT5as7dqQ",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "Hipertensión arterial",
+                "guid": "BizsEmlmM7hSlgO_LIiUhA",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "12",
+                "text": "Antecedentes de accidente cerebrovascular",
+                "guid": "MyfuV3jh2GkX968LM5npZA",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "12",
+                "text": "Enfermedad arterial coronaria o periférica",
+                "guid": "eNF5FXu9KYItgCYoRGSstg",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "12",
+                "text": "Estenosis carotídea",
+                "guid": "KZeo0GnZhy1TCEakCNukZQ",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "12",
+                "text": "Diabetes mellitus",
+                "guid": "e90ilAC2x8llFGCCSotfsA",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "12",
+                "text": "Enfermedad renal",
+                "guid": "ULeJVBA0Fvde_IjmYZ_raQ",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "12",
+                "text": "Fibrilación auricular",
+                "guid": "ZvYaaWvWxGcdMu0Ia92Gvw",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "12",
+                "text": "Edad avanzada",
+                "guid": "cxubgHCxIgFWrGRoeUiHkg",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "12",
+                "text": "Tabaquismo",
+                "guid": "WhdVuSlCaCcl0RwWDT9EEQ",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "12",
+                "text": "Obesidad",
+                "guid": "IiRAkD3IyyJA2S11GvW5pQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "3. Evaluación Clínica",
+        "guid": "",
+        "children": [
+          {
+            "id": "24",
+            "parent": "23",
+            "text": "3.1. Consideraciones\nDiagnósticas",
+            "guid": "OYX0pG5ZU51fWmZbYx2ddA",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "El AIT es una variante del accidente cerebrovascular isquémico y puede resultar de diversas causas patológicas.\nLas definiciones modernas recomiendan una definición basada en imágenes para evaluar la lesión neurológica y la\netiología.",
+                "guid": "WDLayzJirP9r-UHZVA_9Xw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "23",
+            "text": "3.2. Evaluación\nen Urgencias",
+            "guid": "Mxl0yFENolsem10PA9D-HA",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "La evaluación\ndebe incluir:",
+                "guid": "YUG5U32X5fZlcOmFSDfTvA",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "Valoración de signos y síntomas actuales de disfunción neurológica",
+                    "guid": "aW6qXQKj1o00FVp7XIpF3Q",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "Evaluación del riesgo de accidente cerebrovascular",
+                    "guid": "c1T4jwrBvuNV0s1wTWxOSA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "Disposición apropiada para el seguimiento",
+                    "guid": "NAQnCnuj6YZaq5JZVihnmw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "parent": "23",
+            "text": "3.3. Estudios\nde Imagen",
+            "guid": "OWy0qBuEv85xHiFAcvKpTA",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "3.3.1. Modalidades\nPrincipales",
+                "guid": "Cd4TbFB4h5xWEEbAYhDuNw",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "La resonancia magnética con difusión (DWI) es la modalidad de elección para infartos agudos,\ncon sensibilidad superior al 93%",
+                    "guid": "Ats0m0IJiJo2IOuWNfSpZA",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "32",
+                    "text": "La tomografía computarizada (TC) sin contraste es la modalidad inicial más común, seguida por RM",
+                    "guid": "Excq9VS8SKY5xaeAdFjkSA",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "32",
+                    "text": "El ultrasonido dúplex carotídeo y transcraneal puede evaluar el flujo cervical e intracraneal",
+                    "guid": "UlQunB82kQY8kLgEO8LY-Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "parent": "31",
+                "text": "3.3.2. Consideraciones\nEspecíficas",
+                "guid": "Idpnk3CmEn8YTR7WFS9gIg",
+                "children": [
+                  {
+                    "id": "37",
+                    "parent": "36",
+                    "text": "La angiografía por TC (ATC) es especialmente útil para evaluar estenosis carotídea (>20% de pacientes con AIT)",
+                    "guid": "e2fRYm4f7EZim65rL2v4bQ",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "36",
+                    "text": "La angiografía por resonancia magnética (ARM) puede identificar estenosis carotídea de alto grado",
+                    "guid": "acPVzT1HQMQFlGAIIzCKdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "36",
+                    "text": "El ultrasonido tiene sensibilidad del 82-97% y especificidad del 54-95% para estenosis carotídea",
+                    "guid": "WMwAk3aygUgWIzPCYqoT_w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "40",
+                "parent": "31",
+                "text": "3.3.3. Timing\ny Selección",
+                "guid": "RysI5GwzeoJEuwI2SgY9gA",
+                "children": [
+                  {
+                    "id": "41",
+                    "parent": "40",
+                    "text": "La RM con DWI debe realizarse idealmente dentro de las 24 horas del inicio de los síntomas",
+                    "guid": "Lj0DHHrb7cx_-ubkQVQuEg",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "40",
+                    "text": "La selección de la modalidad\ndebe considerar:",
+                    "guid": "T5g2cjnAjmQ1rRJaIexlDg",
+                    "children": [
+                      {
+                        "id": "43",
+                        "parent": "42",
+                        "text": "Recursos locales disponibles",
+                        "guid": "WPcfanI9yl9drz4HetGG_g",
+                        "children": []
+                      },
+                      {
+                        "id": "44",
+                        "parent": "42",
+                        "text": "Factores del paciente",
+                        "guid": "YuPc3nX8XN4QAOcgXkuuQQ",
+                        "children": []
+                      },
+                      {
+                        "id": "45",
+                        "parent": "42",
+                        "text": "Recomendaciones del especialista consultor",
+                        "guid": "ZBxJJHKclYsNt6auTeAe8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "46",
+                        "parent": "42",
+                        "text": "Las imágenes no deben retrasar el inicio del tratamiento cuando está indicado",
+                        "guid": "L-PWUBNMBrZxEKlnCK_W4w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "4. Manejo y\nTratamiento",
+        "guid": "",
+        "children": [
+          {
+            "id": "48",
+            "parent": "47",
+            "text": "4.1. Terapia\nAntitrombótica",
+            "guid": "Cf6H_gcz3SlrWeriUSmQ4w",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "4.1.1. Antiagregación\nPlaquetaria",
+                "guid": "c2dXqzAU7RgbL85jIaRayA",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "La monoterapia con aspirina (162-325 mg diarios) está indicada en pacientes de bajo riesgo (ABCD2 ≤ 4)",
+                    "guid": "KvDa5BsqtUdi-IjaeokRVw",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "49",
+                    "text": "La terapia antiplaquetaria dual (DAPT) ha demostrado\nsuperioridad sobre la aspirina en monoterapia:",
+                    "guid": "VOtDqxilmzQcdXZlLeJjFg",
+                    "children": [
+                      {
+                        "id": "52",
+                        "parent": "51",
+                        "text": "Clopidogrel más aspirina: reducción del riesgo relativo del 80% en ensayos clínicos",
+                        "guid": "CuNlk3oktG0os-oUbcdCcg",
+                        "children": []
+                      },
+                      {
+                        "id": "53",
+                        "parent": "51",
+                        "text": "Dosis inicial: aspirina 160-325 mg y clopidogrel 300 mg",
+                        "guid": "cCERSzi00TRMEvCzVD1abw",
+                        "children": []
+                      },
+                      {
+                        "id": "54",
+                        "parent": "51",
+                        "text": "Mantenimiento: aspirina 50-100 mg/día y clopidogrel 75 mg/día durante 20 días",
+                        "guid": "K1FmwFnKl2EiHXlhWzU9EA",
+                        "children": []
+                      },
+                      {
+                        "id": "55",
+                        "parent": "51",
+                        "text": "Ticagrelor (180 mg dosis inicial, seguido de 90 mg dos veces al día) es una alternativa",
+                        "guid": "bRaeFxMuIshj5RPzdxUmFQ",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "51",
+                        "text": "No se recomienda el uso de triple terapia antiplaquetaria por mayor riesgo de sangrado",
+                        "guid": "GmH_8U8-_tVIPrb4DclXnA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "57",
+                "parent": "48",
+                "text": "4.1.2. Anticoagulación",
+                "guid": "f1Pr7WNuhVsvbbJkKkTG0Q",
+                "children": [
+                  {
+                    "id": "58",
+                    "parent": "57",
+                    "text": "Indicada en\npacientes con:",
+                    "guid": "fpk6ohJmOz4kzdgoU4R-Tg",
+                    "children": [
+                      {
+                        "id": "59",
+                        "parent": "58",
+                        "text": "Fibrilación auricular",
+                        "guid": "KwvWc0FDTo4BZuFkNe88Bg",
+                        "children": []
+                      },
+                      {
+                        "id": "60",
+                        "parent": "58",
+                        "text": "Otras fuentes cardioembólicas",
+                        "guid": "O2gC-yoay3gjtn54K4kURg",
+                        "children": []
+                      },
+                      {
+                        "id": "61",
+                        "parent": "58",
+                        "text": "Trombofilia",
+                        "guid": "Ys-crG_Jbyt_xm61DiEDbA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "62",
+                    "parent": "57",
+                    "text": "Opciones\nterapéuticas:",
+                    "guid": "SZQGjCHj6BZpVkB8Nqqkow",
+                    "children": [
+                      {
+                        "id": "63",
+                        "parent": "62",
+                        "text": "Anticoagulantes orales directos (DOAC)",
+                        "guid": "NRIK3k07VG8tv8q5T3QKzw",
+                        "children": []
+                      },
+                      {
+                        "id": "64",
+                        "parent": "62",
+                        "text": "Warfarina",
+                        "guid": "HHpTRHX-gbFdPWJsG84_MQ",
+                        "children": []
+                      },
+                      {
+                        "id": "65",
+                        "parent": "62",
+                        "text": "Heparina de bajo peso molecular",
+                        "guid": "WW0HDQyrFNBGEwYDWAZBrw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "66",
+                    "parent": "57",
+                    "text": "Se debe considerar el riesgo de hemorragia antes de iniciar anticoagulación",
+                    "guid": "HxFQD2rg3isrir_9Sh0mgg",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "57",
+                    "text": "La terapia triple (DAPT más anticoagulación)\naumenta significativamente el riesgo hemorrágico",
+                    "guid": "LCQsuSzxoWEADGKIZ4wvtA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "parent": "47",
+            "text": "4.2. Herramientas de\nEstratificación de Riesgo",
+            "guid": "Vwxs2SPC4QETFUP6OdwJhg",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "4.2.1. Escalas de\nValoración Principales",
+                "guid": "E4xQLBLbsrBH_QzyXSBWuQ",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "Regla de California",
+                    "guid": "NL-axjFTTW8TyvtcadGlpQ",
+                    "children": [
+                      {
+                        "id": "71",
+                        "parent": "70",
+                        "text": "Edad ≥ 60 años (1 punto)",
+                        "guid": "fo6h3kGKxhU5RbB0Gwj1Iw",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "70",
+                        "text": "Diabetes (1 punto)",
+                        "guid": "N4lHxxaDEuA21zRUEPZO1A",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "70",
+                        "text": "Debilidad unilateral (1 punto)",
+                        "guid": "Iy4nsXzqOldo_JCDQj93wA",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "70",
+                        "text": "Alteración del habla (1 punto)",
+                        "guid": "Z8sYgxSHUIEMXJ5CE-9FPA",
+                        "children": []
+                      },
+                      {
+                        "id": "75",
+                        "parent": "70",
+                        "text": "Síntomas > 10 min (1 punto)",
+                        "guid": "QXjx4gxpAMp7e3TxGIVevA",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "70",
+                        "text": "Puntuación total: 5 puntos",
+                        "guid": "MCvhyw6QuOtSYWhCQ7gx-A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "77",
+                    "parent": "69",
+                    "text": "Escala ABCD",
+                    "guid": "IWxrmxpedTQg2IixViwGYg",
+                    "children": [
+                      {
+                        "id": "78",
+                        "parent": "77",
+                        "text": "Edad ≥ 60 años (1 punto)",
+                        "guid": "S7HCozSjhA0__awHSkBkgg",
+                        "children": []
+                      },
+                      {
+                        "id": "79",
+                        "parent": "77",
+                        "text": "Presión arterial elevada (>140/90 mmHg) (1 punto)",
+                        "guid": "di5KI3lDXHtlSVmlLbeR6g",
+                        "children": []
+                      },
+                      {
+                        "id": "80",
+                        "parent": "77",
+                        "text": "Debilidad unilateral (2 puntos)",
+                        "guid": "D8ZvXBwgjfk-reC-MvSXDQ",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "77",
+                        "text": "Alteración del habla sin debilidad (1 punto)",
+                        "guid": "GQrIUSeqcUF1NA7NANXg1A",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "77",
+                        "text": "Duración: ≥60 min (2 puntos) o 10-59 min (1 punto)",
+                        "guid": "PDHBwgGQrQ8UxSYQfaqzpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "77",
+                        "text": "Puntuación total: 6 puntos",
+                        "guid": "Dfmt2RBAmwEWMBJhPiWPpQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "84",
+                    "parent": "69",
+                    "text": "Escala ABCD2",
+                    "guid": "HtFT7WiReqMB3cGdQD2_iA",
+                    "children": [
+                      {
+                        "id": "85",
+                        "parent": "84",
+                        "text": "Similar a ABCD con adición de diabetes (1 punto)",
+                        "guid": "Au_v1yK2Sk4WacXqTqGyew",
+                        "children": []
+                      },
+                      {
+                        "id": "86",
+                        "parent": "84",
+                        "text": "Puntuación total: 7 puntos",
+                        "guid": "V1nOW1ZncfEY4hb9TYgYfg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "87",
+                    "parent": "69",
+                    "text": "Escala ABCD3",
+                    "guid": "T6rObX4rcKJ7P6poX3E9yQ",
+                    "children": [
+                      {
+                        "id": "88",
+                        "parent": "87",
+                        "text": "Incorpora AIT dual (2 puntos)",
+                        "guid": "Gkv-mzntiyYSZdTWM1bG7A",
+                        "children": []
+                      },
+                      {
+                        "id": "89",
+                        "parent": "87",
+                        "text": "Puntuación total: 9 puntos",
+                        "guid": "YZf8aAeZ46M0LKfAHcm-Kg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "90",
+                    "parent": "69",
+                    "text": "Escala ABCD3-I",
+                    "guid": "CSqQskjxzdEbdHHPFyQ-iw",
+                    "children": [
+                      {
+                        "id": "91",
+                        "parent": "90",
+                        "text": "Incluye hallazgos de imagen (estenosis carotídea >50% o DWI positiva) (2 puntos)",
+                        "guid": "WTJo0jGkhDBVSc4weAO8vw",
+                        "children": []
+                      },
+                      {
+                        "id": "92",
+                        "parent": "90",
+                        "text": "Puntuación total: 11 puntos",
+                        "guid": "GjX-01cnj804QXxIHSXuqw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "93",
+                "parent": "68",
+                "text": "4.2.2. Limitaciones y\nConsideraciones",
+                "guid": "ed3aG06rQjJrx6EmUTeodw",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "Las escalas tienen sensibilidad y especificidad variables",
+                    "guid": "JRK0JASpuCMev8D1dL2CkQ",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "No deben utilizarse de forma aislada para la toma de decisiones",
+                    "guid": "AtUoxRn_a15ULsBaHSEnYA",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "93",
+                    "text": "Factores adicionales\na considerar:",
+                    "guid": "U-z2hGaUlTBQd-5NNYTy7A",
+                    "children": [
+                      {
+                        "id": "97",
+                        "parent": "96",
+                        "text": "Estenosis carotídea significativa",
+                        "guid": "bi540wSklg1TTrEXd1kJhQ",
+                        "children": []
+                      },
+                      {
+                        "id": "98",
+                        "parent": "96",
+                        "text": "Fuentes cardioembólicas",
+                        "guid": "TZZj3m7DIuYOfUgQJsjMsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "99",
+                        "parent": "96",
+                        "text": "Hallazgos en neuroimagen",
+                        "guid": "IGenF2PHFkEezIlwOp2l6g",
+                        "children": []
+                      },
+                      {
+                        "id": "100",
+                        "parent": "96",
+                        "text": "La estratificación debe guiar pero no determinar absolutamente el manejo",
+                        "guid": "Ou6mDlcOBbhXw5SVNMyAKg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "parent": "47",
+            "text": "4.3. Criterios\npara el Alta",
+            "guid": "JblH60OLNbsGBCihSsv8Dw",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "4.3.1. Opciones de\nDisposición",
+                "guid": "PUfCXhuD73xf1FaCCt4mPQ",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "Ingreso hospitalario",
+                    "guid": "SDTt3iTD6ZY_iX6gSwoWow",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "Unidad de observación con protocolo diagnóstico rápido",
+                    "guid": "PsNU9BO4PvpoKz4EErBLeQ",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "102",
+                    "text": "Seguimiento ambulatorio expedito en clínica especializada",
+                    "guid": "ekzUKjijLFFINT5laHtM_Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "101",
+                "text": "4.3.2. Factores a\nConsiderar",
+                "guid": "BQKIVQusAp5ChhwYcZ51mA",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "Características\ndel Paciente:",
+                    "guid": "CkcSY25RnpIxpvLuKq65eg",
+                    "children": [
+                      {
+                        "id": "108",
+                        "parent": "107",
+                        "text": "Hallazgos en neuroimagen",
+                        "guid": "Uhi001BzfF5lTF9kDQda4g",
+                        "children": []
+                      },
+                      {
+                        "id": "109",
+                        "parent": "107",
+                        "text": "Capacidad de seguimiento",
+                        "guid": "J4GCFz0P8_pB09sMTTrKAg",
+                        "children": []
+                      },
+                      {
+                        "id": "110",
+                        "parent": "107",
+                        "text": "Situación social y apoyo",
+                        "guid": "AJsptUfYA60YBsYRSNAXlA",
+                        "children": []
+                      },
+                      {
+                        "id": "111",
+                        "parent": "107",
+                        "text": "Adherencia al tratamiento",
+                        "guid": "bJvtQ1eQRLET2i43K19COA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "112",
+                    "parent": "106",
+                    "text": "Factores de\nAlto Riesgo:",
+                    "guid": "a0iDq3wFbDs-D42xZZVX1Q",
+                    "children": [
+                      {
+                        "id": "113",
+                        "parent": "112",
+                        "text": "Síntomas neurológicos in crescendo",
+                        "guid": "NKiYjAZEzBZOEKTScfBa6w",
+                        "children": []
+                      },
+                      {
+                        "id": "114",
+                        "parent": "112",
+                        "text": "AIT en el último mes",
+                        "guid": "Ici7ky3k-1R8zoEoLA_N9g",
+                        "children": []
+                      },
+                      {
+                        "id": "115",
+                        "parent": "112",
+                        "text": "Enfermedad vascular significativa (estenosis >50%)",
+                        "guid": "HDaZ5i51dBZWvodwbk9Oug",
+                        "children": []
+                      },
+                      {
+                        "id": "116",
+                        "parent": "112",
+                        "text": "Fibrilación auricular",
+                        "guid": "fujwdDwK5tR7VqmcJmpyiw",
+                        "children": []
+                      },
+                      {
+                        "id": "117",
+                        "parent": "112",
+                        "text": "Incapacidad de seguimiento adecuado",
+                        "guid": "eRrazj0qhKhzpTyNebYEhA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "118",
+                "parent": "101",
+                "text": "4.3.3. Protocolos\nde Seguimiento",
+                "guid": "YzxHT1ZgSk8c_bfQToTK-g",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "Los protocolos basados en\nurgencias deben incluir:",
+                    "guid": "UmW2i1sNRYE0GiLPBw5PFw",
+                    "children": [
+                      {
+                        "id": "120",
+                        "parent": "119",
+                        "text": "Evaluación vascular seriada",
+                        "guid": "YVIRmAIqx6F4_qoCAxrNKw",
+                        "children": []
+                      },
+                      {
+                        "id": "121",
+                        "parent": "119",
+                        "text": "Monitorización telemétrica",
+                        "guid": "MA_C9XXNKyovKpshTEZc3A",
+                        "children": []
+                      },
+                      {
+                        "id": "122",
+                        "parent": "119",
+                        "text": "Ecocardiografía",
+                        "guid": "JEKfQAXpIpE6lauWIyuPtQ",
+                        "children": []
+                      },
+                      {
+                        "id": "123",
+                        "parent": "119",
+                        "text": "Resonancia magnética",
+                        "guid": "QfQJZTXsVTJJlgJAOw7kNA",
+                        "children": []
+                      },
+                      {
+                        "id": "124",
+                        "parent": "119",
+                        "text": "Consulta con especialista para modificación de factores de riesgo",
+                        "guid": "cxbZ2j07Ps40xOi4eBliLw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "125",
+        "parent": "0",
+        "text": "5. Conclusiones",
+        "guid": "",
+        "children": [
+          {
+            "id": "126",
+            "parent": "125",
+            "text": "La comprensión de las actualizaciones en la literatura sobre AIT puede mejorar significativamente la atención en el servicio de urgencias.\nEs fundamental mantener un enfoque sistemático en la evaluación y manejo de estos pacientes, considerando tanto el riesgo inmediato\ncomo el seguimiento apropiado.",
+            "guid": "SOdBbHdLBNBpt9fHLCOIvA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "parent": "0",
+        "text": "6. Referencias",
+        "guid": "",
+        "children": [
+          {
+            "id": "128",
+            "parent": "127",
+            "text": "Journal: American Journal of Emergency Medicine 83 (2024) 82-90",
+            "guid": "TatPHwa1j5h6qFO2IBEFqg",
+            "children": []
+          },
+          {
+            "id": "129",
+            "parent": "127",
+            "text": "Autores: Brit Long, MD; Evie Marcolini, MD; Michael Gottlieb, MD",
+            "guid": "YcLVGS7CdoYnH1TCQxTmsQ",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 130,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Ataque Isquémico Transitorio-2025",
+  "id": "map_726",
+  "resolved_references": []
+}

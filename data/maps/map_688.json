@@ -1,0 +1,522 @@
+{
+  "title": "Diagnóstico Inicial de MAT",
+  "guid": "3B72C15A0B4D92A9734CCE53",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/MAT-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Diagnóstico\nInicial de MAT",
+    "guid": "EF7doGYbzH1WCxayLpbZ2g",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "\\\\*Alto Índice de Sospecha\\\\*",
+        "guid": "fIdLlAWy6VZGcg7mbahj1w",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Laboratorio Esencial\n(\\\\*Panel Inicial\\\\*):",
+            "guid": "O-68fGA-Se4yy_S7Jel5EA",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "\\\\*Hemograma Completo\\\\*: \nAnemia, Trombocitopenia (\\\\*<30.000/µL\\\\* en \\\\*PTT\\\\*).",
+                "guid": "JfKuqQiAJMtZryimVwt26A",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "\\\\*Frotis\\\\* de Sangre Periférica: \n\\\\*ESQUISTOCITOS\\\\* (≥1-2% o ≥2 por campo de alta potencia).",
+                "guid": "MUD0owb-9TIYn8ItY0XivQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "Marcadores de \\\\*Hemólisis\\\\*: \n\\\\*LDH\\\\* ↑↑, \\\\*Bilirrubina Indirecta\\\\* ↑, \\\\*Haptoglobina\\\\* ↓↓ (o indetectable), \\\\*Reticulocitos\\\\* ↑.",
+                "guid": "WAhwzSi-em92zTyxYZyz2g",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "Prueba de \\\\*Coombs Directa\\\\* \\\\*Negativa\\\\* (Diferencia de AHAI).",
+                "guid": "eDf9aGeu3qwlhSWlAyRBvA",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "Estudios de \\\\*Coagulación\\\\*:  \\\\*TP\\\\*, \\\\*TTPa\\\\*, \\\\*Fibrinógeno\\\\*, \\\\*Dímero-D\\\\*.\n(Normales PTT/SHU vs. MUY alterados en \\\\*CID\\\\*).",
+                "guid": "Y94TUFy6ZcMeb2OwRikUcQ",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "2",
+                "text": "\\\\*Función Renal\\\\*:  BUN, Creatinina.",
+                "guid": "afq8k2hRX34D3840ZoIIKA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "\\\\*Actividad\nADAMTS13\\\\*",
+            "guid": "CMTM-V80VrlBzuY-bKLgSQ",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "\\\\*< 10%: Confirma PTT\\\\*.",
+                "guid": "bgRI1EpR3RpUKmv_K2bV6A",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "\\\\*Ac anti-ADAMTS13 positivo\\\\*",
+                    "guid": "CBZE6w1BtXAfW-6TLgjzlA",
+                    "children": [
+                      {
+                        "id": "12",
+                        "parent": "11",
+                        "text": "\\\\* PTT Adquirida.\\\\*",
+                        "guid": "AP2gCmCV7Tdh-sgpCRPk9Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "13",
+                "parent": "9",
+                "text": "≥ 10%: \\\\*PTT Improbable\\\\*.",
+                "guid": "AAoMax20LKoqSLGcWBJ9OQ",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "Investigar \\\\*otras causas\\\\* de MAT \n(SHU, CID, HTA Maligna, fármacos, neoplasia, etc.).",
+                    "guid": "RnKnGSEV7k05rzETPqqkgQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "MAT en >60a \nBúsqueda de Causas Secundarias",
+        "guid": "WeVvsXTk_V5SfleaIFgWyg",
+        "children": [
+          {
+            "id": "16",
+            "parent": "15",
+            "text": "1. Malignidad",
+            "guid": "a2HfZyDRoYkLYpjuJ1Cb4w",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "Adenocarcinomas (GI, pulmón, mama, próstata), neoplasias hematológicas.\nA menudo ocultas.",
+                "guid": "dNpQmVmllisAM4cmddfwow",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "Evaluación:",
+                "guid": "OjuDY2IuT1B-69WYKBMmCw",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "Anamnesis dirigida \n(Síntomas B, baja de peso, cambios hábito intestinal, etc.).",
+                    "guid": "Y4UGDDYIriIrrKLuXebUAg",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "Examen físico completo \n(adenopatías, masas, tacto rectal).",
+                    "guid": "cjnxKXZI7rBYUq5kTB9g2g",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "18",
+                    "text": "Estudios de Imagen: TAC Tórax-Abdomen-Pelvis c/cte.",
+                    "guid": "ay3sDirRBf5sd3ekASjXug",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "18",
+                    "text": "Endoscopías / Marcadores Tumorales: Según sospecha clínica.",
+                    "guid": "Nv6OrEt6MvAf6JBfImBuEw",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "18",
+                    "text": "Biopsia Médula Ósea: Si citopenias adicionales, hallazgos en frotis o sospecha.",
+                    "guid": "bEvUeStLKU1JsQn3bVu_8Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "15",
+            "text": "2. Infecciones",
+            "guid": "aXm29xbrHuo2-1TWXlQHkA",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "Presentaciones atípicas/oligosintomáticas.\nSepsis puede gatillar CID con HAMA.",
+                "guid": "cJC1Fjcu2_1UK_gzKsw4eQ",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "Evaluación:",
+                "guid": "GV0rTVMXzctS316EfOIxWQ",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "Hemocultivos seriados.",
+                    "guid": "CSB77n6MAXJayQVce1ptFw",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "Serología VIH.",
+                    "guid": "dNTwIzMbs8BHec3yYALcMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "26",
+                    "text": "Otras según contexto: CMV, VHB, VHC, Influenza, urocultivo.\nNeumococo asociado a SHU.",
+                    "guid": "Xey5vjPxRZZhK7PrFOtIaw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "parent": "0",
+        "text": "MAT en >60a \nBúsqueda de Causas Secundarias",
+        "guid": "HaO9NHORWkdN3hwWbnPyXQ",
+        "children": [
+          {
+            "id": "31",
+            "parent": "30",
+            "text": "1. Malignidad\n(Neoplasias)",
+            "guid": "",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "Adenocarcinomas (GI, pulmón, mama, próstata), neoplasias hematológicas.\nA menudo ocultas.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "31",
+                "text": "Evaluación:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "Anamnesis dirigida (Síntomas B, baja de peso, cambios hábito intestinal, etc.).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "33",
+                    "text": "Examen físico completo (adenopatías, masas, tacto rectal).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "33",
+                    "text": "Estudios de Imagen: TAC Tórax-Abdomen-Pelvis c/cte.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "33",
+                    "text": "Endoscopías / Marcadores Tumorales: Según sospecha clínica.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "33",
+                    "text": "Biopsia Médula Ósea: Si citopenias adicionales, hallazgos en frotis o sospecha.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "30",
+            "text": "2. Infecciones",
+            "guid": "",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "Presentaciones atípicas/oligosintomáticas.\nSepsis puede gatillar CID con HAMA.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "39",
+                "text": "Evaluación:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "Hemocultivos seriados.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "41",
+                    "text": "Serología VIH.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "41",
+                    "text": "Otras según contexto: CMV, VHB, VHC, Influenza, urocultivo.\nNeumococo asociado a SHU.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "parent": "30",
+            "text": "3. Enfermedades\nAutoinmunes:",
+            "guid": "FXLVlW68R-hseSt7UclgNw",
+            "children": [
+              {
+                "id": "46",
+                "parent": "45",
+                "text": "Debut tardío de LES, SAF, Esclerosis Sistémica.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "45",
+                "text": "Evaluación",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "ANA, Anti-DNA, ENA.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "Complemento (C3, C4): Bajos en LES activo.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "47",
+                    "text": "Anticoagulante Lúpico, Anti-Cardiolipinas (IgG/IgM),\nAnti-Beta2 Glicoproteína I (IgG/IgM).",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "51",
+            "parent": "30",
+            "text": "4. Fármacos",
+            "guid": "",
+            "children": [
+              {
+                "id": "52",
+                "parent": "51",
+                "text": "Revisión\nexhaustiva",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "53",
+                    "parent": "52",
+                    "text": "Prescritos, OTC, suplementos, herbales\nInicio reciente y uso crónico.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "51",
+                "text": "Fármacos Comunes\nAsociados a MAT:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "Quimioterápicos (Mitomicina C, Gemcitabina, Cisplatino).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "Inmunosupresores / Biológicos (Ciclosporina, Tacrolimus, Interferón, Bevacizumab).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "Antiagregantes (Clopidogrel, Ticlopidina).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "54",
+                    "text": "Antibióticos (Quinina, Penicilinas).",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59",
+                "parent": "51",
+                "text": "Suspender fármacos sospechosos y monitorizar evolución clínica y de laboratorio.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "30",
+            "text": "5. Hipertensión Arterial Maligna /\nEmergencia Hipertensiva",
+            "guid": "",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "PA >180/120 mmHg + Daño agudo órgano blanco\n(LRA, encefalopatía, IC, retinopatía grado III/IV).",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "parent": "30",
+            "text": "6. Estudios Dirigidos a SHU \n(si ADAMTS13 ≥10% y LRA prominente)",
+            "guid": "",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "SHU",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "Diarrea (sanguinolenta) reciente, brote comunitario, contacto con ganado.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "Detección de Toxina Shiga en deposiciones (ELISA/PCR) y/o cultivo\npara E. coli O157:H7 / productora de Shiga.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66",
+                "parent": "62",
+                "text": "aSHU",
+                "guid": "fhr2hQMUvBYP-qNCVYIhJw",
+                "children": [
+                  {
+                    "id": "67",
+                    "parent": "66",
+                    "text": "Puede haber historia familiar o personal de eventos trombóticos/renales.",
+                    "guid": "e5SxdGtdjWEvpXTzNDJhRg",
+                    "children": []
+                  },
+                  {
+                    "id": "68",
+                    "parent": "66",
+                    "text": "Niveles C3, C4, CH50 (Normalidad no lo descarta).\nEstudios genéticos / Ac anti-FH",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 69,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "MAT-2025-1",
+  "id": "map_688",
+  "resolved_references": []
+}

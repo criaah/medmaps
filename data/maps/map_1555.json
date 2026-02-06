@@ -1,0 +1,5399 @@
+{
+  "title": "Estilo central",
+  "guid": "774BFA2B20A8B75310BFAEAF",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Endocrinología/Endocrino Hipertiroidismo-2024-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Estilo central",
+    "guid": "QcUlOTYy-79XcSqkHy1rGw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "CONCEPTOS",
+        "guid": "HWLvFBbc2upkTXrpaocQ7Q",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "TIROTOXICOSIS",
+            "guid": "HOyIL3e6ZkRTyO6DVztCPQ",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "→ Síndrome hipermetabólico",
+                "guid": "bwZgb3RxpdZn-vDsMMuFqA",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "→ ↑ hormonas tiroideas circulantes/tisulares",
+                "guid": "KqShlT9sG5BP-PDESAeQqg",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "→ Independiente fuente hormonal",
+                "guid": "Vkj2ejRGa60yjqGXIUHCrQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "HIPERTIROIDISMO",
+            "guid": "f2gYBFhmYv4sb6vOF1kozA",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "→ Sobreproducción hormonal x tiroides",
+                "guid": "MfYZnh-9wUV4GtdRJgfEVA",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "→ Causa de tirotoxicosis",
+                "guid": "Qwm1aWd3pglH9O1qX_Y9mA",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "6",
+                "text": "→ Tipos:",
+                "guid": "EkkrqgR1wxdp7_YIMmuTjg",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "- Manifiesto:",
+                    "guid": "XzIMTRu92-03MX_VTjhsvA",
+                    "children": [
+                      {
+                        "id": "11",
+                        "parent": "10",
+                        "text": "• ↓TSH + ↑T4L/↑T3L",
+                        "guid": "EC-Bwx8scMF_A_JkOtQjWQ",
+                        "children": []
+                      },
+                      {
+                        "id": "12",
+                        "parent": "10",
+                        "text": "• Síntomas presentes",
+                        "guid": "XpiMUk784ygC27QDNOGCzA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "13",
+                    "parent": "9",
+                    "text": "- Subclínico:",
+                    "guid": "A0NO1jVqVZpWI0V5Aqtm2g",
+                    "children": [
+                      {
+                        "id": "14",
+                        "parent": "13",
+                        "text": "• ↓TSH + T4L/T3L normales",
+                        "guid": "DdC4mAKS8UcaBI-nP8bSNw",
+                        "children": []
+                      },
+                      {
+                        "id": "15",
+                        "parent": "13",
+                        "text": "• Asintomático/oligosintomático",
+                        "guid": "IlCyjRIfZvhlzpaLNJneNw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "GERIÁTRICO",
+            "guid": "FpUqEE--jJNnBXHGWZ7feQ",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "→ Presentación atípica",
+                "guid": "NzYynC76XzA5lR0RFmg-6Q",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "→ ↑ riesgo complicaciones CV",
+                "guid": "Srg7HXDGnOZkoKulWue84A",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "→ ↑ mortalidad x edad >60a",
+                "guid": "D_MNp2OkngoVu-A5bouZ-Q",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "16",
+                "text": "→ ↓ síntomas\nclásicos",
+                "guid": "MqGBMhiXlDwjbRzGNeTQCA",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "• Apatía",
+                    "guid": "fCNTh1KUxoobmXSmHnQGFA",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "• Debilidad",
+                    "guid": "ZLQtggFoCzFTDeRLe0lXkg",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "20",
+                    "text": "• Deterioro cognitivo",
+                    "guid": "USaXxDoTVhFU6DcLCFzKYQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "FISIOPATOLOGÍA",
+        "guid": "aQ21QQ59VBwexQlKM8XwXg",
+        "children": [
+          {
+            "id": "25",
+            "parent": "24",
+            "text": "→ Estimulación\ntiroidea excesiva:",
+            "guid": "WrWhogJvIqA1V3FEP2nPJA",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "• E.Graves\n[TRAb]:",
+                "guid": "c5jvnH2vg6s2p6-iN0V5cA",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "• Ac estimulan receptor TSH",
+                    "guid": "VXOhMBtKrlFodYWMEc6LFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "• ↑síntesis hormonal",
+                    "guid": "FSa7gxFay1RsQibZCyJh9w",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "26",
+                    "text": "• ↑vascularización/tamaño",
+                    "guid": "GYxiXmQSZX4Ao1adD7f35w",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "26",
+                    "text": "• Tto: bloqueo síntesis (antitiroideos)",
+                    "guid": "CHZFr1yz7G4YRxlpVzBgDw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31",
+                "parent": "25",
+                "text": "• hCG\n(embarazo)",
+                "guid": "PQEhtSEvtWlPkKQ1CwMLiw",
+                "children": [
+                  {
+                    "id": "32",
+                    "parent": "31",
+                    "text": "→ Estructura HCG\nSimilitud estructural TSH",
+                    "guid": "TIL4nPfccy6H3BW6YtusFg",
+                    "children": [
+                      {
+                        "id": "33",
+                        "parent": "32",
+                        "text": "├─ Glicoproteína heterodimérica",
+                        "guid": "EGiXLbC5HV-iYezN_JncEQ",
+                        "children": []
+                      },
+                      {
+                        "id": "34",
+                        "parent": "32",
+                        "text": "├─ Subunidad α común",
+                        "guid": "ER7OY7imFke5BjB8RNFvRg",
+                        "children": []
+                      },
+                      {
+                        "id": "35",
+                        "parent": "32",
+                        "text": "└─ Subunidad β específica",
+                        "guid": "mVdeYycpfv7U6anoRPILwA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "36",
+                    "parent": "31",
+                    "text": "→ Efectos tiroideos\nEstimulación transitoria",
+                    "guid": "1Hu-NL9yK8Rzy5STD6gEAw",
+                    "children": [
+                      {
+                        "id": "37",
+                        "parent": "36",
+                        "text": "├─ Unión/estimulación r-TSH",
+                        "guid": "19CP77Uyo1yac8zGiBwYuQ",
+                        "children": []
+                      },
+                      {
+                        "id": "38",
+                        "parent": "36",
+                        "text": "├─ Potencia: 0.7μU HCG = 1μU TSH",
+                        "guid": "f761MhQCbUkvJUnDIVuQAA",
+                        "children": []
+                      },
+                      {
+                        "id": "39",
+                        "parent": "36",
+                        "text": "└─ Depende hidratación carbohidratos",
+                        "guid": "KjdIXW-ebXa_uLEc23d-Cg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "40",
+                    "parent": "31",
+                    "text": "→ Hipertiroidismo gestacional",
+                    "guid": "usdGbzbup73fyns5Wl7ZyA",
+                    "children": [
+                      {
+                        "id": "41",
+                        "parent": "40",
+                        "text": "├─ Final 1°trimestre",
+                        "guid": "zecUFxmhH5BY7aDiZBexbQ",
+                        "children": []
+                      },
+                      {
+                        "id": "42",
+                        "parent": "40",
+                        "text": "├─ Transitorio/leve",
+                        "guid": "MEWWx2pR3IBe4RDhsct5mQ",
+                        "children": []
+                      },
+                      {
+                        "id": "43",
+                        "parent": "40",
+                        "text": "└─ ↑↑HCG (>100.000U/l)",
+                        "guid": "KO9Zo33y6jZBn5NFKYsttw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "44",
+                "parent": "25",
+                "text": "• TSH (adenoma hipofisario)",
+                "guid": "GsAXqQgg2xhm1a36FuNrMA",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "→ Tumor secretor TSH",
+                    "guid": "IpZxAXH2e0JpHTWoFi9gnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "44",
+                    "text": "• Tto: resección tumoral",
+                    "guid": "SHj6V0w-CyMK7Qb0Heybhw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "24",
+            "text": "→ Autonomía\ntiroidea:",
+            "guid": "A9ct0QhlVY86sya3VP3Flg",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "• Mutaciones receptor TSH",
+                "guid": "QniroQ-bXcJdWo_3K4Zg4g",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "• Mutaciones proteína G",
+                "guid": "Hhix33wfmUFfTFFBHVyi4Q",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "47",
+                "text": "• BMN/adenoma tóxico",
+                "guid": "f4VOMW35_oAsk6GLZo-hKw",
+                "children": [
+                  {
+                    "id": "51",
+                    "parent": "50",
+                    "text": "• Mutación receptor TSH",
+                    "guid": "NoO0HVEmwrsDQS3eWRolHg",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "50",
+                    "text": "• Función independiente TSH",
+                    "guid": "Qx09_WxeY4ZvSYW8MsM86g",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "50",
+                    "text": "• Nódulos autónomos",
+                    "guid": "DCNI0Dy-X8lSmaM5VJxDJw",
+                    "children": []
+                  },
+                  {
+                    "id": "54",
+                    "parent": "50",
+                    "text": "• Tto: destrucción (RAI/cirugía)",
+                    "guid": "CPxq7F2Gqi1yiN6vcIUkYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "parent": "24",
+            "text": "→ Liberación\nhormonal:",
+            "guid": "Q6yJ1DKA47VyDGVrR4O3pQ",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "Causa",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "• Destrucción folicular",
+                    "guid": "EmOL-CpWOi8AO3VYT2StrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "56",
+                    "text": "• Inflamación",
+                    "guid": "S4XvmE_MGY1aZ7k5ZkYHQQ",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "56",
+                    "text": "• Tiroiditis",
+                    "guid": "V-z0pUE9ZzN9KXJxMqKWRw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "60",
+                "parent": "55",
+                "text": "• Liberación hormonal preformada",
+                "guid": "cG1awmciJUxtlJSufJCjkg",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "55",
+                "text": "• Autolimitada",
+                "guid": "HbTiFEO1xWgdYhRibp4Ywg",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "55",
+                "text": "• Tto: sintomático/observación",
+                "guid": "ZfnKtAqWrbpERKdFJDsddQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "24",
+            "text": "→ Fuentes\nexógenas:",
+            "guid": "OuY5RSy_jCIcgX07fV7k5g",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "• Iatrogénica",
+                "guid": "PFrp5XncDTIo5UXIWnObxA",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "• Facticia",
+                "guid": "dfumdAgxlwl30D6ldYD0pQ",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "• Ectópica",
+                "guid": "diuViSRj4DFcEJXRCI8hgg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "24",
+            "text": "→ Hipertiroidismo\nx yodo:",
+            "guid": "PkFSwXUGcEdz8Ei2PlEFtQ",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "• Exceso sustrato",
+                "guid": "fXud0yHx-tBG1v5YYqS3zQ",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "• Síntesis desregulada",
+                "guid": "aDrGVCaNVwsAzcleHr56cQ",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "67",
+                "text": "• Tto: evitar yodo + antitiroideos (2)",
+                "guid": "d7QZxgQO9zx32J-QOtFXww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "parent": "24",
+            "text": "→ Amiodarona:",
+            "guid": "ZJo0O1j4yyICdeoYVQeO_Q",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "• Tipo 1: ↑síntesis (como yodo)",
+                "guid": "WibqzCljIYJfvXOhQmGxIA",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "71",
+                "text": "• Tipo 2: destrucción",
+                "guid": "T_B4jmCLPP9hICuSR6SSVA",
+                "children": [
+                  {
+                    "id": "74",
+                    "parent": "73",
+                    "text": "Tto: Corticoides",
+                    "guid": "MDi2rSLFGUkQ2GWFTe2YwQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "SvjMMkshrFcl18FnCy3pIQ",
+        "children": [
+          {
+            "id": "76",
+            "parent": "75",
+            "text": "POBLACIÓN\nAFECTADA",
+            "guid": "DragqC6GEl56DPGHFWsf7w",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "→ Predominio:",
+                "guid": "L4-6QC3KMt5MWFXkU157aw",
+                "children": [
+                  {
+                    "id": "78",
+                    "parent": "77",
+                    "text": "• ♀ (5:1)",
+                    "guid": "cl_Zu1EzJJpdqBtIZS_6fw",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "77",
+                    "text": "• 20-50 años",
+                    "guid": "Epmk1DRmZIoQ0ULmVNB91w",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "77",
+                    "text": "• Áreas déficit yodo",
+                    "guid": "e9R0pnTg0PFQDJ-gFn5uxw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "parent": "75",
+            "text": "PREVALENCIA (USA)",
+            "guid": "DndgdV509Pktx3RvPVJlEg",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "→ Total: 1.2%",
+                "guid": "QmsvBBGf_ixh_RvJXQ95Uw",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "• H.Manifiesto: 0.5%",
+                "guid": "CayeU2ERuNUHWp8HGGM--w",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "81",
+                "text": "• H.Subclínico: 0.7%",
+                "guid": "D5fLNAFnkI4tzl7qPyeFdA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "75",
+            "text": "FACTORES RIESGO",
+            "guid": "LzHDbXomtM4ShgDgIZGdKA",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "→ Genéticos:",
+                "guid": "S1nZaHAuHCgGwZenXfN-PA",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "• Sexo ♀",
+                    "guid": "JJSAsheS2o4yw_wUIGj1WA",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "86",
+                    "text": "• HLA DR3/B8",
+                    "guid": "DHOrfwLQm7Q252QgGusL9A",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "86",
+                    "text": "• AF tiroidopatía",
+                    "guid": "YUWQrWSu2I9YPXEHI7C_sg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90",
+                "parent": "85",
+                "text": "→ Ambientales:",
+                "guid": "dk7WvDo6jNAAwDkFf_t1Dw",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "• Tabaco",
+                    "guid": "G0xFpgga2AwYXrQKKuQQ2g",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "90",
+                    "text": "• Déficit yodo",
+                    "guid": "CYJomkYtEvRqC5ZOOLQsBw",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "90",
+                    "text": "• Radiación",
+                    "guid": "QFPHw3yRly5aRckvC62hKw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94",
+                "parent": "85",
+                "text": "→ Iatrogénicos:",
+                "guid": "bL-zVmEHYNdpoR9oEVQ0CA",
+                "children": [
+                  {
+                    "id": "95",
+                    "parent": "94",
+                    "text": "• Amiodarona",
+                    "guid": "eJo7ZRxlG3wxvSlhBQ3m5A",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "94",
+                    "text": "• Litio",
+                    "guid": "HzW3MGikjYEf-PLZAHtH3Q",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "94",
+                    "text": "• Contraste yodado",
+                    "guid": "TVNmEHg2Y-AkLAePQ6I8zA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "98",
+        "parent": "0",
+        "text": "ETIOLOGÍA",
+        "guid": "TW-H5DnOZEc29dtXDyKqmQ",
+        "children": [
+          {
+            "id": "99",
+            "parent": "98",
+            "text": "CAUSAS\nFRECUENTES",
+            "guid": "MnDwsCTsQJRDnbHbTb02Vg",
+            "children": [
+              {
+                "id": "100",
+                "parent": "99",
+                "text": "→ E.Graves [TRAb+] (60-80%)",
+                "guid": "LQcYoFv8ZeV4oUcwNomBOw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "99",
+                "text": "→ BMN tóxico [mutación TSH-R]",
+                "guid": "Iil42mKs3X9vPa1CYn1AnQ",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "99",
+                "text": "→ Adenoma tóxico",
+                "guid": "Xz50rUmDdnJuKuHIS_4oBA",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "99",
+                "text": "→ Tiroiditis",
+                "guid": "KorXSVfMATBdUlwMIyUSrg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "98",
+            "text": "CAUSAS MENOS\nFRECUENTES",
+            "guid": "dDEcrA8PhW0oMvmSE2bT3A",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "→ Adenoma hipofisario TSH+",
+                "guid": "d7QS7kgr7GsT4hu6RQd4_w",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "→ Gestacional [hCG]",
+                "guid": "QGJQSzgOI0kIqbXLctNA_A",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "104",
+                "text": "→ Farmacológico:",
+                "guid": "XPpj3kxHZ6dAkHdSCgF8fg",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "• Amiodarona",
+                    "guid": "KEPNjDkxvoNAiv25Sm1GZg",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "• Litio",
+                    "guid": "G96cAi_Iqvws6ocDex0Qrw",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "107",
+                    "text": "• Interferón-α",
+                    "guid": "eUwhbhsVaMxHGzizI9b4tw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "111",
+            "parent": "98",
+            "text": "PM",
+            "guid": "cuFp_CRtlMBG_AtlZxKGqQ",
+            "children": [
+              {
+                "id": "112",
+                "parent": "111",
+                "text": "→ Principales causas:",
+                "guid": "M30aLW8vBPd6eVqFKzEtHA",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "• BMN tóxico",
+                    "guid": "N1rxYw5bdj9wOKYbd71Brg",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "• E.Graves",
+                    "guid": "RmmZiXjiW-ZqkIKqI2P9Zw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "115",
+                "parent": "111",
+                "text": "→ Factores\nprecipitantes:",
+                "guid": "RSnDjSsg-f0tZXnlbW2RGg",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "• Post-contraste",
+                    "guid": "ZFK4gG3wd5832teAADFUgg",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "• Amiodarona",
+                    "guid": "Hbkim2TFXoR7TmUxFwVECQ",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "• Estrés",
+                    "guid": "f9rHUEJpneU63DzAcrwxTA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "parent": "0",
+        "text": "CLÍNICA",
+        "guid": "F_EQyFmPtqBzThV3YMGuhQ",
+        "children": [
+          {
+            "id": "120",
+            "parent": "119",
+            "text": "MANIFESTACIONES\nX SISTEMAS",
+            "guid": "cQdNHFRIEntFhXnuKGI-fw",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "→ Cardiovascular:",
+                "guid": "YqOIujW-IAkgH4AuKQ0iQw",
+                "children": [
+                  {
+                    "id": "122",
+                    "parent": "121",
+                    "text": "• Taquicardia/FA",
+                    "guid": "LqB78AqwAthMcR-qc8o_fQ",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "121",
+                    "text": "• ↑presión diferencial",
+                    "guid": "NdD81XnWmZBhN9CXGiO1VQ",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "121",
+                    "text": "• IC descompensada",
+                    "guid": "Z8cRLxkSqBgaVQnXBYAzyg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "125",
+                "parent": "120",
+                "text": "→ Neuromuscular:",
+                "guid": "fdgGnBWjbwkchXfTfbLN7A",
+                "children": [
+                  {
+                    "id": "126",
+                    "parent": "125",
+                    "text": "• ↓masa muscular",
+                    "guid": "WA0M7ldhtJNwbv84PuQ_kw",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "125",
+                    "text": "• Temblor fino",
+                    "guid": "WTn8uEo9ty5ZOIxlSkFJ1A",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "125",
+                    "text": "• Hiperreflexia",
+                    "guid": "HoXJqR6-BlRyo4hUASlSYw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "120",
+                "text": "→ GI:",
+                "guid": "VHwmXRLDCIIqNnSnAxyiTQ",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "• ↑tránsito/diarrea",
+                    "guid": "HXMLWnanlFF25uHLU0QIMA",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "• Polidipsia",
+                    "guid": "cH4t4VgesmJtZ72FWEU_EA",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "• Hiperorexia",
+                    "guid": "cTFaege8x11dxXLabwlhFg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "133",
+                "parent": "120",
+                "text": "→ Piel/anexos:",
+                "guid": "HWA2ZnpK6q1svC8CdW1DVA",
+                "children": [
+                  {
+                    "id": "134",
+                    "parent": "133",
+                    "text": "• Pelo fino",
+                    "guid": "UayfQF0rLjs0UYLnKuab-A",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "133",
+                    "text": "• Piel húmeda/caliente",
+                    "guid": "J2jlaQ2KD0x1J-XNRe6vEg",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "133",
+                    "text": "• Onicólisis",
+                    "guid": "LEgVoGfLbiFHGAF1AMQ7_g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "137",
+                "parent": "120",
+                "text": "→ Óseo:",
+                "guid": "eo52o3FOdhwD4N5LGAGB_Q",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "• Osteopenia/porosis",
+                    "guid": "Z_YKbnrHwBZrRYotWHQ4Tw",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "• Hipercalcemia",
+                    "guid": "UuZyeVitR7MwuXdgRBfM8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "parent": "120",
+                "text": "→ Sexual:",
+                "guid": "YGoPEA5-6jozIS4KfcpFdg",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "• ♂: ginecomastia/disfunción eréctil",
+                    "guid": "CMnU6B_dXQxzN4jKWnZ0KA",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "140",
+                    "text": "• ♀: alteraciones menstruales",
+                    "guid": "fQiLRyeJC7EFXRAhJHFwsA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "143",
+            "parent": "119",
+            "text": "ANCIANOS",
+            "guid": "NRMa_XqE9e5qYB_CYVswng",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "→ Manifestaciones atípicas:",
+                "guid": "YlBkDzF4IThiH2ycXN7asg",
+                "children": [
+                  {
+                    "id": "145",
+                    "parent": "144",
+                    "text": "• Fatiga",
+                    "guid": "IsaXVGYASud04FyvCryhwg",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "144",
+                    "text": "• Apatía",
+                    "guid": "YMgK_mAl5t1jMNoSM659dw",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "144",
+                    "text": "• Deterioro cognitivo",
+                    "guid": "ONMukBPqUXJ3xkpqGT09oA",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "144",
+                    "text": "• Pérdida peso",
+                    "guid": "Imk7rCrneHQXB4MWKzMQlA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "149",
+                "parent": "143",
+                "text": "→ ↓síntomas clásicos:",
+                "guid": "SsTVgQo_C-AFqYS9R81gyA",
+                "children": [
+                  {
+                    "id": "150",
+                    "parent": "149",
+                    "text": "• Temblor",
+                    "guid": "McgXkQsGlN5sPtF5Ztsyjg",
+                    "children": []
+                  },
+                  {
+                    "id": "151",
+                    "parent": "149",
+                    "text": "• Intolerancia calor",
+                    "guid": "BYuKzFae8TtINmMsZ9vu2w",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "149",
+                    "text": "• Ansiedad",
+                    "guid": "CBcScypVz8hEusmNKt2pyA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "153",
+                "parent": "143",
+                "text": "→ Predominio CV:",
+                "guid": "EFYasDmbJjw1mkuKcR4lrg",
+                "children": [
+                  {
+                    "id": "154",
+                    "parent": "153",
+                    "text": "• FA",
+                    "guid": "GcENGRjLJZwkzKMlUpQ7qQ",
+                    "children": []
+                  },
+                  {
+                    "id": "155",
+                    "parent": "153",
+                    "text": "• IC",
+                    "guid": "LLV3DhyS7Y9r0XlJTx6yuw",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "153",
+                    "text": "• HTA sistólica",
+                    "guid": "R3pmBALY_F96UcNPEj87hQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "157",
+            "parent": "119",
+            "text": "EXPLORACIÓN FÍSICA",
+            "guid": "DRgIP3_7SAxaDJxNPuAf0A",
+            "children": [
+              {
+                "id": "158",
+                "parent": "157",
+                "text": "→ Tiroides:",
+                "guid": "CwHc6kZLbcYlu1JfEI1ntg",
+                "children": [
+                  {
+                    "id": "159",
+                    "parent": "158",
+                    "text": "• Bocio difuso (Graves)",
+                    "guid": "HOpfAm3xtYt4aVaRJQFxdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "158",
+                    "text": "• BMN (tóxico)",
+                    "guid": "GEeFVD0kIB5P3xs9KJ2gBA",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "158",
+                    "text": "• Nódulo único (adenoma)",
+                    "guid": "dr9GWwV5ZsgZu8WyEIBTdA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "162",
+                "parent": "157",
+                "text": "→ Oftalmopatía\n(Graves):",
+                "guid": "HkSMZD6IaNdjFI8eSvoDcw",
+                "children": [
+                  {
+                    "id": "163",
+                    "parent": "162",
+                    "text": "• Exoftalmos",
+                    "guid": "WxtWZk7mCGcaGLYuIpW8ag",
+                    "children": []
+                  },
+                  {
+                    "id": "164",
+                    "parent": "162",
+                    "text": "• Edema periorbital",
+                    "guid": "Ub8ExxRqeX001PfvXtcNBg",
+                    "children": []
+                  },
+                  {
+                    "id": "165",
+                    "parent": "162",
+                    "text": "• Alteración movilidad",
+                    "guid": "FGXBig7hlD0dtyzXH2eedA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "166",
+        "parent": "0",
+        "text": "DIAGNÓSTICO",
+        "guid": "VS0CA0NyfzYv9QYrchdhBQ",
+        "children": [
+          {
+            "id": "167",
+            "parent": "166",
+            "text": "GENERAL",
+            "guid": "",
+            "children": [
+              {
+                "id": "168",
+                "parent": "167",
+                "text": "LABORATORIO\nBÁSICO",
+                "guid": "MWQ0wSheXLwXGNJ7Sau6FQ",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "→ TSH ↓ (<0.5 mU/L)",
+                    "guid": "ZYJ822b37bhySVoZXEHDNg",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "→ T4L ↑",
+                    "guid": "bHFUgAwFH8tswhaqCrXg5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "168",
+                    "text": "→ T3 total/libre ↑",
+                    "guid": "So2Iok_WpchVr-RYJajfCQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "172",
+                "parent": "167",
+                "text": "INTERFERENCIAS\nLAB",
+                "guid": "HryuMG_ImoZIPptzcHuy9w",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "→ Embarazo",
+                    "guid": "BDMUA30Tk2NPUr_9GJjVjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "172",
+                    "text": "→ Proteínas ligadoras",
+                    "guid": "C_UnoG0J7NQ4AHQCYSIpow",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "172",
+                    "text": "→ Fármacos:",
+                    "guid": "MHxsCmf1ei1TOYqpYeCgzA",
+                    "children": [
+                      {
+                        "id": "176",
+                        "parent": "175",
+                        "text": "• Amiodarona",
+                        "guid": "EFPW6WpSXSQrjFrhddZTxA",
+                        "children": []
+                      },
+                      {
+                        "id": "177",
+                        "parent": "175",
+                        "text": "• Heparina",
+                        "guid": "UUpK3B3VtPtSGBb6PbufXQ",
+                        "children": []
+                      },
+                      {
+                        "id": "178",
+                        "parent": "175",
+                        "text": "• Biotina",
+                        "guid": "KdrUxj7aLaVIcYBCdGhdaQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "179",
+                    "parent": "172",
+                    "text": "→ Ac heterofílicos",
+                    "guid": "DrDTbR4hZJoaETxyLW2BnQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "180",
+                "parent": "167",
+                "text": "ESTUDIOS\nCOMPLEMENTARIOS",
+                "guid": "Den_IGJP1-Ud6TSUEh0TIw",
+                "children": [
+                  {
+                    "id": "181",
+                    "parent": "180",
+                    "text": "→ Etiológicos:",
+                    "guid": "NgT-GSLuGIgZDI6SX9_S4A",
+                    "children": [
+                      {
+                        "id": "182",
+                        "parent": "181",
+                        "text": "• TRAb",
+                        "guid": "X2NrSG079JIqteixa1iS6A",
+                        "children": []
+                      },
+                      {
+                        "id": "183",
+                        "parent": "181",
+                        "text": "• Anti-TPO",
+                        "guid": "WkXhZmK2XLNMeryMCsJNcQ",
+                        "children": []
+                      },
+                      {
+                        "id": "184",
+                        "parent": "181",
+                        "text": "• Eco tiroidea",
+                        "guid": "SqvW4B-0RzVsou49Wv-tyQ",
+                        "children": []
+                      },
+                      {
+                        "id": "185",
+                        "parent": "181",
+                        "text": "• Gammagrafía",
+                        "guid": "CgakWRgvSR5Q1gGOW1DvNQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "186",
+                    "parent": "180",
+                    "text": "→ CV:",
+                    "guid": "KQvEX0pcbmMbZULRA1GlxQ",
+                    "children": [
+                      {
+                        "id": "187",
+                        "parent": "186",
+                        "text": "• ECG",
+                        "guid": "YchGLWF-DtRUSDBJcHkZmw",
+                        "children": []
+                      },
+                      {
+                        "id": "188",
+                        "parent": "186",
+                        "text": "• Ecocardiograma",
+                        "guid": "f59zbm5ZbLsd5ps4DYlyjg",
+                        "children": []
+                      },
+                      {
+                        "id": "189",
+                        "parent": "186",
+                        "text": "• Holter (selectivo)",
+                        "guid": "UKlEoDvPz80fpoWyMAyv6Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "190",
+            "parent": "166",
+            "text": "DIAGNÓSTICO ETIOLÓGICO\nSEGÚN PRESENTACIÓN",
+            "guid": "B5RGknq24XNSvk-_EZrq6w",
+            "children": [
+              {
+                "id": "191",
+                "parent": "190",
+                "text": "1. GRAVES →\nSOSPECHAR SI:",
+                "guid": "EuYqkiOUUU1s69ohSOsoqw",
+                "children": [
+                  {
+                    "id": "192",
+                    "parent": "191",
+                    "text": "→ Clínica:",
+                    "guid": "RoJp1gX4aLMoyvuLKEqwAw",
+                    "children": [
+                      {
+                        "id": "193",
+                        "parent": "192",
+                        "text": "• Bocio difuso + soplo",
+                        "guid": "Z3Z3iH0TK9QYw8meZxXq9g",
+                        "children": []
+                      },
+                      {
+                        "id": "194",
+                        "parent": "192",
+                        "text": "• Oftalmopatía",
+                        "guid": "a2yYjzaqZNd0n12FPBXdMA",
+                        "children": []
+                      },
+                      {
+                        "id": "195",
+                        "parent": "192",
+                        "text": "• Mixedema pretibial",
+                        "guid": "cno0pBRF4zdsIo0ZG4X5Aw",
+                        "children": []
+                      },
+                      {
+                        "id": "196",
+                        "parent": "192",
+                        "text": "• Adulto joven/♀",
+                        "guid": "XqJRmgeHz-oe157IC7UcsA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "197",
+                    "parent": "191",
+                    "text": "→ Exámenes:",
+                    "guid": "b2fPSCzrkf8Dc76mdvwV2g",
+                    "children": [
+                      {
+                        "id": "198",
+                        "parent": "197",
+                        "text": "• TRAb (+)",
+                        "guid": "J6JzclYyDmUIlwDGOoieBA",
+                        "children": []
+                      },
+                      {
+                        "id": "199",
+                        "parent": "197",
+                        "text": "• Anti-TPO/Anti-TG",
+                        "guid": "ecZfs3WC2ucDc8awQEjJiQ",
+                        "children": []
+                      },
+                      {
+                        "id": "200",
+                        "parent": "197",
+                        "text": "• Gammagrafía: captación difusa ↑",
+                        "guid": "e3tDmiw-wjtok3mMYvG7Ig",
+                        "children": []
+                      },
+                      {
+                        "id": "201",
+                        "parent": "197",
+                        "text": "• Eco: hipervascularización",
+                        "guid": "KVHuEAFXQytKB6YZFL6Gnw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "202",
+                "parent": "190",
+                "text": "2. BMN/ADENOMA\nTÓXICO",
+                "guid": "OAGoAj6nA55Q1GPPKnvcpg",
+                "children": [
+                  {
+                    "id": "203",
+                    "parent": "202",
+                    "text": "→ Clínica:",
+                    "guid": "Uuzm1Tz28OhGAdWpMY84bw",
+                    "children": [
+                      {
+                        "id": "204",
+                        "parent": "203",
+                        "text": "• Bocio nodular",
+                        "guid": "RH7A02TZdHE9RFUfM-aQGw",
+                        "children": []
+                      },
+                      {
+                        "id": "205",
+                        "parent": "203",
+                        "text": "• Ancianos",
+                        "guid": "EcUGcEC4E8Uq4qX1OWd54w",
+                        "children": []
+                      },
+                      {
+                        "id": "206",
+                        "parent": "203",
+                        "text": "• Área déficit yodo",
+                        "guid": "FuoiKjN5prtz8BfnELCB3Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "207",
+                    "parent": "202",
+                    "text": "→ Exámenes:",
+                    "guid": "KPyBondj3pdQ-UtmJHfFPQ",
+                    "children": [
+                      {
+                        "id": "208",
+                        "parent": "207",
+                        "text": "• Eco: nódulos >1cm",
+                        "guid": "I6Kg0zmMxPMHaYBfTPSO4w",
+                        "children": []
+                      },
+                      {
+                        "id": "209",
+                        "parent": "207",
+                        "text": "• Gammagrafía: nódulo(s) hipercaptante(s)",
+                        "guid": "OuQIHlFxJnhhsxWCcuWwIA",
+                        "children": []
+                      },
+                      {
+                        "id": "210",
+                        "parent": "207",
+                        "text": "• PAAF si nódulo sospechoso",
+                        "guid": "EBgqFjKHeVIdYYzGYwUQ6w",
+                        "children": []
+                      },
+                      {
+                        "id": "211",
+                        "parent": "207",
+                        "text": "• TRAb (-)",
+                        "guid": "b35qOmNjYm8UlElaM_0rDQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "212",
+                "parent": "190",
+                "text": "3. TIROIDITIS",
+                "guid": "SDzW4FHYnnln47soWgHdUQ",
+                "children": [
+                  {
+                    "id": "213",
+                    "parent": "212",
+                    "text": "→ Subaguda:",
+                    "guid": "EpCyPhLGYR4TaVc0KXrUaQ",
+                    "children": [
+                      {
+                        "id": "214",
+                        "parent": "213",
+                        "text": "• Dolor cervical + fiebre",
+                        "guid": "RkAH2QdZbxs6K1ZGbzyJfA",
+                        "children": []
+                      },
+                      {
+                        "id": "215",
+                        "parent": "213",
+                        "text": "• Antecedente viral",
+                        "guid": "fr1Nswskoa0TtE65Il_uhg",
+                        "children": []
+                      },
+                      {
+                        "id": "216",
+                        "parent": "213",
+                        "text": "• VHS/PCR ↑",
+                        "guid": "RLFmoBsdzxhvVH1pf5Vuvg",
+                        "children": []
+                      },
+                      {
+                        "id": "217",
+                        "parent": "213",
+                        "text": "• Gammagrafía: captación ↓",
+                        "guid": "bI71kVEHkutyex7efKcfpw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "218",
+                    "parent": "212",
+                    "text": "→ Silente/postparto:",
+                    "guid": "A48MPQ_cq6RfrDCTcw12eA",
+                    "children": [
+                      {
+                        "id": "219",
+                        "parent": "218",
+                        "text": "• Postparto/autoinmune",
+                        "guid": "c0AOE3RAee0nCqGFO3zk8w",
+                        "children": []
+                      },
+                      {
+                        "id": "220",
+                        "parent": "218",
+                        "text": "• No dolor",
+                        "guid": "RhkYZw7uXK4VfsJEWKnKpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "221",
+                        "parent": "218",
+                        "text": "• Gammagrafía: captación ↓",
+                        "guid": "IbS9zCjoGXgCJJ8OZ_TFpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "222",
+                        "parent": "218",
+                        "text": "• Anti-TPO (+) (3)",
+                        "guid": "MEGIlDxP9VVXMU8hLv7WRw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "223",
+            "parent": "166",
+            "text": "ALGORITMO",
+            "guid": "LeVcJU4oCZNAtBGjAaZYSw",
+            "children": [
+              {
+                "id": "224",
+                "parent": "223",
+                "text": "→ TSH ↓ +\nT4/T3 ↑:",
+                "guid": "ChDGeCvWKU1z-DjAEBQzaw",
+                "children": [
+                  {
+                    "id": "225",
+                    "parent": "224",
+                    "text": "• Captación I¹³¹:",
+                    "guid": "bIlrg3-zpSACppXvfkRApQ",
+                    "children": [
+                      {
+                        "id": "226",
+                        "parent": "225",
+                        "text": "- ↑ difusa → Graves",
+                        "guid": "feowXnHgGBoTjiIEC_1nQA",
+                        "children": []
+                      },
+                      {
+                        "id": "227",
+                        "parent": "225",
+                        "text": "- ↑ focal → BMN/adenoma",
+                        "guid": "QMXK2RvledsNUKw1A-v3hQ",
+                        "children": []
+                      },
+                      {
+                        "id": "228",
+                        "parent": "225",
+                        "text": "- ↓ → tiroiditis/exógeno",
+                        "guid": "S0dzN0og1h0NKzyYCZfJQg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "229",
+                    "parent": "224",
+                    "text": "• TRAb:",
+                    "guid": "HG_CSm8UTFBpnN0YF6bH8A",
+                    "children": [
+                      {
+                        "id": "230",
+                        "parent": "229",
+                        "text": "- (+) → Graves",
+                        "guid": "UyH7FzGWtpRDH1Ypc3-fMw",
+                        "children": []
+                      },
+                      {
+                        "id": "231",
+                        "parent": "229",
+                        "text": "- (-) → otros dx",
+                        "guid": "UMHfMh2WuqpbUdpRWtKlqg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "232",
+                "parent": "223",
+                "text": "→ TSH normal/↑ +\nT4/T3 ↑:",
+                "guid": "SWzj909KExFq5tkVNfZPew",
+                "children": [
+                  {
+                    "id": "233",
+                    "parent": "232",
+                    "text": "• RMN selar: adenoma hipofisario",
+                    "guid": "Tv24MW2NbwQ0OpAgTOfojw",
+                    "children": []
+                  },
+                  {
+                    "id": "234",
+                    "parent": "232",
+                    "text": "• Resistencia hormonal",
+                    "guid": "X22HHkfIsiRY5U_PIDNR9w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "235",
+            "parent": "166",
+            "text": "INDICACIONES\nESPECÍFICAS EVALUACIÓN:",
+            "guid": "dbS8GSe0flMmKTOiOtgpSQ",
+            "children": [
+              {
+                "id": "236",
+                "parent": "235",
+                "text": "→ Si nódulos\n>1cm/sospechosos:",
+                "guid": "Y64r_2Y1_AQkH0l8LvWfNg",
+                "children": [
+                  {
+                    "id": "237",
+                    "parent": "236",
+                    "text": "• Eco tiroidea",
+                    "guid": "MFbSIjFKhhQ4jWh4TMaUbA",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "236",
+                    "text": "• Gammagrafía",
+                    "guid": "IF7SZSIqRZFkbVxcc4DNfA",
+                    "children": []
+                  },
+                  {
+                    "id": "239",
+                    "parent": "236",
+                    "text": "• PAAF",
+                    "guid": "U8D8JSeMsoZnAGywJILbVw",
+                    "children": [
+                      {
+                        "id": "240",
+                        "parent": "239",
+                        "text": "INDICACIONES PAAF",
+                        "guid": "EC7ZlTqskJlp7Sw0XCtgLg",
+                        "children": [
+                          {
+                            "id": "241",
+                            "parent": "240",
+                            "text": "• >1cm + alta sospecha",
+                            "guid": "Lg2uJmTtF5oMVPuvc5xNLw",
+                            "children": []
+                          },
+                          {
+                            "id": "242",
+                            "parent": "240",
+                            "text": "• >1.5cm + sospecha intermedia",
+                            "guid": "MH0Ey0Yf3DRI5fryCfwNEA",
+                            "children": []
+                          },
+                          {
+                            "id": "243",
+                            "parent": "240",
+                            "text": "• >2cm + baja sospecha",
+                            "guid": "XCfuZgW0gItqK2Eqe-8tFw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "244",
+                        "parent": "239",
+                        "text": "→ Alta sospecha:",
+                        "guid": "BtkYWS5V0fYk1aBwLLMDDg",
+                        "children": [
+                          {
+                            "id": "245",
+                            "parent": "244",
+                            "text": "• Sólido + hipoecogénico",
+                            "guid": "agbFVCV-tKRJaHpwe6MfZw",
+                            "children": []
+                          },
+                          {
+                            "id": "246",
+                            "parent": "244",
+                            "text": "• Microcalcificaciones",
+                            "guid": "D7sOug3vGxNcPTGsZ4TX1Q",
+                            "children": []
+                          },
+                          {
+                            "id": "247",
+                            "parent": "244",
+                            "text": "• Márgenes irregulares",
+                            "guid": "BrBL1Qm_LIAevCgORzouvA",
+                            "children": []
+                          },
+                          {
+                            "id": "248",
+                            "parent": "244",
+                            "text": "• Más alto que ancho",
+                            "guid": "ECZ3I3Ymyj5rcj2hfMO9yw",
+                            "children": []
+                          },
+                          {
+                            "id": "249",
+                            "parent": "244",
+                            "text": "• Extensión extracapsular",
+                            "guid": "cbC16z6f670Zt9aVHoUnrQ",
+                            "children": []
+                          },
+                          {
+                            "id": "250",
+                            "parent": "244",
+                            "text": "• Adenopatías sospechosas",
+                            "guid": "SlsCUgNyg8xruGvTeEBedw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "251",
+                        "parent": "239",
+                        "text": "→ Sospecha intermedia:",
+                        "guid": "VC_eKCkfapZMmSyLCAeuGw",
+                        "children": [
+                          {
+                            "id": "252",
+                            "parent": "251",
+                            "text": "• Hipoecogénico",
+                            "guid": "UZqNXyxsfXZ55rbCR09JeA",
+                            "children": []
+                          },
+                          {
+                            "id": "253",
+                            "parent": "251",
+                            "text": "• Márgenes mal definidos",
+                            "guid": "VCD7ySAP6mUCJ3LBPifBHg",
+                            "children": []
+                          },
+                          {
+                            "id": "254",
+                            "parent": "251",
+                            "text": "• Vascularización central",
+                            "guid": "RY6fCUuP7TE5yuCFVUmtww",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "255",
+                        "parent": "239",
+                        "text": "→ Baja sospecha:",
+                        "guid": "H8c-sVuKraYnaYLWL-211Q",
+                        "children": [
+                          {
+                            "id": "256",
+                            "parent": "255",
+                            "text": "• Isoecogénico/hiperecogénico",
+                            "guid": "WX8IRBYIEjE8zoWYYC9UGg",
+                            "children": []
+                          },
+                          {
+                            "id": "257",
+                            "parent": "255",
+                            "text": "• Parcialmente quístico",
+                            "guid": "UbF35RLbwHcssXOgQ2It0A",
+                            "children": []
+                          },
+                          {
+                            "id": "258",
+                            "parent": "255",
+                            "text": "• Bordes regulares",
+                            "guid": "UXusNUZpSjZh51V9G9auhw",
+                            "children": []
+                          },
+                          {
+                            "id": "259",
+                            "parent": "255",
+                            "text": "• Halo completo",
+                            "guid": "SdvOAk2fwVEUFwz-G3ZbYQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "260",
+                        "parent": "239",
+                        "text": "OTROS FACTORES\nRIESGO",
+                        "guid": "NRTwVj9u93xYpOuTdZ0sSA",
+                        "children": [
+                          {
+                            "id": "261",
+                            "parent": "260",
+                            "text": "→ Historia personal:",
+                            "guid": "YT8uMRGU5AAr3OLsMvCmFg",
+                            "children": [
+                              {
+                                "id": "262",
+                                "parent": "261",
+                                "text": "• RT cervical",
+                                "guid": "JHCkd1iOVo12UtPndexQrA",
+                                "children": []
+                              },
+                              {
+                                "id": "263",
+                                "parent": "261",
+                                "text": "• Síndromes genéticos",
+                                "guid": "Hvegw1g6KWQRwv8zaNNuxQ",
+                                "children": []
+                              },
+                              {
+                                "id": "264",
+                                "parent": "261",
+                                "text": "• Ca tiroideo previo",
+                                "guid": "JdnqtSXaDDIEScomH-YpfQ",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "265",
+                            "parent": "260",
+                            "text": "→ Historia familiar:",
+                            "guid": "QIg78R5nxjoGdZh0HLAqVw",
+                            "children": [
+                              {
+                                "id": "266",
+                                "parent": "265",
+                                "text": "• Ca tiroideo",
+                                "guid": "M9fP82cPbv9uE2QOYeV-GQ",
+                                "children": []
+                              },
+                              {
+                                "id": "267",
+                                "parent": "265",
+                                "text": "• Síndromes MEN",
+                                "guid": "S_yGmXpoX71VgctIfHmLZA",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "268",
+                            "parent": "260",
+                            "text": "→ Crecimiento rápido",
+                            "guid": "JBxGxXCg-Z4Yn1dvBVt09w",
+                            "children": []
+                          },
+                          {
+                            "id": "269",
+                            "parent": "260",
+                            "text": "→ Síntomas compresivos",
+                            "guid": "AjXdnkR8Ols4TBsNJqaCFg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "270",
+                "parent": "235",
+                "text": "→ TRAb\nobligatorio en:",
+                "guid": "RSNtMEJSRwF_VYEBDpBRJw",
+                "children": [
+                  {
+                    "id": "271",
+                    "parent": "270",
+                    "text": "• Embarazo",
+                    "guid": "EZxaE2o8WhZEhqCiYJoSRA",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "270",
+                    "text": "• Lactancia",
+                    "guid": "V8nJGnjBMMItgfrUNzdQOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "273",
+                    "parent": "270",
+                    "text": "• Sospecha Graves",
+                    "guid": "QIni5gZnSqNXaqIwJDgO5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "274",
+                    "parent": "270",
+                    "text": "• Uso amiodarona/contraste",
+                    "guid": "bJ1GqHuJ661TLa4cHPQYyg",
+                    "children": []
+                  },
+                  {
+                    "id": "275",
+                    "parent": "270",
+                    "text": "• Oftalmopatía",
+                    "guid": "LNRxwQu7FpRpuq02TTNEJg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "276",
+        "parent": "0",
+        "text": "TRATAMIENTO",
+        "guid": "dBGqtXKLamUMWuvGQ-gxtA",
+        "children": [
+          {
+            "id": "277",
+            "parent": "276",
+            "text": "ANTITIROIDEOS",
+            "guid": "Xda9tl8ahAcSTVafAfMEfA",
+            "children": [
+              {
+                "id": "278",
+                "parent": "277",
+                "text": "→ Fármacos:",
+                "guid": "T7t9pirsrg4HTnlzUfFbRA",
+                "children": [
+                  {
+                    "id": "279",
+                    "parent": "278",
+                    "text": "• Metimazol\n(1ª elección)",
+                    "guid": "b2joaj-alIB4l91aDHN5Ug",
+                    "children": []
+                  },
+                  {
+                    "id": "280",
+                    "parent": "278",
+                    "text": "• Propiltiouracilo",
+                    "guid": "bjmDdRUqsB1Idar-dRKbzg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "281",
+                "parent": "277",
+                "text": "→ Indicaciones:",
+                "guid": "Q4CCE21LS24hxZ7cF7BgOw",
+                "children": [
+                  {
+                    "id": "282",
+                    "parent": "281",
+                    "text": "• E.Graves inicial",
+                    "guid": "Fmq2BW5ey2gfuA5WJpmPmg",
+                    "children": []
+                  },
+                  {
+                    "id": "283",
+                    "parent": "281",
+                    "text": "• Pre-gestación",
+                    "guid": "KQtcAQmlOooCxO_JXiBMWA",
+                    "children": []
+                  },
+                  {
+                    "id": "284",
+                    "parent": "281",
+                    "text": "• Pre-RAI/cirugía",
+                    "guid": "SRQyBltp21xTvXigJurvvA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "285",
+                "parent": "277",
+                "text": "→ RAM:",
+                "guid": "OoRfY2YKzz8o3fQ4Cj_dCQ",
+                "children": [
+                  {
+                    "id": "286",
+                    "parent": "285",
+                    "text": "• Agranulocitosis (0.2-0.3%)",
+                    "guid": "EPd9TjAsbatcMThOAGBluA",
+                    "children": []
+                  },
+                  {
+                    "id": "287",
+                    "parent": "285",
+                    "text": "• Hepatotoxicidad (0.1-0.2%)",
+                    "guid": "b8cCLFTJFagM098KXgCFoQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "288",
+            "parent": "276",
+            "text": "YODO RADIACTIVO\n(I131)",
+            "guid": "afPFxVVJighTEyFvLXRH2A",
+            "children": [
+              {
+                "id": "289",
+                "parent": "288",
+                "text": "→ Indicaciones:",
+                "guid": "QpTVd3TYwEtFJKgTWP-LfA",
+                "children": [
+                  {
+                    "id": "290",
+                    "parent": "289",
+                    "text": "• BMN tóxico",
+                    "guid": "YzeLs2Tctml_mRsWDELntQ",
+                    "children": []
+                  },
+                  {
+                    "id": "291",
+                    "parent": "289",
+                    "text": "• Adenoma tóxico",
+                    "guid": "boHw8wJeCt9qYzQNN5Yi-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "292",
+                    "parent": "289",
+                    "text": "• Graves recurrente",
+                    "guid": "XcfmOz4grK1egRK2GExFnw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "293",
+                "parent": "288",
+                "text": "→ CI absolutas:",
+                "guid": "JCt77AdfBu4ijCKoNSL5Og",
+                "children": [
+                  {
+                    "id": "294",
+                    "parent": "293",
+                    "text": "• Embarazo",
+                    "guid": "N4t0mn69WvY1g17yJ1J2xg",
+                    "children": []
+                  },
+                  {
+                    "id": "295",
+                    "parent": "293",
+                    "text": "• Lactancia",
+                    "guid": "U4Zwn0JXPf0FUvxnPXo2ZA",
+                    "children": []
+                  },
+                  {
+                    "id": "296",
+                    "parent": "293",
+                    "text": "• ODT grave",
+                    "guid": "F6DIBVhmHdZq7n49WjWdfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "297",
+            "parent": "276",
+            "text": "CIRUGÍA",
+            "guid": "TT7eITATJlAzNSj4MHZp1Q",
+            "children": [
+              {
+                "id": "298",
+                "parent": "297",
+                "text": "→ Indicaciones:",
+                "guid": "FO_cujLORA88uVGKA3HNrQ",
+                "children": [
+                  {
+                    "id": "299",
+                    "parent": "298",
+                    "text": "• Bocio compresivo",
+                    "guid": "NSxO7icchZc7B_CnEvQ1Kg",
+                    "children": []
+                  },
+                  {
+                    "id": "300",
+                    "parent": "298",
+                    "text": "• Sospecha malignidad",
+                    "guid": "ZT0yRBmJA10rQHrJCWiuMA",
+                    "children": []
+                  },
+                  {
+                    "id": "301",
+                    "parent": "298",
+                    "text": "• Fallo otros ttos",
+                    "guid": "IOgKS03MnXE-i6drWHN-5Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "302",
+                "parent": "297",
+                "text": "→ Preparación:",
+                "guid": "TIn4aHQPBl1_xfWrIBBpBw",
+                "children": [
+                  {
+                    "id": "303",
+                    "parent": "302",
+                    "text": "• Eutiroidismo previo",
+                    "guid": "NmZEWgUY8hJdip9rTgcMYA",
+                    "children": []
+                  },
+                  {
+                    "id": "304",
+                    "parent": "302",
+                    "text": "• β-bloqueantes",
+                    "guid": "XX8P6Eh5HagoPKncKr3uCg",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "parent": "302",
+                    "text": "• Lugol (10-14d)",
+                    "guid": "eIxD-Vtx0tVbNFffDXwgsw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "306",
+            "parent": "276",
+            "text": "ANCIANOS",
+            "guid": "DkAW5BftqWkQ7e5gQ2xl0g",
+            "children": [
+              {
+                "id": "307",
+                "parent": "306",
+                "text": "→ Preferencias tto:",
+                "guid": "PwovAEv13wdWYJr8JEdhRA",
+                "children": [
+                  {
+                    "id": "308",
+                    "parent": "307",
+                    "text": "• RAI/cirugía (BMN)",
+                    "guid": "ZX7iZAGhFcUtsA90BmbssA",
+                    "children": []
+                  },
+                  {
+                    "id": "309",
+                    "parent": "307",
+                    "text": "• Antitiroideos (↓dosis)",
+                    "guid": "T22zN2w7tt9e2muVG_ernw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "310",
+                "parent": "306",
+                "text": "→ Monitoreo estrecho:",
+                "guid": "YEq9PV6gYUE8CBSmFrEBlw",
+                "children": [
+                  {
+                    "id": "311",
+                    "parent": "310",
+                    "text": "• RAM",
+                    "guid": "Y7lTUxmStBFkuA33QThjPA",
+                    "children": []
+                  },
+                  {
+                    "id": "312",
+                    "parent": "310",
+                    "text": "• CV",
+                    "guid": "YgvRugz0t9Rr9lFGWpgVsw",
+                    "children": []
+                  },
+                  {
+                    "id": "313",
+                    "parent": "310",
+                    "text": "• Función cognitiva (3)",
+                    "guid": "aGaKqUcqqSVoFDZmdqahjQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "314",
+            "parent": "276",
+            "text": "INDICACIONES\nTRATAMIENTO",
+            "guid": "",
+            "children": [
+              {
+                "id": "315",
+                "parent": "314",
+                "text": "→ TSH <0.1 mUI/L\n+ cualquiera:",
+                "guid": "RPgDzhBzolxCaeLSKnbmMg",
+                "children": [
+                  {
+                    "id": "316",
+                    "parent": "315",
+                    "text": "• >65 años",
+                    "guid": "EhS4IXAZ8kYw3dLiYYJrWA",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "315",
+                    "text": "• Cardiopatía",
+                    "guid": "XFWpJg-4Pnh9ehb3PKBmYw",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "315",
+                    "text": "• Osteoporosis",
+                    "guid": "blifuTmCK51TUWf6UhHzDA",
+                    "children": []
+                  },
+                  {
+                    "id": "319",
+                    "parent": "315",
+                    "text": "• Síntomas tirotoxicosis",
+                    "guid": "UxTfrzgJdfITSlZINSCxaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "320",
+                    "parent": "315",
+                    "text": "• BMN/adenoma",
+                    "guid": "RP4txn9Ap44PuMccLWS4bw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "321",
+                "parent": "314",
+                "text": "→ TSH 0.1-0.4 mUI/L si:",
+                "guid": "RmtQs3fM_YIkC1n8JYOjQQ",
+                "children": [
+                  {
+                    "id": "322",
+                    "parent": "321",
+                    "text": "• Síntomas presentes",
+                    "guid": "cM8iSF4eYVtDpiTPNccmFg",
+                    "children": []
+                  },
+                  {
+                    "id": "323",
+                    "parent": "321",
+                    "text": "• Riesgo CV alto",
+                    "guid": "bpIDtwYQB6FgPgxJAKa72Q",
+                    "children": []
+                  },
+                  {
+                    "id": "324",
+                    "parent": "321",
+                    "text": "• Osteoporosis\nestablecida (1)",
+                    "guid": "din56BEb3ytiKScxUn-jDg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "325",
+            "parent": "276",
+            "text": "OBJETIVOS\nTRATAMIENTO",
+            "guid": "INQdo1-jPikPIAlxDyy9XA",
+            "children": [
+              {
+                "id": "326",
+                "parent": "325",
+                "text": "→ Primarios:",
+                "guid": "GSVpxmJxcWthPrBpbDpJdQ",
+                "children": [
+                  {
+                    "id": "327",
+                    "parent": "326",
+                    "text": "• Control síntomas",
+                    "guid": "GnrnXXSJBrEhWvreX3kVIw",
+                    "children": []
+                  },
+                  {
+                    "id": "328",
+                    "parent": "326",
+                    "text": "• Prevenir complicaciones CV",
+                    "guid": "c8muQDETwfoM3c2SOjT-8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "329",
+                "parent": "325",
+                "text": "• ↓riesgo fracturas",
+                "guid": "KOC_fDDpJ45fuKI1Ga_hxQ",
+                "children": [
+                  {
+                    "id": "330",
+                    "parent": "329",
+                    "text": "• Preservar función cognitiva",
+                    "guid": "DweI6iNexwRPdwfbfZmMoQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "331",
+                "parent": "325",
+                "text": "→ Secundarios:",
+                "guid": "KW7Opi-1FCR-QEh6H5jIjg",
+                "children": [
+                  {
+                    "id": "332",
+                    "parent": "331",
+                    "text": "• Eutiroidismo bioquímico",
+                    "guid": "QNDzUGBpb6xyGGucYaUQ8w",
+                    "children": []
+                  },
+                  {
+                    "id": "333",
+                    "parent": "331",
+                    "text": "• Mínimos efectos adversos",
+                    "guid": "QAyt1QE4dQ1w0c5QWTIXmw",
+                    "children": []
+                  },
+                  {
+                    "id": "334",
+                    "parent": "331",
+                    "text": "• QoL óptima",
+                    "guid": "Y6nmeFIQfrlFbGERfiTN1g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "335",
+            "parent": "276",
+            "text": "ELECCIÓN\nTRATAMIENTO",
+            "guid": "RpmFambHW-9dneL5OmMzqg",
+            "children": [
+              {
+                "id": "336",
+                "parent": "335",
+                "text": "→ Antitiroideos:",
+                "guid": "F9sd6mp7sIx0mDKeQLvdZg",
+                "children": [
+                  {
+                    "id": "337",
+                    "parent": "336",
+                    "text": "• Dosis inicial ↓ (10-30mg/d)",
+                    "guid": "G2TYGlRQ1NNaa78rKmxhBA",
+                    "children": []
+                  },
+                  {
+                    "id": "338",
+                    "parent": "336",
+                    "text": "• Ajuste gradual",
+                    "guid": "d6-b1ynixwcoBe2mIR5qfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "339",
+                    "parent": "336",
+                    "text": "• Monitoreo RAM estrecho",
+                    "guid": "WZfbKyZGNiBAtzMLGmjOew",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "340",
+                "parent": "335",
+                "text": "→ RAI:",
+                "guid": "Bq-lzDLPnqd8Dd9vRrxToQ",
+                "children": [
+                  {
+                    "id": "341",
+                    "parent": "340",
+                    "text": "• Preferente BMN tóxico",
+                    "guid": "NAgTtGzfrb8f7ms9F7H6LQ",
+                    "children": []
+                  },
+                  {
+                    "id": "342",
+                    "parent": "340",
+                    "text": "• Graves recurrente",
+                    "guid": "PvAseGVazE4V1sgDBYmx4g",
+                    "children": []
+                  },
+                  {
+                    "id": "343",
+                    "parent": "340",
+                    "text": "• Contraindicación quirúrgica",
+                    "guid": "TCIoPXN0qvw_7OWNY_1GJw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "344",
+                "parent": "335",
+                "text": "→ Cirugía:",
+                "guid": "XfBbiDSFGCskuSOOeVUzow",
+                "children": [
+                  {
+                    "id": "345",
+                    "parent": "344",
+                    "text": "• Bocio compresivo",
+                    "guid": "CNXs_n8k4rkjwZSnAIWI1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "346",
+                    "parent": "344",
+                    "text": "• Sospecha malignidad",
+                    "guid": "KQepwEvHgk0ho_NTAp-E7A",
+                    "children": []
+                  },
+                  {
+                    "id": "347",
+                    "parent": "344",
+                    "text": "• No respuesta RAI",
+                    "guid": "cg24bmJbJl4dCFNneL1eOg",
+                    "children": []
+                  },
+                  {
+                    "id": "348",
+                    "parent": "344",
+                    "text": "• ↑riesgo quirúrgico x edad",
+                    "guid": "FSrFBhkWMtY_ebHcSTLYug",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "349",
+            "parent": "276",
+            "text": "MONITORIZACIÓN",
+            "guid": "UuYipj3Bkn4vRA5fHyJu0w",
+            "children": [
+              {
+                "id": "350",
+                "parent": "349",
+                "text": "→ Control clínico:",
+                "guid": "BfXglV9oHRlg5NLnROYNDQ",
+                "children": [
+                  {
+                    "id": "351",
+                    "parent": "350",
+                    "text": "• Síntomas",
+                    "guid": "RMLpZ3a7mupKb77wEOURpA",
+                    "children": []
+                  },
+                  {
+                    "id": "352",
+                    "parent": "350",
+                    "text": "• FC/PA",
+                    "guid": "ajBF5wpcpH104lfMSCChbw",
+                    "children": []
+                  },
+                  {
+                    "id": "353",
+                    "parent": "350",
+                    "text": "• Estado cognitivo",
+                    "guid": "PuG8qBmbe1pBddUSR7eppg",
+                    "children": []
+                  },
+                  {
+                    "id": "354",
+                    "parent": "350",
+                    "text": "• RAM",
+                    "guid": "GMBeE2U3abpIPTJ7QcgH1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "355",
+                "parent": "349",
+                "text": "→ Laboratorio:",
+                "guid": "MP7sB2nhJc5EZ4zAIwykdQ",
+                "children": [
+                  {
+                    "id": "356",
+                    "parent": "355",
+                    "text": "• TSH/T4L/T3: 4-6 sem inicial",
+                    "guid": "TDxMLWFv4CcbygKwYWcRMw",
+                    "children": []
+                  },
+                  {
+                    "id": "357",
+                    "parent": "355",
+                    "text": "• Función hepática",
+                    "guid": "eoYS_ltDtIwqmentAHvzkw",
+                    "children": []
+                  },
+                  {
+                    "id": "358",
+                    "parent": "355",
+                    "text": "• Hemograma",
+                    "guid": "OqvRpQt-vNVFYgChf267DA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "359",
+                "parent": "349",
+                "text": "→ Complicaciones:",
+                "guid": "AjpXvw_Rv5EQU8ywbGqdpg",
+                "children": [
+                  {
+                    "id": "360",
+                    "parent": "359",
+                    "text": "• ECG",
+                    "guid": "Gi5kDgU2JHw0iz8WWRAgtg",
+                    "children": []
+                  },
+                  {
+                    "id": "361",
+                    "parent": "359",
+                    "text": "• DMO",
+                    "guid": "HtGf1nYBFCggx8pcN5H96g",
+                    "children": []
+                  },
+                  {
+                    "id": "362",
+                    "parent": "359",
+                    "text": "• Función cognitiva",
+                    "guid": "Wzh94mkE_Nd5WgW-DDdp6g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "363",
+            "parent": "276",
+            "text": "CONSIDERAR\nEN PM",
+            "guid": "DAjdkHddtfl91xZtHbqkmw",
+            "children": [
+              {
+                "id": "364",
+                "parent": "363",
+                "text": "MANTENER INDEFINIDO\n→ >65 años + cualquiera:",
+                "guid": "HE4zkAM3RkFwXs_9CM99PA",
+                "children": [
+                  {
+                    "id": "365",
+                    "parent": "364",
+                    "text": "• Cardiopatía",
+                    "guid": "axJ2wy_CHMdify_Oaem6mg",
+                    "children": []
+                  },
+                  {
+                    "id": "366",
+                    "parent": "364",
+                    "text": "• BMN tóxico",
+                    "guid": "ApUiWFA6fw8qn-NTKdqQeg",
+                    "children": []
+                  },
+                  {
+                    "id": "367",
+                    "parent": "364",
+                    "text": "• FA establecida",
+                    "guid": "fFQYQD6fKBJFEC3SM8WUug",
+                    "children": []
+                  },
+                  {
+                    "id": "368",
+                    "parent": "364",
+                    "text": "• IC previa",
+                    "guid": "aOc2p1K4V-R_5v-ZRF75Ig",
+                    "children": []
+                  },
+                  {
+                    "id": "369",
+                    "parent": "364",
+                    "text": "• Deterioro cognitivo (1)",
+                    "guid": "TVaGJktmjqRSi4jeVQMjQA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "370",
+                "parent": "363",
+                "text": "SI SE DECIDE\nSUSPENDER",
+                "guid": "VsQa5SJzc0RuLceTV2Dgew",
+                "children": [
+                  {
+                    "id": "371",
+                    "parent": "370",
+                    "text": "→ Requisitos:",
+                    "guid": "XUAP0ALxBGJakshpaEcrbA",
+                    "children": [
+                      {
+                        "id": "372",
+                        "parent": "371",
+                        "text": "• Eutiroidismo >18-24 meses",
+                        "guid": "QlQkgwefQNFvol9HQFZstw",
+                        "children": []
+                      },
+                      {
+                        "id": "373",
+                        "parent": "371",
+                        "text": "• Dosis mínima (<5mg/d)",
+                        "guid": "ebvnCyrDJ90nP-uSPpDlKQ",
+                        "children": []
+                      },
+                      {
+                        "id": "374",
+                        "parent": "371",
+                        "text": "• Estabilidad CV",
+                        "guid": "ZcrwDFKIY5Be41BOYXUHJw",
+                        "children": []
+                      },
+                      {
+                        "id": "375",
+                        "parent": "371",
+                        "text": "• TRAb (-)",
+                        "guid": "IqMIqSgJrqFpJ_vRahtjuw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "376",
+                    "parent": "370",
+                    "text": "→ Monitorización\nestrecha:",
+                    "guid": "bwcjYQ6VlRdkw3rAcpRdUA",
+                    "children": [
+                      {
+                        "id": "377",
+                        "parent": "376",
+                        "text": "• Control mensual x 3m",
+                        "guid": "FH8HLi7pgUY16KKva0MiFA",
+                        "children": []
+                      },
+                      {
+                        "id": "378",
+                        "parent": "376",
+                        "text": "• Luego c/2-3 meses",
+                        "guid": "UVz0iyQWakNCpAKPLp0EWw",
+                        "children": []
+                      },
+                      {
+                        "id": "379",
+                        "parent": "376",
+                        "text": "• ECG seriados",
+                        "guid": "JwdupR02yvkW5C_HaVuTKA",
+                        "children": []
+                      },
+                      {
+                        "id": "380",
+                        "parent": "376",
+                        "text": "• Evaluación cognitiva",
+                        "guid": "JNYLygaGjw8psf_gHpHy1g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "381",
+                "parent": "363",
+                "text": "ALTERNATIVAS\nSI RECAÍDA",
+                "guid": "MUm27FDx63JdItf_FxSm-Q",
+                "children": [
+                  {
+                    "id": "382",
+                    "parent": "381",
+                    "text": "→ Preferir tto definitivo:",
+                    "guid": "I3pPAjwGKE54ia4gRh1Xqw",
+                    "children": [
+                      {
+                        "id": "383",
+                        "parent": "382",
+                        "text": "• RAI primera elección",
+                        "guid": "ZA_W72GxqfEwOLtnUxb6UA",
+                        "children": []
+                      },
+                      {
+                        "id": "384",
+                        "parent": "382",
+                        "text": "• Cirugía selectiva",
+                        "guid": "cEc_CRT8NidFq1egBMZGNw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "385",
+                    "parent": "381",
+                    "text": "→ Evitar ciclos repetidos antitiroideos",
+                    "guid": "Q-W3bXuT-k9wCWhLFUKr-A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "386",
+            "parent": "276",
+            "text": "SUSPENSIÓN\nANTITIROIDEOS",
+            "guid": "W3fCewjFFSNAu09SYHMz-Q",
+            "children": [
+              {
+                "id": "387",
+                "parent": "386",
+                "text": "CRITERIOS PARA\nCONSIDERAR SUSPENSIÓN",
+                "guid": "JlHFmysjafMaM3k3YP2XQA",
+                "children": [
+                  {
+                    "id": "388",
+                    "parent": "387",
+                    "text": "→ Tiempo mínimo: 12-18 meses",
+                    "guid": "NqImyF-VedhgbFJMONx-iA",
+                    "children": []
+                  },
+                  {
+                    "id": "389",
+                    "parent": "387",
+                    "text": "→ TSH/T4L normales",
+                    "guid": "b2c5aXDAHv0lRxwuCZWddw",
+                    "children": []
+                  },
+                  {
+                    "id": "390",
+                    "parent": "387",
+                    "text": "→ TRAb (-) o muy bajo",
+                    "guid": "dfZDeVnSW0Ripb4tFMfjUA",
+                    "children": []
+                  },
+                  {
+                    "id": "391",
+                    "parent": "387",
+                    "text": "→ Dosis mantenimiento baja",
+                    "guid": "T9NvbQNtiIlMWeE6KwvtTw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "392",
+                "parent": "386",
+                "text": "FACTORES ALTO RIESGO RECAÍDA",
+                "guid": "bHKFYEWz5vg3Q1c5P1ioBg",
+                "children": [
+                  {
+                    "id": "393",
+                    "parent": "392",
+                    "text": "• Hombre >40 años",
+                    "guid": "MZV2qF8Elt88XnG_V-c8RA",
+                    "children": []
+                  },
+                  {
+                    "id": "394",
+                    "parent": "392",
+                    "text": "• Tiroides grande",
+                    "guid": "CigA01aR6vY45NOEQMonmw",
+                    "children": []
+                  },
+                  {
+                    "id": "395",
+                    "parent": "392",
+                    "text": "• T4L inicial >7 ng/dl",
+                    "guid": "HzFypUsOEQ8AiYAGGbeFow",
+                    "children": []
+                  },
+                  {
+                    "id": "396",
+                    "parent": "392",
+                    "text": "• T3/T4 >20",
+                    "guid": "NidkzhlRJdF5pqYjJY6eNw",
+                    "children": []
+                  },
+                  {
+                    "id": "397",
+                    "parent": "392",
+                    "text": "• TRAb muy elevado",
+                    "guid": "ChFEzh7twlIvJDuuAAeIRw",
+                    "children": []
+                  },
+                  {
+                    "id": "398",
+                    "parent": "392",
+                    "text": "• Niños <5 años",
+                    "guid": "eMAdlhHJ-dsUz2uXSJONAw",
+                    "children": []
+                  },
+                  {
+                    "id": "399",
+                    "parent": "392",
+                    "text": "• ♀ buscando fertilidad",
+                    "guid": "FTeCZGEpTNFzn3pTAaoHxA",
+                    "children": []
+                  },
+                  {
+                    "id": "400",
+                    "parent": "392",
+                    "text": "• Oftalmopatía moderada-grave",
+                    "guid": "Jt0zySri0YxBAq_LKlKtPw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "401",
+                "parent": "386",
+                "text": "MANEJO\nSUSPENSIÓN",
+                "guid": "EWo3JR99xqRM-ZlbQv-tzg",
+                "children": [
+                  {
+                    "id": "402",
+                    "parent": "401",
+                    "text": "→ Reducción gradual:",
+                    "guid": "foJdhAlYCxoa5uoSCKpeVw",
+                    "children": [
+                      {
+                        "id": "403",
+                        "parent": "402",
+                        "text": "• 2-3 meses",
+                        "guid": "X-n2EFPLvZZJdIXyFhFa3g",
+                        "children": []
+                      },
+                      {
+                        "id": "404",
+                        "parent": "402",
+                        "text": "• Monitoreo mensual",
+                        "guid": "bRzjZ0MbLBY7n_kVdy4oNQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "405",
+                    "parent": "401",
+                    "text": "→ Control\npost-suspensión:",
+                    "guid": "YgjuaGrENMN3NbB9WskL_g",
+                    "children": [
+                      {
+                        "id": "406",
+                        "parent": "405",
+                        "text": "• 1-3 meses iniciales",
+                        "guid": "fI4ungwFHBQjXJkCEcWxAg",
+                        "children": []
+                      },
+                      {
+                        "id": "407",
+                        "parent": "405",
+                        "text": "• Cada 3-6 meses x 1 año",
+                        "guid": "bS5o5hb8E1UTb7jGFAucrw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "408",
+                "parent": "386",
+                "text": "RESULTADOS\nPOST-SUSPENSIÓN",
+                "guid": "Qd7k4VRyaJE-XknvU0kcBw",
+                "children": [
+                  {
+                    "id": "409",
+                    "parent": "408",
+                    "text": "→ 50% remisión",
+                    "guid": "c_AvNgtX40oWSMnVcnKMug",
+                    "children": []
+                  },
+                  {
+                    "id": "410",
+                    "parent": "408",
+                    "text": "→ 50% recaída:",
+                    "guid": "FK_uZDEvs-d7HOsRdJnkdA",
+                    "children": [
+                      {
+                        "id": "411",
+                        "parent": "410",
+                        "text": "• Mayoría: primeros 6-12 meses",
+                        "guid": "BPtxfUSRcQMKqz9SchhU5Q",
+                        "children": []
+                      },
+                      {
+                        "id": "412",
+                        "parent": "410",
+                        "text": "• Considerar RAI/cirugía",
+                        "guid": "B6ydGUZLOGdpRn0aabWLgQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "413",
+        "parent": "0",
+        "text": "COMPLICACIONES",
+        "guid": "F3nctz05SywW71VaDSqR4w",
+        "children": [
+          {
+            "id": "414",
+            "parent": "413",
+            "text": "ANCIANOS",
+            "guid": "VgP_cU_AWJ4Qyqp8V522DQ",
+            "children": [
+              {
+                "id": "415",
+                "parent": "414",
+                "text": "→ Diagnóstico difícil",
+                "guid": "Pntfr3WOcHQm7ZuTZ4sXtw",
+                "children": []
+              },
+              {
+                "id": "416",
+                "parent": "414",
+                "text": "→ ↑riesgo:",
+                "guid": "ZVoFBSHxcvtMFNUnGWdMEQ",
+                "children": [
+                  {
+                    "id": "417",
+                    "parent": "416",
+                    "text": "• CV",
+                    "guid": "AZm2m2VfNmpjdbefcIRzCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "418",
+                    "parent": "416",
+                    "text": "• Fracturas",
+                    "guid": "JfAoUEPh-cks3rdbIE9-fg",
+                    "children": []
+                  },
+                  {
+                    "id": "419",
+                    "parent": "416",
+                    "text": "• Deterioro cognitivo",
+                    "guid": "W0QXSnhbpkYyKLFkL99_-A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "420",
+                "parent": "414",
+                "text": "→ Ajuste tto:",
+                "guid": "Wsfqi1Esdi1ZYxzRe7JA6A",
+                "children": [
+                  {
+                    "id": "421",
+                    "parent": "420",
+                    "text": "• ↓dosis inicial",
+                    "guid": "CI8YPUNDQBt7kItEMloXwA",
+                    "children": []
+                  },
+                  {
+                    "id": "422",
+                    "parent": "420",
+                    "text": "• Monitoreo estrecho",
+                    "guid": "XaUMERx66PENJPDjHCBrwA",
+                    "children": []
+                  },
+                  {
+                    "id": "423",
+                    "parent": "420",
+                    "text": "• Control RAM (2)",
+                    "guid": "EglZZTQSjHYDq4N3d2Neaw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "424",
+            "parent": "413",
+            "text": "CRISIS TIROIDEA",
+            "guid": "H6pkkjKtattD37BURrHTNw",
+            "children": [
+              {
+                "id": "425",
+                "parent": "424",
+                "text": "→ Mortalidad: 10-20%",
+                "guid": "T-Q11FrD4BswDWZgdLpBng",
+                "children": []
+              },
+              {
+                "id": "426",
+                "parent": "424",
+                "text": "→ Manifestaciones\ngraves:",
+                "guid": "WX3p7ilHXaF48apiHWOhXA",
+                "children": [
+                  {
+                    "id": "427",
+                    "parent": "426",
+                    "text": "• Alteración conciencia",
+                    "guid": "YUpvKlm_ZkATTDR0EpQmFw",
+                    "children": []
+                  },
+                  {
+                    "id": "428",
+                    "parent": "426",
+                    "text": "• IC",
+                    "guid": "KrFRsnBvDHQpqM0QTiugtQ",
+                    "children": []
+                  },
+                  {
+                    "id": "429",
+                    "parent": "426",
+                    "text": "• Hipertermia",
+                    "guid": "LHU0wiIyezAUSPhgEIULsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "430",
+                    "parent": "426",
+                    "text": "• Convulsiones",
+                    "guid": "A-QlIUSBs8djnAYBdCtkKg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "431",
+                "parent": "424",
+                "text": "→ Desencadenantes:",
+                "guid": "JNtX8Gj7Eq0ypk1URIW8gw",
+                "children": [
+                  {
+                    "id": "432",
+                    "parent": "431",
+                    "text": "• Infecciones",
+                    "guid": "G6h9iHaF_agLN4-6a4yzXA",
+                    "children": []
+                  },
+                  {
+                    "id": "433",
+                    "parent": "431",
+                    "text": "• Cirugías",
+                    "guid": "UUndxDtE9hpgRvT7MpRM7g",
+                    "children": []
+                  },
+                  {
+                    "id": "434",
+                    "parent": "431",
+                    "text": "• SCA",
+                    "guid": "FQRcWnOTKW9FKHMFP7WuDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "435",
+                    "parent": "431",
+                    "text": "• TEP",
+                    "guid": "ZAI1427RQBUN4U7CEHdqpQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "436",
+            "parent": "413",
+            "text": "CARDIOVASCULARES",
+            "guid": "EQO7RSIqRyIg_HZWFOfgZw",
+            "children": [
+              {
+                "id": "437",
+                "parent": "436",
+                "text": "→ FA (más frecuente)",
+                "guid": "Zqv66gSYfFcJE0SRQCnk2A",
+                "children": []
+              },
+              {
+                "id": "438",
+                "parent": "436",
+                "text": "→ IC",
+                "guid": "Ld_Z-AIE7vNdjYY0Ursx6Q",
+                "children": []
+              },
+              {
+                "id": "439",
+                "parent": "436",
+                "text": "→ Eventos\nmayores:",
+                "guid": "Xb10QVJ8J4EKl_vkcsHQmw",
+                "children": [
+                  {
+                    "id": "440",
+                    "parent": "439",
+                    "text": "• ↑ antitiroideos",
+                    "guid": "awABoRAz04kXQO5sBqh_KQ",
+                    "children": []
+                  },
+                  {
+                    "id": "441",
+                    "parent": "439",
+                    "text": "• ↓ cirugía/RAI",
+                    "guid": "BrnRMSJ4fiZyNTKGWAOu9Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "442",
+            "parent": "413",
+            "text": "RAM TRATAMIENTOS",
+            "guid": "Rg9Q8E_Abukyd36oKhGG1A",
+            "children": [
+              {
+                "id": "443",
+                "parent": "442",
+                "text": "→ Antitiroideos:",
+                "guid": "PpGu_0BYzWo6iPF5T5VqRA",
+                "children": [
+                  {
+                    "id": "444",
+                    "parent": "443",
+                    "text": "• Agranulocitosis",
+                    "guid": "YoMUjVuFZ9BkfUqrSS8Pdw",
+                    "children": []
+                  },
+                  {
+                    "id": "445",
+                    "parent": "443",
+                    "text": "• Hepatitis",
+                    "guid": "YB3kJ22Qjz0JWPRPDf2-IA",
+                    "children": []
+                  },
+                  {
+                    "id": "446",
+                    "parent": "443",
+                    "text": "• Vasculitis",
+                    "guid": "b5V-MGbmeoRguPAJWpV_0Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "447",
+                "parent": "442",
+                "text": "→ RAI:",
+                "guid": "dxpODXf53nVhPf77fdQfPg",
+                "children": [
+                  {
+                    "id": "448",
+                    "parent": "447",
+                    "text": "• Hipotiroidismo",
+                    "guid": "GnJcm1NzMYFV1840eC_Q3A",
+                    "children": []
+                  },
+                  {
+                    "id": "449",
+                    "parent": "447",
+                    "text": "• Oftalmopatía",
+                    "guid": "Je9ZAmBvyhhq8aF4a_6p8g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "450",
+                "parent": "442",
+                "text": "→ Cirugía:",
+                "guid": "MDA5AR1pICAWEDDGbsHoAA",
+                "children": [
+                  {
+                    "id": "451",
+                    "parent": "450",
+                    "text": "• Hipoparatiroidismo",
+                    "guid": "XcHti1CZIkA-V1JFQEUCGA",
+                    "children": []
+                  },
+                  {
+                    "id": "452",
+                    "parent": "450",
+                    "text": "• Lesión recurrente",
+                    "guid": "LB6KECLUnPAJdBGPDDxuNw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "453",
+        "parent": "0",
+        "text": "PRONÓSTICO",
+        "guid": "FgEkgg9CeM0nRpCjFl3WnA",
+        "children": [
+          {
+            "id": "454",
+            "parent": "453",
+            "text": "X TRATAMIENTO",
+            "guid": "ODyoFH7-1K834snSV-d-GA",
+            "children": [
+              {
+                "id": "455",
+                "parent": "454",
+                "text": "→ Antitiroideos:",
+                "guid": "Lu4sRhvbHc09Rn7iQlDh7A",
+                "children": [
+                  {
+                    "id": "456",
+                    "parent": "455",
+                    "text": "• Remisión: 45.3%",
+                    "guid": "XJpz8TQfaodafCMYT84QKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "457",
+                    "parent": "455",
+                    "text": "• Recaída: 50.3%",
+                    "guid": "F3lby10-2SJQsl6xd4whHg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "458",
+                "parent": "454",
+                "text": "→ RAI:",
+                "guid": "VVFzXisElYcFvuaPIoYgGA",
+                "children": [
+                  {
+                    "id": "459",
+                    "parent": "458",
+                    "text": "• Remisión: 81.5%",
+                    "guid": "OGvUkSq4ZpVoirScPjsTJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "460",
+                    "parent": "458",
+                    "text": "• Hipotiroidismo: 77.3%",
+                    "guid": "VvgMTU0__3MttiIkLvR9ig",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "461",
+                "parent": "454",
+                "text": "→ Cirugía:",
+                "guid": "G45lWy2FvYQXWAkPU8sNbw",
+                "children": [
+                  {
+                    "id": "462",
+                    "parent": "461",
+                    "text": "• Remisión: 96.3%",
+                    "guid": "LISSM0860uErsouIW3K-eQ",
+                    "children": []
+                  },
+                  {
+                    "id": "463",
+                    "parent": "461",
+                    "text": "• Hipotiroidismo: 96.2%",
+                    "guid": "axXwr2j5Cmodw6BlR7BkoA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "464",
+            "parent": "453",
+            "text": "FACTORES\nPRONÓSTICOS",
+            "guid": "HRh08Xg_w30XfnTJNJHQvQ",
+            "children": [
+              {
+                "id": "465",
+                "parent": "464",
+                "text": "→ Favorables:",
+                "guid": "VX6coGgw03osHfHbKtAP_g",
+                "children": [
+                  {
+                    "id": "466",
+                    "parent": "465",
+                    "text": "• Dx precoz",
+                    "guid": "EzVpATHc2GpNVjAWS6E9kg",
+                    "children": []
+                  },
+                  {
+                    "id": "467",
+                    "parent": "465",
+                    "text": "• Adherencia",
+                    "guid": "XJU-_zXg5LIJ3FC4M41LTA",
+                    "children": []
+                  },
+                  {
+                    "id": "468",
+                    "parent": "465",
+                    "text": "• Control temprano",
+                    "guid": "AyDkJjeSctxigcjWHq9JgQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "469",
+                "parent": "464",
+                "text": "→ Desfavorables:",
+                "guid": "ZRgwYHnZ0eVyelbxEZzCkw",
+                "children": [
+                  {
+                    "id": "470",
+                    "parent": "469",
+                    "text": "• Edad avanzada",
+                    "guid": "SRSkxx4s4nltD4ENNCqVdg",
+                    "children": []
+                  },
+                  {
+                    "id": "471",
+                    "parent": "469",
+                    "text": "• Comorbilidades CV",
+                    "guid": "ByXs4wrTIXJ72voWJD5h1A",
+                    "children": []
+                  },
+                  {
+                    "id": "472",
+                    "parent": "469",
+                    "text": "• FA establecida (1,2)",
+                    "guid": "AxLk8BNZbt9Y0DKRWJGBkA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "473",
+            "parent": "453",
+            "text": "SEGUIMIENTO",
+            "guid": "e4pCWgTuJGwDYZGODr-rWw",
+            "children": [
+              {
+                "id": "474",
+                "parent": "473",
+                "text": "→ Monitoreo:",
+                "guid": "eUaebFG_cggqngyVcoXs0A",
+                "children": [
+                  {
+                    "id": "475",
+                    "parent": "474",
+                    "text": "• TSH/T4L/T3",
+                    "guid": "AFyyGT4tDxYSh9OkIJgEuw",
+                    "children": []
+                  },
+                  {
+                    "id": "476",
+                    "parent": "474",
+                    "text": "• Función hepática",
+                    "guid": "QbMitV2reHAGQ2_VB8yqwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "477",
+                    "parent": "474",
+                    "text": "• Hemograma",
+                    "guid": "dbC1LBeu6P4njry-CzRLYw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "478",
+                "parent": "473",
+                "text": "→ Frecuencia:",
+                "guid": "a3RSRSB14eZaCYAscCUiPA",
+                "children": [
+                  {
+                    "id": "479",
+                    "parent": "478",
+                    "text": "• Inicial: 4-6 sem",
+                    "guid": "QhgfUz6XfCxzl-sMM5f_dg",
+                    "children": []
+                  },
+                  {
+                    "id": "480",
+                    "parent": "478",
+                    "text": "• Estable: 3-6 meses (3)",
+                    "guid": "GyLo0AT2JE8bJ4HJLuEU-A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "481",
+        "parent": "0",
+        "text": "HIPERTIROIDISMO\nSUBCLÍNICO",
+        "guid": "ICJn5D6T8lF9h7AAFYlZ2w",
+        "children": [
+          {
+            "id": "482",
+            "parent": "481",
+            "text": "DEFINICIÓN\nBIOQUÍMICA",
+            "guid": "ebOAYnrzHGBakCovcM3Obw",
+            "children": [
+              {
+                "id": "483",
+                "parent": "482",
+                "text": "→ TSH ↓ (<0.5 mU/L)",
+                "guid": "cuz61TvOKSpuoe2uDV9XcQ",
+                "children": []
+              },
+              {
+                "id": "484",
+                "parent": "482",
+                "text": "→ T4L normal",
+                "guid": "D0Faq0R5u-IFjyhNNTCzrQ",
+                "children": []
+              },
+              {
+                "id": "485",
+                "parent": "482",
+                "text": "→ T3 normal",
+                "guid": "JOmF-nCAycUhL12gVRm--w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "486",
+            "parent": "481",
+            "text": "ETIOLOGÍA",
+            "guid": "Denp5jc_jmZD26b8a6vXcQ",
+            "children": [
+              {
+                "id": "487",
+                "parent": "486",
+                "text": "→ Exógeno:",
+                "guid": "B9iwpgIy-UEr8NmJM_c6tg",
+                "children": [
+                  {
+                    "id": "488",
+                    "parent": "487",
+                    "text": "• Exceso hormona tiroidea (25%)",
+                    "guid": "JQeWMTVk6xhAM6juNWzCXw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "489",
+                "parent": "486",
+                "text": "→ Endógeno:",
+                "guid": "SDHw9lpt1UU1Z2y9QeVxWQ",
+                "children": [
+                  {
+                    "id": "490",
+                    "parent": "489",
+                    "text": "• Adenomas autónomos",
+                    "guid": "VWDxpg_3luwysz_ISE3sew",
+                    "children": []
+                  },
+                  {
+                    "id": "491",
+                    "parent": "489",
+                    "text": "• BMN (22%)",
+                    "guid": "S8XAFyFVLXZVrUPsWwcawg",
+                    "children": []
+                  },
+                  {
+                    "id": "492",
+                    "parent": "489",
+                    "text": "• Tiroiditis",
+                    "guid": "Zc7pWFs8bDoQN85wCrhvUg",
+                    "children": []
+                  },
+                  {
+                    "id": "493",
+                    "parent": "489",
+                    "text": "• Graves inicial",
+                    "guid": "S701_zFnLBBf0i5OWacf5Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "494",
+            "parent": "481",
+            "text": "CONSECUENCIAS",
+            "guid": "aKa6diOt1UpFUvdWcH9rHQ",
+            "children": [
+              {
+                "id": "495",
+                "parent": "494",
+                "text": "→ Progresión a\nH.manifiesto:",
+                "guid": "JeDOi3FD0N8kdqXTSuhkvA",
+                "children": [
+                  {
+                    "id": "496",
+                    "parent": "495",
+                    "text": "• 0.5-8% anual",
+                    "guid": "Jqi792SqTsEAVScbbtqs7g",
+                    "children": []
+                  },
+                  {
+                    "id": "497",
+                    "parent": "495",
+                    "text": "• ↑riesgo si TSH <0.1",
+                    "guid": "PxgkBzW8k9gwwB5HFHkVrQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "498",
+                "parent": "494",
+                "text": "→ Órganos diana:",
+                "guid": "RbQqxWNzXg9cxwIoEXnq3A",
+                "children": [
+                  {
+                    "id": "499",
+                    "parent": "498",
+                    "text": "• Óseo: ↑resorción cortical",
+                    "guid": "BMiLhjJ0RhVsgQWeapd03g",
+                    "children": []
+                  },
+                  {
+                    "id": "500",
+                    "parent": "498",
+                    "text": "• CV: FA (HR 1.68)",
+                    "guid": "DbCyT3y41A51T-QxWW3oTg",
+                    "children": []
+                  },
+                  {
+                    "id": "501",
+                    "parent": "498",
+                    "text": "• IC (HR 1.94)",
+                    "guid": "LiAAHlUiEn8zFQg0Fsa6lQ",
+                    "children": []
+                  },
+                  {
+                    "id": "502",
+                    "parent": "498",
+                    "text": "• Demencia (RR 1.67)",
+                    "guid": "eM_nyXhn_4oHRiWyHrC2VA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "503",
+            "parent": "481",
+            "text": "MANEJO",
+            "guid": "aavQaiu8y4VpmRsQEFSMYQ",
+            "children": [
+              {
+                "id": "504",
+                "parent": "503",
+                "text": "EVALUACIÓN\nINICIAL",
+                "guid": "BpimV2Q9OaZG7YchCbmKfQ",
+                "children": [
+                  {
+                    "id": "505",
+                    "parent": "504",
+                    "text": "→ Confirmar diagnóstico:",
+                    "guid": "G8-sgilvT_goaNP-AOfc4g",
+                    "children": [
+                      {
+                        "id": "506",
+                        "parent": "505",
+                        "text": "• TSH ↓ + T4L/T3L normales",
+                        "guid": "I0kh3RrjKu8ShJ91bF3GpA",
+                        "children": []
+                      },
+                      {
+                        "id": "507",
+                        "parent": "505",
+                        "text": "• Repetir 1-3 meses",
+                        "guid": "ORANaH-UIIIgiFwaQDX6Sw",
+                        "children": []
+                      },
+                      {
+                        "id": "508",
+                        "parent": "505",
+                        "text": "• Descartar causas transitorias",
+                        "guid": "CmdB9RxjVjBkdFwgDXom5Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "509",
+                    "parent": "504",
+                    "text": "→ Bajo riesgo\n(observar):",
+                    "guid": "YBLFUngSmjtaUjbWDjLFcQ",
+                    "children": [
+                      {
+                        "id": "510",
+                        "parent": "509",
+                        "text": "• <65a",
+                        "guid": "TTSsug1nPwok-YAGRgSUgw",
+                        "children": []
+                      },
+                      {
+                        "id": "511",
+                        "parent": "509",
+                        "text": "• Asintomático",
+                        "guid": "Bc8-lCw_pbhktUrXb3sO_g",
+                        "children": []
+                      },
+                      {
+                        "id": "512",
+                        "parent": "509",
+                        "text": "• TSH >0.1",
+                        "guid": "V_xxPU5OZeh_z5tgaGOLhA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "513",
+                    "parent": "504",
+                    "text": "→ Alto riesgo (tratar):",
+                    "guid": "EGcaR2nuQix_LzlPT38-Tg",
+                    "children": [
+                      {
+                        "id": "514",
+                        "parent": "513",
+                        "text": "• ≥65a",
+                        "guid": "H6rWBC_vV5Zj-FP7ZV8AyQ",
+                        "children": []
+                      },
+                      {
+                        "id": "515",
+                        "parent": "513",
+                        "text": "• ECV",
+                        "guid": "E2K1pkC_ViN22OulGCtBLA",
+                        "children": []
+                      },
+                      {
+                        "id": "516",
+                        "parent": "513",
+                        "text": "• Osteoporosis",
+                        "guid": "czOcOGNZ8UQCwrYKAOROhw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "517",
+                "parent": "503",
+                "text": "OPCIONES\nTERAPÉUTICAS",
+                "guid": "Q5vft1QpNCl_2M_YQFaimg",
+                "children": [
+                  {
+                    "id": "518",
+                    "parent": "517",
+                    "text": "• Antitiroideos\ndosis bajas",
+                    "guid": "PRYsyWy8MsEbn5jeZItLfg",
+                    "children": [
+                      {
+                        "id": "519",
+                        "parent": "518",
+                        "text": "→ Metimazol\n(1ª elección):",
+                        "guid": "ML9vSjyjWEV6ErpUd8ij7Q",
+                        "children": [
+                          {
+                            "id": "520",
+                            "parent": "519",
+                            "text": "• Dosis inicial: 5-10mg/d",
+                            "guid": "UdiG21ptQa9MlQP5Du6zpA",
+                            "children": []
+                          },
+                          {
+                            "id": "521",
+                            "parent": "519",
+                            "text": "• Ajuste según respuesta",
+                            "guid": "Ryl0cGg0nNhzef8jYM-usQ",
+                            "children": []
+                          },
+                          {
+                            "id": "522",
+                            "parent": "519",
+                            "text": "• Meta: TSH >0.4 mUI/L",
+                            "guid": "Ct1o1Anhq0xDw0ajGQPEDQ",
+                            "children": []
+                          },
+                          {
+                            "id": "523",
+                            "parent": "519",
+                            "text": "• Monitoreo c/4-6 sem",
+                            "guid": "X5_fBB_BAVVP7D02WsBCwQ",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "524",
+                        "parent": "518",
+                        "text": "→ Propiltiouracilo:",
+                        "guid": "IA_mMXHJh2tksBCGfran_g",
+                        "children": [
+                          {
+                            "id": "525",
+                            "parent": "524",
+                            "text": "• Solo si CI metimazol",
+                            "guid": "d5lSojeUQ_lQHOJubbmKpQ",
+                            "children": []
+                          },
+                          {
+                            "id": "526",
+                            "parent": "524",
+                            "text": "• Dosis: 50-100mg/d",
+                            "guid": "FCp_GgznatsndaJeROnuZA",
+                            "children": []
+                          },
+                          {
+                            "id": "527",
+                            "parent": "524",
+                            "text": "• Embarazo 1er trimestre (1)",
+                            "guid": "SYrDICGIXLI8spJRG2NJ_A",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "528",
+                    "parent": "517",
+                    "text": "β-BLOQUEANTES",
+                    "guid": "e_WeYglHlksqUf2gQx8S0g",
+                    "children": [
+                      {
+                        "id": "529",
+                        "parent": "528",
+                        "text": "→ Propranolol:",
+                        "guid": "J62oD2eyCCcVXWAEB02HFA",
+                        "children": [
+                          {
+                            "id": "530",
+                            "parent": "529",
+                            "text": "• 20-40mg/12h",
+                            "guid": "B3MJfGVJnTpiDcnVJ4LvrQ",
+                            "children": []
+                          },
+                          {
+                            "id": "531",
+                            "parent": "529",
+                            "text": "• Si síntomas adrenérgicos",
+                            "guid": "VxMkpka92lsmOZerTqx3SA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "532",
+                        "parent": "528",
+                        "text": "→ Atenolol:",
+                        "guid": "flIeVXZWehk8ZgHtEnydbw",
+                        "children": [
+                          {
+                            "id": "533",
+                            "parent": "532",
+                            "text": "• 25-50mg/d",
+                            "guid": "Az3k9GPbpExXZovUTMioFQ",
+                            "children": []
+                          },
+                          {
+                            "id": "534",
+                            "parent": "532",
+                            "text": "• Preferente en ancianos",
+                            "guid": "BWQA_hQZHiVoK_IRAVmfYA",
+                            "children": []
+                          },
+                          {
+                            "id": "535",
+                            "parent": "532",
+                            "text": "• Si cardiopatía",
+                            "guid": "HWC0cBJ977FEeLIzDtznkw",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "536",
+                    "parent": "517",
+                    "text": "• RAI si BMN/adenoma",
+                    "guid": "GaY6QSKoy_wWZ6wpYvOX8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "537",
+                "parent": "503",
+                "text": "AJUSTE\nDOSIS",
+                "guid": "MEnsdWhnc7cLNoOKV_eUhA",
+                "children": [
+                  {
+                    "id": "538",
+                    "parent": "537",
+                    "text": "→ Ancianos:",
+                    "guid": "UBl73iCT449fRRuYV4yFWg",
+                    "children": [
+                      {
+                        "id": "539",
+                        "parent": "538",
+                        "text": "• Iniciar 50% dosis",
+                        "guid": "Bd2AyUFS5W5_D3UHXPClbw",
+                        "children": []
+                      },
+                      {
+                        "id": "540",
+                        "parent": "538",
+                        "text": "• Titular gradual",
+                        "guid": "CBC_ySVJDLMrnRy4BmLeHg",
+                        "children": []
+                      },
+                      {
+                        "id": "541",
+                        "parent": "538",
+                        "text": "• Monitoreo RAM",
+                        "guid": "G5-GzGgDHqUY33uOHt1rwQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "542",
+                    "parent": "537",
+                    "text": "→ Cardiopatía:",
+                    "guid": "S97C8XBGB2JrphPWUULD8A",
+                    "children": [
+                      {
+                        "id": "543",
+                        "parent": "542",
+                        "text": "• β-bloqueantes cardioselectivos",
+                        "guid": "BF8lh1PSBedSnGNQIb_Z-A",
+                        "children": []
+                      },
+                      {
+                        "id": "544",
+                        "parent": "542",
+                        "text": "• Control FC/PA",
+                        "guid": "Zk_1mBcVFYMwnMGLFpniDQ",
+                        "children": []
+                      },
+                      {
+                        "id": "545",
+                        "parent": "542",
+                        "text": "• ECG seriado (3)",
+                        "guid": "f3yJOjvTRRZukXaST5YFGA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "546",
+            "parent": "481",
+            "text": "SEGUIMIENTO",
+            "guid": "",
+            "children": [
+              {
+                "id": "547",
+                "parent": "546",
+                "text": "→ Observación:",
+                "guid": "fsH42k_dorZ3_XClDetwcg",
+                "children": [
+                  {
+                    "id": "548",
+                    "parent": "547",
+                    "text": "• TSH/T4L/T3L c/6 meses",
+                    "guid": "dg-iMDcyv4MlJafUQYquXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "549",
+                    "parent": "547",
+                    "text": "• DMO c/2-3 años",
+                    "guid": "IgUrGULCvVUopUFXdNq1VA",
+                    "children": []
+                  },
+                  {
+                    "id": "550",
+                    "parent": "547",
+                    "text": "• ECG anual",
+                    "guid": "eT9OYy6dQBETjwKBIAHm1A",
+                    "children": []
+                  },
+                  {
+                    "id": "551",
+                    "parent": "547",
+                    "text": "• Evaluar progresión",
+                    "guid": "IDtSogOGE55LI6TMZatrGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "552",
+                "parent": "546",
+                "text": "→ En tratamiento:",
+                "guid": "RhmIDBgFPLwRa3kpH8IR_Q",
+                "children": [
+                  {
+                    "id": "553",
+                    "parent": "552",
+                    "text": "• Control 4-8 semanas",
+                    "guid": "FYOWN1PFaUd45yUoTtU0yQ",
+                    "children": []
+                  },
+                  {
+                    "id": "554",
+                    "parent": "552",
+                    "text": "• Ajuste dosis según TSH",
+                    "guid": "BLDP9iGiPWxkjfv_A3LI0A",
+                    "children": []
+                  },
+                  {
+                    "id": "555",
+                    "parent": "552",
+                    "text": "• Vigilar RAM",
+                    "guid": "cX_gI1yLbKQRXjlDZ4-CUw",
+                    "children": []
+                  },
+                  {
+                    "id": "556",
+                    "parent": "552",
+                    "text": "• Monitoreo CV",
+                    "guid": "E74sJzaD4RcpGjCxNcNXQA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "557",
+        "parent": "0",
+        "text": "GRUPOS\nESPECIALES",
+        "guid": "VOg0Kz5-EhgYXt1HQFyGcA",
+        "children": [
+          {
+            "id": "558",
+            "parent": "557",
+            "text": "EMBARAZADAS",
+            "guid": "XvPz_nJoXXMwgaisIQwTUQ",
+            "children": [
+              {
+                "id": "559",
+                "parent": "558",
+                "text": "→ Causas:",
+                "guid": "MP_ZnyQZk7lUpBLHTCLCcA",
+                "children": [
+                  {
+                    "id": "560",
+                    "parent": "559",
+                    "text": "• E.Graves",
+                    "guid": "KQ-4CG_LlJF7A9doZIm9bw",
+                    "children": []
+                  },
+                  {
+                    "id": "561",
+                    "parent": "559",
+                    "text": "• Hiperémesis",
+                    "guid": "NA1HC1-oQ6AZSmFDSg5rjg",
+                    "children": []
+                  },
+                  {
+                    "id": "562",
+                    "parent": "559",
+                    "text": "• hCG elevada",
+                    "guid": "buq8bkCQ8eZgbEIqPFpEUg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "563",
+                "parent": "558",
+                "text": "→ Tratamiento:",
+                "guid": "el9WLhdiHYFLfO7rEdky5Q",
+                "children": [
+                  {
+                    "id": "564",
+                    "parent": "563",
+                    "text": "• 1er trimestre: PTU",
+                    "guid": "VJtormJsREUfA8TJKYOc2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "565",
+                    "parent": "563",
+                    "text": "• >14 sem: metimazol",
+                    "guid": "IOpWXTdiohBp4CNJf95KWw",
+                    "children": []
+                  },
+                  {
+                    "id": "566",
+                    "parent": "563",
+                    "text": "• ↓dosis último trimestre",
+                    "guid": "Kcr_gxphy_Yg6l2tWsrZIw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "567",
+            "parent": "557",
+            "text": "CRISIS TIROIDEA",
+            "guid": "NR-PCHRAYhtIIikWWw-3WQ",
+            "children": [
+              {
+                "id": "568",
+                "parent": "567",
+                "text": "→ UCI obligatorio",
+                "guid": "OCJb5HUA4HJ7XzXXE2ZzLg",
+                "children": []
+              },
+              {
+                "id": "569",
+                "parent": "567",
+                "text": "→ Tto específico:",
+                "guid": "bVyGuC2H5ztDRfMnSCRxRA",
+                "children": [
+                  {
+                    "id": "570",
+                    "parent": "569",
+                    "text": "• PTU/metimazol",
+                    "guid": "frRdaBypD_hD1rIsB0N1pQ",
+                    "children": []
+                  },
+                  {
+                    "id": "571",
+                    "parent": "569",
+                    "text": "• β-bloqueantes",
+                    "guid": "X-xQEz9nPXA5nY1mPZFcJA",
+                    "children": []
+                  },
+                  {
+                    "id": "572",
+                    "parent": "569",
+                    "text": "• Corticoides",
+                    "guid": "W-ImYUbCfklZscfkbet_xw",
+                    "children": []
+                  },
+                  {
+                    "id": "573",
+                    "parent": "569",
+                    "text": "• Lugol/amiodarona",
+                    "guid": "etUKwF1dS1xlTt4yUNkKMQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "574",
+                "parent": "567",
+                "text": "→ Soporte vital (3)",
+                "guid": "LR2j-nYZiK4odsA-Yj0zAw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "575",
+        "parent": "0",
+        "text": "OFTALMOPATÍA",
+        "guid": "alnqyXCY6VU9TOpcInxGrQ",
+        "children": [
+          {
+            "id": "576",
+            "parent": "575",
+            "text": "FISIOPATOLOGÍA",
+            "guid": "",
+            "children": [
+              {
+                "id": "577",
+                "parent": "576",
+                "text": "• Autoinmunidad compartida tiroides-órbita",
+                "guid": "A-X0qyb6pMQLACDGIj6mDA",
+                "children": []
+              },
+              {
+                "id": "578",
+                "parent": "576",
+                "text": "• Receptor TSH en fibroblastos orbitarios",
+                "guid": "TMQMpz5PifkceX3OOU_y0w",
+                "children": []
+              },
+              {
+                "id": "579",
+                "parent": "576",
+                "text": "• ↑ producción glucosaminoglicanos",
+                "guid": "S1C7EQSf1VcgsOPANa83hA",
+                "children": []
+              },
+              {
+                "id": "580",
+                "parent": "576",
+                "text": "• Infiltración linfocitaria",
+                "guid": "UhULEljq3t5NK1fyFaPJew",
+                "children": []
+              },
+              {
+                "id": "581",
+                "parent": "576",
+                "text": "• ↑ volumen músculo/grasa orbitaria",
+                "guid": "OZuaOkbkq2NDjHKtCuU-7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "582",
+            "parent": "575",
+            "text": "SOSPECHA\nDIAGNÓSTICA",
+            "guid": "b1Zg43O2sGp39P0rb_GTXg",
+            "children": [
+              {
+                "id": "583",
+                "parent": "582",
+                "text": "En general",
+                "guid": "f_zNZk1IlhBzSyLnG83z-w",
+                "children": [
+                  {
+                    "id": "584",
+                    "parent": "583",
+                    "text": "→ Clinica",
+                    "guid": "aKjQPmhJDrhinTnyJpMZ8w",
+                    "children": [
+                      {
+                        "id": "585",
+                        "parent": "584",
+                        "text": "• Proptosis",
+                        "guid": "I1n_aj_dKTI9CuuUADLT-A",
+                        "children": []
+                      },
+                      {
+                        "id": "586",
+                        "parent": "584",
+                        "text": "• Retracción palpebral",
+                        "guid": "XW7ykX1HtFkXtRPXVNomsA",
+                        "children": []
+                      },
+                      {
+                        "id": "587",
+                        "parent": "584",
+                        "text": "• Diplopía",
+                        "guid": "GYEcpg8t2rJgCl0RKHKsSQ",
+                        "children": []
+                      },
+                      {
+                        "id": "588",
+                        "parent": "584",
+                        "text": "• Dolor ocular",
+                        "guid": "WK5Q3Hc6ty9dUWjgH5eReg",
+                        "children": []
+                      },
+                      {
+                        "id": "589",
+                        "parent": "584",
+                        "text": "• ↓ agudeza visual",
+                        "guid": "XfcRmG_yLV8v-5tyDXqAWw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "590",
+                    "parent": "583",
+                    "text": "→ Asociación temporal con tirotoxicosis",
+                    "guid": "aj7fzi7XTIlMK299a8UvrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "591",
+                    "parent": "583",
+                    "text": "→ TRAb (+)",
+                    "guid": "esMcvSdU9mVXnz8rfTzC-Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "592",
+                "parent": "582",
+                "text": "CLÍNICA",
+                "guid": "QqwhdRd6Yx5mp2kdRGxtCg",
+                "children": [
+                  {
+                    "id": "593",
+                    "parent": "592",
+                    "text": "→ Síntomas:",
+                    "guid": "JGe7ixwySTVxaoYVAhke3A",
+                    "children": [
+                      {
+                        "id": "594",
+                        "parent": "593",
+                        "text": "• Dolor retroocular/movimientos",
+                        "guid": "QGRJDBy8ilVcpXCjV_jKog",
+                        "children": []
+                      },
+                      {
+                        "id": "595",
+                        "parent": "593",
+                        "text": "• Diplopía",
+                        "guid": "G6eO0F7EZ9tMEgncahiD0Q",
+                        "children": [
+                          {
+                            "id": "596",
+                            "parent": "595",
+                            "text": "→ Cover test:",
+                            "guid": "Kre2_GkiO-Z77PBMKBt4rQ",
+                            "children": [
+                              {
+                                "id": "597",
+                                "parent": "596",
+                                "text": "• Evalúa alineamiento ocular",
+                                "guid": "O8FEO2rp93wSWjenSwR63Q",
+                                "children": []
+                              },
+                              {
+                                "id": "598",
+                                "parent": "596",
+                                "text": "• Detecta forias/tropias",
+                                "guid": "HiPKIzQumZ8-AwneMtfkOQ",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "599",
+                            "parent": "595",
+                            "text": "→ Restricción\nmuscular:",
+                            "guid": "fNrudXNigb5TmQA6J5KlcQ",
+                            "children": [
+                              {
+                                "id": "600",
+                                "parent": "599",
+                                "text": "• Recto inferior: más común",
+                                "guid": "XIS9pE-F8IdPrh4eGEYB3w",
+                                "children": []
+                              },
+                              {
+                                "id": "601",
+                                "parent": "599",
+                                "text": "• Recto medial: segundo",
+                                "guid": "Om_oA2IIVcVjSny9WJOyJg",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "602",
+                        "parent": "593",
+                        "text": "• Fotofobia",
+                        "guid": "MJF9MVhxSvVy-WDWZGboTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "603",
+                        "parent": "593",
+                        "text": "• Sensación cuerpo extraño",
+                        "guid": "SBsIzFRt8AIuc0LOWRJNPg",
+                        "children": []
+                      },
+                      {
+                        "id": "604",
+                        "parent": "593",
+                        "text": "• ↓ agudeza visual (tardío)",
+                        "guid": "QU4VjTkWzO58LBFIZW2TkQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "605",
+                    "parent": "592",
+                    "text": "→ Retracción\npalpebral:",
+                    "guid": "L3yIDyet_VBoJS0CC81AKQ",
+                    "children": [
+                      {
+                        "id": "606",
+                        "parent": "605",
+                        "text": "• Dalrymple: mirada fija/párpado superior retraído",
+                        "guid": "bNr9STykLk5EPMt2N5Wi_g",
+                        "children": []
+                      },
+                      {
+                        "id": "607",
+                        "parent": "605",
+                        "text": "• Graefe: retraso párpado superior al mirar abajo",
+                        "guid": "Y7tYXmF6R3BUXUSkP9NgHQ",
+                        "children": []
+                      },
+                      {
+                        "id": "608",
+                        "parent": "605",
+                        "text": "• Von Graefe: párpado superior no sigue globo en infraversión",
+                        "guid": "ZEfDyEsa_TFIZlJUOhcZ_w",
+                        "children": []
+                      },
+                      {
+                        "id": "609",
+                        "parent": "605",
+                        "text": "• Grove: resistencia a tracción inferior del párpado superior",
+                        "guid": "Vire4GfQoBQKVRXWUJ_c5w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "610",
+                    "parent": "592",
+                    "text": "→ Neurooftalmologia",
+                    "guid": "F7AMAQqvdN1me--LEOXRjQ",
+                    "children": [
+                      {
+                        "id": "611",
+                        "parent": "610",
+                        "text": "→ DPAR (Defecto Pupilar\nAferente Relativo):",
+                        "guid": "NnOT-yNMLzoCfsbHJcn03g",
+                        "children": [
+                          {
+                            "id": "612",
+                            "parent": "611",
+                            "text": "• Test luz oscilante",
+                            "guid": "FwLfpXpzw_MVu4g8BvFEAQ",
+                            "children": []
+                          },
+                          {
+                            "id": "613",
+                            "parent": "611",
+                            "text": "• (+): sugiere compresión N. óptico",
+                            "guid": "M7M-91W1xGBqedtSYy_HBg",
+                            "children": []
+                          },
+                          {
+                            "id": "614",
+                            "parent": "611",
+                            "text": "• Asimetría conducción aferente",
+                            "guid": "fWPBsFKfCFRu_Qcwaj6--g",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "615",
+                        "parent": "610",
+                        "text": "→ Discromatopsia:",
+                        "guid": "D0M2ojM50qYh1GH4cv6PAQ",
+                        "children": [
+                          {
+                            "id": "616",
+                            "parent": "615",
+                            "text": "• Alteración visión colores",
+                            "guid": "FLQaFnYxppwy0e8eePvd3g",
+                            "children": []
+                          },
+                          {
+                            "id": "617",
+                            "parent": "615",
+                            "text": "• Secuencia:",
+                            "guid": "QUyjzXs4QXMzEvfdF3eCrQ",
+                            "children": [
+                              {
+                                "id": "618",
+                                "parent": "617",
+                                "text": "- Rojo-verde inicial",
+                                "guid": "Ywjhhz1oDbNoF1-UGXx1gg",
+                                "children": []
+                              },
+                              {
+                                "id": "619",
+                                "parent": "617",
+                                "text": "- Azul-amarillo tardío",
+                                "guid": "YLQ87mqWJlw_Rmpgd7cckw",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "620",
+                            "parent": "615",
+                            "text": "• Indica compresión N. óptico",
+                            "guid": "ZQnqT1UB8px-qGCUGL0pRg",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "621",
+                        "parent": "610",
+                        "text": "• Defectos campo visual",
+                        "guid": "ZR2EciJUnBcq4k96Sp3EsA",
+                        "children": []
+                      },
+                      {
+                        "id": "622",
+                        "parent": "610",
+                        "text": "• Edema papila",
+                        "guid": "AHf7nS3KS0x4OQ27MwlLJg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "623",
+                    "parent": "592",
+                    "text": "→ Signos\ninflamatorios:",
+                    "guid": "b_5qtR11j1sfsyQCVk6C2Q",
+                    "children": [
+                      {
+                        "id": "624",
+                        "parent": "623",
+                        "text": "• Edema palpebral/caruncular",
+                        "guid": "DATjbgxtjolXQtujMGye-Q",
+                        "children": []
+                      },
+                      {
+                        "id": "625",
+                        "parent": "623",
+                        "text": "• Hiperemia conjuntival",
+                        "guid": "KJ_XvkitYbkyhb3VaQQgyw",
+                        "children": []
+                      },
+                      {
+                        "id": "626",
+                        "parent": "623",
+                        "text": "• Quemosis",
+                        "guid": "ZWnsDg8rLnhA_OttARF63g",
+                        "children": []
+                      },
+                      {
+                        "id": "627",
+                        "parent": "623",
+                        "text": "• Proptosis",
+                        "guid": "be-WUw0O9UlrKf6wHoEThQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "628",
+                    "parent": "592",
+                    "text": "→ Signos\nexposición:",
+                    "guid": "ZYBAPl4jX4YC5_vSLZtJCg",
+                    "children": [
+                      {
+                        "id": "629",
+                        "parent": "628",
+                        "text": "→ BUT ↓\n(Break-Up Time):",
+                        "guid": "FiYSbS9oelxNRdX_MnTaFg",
+                        "children": [
+                          {
+                            "id": "630",
+                            "parent": "629",
+                            "text": "• Tiempo ruptura película lagrimal",
+                            "guid": "GqRApjXYZ3gvd96tcHYtSw",
+                            "children": []
+                          },
+                          {
+                            "id": "631",
+                            "parent": "629",
+                            "text": "• Normal: >10 segundos",
+                            "guid": "XbFjUSQx_9crUgRAWoxRxg",
+                            "children": []
+                          },
+                          {
+                            "id": "632",
+                            "parent": "629",
+                            "text": "• ↓ en exposición/queratitis",
+                            "guid": "F5SBlX7rBHoCHvc4dBk_Og",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "633",
+                        "parent": "628",
+                        "text": "• Queratitis puntata",
+                        "guid": "M9VrHG-pvdZhdI8rSgxagA",
+                        "children": []
+                      },
+                      {
+                        "id": "634",
+                        "parent": "628",
+                        "text": "• Úlceras",
+                        "guid": "IE827HkAHKkwvvkdLFQaWg",
+                        "children": []
+                      },
+                      {
+                        "id": "635",
+                        "parent": "628",
+                        "text": "• Queratopatía en banda",
+                        "guid": "JB9-AzbnncchSX4TOkWQcQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "636",
+                    "parent": "592",
+                    "text": "→ Fase activa\n(NOSPECS):",
+                    "guid": "aARmGFiI0dUcvJ8BJRTSNg",
+                    "children": [
+                      {
+                        "id": "637",
+                        "parent": "636",
+                        "text": "• N: No signs/symptoms",
+                        "guid": "eTXFjFTHBN1OY5zbfqNwvg",
+                        "children": []
+                      },
+                      {
+                        "id": "638",
+                        "parent": "636",
+                        "text": "• O: Only signs",
+                        "guid": "AcBLlAA1qOMkCAu_Ig-CgQ",
+                        "children": []
+                      },
+                      {
+                        "id": "639",
+                        "parent": "636",
+                        "text": "• S: Soft tissue",
+                        "guid": "XMjZniskVi8ssPOvLXgQGA",
+                        "children": []
+                      },
+                      {
+                        "id": "640",
+                        "parent": "636",
+                        "text": "• P: Proptosis",
+                        "guid": "OmrNWEPCl2tjkTKgWNxy-Q",
+                        "children": []
+                      },
+                      {
+                        "id": "641",
+                        "parent": "636",
+                        "text": "• E: Extraocular muscle",
+                        "guid": "G9EmlBq70AdlPa7uAO6rBg",
+                        "children": []
+                      },
+                      {
+                        "id": "642",
+                        "parent": "636",
+                        "text": "• C: Corneal involvement",
+                        "guid": "PRBsHhAf_mhLjG-3PYhnvA",
+                        "children": []
+                      },
+                      {
+                        "id": "643",
+                        "parent": "636",
+                        "text": "• S: Sight loss",
+                        "guid": "PepJtUPFfXJwkbLiHQ_Tog",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "644",
+                "parent": "582",
+                "text": "SIGNOS DE ALARMA EN\nOFTALMOPATÍA",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "645",
+            "parent": "575",
+            "text": "CLASIFICACIÓN\nSEVERIDAD",
+            "guid": "",
+            "children": [
+              {
+                "id": "646",
+                "parent": "645",
+                "text": "→ Leve:",
+                "guid": "ferpMBPxYoxByK1kbZ1HMQ",
+                "children": [
+                  {
+                    "id": "647",
+                    "parent": "646",
+                    "text": "• Sin afectación córnea/visual",
+                    "guid": "cJbtGH5Sducu63a7dHzhww",
+                    "children": []
+                  },
+                  {
+                    "id": "648",
+                    "parent": "646",
+                    "text": "• No diplopía",
+                    "guid": "JU0bqznrl4IWu4fPchEoUg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "649",
+                "parent": "645",
+                "text": "→ Moderada-grave:",
+                "guid": "eDshezM1BZ0rYRsmQ4vcjA",
+                "children": [
+                  {
+                    "id": "650",
+                    "parent": "649",
+                    "text": "• Diplopía",
+                    "guid": "N9Ta9EwR_uZ5OxQRCenmBg",
+                    "children": []
+                  },
+                  {
+                    "id": "651",
+                    "parent": "649",
+                    "text": "• Afectación corneal",
+                    "guid": "JPzdxEZmbAMfja-BXph3_g",
+                    "children": []
+                  },
+                  {
+                    "id": "652",
+                    "parent": "649",
+                    "text": "• Neuropatía óptica incipiente",
+                    "guid": "DUsXZ2MaIi5pfbbqCzYAlw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "653",
+                "parent": "645",
+                "text": "→ Severa:",
+                "guid": "dwuEuitGZE9400fIEUSRAQ",
+                "children": [
+                  {
+                    "id": "654",
+                    "parent": "653",
+                    "text": "• Pérdida visual",
+                    "guid": "dujQqzxW9Gkq7fQEZ3-9ww",
+                    "children": []
+                  },
+                  {
+                    "id": "655",
+                    "parent": "653",
+                    "text": "• Neuropatía óptica establecida",
+                    "guid": "OqlrUFnZasBb_J-HX_aG_A",
+                    "children": []
+                  },
+                  {
+                    "id": "656",
+                    "parent": "653",
+                    "text": "• Ulceración corneal",
+                    "guid": "E8UCQnK4J1ZSB69ODAAjvQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "657",
+            "parent": "575",
+            "text": "CAS (Clinical\nActivity Score)",
+            "guid": "LA6MKlMu7NRDou2VbrqtoA",
+            "children": [
+              {
+                "id": "658",
+                "parent": "657",
+                "text": "→ Signos inflamatorios\n(1 punto c/u):",
+                "guid": "Je0s9H1oynRPjABKXcIH6A",
+                "children": [
+                  {
+                    "id": "659",
+                    "parent": "658",
+                    "text": "• Dolor retroocular",
+                    "guid": "SXrJWkjHFFtnq-3vbnenHg",
+                    "children": []
+                  },
+                  {
+                    "id": "660",
+                    "parent": "658",
+                    "text": "• Dolor movimientos",
+                    "guid": "Dy2AXgc5nXBNEB8dHHiXxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "661",
+                    "parent": "658",
+                    "text": "• Eritema palpebral",
+                    "guid": "alO_nzaN1gcnrphdYV9EWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "662",
+                    "parent": "658",
+                    "text": "• Edema palpebral",
+                    "guid": "YdQ6ViCB4CVyo9VaWL0LAg",
+                    "children": []
+                  },
+                  {
+                    "id": "663",
+                    "parent": "658",
+                    "text": "• Quemosis",
+                    "guid": "XNjUjh2RyV9APMjFF4I_3w",
+                    "children": []
+                  },
+                  {
+                    "id": "664",
+                    "parent": "658",
+                    "text": "• Edema Carúncula",
+                    "guid": "d2s0Hxw5aEx3eMbbCzA2YQ",
+                    "children": []
+                  },
+                  {
+                    "id": "665",
+                    "parent": "658",
+                    "text": "• Edema conjuntival",
+                    "guid": "DvGPo0mAdikXMFoeNN68lw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "666",
+                "parent": "657",
+                "text": "→ Interpretación:",
+                "guid": "RulAnma8WmgSoMR_EGQJ-A",
+                "children": [
+                  {
+                    "id": "667",
+                    "parent": "666",
+                    "text": "• ≥3/7: activa",
+                    "guid": "L4Nuw3pMsm5-27EXPrDvIg",
+                    "children": []
+                  },
+                  {
+                    "id": "668",
+                    "parent": "666",
+                    "text": "• <3/7: inactiva",
+                    "guid": "AYZP30vr0DRbKYbna9oPfg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "669",
+            "parent": "575",
+            "text": "ESTUDIO",
+            "guid": "",
+            "children": [
+              {
+                "id": "670",
+                "parent": "669",
+                "text": "→ Obligatorio:",
+                "guid": "Ki0VqSTYkwJhiqOLTYcVEw",
+                "children": [
+                  {
+                    "id": "671",
+                    "parent": "670",
+                    "text": "• Examen oftalmológico completo",
+                    "guid": "ZLW8NB6Vjx9NuekMQiSuxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "672",
+                    "parent": "670",
+                    "text": "• Agudeza visual",
+                    "guid": "G91DeGVu_OMW_tV1NV5gHg",
+                    "children": []
+                  },
+                  {
+                    "id": "673",
+                    "parent": "670",
+                    "text": "• Campos visuales",
+                    "guid": "dJzXlncJMoZd0QxnTUsocg",
+                    "children": []
+                  },
+                  {
+                    "id": "674",
+                    "parent": "670",
+                    "text": "• Exoftalmometría",
+                    "guid": "bkPptjsidUds4rnsTDr7Tg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "675",
+                "parent": "669",
+                "text": "→ Imagen:",
+                "guid": "KxSipxzeVV5ZtXupFVOCdQ",
+                "children": [
+                  {
+                    "id": "676",
+                    "parent": "675",
+                    "text": "• TAC/RMN órbitas",
+                    "guid": "S7Wh6CXg6ycBGLIiRni-pQ",
+                    "children": []
+                  },
+                  {
+                    "id": "677",
+                    "parent": "675",
+                    "text": "• Evaluar:",
+                    "guid": "TTXhjFi38U1DtYGed2L3NQ",
+                    "children": [
+                      {
+                        "id": "678",
+                        "parent": "677",
+                        "text": "- Músculos extraoculares",
+                        "guid": "fZCETyVAJSlE6gxJYkZAhA",
+                        "children": []
+                      },
+                      {
+                        "id": "679",
+                        "parent": "677",
+                        "text": "- Grasa orbitaria",
+                        "guid": "Q9W0SBKj9VUkau9JX7L3wQ",
+                        "children": []
+                      },
+                      {
+                        "id": "680",
+                        "parent": "677",
+                        "text": "- Nervio óptico",
+                        "guid": "eBLyODtpxL8VEVffbK_Jzg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "681",
+            "parent": "575",
+            "text": "MANEJO",
+            "guid": "",
+            "children": [
+              {
+                "id": "682",
+                "parent": "681",
+                "text": "→ Medidas generales:",
+                "guid": "MnL3RXLiZEc5-vJAILbg-w",
+                "children": [
+                  {
+                    "id": "683",
+                    "parent": "682",
+                    "text": "• Control eutiroidismo",
+                    "guid": "LgTZjibdrCxs8dxJWRl8NQ",
+                    "children": []
+                  },
+                  {
+                    "id": "684",
+                    "parent": "682",
+                    "text": "• Cesar tabaco",
+                    "guid": "Q7wBi0anV_NubP6qD3Gjcw",
+                    "children": []
+                  },
+                  {
+                    "id": "685",
+                    "parent": "682",
+                    "text": "• Lubricación ocular",
+                    "guid": "bIhDGm-FsMxV6mIYOb4kpg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "686",
+                "parent": "681",
+                "text": "→ Leve:",
+                "guid": "SD2iGRmf47cxIRvbRc4maQ",
+                "children": [
+                  {
+                    "id": "687",
+                    "parent": "686",
+                    "text": "• Observación",
+                    "guid": "PuAI4HYLKCQoFGbtArW9KQ",
+                    "children": []
+                  },
+                  {
+                    "id": "688",
+                    "parent": "686",
+                    "text": "• Selenio 200µg/d",
+                    "guid": "CK8deUx_VjZiaLTqAMIPsg",
+                    "children": []
+                  },
+                  {
+                    "id": "689",
+                    "parent": "686",
+                    "text": "• Medidas locales",
+                    "guid": "B-ka9Xd6DMltcdmAOlwSOw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "690",
+                "parent": "681",
+                "text": "→ Moderada-grave\nactiva:",
+                "guid": "alxxECdsy8FbEvM2GGFKnw",
+                "children": [
+                  {
+                    "id": "691",
+                    "parent": "690",
+                    "text": "• Metilprednisolona IV:",
+                    "guid": "Tkp37UgEz4BxesbUEgZ5eA",
+                    "children": [
+                      {
+                        "id": "692",
+                        "parent": "691",
+                        "text": "- 500mg/sem x 6 sem",
+                        "guid": "Dqwnc1_nxX8heBzrezRqjQ",
+                        "children": []
+                      },
+                      {
+                        "id": "693",
+                        "parent": "691",
+                        "text": "- 250mg/sem x 6 sem",
+                        "guid": "T212S3difwQ08o8zF6sYZQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "694",
+                    "parent": "690",
+                    "text": "• Radioterapia orbitaria",
+                    "guid": "EQJiu2YTqw5deT7OT-Jrmw",
+                    "children": [
+                      {
+                        "id": "695",
+                        "parent": "694",
+                        "text": "• Rituximab casos selectos",
+                        "guid": "XB7TMwWNpbtSmCjEZM3wrA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "696",
+                "parent": "681",
+                "text": "→ Severa:",
+                "guid": "Ugz78TUA3a5lkABeWfYW5w",
+                "children": [
+                  {
+                    "id": "697",
+                    "parent": "696",
+                    "text": "• Descompresión orbitaria urgente",
+                    "guid": "LHrqeFMB2d8UUikiFtdbiA",
+                    "children": []
+                  },
+                  {
+                    "id": "698",
+                    "parent": "696",
+                    "text": "• Pulsos altas dosis esteroides",
+                    "guid": "em6loG9lHFgvOKYnSLkdjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "699",
+                    "parent": "696",
+                    "text": "• Valorar inmunosupresión",
+                    "guid": "N2nr2CCzbPxav5cGRhYTSw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "700",
+            "parent": "575",
+            "text": "CONSIDERACIONES",
+            "guid": "WO__yGptcxgWBbcFCe2MhQ",
+            "children": [
+              {
+                "id": "701",
+                "parent": "700",
+                "text": "→ CI RAI si activa",
+                "guid": "AJsye3w3s_FBSn3YUAioxg",
+                "children": []
+              },
+              {
+                "id": "702",
+                "parent": "700",
+                "text": "→ Seguimiento conjunto endocrino/oftalmólogo",
+                "guid": "c5oy9XY9DQtns8ErBJyVsA",
+                "children": []
+              },
+              {
+                "id": "703",
+                "parent": "700",
+                "text": "→ Riesgo progresión:",
+                "guid": "XFC4GkUs__lUfwFMOG-LTQ",
+                "children": [
+                  {
+                    "id": "704",
+                    "parent": "703",
+                    "text": "• Tabaquismo",
+                    "guid": "SrqltCcXKhAdPXv5HMehpg",
+                    "children": []
+                  },
+                  {
+                    "id": "705",
+                    "parent": "703",
+                    "text": "• TRAb alto",
+                    "guid": "XBgHvwLNfFh2vbiNCJLyNw",
+                    "children": []
+                  },
+                  {
+                    "id": "706",
+                    "parent": "703",
+                    "text": "• RAI previo",
+                    "guid": "Vc9WNwsP4a8fak2_UD371w",
+                    "children": []
+                  },
+                  {
+                    "id": "707",
+                    "parent": "703",
+                    "text": "• Mal control tiroideo",
+                    "guid": "enT-B06i8-cY9xlkMd7p4A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "708",
+            "parent": "575",
+            "text": "EMERGENCIAS\nOFTALMOLÓGICAS",
+            "guid": "KaERIHu-orxteVzra-mHaw",
+            "children": [
+              {
+                "id": "709",
+                "parent": "708",
+                "text": "→ Compresión\nnervio óptico:",
+                "guid": "aqlP8ipKVrIzJxqqAllb8w",
+                "children": [
+                  {
+                    "id": "710",
+                    "parent": "709",
+                    "text": "• ↓ agudeza visual aguda/progresiva",
+                    "guid": "NPnLjxmjCjUTPy2AFHBFSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "711",
+                    "parent": "709",
+                    "text": "• DPAR (+)",
+                    "guid": "ToKWmyLIb8xQr5ihLoZ5MQ",
+                    "children": []
+                  },
+                  {
+                    "id": "712",
+                    "parent": "709",
+                    "text": "• Discromatopsia",
+                    "guid": "XwKlxzpm_BFI9SkeXv9zLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "713",
+                    "parent": "709",
+                    "text": "• Edema papila",
+                    "guid": "B6-SIjxATAV6zWcob7P4Og",
+                    "children": []
+                  },
+                  {
+                    "id": "714",
+                    "parent": "709",
+                    "text": "• Defectos campimétricos",
+                    "guid": "FMkd2xeKBioUyMpwfXHuGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "715",
+                "parent": "708",
+                "text": "→ Exposición\ncorneal severa:",
+                "guid": "f9MU4ndmBGMkBQgMK-GhDQ",
+                "children": [
+                  {
+                    "id": "716",
+                    "parent": "715",
+                    "text": "• Úlcera corneal",
+                    "guid": "SpTxN2en9aEanE6tNT5BKg",
+                    "children": []
+                  },
+                  {
+                    "id": "717",
+                    "parent": "715",
+                    "text": "• Queratitis exposición",
+                    "guid": "EfJMU03DaVc3l50dRuwX4w",
+                    "children": []
+                  },
+                  {
+                    "id": "718",
+                    "parent": "715",
+                    "text": "• Opacificación corneal",
+                    "guid": "Z2ZzjErWyp5bXF0sNekKJw",
+                    "children": []
+                  },
+                  {
+                    "id": "719",
+                    "parent": "715",
+                    "text": "• Riesgo perforación",
+                    "guid": "bZ86aiwL9c5kb4NYTKHgMQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "720",
+                "parent": "708",
+                "text": "→ Subluxación globo:",
+                "guid": "ZnLx3y1krHcroVNebiKEAQ",
+                "children": [
+                  {
+                    "id": "721",
+                    "parent": "720",
+                    "text": "• Proptosis extrema",
+                    "guid": "aaT4fCZuuodd1nw7fm4WVw",
+                    "children": []
+                  },
+                  {
+                    "id": "722",
+                    "parent": "720",
+                    "text": "• Imposibilidad cierre palpebral",
+                    "guid": "PfjAsXKfRqx74ARwPcvVkw",
+                    "children": []
+                  },
+                  {
+                    "id": "723",
+                    "parent": "720",
+                    "text": "• Luxación anterior del globo",
+                    "guid": "agVLDx_lDHxprXagNJo8Rg",
+                    "children": []
+                  },
+                  {
+                    "id": "724",
+                    "parent": "720",
+                    "text": "• Riesgo estrangulación",
+                    "guid": "B40CHQRJxU1p2H1wGX9OcQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "725",
+                "parent": "708",
+                "text": "SIGNOS DE ACTIVIDAD\nSEVERA",
+                "guid": "Ug0upCFwGo5ga2ZUOXOiMA",
+                "children": [
+                  {
+                    "id": "726",
+                    "parent": "725",
+                    "text": "→ CAS ≥5/7 puntos",
+                    "guid": "bEblLDvHw4BvXKxYWeYflg",
+                    "children": []
+                  },
+                  {
+                    "id": "727",
+                    "parent": "725",
+                    "text": "→ Cambios rápidos (<1 mes)",
+                    "guid": "Z9O5TlPML7Amh__HTkarLg",
+                    "children": []
+                  },
+                  {
+                    "id": "728",
+                    "parent": "725",
+                    "text": "→ Inflamación severa",
+                    "guid": "ATDcJ1IpUyU8aS8vatXUpA",
+                    "children": []
+                  },
+                  {
+                    "id": "729",
+                    "parent": "725",
+                    "text": "→ Quemosis marcada",
+                    "guid": "eJgNrBo_q2tpQ-r7NpDOXQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "730",
+                "parent": "708",
+                "text": "MANEJO",
+                "guid": "E6RU6SMgXlUN6fIISmtmVA",
+                "children": [
+                  {
+                    "id": "731",
+                    "parent": "730",
+                    "text": "→ Derivación inmediata",
+                    "guid": "MP2MvCN8FfR4YtrIMi5o5A",
+                    "children": []
+                  },
+                  {
+                    "id": "732",
+                    "parent": "730",
+                    "text": "→ Descompresión urgente",
+                    "guid": "daVpGTTMCfcdBD2Ibj12xg",
+                    "children": []
+                  },
+                  {
+                    "id": "733",
+                    "parent": "730",
+                    "text": "→ Corticoides altas dosis",
+                    "guid": "Twu1YgZIKIMkzkUjW-qneQ",
+                    "children": []
+                  },
+                  {
+                    "id": "734",
+                    "parent": "730",
+                    "text": "→ Protección corneal intensiva",
+                    "guid": "a2wX7xkq6RRSzuSfcHUT2A",
+                    "children": []
+                  },
+                  {
+                    "id": "735",
+                    "parent": "730",
+                    "text": "→ Seguimiento estrecho",
+                    "guid": "dzUDpn5NXgx9CxHeWYjjhQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 736,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Endocrinología",
+  "folder": "- Entidades clínicas/Endocrinología",
+  "filename": "Endocrino Hipertiroidismo-2024-1",
+  "id": "map_1555",
+  "resolved_references": []
+}

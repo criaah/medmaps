@@ -1,0 +1,2779 @@
+{
+  "title": "Biomarcadores en demencia",
+  "guid": "DA58003E8A482FDB2DF4576E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/Continuum. Biomarcadores en demencia-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Biomarcadores en demencia",
+    "guid": "P70vsNgbGaBuQKF9fldweQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## PUNTOS CLAVE",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Terapias anti-amiloides aprobadas por FDA → mayor importancia clínica de métodos para diagnóstico específico",
+            "guid": "PBQ2_pdzlKcPN2PTPjuqGw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Niveles de CSF\namiloide-β (Aβ)",
+            "guid": "",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "Influenciados por tipo de tubo de recolección",
+                "guid": "u40-8yoYHbE1r2_VPbh0fg",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "Aβ se adhiere a poliestireno (plástico duro) → niveles artificialmente más bajos",
+                "guid": "CdZc1outFcNN7R2X1ZZVyg",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "Necesario recolectar en tubo de polipropileno (plástico blando)",
+                "guid": "nkhzk1q-8nT6L4_n68_OXg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "Índice amiloide-tau y nivel absoluto de\ntau fosforilada 181 (pTau181)",
+            "guid": "",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "Indicador más fuerte de patología Alzheimer\nque Aβ o tau total por separado",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "Métodos de conversión inducida por\ntemblor en tiempo real de priones",
+            "guid": "",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "Excelente sensibilidad y especificidad para proteína priónica agregada",
+                "guid": "LMBvcJH73B1T0HdEik0b_A",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "9",
+                "text": "Pilar en diagnóstico de enfermedad de Creutzfeldt-Jakob",
+                "guid": "xyqHPSyBxZ6v_lFGm_8XWQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "Biomarcadores de CSF\nclínicamente útiles disponibles",
+            "guid": "",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "Enfermedad de Alzheimer",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "12",
+                "text": "Enfermedad de Creutzfeldt-Jakob",
+                "guid": "8XlbiKLOadse0C8HL095lw",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "12",
+                "text": "Patología α-sinucleína",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "Indicadores CSF de lesión\nneuronal y degeneración",
+            "guid": "",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "Cadena ligera de neurofilamento",
+                "guid": "oeqm3W7u2xUPoB9moDg4hQ",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "Proteína ácida fibrilar glial (GFAP)",
+                "guid": "2ZmdC1jwOU70BZd9Mkq1PA",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "Emergiendo como biomarcadores potencialmente útiles",
+                "guid": "Z7tRcUgOBlaUn9EKqOc0Hg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "parent": "1",
+            "text": "Ratio Aβ42/Aβ40 y mediciones por\nespectrometría de masas",
+            "guid": "",
+            "children": [
+              {
+                "id": "21",
+                "parent": "20",
+                "text": "Mejoran precisión y reproducibilidad\nde mediciones en sangre",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "1",
+            "text": "Mediciones de\npTau en plasma",
+            "guid": "",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "Utilidad diagnóstica afectada por comorbilidades",
+                "guid": "8wqMlC3JPh88RwOcabZ27A",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "22",
+                "text": "pTau217: biomarcador más efectivo para progresión a Alzheimer",
+                "guid": "I8koaoT4CVKyuJBV-qirng",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "parent": "1",
+            "text": "Diferencias significativas en biomarcadores\nentre grupos raciales y étnicos",
+            "guid": "",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "Debe considerarse al tomar decisiones de\ntratamiento para grupos subrepresentados",
+                "guid": "zuZjxAv5fAytWZJcXU4uoA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "parent": "0",
+        "text": "## INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "28",
+            "parent": "27",
+            "text": "Diagnóstico de deterioro\ncognitivo leve y demencia",
+            "guid": "",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "Inicia con historia clínica y examen cuidadoso",
+                "guid": "ICnbqBTOGJjtaUM9AqBAfA",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "28",
+                "text": "Incluye examen de estado mental",
+                "guid": "GZnD1S4OsDfItLcerqh6tA",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "28",
+                "text": "Continúa con imágenes cerebrales estructurales",
+                "guid": "nIOd31FEB_SLQmZZjHth5w",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "28",
+                "text": "Análisis de sangre para excluir causas tratables (según parámetros AAN)",
+                "guid": "mV3xqeHX7AKngt4CONDUtw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "parent": "27",
+            "text": "Biomarcadores en fluidos",
+            "guid": "",
+            "children": [
+              {
+                "id": "34",
+                "parent": "33",
+                "text": "Uso apropiado cuando resultados\nimpactan decisiones de manejo",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "Asesoramiento a paciente y familia",
+                    "guid": "av4zV5g8FqzAgykxOvOihQ",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "Terapias sintomáticas",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "34",
+                    "text": "Terapias modificadoras de enfermedad",
+                    "guid": "xORFEJmS0rZrKfU_TdqAoA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "27",
+            "text": "Terapias anti-amiloides\naprobadas por FDA",
+            "guid": "",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "Aumentan importancia de métodos para diagnóstico específico",
+                "guid": "odQOhXgEZ0DBTW7ze1sFMw",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "Imágenes de amiloide: validadas pero costosas y no disponibles en todas partes",
+                "guid": "VjdKdsYxZ1mc4uE9LTPrZg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "27",
+            "text": "Biomarcadores en\nCSF y sangre",
+            "guid": "",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "Ventajas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "Abordan problemas de costo y acceso",
+                    "guid": "rMICuWvzGFNU_q9lVhW_kA",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "42",
+                    "text": "Permiten diagnóstico directo o estratificación de riesgo",
+                    "guid": "G0aRG12pYb6Rr-i5pjIESg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45",
+                "parent": "41",
+                "text": "Relevancia\ncreciente",
+                "guid": "eZNjUmcfzXPRe4G9RhaKkA",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "Para evitar PET de amiloide innecesario en individuos de bajo riesgo",
+                    "guid": "OpFlSSq3X3ITCjX4bYOoOg",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "Importante si terapias anti-amiloides se aprueban para individuos asintomáticos",
+                    "guid": "DhMwi30iPo80YldWq3WZXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "45",
+                    "text": "Imposibilidad de detección poblacional a gran escala con PET de amiloide (costos y recursos)",
+                    "guid": "8atnlrJy4hmTf3V7nWMFqA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "parent": "0",
+        "text": "# Biomarcadores CSF en\nDiagnóstico de Demencia",
+        "guid": "vGW5HnafY_Gl96hXlxZ4hw",
+        "children": [
+          {
+            "id": "50",
+            "parent": "49",
+            "text": "## Desarrollo\nhistórico",
+            "guid": "78T5xyvwKQJbU4JDnsYL8g",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "Biomarcadores iniciales basados en proteínas de lesiones clásicas de Alzheimer",
+                "guid": "OgaBkHdtmYBseWFUT916Qw",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "50",
+                "text": "Tau (componente principal de ovillos neurofibrilares)",
+                "guid": "JpZSQW5T0q_QBWMxGgUMwQ",
+                "children": [
+                  {
+                    "id": "53",
+                    "parent": "52",
+                    "text": "Hallazgo intuitivo: pacientes con Alzheimer → niveles elevados de tau en CSF",
+                    "guid": "lvpMSi0oT3s5-cMKpJFNzA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "50",
+                "text": "Amiloide-β\n(Aβ)",
+                "guid": "4cDD9jg7JV4rtzT54DQziA",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "Hallazgo menos intuitivo: pacientes con Alzheimer → niveles más bajos de Aβ1-Aβ42 en CSF",
+                    "guid": "g12bbFt3pmKx-OmNu0ny-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "Probablemente debido a secuestro dentro de placas",
+                    "guid": "QqcTQ61aMGQ2ULJ2O54cAg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "49",
+            "text": "## Consideraciones\ntécnicas importantes",
+            "guid": "qM9FlfFh8Kou3pffu1Q3UQ",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "Niveles de Aβ influenciados\npor tipo de tubo",
+                "guid": "Z6hXJQojuHItyZRfrvZ0Ug",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "Aβ se adhiere a poliestireno (plástico duro) → niveles artificialmente más bajos",
+                    "guid": "ujCxO5wxPKxbaw9_7sP4HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "58",
+                    "text": "Necesario recolectar en tubo de polipropileno (plástico blando)",
+                    "guid": "EgK1WCvOv7YFT4SpZ7PyjQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "parent": "49",
+            "text": "## Evolución de pruebas\nCSF para Alzheimer",
+            "guid": "KIWtPFaL_dSwOndUukg1Mg",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "Test comercial\ninicial",
+                "guid": "wRYaV4ZmJMIFG1s6rDKJ7g",
+                "children": [
+                  {
+                    "id": "63",
+                    "parent": "62",
+                    "text": "Combinaba tau y Aβ1-Aβ42",
+                    "guid": "BeE6WeIlUO5stnH_mu3VKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "62",
+                    "text": "Alto tau + bajo Aβ42 → evidencia de patología Alzheimer",
+                    "guid": "YQv_ybwvd9abRgmcyqLmmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "62",
+                    "text": "Bajo tau + alto Aβ42 → compatible con estado de control saludable",
+                    "guid": "MGq5kPabPgfcMGoBfi2ZCA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "66",
+                "parent": "61",
+                "text": "Limitación: tau elevado en\nCSF es inespecífico",
+                "guid": "d2Vf3DGyoQYIyipdv48fQw",
+                "children": [
+                  {
+                    "id": "67",
+                    "parent": "66",
+                    "text": "Aparece en cualquier lesión\ncerebral con daño neuronal",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "68",
+                        "parent": "67",
+                        "text": "Alzheimer",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "69",
+                        "parent": "67",
+                        "text": "Accidente cerebrovascular",
+                        "guid": "PHKrgDKKN2gbX87XIt-q3Q",
+                        "children": []
+                      },
+                      {
+                        "id": "70",
+                        "parent": "67",
+                        "text": "Lesión cerebral traumática",
+                        "guid": "GNeHfmjiXPkZCSpniDe2Qw",
+                        "children": []
+                      },
+                      {
+                        "id": "71",
+                        "parent": "67",
+                        "text": "Encefalitis",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "67",
+                        "text": "Enfermedad neurodegenerativa no-Alzheimer",
+                        "guid": "dsn3jVoHwRxtnCRqND50qA",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "67",
+                        "text": "Niveles especialmente altos en Creutzfeldt-Jakob",
+                        "guid": "Yw9pGfGumlsgdvaYEsV0dQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "74",
+                "parent": "61",
+                "text": "Panel actual modificado\n(>10 años)",
+                "guid": "FPsY28s6RhB_7XBadxnsBA",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "Incluye forma fosforilada de tau específica para Alzheimer (pTau181)",
+                    "guid": "gofryCxsca3Fs8R7TzwSUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "Resultados\nreportados como:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "77",
+                        "parent": "76",
+                        "text": "Índice amiloide-tau (ATI) = ratio Aβ42/tau",
+                        "guid": "4ibjaioP0_cE0SF6TLq7HA",
+                        "children": []
+                      },
+                      {
+                        "id": "78",
+                        "parent": "76",
+                        "text": "Nivel absoluto de pTau181",
+                        "guid": "Yw7xDZS8hg0bQIUziIbv8g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "79",
+                    "parent": "74",
+                    "text": "Interpretación:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "80",
+                        "parent": "79",
+                        "text": "ATI bajo + pTau181 alto → fuerte evidencia de patología Alzheimer",
+                        "guid": "cKzGTMUG92DKCzDty7WX9g",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "79",
+                        "text": "ATI alto + pTau bajo → control saludable",
+                        "guid": "QyWJG1kFKTZ0Fx2paFt_Sg",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "79",
+                        "text": "Otras combinaciones → indeterminado",
+                        "guid": "uISIi6YojdTp_tdlC57mIg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "83",
+                "parent": "61",
+                "text": "Disponibilidad\nactual",
+                "guid": "zCdehTswnPCrvH8eIXfxkw",
+                "children": [
+                  {
+                    "id": "84",
+                    "parent": "83",
+                    "text": "Varias plataformas de alto rendimiento disponibles",
+                    "guid": "UseyeANBjiyCGTTGSISaNA",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "83",
+                    "text": "Solo un laboratorio comercial ofrece prueba CSF para Alzheimer (Aβ1-Aβ42, tau, pTau181)",
+                    "guid": "mMrvIpAcj7c_RlF7PD6Lzg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "parent": "49",
+            "text": "## Biomarcadores CSF para\notros tipos de demencia",
+            "guid": "8kxzLP0VMNRVVwgIW14lhA",
+            "children": [
+              {
+                "id": "87",
+                "parent": "86",
+                "text": "Enfermedad de\nCreutzfeldt-Jakob (CJD)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "Proteína 14-3-3\nen CSF",
+                    "guid": "xlLmB9UeOE_eOlsFA0uOfQ",
+                    "children": [
+                      {
+                        "id": "89",
+                        "parent": "88",
+                        "text": "Identificada empíricamente como marcador de CJD",
+                        "guid": "NgVkxSy-kjvaNDAA4GDZbA",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "88",
+                        "text": "Limitación: proteína intraneuronal normal que aparece en cualquier lesión neuronal significativa",
+                        "guid": "S9ihvJH_9tc1LIS9sGigQA",
+                        "children": []
+                      },
+                      {
+                        "id": "91",
+                        "parent": "88",
+                        "text": "Niveles elevados deben interpretarse con precaución",
+                        "guid": "uKURfw-jjXUGi2AniumgKA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "92",
+                    "parent": "87",
+                    "text": "RT-QuIC (conversión inducida por\ntemblor en tiempo real)",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "93",
+                        "parent": "92",
+                        "text": "Basado en detección de agregados de proteína priónica",
+                        "guid": "NlVD_dlpU3hJts6cFaEEtQ",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "92",
+                        "text": "Niveles de prión agregado en CSF demasiado bajos para medir directamente",
+                        "guid": "eJ71LnvPkWgk37rjIDMfAA",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "92",
+                        "text": "Métodos de amplificación\ndesarrollados",
+                        "guid": "Qc2w9GdOpwCesDD2WG7L8g",
+                        "children": [
+                          {
+                            "id": "96",
+                            "parent": "95",
+                            "text": "RT-QuIC",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "97",
+                            "parent": "95",
+                            "text": "Ensayo de amplificación con semillas",
+                            "guid": "6S2cl26antfiauYDeztHbA",
+                            "children": []
+                          },
+                          {
+                            "id": "98",
+                            "parent": "95",
+                            "text": "Amplificación cíclica de plegamiento erróneo de proteínas",
+                            "guid": "x_6Z4gQuYJjNoLxdp4VbFA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "99",
+                        "parent": "92",
+                        "text": "Excelente sensibilidad y especificidad",
+                        "guid": "OoZB73mWGoHK9Q1k1mgm2w",
+                        "children": []
+                      },
+                      {
+                        "id": "100",
+                        "parent": "92",
+                        "text": "Pilar en diagnóstico de CJD",
+                        "guid": "iTbYRxKXRXBiw2NO8eYkNQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "101",
+                "parent": "86",
+                "text": "Sinucleinopatías",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "α-sinucleína",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "103",
+                        "parent": "102",
+                        "text": "Niveles absolutos no distinguen confiablemente pacientes de controles",
+                        "guid": "xUIPguaO4x5feRGijmRuNg",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "102",
+                        "text": "Ensayo de amplificación con semillas\npara α-sinucleína agregada",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "105",
+                            "parent": "104",
+                            "text": "Excelente sensibilidad y\nespecificidad para:",
+                            "guid": "",
+                            "children": [
+                              {
+                                "id": "106",
+                                "parent": "105",
+                                "text": "Enfermedad de Parkinson",
+                                "guid": "",
+                                "children": []
+                              },
+                              {
+                                "id": "107",
+                                "parent": "105",
+                                "text": "Demencia con cuerpos de Lewy",
+                                "guid": "Hcx1dkDQn43AUaHzP1Kbug",
+                                "children": []
+                              },
+                              {
+                                "id": "108",
+                                "parent": "105",
+                                "text": "Atrofia multisistémica",
+                                "guid": "",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "id": "109",
+                            "parent": "104",
+                            "text": "Validado en casos confirmados por autopsia",
+                            "guid": "vPvlIhm6ShsAaAlNoA3UGQ",
+                            "children": []
+                          },
+                          {
+                            "id": "110",
+                            "parent": "104",
+                            "text": "Útil en diagnóstico de\ncasos prodrómicos",
+                            "guid": "",
+                            "children": [
+                              {
+                                "id": "111",
+                                "parent": "110",
+                                "text": "Trastorno de conducta del sueño REM",
+                                "guid": "7osVBwM-a75FLGIxtZluEw",
+                                "children": []
+                              },
+                              {
+                                "id": "112",
+                                "parent": "110",
+                                "text": "Portadores asintomáticos de genes de Parkinson",
+                                "guid": "tr8EoKd9cVbmHX8ZvRW5KQ",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "113",
+                        "parent": "102",
+                        "text": "Disponibilidad\ncomercial desde 2022",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "114",
+                            "parent": "113",
+                            "text": "Resultado dicotómico: positivo/negativo",
+                            "guid": "tkwcj9XpTLTcisnJwFobGw",
+                            "children": []
+                          },
+                          {
+                            "id": "115",
+                            "parent": "113",
+                            "text": "No proporciona distinción cuantitativa entre tipos de sinucleinopatías",
+                            "guid": "wXtRKNIENzHyzpdZ5PaQyA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "parent": "49",
+            "text": "## Caso\nclínico\nilustrativo",
+            "guid": "TTP4HCdyDV2fnjcK5a0U6w",
+            "children": [
+              {
+                "id": "117",
+                "parent": "116",
+                "text": "Paciente: hombre de 65 años con \"demencia rápidamente progresiva\"",
+                "guid": "8RB2mdfgb1gxnfRyRSsSwQ",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "116",
+                "text": "Historia:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "Profesor jubilado hace 1.5 años sin deterioro cognitivo obvio",
+                    "guid": "OjYIe2yG49sMHmvVsfy8SQ",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "Posterior desarrollo de repetición, olvidos, enlentecimiento al caminar",
+                    "guid": "GML3gP0oFJ8i4jr8yl6YGw",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "118",
+                    "text": "Últimos 6 meses: fluctuación de síntomas, episodios casi delirantes, alucinaciones visuales",
+                    "guid": "Ne2-mRvFVQs9aDpTNeXvpQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "122",
+                "parent": "116",
+                "text": "Examen:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "123",
+                    "parent": "122",
+                    "text": "MoCA 19/30 (déficits en capacidad visuoespacial, cálculo, fluidez verbal, recuerdo)",
+                    "guid": "_UBkn96u7fWfXUDKh4oEzw",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "122",
+                    "text": "Facies inexpresiva, enlentecimiento simétrico, rigidez sin temblor",
+                    "guid": "b2RUFybFD0VUYwCmDTOI9A",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "122",
+                    "text": "Marcha lenta con balanceo de brazos reducido",
+                    "guid": "MQqDHQxr-A3pMdsACUPjBA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "126",
+                "parent": "116",
+                "text": "Pruebas\niniciales\nnormales:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "Hemograma, química, TSH, vitamina B12",
+                    "guid": "PjPylp0llKbvpEO8IoYN-w",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "126",
+                    "text": "RM cerebral: atrofia generalizada leve",
+                    "guid": "7NOy84qbsc1wqemsCgrPhQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "116",
+                "text": "Resultados CSF:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "Hemograma, glucosa y proteínas normales",
+                    "guid": "aohj1mbb7k0HU7gJxBM5Pw",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "RT-QuIC para proteína priónica: negativo → descarta CJD",
+                    "guid": "GVtDNUbAHc1j_WONHZhBTg",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "Ratio Aβ42/tau bajo + pTau181 elevado → compatible con patología Alzheimer",
+                    "guid": "se-5HrTe9synGVlpg9qeoQ",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "129",
+                    "text": "Ensayo de amplificación con semillas: positivo → patología α-sinucleína concomitante",
+                    "guid": "rK5znEfdmqA7_5F0ScE-GQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "116",
+                "text": "Diagnóstico: Demencia con cuerpos de Lewy con patología Alzheimer concomitante",
+                "guid": "QE_QzMqZsWBgmsQCuqKcDA",
+                "children": []
+              },
+              {
+                "id": "135",
+                "parent": "116",
+                "text": "Tratamiento: Inhibidores de colinesterasa con buena respuesta",
+                "guid": "wg529eh-lmBql55Utp1qWw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "136",
+            "parent": "49",
+            "text": "## Comentario sobre\nutilidad clínica",
+            "guid": "QaaxsOQ2JelDG7NyxMybAA",
+            "children": [
+              {
+                "id": "137",
+                "parent": "136",
+                "text": "Biomarcadores CSF útiles en diagnóstico diferencial de demencia",
+                "guid": "o3WI6AUiXrbP9ve8L4-ZSA",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "136",
+                "text": "Una única recolección de CSF puede clarificar múltiples posibilidades diagnósticas",
+                "guid": "WoLPnsvbuexPvlN2R92z0g",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "136",
+                "text": "Especialmente valioso cuando presentación clínica y neuroimagen son insuficientes",
+                "guid": "H02YOeZpK5PbslfBzemT2w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "parent": "0",
+        "text": "# Biomarcadores CSF con Rol\nPotencial en Manejo de Demencia",
+        "guid": "eECEodjj0Y9vrtUTAbBD_A",
+        "children": [
+          {
+            "id": "141",
+            "parent": "140",
+            "text": "## Contexto clínico",
+            "guid": "bp4SX1NWFNYpsPaRkWHuAA",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "Terapias modificadoras de enfermedad para Alzheimer → interés en biomarcadores como medidas de resultado",
+                "guid": "Kc43IGUqa9tw1KivITpk5w",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "141",
+                "text": "Analogía con neurología clínica: uso de\nRM seriada en esclerosis múltiple",
+                "guid": "1Bb0SXtGzg7--kfZm7RXyw",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "Nuevas lesiones o lesiones realzadas → evidencia de actividad persistente",
+                    "guid": "s5UuQHxxjfPEmtv2q0k1zg",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "143",
+                    "text": "Guía decisiones sobre continuar o cambiar tratamientos",
+                    "guid": "Io5AC5Spu5afL4bK33jfQw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "146",
+                "parent": "141",
+                "text": "Otros ejemplos de biomarcadores que\ninforman decisiones terapéuticas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "147",
+                    "parent": "146",
+                    "text": "Carga viral VIH en manejo de infección por VIH",
+                    "guid": "UkANAokGdBdQSwAijTynLw",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "146",
+                    "text": "Pruebas de función hepática en hepatitis crónica",
+                    "guid": "WZCnrGlqtOIJ_6AvhnQ2dg",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "146",
+                    "text": "Hemoglobina A1C glicosilada en diabetes",
+                    "guid": "y_8K3aiOm5eg_WmC30VaRA",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "146",
+                    "text": "Creatina fosfoquinasa en enfermedad muscular crónica",
+                    "guid": "Qaymu3uFrxj-XS4QMewhiw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "parent": "140",
+            "text": "## Biomarcadores CSF\nprometedores para monitorización",
+            "guid": "99ps1q-XZhZMzM4-HduZoQ",
+            "children": [
+              {
+                "id": "152",
+                "parent": "151",
+                "text": "Biomarcadores de daño\nneuronal/sináptico",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "153",
+                    "parent": "152",
+                    "text": "Cadena ligera de\nneurofilamento",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "154",
+                        "parent": "153",
+                        "text": "Proteína intraneuronal normal que pasa al CSF durante lesión neuronal",
+                        "guid": "y3tMrv2bQ7vULkJGBXzmoQ",
+                        "children": []
+                      },
+                      {
+                        "id": "155",
+                        "parent": "153",
+                        "text": "Correlacionada con\ntasa de progresión de\ndeterioro cognitivo en:",
+                        "guid": "iDHwAmdfZwHnp3Wc5woHjA",
+                        "children": [
+                          {
+                            "id": "156",
+                            "parent": "155",
+                            "text": "Enfermedad de Alzheimer",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "157",
+                            "parent": "155",
+                            "text": "Deterioro cognitivo leve",
+                            "guid": "",
+                            "children": []
+                          },
+                          {
+                            "id": "158",
+                            "parent": "155",
+                            "text": "Envejecimiento asintomático",
+                            "guid": "bFiOhhxbvVgmGIhd2BZsOA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "159",
+                    "parent": "152",
+                    "text": "Marcadores de\nlesión sináptica",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "160",
+                        "parent": "159",
+                        "text": "Gran interés porque daño sináptico es mejor correlato de gravedad de demencia en estudios clinicopatológicos",
+                        "guid": "DNdMP0kZydWb9YDLIsjl6g",
+                        "children": []
+                      },
+                      {
+                        "id": "161",
+                        "parent": "159",
+                        "text": "Neurogranina en CSF",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "162",
+                        "parent": "159",
+                        "text": "Otros marcadores sinápticos",
+                        "guid": "vnhuPe7tlvkDZfET-Nx3pA",
+                        "children": []
+                      },
+                      {
+                        "id": "163",
+                        "parent": "159",
+                        "text": "Correlacionados con tasa de progresión de Alzheimer",
+                        "guid": "PN8rUBiWXpef03uyzqxP4A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "164",
+                "parent": "151",
+                "text": "Marcadores gliales",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "Proteína ácida fibrilar glial (GFAP) en CSF muestra resultados prometedores",
+                    "guid": "6X5c-zGA455VdjDyRexaGg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "166",
+            "parent": "140",
+            "text": "## Aplicación\nclínica actual",
+            "guid": "SyjWRRYyFlpvzyCFPGR3SQ",
+            "children": [
+              {
+                "id": "167",
+                "parent": "166",
+                "text": "Algunos biomarcadores CSF incorporados en ensayos de terapias con anticuerpos clínicamente efectivas",
+                "guid": "Hgk4O9RuVbmrTKeUZgquVQ",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "166",
+                "text": "Limitación práctica:\nexamen CSF seriado",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "Más invasivo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "Menos aceptable para pacientes comparado con imágenes seriadas u otro tipo de monitorización",
+                    "guid": "_5o0hLPvFGJWjeVqnGukjw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "171",
+                "parent": "166",
+                "text": "Alternativa futura:\nbiomarcadores en sangre",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "172",
+                    "parent": "171",
+                    "text": "Mucho más aceptables para pacientes",
+                    "guid": "lbIU-JCpxd3PB-FtRlKU4A",
+                    "children": []
+                  },
+                  {
+                    "id": "173",
+                    "parent": "171",
+                    "text": "Última década: avance considerable en definición y validación",
+                    "guid": "p7bOdEv1tnxfBDpqdu6nKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "171",
+                    "text": "Mayor potencial para uso clínico rutinario",
+                    "guid": "8omERfAJwYjq4cp4aypSIA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "# Biomarcadores Sanguíneos Disponibles\nActualmente para Diagnóstico de Demencia",
+        "guid": "3XoxfAYn9lcnXDd0kfO0Tw",
+        "children": [
+          {
+            "id": "176",
+            "parent": "175",
+            "text": "## Evolución histórica",
+            "guid": "wh45IMec_UlovuWA0_cUZA",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "Aβ medible en plasma desde hace tiempo",
+                "guid": "uWul6f3xYWxCKaq-4NpObQ",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "Inicialmente no considerado útil para diagnóstico",
+                "guid": "dMzkjW2PgeMW35s6mof3wA",
+                "children": []
+              },
+              {
+                "id": "179",
+                "parent": "176",
+                "text": "Avances recientes que\nmejoraron utilidad diagnóstica",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "180",
+                    "parent": "179",
+                    "text": "Uso de ratio Aβ42/Aβ40 en lugar de niveles absolutos",
+                    "guid": "5RfIc5r-_tsZNS112HAtoQ",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "179",
+                    "text": "Medición por espectrometría de masas",
+                    "guid": "MVMgXNTLEYXfEsm6FlFyoQ",
+                    "children": [
+                      {
+                        "id": "182",
+                        "parent": "181",
+                        "text": "Mayor precisión y reproducibilidad vs. ensayos ELISA",
+                        "guid": "I11lmtRRTbOOVmDIQt_ang",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "183",
+            "parent": "175",
+            "text": "## Valor diagnóstico\ncomparativo",
+            "guid": "y8LHYe63kmEzzgoYWR3amg",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "Ratio Aβ42/Aβ40\nen CSF vs. plasma",
+                "guid": "j77SRmhda9dSKHetMZhozg",
+                "children": [
+                  {
+                    "id": "185",
+                    "parent": "184",
+                    "text": "CSF: diferencia del 50% entre pacientes Alzheimer y controles sanos",
+                    "guid": "XIoyWbq8dFRyoGyhovCngg",
+                    "children": []
+                  },
+                  {
+                    "id": "186",
+                    "parent": "184",
+                    "text": "Plasma: solo diferencia del 20%",
+                    "guid": "Bn7ZLmxRrY-8n9XURg-tkw",
+                    "children": []
+                  },
+                  {
+                    "id": "187",
+                    "parent": "184",
+                    "text": "→ Mayor necesidad de mediciones precisas en plasma",
+                    "guid": "tXTRBSgoeIv0vny56T17xA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "188",
+                "parent": "183",
+                "text": "Estudios\ncomparativos\n(2014-2022)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "189",
+                    "parent": "188",
+                    "text": "Evaluaron sensibilidad y especificidad de ratio plasma Aβ42/Aβ40",
+                    "guid": "Q-BodskG5Z7xgaXfH98V_A",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "188",
+                    "text": "Compararon métodos ELISA vs. espectrometría de masas",
+                    "guid": "iYmQG2BOLAwKX2w-0nyPqg",
+                    "children": []
+                  },
+                  {
+                    "id": "191",
+                    "parent": "188",
+                    "text": "Resultados: mediciones por espectrometría de masas → mayor precisión diagnóstica",
+                    "guid": "G3cuOJfxwKBTot2zN-ANzQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "192",
+            "parent": "175",
+            "text": "## Disponibilidad\ncomercial",
+            "guid": "kfozs66sAx04CnvszqM8Lw",
+            "children": [
+              {
+                "id": "193",
+                "parent": "192",
+                "text": "Ratio Aβ42/Aβ40 por\nespectrometría de masas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "194",
+                    "parent": "193",
+                    "text": "Ofrecido comercialmente por dos laboratorios desde hace años",
+                    "guid": "WrRNdC1prPAtvgnp_XrBZw",
+                    "children": []
+                  },
+                  {
+                    "id": "195",
+                    "parent": "193",
+                    "text": "Limitado uso clínico por preocupaciones sobre precisión",
+                    "guid": "jxZao-HhanmQy572knPLyQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "196",
+            "parent": "175",
+            "text": "## Mejoras en\nbiomarcadores plasmáticos",
+            "guid": "UjEfihMkmKZsOyDOJap5ZQ",
+            "children": [
+              {
+                "id": "197",
+                "parent": "196",
+                "text": "Formas fosforiladas de\ntau en plasma (pTau)",
+                "guid": "2IZ6EFb4GhzbmxhW_53EXw",
+                "children": [
+                  {
+                    "id": "198",
+                    "parent": "197",
+                    "text": "Elevadas en pacientes con Alzheimer vs. controles",
+                    "guid": "CDgsevz6e1ntC1BKYBGeRA",
+                    "children": []
+                  },
+                  {
+                    "id": "199",
+                    "parent": "197",
+                    "text": "Valor diagnóstico varía según isoforma específica",
+                    "guid": "B88sX1shJ8CwVnDRvZMkxA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "200",
+                "parent": "196",
+                "text": "Isoformas\nespecíficas",
+                "guid": "BMxSKAU9QrwtKZkBO-raeQ",
+                "children": [
+                  {
+                    "id": "201",
+                    "parent": "200",
+                    "text": "pTau181: usado en ensayos CSF comerciales disponibles",
+                    "guid": "ThuOSAWMla2Qpn3hvFMp1g",
+                    "children": []
+                  },
+                  {
+                    "id": "202",
+                    "parent": "200",
+                    "text": "pTau217 y pTau205: mejor correlación con PET tau vs. pTau181",
+                    "guid": "ydEbfgjSLa-zSs-rsECn8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "200",
+                    "text": "pTau217 en plasma: mejor rendimiento en predicción de estado amiloide cerebral",
+                    "guid": "tADAuO6dvzVNlZJP0NGYbg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "204",
+                "parent": "196",
+                "text": "Factores confusores importantes",
+                "guid": "cad0gaYtSbDnrfdUcPNTnA",
+                "children": [
+                  {
+                    "id": "205",
+                    "parent": "204",
+                    "text": "Comorbilidades como insuficiencia renal → niveles artificialmente elevados",
+                    "guid": "jJcyAQTyOF9k5A9NUTzakQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "175",
+            "text": "## Aplicaciones\nclínicas actuales",
+            "guid": "-t-MYcSNTuYl90Q44c08EQ",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "Estratificación de riesgo de\npatología Alzheimer",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "208",
+                    "parent": "207",
+                    "text": "Pacientes bajo riesgo → evitan pruebas adicionales",
+                    "guid": "queIPJy49557egYae84Wcg",
+                    "children": []
+                  },
+                  {
+                    "id": "209",
+                    "parent": "207",
+                    "text": "Pacientes alto riesgo → proceden a PET amiloide o tau",
+                    "guid": "tWwQPzTXncDf6SUpm3BO3w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "210",
+                "parent": "206",
+                "text": "Protocolos y puntos de corte publicados",
+                "guid": "61IKroROMeC18Tp5mx4LoA",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "206",
+                "text": "Recomendaciones para incorporar este enfoque en evaluación de candidatos para inmunoterapia anti-amiloide",
+                "guid": "wqXyjPPBXnoZ3GtRgkl_-w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "212",
+            "parent": "175",
+            "text": "## Estado actual",
+            "guid": "d4IOchuFNGsF-u0Aa6rj2g",
+            "children": [
+              {
+                "id": "213",
+                "parent": "212",
+                "text": "Al menos dos pruebas de biomarcadores plasmáticos Alzheimer basadas en espectrometría de masas disponibles comercialmente",
+                "guid": "kKju1KIT40CqRfXFZcHDiQ",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "212",
+                "text": "Ambas reportan",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "215",
+                    "parent": "214",
+                    "text": "Ratio plasma Aβ42/Aβ40",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "216",
+                    "parent": "214",
+                    "text": "pTau217",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "217",
+                "parent": "212",
+                "text": "Diferencias\nen reporte",
+                "guid": "t_jW2Nb7btQIgq9o-NpV0w",
+                "children": [
+                  {
+                    "id": "218",
+                    "parent": "217",
+                    "text": "Una prueba: valor absoluto de pTau217",
+                    "guid": "SJdrlp-7VsUi_Lm9W7Ryrw",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "217",
+                    "text": "Otra prueba: pTau217 como fracción de tau total (enfoque validado)",
+                    "guid": "FO3VPmOrXnjm3V8J_fI7Rw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "220",
+            "parent": "175",
+            "text": "## Caso clínico\nilustrativo",
+            "guid": "JGKqfYKKSXQ8u8NcVLdOMw",
+            "children": [
+              {
+                "id": "221",
+                "parent": "220",
+                "text": "Paciente: hombre de 70 años con deterioro cognitivo leve amnésico",
+                "guid": "fSsJgEpAfpRrB6Fdw_SXAw",
+                "children": []
+              },
+              {
+                "id": "222",
+                "parent": "220",
+                "text": "Motivo: evaluación para inmunoterapia anti-amiloide",
+                "guid": "t6Dv9q6cA05i7d28umgH0g",
+                "children": []
+              },
+              {
+                "id": "223",
+                "parent": "220",
+                "text": "Historia clínica",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "224",
+                    "parent": "223",
+                    "text": "Deterioro de memoria progresivo durante 2 años",
+                    "guid": "Pa6HrVaxpa70ythcJZF6Kg",
+                    "children": []
+                  },
+                  {
+                    "id": "225",
+                    "parent": "223",
+                    "text": "Evaluación neuropsicológica: deterioro de memoria en rango leve",
+                    "guid": "xVurabJSaKoC0992g_I7qg",
+                    "children": []
+                  },
+                  {
+                    "id": "226",
+                    "parent": "223",
+                    "text": "Atención, lenguaje y función visuoespacial intactos",
+                    "guid": "-4UWwBBzp6EgWWjO_p-iDA",
+                    "children": []
+                  },
+                  {
+                    "id": "227",
+                    "parent": "223",
+                    "text": "Resto de examen neurológico normal",
+                    "guid": "NhGgfFMxp3Yrk5l8zdWbGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "228",
+                "parent": "220",
+                "text": "Pruebas iniciales\nnormales",
+                "guid": "lExkxTHcYXWd-B5nihdYXg",
+                "children": [
+                  {
+                    "id": "229",
+                    "parent": "228",
+                    "text": "Hemograma, química, TSH, vitamina B12",
+                    "guid": "9D1xjx3642OlZXvglQoi8w",
+                    "children": []
+                  },
+                  {
+                    "id": "230",
+                    "parent": "228",
+                    "text": "RM cerebral: atrofia generalizada leve, sin microhemorragias ni angiopatía amiloide",
+                    "guid": "FHUiDbaJwmSJtoAJTpnxWg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "231",
+                "parent": "220",
+                "text": "Biomarcadores\nplasmáticos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "232",
+                    "parent": "231",
+                    "text": "Ratio Aβ42/40 disminuido",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "233",
+                    "parent": "231",
+                    "text": "Ratio pTau/tau total elevado",
+                    "guid": "rh0oqqX7pCRv4-9gF_6TQw",
+                    "children": []
+                  },
+                  {
+                    "id": "234",
+                    "parent": "231",
+                    "text": "→ Sugestivo de Alzheimer",
+                    "guid": "5dq4sV9XHt-VxlF5b9AJSw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "235",
+                "parent": "220",
+                "text": "Confirmación\ncon CSF",
+                "guid": "1SisAGfkIui1lYVZDgpqaw",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "Índice amiloide-tau bajo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "237",
+                    "parent": "235",
+                    "text": "pTau181 elevado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "238",
+                    "parent": "235",
+                    "text": "→ Confirmación de patología amiloide",
+                    "guid": "UTa-NSX6TO2J_Q7H8ZmUzw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "220",
+                "text": "Resultado: Diagnóstico presuntivo de Alzheimer, procede a terapia con anticuerpo anti-amiloide",
+                "guid": "SZFS06ctWEIrrUxV7k7FPg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "240",
+            "parent": "175",
+            "text": "## Comentario sobre\nutilidad clínica",
+            "guid": "-V2vIONnUQ1NMg9pwFZ_QQ",
+            "children": [
+              {
+                "id": "241",
+                "parent": "240",
+                "text": "Biomarcadores plasmáticos y CSF útiles para confirmar patología amiloide cerebral",
+                "guid": "6DdkHoJIxMa7UMgbCFvCKA",
+                "children": []
+              },
+              {
+                "id": "242",
+                "parent": "240",
+                "text": "Prerrequisito para terapia anti-amiloide",
+                "guid": "vsoOCXmKG4hlLmWx_SlBuQ",
+                "children": []
+              },
+              {
+                "id": "243",
+                "parent": "240",
+                "text": "PET amiloide: costoso y no universalmente disponible",
+                "guid": "k73NJm6LT1tsPQFNUBKmJg",
+                "children": []
+              },
+              {
+                "id": "244",
+                "parent": "240",
+                "text": "Pruebas CSF: mantienen rol importante para este propósito",
+                "guid": "Bhaz48dWN8npj0Tj57RMPA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "245",
+        "parent": "0",
+        "text": "# Biomarcadores Sanguíneos con Rol\nPotencial en Manejo de Demencia",
+        "guid": "JD_fo7Qj2C1_zQKgkTsvKQ",
+        "children": [
+          {
+            "id": "246",
+            "parent": "245",
+            "text": "## Contexto y\nrelevancia clínica",
+            "guid": "dnZsHsLKugobPvh6-9JpFA",
+            "children": [
+              {
+                "id": "247",
+                "parent": "246",
+                "text": "Interés en biomarcadores como medidas de resultado para evaluar eficacia de terapias modificadoras de enfermedad",
+                "guid": "_3WYkFzADToVEknA_13chA",
+                "children": []
+              },
+              {
+                "id": "248",
+                "parent": "246",
+                "text": "Ventaja principal: muestreo sanguíneo seriado más preferible que muestreo CSF seriado",
+                "guid": "l2wy4qLqo4mfBVuSjmtRTQ",
+                "children": []
+              },
+              {
+                "id": "249",
+                "parent": "246",
+                "text": "Datos preliminares alentadores",
+                "guid": "YOzAESo1FmrYkB_hVY5ezA",
+                "children": []
+              },
+              {
+                "id": "250",
+                "parent": "246",
+                "text": "Biomarcadores evaluados e incorporados en ensayos clínicos",
+                "guid": "mhK0IoTcwaUIFogWilOdpA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "251",
+            "parent": "245",
+            "text": "## Biomarcadores\nplasmáticos prometedores",
+            "guid": "NCzTz1f9GeWy234LVRJCvw",
+            "children": [
+              {
+                "id": "252",
+                "parent": "251",
+                "text": "Cadena ligera de\nneurofilamento en plasma",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "253",
+                    "parent": "252",
+                    "text": "Marcador sensible de neurodegeneración",
+                    "guid": "UOLcHzZWrRCEQCPAV78lNA",
+                    "children": []
+                  },
+                  {
+                    "id": "254",
+                    "parent": "252",
+                    "text": "No específico para diagnóstico particular",
+                    "guid": "M55jmWrmnedRqH7vGUvDRw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "255",
+                "parent": "251",
+                "text": "GFAP plasmático",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "256",
+                    "parent": "255",
+                    "text": "Marcador de activación astrocítica",
+                    "guid": "k23RrofrJ_4naQK-50fNaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
+                    "parent": "255",
+                    "text": "Distingue entre personas sanas y aquellas con patología Alzheimer",
+                    "guid": "nwWYN2U-7lXUWK78CCRsZw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "258",
+                "parent": "251",
+                "text": "Ensayos clínicos de anticuerpos\nanti-amiloide efectivos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "259",
+                    "parent": "258",
+                    "text": "Aportan información sobre biomarcadores\nque podrían servir en práctica clínica",
+                    "guid": "pOujVejnuNJmAU7gfMGR3w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "260",
+            "parent": "245",
+            "text": "## Diferencias en Biomarcadores entre\nGrupos Raciales y Étnicos",
+            "guid": "WD-dGgKlgqQuAaFGmF09Gw",
+            "children": [
+              {
+                "id": "261",
+                "parent": "260",
+                "text": "Tasas de demencia relacionadas con\nedad varían entre grupos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "262",
+                    "parent": "261",
+                    "text": "Hispanos/Latinos y Afroamericanos → generalmente más afectados que blancos no hispanos",
+                    "guid": "eLt9jD7xj2oB3nbt31CcXg",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "261",
+                    "text": "Asiático-americanos → generalmente menos afectados que blancos no hispanos",
+                    "guid": "xeHbXbMhrooGgPvNIAXp8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "264",
+                "parent": "260",
+                "text": "Diferencias\nsignificativas en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "265",
+                    "parent": "264",
+                    "text": "Abundancia de biomarcadores en fluidos",
+                    "guid": "ntHZ0ypoC0o715qPmwmhMA",
+                    "children": []
+                  },
+                  {
+                    "id": "266",
+                    "parent": "264",
+                    "text": "Valor predictivo para demencia",
+                    "guid": "D5BF3vJE9eiP0kMK0Enp1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "267",
+                "parent": "260",
+                "text": "Hallazgos\nespecíficos",
+                "guid": "QQ21kUhEVsj4OfJlJGrb1g",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "Mexicano-americanos cognitivamente sanos → tau total plasmático más alto que afroamericanos o blancos no hispanos",
+                    "guid": "KUxiDJRK278vnr3Kvmkr-A",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "267",
+                    "text": "Afroamericanos cognitivamente sanos → ratio Aβ42/Aβ40 más alto que blancos no hispanos",
+                    "guid": "Kct0-b5SGiMCdF6-02KkQA",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "267",
+                    "text": "Afroamericanos con deterioro cognitivo leve → niveles más bajos de tau total plasmático y cadena ligera de neurofilamento",
+                    "guid": "9i1PDYiizNCmYhS2pFa8vw",
+                    "children": []
+                  },
+                  {
+                    "id": "271",
+                    "parent": "267",
+                    "text": "Marcadores pTau plasmáticos → menos predictivos de positividad amiloide cerebral en afroamericanos",
+                    "guid": "YwxpEvnir_gva8iW5S9Szw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "272",
+                "parent": "260",
+                "text": "Diferencias observadas también\nen biomarcadores CSF",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "273",
+                    "parent": "272",
+                    "text": "Tau total, pTau181 y cadena ligera de neurofilamento → más bajos en afroamericanos",
+                    "guid": "XjDzG4IqKMa98KkADAnmWA",
+                    "children": []
+                  },
+                  {
+                    "id": "274",
+                    "parent": "272",
+                    "text": "Sin diferencias en niveles de Aβ42, Aβ40 o su ratio",
+                    "guid": "SZnb-y2I6Dzu4sZt5V3QMw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "275",
+                "parent": "260",
+                "text": "Seguimiento longitudinal\nmuestra menos discrepancias",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "276",
+                    "parent": "275",
+                    "text": "Cambio longitudinal en ratio plasmático Aβ42/Aβ40 similar entre afroamericanos y blancos no hispanos",
+                    "guid": "MCD_vzdRtudPFykPy6Lp9A",
+                    "children": []
+                  },
+                  {
+                    "id": "277",
+                    "parent": "275",
+                    "text": "Valor predictivo de cambio longitudinal para positividad amiloide cerebral igual entre grupos",
+                    "guid": "oqPSHqDsMbmMi3nlfPedoQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "278",
+                "parent": "260",
+                "text": "Implicación crítica",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "279",
+                    "parent": "278",
+                    "text": "Estas diferencias impactan diagnóstico y decisiones de tratamiento en grupos subrepresentados",
+                    "guid": "IbtGiXZTB39Hzolo-1WA5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "280",
+            "parent": "245",
+            "text": "## Pruebas Directas\nal Consumidor",
+            "guid": "KWhzceUS5mjdCwbM7EzPSQ",
+            "children": [
+              {
+                "id": "281",
+                "parent": "280",
+                "text": "Desde julio 2023: un fabricante ofrece pruebas de biomarcadores sanguíneos directamente a consumidores",
+                "guid": "7w4UOXt1ou03N6F9YxPqHg",
+                "children": []
+              },
+              {
+                "id": "282",
+                "parent": "280",
+                "text": "Proceso: pedido online → extracción en centro local → resultados a través de portal del paciente",
+                "guid": "Tfw5x63P93iGXzHISeIBlQ",
+                "children": []
+              },
+              {
+                "id": "283",
+                "parent": "280",
+                "text": "Actualmente limitado a ratio Aβ42/Aβ40",
+                "guid": "P7mPUpzok4gsJrsql6OUwQ",
+                "children": []
+              },
+              {
+                "id": "284",
+                "parent": "280",
+                "text": "Posibles efectos significativos en práctica neurológica",
+                "guid": "hD03WPEmE0bMq8KGT8UOCQ",
+                "children": []
+              },
+              {
+                "id": "285",
+                "parent": "280",
+                "text": "No ampliamente adoptado por el público",
+                "guid": "uIiaHg1a2Nb165JL_yg0QQ",
+                "children": []
+              },
+              {
+                "id": "286",
+                "parent": "280",
+                "text": "Necesidad de educación sobre\ninterpretación de resultados",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "287",
+                    "parent": "286",
+                    "text": "Especialmente en comunidades diversas",
+                    "guid": "_ZPEDq5eIgAiS5i5YtyoFw",
+                    "children": []
+                  },
+                  {
+                    "id": "288",
+                    "parent": "286",
+                    "text": "Para evitar retrasos en búsqueda de atención médica o preocupación indebida",
+                    "guid": "ZCFHhU99kf1kWtiPqdAjDg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "289",
+        "parent": "0",
+        "text": "## Conclusión",
+        "guid": "4y8UwQQpg6TWBVShVOxz7w",
+        "children": [
+          {
+            "id": "290",
+            "parent": "289",
+            "text": "Biomarcadores CSF",
+            "guid": "",
+            "children": [
+              {
+                "id": "291",
+                "parent": "290",
+                "text": "Disponibles actualmente para diagnóstico diferencial de demencia",
+                "guid": "_nIoCd93e-PFUu3DxXLZmA",
+                "children": []
+              },
+              {
+                "id": "292",
+                "parent": "290",
+                "text": "Útiles para determinar estado amiloide para considerar tratamiento con anticuerpo anti-amiloide",
+                "guid": "kgFHexBRmxy2mWqXoqtujg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "293",
+            "parent": "289",
+            "text": "Biomarcadores\nsanguíneos",
+            "guid": "",
+            "children": [
+              {
+                "id": "294",
+                "parent": "293",
+                "text": "Avanzados significativamente en última década",
+                "guid": "Qmo5SbNXAG7LAS05ggByPA",
+                "children": []
+              },
+              {
+                "id": "295",
+                "parent": "293",
+                "text": "Usados para estratificación de riesgo",
+                "guid": "YLjAY0GzYoMhaOXG1tAgtw",
+                "children": []
+              },
+              {
+                "id": "296",
+                "parent": "293",
+                "text": "Selección de pacientes para determinación de estado amiloide por CSF o PET",
+                "guid": "W3NtgRqufcyZVXZuZmBwKQ",
+                "children": []
+              },
+              {
+                "id": "297",
+                "parent": "293",
+                "text": "Aplicación en ensayos clínicos y práctica clínica",
+                "guid": "mQ4mibJjDeron1Kf5amcBQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "298",
+            "parent": "289",
+            "text": "Futuro próximo",
+            "guid": "",
+            "children": [
+              {
+                "id": "299",
+                "parent": "298",
+                "text": "Podrían servir como pruebas diagnósticas independientes para patología Alzheimer",
+                "guid": "kMvUb88LOVmIssrkTxJJ6g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "300",
+        "parent": "0",
+        "text": "## Puntos Clave",
+        "guid": "",
+        "children": [
+          {
+            "id": "301",
+            "parent": "300",
+            "text": "Terapias anti-amiloides aprobadas por FDA → mayor importancia clínica práctica de métodos diagnósticos específicos",
+            "guid": "gvI53epswAc2CszxP8gMuQ",
+            "children": []
+          },
+          {
+            "id": "302",
+            "parent": "300",
+            "text": "Niveles CSF de Aβ influenciados por tipo de tubo (recolección en polipropileno necesaria)",
+            "guid": "pdNsQ4HN7-DJhvfxbYKUCA",
+            "children": []
+          },
+          {
+            "id": "303",
+            "parent": "300",
+            "text": "Índice amiloide-tau y nivel absoluto de pTau181 → indicador más fuerte de patología Alzheimer",
+            "guid": "cWhtPMfeM-Yi2r7CCp27GQ",
+            "children": []
+          },
+          {
+            "id": "304",
+            "parent": "300",
+            "text": "Métodos RT-QuIC → excelente sensibilidad/especificidad para diagnóstico de Creutzfeldt-Jakob",
+            "guid": "ArdMNSVkk8N9A8UcoocT2A",
+            "children": []
+          },
+          {
+            "id": "305",
+            "parent": "300",
+            "text": "Biomarcadores CSF útiles disponibles para Alzheimer, Creutzfeldt-Jakob y patología α-sinucleína",
+            "guid": "8qreUBWC2oJRRJDt7JS6yQ",
+            "children": []
+          },
+          {
+            "id": "306",
+            "parent": "300",
+            "text": "Indicadores CSF de lesión neuronal emergiendo como biomarcadores útiles",
+            "guid": "_cV7pViPSoBNJhYjXKKIjg",
+            "children": []
+          },
+          {
+            "id": "307",
+            "parent": "300",
+            "text": "Ratio Aβ42/Aβ40 y espectrometría de masas → mayor precisión en mediciones sanguíneas",
+            "guid": "f92l7ZVYc8bpk9Hv4bFcow",
+            "children": []
+          },
+          {
+            "id": "308",
+            "parent": "300",
+            "text": "Utilidad diagnóstica de pTau plasmático afectada por comorbilidades (pTau217 más efectivo)",
+            "guid": "hz_xkMWRMtDjdIMfbNxRkQ",
+            "children": []
+          },
+          {
+            "id": "309",
+            "parent": "300",
+            "text": "Diferencias significativas en biomarcadores entre grupos raciales/étnicos requieren consideración en decisiones terapéuticas",
+            "guid": "wUGzfLmfoYI38UhVLmru3g",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "310",
+        "parent": "0",
+        "text": "# Tablas de Biomarcadores en\nDiagnóstico y Manejo de Demencia",
+        "guid": "T2O_O_FMeJI31rSlS2ZXPQ",
+        "children": [
+          {
+            "id": "311",
+            "parent": "310",
+            "text": "## Tabla 1: Biomarcadores\nCSF útiles para diagnóstico\ndiferencial de demencia",
+            "guid": "G7rXgZsR0LL8FCz7Ddsleg",
+            "children": [
+              {
+                "id": "312",
+                "parent": "311",
+                "text": "Enfermedad\nde Alzheimer",
+                "guid": "fTQDeLv197jqoCXjw-8LuA",
+                "children": [
+                  {
+                    "id": "313",
+                    "parent": "312",
+                    "text": "Amiloide-β (Aβ1-Aβ42): Bajo",
+                    "guid": "ZGIvAUO198b21Jri4Iy55w",
+                    "children": []
+                  },
+                  {
+                    "id": "314",
+                    "parent": "312",
+                    "text": "Tau: Alto",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "315",
+                    "parent": "312",
+                    "text": "Tau fosforilado 181: Alto",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "316",
+                    "parent": "312",
+                    "text": "Proteína 14-3-3: Dentro de límites normales",
+                    "guid": "qUzp-a2fsAJVPeFx01sEPw",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "312",
+                    "text": "RT-QuIC priónica: Negativo",
+                    "guid": "2FCMMtbjU1Bp9WfYG_Q58g",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "312",
+                    "text": "RT-QuIC α-sinucleína: Negativo",
+                    "guid": "YKnz-JArnGCK5IOiRqlsIQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "319",
+                "parent": "311",
+                "text": "Enfermedad de\nCreutzfeldt-Jakob",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "320",
+                    "parent": "319",
+                    "text": "Amiloide-β (Aβ1-Aβ42): Dentro de límites normales",
+                    "guid": "IQWyHYVYWxWLdS1hHhU5fQ",
+                    "children": []
+                  },
+                  {
+                    "id": "321",
+                    "parent": "319",
+                    "text": "Tau: Alto",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "322",
+                    "parent": "319",
+                    "text": "Tau fosforilado 181: Dentro de límites normales",
+                    "guid": "LCPJeLNApXmpVIcBpRDjzw",
+                    "children": []
+                  },
+                  {
+                    "id": "323",
+                    "parent": "319",
+                    "text": "Proteína 14-3-3: Alto",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "324",
+                    "parent": "319",
+                    "text": "RT-QuIC priónica: Positivo",
+                    "guid": "8lHS8w2PeuO3uk8ktqlaeA",
+                    "children": []
+                  },
+                  {
+                    "id": "325",
+                    "parent": "319",
+                    "text": "RT-QuIC α-sinucleína: Negativo",
+                    "guid": "9vOGVyKSN5mm0tmiDWns0w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "326",
+                "parent": "311",
+                "text": "Enfermedad de\nParkinson/demencia",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "327",
+                    "parent": "326",
+                    "text": "Amiloide-β (Aβ1-Aβ42): Variable",
+                    "guid": "Fu-c4qzc0OH_L3Ss8hQRYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "328",
+                    "parent": "326",
+                    "text": "Tau: Variable",
+                    "guid": "ONFDeOsbDORrr02YjbinLg",
+                    "children": []
+                  },
+                  {
+                    "id": "329",
+                    "parent": "326",
+                    "text": "Tau fosforilado 181: Variable",
+                    "guid": "XyBXhtCCLXZ2S3ULjw0wHQ",
+                    "children": []
+                  },
+                  {
+                    "id": "330",
+                    "parent": "326",
+                    "text": "Proteína 14-3-3: Dentro de límites normales",
+                    "guid": "4HpKO4Sq0rXcZnhbWq1QhA",
+                    "children": []
+                  },
+                  {
+                    "id": "331",
+                    "parent": "326",
+                    "text": "RT-QuIC priónica: Negativo",
+                    "guid": "CwSh3GSJtv6BjT4Nh1grpw",
+                    "children": []
+                  },
+                  {
+                    "id": "332",
+                    "parent": "326",
+                    "text": "RT-QuIC α-sinucleína: Positivo",
+                    "guid": "mAdkDkOsQWRTnKDUIWgNWg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "333",
+                "parent": "311",
+                "text": "Demencia con\ncuerpos de Lewy",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "334",
+                    "parent": "333",
+                    "text": "Amiloide-β (Aβ1-Aβ42): Variable",
+                    "guid": "M7dKuTTS1w3t5dDRgfPEwA",
+                    "children": []
+                  },
+                  {
+                    "id": "335",
+                    "parent": "333",
+                    "text": "Tau: Variable",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "336",
+                    "parent": "333",
+                    "text": "Tau fosforilado 181: Variable",
+                    "guid": "3d2YJiFU7JZy8GXG60kNSg",
+                    "children": []
+                  },
+                  {
+                    "id": "337",
+                    "parent": "333",
+                    "text": "Proteína 14-3-3: Dentro de límites normales",
+                    "guid": "k1tQCOmXOPFeoJ4DILvbIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "338",
+                    "parent": "333",
+                    "text": "RT-QuIC priónica: Negativo",
+                    "guid": "SVUMoz9CidAvDPoufRf2YQ",
+                    "children": []
+                  },
+                  {
+                    "id": "339",
+                    "parent": "333",
+                    "text": "RT-QuIC α-sinucleína: Positivo",
+                    "guid": "AE08Hoq8eAz3PFY8GXSX2Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "340",
+            "parent": "310",
+            "text": "## Tabla 2: Cambios en biomarcadores\nCSF en pacientes tratados con anticuerpos\nanti-amiloide vs. placebo",
+            "guid": "vH-G_Iq-n4Kzp9GBN8JLTQ",
+            "children": [
+              {
+                "id": "341",
+                "parent": "340",
+                "text": "Aducanumab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "342",
+                    "parent": "341",
+                    "text": "Amiloide-β (Aβ): Aβ42 aumentado",
+                    "guid": "x-mtOyrxqN8dPZvJMzlAGA",
+                    "children": []
+                  },
+                  {
+                    "id": "343",
+                    "parent": "341",
+                    "text": "Tau: Tau disminuido",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "344",
+                    "parent": "341",
+                    "text": "Tau fosforilado (pTau): pTau181 disminuido",
+                    "guid": "GwPzbGGB-jZCxKdfqW_l-w",
+                    "children": []
+                  },
+                  {
+                    "id": "345",
+                    "parent": "341",
+                    "text": "Cadena ligera de neurofilamento: No reportado",
+                    "guid": "1TEwdAHqU9CJPXfPnNIKNg",
+                    "children": []
+                  },
+                  {
+                    "id": "346",
+                    "parent": "341",
+                    "text": "Proteína ácida fibrilar glial (GFAP): No reportado",
+                    "guid": "MXn_KgDxrO-hKQs8Tkejuw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "347",
+                "parent": "340",
+                "text": "Lecanemab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "348",
+                    "parent": "347",
+                    "text": "Amiloide-β (Aβ): Aβ42 aumentado",
+                    "guid": "voNZck6bgqumv-7YhY-0fw",
+                    "children": []
+                  },
+                  {
+                    "id": "349",
+                    "parent": "347",
+                    "text": "Tau: Tau disminuido",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "350",
+                    "parent": "347",
+                    "text": "Tau fosforilado (pTau): pTau181 disminuido",
+                    "guid": "hLUH59HTYK0CvlZjpLsVLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "351",
+                    "parent": "347",
+                    "text": "Cadena ligera de neurofilamento: Sin cambios",
+                    "guid": "czOMki-FcOQ7cGuTK-uFmg",
+                    "children": []
+                  },
+                  {
+                    "id": "352",
+                    "parent": "347",
+                    "text": "Proteína ácida fibrilar glial (GFAP): No reportado",
+                    "guid": "k9ByDo3pebb2yBRE4Hh8hA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "353",
+                "parent": "340",
+                "text": "Donanemab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "354",
+                    "parent": "353",
+                    "text": "Amiloide-β (Aβ): No reportado",
+                    "guid": "xij46KCH0FMl2jKT2B2Sfg",
+                    "children": []
+                  },
+                  {
+                    "id": "355",
+                    "parent": "353",
+                    "text": "Tau: No reportado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "356",
+                    "parent": "353",
+                    "text": "Tau fosforilado (pTau): No reportado",
+                    "guid": "VJl2MnsmK4XzybOmoV_vew",
+                    "children": []
+                  },
+                  {
+                    "id": "357",
+                    "parent": "353",
+                    "text": "Cadena ligera de neurofilamento: No reportado",
+                    "guid": "HCw-ZGYPEVOuTwiuo_VqpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "358",
+                    "parent": "353",
+                    "text": "Proteína ácida fibrilar glial (GFAP): No reportado",
+                    "guid": "bG_8glOW0RjTft1CmSjaew",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "359",
+            "parent": "310",
+            "text": "## Tabla 3: Cambios en biomarcadores\nplasmáticos en pacientes tratados con\nanticuerpos anti-amiloide vs. placebo",
+            "guid": "gEje5P929d0MHmDDORfXhg",
+            "children": [
+              {
+                "id": "360",
+                "parent": "359",
+                "text": "Aducanumab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "361",
+                    "parent": "360",
+                    "text": "Amiloide-β (Aβ): No reportado",
+                    "guid": "yvc-_rLeSMDWLZPvXrPfcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "362",
+                    "parent": "360",
+                    "text": "Tau: No reportado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "363",
+                    "parent": "360",
+                    "text": "Tau fosforilado (pTau): pTau181 disminuido",
+                    "guid": "xPqOs-SuMtdgS9E6WpBxsg",
+                    "children": []
+                  },
+                  {
+                    "id": "364",
+                    "parent": "360",
+                    "text": "Cadena ligera de neurofilamento: No reportado",
+                    "guid": "xdZ9jWqIMAMResf_RS1o0g",
+                    "children": []
+                  },
+                  {
+                    "id": "365",
+                    "parent": "360",
+                    "text": "Proteína ácida fibrilar glial (GFAP): No reportado",
+                    "guid": "U_tPwX89uztY-zOjB6H_Iw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "366",
+                "parent": "359",
+                "text": "Lecanemab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "367",
+                    "parent": "366",
+                    "text": "Amiloide-β (Aβ): Ratio Aβ42/Aβ40 aumentado",
+                    "guid": "MxEjRHS68tr1SA7hOMiCdw",
+                    "children": []
+                  },
+                  {
+                    "id": "368",
+                    "parent": "366",
+                    "text": "Tau: No reportado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "369",
+                    "parent": "366",
+                    "text": "Tau fosforilado (pTau): pTau181 disminuido",
+                    "guid": "ojKi3CYJwx7iRbAzFC6Jeg",
+                    "children": []
+                  },
+                  {
+                    "id": "370",
+                    "parent": "366",
+                    "text": "Cadena ligera de neurofilamento: Sin efecto de tratamiento",
+                    "guid": "8MypxenUMmzyqzfV88Oj8g",
+                    "children": []
+                  },
+                  {
+                    "id": "371",
+                    "parent": "366",
+                    "text": "Proteína ácida fibrilar glial (GFAP): GFAP disminuido",
+                    "guid": "pE0HoPITvA-iSoisW5jk-g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "372",
+                "parent": "359",
+                "text": "Donanemab",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "373",
+                    "parent": "372",
+                    "text": "Amiloide-β (Aβ): Sin efecto de tratamiento en ratio Aβ42/Aβ40",
+                    "guid": "YwsPg5wZ0lkgow4b5Pyyjw",
+                    "children": []
+                  },
+                  {
+                    "id": "374",
+                    "parent": "372",
+                    "text": "Tau: No reportado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "375",
+                    "parent": "372",
+                    "text": "Tau fosforilado (pTau): pTau217 disminuido",
+                    "guid": "95oPET_tMWtMl6XKH0fUSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "376",
+                    "parent": "372",
+                    "text": "Cadena ligera de neurofilamento: Sin efecto de tratamiento",
+                    "guid": "PjfsTUm3t_mX11XDZjZohA",
+                    "children": []
+                  },
+                  {
+                    "id": "377",
+                    "parent": "372",
+                    "text": "Proteína ácida fibrilar glial (GFAP): GFAP disminuido",
+                    "guid": "bBjE9dE4GIlY_PbbV_QuBA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 378,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Continuum",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "Continuum. Biomarcadores en demencia-2025",
+  "id": "map_1055",
+  "resolved_references": []
+}

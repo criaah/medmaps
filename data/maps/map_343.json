@@ -1,0 +1,189 @@
+{
+  "title": "PROSEVA (2013)",
+  "guid": "PROSEVA-2013",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/PROSEVA-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PROSEVA (2013)\n\\n⭐ Prono en SDRA severo\\nreduce mortalidad 50%\n\\nNNT = 6",
+    "guid": "PRO-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACIÓN",
+        "guid": "PRO-ID",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "NEJM 2013;368:2159-68\\nFrancia, 26 UCIs",
+            "guid": "PRO-ID1",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "RCT multicéntrico\\nOpen-label (inevitable)",
+            "guid": "PRO-ID2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "👥 POBLACIÓN",
+        "guid": "PRO-POB",
+        "children": [
+          {
+            "id": "5",
+            "parent": "4",
+            "text": "n = 466\\n237 prono\\n229 supino",
+            "guid": "PRO-P1",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "4",
+            "text": "SDRA SEVERO: P/F menor 150\\ncon FiO2 ≥60%, PEEP ≥5\\nMenor 36h desde intubación",
+            "guid": "PRO-P2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "💊 INTERVENCIÓN",
+        "guid": "PRO-INT",
+        "children": [
+          {
+            "id": "8",
+            "parent": "7",
+            "text": "PRONO ⭐\\nSesiones ≥16 horas consecutivas\\nRepetir hasta mejoría\\nPromedio: 4 sesiones/paciente",
+            "guid": "PRO-I1",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "7",
+            "text": "SUPINO\\nVentilación estándar ARDSNet\\nVt 6 ml/kg",
+            "guid": "PRO-I2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "📊 OUTCOMES",
+        "guid": "PRO-OUT",
+        "children": [
+          {
+            "id": "11",
+            "parent": "10",
+            "text": "Mortalidad 28 días ⭐⭐⭐\\nProno: 16.0%\\nSupino: 32.8%\\nHR 0.39 p menor 0.001",
+            "guid": "PRO-O1",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "10",
+            "text": "Reducción RELATIVA: 51%\\nNNT = 6\\nUna de las intervenciones\\nmás efectivas en UCI",
+            "guid": "PRO-O2",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "10",
+            "text": "Mortalidad 90 días:\\nProno: 23.6%\\nSupino: 41.0%",
+            "guid": "PRO-O3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD",
+        "guid": "PRO-SEG",
+        "children": [
+          {
+            "id": "15",
+            "parent": "14",
+            "text": "Paro cardíaco: 8% vs 14%\\n(MENOR en prono)",
+            "guid": "PRO-S1",
+            "children": []
+          },
+          {
+            "id": "16",
+            "parent": "14",
+            "text": "UPP: sin diferencia\\nExtubación accidental: 1.3% vs 0.4%",
+            "guid": "PRO-S2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "parent": "0",
+        "text": "🏥 ANCIANOS",
+        "guid": "PRO-GER",
+        "children": [
+          {
+            "id": "18",
+            "parent": "17",
+            "text": "Edad NO es contraindicación\\nBeneficio consistente subgrupos",
+            "guid": "PRO-G1",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "17",
+            "text": "Precauciones:\\n• Fragilidad cutánea (UPP)\\n• Cifosis/artrosis cervical\\n• Osteoporosis",
+            "guid": "PRO-G2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "parent": "0",
+        "text": "💎 PERLAS CLÍNICAS",
+        "guid": "PRO-PERLAS",
+        "children": [
+          {
+            "id": "21",
+            "parent": "20",
+            "text": "1. SDRA SEVERO (P/F menor 150)\\nNo aplica a leve/moderado",
+            "guid": "PRO-PE1",
+            "children": []
+          },
+          {
+            "id": "22",
+            "parent": "20",
+            "text": "2. Mínimo 16 HORAS por sesión\\nSesiones cortas no funcionan",
+            "guid": "PRO-PE2",
+            "children": []
+          },
+          {
+            "id": "23",
+            "parent": "20",
+            "text": "3. Implementar TEMPRANO\\nMenor 36h desde intubación",
+            "guid": "PRO-PE3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 24,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "PROSEVA-2026",
+  "id": "map_343",
+  "resolved_references": []
+}

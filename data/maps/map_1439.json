@@ -1,0 +1,826 @@
+{
+  "title": "LEUCOPOYESIS",
+  "guid": "222BBC2B09ECD7F6474DA656",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/3. LEUCOPOYESIS-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "LEUCOPOYESIS",
+    "guid": "Ho7PiUCJV0FHNhcpB58roA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## 1. INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Proceso de generación de leucocitos a partir de células madre hematopoyéticas pluripotentes",
+            "guid": "PPnFpns-dA43SBUIdKZJcA",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Parte del proceso general de hematopoyesis en médula ósea",
+            "guid": "cbzUxnv8ZMF7ndF1LFCGNw",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Requiere factores de maduración y moléculas de adhesión celular",
+            "guid": "CTtPWDU4atdGVWzbL9k6ug",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "- Comprende granulomonopoyesis y linfopoyesis",
+            "guid": "D-lOVC5pzvMVML_zWwux5g",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## 2. GRANULOMONOPOYESIS",
+        "guid": "IQxsdAMGBTtrY150ORlo7g",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "### 2.1. ESTADIOS\nMADURATIVOS",
+            "guid": "JTHBZnVQNmoAZw9EQ8CQ8A",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "- **Características del\nproceso de maduración**:",
+                "guid": "IJuX71SH5LtVXy_3KdbnRw",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "- Reducción del tamaño celular",
+                    "guid": "NdmNq0edJm1LX7yQJXh-Gg",
+                    "children": []
+                  },
+                  {
+                    "id": "10",
+                    "parent": "8",
+                    "text": "- Adquisición de granulación específica",
+                    "guid": "J0oELzwTYOttVx4mZEPJ1g",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "8",
+                    "text": "- Segmentación nuclear",
+                    "guid": "N1HU-SSfMy5Y6hNGKQ6pvw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12",
+                "parent": "7",
+                "text": "- **Compartimiento mitótico**\n(con capacidad de división):",
+                "guid": "CcBPkxu0nNJZsCICGamd5w",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "- Mieloblasto",
+                    "guid": "Sh5rxm7g4fV0tU_NayrYOg",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "- Promielocito",
+                    "guid": "cebnMWAYrkEkREEoFxiolw",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "12",
+                    "text": "- Mielocito",
+                    "guid": "VWjkqySrUGxa2TmHC0JyVg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "16",
+                "parent": "7",
+                "text": "- **Compartimiento\nde maduración**:",
+                "guid": "JUg84BgMBbMNI8D8LwiMcw",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "- Metamielocito",
+                    "guid": "bEh22SY49hcwuvBwE5J7CQ",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "16",
+                    "text": "- Baciliformes",
+                    "guid": "YkxXAx4SDpZ31kTfGZ4r_A",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "16",
+                    "text": "- Segmentados (eosinófilos, neutrófilos, basófilos)",
+                    "guid": "QrFBxVDAWCVCrNW8Y0zZtA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20",
+                "parent": "7",
+                "text": "- **Línea monocítica**:",
+                "guid": "HYAoaA1OJ65etFS8cukNEw",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "- Monoblasto → Promonocito → Monocito → Macrófago",
+                    "guid": "M8CihWbT4v5Isipafd8OSw",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "- Monocitos permanecen ~12 horas en circulación antes de migrar a tejidos",
+                    "guid": "VbTE8z1neidpCeaGR5usJA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "6",
+            "text": "### 2.2. FACTORES\nDE MADURACIÓN",
+            "guid": "Mfl4GzmNjkN-K39pHkHu9A",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "- **Funciones de\nlas citoquinas**:",
+                "guid": "VNV011ETeiAEPq78clWdQA",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "- Mejorar sobrevida y proliferación celular",
+                    "guid": "X8aEWy7mb9ox1Gn9QhLbXg",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "- Inducir diferenciación celular",
+                    "guid": "TPh-cCmqrtxbsQdaD6nANQ",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "24",
+                    "text": "- Activar células maduras",
+                    "guid": "emsHAR5d3RZy9pnqH7ND4g",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "24",
+                    "text": "- Estimular paso de G0 a G1 en ciclo celular",
+                    "guid": "NmniyQAaWuZOu9BVaiqFTw",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "24",
+                    "text": "- Prevenir apoptosis",
+                    "guid": "Zu495Bdt-rBoCZOaPKMC1w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "30",
+                "parent": "23",
+                "text": "- **Principales factores\nde maduración**:",
+                "guid": "XmGhz2LzA7hlPqpTEFsZ6g",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "- **GM-CSF** (Factor estimulador de\ncolonias de granulocitos y monocitos)",
+                    "guid": "HICR-2NqKb0unQjefEcWVg",
+                    "children": [
+                      {
+                        "id": "32",
+                        "parent": "31",
+                        "text": "- Secretado por: linfocitos T, macrófagos, células endoteliales, fibroblastos",
+                        "guid": "ElCZl2Bxctw-WfG0X0kYBw",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "31",
+                        "text": "- Estimula: neutrófilos, basófilos, eosinófilos y monocitos",
+                        "guid": "ChwhuBoK-Q9u8tg9BIcoug",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "34",
+                    "parent": "30",
+                    "text": "- **G-CSF** (Factor estimulador de\ncolonias de granulocitos)",
+                    "guid": "CmQ3oUEG0dgFlQ3IXzmseQ",
+                    "children": [
+                      {
+                        "id": "35",
+                        "parent": "34",
+                        "text": "- Secretado por: células endoteliales, fibroblastos, macrófagos",
+                        "guid": "OGjWJWHpcickOmycbtK47w",
+                        "children": []
+                      },
+                      {
+                        "id": "36",
+                        "parent": "34",
+                        "text": "- Estimula: proliferación y diferenciación de neutrófilos",
+                        "guid": "YgPNDXL2PPFY_T4-SPIK8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "37",
+                        "parent": "34",
+                        "text": "- Activa neutrófilos maduros (fagocitosis y quimiotaxis)",
+                        "guid": "EhpL-QnTvMRRj0m5cHvtyA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "38",
+                    "parent": "30",
+                    "text": "- **M-CSF** (Factor estimulador de\ncolonias de monocitos-macrófagos)",
+                    "guid": "XfNTknrEp6UeiM3fFlwptw",
+                    "children": [
+                      {
+                        "id": "39",
+                        "parent": "38",
+                        "text": "- Factor específico para linaje monocitos-macrófagos",
+                        "guid": "bMbAfDbN9AwA1weyCUdSeA",
+                        "children": []
+                      },
+                      {
+                        "id": "40",
+                        "parent": "38",
+                        "text": "- Mejora actividad antitumoral de monocitos",
+                        "guid": "GjgdyS90EJAFjmjOLIi3YA",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "38",
+                        "text": "- Existe como forma soluble y unida a membrana",
+                        "guid": "D-WDbEPoWoML0c9oGgGlJQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "42",
+                    "parent": "30",
+                    "text": "- **IL-3**",
+                    "guid": "Fwy8V3DmpUAhySx-A9N80w",
+                    "children": [
+                      {
+                        "id": "43",
+                        "parent": "42",
+                        "text": "- Producida por: linfocitos T activados y mastocitos",
+                        "guid": "XK4ZzELDOnsFLuKmPrHm2Q",
+                        "children": []
+                      },
+                      {
+                        "id": "44",
+                        "parent": "42",
+                        "text": "- Estimula: granulocitos, macrófagos, megacariocitos, eritrocitos",
+                        "guid": "Nbl3bF4sIOQHo_HKQB2vDg",
+                        "children": []
+                      },
+                      {
+                        "id": "45",
+                        "parent": "42",
+                        "text": "- Potencia actividad de eosinófilos, basófilos y monocitos",
+                        "guid": "HzLyvQ04_5IfV1uHMU0-tg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "46",
+                    "parent": "30",
+                    "text": "- **Stem cell factor**",
+                    "guid": "dQvlgxqEOzFK4Q_mUbn_Tw",
+                    "children": [
+                      {
+                        "id": "47",
+                        "parent": "46",
+                        "text": "- Citoquina pleiotrópica para células mieloides y linfoides",
+                        "guid": "J7SZTCKgNDANGs9LQey3Fg",
+                        "children": []
+                      },
+                      {
+                        "id": "48",
+                        "parent": "46",
+                        "text": "- Promueve crecimiento de progenitores celulares primitivos",
+                        "guid": "UhREwBKpOBpudW52YfnILQ",
+                        "children": []
+                      },
+                      {
+                        "id": "49",
+                        "parent": "46",
+                        "text": "- Existe como forma soluble y unida a membrana",
+                        "guid": "VpGSnXpHPd57-21SNITmLw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "50",
+                    "parent": "30",
+                    "text": "- **FIt-3 ligand**",
+                    "guid": "JUjXhXJ1961-vETkPFWT3A",
+                    "children": [
+                      {
+                        "id": "51",
+                        "parent": "50",
+                        "text": "- Receptor FIt-3 expresado en monocitos pero no en granulocitos",
+                        "guid": "XUd1rFAP8o0Qa-YoEwDtGA",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "50",
+                        "text": "- Factor sinérgico para células hematopoyéticas progenitoras primitivas",
+                        "guid": "LjwTcRgP1_JTHpwmTW8GLg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "53",
+        "parent": "0",
+        "text": "## 3. LINFOPOYESIS",
+        "guid": "Y1yc7SCFcWJAKRCvCxE2Og",
+        "children": [
+          {
+            "id": "54",
+            "parent": "53",
+            "text": "### 3.1. CÉLULAS B",
+            "guid": "QyWlkk1D3_tM_e1QFTnqUw",
+            "children": [
+              {
+                "id": "55",
+                "parent": "54",
+                "text": "- **Proceso de maduración**:",
+                "guid": "X-0YFTtzW8Z3M7KANn6qsg",
+                "children": [
+                  {
+                    "id": "56",
+                    "parent": "55",
+                    "text": "- Fase antígeno-independiente (médula ósea)",
+                    "guid": "NbqZpXMvH9JrA5DhKsZ_KA",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "55",
+                    "text": "- Fase antígeno-dependiente (órganos linfoides secundarios)",
+                    "guid": "DbNbAzXkoMd8gH54avrQrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58",
+                "parent": "54",
+                "text": "- **Origen**: célula progenitora linfoide con alta actividad mitótica",
+                "guid": "BfSTVAzsZKB9-73HNDCmxg",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "54",
+                "text": "- **Estadios de\ndiferenciación**:",
+                "guid": "JPw8k1EaWe4Bn6z0SkUUGA",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "- **Pro-B**",
+                    "guid": "FAeYnn78EhN5QPMhc_Swsw",
+                    "children": [
+                      {
+                        "id": "61",
+                        "parent": "60",
+                        "text": "- No produce inmunoglobulinas",
+                        "guid": "Q5BRmwBb8dkGmqf0JuzuiQ",
+                        "children": []
+                      },
+                      {
+                        "id": "62",
+                        "parent": "60",
+                        "text": "- Marcadores: CD19, CD43, B220",
+                        "guid": "IOFjO0bDuKMx_iTDZAcIzg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "63",
+                    "parent": "59",
+                    "text": "- **Pre-B**",
+                    "guid": "JF1pv1pNruwFgMcoSVmmUg",
+                    "children": [
+                      {
+                        "id": "64",
+                        "parent": "63",
+                        "text": "- Recombinación V-D-J de cadenas pesadas",
+                        "guid": "Om9t2XB0paEqc1tlcCoHfg",
+                        "children": []
+                      },
+                      {
+                        "id": "65",
+                        "parent": "63",
+                        "text": "- Síntesis de cadena pesada μ citoplasmática",
+                        "guid": "Y6PFcxV27EYa8IancVcgdg",
+                        "children": []
+                      },
+                      {
+                        "id": "66",
+                        "parent": "63",
+                        "text": "- Receptor pre-BCR (cadena H + cadena L de reemplazo)",
+                        "guid": "S1uNDhdxBR9cUfElUVAgYg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "67",
+                    "parent": "59",
+                    "text": "- **Linfocito B\ninmaduro**",
+                    "guid": "dhpqwRNsv7lxePUtWb4wNA",
+                    "children": [
+                      {
+                        "id": "68",
+                        "parent": "67",
+                        "text": "- Recombinación VJ de cadenas livianas",
+                        "guid": "K2gI2gcgdB0Tnrpqbvhadg",
+                        "children": []
+                      },
+                      {
+                        "id": "69",
+                        "parent": "67",
+                        "text": "- Síntesis de cadenas livianas (κ o λ)",
+                        "guid": "B3xl9ho5Yl4V5Uj_KF3JMQ",
+                        "children": []
+                      },
+                      {
+                        "id": "70",
+                        "parent": "67",
+                        "text": "- Expresión de IgM en membrana",
+                        "guid": "YP0bAkfjbcIMZNH_dQSzoA",
+                        "children": []
+                      },
+                      {
+                        "id": "71",
+                        "parent": "67",
+                        "text": "- Selección negativa de linfocitos B autorreactivos",
+                        "guid": "Rt9_1QWlxSBo-WRUAU7trg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "72",
+                    "parent": "59",
+                    "text": "- **Linfocito B maduro**",
+                    "guid": "KOOsAAxpe9RLFVCqdD85Dg",
+                    "children": [
+                      {
+                        "id": "73",
+                        "parent": "72",
+                        "text": "- Co-expresión de IgM e IgD en membrana",
+                        "guid": "I9qA8ydnQc9Fj1lwSDfqsg",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "72",
+                        "text": "- Adquisición de competencia funcional",
+                        "guid": "AbTwvEsQIJkRkZEFLRz5lg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "75",
+                "parent": "54",
+                "text": "- **Regulación**:",
+                "guid": "UjCUtiUwS28cFVQMWaz6rA",
+                "children": [
+                  {
+                    "id": "76",
+                    "parent": "75",
+                    "text": "- Factores de transcripción",
+                    "guid": "P2mtzjH6nQsCCsPdIGbI0A",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "75",
+                    "text": "- IL-7",
+                    "guid": "ed4KzQ5vld0Va3xwQL2Kog",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "75",
+                    "text": "- Proteínas tirosina quinasa de familia Src",
+                    "guid": "FBVa_X5k4MRCDHhRCi_Fvw",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "75",
+                    "text": "- Procesos adhesivos con estroma medular",
+                    "guid": "EdGgfjOFbX5j7fXzOrVMfg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80",
+                "parent": "54",
+                "text": "- **Migración a\nperiferia**:",
+                "guid": "P-7pUi8DRp4u9IWMY8lqRQ",
+                "children": [
+                  {
+                    "id": "81",
+                    "parent": "80",
+                    "text": "- Disminución de respuesta a quimioquina CXCL12",
+                    "guid": "VmqIbXSD3vwsAVT3WB95KQ",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "80",
+                    "text": "- Migración a órganos linfoides secundarios",
+                    "guid": "P5P_lT2S5fwFPHLAEcSUSw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "parent": "53",
+            "text": "### 3.2. CÉLULAS T",
+            "guid": "YsMxbCFRxsxrcY73IizfOg",
+            "children": [
+              {
+                "id": "84",
+                "parent": "83",
+                "text": "- **Origen**: precursor de médula ósea que migra al timo",
+                "guid": "U0xj2G18UtVCk6gKTSpupQ",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "83",
+                "text": "- **Etapas del\ndesarrollo**:",
+                "guid": "AisX_kfD94tGJi0FBGWZIg",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "1. Migración de progenitores\nde médula ósea al timo",
+                    "guid": "e-voslf_JHoN5_lIEAFDrw",
+                    "children": [
+                      {
+                        "id": "87",
+                        "parent": "86",
+                        "text": "- Receptores de adhesión (CD34)",
+                        "guid": "VmQFP0_0cZkaMQluaDWlvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "88",
+                        "parent": "86",
+                        "text": "- Interacción con L-Selectina del estroma tímico",
+                        "guid": "A3nfF34e_2Ii6vI7Q2jIaQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "89",
+                    "parent": "85",
+                    "text": "2. Diferenciación",
+                    "guid": "LSJGAFHfd8cnMjKuA4zObQ",
+                    "children": [
+                      {
+                        "id": "90",
+                        "parent": "89",
+                        "text": "- Ingreso por zona cortical",
+                        "guid": "RmNWw1Mzh6VbrEeXBfdWWQ",
+                        "children": []
+                      },
+                      {
+                        "id": "91",
+                        "parent": "89",
+                        "text": "- Migración hacia interior de corteza",
+                        "guid": "EMZtomDoulcXu-qkc4mfDg",
+                        "children": []
+                      },
+                      {
+                        "id": "92",
+                        "parent": "89",
+                        "text": "- Paso a médula y salida por vías linfáticas o venas",
+                        "guid": "AjqBIwMteZwVtn5IVYbk-w",
+                        "children": []
+                      },
+                      {
+                        "id": "93",
+                        "parent": "89",
+                        "text": "- Regulado por quimioquinas (CXCL12, CCL17, CCL19, CCL21, CCL22, CCL25)",
+                        "guid": "cKnMcVhKJlIisVOhbJW1Iw",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "89",
+                        "text": "- IL-7 como modulador de sobrevida, diferenciación y rearreglo de TCR",
+                        "guid": "MElKzDCZTOl8lvjSBq1QCw",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "89",
+                        "text": "- Control por factores de transcripción (GATA-3, E12, E47, HEB, NF-kB, Ikaros, Notch)",
+                        "guid": "AI2-ghbIAkFu4vXIBAedmQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "96",
+                    "parent": "85",
+                    "text": "3. Selección",
+                    "guid": "FOcBoxHN6ANHcGYCQglHow",
+                    "children": [
+                      {
+                        "id": "97",
+                        "parent": "96",
+                        "text": "- Selección negativa: elimina linfocitos T con alta afinidad por antígenos propios",
+                        "guid": "Y61fym6imLBFlhYQKhC2jg",
+                        "children": []
+                      },
+                      {
+                        "id": "98",
+                        "parent": "96",
+                        "text": "- Selección positiva: selecciona linfocitos T con TCR capaz de reconocer MHC propio",
+                        "guid": "QdYgVSFCXacwCAznUpyN9w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "99",
+                "parent": "83",
+                "text": "- **Poblaciones de\nlinfocitos T**:",
+                "guid": "SvFxJ1vcq01Z7H4dO5s9mA",
+                "children": [
+                  {
+                    "id": "100",
+                    "parent": "99",
+                    "text": "- Dobles negativos (CD4- CD8-): inmaduros",
+                    "guid": "NCbRn3yd0b4oMPK7ZHAcbA",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "99",
+                    "text": "- Dobles positivos (CD4+ CD8+): inmaduros",
+                    "guid": "LTcepyTH645rHWx3LcTdKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "99",
+                    "text": "- Simples positivos:",
+                    "guid": "O4_tz1oAYkAxzHrCUHbvcg",
+                    "children": [
+                      {
+                        "id": "103",
+                        "parent": "102",
+                        "text": "- CD4+ CD8- (LT helper)",
+                        "guid": "a85KQ3k84MQSgDcVT3uqDg",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "102",
+                        "text": "- CD4- CD8+ (LT citotóxicos)",
+                        "guid": "Z995dFgWTSV5jGCcKbWZyg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "105",
+            "parent": "53",
+            "text": "### 3.3. CÉLULAS ILC",
+            "guid": "eViqzSmUbYN8UifBe4PCyw",
+            "children": [
+              {
+                "id": "106",
+                "parent": "105",
+                "text": "- **Células linfoides de la inmunidad innata**",
+                "guid": "cVhlDkJ4VMd_6VvtPEnWNg",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "- Morfológicamente similares a linfocitos B y T",
+                    "guid": "HlUAFFnV2gt35RPOUnvRtA",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "- Desarrolladas en médula ósea a partir de progenitor linfoide común",
+                    "guid": "VnOrySAWBoo26-4gA6rKcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "- Desarrollo independiente de recombinación génica",
+                    "guid": "RN3yGCIJWpcxb6eaAG3f5w",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "- Carecen de receptor para reconocimiento de epitopos antigénicos",
+                    "guid": "fAm812M8Il1Q5M9ZZ9gHGw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 111,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "3. LEUCOPOYESIS-2025-1",
+  "id": "map_1439",
+  "resolved_references": []
+}

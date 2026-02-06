@@ -1,0 +1,85 @@
+{
+  "title": "OPERAM (2021)",
+  "guid": "OPERAM-2021-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/OPERAM-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "OPERAM (2021)\nOPtimising thERapy to prevent\\nAvoidable hospital admissions\\nin Multimorbid older people\n\\n⭐ STOPP/START sistemático\nREDUCE RAM relacionada\na medicación en hospitalizados",
+    "guid": "OPERAM-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Blum MR et al.\nAño: 2021\nRevista: BMJ\nDOI: 10.1136/bmj.n1585\n\\nDiseño: Cluster RCT\\nMulticéntrico: 4 países europeos\\nn = 2,008 pacientes\\nSeguimiento: 12 meses",
+        "guid": "OPERAM-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Blum MR et al. BMJ 2021\\n   DOI: 10.1136/bmj.n1585\\n\\n2. STOPP/START v2. Age Ageing 2015\\n\\n3. SENATOR Trial. JAMA IM 2020\\n   (Implementación software)",
+            "guid": "OPERAM-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusion:\\n• Edad mayor o igual 70 años\\n• Hospitalización aguda\\n• Multimorbilidad (3+ condiciones)\\n• Polifarmacia (5+ medicamentos)\\n\\nCriterios Exclusion:\\n• Esperanza vida menor 6 meses\\n• Demencia severa\\n• Imposibilidad seguimiento\\n\\nCaracterísticas:\\n• Edad media: 79 años\\n• 45% mujeres\\n• 9 medicamentos promedio\\n• 6 condiciones crónicas",
+        "guid": "OPERAM-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nIntervención OPERAM:\\n• STOPP/START v2 aplicado por\\n  farmacéutico clínico + MD\\n• Software STRIP asistente\\n• Revisión estructurada fármacos\\n• Recomendaciones al equipo\\n• Seguimiento tras alta\\n\\nControl:\\n• Cuidado usual\\n• Sin revisión sistemática\\n• Farmacia estándar\\n\\nComponentes revisión:\\n1. Análisis todos medicamentos\\n2. Identificar PIMs (STOPP)\\n3. Identificar PPOs (START)\\n4. Recomendaciones escritas",
+        "guid": "OPERAM-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nRAM relacionada medicación (primario):\\n• OPERAM: Menor incidencia\\n• Reducción significativa RAM\\n\\nReingresos:\\n• Sin diferencia 12 meses\\n• Tendencia favorable\\n\\nMortalidad:\\n• Sin diferencia\\n\\nPIMs detectados:\\n• 85% pacientes tenía al menos 1\\n• Promedio 2.5 PIMs/paciente\\n\\nPPOs detectados:\\n• 65% pacientes omisión\\n• Promedio 1.8 PPOs/paciente\\n\\nAceptación recomendaciones:\\n• 40-60% implementadas",
+        "guid": "OPERAM-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos adversos:\\n• Sin aumento con intervención\\n• Deprescripción segura\\n\\nProblemas implementación:\\n• No todas recomendaciones\\n  aceptadas por equipo\\n• Barreras organizacionales\\n• Tiempo requerido\\n\\nBalance:\\n• Intervención segura\\n• Reduce RAM\\n• No aumenta mortalidad\\n• Costo-efectiva potencialmente",
+        "guid": "OPERAM-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT grande multicéntrico\\n✓ Intervención estandarizada\\n✓ Outcome clínicamente relevante\\n✓ Seguimiento 12 meses\\n\\nLimitaciones:\\n• Cluster randomization\\n• Baja adherencia a recomendaciones\\n• Heterogeneidad centros\\n• Cegamiento difícil\\n\\nBarreras implementación:\\n• Tiempo farmacéutico\\n• Resistencia prescriptores\\n• Coordinación equipos",
+        "guid": "OPERAM-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Muy alta\n\\nMensaje clave:\\n• Revisión sistemática fármacos\\n  con STOPP/START es útil\\n• Reduce RAM\\n• Requiere equipo capacitado\\n\\nImplementación:\\n• Farmacéutico clínico esencial\\n• MD revisa y aprueba\\n• Software facilita proceso\\n• Seguimiento post-alta\\n\\nOportunidades:\\n• Ingreso hospitalario\\n• Transiciones de cuidado\\n• Consulta geriatría",
+        "guid": "OPERAM-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. 85% ancianos tiene 1+ PIM:\n   polifarmacia es la norma\n\\n2. STOPP/START sistemático:\n   reduce RAM significativamente\n\\n3. Farmacéutico clínico clave:\n   expertise en medicamentos\n\\n4. No todo se acepta:\n   40-60% recomendaciones\n\\n5. Seguro deprescribir:\n   no aumenta eventos adversos\n\\n6. Oportunidad hospitalización:\n   momento ideal para revisar\n\\n7. Requiere tiempo y recursos:\n   pero costo-efectivo\n\\n8. Software ayuda:\n   pero no reemplaza juicio",
+        "guid": "OPERAM-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "OPERAM-2026",
+  "id": "map_3",
+  "resolved_references": []
+}

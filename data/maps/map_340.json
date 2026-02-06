@@ -1,0 +1,85 @@
+{
+  "title": "TRICC (1999)",
+  "guid": "TRICC-1999-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/TRICC-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "TRICC (1999)\nTransfusion Requirements\nin Critical Care\n\\n⭐ Estrategia restrictiva\n(Hb menor 7 g/dL para transfundir)\nno inferior a liberal en UCI",
+    "guid": "TRICC-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Hébert PC et al.\nAño: 1999\nRevista: NEJM\nDOI: 10.1056/NEJM199902113400601\n\\nDiseño: RCT multicéntrico\\nCanadá\\nn = 838 pacientes críticos\\nSeguimiento: 30 días",
+        "guid": "TRICC-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Hébert PC et al. NEJM 1999\\n   DOI: 10.1056/NEJM199902113400601\\n\\n2. FOCUS Trial. NEJM 2011\\n   Hip fracture + cardiac risk\\n\\n3. Surviving Sepsis 2021\\n   Hb menor 7 en sepsis estable",
+            "guid": "TRICC-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Pacientes UCI\\n• Euvolémicos post-reanimación\\n• Hb menor 9 g/dL en 72 hrs\\n  de ingreso UCI\\n\\nCriterios Exclusion:\\n• Sangrado activo\\n• Hemorragia crónica\\n• Embarazo\\n\\nCaracterísticas:\\n• Edad media: 59 años\\n• APACHE II: 21\\n• 40% trauma\\n• 20% cirugía",
+        "guid": "TRICC-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nEstrategia RESTRICTIVA:\\n• Transfundir si Hb menor 7 g/dL\\n• Mantener Hb 7-9 g/dL\\n• Promedio GR: 2.6 U\\n\\nEstrategia LIBERAL:\\n• Transfundir si Hb menor 10 g/dL\\n• Mantener Hb 10-12 g/dL\\n• Promedio GR: 5.6 U\\n\\nDiferencia:\\n• 54% menos transfusiones\\n  en grupo restrictivo",
+        "guid": "TRICC-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nMortalidad 30 días (primario):\\n• Restrictivo: 18.7%\\n• Liberal: 23.3%\\n• p = 0.11 (NS)\\n\\nMortalidad hospitalaria:\\n• Restrictivo: 22.2%\\n• Liberal: 28.1%\\n• p = 0.05 ✓\\n\\nSubgrupo APACHE menor 20:\\n• Mortalidad significativamente\\n  MENOR con restrictiva ✓\\n\\nSubgrupo menor 55 años:\\n• También beneficio restrictivo ✓\\n\\nFalla orgánica múltiple:\\n• Tendencia menor en restrictivo",
+        "guid": "TRICC-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos adversos:\\n• Sin diferencia en:\\n  - IAM\\n  - Edema pulmonar\\n  - ACV\\n  - Tromboembolismo\\n\\nTransfusiones:\\n• Liberal: más reacciones\\n  transfusionales (volumen)\\n\\nInmunomodulación:\\n• Hipótesis: menos transfusiones\\n  = menos inmunosupresión\\n  = menos infecciones?\\n\\nBaja Hb tolerada:\\n• Sin aumento eventos isquémicos\\n  en grupo restrictivo general",
+        "guid": "TRICC-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Primer RCT transfusión en UCI\\n✓ Cambió paradigma mundial\\n✓ Reducción costos y riesgos\\n\\nLimitaciones:\\n• Excluye sangrado activo\\n• Excluye cardiopatía isquémica\\n  (estudiado después: FOCUS)\\n• Era pre-leucodepleción\\n• Hb objetivo, no gatillo único\\n\\nConfirmado por:\\n• FOCUS (hip fracture)\\n• TRISS (sepsis)\\n• REALITY (edad mayor 65)",
+        "guid": "TRICC-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐ Muy relevante\n\\nPrecauciones ancianos:\\n• Cardiopatía isquémica activa:\\n  Considerar Hb mayor 8 (FOCUS)\\n• Síntomas: guían decisión\\n• Reserva cardiopulmonar menor\\n\\nEn anciano estable UCI:\\n• Gatillo Hb menor 7 es seguro\\n• Reduce exposición transfusiones\\n• Menos TRALI, TACO\\n\\nExcepciones:\\n• SCA activo: considerar liberal\\n• Shock hemorrágico: reanimación\\n• Síntomas anemia severa",
+        "guid": "TRICC-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Gatillo Hb menor 7 g/dL\n   es SEGURO en UCI general\n\\n2. Más transfusiones NO es mejor:\n   puede ser PEOR\n\\n3. Síntomas mayor que número:\n   Hb 7.5 sintomático = transfundir\n   Hb 6.8 asintomático = vigilar\n\\n4. Ahorro 50% unidades GR\n   sin aumentar mortalidad\n\\n5. En cardiopatía isquémica:\n   Gatillo Hb 8 (FOCUS trial)\n\\n6. Inmunomodulación transfusional:\n   Menos es mejor para infecciones\n\\n7. Base de medicina transfusional\n   restrictiva moderna",
+        "guid": "TRICC-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Cardiología",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "TRICC-2026",
+  "id": "map_340",
+  "resolved_references": []
+}

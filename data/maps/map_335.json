@@ -1,0 +1,77 @@
+{
+  "title": "OXYGEN-ICU-2016",
+  "guid": "7353de94-1277-47b9-b975-e785b9ce166c",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/OXYGEN-ICU-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "OXYGEN-ICU (2016)\nOxygen Therapy in Critically Ill\n\\nOxigeno conservador (SpO2 94-98%)\\nreduce mortalidad vs liberal\\nMeta PaO2 70-100 mmHg es segura",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nGirardis M, et al.\\nJAMA 2016;316:1583-89\nDOI: 10.1001/jama.2016.11993\n\\nRCT unicentrico\\nItalia\\nDetenido precozmente",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=480\\nAdultos UCI con estancia esperada mayor o igual 72h\\n\\nCriterios:\\n- Cualquier motivo ingreso UCI\\n- Expectativa estancia mayor 72h\\n\\nEdad media: 64 años\\nSeguimiento: hasta alta UCI o muerte",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nConservador: PaO2 70-100 mmHg, SpO2 94-98%\\nvs\\nLiberal: PaO2 hasta 150 mmHg, SpO2 97-100%\\n\\nFiO2 minima: 40% en conservador\\nSin limite superior en liberal",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nMortalidad UCI:\\nConservador: 11.6%\\nLiberal: 20.2%\\np=0.01\\nRRR 43%\n\\nShock nuevo: 6.0% vs 13.7% (p=0.006)\\nInsuficiencia hepatica: 2.5% vs 10.4% (p menor 0.001)\\nBacteriemia: 5.4% vs 15.6% (p menor 0.001)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nGrupo conservador:\\n- Sin aumento isquemia miocardica\\n- Sin eventos hipoxemicos mayores\\n- Menos falla organica\\n\\nHiperoxia demostro ser dañina",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Unicentrico\\n- Detenido precoz (sesgo?)\\n- FiO2 minima 40% (no aplica a todos)\\n- Diferencia muy grande (cuestionada)\\n- ICU-ROX no replico resultado\\n- HOT-ICU: no confirmo",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Ancianos: mayor riesgo hiperoxia\\n- SpO2 94-98% es meta razonable\\n- Evitar FiO2 innecesariamente alta\\n- Considerar EPOC con hipercapnia\\n- Balance: evitar hipo e hiperoxia\\n- No necesariamente SpO2 100%",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Hiperoxia es potencialmente dañina\\n2. SpO2 94-98% es meta segura\\n3. No perseguir SpO2 100% en UCI\\n4. Ancianos con EPOC: meta 88-92%\\n5. Estudios posteriores menos conclusivos\\n6. Principio: evitar extremos\\n7. FiO2 alta genera radicales libres\\n8. Individualizar segun patologia\\n9. Titular O2 como cualquier farmaco\\n10. Menos es mas (dentro de limites)",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "OXYGEN-ICU-2026",
+  "id": "map_335",
+  "resolved_references": []
+}

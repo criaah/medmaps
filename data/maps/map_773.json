@@ -1,0 +1,85 @@
+{
+  "title": "Temel (2010)",
+  "guid": "TEMEL-2010-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/Temel-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Temel et al. (2010)\nEarly Palliative Care in\nMetastatic NSCLC\n\\n⭐ Cuidados paliativos TEMPRANOS\nmejoran calidad de vida\nY sobrevida (+2.7 meses)",
+    "guid": "TEMEL-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Temel JS et al.\nAño: 2010\nRevista: NEJM\nDOI: 10.1056/NEJMoa1000678\n\\nDiseño: RCT\\nUnicentrico: MGH Boston\\nn = 151 pacientes\\nSeguimiento: Hasta muerte",
+        "guid": "TEMEL-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Temel JS et al. NEJM 2010\\n   DOI: 10.1056/NEJMoa1000678\\n\\n2. ASCO Guideline 2017\\n   Integration Palliative Care\\n\\n3. Lancet Oncol 2014\\n   ENABLE II replication",
+            "guid": "TEMEL-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• CPNM metastásico\\n• Diagnóstico reciente (8 sem)\\n• ECOG PS 0-2\\n• Sin cuidados paliativos previos\\n\\nCriterios Exclusion:\\n• Ya en hospice\\n• Otra neoplasia activa\\n\\nCaracterísticas:\\n• Edad media: 64 años\\n• 48% mujeres\\n• 65% adenocarcinoma\\n• 91% fumadores/ex",
+        "guid": "TEMEL-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Paliativos Tempranos:\\n• Consulta paliativa dentro de\\n  3 semanas del diagnóstico\\n• Visitas mensuales mínimo\\n• Enfoque: síntomas, metas,\\n  decisiones, apoyo familiar\\n• + Tratamiento oncológico estándar\\n\\nGrupo Control:\\n• Tratamiento oncológico estándar\\n• Paliativos solo si solicitados\\n  o referidos por oncología\\n\\nDiferencia: TIMING e INTEGRACIÓN",
+        "guid": "TEMEL-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nCalidad de vida FACT-L (primario):\\n• Paliativos: 98.0 puntos\\n• Control: 91.5 puntos\\n• Diferencia: +6.5 puntos\\n• p = 0.03 ✓\n\\nDepresión PHQ-9:\\n• Paliativos: 16% depresión\\n• Control: 38% depresión\\n• p = 0.01 ✓\n\\nSobrevida mediana:\\n• Paliativos: 11.6 meses\\n• Control: 8.9 meses\\n• p = 0.02 ✓\\n• +2.7 meses sobrevida!",
+        "guid": "TEMEL-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nQuimioterapia agresiva fin de vida:\\n• Paliativos: 33%\\n• Control: 54%\\n• p = 0.05\\n\\nMenos tratamiento agresivo\\nNO significó PEOR sobrevida\\n(al contrario: mejor)\\n\\nHospice:\\n• Paliativos: ingreso más precoz\\n• Control: ingreso tardío o ninguno\\n\\nCuidado al final de vida:\\n• Más acorde a preferencias\\n• Menos hospitalizaciones\\n  en últimos días",
+        "guid": "TEMEL-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT (no solo observacional)\\n✓ Outcome sobrevida inesperado\\n✓ Cambió paradigma oncología\\n✓ Replicado (ENABLE II, otros)\\n\\nLimitaciones:\\n• Unicéntrico (MGH)\\n• Solo CPNM metastásico\\n• Abierto (no ciego)\\n• Muestra pequeña\\n• EE.UU. (sistema salud específico)\\n\\nGeneralizabilidad:\\n• Confirmado en otros cánceres\\n• ASCO guideline 2017",
+        "guid": "TEMEL-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Extremadamente relevante\n\\nAncianos con cáncer avanzado:\\n• Mayor beneficio potencial\\n• Más comorbilidades\\n• Decisiones fin de vida críticas\\n• Familia necesita apoyo\\n\\nIntegración con geriatría:\\n• VGI + Paliativos = sinergia\\n• Pronóstico realista\\n• Deprescripción oncológica\\n• Transiciones de cuidado\\n\\nPaliativos NO es renunciar:\\n• Mejora calidad Y cantidad vida",
+        "guid": "TEMEL-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Paliativos TEMPRANOS:\n   Desde el diagnóstico, no fin\n\\n2. Mejor calidad de vida\n   Y más sobrevida (+2.7 meses)\n\\n3. Menos quimio agresiva\n   NO significa menos sobrevida\n\\n4. Menos depresión:\n   38% a 16% con intervención\n\\n5. Cambió guías ASCO 2017:\n   Paliativos obligatorios en\n   cáncer avanzado desde inicio\n\\n6. Paradoja: menos tratamiento\n   agresivo = vivir más tiempo\n\\n7. Aplicable a TODAS las\n   enfermedades limitantes vida",
+        "guid": "TEMEL-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "Temel-2026",
+  "id": "map_773",
+  "resolved_references": []
+}

@@ -1,0 +1,113 @@
+{
+  "title": "INDICE ESTUDIOS PIVOTALES",
+  "guid": "INDICE-ESTUDIOS-2026-V4",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/00_INDICE_ESTUDIOS_PIVOTALES-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "📚 ESTUDIOS PIVOTALES\n\nBiblioteca de Evidencia Clínica\nCristian Acevedo H., MD\nResidencia Geriatría USS\n\\n40+ estudios indexados\\nÚltima actualización: Enero 2026",
+    "guid": "INDEX-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "👴 GERIATRIA (20 mapas)\n\\nHTA Ancianos:\\n→ HYVET, SHEP, Syst-Eur\\n\\nFragilidad:\\n→ Fried Phenotype, ICE-FRAIL\\n→ VIP1/VIP2 (UCI)\\n\\nDelirium:\\n→ HELP, MENDS, MIND-USA\\n→ CATIE-AD, ABCDEF Bundle\\n\\nCognición:\\n→ FINGER, ASPREE\\n\\nCaídas/Función:\\n→ STRIDE, LIFE-Study\\n\\nPolifarmacia:\\n→ STOPP-START, OPERAM\\n\\nAnticoagulación:\\n→ BAFTA, ELDERCARE-AF\\n\\nOrtogeriatría:\\n→ FOCUS (transfusión)\\n\\n[Carpeta: Geriatría/]",
+        "guid": "CAT-GERI",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "HTA Ancianos:\\n• HYVET: PAS menor 150 mayor 80\\n• SHEP: tiazida reduce ACV 36%\\n• Syst-Eur: BCC efectivo",
+            "guid": "GERI-HTA",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "1",
+            "text": "Fragilidad/UCI:\\n• Fried: 5 criterios fenotipo\\n• VIP1/2: CFS predice UCI\\n• ICE-FRAIL: CFS mayor APACHE",
+            "guid": "GERI-FRAIL",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "1",
+            "text": "Delirium:\\n• HELP: previene 40%\\n• MENDS: Dex mejor que BZD\\n• MIND-USA: antipsic NO sirven\\n• ABCDEF: Bundle integral",
+            "guid": "GERI-DEL",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "Cognición:\\n• FINGER: multidominio previene\\n• CATIE-AD: antipsic NO eficaces\\n• ASPREE: AAS daña en sanos",
+            "guid": "GERI-COG",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "1",
+            "text": "Polifarmacia:\\n• STOPP-START: criterios\\n• OPERAM: reduce RAM hosp\\n• BAFTA: Warf mayor AAS en FA\\n• ELDERCARE: Edox 15mg muy anc",
+            "guid": "GERI-POLY",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "❤️ CARDIOLOGIA (5)\n\\n→ PARADIGM-HF (Sacubitril IC)\\n→ DAPA-HF (Dapa IC)\\n→ SPRINT (PA menor 120)\\n→ AFFIRM (FA frec vs ritmo)\\n→ SELECT (Sema CV sin DM)\\n\\n[Carpetas: Cardiología/ + Endocrinología/]",
+        "guid": "CAT-CARDIO",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "🏥 UCI / CRITICOS (5)\n\\n→ ARDSNet (Vt bajo SDRA)\\n→ PROSEVA (Prono SDRA)\\n→ RECOVERY (Dexa COVID-19)\\n→ CRASH-2 (ATX trauma)\\n→ TRICC (Transfusión restrictiva)\\n\\n[Carpeta: UCI/]",
+        "guid": "CAT-UCI",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "🫘 NEFROLOGIA (2)\n\\n→ CREDENCE (Cana ERC-DM)\\n→ DAPA-CKD (Dapa ERC +/- DM)\\n\\n[Carpeta: Nefrología/]",
+        "guid": "CAT-NEFRO",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "🦴 ORTOGERIATRIA (2)\n\\n→ HORIZON-RFT (Zol post-Fx)\\n→ FOCUS (Transfusión cadera)\\n\\n[Carpeta: Ortogeriatría/]",
+        "guid": "CAT-ORTO",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "🧠 NEUROLOGIA (1)\n\\n→ CLARITY-AD (Lecanemab EA)\\n\\n[Carpeta: Neurología/]",
+        "guid": "CAT-NEURO",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "🕊️ PALIATIVOS (1)\n\\n→ Temel 2010 (CP tempranos)\\n\\n[Carpeta: Paliativos/]",
+        "guid": "CAT-PALIA",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "📋 ESTRUCTURA MAPAS\n\\nCada estudio incluye:\\n• 📋 Identificación\\n• 👥 Población\\n• 💊 Intervención\\n• 📊 Resultados\\n• ⚠️ Seguridad\\n• ⚖️ Sesgos\\n• 👴 Aplicabilidad Geriátrica\\n• 💎 Perlas Clínicas\\n• 📚 Referencias",
+        "guid": "CAT-LEGEND",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 14,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "00_INDICE_ESTUDIOS_PIVOTALES-2026",
+  "id": "map_25",
+  "resolved_references": []
+}

@@ -1,0 +1,85 @@
+{
+  "title": "HELP (1999)",
+  "guid": "HELP-1999-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/HELP-Delirium-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HELP (1999)\nHospital Elder Life Program\nInouye SK et al.\n\\n⭐ Intervención multicomponente\nREDUCE incidencia delirium 40%\nen ancianos hospitalizados",
+    "guid": "HELP-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Inouye SK et al.\nAño: 1999\nRevista: NEJM\nDOI: 10.1056/NEJM199903043400901\n\\nDiseño: Estudio controlado\\nmatched (no randomizado)\\nYale-New Haven Hospital\\nn = 852 pacientes\\nSeguimiento: Hospitalización",
+        "guid": "HELP-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Inouye SK et al. NEJM 1999\\n   DOI: 10.1056/NEJM199903043400901\\n\\n2. Hospital Elder Life Program\\n   www.hospitalelderlifeprogram.org\\n\\n3. AGS Delirium Guidelines 2015",
+            "guid": "HELP-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Edad mayor o igual 70 años\\n• Hospitalizados medicina general\\n• Al menos 1 factor riesgo delirium:\\n  - Deterioro cognitivo\\n  - Deterioro visual\\n  - Deshidratación\\n  - Inmovilidad\\n  - Deprivación sueño\\n\\nCriterios Exclusion:\\n• Delirium al ingreso\\n• Coma/intubado\\n• Afasia severa\\n\\nEdad media: 80 años",
+        "guid": "HELP-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\n6 Protocolos HELP:\\n\\n1. Orientación (3x/día)\\n   - Orientación temporal\\n   - Tablero con fecha/lugar\\n\\n2. Actividades terapéuticas\\n   - Estimulación cognitiva\\n   - Reminiscencia\\n\\n3. Movilización temprana\\n   - Caminar 3x/día\\n   - ROM si encamado\\n\\n4. Visión/audición\\n   - Lentes, audífonos\\n   - Ayudas adaptativas\\n\\n5. Hidratación\\n   - Ingesta líquidos\\n   - Monitoreo\\n\\n6. Sueño no farmacológico\\n   - Bebida caliente\\n   - Música relajante\\n   - Reducir ruido nocturno",
+        "guid": "HELP-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nIncidencia delirium (primario):\\n• HELP: 9.9%\\n• Control: 15.0%\\n• OR 0.60 (IC95% 0.39-0.92)\\n• p = 0.02 ✓\\n• RRR: 34%\n\\nDías totales delirium:\\n• HELP: 105 días\\n• Control: 161 días\\n• Reducción significativa ✓\n\\nNúmero episodios:\\n• HELP: 62\\n• Control: 90\\n• p = 0.03 ✓\n\\nEstadía hospitalaria:\\n• Sin diferencia significativa",
+        "guid": "HELP-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos adversos:\\n• Ninguno atribuible a HELP\\n• Intervenciones no farmacológicas\\n  inherentemente seguras\\n\\nCaídas:\\n• Sin aumento con movilización\\n\\nCosto-efectividad:\\n• Costo intervención: USD 327/pac\\n• Ahorro por delirium evitado:\\n  USD 831-16,303\\n• Altamente costo-efectivo\\n\\nAplicabilidad:\\n• Requiere entrenamiento staff\\n• Voluntarios pueden implementar\\n• Escalable a otros hospitales",
+        "guid": "HELP-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Primer estudio prevención\\n✓ Intervención replicable\\n✓ Outcome validado (CAM)\\n✓ Base programa mundial\\n\\nLimitaciones:\\n• NO randomizado (matched)\\n• Unicéntrico\\n• Solo medicina general\\n• Excluye delirium al ingreso\\n• Era pre-COVID\\n\\nReplicación:\\n• mayor 200 hospitales mundialmente\\n• Adaptaciones culturales\\n• Consistentemente efectivo",
+        "guid": "HELP-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ FUNDAMENTAL\n\\nEstándar de cuidado:\\n• Todo hospital debería tener HELP\\n• Prevención mayor que tratamiento\\n• Reduce complicaciones cascada\\n\\nImplementación:\\n• Screening riesgo al ingreso\\n• Protocolos estandarizados\\n• Capacitación todo el equipo\\n• Voluntarios capacitados\\n• Familia como recurso\\n\\nBarreras:\\n• Requiere liderazgo institucional\\n• Cambio cultura hospitalaria",
+        "guid": "HELP-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Delirium es PREVENIBLE:\n   30-40% reducción con HELP\n\\n2. 6 dominios intervención:\n   Orientación, cognición, movilidad,\n   visión/audición, hidratación, sueño\n\\n3. NO farmacológico = SEGURO:\n   sin efectos adversos\n\\n4. Costo-efectivo:\n   ahorra dinero al hospital\n\\n5. Voluntarios pueden ayudar:\n   no requiere solo profesionales\n\\n6. Familia es aliada:\n   incorporar en cuidados\n\\n7. Cambió paradigma:\n   de tratar a PREVENIR delirium\n\\n8. CAM para diagnóstico:\n   Confusion Assessment Method",
+        "guid": "HELP-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "HELP-Delirium-2026",
+  "id": "map_1035",
+  "resolved_references": []
+}

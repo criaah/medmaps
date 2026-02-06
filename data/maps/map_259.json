@@ -1,0 +1,2556 @@
+{
+  "title": "Somnoliento e insomnio",
+  "guid": "2D287D7495BAC2C82E8C83D0",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Psiquiatría/Continuum. Somnoliento e insomnio-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Somnoliento e insomnio",
+    "guid": "CEX66n1lYWYEKNQvt5AOcg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "1. Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Síntomas comunes en neurología",
+            "guid": "I7NtRSNGC7Dx2TbQ9_WQfw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• Causas:",
+            "guid": "",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "• Trastornos primarios del sueño",
+                "guid": "SQlJcSt2agYg6hxgbzZ3aQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "• Enfermedades neurológicas",
+                "guid": "4THf7wGdoczhzDADcVHPlA",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "• Efectos adversos de fármacos",
+                "guid": "oluGxAPv7ZOR0LLW-Q42IQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "• Importancia de la historia clínica y examen físico",
+            "guid": "3q803QgtMIZQ1JP53rbzmg",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "• Uso de herramientas\ndiagnósticas",
+            "guid": "WVVumj_WDZinhekgknVuGA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "• Polisomnografía",
+                "guid": "1UIQQUJdrz4z_9k4qXxPdA",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "• Test de latencias múltiples de sueño",
+                "guid": "6UA3L2gkpSEziNlkGAhHfA",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "• Actigrafía",
+                "guid": "r9cvUIIpkwo7SiKpzIVqEw",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "8",
+                "text": "• Pruebas de apnea del sueño en casa",
+                "guid": "29fikbvppTvPh44T6yyunA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "parent": "0",
+        "text": "2. El Paciente\nSomnoliento",
+        "guid": "",
+        "children": [
+          {
+            "id": "14",
+            "parent": "13",
+            "text": "2.1. Definición de Somnolencia\nExcesiva Diurna (SED)",
+            "guid": "DizG7BPdnD-essVq1d7Zag",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "• Incapacidad de mantener vigilia y alerta",
+                "guid": "18W8FuSbVeh5nzxqBVodYg",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "• Episodios de sueño involuntarios",
+                "guid": "Lcle_yAsopuAYj1v6NTdXQ",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "14",
+                "text": "• Prevalencia:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "• 20-25% población general",
+                    "guid": "uk-FiCmeWBYEtNM4PVKi_w",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "17",
+                    "text": "• Mayor en pacientes con enfermedades neurológicas",
+                    "guid": "QLikrfy8KOQ9yrbuoNVyjA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20",
+                "parent": "14",
+                "text": "• Impacto en\nvida diaria:",
+                "guid": "q_RuCNrdDoyikA84q4x_oQ",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "• ↓ Desempeño escolar y laboral",
+                    "guid": "50QejvgOdfW7so9x6kZKAQ",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "• ↑ Riesgo de accidentes (ej. conducción)",
+                    "guid": "3V3fyWZAyXDwXvNr1Qhyhw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "13",
+            "text": "2.2. Diagnóstico\nDiferencial de SED",
+            "guid": "lsObK2V2w64OtGeDFoq3Rw",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "a) Trastornos\nPrimarios del Sueño",
+                "guid": "Sa3J7HHJ8WxmXH-EfAYqJQ",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "• Narcolepsia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "• Síndrome de Apnea Obstructiva del Sueño (SAOS)",
+                    "guid": "EGt-zP442uWfFMT4GjwRZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "24",
+                    "text": "• Hipersomnias Idiopáticas",
+                    "guid": "XsIli-9_kQQsfdvNhvgCGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "24",
+                    "text": "• Síndrome de Piernas Inquietas (SPI) con privación de sueño",
+                    "guid": "TXk-aQ5gikyPxchYV0M1bA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "parent": "23",
+                "text": "b) Enfermedades\nNeurológicas",
+                "guid": "1xDSr6IZ1wDZiPsbjFJs6A",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "• Accidente Cerebrovascular (afectación del tálamo o tronco encefálico)",
+                    "guid": "HIqvklINXzPdylgy_2Cxyw",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "• Enfermedades Neurodegenerativas (Parkinson, Alzheimer, Esclerosis Múltiple)",
+                    "guid": "PEqaxvVFj94N5lwlVjVy2w",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "29",
+                    "text": "• Traumatismo craneoencefálico",
+                    "guid": "0whK2hR1al540IZgpFdL0g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "parent": "23",
+                "text": "c) Factores Médicos y\nFarmacológicos",
+                "guid": "x3xLZAww017xZKNFitcRkA",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "• Depresión",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "33",
+                    "text": "• Insuficiencia hepática o renal avanzada",
+                    "guid": "ms7KYNeCH2zOAjcBOkPTeQ",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "33",
+                    "text": "• Fármacos sedantes (benzodiacepinas, opioides, antipsicóticos, antihistamínicos H1)",
+                    "guid": "8oyLZmmPzJocyMi5rGeMFg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "parent": "0",
+        "text": "3. Herramientas\nDiagnósticas para SED",
+        "guid": "OX0Ti5uRhy_4_avIV4UnNw",
+        "children": [
+          {
+            "id": "38",
+            "parent": "37",
+            "text": "3.1. Cuestionarios y\nEscalas Clínicas",
+            "guid": "OctUaM1qB9E6v0B2otUCng",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "• Epworth Sleepiness Scale (ESS) → Grado de somnolencia",
+                "guid": "J0Ub8Lwz6InT8o9jlme38Q",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "• Stanford Sleepiness Scale (SSS) → Fluctuaciones en el día",
+                "guid": "k9GvUJDkevKF-3Tw5hHubw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "37",
+            "text": "3.2. Estudios\nObjetivos",
+            "guid": "9eSfVDJM4mdEl5C3TIt3rA",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "• Polisomnografía Nocturna (descarta SAOS, SPI, parasomnias)",
+                "guid": "L8JQ_To3VN-3FgTUQCFhSA",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "• Test de Latencias\nMúltiples de Sueño (TLMS)",
+                "guid": "APGT-r1kAZUQ5TkkKeKaQw",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "• Evalúa latencia al sueño",
+                    "guid": "Om4POdj4iLeGxI-x68rcgw",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "• Diagnóstico de narcolepsia (latencia < 8 min, ≥2 episodios REM en siestas)",
+                    "guid": "cpaUVZRwKbToPq2rNtAWaw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46",
+                "parent": "41",
+                "text": "• Actigrafía → Patrón de sueño-vigilia",
+                "guid": "heJEkSwnctzphoRduZ4igA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "4. Historia\nClínica",
+        "guid": "MqglKW7vf4UNeXlbapO0NQ",
+        "children": [
+          {
+            "id": "48",
+            "parent": "47",
+            "text": "• Fundamental para orientar diagnóstico y pruebas complementarias",
+            "guid": "NJG3YlhmQOnSKVaujSjTrg",
+            "children": []
+          },
+          {
+            "id": "49",
+            "parent": "47",
+            "text": "• Incluir información de fuentes secundarias (pareja, familiares, compañeros de trabajo)",
+            "guid": "vKV_fb42wB329rRW-JM81w",
+            "children": []
+          },
+          {
+            "id": "50",
+            "parent": "47",
+            "text": "• Pacientes pueden subestimar su somnolencia → Evaluación objetiva clave",
+            "guid": "qPxeRM9sqDfawMx985u8iw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "parent": "0",
+        "text": "5. Diagnóstico Diferencial de\nSomnolencia Excesiva Diurna\n(SED)",
+        "guid": "NpjFNxUSWvMWVTuO0wjrLg",
+        "children": [
+          {
+            "id": "52",
+            "parent": "51",
+            "text": "5.1. Trastornos\nPrimarios del Sueño",
+            "guid": "3LmSHmO0ErJgbc9m3XfdLg",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "• Síndrome de Insuficiencia de Sueño Conductual",
+                "guid": "MoGlrqC8f2927OAHKJ3ITg",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "52",
+                "text": "• Trastornos Respiratorios del Sueño (Apnea Obstructiva y Central)",
+                "guid": "Dd1UQwtIDTuWw5GCmv6maA",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "52",
+                "text": "• Narcolepsia (Tipo 1 y 2)",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "52",
+                "text": "• Hipersomnia Idiopática",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "52",
+                "text": "• Trastorno de Movimientos Periódicos de las Extremidades",
+                "guid": "qy-zGXouzsOAvYgWX61Flw",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "52",
+                "text": "• Síndrome de Kleine-Levin (Hipersonmia Recurrente)",
+                "guid": "N4komvnw_3rn7PFTXby4OQ",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "52",
+                "text": "• Trastornos del Ritmo Circadiano",
+                "guid": "FVXDabx8VvwRGR4xG17L7w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "51",
+            "text": "5.2. Enfermedades Neurológicas\nRelacionadas con SED",
+            "guid": "7SYWcA9iPV-s6w5LNPaYQQ",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "• Traumatismo Craneoencefálico",
+                "guid": "x7xeP7i89lbypcJkZ9qJVQ",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "• Esclerosis Múltiple",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "• Enfermedad de Parkinson",
+                "guid": "SoU1yhCXDjuzQoG-VQf_yA",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "60",
+                "text": "• Demencia de Alzheimer",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "60",
+                "text": "• Migraña",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "60",
+                "text": "• Epilepsia",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "60",
+                "text": "• Cáncer del SNC",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "60",
+                "text": "• Accidente Cerebrovascular",
+                "guid": "7ATrcUfsdTZKMVCUnlNSsA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "69",
+            "parent": "51",
+            "text": "5.3. Otras Causas\nde Somnolencia",
+            "guid": "sE5Xk1Ud_DecROMShfxH8A",
+            "children": [
+              {
+                "id": "70",
+                "parent": "69",
+                "text": "• Fármacos (antiepilépticos, antidepresivos, ansiolíticos, opioides, antihipertensivos)",
+                "guid": "9kogIuov61H72WDkFr5Spw",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "69",
+                "text": "• Enfermedades sistémicas (insuficiencia hepática, renal, endocrinopatías)",
+                "guid": "LHFZu3P8L99_7CPbLNJ10w",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "69",
+                "text": "• Déficit de sueño crónico → Causa más frecuente en EE.UU.",
+                "guid": "teAwimzXwOSyEu00vCwJFg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "73",
+        "parent": "0",
+        "text": "6. Aspectos Claves en\nla Historia Clínica",
+        "guid": "",
+        "children": [
+          {
+            "id": "74",
+            "parent": "73",
+            "text": "6.1. Caracterización\nde la Somnolencia",
+            "guid": "DCJMEqfh12vjItFBl3b6kQ",
+            "children": [
+              {
+                "id": "75",
+                "parent": "74",
+                "text": "• Frecuencia, duración e impacto en vida diaria",
+                "guid": "RlxN3byElWMrnxfXWMJzNA",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "74",
+                "text": "• Somnolencia\nvs. Fatiga",
+                "guid": "C1oGMz6T1TEajpl7nbasRQ",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "• SED → Episodios involuntarios de sueño",
+                    "guid": "_5EvNONhvs3hz1nkAALjIA",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "• Fatiga → ↓ Motivación, ↓ Energía sin tendencia al sueño",
+                    "guid": "IcPVj5AGvbOpfpHiWnsyNQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79",
+                "parent": "74",
+                "text": "• Impacto laboral y en conducción",
+                "guid": "i44AphuR6ORBl3OZmzeoWQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "73",
+            "text": "6.2. Historia del Sueño",
+            "guid": "Mmso_4msTp-IxkIopgEy0A",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "• Horarios de sueño y vigilia (días laborales vs. libres)",
+                "guid": "r8XYNbFZaMm9ka3o_P2OhA",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "80",
+                "text": "• Tiempo en cama vs. tiempo real de sueño",
+                "guid": "XDS6l8CGSL04fFj2uibEQQ",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "80",
+                "text": "• Latencia al sueño y despertares nocturnos",
+                "guid": "LQTGJ4OHv0s68dzjeXWpQw",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "80",
+                "text": "• Uso de dispositivos electrónicos antes de dormir",
+                "guid": "Hu_tnMZUpb7qoHzbq2oIeQ",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "80",
+                "text": "• Siestas diurnas y su efecto en somnolencia",
+                "guid": "W1dRCIyBplYDgBDAokbOUw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "parent": "73",
+            "text": "6.3. Síntomas de\nTrastornos del Sueño",
+            "guid": "pYsDhZ_Qsp7ofp-Ok8scKA",
+            "children": [
+              {
+                "id": "87",
+                "parent": "86",
+                "text": "a) Apnea\ndel Sueño",
+                "guid": "tWbHd4hufPSJluaB3XTOag",
+                "children": [
+                  {
+                    "id": "88",
+                    "parent": "87",
+                    "text": "• Ronquidos intensos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "87",
+                    "text": "• Pausas respiratorias observadas por pareja",
+                    "guid": "G01nZCHsnNCvYWze-Vnq6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "87",
+                    "text": "• Despertares con sensación de asfixia",
+                    "guid": "Q184SkGZoemPdM0F2i3s-A",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "87",
+                    "text": "• Cefalea matutina, boca seca, nicturia",
+                    "guid": "ltp3YlkC9-6PZtFWzTYPlQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "92",
+                "parent": "86",
+                "text": "b) Narcolepsia",
+                "guid": "XBrH5ziE86fGccubw7Dt_A",
+                "children": [
+                  {
+                    "id": "93",
+                    "parent": "92",
+                    "text": "• Parálisis del sueño (transitoria, al inicio o final del sueño)",
+                    "guid": "QtYwO02EJ5xUs2SN2kvOjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "92",
+                    "text": "• Alucinaciones hipnagógicas/hipnopómpicas",
+                    "guid": "r7AwJcS8hmyJF7rkUywBRg",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "92",
+                    "text": "• Cataplejía (episodios de debilidad muscular tras emociones fuertes)",
+                    "guid": "UCAKgSBN5ZR-iq8LEoN9iA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96",
+                "parent": "86",
+                "text": "c) Trastornos del\nMovimiento en Sueño",
+                "guid": "7EufOAloyakN_EpR4sMVng",
+                "children": [
+                  {
+                    "id": "97",
+                    "parent": "96",
+                    "text": "• Movimientos periódicos de extremidades (sacudidas, despertares)",
+                    "guid": "VSnn3a3MgFJBVmObW7P3kQ",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "96",
+                    "text": "• Parasomnias (sonambulismo, trastorno de conducta en REM)",
+                    "guid": "lV7FE_siqESnJ40Dypu9XQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "99",
+        "parent": "0",
+        "text": "7. Factores de Riesgo\ny Antecedentes",
+        "guid": "",
+        "children": [
+          {
+            "id": "100",
+            "parent": "99",
+            "text": "7.1. Enfermedades Crónicas\nRelacionadas con Trastornos del Sueño",
+            "guid": "lgac0KIu6pcc0oNxiJ-5uw",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "• Insuficiencia cardiaca → ↑ Riesgo de apnea del sueño",
+                "guid": "fsb54drHnSaFwH_Vj5IPHQ",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "100",
+                "text": "• EPOC → Hipoxemia nocturna → Fragmentación del sueño",
+                "guid": "sj91zy2B809ZucWLuChikQ",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "100",
+                "text": "• Parkinson → Trastorno de conducta en REM",
+                "guid": "ZNvwxPDTbFYIVSdtvDTRtA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "99",
+            "text": "7.2. Historia\nFamiliar",
+            "guid": "gsRz08PiTg8qUq8wKYFp2w",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "• Narcolepsia, SAOS, SPI → Patrón familiar frecuente",
+                "guid": "d5oKvjkz52XegAhDViIucQ",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "• Síntomas en familiares sin diagnóstico formal",
+                "guid": "pHAhGz597v_nFtMFmhaIJQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "107",
+            "parent": "99",
+            "text": "7.3. Medicación y\nConsumo de Sustancias",
+            "guid": "kC9RYeX8sqwGrAui3wB_wA",
+            "children": [
+              {
+                "id": "108",
+                "parent": "107",
+                "text": "• Fármacos depresores del SNC → Somnolencia",
+                "guid": "7yxff-tATAjowqPR4_aUdA",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "107",
+                "text": "• Cafeína y estimulantes → Enmascaran síntomas",
+                "guid": "x9tCwOaSR2Ut_SnjuqETMg",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "107",
+                "text": "• Alcohol → Deteriora calidad del sueño",
+                "guid": "hIMrdZxFRtOp8Y459nFAcw",
+                "children": []
+              },
+              {
+                "id": "111",
+                "parent": "107",
+                "text": "• Tabaco → Estimula y fragmenta sueño",
+                "guid": "WZ8WyN5PzutEUz7OFKRL0A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "99",
+            "text": "7.4. Historia Laboral y Riesgo de\nSomnolencia en el Trabajo",
+            "guid": "I3R9hU3ZbRParcuBYWT9_g",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "• Turnos nocturnos o rotativos → Trastorno del Ritmo Circadiano",
+                "guid": "8L0qZiEXJPjVt0a4wzBxWA",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "112",
+                "text": "• Profesiones de alto riesgo (conductores, pilotos) → Regulaciones especiales",
+                "guid": "PvocP1GRrGWcy2jAHXJgMA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "115",
+        "parent": "0",
+        "text": "8. Examen\nFísico",
+        "guid": "jlDOqRDTWmxHxGV-LwpOCw",
+        "children": [
+          {
+            "id": "116",
+            "parent": "115",
+            "text": "• Objetivo: Identificar signos clínicos que sugieran trastornos del sueño",
+            "guid": "qDNKQF3_G9nyxwa8iS16FQ",
+            "children": []
+          },
+          {
+            "id": "117",
+            "parent": "115",
+            "text": "• Hallazgos\nclave:",
+            "guid": "QVeQc9H6PaRtU2_iDWCG3Q",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "• Paciente dormido en sala de espera",
+                "guid": "iD7tBck2MMTlvtGD5PX8HQ",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "117",
+                "text": "• Episodios de sueño durante la anamnesis",
+                "guid": "uCBTsA6tRmP-qX85Hj4uuw",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "117",
+                "text": "• Indicadores de apnea del sueño o hipersomnias del SNC",
+                "guid": "nZIp_OewYTvNUm2JUQW_Og",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "121",
+        "parent": "0",
+        "text": "9. Evaluación\nGeneral",
+        "guid": "Ku3CY3BuUaAzPf7fdc3UHw",
+        "children": [
+          {
+            "id": "122",
+            "parent": "121",
+            "text": "9.1. Signos\nVitales",
+            "guid": "jXLenJxsr_6cqgleQbv9wQ",
+            "children": [
+              {
+                "id": "123",
+                "parent": "122",
+                "text": "• SatO2 baja o taquipnea → Enfermedad pulmonar crónica (riesgo de apnea central)",
+                "guid": "WvcuXlslSh070CQ7Os1xDQ",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "122",
+                "text": "• HTA → Asociada a apnea obstructiva del sueño (AOS)",
+                "guid": "YKe4Y2FhLlBG1ieypBp28A",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "122",
+                "text": "• IMC elevado (obesidad) → Factor de riesgo para AOS",
+                "guid": "Eo5sLA3Ux4qyfrEEcrJ9tg",
+                "children": []
+              },
+              {
+                "id": "126",
+                "parent": "122",
+                "text": "• Circunferencia\ncervical aumentada",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "• >43 cm en hombres",
+                    "guid": "H_Ph2wMoLs3VaZlYDPNSLw",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "126",
+                    "text": "• >41 cm en mujeres",
+                    "guid": "SABJi6572Ze375Dy8TpOIg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "129",
+        "parent": "0",
+        "text": "10. Examen\nOrofaringeo",
+        "guid": "FPzVER34aZF5fg0pDBAZjQ",
+        "children": [
+          {
+            "id": "130",
+            "parent": "129",
+            "text": "10.1. Evaluación de la\nVía Aérea Superior",
+            "guid": "ExaSk5d6eERah8pDAxDkLg",
+            "children": [
+              {
+                "id": "131",
+                "parent": "130",
+                "text": "• Obstrucciones y\nanomalías faciales",
+                "guid": "fLGrGwe5hDAi-B6J2nNx0g",
+                "children": [
+                  {
+                    "id": "132",
+                    "parent": "131",
+                    "text": "• Micrognatia / Retrognatia",
+                    "guid": "z_4KoJR8fH46Y-9PwEaCog",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "131",
+                    "text": "• Macroglosia / Lengua con escotaduras",
+                    "guid": "iNT3WT4pI_GgiuuAkYLxjA",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "131",
+                    "text": "• Maloclusión dental / Overjet aumentado",
+                    "guid": "0ueYhX-5ah5O-IskKwGxhQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "135",
+                "parent": "130",
+                "text": "• Clasificación de Mallampati\n(riesgo de apnea del sueño)",
+                "guid": "Ebe0Aws-ailUv-ovv104ZQ",
+                "children": [
+                  {
+                    "id": "136",
+                    "parent": "135",
+                    "text": "• Clase I: Se ven pilares amigdalinos, úvula, paladar blando y duro",
+                    "guid": "8Ef7kHUh8agmnipHezvw3w",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "135",
+                    "text": "• Clase II: No se ven los pilares amigdalinos",
+                    "guid": "LG97oVufk7nLDmL7tJChdg",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "135",
+                    "text": "• Clase III: Solo se ven paladar blando y base de la úvula",
+                    "guid": "JqtHXQvX47r0JRPtWNltng",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "135",
+                    "text": "• Clase IV: Solo se ve el paladar duro (máximo riesgo de AOS)",
+                    "guid": "2A4jQidxIZnuHMcCNhbhOg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "parent": "0",
+        "text": "11. Examen\nNasal",
+        "guid": "g1wG0cCxbqphpC3gBacLYw",
+        "children": [
+          {
+            "id": "141",
+            "parent": "140",
+            "text": "• Factores que predisponen a respiración oral → ↑ riesgo de AOS",
+            "guid": "HoO7cDkOizzQjlfLX65hOQ",
+            "children": []
+          },
+          {
+            "id": "142",
+            "parent": "140",
+            "text": "• Tabique nasal desviado",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "143",
+            "parent": "140",
+            "text": "• Pólipos nasales",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "144",
+            "parent": "140",
+            "text": "• Congestión nasal crónica",
+            "guid": "8VZqXv0YtRl3yjk2YlTYPg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "145",
+        "parent": "0",
+        "text": "12. Examen\nCardiopulmonar",
+        "guid": "",
+        "children": [
+          {
+            "id": "146",
+            "parent": "145",
+            "text": "12.1.\nEvaluación\nCardíaca",
+            "guid": "05iHftb_8En530EuuraZ7A",
+            "children": [
+              {
+                "id": "147",
+                "parent": "146",
+                "text": "• Arritmias o soplos → Posible apnea central",
+                "guid": "9ZWCgTsTqzwQz0lwix_Nhw",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "146",
+                "text": "• Signos de insuficiencia cardíaca → Riesgo de hipoventilación nocturna",
+                "guid": "jhQyY9EsDDj8kLFv_aACpg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "parent": "145",
+            "text": "12.2.\nEvaluación\nPulmonar",
+            "guid": "Bv0XhJc2l2rMBmxMoa58Gw",
+            "children": [
+              {
+                "id": "150",
+                "parent": "149",
+                "text": "• Alteraciones respiratorias → Evaluar hipoventilación",
+                "guid": "NWgtNOnedvBPc_YInlWfhw",
+                "children": []
+              },
+              {
+                "id": "151",
+                "parent": "149",
+                "text": "• Enfermedad pulmonar crónica → Riesgo de apnea central",
+                "guid": "jUjGBcykoJI28vFT2SHuNQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "13. Examen\nNeurológico",
+        "guid": "d9-nlKrF8WN9tiPdIXXzIg",
+        "children": [
+          {
+            "id": "153",
+            "parent": "152",
+            "text": "13.1. Evaluación de Trastornos\nNeurológicos Relacionados con SED",
+            "guid": "1NjKWdc4_k7XRu-x0B2AfQ",
+            "children": [
+              {
+                "id": "154",
+                "parent": "153",
+                "text": "• Déficits focales → Sospecha de ACV o Esclerosis Múltiple",
+                "guid": "R-i25dIRZZeA0wDHIHT5oQ",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "153",
+                "text": "• Temblor, rigidez, bradicinesia → Enfermedad de Parkinson",
+                "guid": "SYKsgFB-V08skVyL3gVlJw",
+                "children": [
+                  {
+                    "id": "156",
+                    "parent": "155",
+                    "text": "• Alto riesgo de Trastorno de Conducta en REM",
+                    "guid": "cXDC9c272pNHivrJ_iEkdg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "157",
+                "parent": "153",
+                "text": "• Signos de neuropatía periférica → Evaluar disautonomía asociada",
+                "guid": "Ag93GzPz7A3iH4AHl3wqPw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "14. Cuestionarios de\nApoyo Diagnóstico",
+        "guid": "",
+        "children": [
+          {
+            "id": "159",
+            "parent": "158",
+            "text": "• Berlin Questionnaire (riesgo de apnea obstructiva del sueño)",
+            "guid": "Qadf_Yvi4LtwjOunfAxFqA",
+            "children": []
+          },
+          {
+            "id": "160",
+            "parent": "158",
+            "text": "• STOP-BANG (detección rápida de AOS)",
+            "guid": "zdyA1VPO2ODJrAEbClaSAA",
+            "children": []
+          },
+          {
+            "id": "161",
+            "parent": "158",
+            "text": "• Functional Outcomes of Sleep Questionnaire (impacto funcional del sueño)",
+            "guid": "5viAXTf9HU290him-PD0aQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "162",
+        "parent": "0",
+        "text": "15. Pruebas\nDiagnósticas",
+        "guid": "",
+        "children": [
+          {
+            "id": "163",
+            "parent": "162",
+            "text": "• Complementan historia clínica y examen físico",
+            "guid": "wH0c3EKhfeL1yYXQkQNXng",
+            "children": []
+          },
+          {
+            "id": "164",
+            "parent": "162",
+            "text": "• Objetivo: Confirmar diagnóstico de trastornos del sueño",
+            "guid": "AG9Nq49l9kr3mDuKyEqcjw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "165",
+        "parent": "0",
+        "text": "16. Herramientas de\nEvaluación Inicial",
+        "guid": "",
+        "children": [
+          {
+            "id": "166",
+            "parent": "165",
+            "text": "16.1. Diarios\nde Sueño",
+            "guid": "65Av-9H1pkNN9O4voFNO9w",
+            "children": [
+              {
+                "id": "167",
+                "parent": "166",
+                "text": "• Registro de patrones de sueño por ≥2 semanas",
+                "guid": "6sT8btmZDX6GylITnF1XFw",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "166",
+                "text": "• Evalúa:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "• Duración del sueño",
+                    "guid": "u1WLuTXNRA94DBl7JmZDNA",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "• Latencia al sueño",
+                    "guid": "ARJEnwJIDY-bzTlDFi5IwA",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "168",
+                    "text": "• Número de despertares nocturnos",
+                    "guid": "uUqW5UQVaZceKGgWkMxkQg",
+                    "children": []
+                  },
+                  {
+                    "id": "172",
+                    "parent": "168",
+                    "text": "• Siestas diurnas",
+                    "guid": "-xvu6giuVgQHv_tVJHUWRw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "173",
+                "parent": "166",
+                "text": "• Útil en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "174",
+                    "parent": "173",
+                    "text": "• Trastornos del ritmo circadiano",
+                    "guid": "qtqknPYSHJeyH3o_40sW9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "173",
+                    "text": "• Síndrome de insuficiencia de sueño",
+                    "guid": "eRzTnGNwKkNfE3JlYnT9WQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "165",
+            "text": "16.2. Actigrafía",
+            "guid": "ChN_lJVA8Khx92az81J_lg",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "• Acelerómetro de muñeca → Registra actividad y reposo",
+                "guid": "5xLC6cXBKhyo-y-HPzBGAw",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "• Diferencia sueño-vigilia sin requerir observación directa",
+                "guid": "8jEyaF-igDvpMWgGT8-nYQ",
+                "children": []
+              },
+              {
+                "id": "179",
+                "parent": "176",
+                "text": "• Indicado en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "180",
+                    "parent": "179",
+                    "text": "• Evaluación de insomnio",
+                    "guid": "jG5O6uowKCQ_9qWJbiLsiQ",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "179",
+                    "text": "• Ritmos circadianos alterados",
+                    "guid": "BOoNxY-rSpAVt33aapnVSg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "182",
+        "parent": "0",
+        "text": "17. Estudios\ndel Sueño",
+        "guid": "q2VOFLbWqAgJY7GpH4noGQ",
+        "children": [
+          {
+            "id": "183",
+            "parent": "182",
+            "text": "17.1. Polisomnografía\nNocturna (PSG)",
+            "guid": "D8mTpHF2nOb9rEjGNxqkfA",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "• Gold standard en evaluación del sueño",
+                "guid": "vnKSlFYwb_EoWnhga21Jmw",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "183",
+                "text": "• Registra:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "186",
+                    "parent": "185",
+                    "text": "• EEG → Arquitectura del sueño",
+                    "guid": "cZU43ft8yZWGGhRvagFRxw",
+                    "children": []
+                  },
+                  {
+                    "id": "187",
+                    "parent": "185",
+                    "text": "• EOG → Movimientos oculares",
+                    "guid": "tQ_-NQKzPzKEq8Kquysdqw",
+                    "children": []
+                  },
+                  {
+                    "id": "188",
+                    "parent": "185",
+                    "text": "• EMG → Actividad muscular (mentón, extremidades)",
+                    "guid": "FMSyGrHvheqJrI2VrdvNjg",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "185",
+                    "text": "• Flujo aéreo nasal/oral → Apneas",
+                    "guid": "BPHKeoo1DNwvAwwOo-6JgQ",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "185",
+                    "text": "• Esfuerzo respiratorio → Diferencia AOS vs. apnea central",
+                    "guid": "1GrJh7YMGOMxSs_j2puavQ",
+                    "children": []
+                  },
+                  {
+                    "id": "191",
+                    "parent": "185",
+                    "text": "• SatO₂ → Desaturaciones",
+                    "guid": "vyKLjaRAoD86TLQQ9FDltQ",
+                    "children": []
+                  },
+                  {
+                    "id": "192",
+                    "parent": "185",
+                    "text": "• Posición corporal",
+                    "guid": "fGqnTULaPjqxtshxWfRNoA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "193",
+                "parent": "183",
+                "text": "• Indicaciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "194",
+                    "parent": "193",
+                    "text": "• Apnea del sueño (diagnóstico y titulación de CPAP)",
+                    "guid": "McPJbJSn3q8ELQx2ADCYog",
+                    "children": []
+                  },
+                  {
+                    "id": "195",
+                    "parent": "193",
+                    "text": "• Trastornos del movimiento en el sueño (PLMS, RBD)",
+                    "guid": "FdIIVYTF_kbJfyeVXyIEBQ",
+                    "children": []
+                  },
+                  {
+                    "id": "196",
+                    "parent": "193",
+                    "text": "• Epilepsia nocturna",
+                    "guid": "aUB3rtegsLVHy9T9p8K9NQ",
+                    "children": []
+                  },
+                  {
+                    "id": "197",
+                    "parent": "193",
+                    "text": "• Narcolepsia (previa a MSLT)",
+                    "guid": "F4Ttxr9MDB4p8nVx2cBERw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "198",
+            "parent": "182",
+            "text": "17.2. Test de Latencias\nMúltiples de Sueño (MSLT)",
+            "guid": "6qtx3JE45TdVwkuhDaiGEQ",
+            "children": [
+              {
+                "id": "199",
+                "parent": "198",
+                "text": "• Gold standard para medir hipersomnia diurna",
+                "guid": "_E-AfMK4jmgIiwo6zC81hA",
+                "children": []
+              },
+              {
+                "id": "200",
+                "parent": "198",
+                "text": "• Consiste en:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "201",
+                    "parent": "200",
+                    "text": "• 4-5 siestas cada 2 h → Registro de latencia al sueño",
+                    "guid": "fOGA0xkRdUCMjQxZG_AhyA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "202",
+                "parent": "198",
+                "text": "• Criterios diagnósticos\nde Narcolepsia:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "203",
+                    "parent": "202",
+                    "text": "• Latencia promedio <8 min",
+                    "guid": "CD8_cKre3_vlX7HtY1az6w",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "202",
+                    "text": "• ≥2 episodios de REM en siestas",
+                    "guid": "_e8BgC_fNv54ajcBmcYSOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "parent": "198",
+                "text": "• Precauciones\nantes del MSLT:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "206",
+                    "parent": "205",
+                    "text": "• PSG la noche previa",
+                    "guid": "nVYLgERCECFf6IuXGfT4zQ",
+                    "children": []
+                  },
+                  {
+                    "id": "207",
+                    "parent": "205",
+                    "text": "• Evitar fármacos REM-supresores (antidepresivos)",
+                    "guid": "78eRj0xBkDfFLfLrnF_3oQ",
+                    "children": []
+                  },
+                  {
+                    "id": "208",
+                    "parent": "205",
+                    "text": "• Actigrafía o diarios de sueño previos para descartar privación de sueño",
+                    "guid": "fZlwgCgH6yE3XQSZKYZauw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "209",
+            "parent": "182",
+            "text": "17.3. Test de Mantenimiento\nde la Vigilia (MWT)",
+            "guid": "zHwrH81lcQSUzIiDUrHw9Q",
+            "children": [
+              {
+                "id": "210",
+                "parent": "209",
+                "text": "• Evalúa capacidad de permanecer despierto",
+                "guid": "9iZSF3BRf_yiV6twVCFq7w",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "209",
+                "text": "• 4 pruebas de 40 min c/u",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "212",
+                "parent": "209",
+                "text": "• Usos clínicos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "213",
+                    "parent": "212",
+                    "text": "• Evaluar seguridad en pilotos, conductores",
+                    "guid": "J5RWLJ2fYjoqRnOKz5FY_g",
+                    "children": []
+                  },
+                  {
+                    "id": "214",
+                    "parent": "212",
+                    "text": "• Diagnóstico de hipersomnia ocupacional",
+                    "guid": "gZqpOWNddgSReYPmoc67Tw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "215",
+        "parent": "0",
+        "text": "18. Estudios\nDomiciliarios",
+        "guid": "",
+        "children": [
+          {
+            "id": "216",
+            "parent": "215",
+            "text": "18.1. Test de Apnea del\nSueño en Casa (HSAT)",
+            "guid": "FdMl__zdoO44SaDkrc0cxg",
+            "children": [
+              {
+                "id": "217",
+                "parent": "216",
+                "text": "• Alternativa a PSG en pacientes con alta sospecha de AOS",
+                "guid": "-1_vte29pbFGK_yoKfDTVQ",
+                "children": []
+              },
+              {
+                "id": "218",
+                "parent": "216",
+                "text": "• Registra:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "219",
+                    "parent": "218",
+                    "text": "• Flujo aéreo nasal",
+                    "guid": "2DK65xpFJYr4Urz319VdXw",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "218",
+                    "text": "• Esfuerzo respiratorio",
+                    "guid": "oCeRnAIUCJh6vFiyMpHOPw",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "218",
+                    "text": "• Oximetría",
+                    "guid": "Vcu2GXsmbftxIztok1bUbw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "222",
+                "parent": "216",
+                "text": "• Limitaciones:",
+                "guid": "55SAXUBF7dUoX0x2EeD3dg",
+                "children": [
+                  {
+                    "id": "223",
+                    "parent": "222",
+                    "text": "• No evalúa sueño REM",
+                    "guid": "dwTi47eVyt4MqIaacekdoQ",
+                    "children": []
+                  },
+                  {
+                    "id": "224",
+                    "parent": "222",
+                    "text": "• No detecta apneas centrales ni microdespertares",
+                    "guid": "Z1lIO3RrDxlMmmXXRbCo5w",
+                    "children": []
+                  },
+                  {
+                    "id": "225",
+                    "parent": "222",
+                    "text": "• No recomendado en comorbilidades (EPOC, IC, ACV)",
+                    "guid": "NOR7MXEmyQWWcH2iXRKN9Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "226",
+        "parent": "0",
+        "text": "19. Otras\nPruebas de\nApoyo",
+        "guid": "",
+        "children": [
+          {
+            "id": "227",
+            "parent": "226",
+            "text": "19.1. Estudios de\nLaboratorio",
+            "guid": "Td7wGNzKRzy4Vg-ukqLD-w",
+            "children": [
+              {
+                "id": "228",
+                "parent": "227",
+                "text": "• TSH/T4 → Hipotiroidismo (causa de fatiga)",
+                "guid": "eNLZqshDEp2mjTsrp-jpuQ",
+                "children": []
+              },
+              {
+                "id": "229",
+                "parent": "227",
+                "text": "• Hemograma → Anemia",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "230",
+                "parent": "227",
+                "text": "• Vitamina D → Relación con fatiga crónica",
+                "guid": "Wq61Ch-Te9HvITX3TRJZoQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "231",
+            "parent": "226",
+            "text": "19.2. Estudios de Líquido Cefalorraquídeo",
+            "guid": "C-L6315tmZt0wTxk2QRKBg",
+            "children": [
+              {
+                "id": "232",
+                "parent": "231",
+                "text": "• CSF Orexina → ↓ en Narcolepsia tipo 1",
+                "guid": "uolWMPfdYOVVpwuiZvdBFQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "226",
+            "text": "19.3. Estudios Genéticos",
+            "guid": "68qTN4HppIdX_psWEpfY0g",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "• HLA DQB1*06:02 → Asociado a Narcolepsia tipo 1",
+                "guid": "ZUkM7-arJTOTRtYrzyVJ_w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "235",
+            "parent": "226",
+            "text": "19.4. Estudios de\nNeuroimagen",
+            "guid": "IfZhfzdyE1KuETgiNQY2SA",
+            "children": [
+              {
+                "id": "236",
+                "parent": "235",
+                "text": "• Resonancia Magnética Cerebral (RM)",
+                "guid": "71efCK0oOAYUVmq6PaYrRQ",
+                "children": [
+                  {
+                    "id": "237",
+                    "parent": "236",
+                    "text": "• Sospecha de ACV, tumores o lesiones estructurales",
+                    "guid": "QX6o9kHBJj54Kh4vMyQxCw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "238",
+                "parent": "235",
+                "text": "• EMG / CV",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "239",
+                    "parent": "238",
+                    "text": "• Sospecha de miopatía o neuropatía asociada a hipoventilación",
+                    "guid": "1WoEzcRPU2HfrLQCXd5tIQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "240",
+        "parent": "0",
+        "text": "20. Insomnio y\nsu Impacto",
+        "guid": "",
+        "children": [
+          {
+            "id": "241",
+            "parent": "240",
+            "text": "• Alta prevalencia: 10% cumple criterios de insomnio crónico",
+            "guid": "o_HOpX32yPtkN_dRHE8A9Q",
+            "children": []
+          },
+          {
+            "id": "242",
+            "parent": "240",
+            "text": "• Mayor riesgo en pacientes con\nenfermedades neurológicas",
+            "guid": "gy-7W8kgOkPvxrawZl7ETg",
+            "children": [
+              {
+                "id": "243",
+                "parent": "242",
+                "text": "• EM, Demencia,\nParkinson, ACV",
+                "guid": "u5zK4t7dCwIRHXRd9KHs8A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "244",
+            "parent": "240",
+            "text": "• Impacto:",
+            "guid": "",
+            "children": [
+              {
+                "id": "245",
+                "parent": "244",
+                "text": "• ↓ Rendimiento laboral y académico",
+                "guid": "yf5QqLGL8zRW2xR7mOeq1w",
+                "children": []
+              },
+              {
+                "id": "246",
+                "parent": "244",
+                "text": "• Riesgo de fatiga, depresión y ansiedad",
+                "guid": "ddGbSnvZRP3cL6Ikq1bqfQ",
+                "children": []
+              },
+              {
+                "id": "247",
+                "parent": "244",
+                "text": "• Pérdidas económicas ($63 mil millones/año en EE.UU.)",
+                "guid": "2Kzk4q0O0-43xcG-dyiKoQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "248",
+        "parent": "0",
+        "text": "21. Historia Clínica\nen Insomnio",
+        "guid": "",
+        "children": [
+          {
+            "id": "249",
+            "parent": "248",
+            "text": "21.1.\nCaracterización del\nInsomnio",
+            "guid": "gaA1jgraz2OA_BUXt24SAg",
+            "children": [
+              {
+                "id": "250",
+                "parent": "249",
+                "text": "• Dificultad para:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "251",
+                    "parent": "250",
+                    "text": "• Conciliar el sueño",
+                    "guid": "gawUpYIOJFKoxu2MHvrDfA",
+                    "children": []
+                  },
+                  {
+                    "id": "252",
+                    "parent": "250",
+                    "text": "• Mantener el sueño",
+                    "guid": "5QpG3sNIGvvwraB_nwONeA",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "250",
+                    "text": "• Despertar precozmente",
+                    "guid": "hut-P3YJkLYPpSEB8hSVIQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "254",
+                "parent": "249",
+                "text": "• Frecuencia y\nduración:",
+                "guid": "XW6Et2lylXEptEidZTXoQg",
+                "children": [
+                  {
+                    "id": "255",
+                    "parent": "254",
+                    "text": "• ¿Ocurre ≥3 veces/semana?",
+                    "guid": "z8iH_xhSs3kCo27zov1QcA",
+                    "children": []
+                  },
+                  {
+                    "id": "256",
+                    "parent": "254",
+                    "text": "• ¿Desde cuándo lo presenta?",
+                    "guid": "XJheX22bVG1FLYloaniSgQ",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
+                    "parent": "254",
+                    "text": "• Intermitente vs. progresivo",
+                    "guid": "ltS1VS-nx2cJxBO60mg6YQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "258",
+            "parent": "248",
+            "text": "21.2. Rutina de\nSueño y Hábitos",
+            "guid": "KfP7IWCr_wS7LY-gy3GysA",
+            "children": [
+              {
+                "id": "259",
+                "parent": "258",
+                "text": "• Horarios de sueño en días laborales vs. libres",
+                "guid": "iHUeNzzJ0Nni6DhTI3_AIw",
+                "children": []
+              },
+              {
+                "id": "260",
+                "parent": "258",
+                "text": "• Rutina antes de dormir (uso de pantallas, actividad física, cafeína)",
+                "guid": "0uxofN5LICqb4TbmkZ4HGA",
+                "children": []
+              },
+              {
+                "id": "261",
+                "parent": "258",
+                "text": "• Ambiente de sueño (ruido, luz, temperatura)",
+                "guid": "f1YXrhS1oiQ4w6YxlpC5Zg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "262",
+            "parent": "248",
+            "text": "21.3. Factores\nExacerbantes /\nAliviantes",
+            "guid": "3jtlkLsns94srGkZeBJA2w",
+            "children": [
+              {
+                "id": "263",
+                "parent": "262",
+                "text": "• Factores que\nempeoran insomnio",
+                "guid": "Xppz0uWQbz_kfaa5xRzA5g",
+                "children": [
+                  {
+                    "id": "264",
+                    "parent": "263",
+                    "text": "• Estrés laboral o académico",
+                    "guid": "2R8eWKxdPsWc5Z3WCTfhiA",
+                    "children": []
+                  },
+                  {
+                    "id": "265",
+                    "parent": "263",
+                    "text": "• Consumo de cafeína, alcohol, tabaco",
+                    "guid": "KX-8KfCNWGnW-VlrgWLBwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "266",
+                    "parent": "263",
+                    "text": "• Uso de fármacos (antidepresivos estimulantes, corticoides, betabloqueadores)",
+                    "guid": "aDty4DngYy-Zj8-KG8c14g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "267",
+                "parent": "262",
+                "text": "• Factores que\nmejoran insomnio",
+                "guid": "vGG1SkIQpTTjmWnrT9pxWg",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "• Vacaciones o días sin obligaciones",
+                    "guid": "834_XsLTjYUMvTOKe3DSgQ",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "267",
+                    "text": "• Cambio de ambiente (duerme mejor fuera de casa?)",
+                    "guid": "ZmXbzYOS6E7TedLz9P_T2w",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "267",
+                    "text": "• Apnea del Sueño (SAOS)\n(ronquidos, pausas respiratorias)",
+                    "guid": "FOG-EQavJcfLVjaU1eycCA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "271",
+        "parent": "0",
+        "text": "22. Causas\nComunes de\nInsomnio",
+        "guid": "",
+        "children": [
+          {
+            "id": "272",
+            "parent": "271",
+            "text": "22.1. Trastornos\ndel Sueño",
+            "guid": "L8rukEwf9V_iz3M9z5lJTg",
+            "children": [
+              {
+                "id": "273",
+                "parent": "272",
+                "text": "• Síndrome de Piernas Inquietas (SPI) (urgencia de mover piernas en reposo)",
+                "guid": "5N0jVmol2brBnmo8GoVS9w",
+                "children": []
+              },
+              {
+                "id": "274",
+                "parent": "272",
+                "text": "• Parasomnias (sonambulismo, terrores nocturnos, Trastorno Conducta REM)",
+                "guid": "zuAIVaWsvEXLETFDRvonKQ",
+                "children": []
+              },
+              {
+                "id": "275",
+                "parent": "272",
+                "text": "• Narcolepsia (fragmentación del sueño nocturno)",
+                "guid": "I2pLEcmchZj9L7uysV9tlA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "276",
+            "parent": "271",
+            "text": "22.2. Enfermedades\nNeurológicas y Psiquiátricas",
+            "guid": "kJovjIU33PNXSkgQHErZuw",
+            "children": [
+              {
+                "id": "277",
+                "parent": "276",
+                "text": "• Dolor crónico → Despertares nocturnos",
+                "guid": "dcY21P3QmC0VMUOXZG6FEA",
+                "children": []
+              },
+              {
+                "id": "278",
+                "parent": "276",
+                "text": "• ACV, EM → Alteración en regulación del sueño",
+                "guid": "OGTrGupvrDybXvKT-cCiGQ",
+                "children": []
+              },
+              {
+                "id": "279",
+                "parent": "276",
+                "text": "• Depresión / Ansiedad → Hipervigilancia nocturna",
+                "guid": "CW-tK1rLj9OZeQKASBWSJA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "280",
+            "parent": "271",
+            "text": "22.3. Trastornos del\nRitmo Circadiano",
+            "guid": "9VMTsSReUqc8275_qYBU0g",
+            "children": [
+              {
+                "id": "281",
+                "parent": "280",
+                "text": "• “Búhos nocturnos” vs. “Alondras matutinas”",
+                "guid": "EGVLJoCuBZA1T-0nGHuR5g",
+                "children": []
+              },
+              {
+                "id": "282",
+                "parent": "280",
+                "text": "• Mejoría del sueño en vacaciones → Sugiere alteración circadiana",
+                "guid": "4vhLMDhvY6LP1A38ZtsFXw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "283",
+        "parent": "0",
+        "text": "23. Herramientas\nDiagnósticas",
+        "guid": "",
+        "children": [
+          {
+            "id": "284",
+            "parent": "283",
+            "text": "23.1. Cuestionarios y\nEvaluación Subjetiva",
+            "guid": "vQoGdplfPzDbKus7aGaplw",
+            "children": [
+              {
+                "id": "285",
+                "parent": "284",
+                "text": "• Índice de Severidad de Insomnio (ISI) (evalúa severidad y respuesta al tratamiento)",
+                "guid": "leHV5YyJzGIic0mwf3tmhA",
+                "children": []
+              },
+              {
+                "id": "286",
+                "parent": "284",
+                "text": "• Pittsburgh Sleep Quality Index (PSQI) (calidad del sueño en el último mes)",
+                "guid": "MktdAQsRHFt5CK4WurJsKg",
+                "children": []
+              },
+              {
+                "id": "287",
+                "parent": "284",
+                "text": "• Diarios de sueño\n(1-2 semanas)",
+                "guid": "UrQ-LyhmSZQFLMoeKmkrIg",
+                "children": [
+                  {
+                    "id": "288",
+                    "parent": "287",
+                    "text": "• Horarios de acostarse y despertar",
+                    "guid": "qRu1-RWUwCJVhx25mH00HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "289",
+                    "parent": "287",
+                    "text": "• Consumo de cafeína, alcohol, fármacos",
+                    "guid": "G-SZu7Oo8SxEEi9E_NjaIw",
+                    "children": []
+                  },
+                  {
+                    "id": "290",
+                    "parent": "287",
+                    "text": "• Despertares nocturnos",
+                    "guid": "s3W4CK7_4BywQSx1MhiZpg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "291",
+            "parent": "283",
+            "text": "23.2. Pruebas\nObjetivas",
+            "guid": "q6kLB5jN-MjLoVrGiU6OcQ",
+            "children": [
+              {
+                "id": "292",
+                "parent": "291",
+                "text": "• Actigrafía (evalúa ritmo circadiano y actividad nocturna)",
+                "guid": "6Or5Gs9KvCJTwsIlNoRYdw",
+                "children": []
+              },
+              {
+                "id": "293",
+                "parent": "291",
+                "text": "• Polisomnografía (PSG)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "294",
+                    "parent": "293",
+                    "text": "• Indicado si hay sospecha de SAOS o trastornos motores del sueño",
+                    "guid": "I6mBiiVkqNFyoJ06PYuxjg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "295",
+                "parent": "291",
+                "text": "• Test de Latencias Múltiples de Sueño (MSLT)",
+                "guid": "OBaOy4cRJbB5AVrJAox7Jw",
+                "children": [
+                  {
+                    "id": "296",
+                    "parent": "295",
+                    "text": "• Descarta narcolepsia en insomnio severo",
+                    "guid": "SoT1UvKQocugrVyQBZh-6A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "297",
+        "parent": "0",
+        "text": "24. Examen\nFísico",
+        "guid": "Uv9SN318zr5kke1VTYd4TQ",
+        "children": [
+          {
+            "id": "298",
+            "parent": "297",
+            "text": "• Frecuentemente normal",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "299",
+            "parent": "297",
+            "text": "• Buscar signos de enfermedades crónicas o neurológicas",
+            "guid": "zz0MGOSyM_vcaKRVewCfPw",
+            "children": []
+          },
+          {
+            "id": "300",
+            "parent": "297",
+            "text": "24.1. Signos Claves en\nExamen Físico",
+            "guid": "NpDDjrcXf_qCAI_e_a09tg",
+            "children": [
+              {
+                "id": "301",
+                "parent": "300",
+                "text": "• Enfermedades crónicas que afectan el sueño",
+                "guid": "-sTYmOqkaimVSYJzf3IMnw",
+                "children": [
+                  {
+                    "id": "302",
+                    "parent": "301",
+                    "text": "• EPOC, IC, artrosis → ↓ Calidad del sueño",
+                    "guid": "RF-orHMelMnxx_1pXjpuNw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "303",
+                "parent": "300",
+                "text": "• Signos neurológicos de\npatologías asociadas",
+                "guid": "dRfCnnd_gv4C413wAjO6xQ",
+                "children": [
+                  {
+                    "id": "304",
+                    "parent": "303",
+                    "text": "• EM, Parkinson, neuropatías → Mayor prevalencia de insomnio",
+                    "guid": "n7260hTMgGWBcbZ9id-BWg",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "parent": "303",
+                    "text": "• Pérdida de vibración o sensibilidad distal → Sospechar neuropatía periférica / SPI",
+                    "guid": "gv8LGbH9Ya24T7hDMsqI5A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "306",
+                "parent": "300",
+                "text": "• Factores de riesgo de AOS",
+                "guid": "nPRt_Jjr1ddrq9oCoX6NIQ",
+                "children": [
+                  {
+                    "id": "307",
+                    "parent": "306",
+                    "text": "• HTA, IMC elevado, cuello ancho, vía aérea estrecha",
+                    "guid": "Sf04JIjUZzz9vhVSir8q7Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "308",
+                "parent": "300",
+                "text": "• Examen de salud mental",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "309",
+                    "parent": "308",
+                    "text": "• Estado de ánimo, memoria, concentración → Indicios de depresión o ansiedad",
+                    "guid": "gct_sNMJ6XpCyxuaz_OQjQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "310",
+        "parent": "0",
+        "text": "25. Pruebas\nDiagnósticas",
+        "guid": "",
+        "children": [
+          {
+            "id": "311",
+            "parent": "310",
+            "text": "• Objetivo: Identificar trastornos del sueño o comorbilidades asociadas",
+            "guid": "sQuiVIOXpuJKtF_TcwEEmA",
+            "children": []
+          },
+          {
+            "id": "312",
+            "parent": "310",
+            "text": "25.1. Herramientas\nde Evaluación",
+            "guid": "rXAWtLlURWkoeCoBkfx8GA",
+            "children": [
+              {
+                "id": "313",
+                "parent": "312",
+                "text": "• Diarios de sueño\n(1-2 semanas)",
+                "guid": "mkj6MKjXifXkYD59czS5FA",
+                "children": [
+                  {
+                    "id": "314",
+                    "parent": "313",
+                    "text": "• Identificación de trastornos circadianos",
+                    "guid": "KYkrEs_SWu_aNTs1hEzfYA",
+                    "children": []
+                  },
+                  {
+                    "id": "315",
+                    "parent": "313",
+                    "text": "• Evaluación de insomnio episódico vs. crónico",
+                    "guid": "v_WhFIS_oLboLUzGb2OouA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "316",
+                "parent": "312",
+                "text": "• Actigrafía",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "317",
+                    "parent": "316",
+                    "text": "• Medición objetiva del ciclo sueño-vigilia",
+                    "guid": "g0KaC-vg4JhhRWMeEHArJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "316",
+                    "text": "• Recomendado por AASM en insomnio y alteraciones circadianas",
+                    "guid": "CoupboZ8Yg5jYSCxpYXi8g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "319",
+            "parent": "310",
+            "text": "25.2. Estudios del Sueño",
+            "guid": "z8cXFcKAk4OYzXkCnwi7MQ",
+            "children": [
+              {
+                "id": "320",
+                "parent": "319",
+                "text": "• Polisomnografía (PSG) → No\nde rutina en insomnio",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "321",
+                    "parent": "320",
+                    "text": "• Indicaciones:",
+                    "guid": "v-7loarROJ5Fwd9MH9BRtg",
+                    "children": [
+                      {
+                        "id": "322",
+                        "parent": "321",
+                        "text": "• Sospecha de AOS o Trastorno del Movimiento en Sueño",
+                        "guid": "P1T4L3nrfN3VWsWoFAJ0vg",
+                        "children": []
+                      },
+                      {
+                        "id": "323",
+                        "parent": "321",
+                        "text": "• Fracaso terapéutico (fármacos o TCC-I)",
+                        "guid": "4QkcHgjYJRrcdiNENWw-_w",
+                        "children": []
+                      },
+                      {
+                        "id": "324",
+                        "parent": "321",
+                        "text": "• Insomnio de origen incierto",
+                        "guid": "wkASj8jjJIGv_9DN1BvJAw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "325",
+                "parent": "319",
+                "text": "• Test de Apnea del Sueño en Casa (HSAT)\n→ Uso limitado",
+                "guid": "AUrcRuNMf4bhjKF2GAYK7g",
+                "children": [
+                  {
+                    "id": "326",
+                    "parent": "325",
+                    "text": "• Contraindicado en:",
+                    "guid": "lLOFf4H_4-KJyxRNKP13XA",
+                    "children": [
+                      {
+                        "id": "327",
+                        "parent": "326",
+                        "text": "• Insomnio grave",
+                        "guid": "vecXD1cxjxwLprjtirCaYw",
+                        "children": []
+                      },
+                      {
+                        "id": "328",
+                        "parent": "326",
+                        "text": "• Comorbilidades neurológicas o pulmonares",
+                        "guid": "0FR4qZXm0ZjLsKXvoZzy-Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "329",
+            "parent": "310",
+            "text": "25.3. Laboratorio y\nBiomarcadores",
+            "guid": "di7wbqaVJ2PDh5xWAoK6YQ",
+            "children": [
+              {
+                "id": "330",
+                "parent": "329",
+                "text": "• Ferritina / Hierro → Si hay sospecha de SPI",
+                "guid": "_yJookNsH-VpCBjxqpL9iA",
+                "children": []
+              },
+              {
+                "id": "331",
+                "parent": "329",
+                "text": "• Vitamina D / Mg → Relación con alteraciones del sueño",
+                "guid": "lnzO6yhbVYQkQOWBHPgA5g",
+                "children": []
+              },
+              {
+                "id": "332",
+                "parent": "329",
+                "text": "• Perfil tiroideo → Hipertiroidismo causa insomnio",
+                "guid": "F241tG5JiD7-yGBYToGgVQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "333",
+        "parent": "0",
+        "text": "26. Evaluación con\nTecnología de Consumo",
+        "guid": "4fhKnFTWeL43FVHY8SbSog",
+        "children": [
+          {
+            "id": "334",
+            "parent": "333",
+            "text": "26.1. Rastreo del\nSueño con Wearables",
+            "guid": "ZLUPerf-fn-YpEj4PhqRNA",
+            "children": [
+              {
+                "id": "335",
+                "parent": "334",
+                "text": "• No recomendado como herramienta diagnóstica principal",
+                "guid": "5KG3e0PHykITHu6EdwTVXA",
+                "children": []
+              },
+              {
+                "id": "336",
+                "parent": "334",
+                "text": "• Posible\nutilidad:",
+                "guid": "9l4bUZsDrNNNu64_Qef16w",
+                "children": [
+                  {
+                    "id": "337",
+                    "parent": "336",
+                    "text": "• Concienciación sobre la importancia del sueño",
+                    "guid": "rD_nh53ea98Dbc_6aVxBnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "338",
+                    "parent": "336",
+                    "text": "• Facilita conversación médico-paciente",
+                    "guid": "rfNe0W3MLmvw-c-yZ_fVOg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "339",
+                "parent": "334",
+                "text": "• Limitaciones\nactuales:",
+                "guid": "vgCq9JCrAjZf82htUng2cw",
+                "children": [
+                  {
+                    "id": "340",
+                    "parent": "339",
+                    "text": "• Falta de validación en población clínica",
+                    "guid": "Z7G5qPjw1NpmFOO2n4pgBg",
+                    "children": []
+                  },
+                  {
+                    "id": "341",
+                    "parent": "339",
+                    "text": "• No detectan alteraciones del sueño con precisión clínica",
+                    "guid": "3PUz7FTBpdCIGtrC9rFOfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "342",
+        "parent": "0",
+        "text": "27. Conclusión",
+        "guid": "",
+        "children": [
+          {
+            "id": "343",
+            "parent": "342",
+            "text": "• Historia clínica + examen físico → Claves para el diagnóstico",
+            "guid": "egysdPvT65HHXQdiryUCVQ",
+            "children": []
+          },
+          {
+            "id": "344",
+            "parent": "342",
+            "text": "• Pruebas complementarias según sospecha clínica",
+            "guid": "KCWqm94tfm8zsixcbX-C6A",
+            "children": []
+          },
+          {
+            "id": "345",
+            "parent": "342",
+            "text": "• Insomnio ≠ un diagnóstico único → Requiere evaluación integral",
+            "guid": "Sl1_fxDGr8mmbxhIu9hpcA",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 346,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Continuum",
+  "folder": "- Entidades clínicas/Psiquiatría",
+  "filename": "Continuum. Somnoliento e insomnio-2025",
+  "id": "map_259",
+  "resolved_references": []
+}

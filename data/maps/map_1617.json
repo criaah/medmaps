@@ -1,0 +1,729 @@
+{
+  "title": "Trastornos Neurocognitivos Asociados al VIH (HAND)",
+  "guid": "89D308EE65ADE56EA204880B",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/HAND-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Trastornos Neurocognitivos Asociados al VIH\n(HAND)",
+    "guid": "zbnEAjeB-IGG_9h9brcQCQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición y\nClasificación",
+        "guid": "t3MWU0fHoI2yYdhzsMyzDA",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "HAND: Espectro de\nalteraciones en:",
+            "guid": "JDYGklCx7uL8YqGO1gXvrQ",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "* Función cognitiva",
+                "guid": "mthVJvn8lAwsceH0BU8Pmw",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "* Comportamiento",
+                "guid": "dRcmbHZBZtiRKzjYaYbSuQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "* Función motora",
+                "guid": "XYQyQnkzBgvGVt32a7NUNw",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "* Función autonómica",
+                "guid": "IlSzrzZ4icJok98p9z21yg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "* Causadas por infección VIH.",
+            "guid": "eqy2-R8_BRvMN1xCkAC_Fg",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "* Terminología en desuso: Encefalopatía VIH, Encefalitis VIH,\nComplejo demencia-SIDA, Deterioro cognitivo asociado al VIH.",
+            "guid": "QCP1_GdJzNRen3Rgkpb0cQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "Clasificación:",
+        "guid": "njaldbbLCA1XbpwYfc6MDA",
+        "children": [
+          {
+            "id": "10",
+            "parent": "9",
+            "text": "* ANI (Deterioro\nNeurocognitivo Asintomático):",
+            "guid": "nH0xUTegXwAGBLLknHLjUw",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "* Alteración ≥2 dominios cognitivos\n(DE ≥1 bajo la media).",
+                "guid": "73d5SqFU2KdgjHVBBNb-Rw",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "* Sin interferencia funcional diaria.",
+                "guid": "yB58oVejnrhAyShQTCVJPQ",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "* Predictivo de deterioro futuro.",
+                "guid": "K8C48VyP-MaDVcx0loEmpw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "parent": "9",
+            "text": "* MND (Trastorno\nNeurocognitivo Leve):",
+            "guid": "VOml2OO-hpraeVl5xJ1isQ",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "* Criterios similares a ANI.",
+                "guid": "F6hlabBFTM0maYa_jRkdtQ",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "* Interferencia leve en actividades diarias.",
+                "guid": "S-uZxomFgTkWo_yycnmEng",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "parent": "9",
+            "text": "* HAD (Demencia\nAsociada al VIH):",
+            "guid": "YRfvpTKlIQIneX87rZBgXQ",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "* Deterioro grave en ≥2 dominios.",
+                "guid": "KOaHRd5n9LbvbqUJ0hKnTw",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "17",
+                "text": "* Interferencia marcada en funcionamiento diario.",
+                "guid": "Lc29vQFvF73GHdsfJS1raA",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "17",
+                "text": "* Poco común en países de altos ingresos (TAR generalizado).",
+                "guid": "SWQknZ29MgFrqiAxU4v2zw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "parent": "0",
+        "text": "Epidemiología",
+        "guid": "6P4kAaknUJNmylsEelbhWg",
+        "children": [
+          {
+            "id": "22",
+            "parent": "21",
+            "text": "* Prevalencia Global HAND: 15-55% en personas con VIH; 42.6% (global).",
+            "guid": "WbsH2LJAHGV9himRu0xhtw",
+            "children": []
+          },
+          {
+            "id": "23",
+            "parent": "21",
+            "text": "* Distribución\nRegional:",
+            "guid": "8O2VkeCBySpw-EULD9No2g",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "* América Latina/Caribe: 59%",
+                "guid": "qBP4jHN2fhbOJaskAgYUUA",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "23",
+                "text": "* África Subsahariana: 45%\n(~70% casos HAND)",
+                "guid": "E-3A1GUN5FbuzYUgJ1m5Yw",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "23",
+                "text": "* Europa/Norteamérica: 41%",
+                "guid": "rFta-EcEpWnAbg6HZJFN-g",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "23",
+                "text": "* Asia/Pacífico: 39%",
+                "guid": "SwsAbebnWa-Ekie75JnQVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "21",
+            "text": "* Prevalencia por\nSubtipo:",
+            "guid": "-duCLAVNGLTPSCDQyks6Xw",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "* ANI: 23.5% (~70% casos HAND)",
+                "guid": "hbBaAwx6uzUo37BUT4DVtw",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "28",
+                "text": "* MND: 13.3%",
+                "guid": "d8om_V-zo1MlkoTWLwrkxA",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "28",
+                "text": "* HAD: 5% (Uganda: 33%, Sudáfrica: 25%)",
+                "guid": "vO-wnp6nORJmA_67qiEQWg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "parent": "21",
+            "text": "Factores de Riesgo:",
+            "guid": "F598SJxReGnhHJ1juTZ_vg",
+            "children": [
+              {
+                "id": "33",
+                "parent": "32",
+                "text": "Demográficos: Edad↑, nivel educativo↓, sexo femenino, pobreza/acceso limitado a atención.",
+                "guid": "DZCFsBayKYv4X0Br9VIADg",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "32",
+                "text": "* VIH: CD4+ nadir <200 células/mcL, CD4+ actual↓, enf. definitorias SIDA, ARN VIH↑ (plasma/LCR), duración infección VIH↑.",
+                "guid": "n-OdhKuf5xCH4Q_DwMqJJA",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "32",
+                "text": "* Tratamiento: Adherencia TAR↓, interrupciones TAR, régimen TAR no óptimo, penetración TAR en LCR↓.",
+                "guid": "mzDJOKTX3hr-hjI_UqR69g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "parent": "21",
+            "text": "Comorbilidades:",
+            "guid": "Gf0NO9KmLftYugrXi9qKwA",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "* Riesgo vascular: Obesidad, diabetes, hipertensión, coinfección VHC, trastornos del sueño.",
+                "guid": "7N3miL79_MAUn6FmYodGTw",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "Neurológicas/psiquiátricas: Depresión, ansiedad, uso de sustancias, traumatismo craneal.",
+                "guid": "s6cuzY57TZU0Tp35ScsCSw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "21",
+            "text": "* Tendencias:",
+            "guid": "NSkH_7XSwg-T_JSNrq5SeA",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "* Post-TAR: HAND persistente (mortalidad↓), HAD↓, formas leves estables.",
+                "guid": "4y0GnUqsDoWMrWty3voelA",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "39",
+                "text": "* Largo plazo: HAND↑ (global), TAR↑ (recursos limitados), edad VIH↑, interacción envejecimiento.",
+                "guid": "8BwssC8JJrGgyqqphlOOsw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "parent": "0",
+        "text": "Fisiopatología",
+        "guid": "rdPv0QEV-apJksGQuu9Hzg",
+        "children": [
+          {
+            "id": "43",
+            "parent": "42",
+            "text": "* Mecanismos\nPrimarios:",
+            "guid": "1M_GthoxrsGXb_1eTlNgeg",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "* Entrada VIH temprana al SNC.",
+                "guid": "AkSM_EYzZnsj9nWwpjIYog",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "* Células diana: macrófagos/microglía (SNC).",
+                "guid": "1rZRl1TsBIdq1HhKm2ynHQ",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "43",
+                "text": "* Replicación viral persistente + inflamación crónica cerebral.",
+                "guid": "mbdTwm8qLc1IiuYaWrpwBQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "42",
+            "text": "* Mecanismos\nSecundarios:",
+            "guid": "7k6PdjJNzOvXxjrbo92ZDw",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "* Inflamación: Proteínas virales (gp120, Tat) → citocinas\nproinflamatorias/quimiocinas → neuroinflamación →\nactivación inmune (microglía/astrocitos).",
+                "guid": "aLlcgb0gJuyy33EoD_zxRQ",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "* Neurotoxicidad: Proteínas virales → disfunción sináptica; neurotransmisión\nglutamatérgica alterada; glutamato↑; estrés oxidativo/daño neuronal.",
+                "guid": "4ECSQ6JfYhWDkb6ABxtytQ",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "47",
+                "text": "* BBB (Barrera Hematoencefálica): Integridad↓ → permeabilidad↑\n→ entrada virus/inflamación.",
+                "guid": "wpuPvRDWR3_fApfv8DBoLA",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "47",
+                "text": "* Factores Contribuyentes: Disfunción mitocondrial, ATP↓,\nmetabolismo energético alterado, genética (ej. APOE ε4).",
+                "guid": "nsxQvc_RInMbJ1abDokHeg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "Diagnóstico",
+        "guid": "lyRl2ZFZuvEqKKQuEOmNfg",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "Sospecha/Evaluación:",
+            "guid": "YcLWI9lbsaDW1JBq_RFZPA",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "* Síntomas cognitivos nuevos/progresivos (memoria, atención, tareas).",
+                "guid": "LYMOy8ffzdVQ_krBUtt7Iw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "* Evaluación neurocognitiva (≥5 dominios).",
+                "guid": "5j47dReCIxBzopLkW5apWA",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "* Historia médica.",
+                "guid": "Kp5FbqIEhzClAjzAyS5iVg",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "53",
+                "text": "* Factores contribuyentes (farmacológicos, estilo de vida, riesgo cardiovascular).",
+                "guid": "FcZkj4DY_4220MS3oA0RdQ",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "53",
+                "text": "* Examen físico (general/neurológico).",
+                "guid": "X_yworxan6D03qz0U_WD7g",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "53",
+                "text": "* Historia VIH (HABI previo, infecciones SNC).",
+                "guid": "Kd2Az3AebZD-4vEV5RAZVA",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "53",
+                "text": "* Comorbilidades.",
+                "guid": "YBfkM-Si_AnA_-8PoyAfNA",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "53",
+                "text": "* Edad/comorbilidad.",
+                "guid": "Nh3a7wtEWKRDn7Pv37heRg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "parent": "52",
+            "text": "* Pruebas\nDiagnósticas:",
+            "guid": "eXzgShptQoxWXY0m584LZA",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "* LCR: Carga viral SNC, infecciones oportunistas, biomarcadores\n(NFL, neopterina, Aβ42-43, tau fosforilada).",
+                "guid": "J1y8JTkPVd5GuIibphJmSg",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "62",
+                "text": "* RM: Enf. oportunistas SNC, infartos/hemorragias, leucoencefalopatía, lesiones previas.\nRM con contraste (inflamación, infecciones, ruptura BBB). PET-FDG, PET amiloide.",
+                "guid": "vKod1iKyHYZqKGfRxuzRqA",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "62",
+                "text": "* Laboratorio: Estadificación VIH (CD4+, ARN VIH), infecciones comórbidas, metabólico, endocrino.\nHemograma, función renal/hepática, TSH, B12, folato, lípidos.",
+                "guid": "n9oNFVqtcBybKl_CCn6bJA",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "62",
+                "text": "* Examen Neurológico: Déficits neurológicos, demencia, deterioro cognitivo, problemas visuales.",
+                "guid": "BmnrpbRZyLcYHHhVq3dAfQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "52",
+            "text": "* Consideraciones:",
+            "guid": "SLHIpiWLnC1Yof-OG3zqsQ",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "* Diagnóstico diferencial (adultos mayores): HAND vs. deterioro cognitivo edad/otras demencias.",
+                "guid": "ve3ga_PywfGVUjxcIvLLng",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "* Recursos limitados: Información colateral, cuestionarios, cribado, evaluaciones funcionales, pruebas neuropsicológicas limitadas.",
+                "guid": "x4a2mfzcPOT3Uo5nmDG-ZQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "parent": "0",
+        "text": "Tratamiento",
+        "guid": "nzVP9w2z2qF4tLDuChJtPg",
+        "children": [
+          {
+            "id": "71",
+            "parent": "70",
+            "text": "* No farmacológico:",
+            "guid": "Ql6bOxk901TvbfyihRyW8Q",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "* Rehabilitación cognitiva: Entrenamiento cognitivo, funcionamiento diario↑,\nresolución de problemas, memoria/atención.",
+                "guid": "SLgM8h-xTAHJI8Emo7fycg",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "71",
+                "text": "* Manejo comorbilidades: Depresión/ansiedad, apoyo\npsicosocial, calidad de vida↑, riesgo cardiovascular↓.",
+                "guid": "4nuaLTERnT4491GrFx_Juw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "parent": "70",
+            "text": "* Farmacológico:",
+            "guid": "_CJvi0-7c0A0pFU0bTdazQ",
+            "children": [
+              {
+                "id": "75",
+                "parent": "74",
+                "text": "* TAR (fundamental): Optimización, penetración SNC, monitorización.\nModificaciones (antirretrovirales con penetración SNC↑, genotipos, exposición, adherencia↑).",
+                "guid": "lrQYcnbRElngBiXMuPIZQg",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "74",
+                "text": "* Psicoestimulantes: Metilfenidato (atención/concentración),\nModafinil (alerta/cognición).",
+                "guid": "3W__BWD7fXZ0QwvgJYPvcQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "77",
+        "parent": "0",
+        "text": "Implicaciones\nPsicosociales",
+        "guid": "QEGuEERz1tgRn0swkjdV9A",
+        "children": [
+          {
+            "id": "78",
+            "parent": "77",
+            "text": "* Salud Mental:",
+            "guid": "VZyDTQKB1DGXjbQ9itrF7Q",
+            "children": [
+              {
+                "id": "79",
+                "parent": "78",
+                "text": "* Depresión/ansiedad (frecuente, deterioro cognitivo contribuye).",
+                "guid": "jtiwnRmAhIz5lqMcnMlytw",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "78",
+                "text": "* Impacto: Funcionamiento social/calidad de vida↓, autoeficacia↓.",
+                "guid": "LTxr9VBUI0qJMvvyeBwELw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "parent": "77",
+            "text": "* Cuidado/Apoyo:",
+            "guid": "REzQzZIICBE9k8klsc24eA",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "* Intervenciones: Consejería, terapia ocupacional, apoyo social, rehabilitación cognitiva personalizada.",
+                "guid": "S39V66mqad1imER-Lbrhag",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "* Adherencia TAR: Recordatorios, sistemas de apoyo, estrategias para esquemas complejos.",
+                "guid": "Fa0HzQYg5bAZeMy7iBy30g",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "81",
+                "text": "* Factores de Riesgo Psicosociales: Aislamiento social, estigma/discriminación, acceso tratamiento↓, recursos↓.",
+                "guid": "BhS6F8wyCscdYCu82UHDSQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "85",
+        "parent": "0",
+        "text": "Manejo y\nSeguimiento",
+        "guid": "xE0N03DkTyOuTJvm2Znd1w",
+        "children": [
+          {
+            "id": "86",
+            "parent": "85",
+            "text": "* TAR (Continuación): Supresión replicación VIH (principal), optimización (síntomas persistentes).",
+            "guid": "XnEWH_95QOkGq8APlkGyOg",
+            "children": []
+          },
+          {
+            "id": "87",
+            "parent": "85",
+            "text": "* Comorbilidades (Continuación): Tratar VHC, riesgo cardiovascular, depresión.\nEvaluación sistemática, tratamiento coordinado, interacciones medicamentosas.",
+            "guid": "8Mfq7fhi0atVY19BD8BOoQ",
+            "children": []
+          },
+          {
+            "id": "88",
+            "parent": "85",
+            "text": "* Seguimiento\nNeurocognitivo:",
+            "guid": "X3TKyc7SfksvI4YgAC9BMA",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "* Protocolo estándar: Evaluación neurocognitiva cada 2 años (estables).",
+                "guid": "HcP2j3xQqqZ-0mNJogPtVg",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "* Monitorización intensificada: Empeoramiento VIH, deterioro\ncognitivo progresivo, TAR inadecuado/ausente, CD4+ nadir↓.",
+                "guid": "iVQzeARhmCBn26dl0M0l7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "91",
+            "parent": "85",
+            "text": "* Implementación:",
+            "guid": "snr0h45k7HNSA4mOew4hQQ",
+            "children": [
+              {
+                "id": "92",
+                "parent": "91",
+                "text": "* Evaluación respuesta: Función cognitiva,\nefectividad tratamiento, ajustes.",
+                "guid": "7fzsGXDThbd154V_wzQJHw",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "91",
+                "text": "* Optimización tratamiento:\nPersonalización, barreras, recursos.",
+                "guid": "FflpX3eAxA6M3e135IqXmQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "94",
+        "parent": "0",
+        "text": "Conclusiones/Necesidades\nFuturas",
+        "guid": "e3fwBk8osxRMTUBqrXJgrA",
+        "children": [
+          {
+            "id": "95",
+            "parent": "94",
+            "text": "* Conclusiones: HAND: desafío significativo (VIH), afecta cognitivo, mental, bienestar. Abordaje integral\n(médico-psicológico-social). Inflamación crónica SNC, daño neuronal, replicación viral.",
+            "guid": "68F2X3z3XLpjdCZjQjI_hA",
+            "children": []
+          },
+          {
+            "id": "96",
+            "parent": "94",
+            "text": "* Recomendaciones: Evaluación comprehensiva, pruebas neuropsicológicas, diagnóstico\ntemprano. Enfoque multidisciplinario, optimización TAR, manejo comorbilidades.",
+            "guid": "ZjoeNe40zW2vpu_zFiY6gA",
+            "children": []
+          },
+          {
+            "id": "97",
+            "parent": "94",
+            "text": "* Necesidades: Investigación (mecanismos, terapias, biomarcadores). Atención clínica (detección temprana↑, intervenciones\nefectivas, calidad de vida↑). Atención integral continua, apoyo psicosocial, adherencia tratamiento, soporte familiar/comunitario.",
+            "guid": "7y43rdWuH47BnAVuICp2Eg",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 98,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "HAND-2025",
+  "id": "map_1617",
+  "resolved_references": []
+}

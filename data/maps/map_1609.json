@@ -1,0 +1,595 @@
+{
+  "title": "Esclerosis múltiple",
+  "guid": "7C915BAEC3259BCBE427A353",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Wiki. Esclerosis múltiple-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Esclerosis\nmúltiple",
+    "guid": "0obMdx8WDHQ_0SL8UsuyLA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Enfermedad inflamatoria y degenerativa crónica del SNC",
+            "guid": "fNf21XAx-KcYqNuIffonMw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Caracterizada por: Desmielinización, pérdida axonal y neurodegeneración",
+            "guid": "JYatgaTBoNn8qevsXARkOQ",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "Afecta principalmente a adultos jóvenes",
+            "guid": "-R6UWKb4RfKXz9JtWBWGGA",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "Curso impredecible: Episodios de déficit neurológicos reversibles, seguidos de deterioro neurológico progresivo",
+            "guid": "HrmChe5qjyNkxLgGWPFcqA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "Epidemiología",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "Inicio: 20-40 años, causa más frecuente de discapacidad no traumática en adultos jóvenes",
+            "guid": "rZa0y4RdXyoZVBkLDW1rjQ",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "6",
+            "text": "Raro: <10 años o >60 años",
+            "guid": "x1BPOLe5CE5vg5cxJhGOQg",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "6",
+            "text": "Mujeres: Hombres 2:1 (excepto en forma primaria-progresiva)",
+            "guid": "yHf5_4B8syTJ32y25Fxk-g",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "6",
+            "text": "Prevalencia",
+            "guid": "",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "Alta (>30/100.000): Europa del norte, América del norte",
+                "guid": "iQWv9PN5WGriFKxXhFFe-w",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "Media (5-30/100.000): Sur de Europa, sur de EEUU, Centroamérica, Sudamérica",
+                "guid": "mF8RIaSvoPnUoB6vMo2eyQ",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "Baja (<5/100.000): Asia, Sudamérica",
+                "guid": "YXh5y3K8IIokSlm5ctPtYw",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "10",
+                "text": "Chile: 14/100.000 habitantes (Punta Arenas, Dr. Ramiro Fernández), posible relación con déficit de vitamina D",
+                "guid": "YOshjzAmDEYBYGk08kT7iQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "15",
+        "parent": "0",
+        "text": "Etiología",
+        "guid": "",
+        "children": [
+          {
+            "id": "16",
+            "parent": "15",
+            "text": "Desconocida, interacción entre factores ambientales y genéticos → respuesta inmune aberrante → daño en mielina, oligodendrocitos, axones y neuronas",
+            "guid": "AyfBEu15_4YyhKQZS5kipA",
+            "children": []
+          },
+          {
+            "id": "17",
+            "parent": "15",
+            "text": "Factor\ngenético",
+            "guid": "it_og8oHMbxdV_LYTbVw-g",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "HLA-DRB1*1501 (↑ 2-4 veces la probabilidad)",
+                "guid": "JrKOCnUNtpS6OZm0fTKrFQ",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "17",
+                "text": "Riesgo ↑ 20-40 veces en familiares de 1er grado",
+                "guid": "ccBywNSiEHp2w6idiHgEFw",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "17",
+                "text": "70% de gemelos de pacientes no presentan la enfermedad",
+                "guid": "TW76y5BUN5MLE2tCE1Fglw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "parent": "15",
+            "text": "Factores\nambientales",
+            "guid": "AfvpBaE9zGz1lu-9zESqlQ",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "Luz solar, radiación UV, vitamina D, virus Epstein-Barr,\notros agentes infecciosos",
+                "guid": "1m78kGjkDwZl-ByaXrPirw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "Fisiopatología",
+        "guid": "",
+        "children": [
+          {
+            "id": "24",
+            "parent": "23",
+            "text": "Enfermedad inmunomediada: Evidencia histopatológica y marcadores inmunológicos en suero y LCR",
+            "guid": "epH24R2ezfklQ2gXikr5aA",
+            "children": []
+          },
+          {
+            "id": "25",
+            "parent": "23",
+            "text": "Posible\nmecanismo",
+            "guid": "G0I93LJcqAb6cL4rnUU1IA",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "Virus, bacteria u otra toxina ambiental induce respuesta inmune en personas genéticamente susceptibles",
+                "guid": "i_SjdYd8gLaBHDMCGo7EZw",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "25",
+                "text": "Células presentadoras de antígenos → Linfocitos T helper CD4+ → activación y generación de Th1 y Th17 autorreactivas",
+                "guid": "eFDnky9Wo4YToNTcSVBBEQ",
+                "children": []
+              },
+              {
+                "id": "28",
+                "parent": "25",
+                "text": "Linfocitos B y monocitos también son activados",
+                "guid": "zAw-L0aMBBD6ITzfYKRNXA",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "25",
+                "text": "Células T autorreactivas interactúan con moléculas de adhesión endotelial en vénulas del SNC,\natraviesan BHE con ayuda de anticuerpos, monocitos, proteasas y quimiocinas",
+                "guid": "1bEgJmj7SORxALyS0oJw9g",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "25",
+                "text": "Dentro\ndel SNC",
+                "guid": "aUUrYE0vWFkPZ7d_cDLEiw",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "Reconocimiento de antígenos diana (ej. proteína básica de mielina),\nreactivación de células T, amplificación de respuesta inmune",
+                    "guid": "I7s3LwI1WNgSQvfA-QFb2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "30",
+                    "text": "Células Th proliferan, células B maduran a células plasmáticas\nsecretoras de anticuerpos, monocitos → macrófagos activados",
+                    "guid": "lu5AG0Y0Z7sIojKkKwlb_w",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "30",
+                    "text": "Células inmunes producen: Citoquinas inflamatorias (IL-12, IL-23, interferón γ, TNF-α), proteasas, radicales libres, anticuerpos, óxido nítrico, glutamato\n→ daño de mielina y oligodendrocitos",
+                    "guid": "17JahpvAQ4sMaYgulVTluQ",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "30",
+                    "text": "Células CD4+ Th2 proliferan y secretan citoquinas antiinflamatorias (IL-4, IL-5, IL-13) y TGF-β\n→ supresión de respuesta inmune",
+                    "guid": "xYf074Bbjb2zVTMHYdm_XQ",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "30",
+                    "text": "Desmielinización → daño o bloqueo de conducción nerviosa\n→ síntomas neurológicos",
+                    "guid": "vCNwaiv0XffvrqhT0H0VcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "30",
+                    "text": "Pérdida de soporte trófico de oligodendrocitos → degeneración axonal\n→ déficits neurológicos irreversibles",
+                    "guid": "NMD8h_h-sGPAqArWc5HPgw",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "30",
+                    "text": "Mejoría espontánea: Resolución de inflamación, mecanismos de adaptación, remielinización",
+                    "guid": "vDjVpDDO3DH3DKquk-vG7w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "38",
+        "parent": "0",
+        "text": "Clínica",
+        "guid": "",
+        "children": [
+          {
+            "id": "39",
+            "parent": "38",
+            "text": "Síntomas impredecibles, afectan cualquier región del SNC",
+            "guid": "tNguy-P_r6Zu2AeNeR-9rQ",
+            "children": []
+          },
+          {
+            "id": "40",
+            "parent": "38",
+            "text": "90% de los pacientes: Aparición con ataque o brote de disfunción neurológica\n(neuritis óptica, mielitis transversa incompleta, síndrome cerebelar)",
+            "guid": "rGFq2BvJLezsU040BzxNbA",
+            "children": []
+          },
+          {
+            "id": "41",
+            "parent": "38",
+            "text": "Curso: Remitente-recurrente, puede seguir una fase progresiva",
+            "guid": "NiZ5ZYmB_Ll9Z3ss8RZ4JA",
+            "children": []
+          },
+          {
+            "id": "42",
+            "parent": "38",
+            "text": "Síntomas comunes\nde exacerbación",
+            "guid": "",
+            "children": [
+              {
+                "id": "43",
+                "parent": "42",
+                "text": "Hipoestesia, parestesia, debilidad, deterioro del equilibrio,\nvisión borrosa, diplopía, vértigo, disfunción vesical o intestinal",
+                "guid": "jJntnf0S0QxD3zFWwEOyfA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "38",
+            "text": "Menos comunes",
+            "guid": "",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "Debilidad facial, neuralgia del trigémino, pérdida de audición, dificultad para hablar",
+                "guid": "309baOo3HRogyk4smCoIJw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "38",
+            "text": "Síntomas dependen de ubicación y extensión del daño, varían de leves a graves",
+            "guid": "e-XezJdhcj3sxKjdKHW6lw",
+            "children": []
+          },
+          {
+            "id": "47",
+            "parent": "38",
+            "text": "Tabla de Síntomas\nmás comunes",
+            "guid": "",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "Primarios",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "Más comunes: Síntomas sensitivos, trastorno de la marcha, alteración visual, deterioro cognitivo, vértigo",
+                    "guid": "MDMiKnjdBwBh3y53gFbU5g",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "48",
+                    "text": "Menos comunes: Disfagia, disartria, problemas respiratorios, pérdida de audición, convulsiones, dolor de cabeza",
+                    "guid": "UnrLUZjbxWnbJdXBHO63Uw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51",
+                "parent": "47",
+                "text": "Secundarios: Infecciones urinarias, inactividad, inmovilidad",
+                "guid": "CHsFgJ4_5lZvQ5PJ82OpzQ",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "47",
+                "text": "Terciarios: Depresión, desórdenes psicológicos, complicaciones vocacionales y sociales",
+                "guid": "R0j7hOetY29fe4B2hjPrkQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "38",
+            "text": "Curso de la\nenfermedad",
+            "guid": "TH07TL5Zfm9A2ATb9bSjjg",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "EM remitente-recurrente (85-90%): Recaídas agudas (brotes) intercaladas con remisión clínica, falta de progresión, secuelas posibles",
+                "guid": "W8yTK1uUmHqXwfXnrI7OLA",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "EM primaria-progresiva (10%): Deterioro continuo y gradual, sin recaídas ni remisiones, mesetas ocasionales, resistente a medicamentos",
+                "guid": "Gu3q1fsldyTCOqQiOqzWpQ",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "EM secundaria-progresiva: Se desarrolla en pacientes con forma remitente-recurrente, retrasada por agentes modificadores\nde la enfermedad, empeoramiento continuo con o sin remisión o estabilización",
+                "guid": "4xkCyFTpCn3gka_Or5RKqA",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "53",
+                "text": "EM progresiva-recurrente (<5%): Progresiva desde el principio, brotes intermitentes, sin remisiones",
+                "guid": "IY_fXh8OkF62P4JGkJbqLQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "58",
+        "parent": "0",
+        "text": "Diagnóstico",
+        "guid": "",
+        "children": [
+          {
+            "id": "59",
+            "parent": "58",
+            "text": "Criterios diagnósticos de McDonald: Diseminación en tiempo y espacio",
+            "guid": "grl8-GCaiFYCK74TgA9wPw",
+            "children": []
+          },
+          {
+            "id": "60",
+            "parent": "58",
+            "text": "Síndromes\ntípicos",
+            "guid": "2xK5IbsVE0ZJoHjhrfkUqA",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "Evaluación para diagnóstico: Determinar si la presentación clínica es típica de desmielinización relacionada con EM",
+                "guid": "FpFLu88_4mewiuUDpJvJoQ",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "Confirmación del diagnóstico: Identificación de uno de los síntomas típicos de un ataque o recaída",
+                "guid": "YEJQFuW6zYS06AWQ1qQ-wg",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "Síndromes típicos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "Neuritis óptica",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "Síndrome del tronco encefálico (oftalmoplejía internuclear, neuralgia del trigémino)",
+                    "guid": "C9Ju2Zz3ibRzAt7bp1LL-w",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "Síndromes cerebelosos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "63",
+                    "text": "Mielitis transversa",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68",
+                "parent": "60",
+                "text": "Criterios de McDonald validados solo en pacientes con ataques/recaídas y síndromes típicos,\nno se recomienda en presentaciones atípicas",
+                "guid": "SJ-PxqFmcjqSGCSSWEXbmw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "69",
+        "parent": "0",
+        "text": "Diagnóstico\nDiferencial",
+        "guid": "NR3UPSGynWpxDk71XFDWGA",
+        "children": [
+          {
+            "id": "70",
+            "parent": "69",
+            "text": "Trastornos que\nsimulan EM",
+            "guid": "",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "Neuromielitis óptica, síndromes asociados con anti-MOG, neurosarcoidosis,\nmanifestaciones del SNC de enfermedad reumática u oncológica sistémica",
+                "guid": "Tx9MXYfFGj0LD6hGKyBd3g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "69",
+            "text": "Red flags",
+            "guid": "",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "Hallazgos clínicos, de laboratorio o radiográficos atípicos para EM",
+                "guid": "y1fuMbDnnV_xFvJ6T0D9PQ",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "Neuritis óptica severa o bilateral: Sugiere neuromielitis óptica",
+                "guid": "7J9C4UVZTKzOHmHVbZO5hA",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "Mielitis transversa extensa: Sugiere trastorno del espectro de la neuromielitis óptica, neurosarcoidosis, mielitis asociada a anti-MOG",
+                "guid": "fiO16l8wCDpJzXU2REJTKQ",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "72",
+                "text": "Lesiones completas de médula espinal, vómitos explosivos: Sugieren trastorno del espectro de la neuromielitis óptica",
+                "guid": "SMad0HP4Ne0Vk76wjRIDlg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "72",
+                "text": "Afectación de múltiples pares craneales: Sugiere neurosarcoidosis",
+                "guid": "aY8JnSd_h-VXBuei8gblmw",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "72",
+                "text": "Mielitis transversa o neuritis óptica + pleocitosis elevada del LCR: Investigar enfermedades infecciosas",
+                "guid": "v1kPkcmMUtrg8_w6ZLJulg",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "72",
+                "text": "Síntomas sistémicos (dolor articular, cambios en la piel, pérdida de peso): Sugieren enfermedad reumatológica o paraneoplásica",
+                "guid": "Fxzc61EobZhDPD7QOeA-Ug",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 80,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Wiki. Esclerosis múltiple-2025",
+  "id": "map_1609",
+  "resolved_references": []
+}

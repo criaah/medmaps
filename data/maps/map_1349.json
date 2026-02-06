@@ -1,0 +1,3480 @@
+{
+  "title": "VIH (2024)",
+  "guid": "5E8F0B7776894D545BA47BD3",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/VIH-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "VIH\n(2024)",
+    "guid": "e-VsrxFaKb4nXcUadu2Hrg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Epidemiología del VIH:",
+        "guid": "ao62H2pusOQSVFRgW61upQ",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Historia natural\ndel VIH y SIV:",
+            "guid": "S9bIalELYqAdfLFScY2g1Q",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "• VIH-1 y VIH-2: retrovirus relacionados con SIV (6)",
+                "guid": "bORORVp9QkYB0y9gcyvqzg",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "• VIH-1:",
+                "guid": "KdInm23GLI9JU8YhUyOMgw",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "→ Origen: transmisión SIV → chimpancé → humanos (7,8)",
+                    "guid": "cs6DvVVlw6N4GwhQTV9DqA",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "→ 4 linajes: grupos M, N, O, P (9,10)",
+                    "guid": "D6lrVDOwDDoI8vKlQjoMdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "4",
+                    "text": "→ Grupo M: pandémico, global",
+                    "guid": "dc4b2xGnfUsOMq0sWQ4fYA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8",
+                "parent": "2",
+                "text": "• Evolución:",
+                "guid": "cjMQ1g_ocYo7_yI_IR76mw",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "→ Mutaciones en SIV → evasión de factores de restricción (11)",
+                    "guid": "Iv_VYRqGkScvxWRYbtadyw",
+                    "children": []
+                  },
+                  {
+                    "id": "10",
+                    "parent": "8",
+                    "text": "→ Diseminación: ↑ contacto humano, urbanización, ITS (12-17)",
+                    "guid": "a5Hzx01CFapgZD6hWHZCDA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "11",
+                "parent": "2",
+                "text": "• Subtipos VIH-1\ngrupo M:",
+                "guid": "J79X8GI3bgFLoizbUZF_jA",
+                "children": [
+                  {
+                    "id": "12",
+                    "parent": "11",
+                    "text": "→ 9 subtipos: A-D, F-H, J, K",
+                    "guid": "T_2akBT18vwktQwPQsweTg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "11",
+                    "text": "→ >40 formas recombinantes circulantes (CRF) (19)",
+                    "guid": "alu2oBzQFF8QK2H2egUh9A",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "11",
+                    "text": "→ Distribución geográfica variable (20, 21)",
+                    "guid": "UIAgmRkeVJs8Py5pRk48dQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "parent": "1",
+            "text": "Incidencia global:",
+            "guid": "KsXR5kpx25YfXFvVHPjivQ",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "• Vías de\ntransmisión:",
+                "guid": "WlpNIFtbfhQ-F91YfVoigQ",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "→ Sexual: 80% (22,23)",
+                    "guid": "deIPO23dQbBsMMBMYXQDAw",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "16",
+                    "text": "→ Parenteral",
+                    "guid": "Ox9XWkyU_u056kUPYt6vSw",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "16",
+                    "text": "→ Perinatal (incl. lactancia)",
+                    "guid": "Lsxs7gWMceo0cC7XfsoHfw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20",
+                "parent": "15",
+                "text": "• Variabilidad\nregional:",
+                "guid": "GoJk51klOuZBliXNBN4bhw",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "→ África Oriental y Meridional: hiperendémica, predominio femenino (24-26)",
+                    "guid": "dfVPRlHBh8N-4z17RnVv3w",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "→ África Occidental y Central: tasas más bajas, microepidemias (29-32)",
+                    "guid": "at_cXzsia-QMw6xUFaWuRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "20",
+                    "text": "→ América, Europa Occidental, Australia, Asia Oriental: epidemias concentradas (MSM, mujeres transgénero) (33,34)",
+                    "guid": "BZRHeiwgCCkynpECX-6Umg",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "20",
+                    "text": "→ Oriente Medio y África del Norte: baja prevalencia, ↑ incidencia en poblaciones clave (28,35,36)",
+                    "guid": "B3uGPXC2bltdSLcbfV2VeQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "parent": "1",
+            "text": "Poblaciones clave\nafectadas:",
+            "guid": "XpOwC0l5d2he0Zh8GbMHZg",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "• Mujeres:",
+                "guid": "d655Q1NVi-hXgiL4fULAvg",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "→ Factores de riesgo: biológicos, desigualdad de género (28,37)",
+                    "guid": "Fg52VRi73Yt8kbaxRNrjRA",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "→ Mujeres jóvenes (15-24 años): 3x más riesgo en África subsahariana (28)",
+                    "guid": "HkhPdjEB5YhDpOrDOMq0XQ",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "26",
+                    "text": "→ Mejor adherencia y control viral con acceso a atención (38,39)",
+                    "guid": "CicgbgU7EJA9qM_kABxvtA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "26",
+                    "text": "→ Necesidades específicas: anticoncepción, maternidad, menopausia (40-43)",
+                    "guid": "VvyYUzyMDV9Gkd-UQdx0sg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "31",
+                "parent": "25",
+                "text": "• Población\nenvejeciente:",
+                "guid": "J7zYyBCX-Ycq9QYjfrlxHA",
+                "children": [
+                  {
+                    "id": "32",
+                    "parent": "31",
+                    "text": "→ ↑ número de personas >50 años con VIH (44)",
+                    "guid": "f3WUEgogs_pdMVVYBvEaTw",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "31",
+                    "text": "→ Mayor riesgo de comorbilidades (45,46)",
+                    "guid": "etciVTp6DHQETq_IWWrSYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "31",
+                    "text": "→ Variabilidad regional en riesgos (ej. hipertensión) (47)",
+                    "guid": "A_OD3GMgSERzHdnHGgH6MQ",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "31",
+                    "text": "→ Efectos del TARV: ↓ eventos adversos metabólicos, ↑ peso con INSTI (48)",
+                    "guid": "e9wl0G-vkHhe3N11GiR1Rg",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "31",
+                    "text": "→ Inflamación crónica → envejecimiento prematuro (49,50)",
+                    "guid": "ILF2ACKByDhS7ymjKtiWbg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "parent": "25",
+                "text": "• Personas que se\ninyectan drogas:",
+                "guid": "WcCitE-Rz8l2erF3XbQmkA",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "→ 18% de nuevas infecciones (2021) (5)",
+                    "guid": "TSQG5nGG5bdAleXORNKAKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "→ Persistencia por falta de implementación de intervenciones efectivas (51)",
+                    "guid": "RNxxnxgYCMZCFUDnRFIFsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "→ Alta incidencia en Europa del Este, Asia Central y MENA (52)",
+                    "guid": "Iji8wR9GlkBLQyABHQ_fFg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "1",
+            "text": "Filogenia del VIH-1 y SIV:",
+            "guid": "YQLvEXhM-XEGiQu3TSDbqQ",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "Grupos principales\nde VIH-1:",
+                "guid": "YdbJrDQR5htSFLrDc8p5Hw",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "• Grupo M:",
+                    "guid": "HsiPRSrocuM0rhJ-a8TLXw",
+                    "children": [
+                      {
+                        "id": "44",
+                        "parent": "43",
+                        "text": "→ Principal responsable de la pandemia global",
+                        "guid": "TmcWIhiYbq5zvkYuYI22dg",
+                        "children": []
+                      },
+                      {
+                        "id": "45",
+                        "parent": "43",
+                        "text": "→ Subtipos: A, B, C, D, F1, F2, G, H, J, K",
+                        "guid": "BJwFYwHmpToMs1fhBNHSew",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "46",
+                    "parent": "42",
+                    "text": "• Grupo N: origen zoonótico distinto",
+                    "guid": "alqoV2ETtSoXCWLkBTHuYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "42",
+                    "text": "• Grupo O: origen zoonótico distinto",
+                    "guid": "NhcBUUqCZtR7btlcDq6nfA",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "42",
+                    "text": "• Grupo P: origen zoonótico distinto, relacionado con SIVgor",
+                    "guid": "GoiIeV9D12R23qttfiWPrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49",
+                "parent": "41",
+                "text": "Virus de Inmunodeficiencia\nen Simios (SIV):",
+                "guid": "QnmQ7zizBpklXfmNJFBamw",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "• SIVcpzLB7: chimpancé",
+                    "guid": "bMTstXdytFAYGtO6C417-g",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "49",
+                    "text": "• SIVcpzUSA: chimpancé",
+                    "guid": "IlsnM0zI5jh3UkdZcMI9Vg",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "49",
+                    "text": "• SIVcpzGAB: chimpancé",
+                    "guid": "ZWFU5msQjYdRT_PMaf1aSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "49",
+                    "text": "• SIVgor: gorila",
+                    "guid": "bPcywV4DS61uzyzFV1HbGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "41",
+                "text": "Relaciones\nfilogenéticas:",
+                "guid": "M25brA5nCDMeAGXEIDNIYQ",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "• VIH-1 grupo M ← SIVcpzLB7",
+                    "guid": "PxcA2AXYj6lcg8l6dS4CKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "• VIH-1 grupo N ← SIVcpzUSA/GAB",
+                    "guid": "UFr2flfyotYD3KmlauN-9w",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "• VIH-1 grupo O ← SIVcpzGAB",
+                    "guid": "NzZ6Onq7VRNpCQ6mebALKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "54",
+                    "text": "• VIH-1 grupo P ← SIVgor",
+                    "guid": "Bdm8gzYbOX4rwMRbKDTjtg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "59",
+                "parent": "41",
+                "text": "Evolución:",
+                "guid": "RuqLVC7wcJF8j2OHF0WB0g",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "• SIV en primates no humanos → VIH-1 en humanos",
+                    "guid": "AuQftiMTC7UY9yEMaEV0nA",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "• Múltiples eventos de transmisión entre especies",
+                    "guid": "DiOZPGpHFNlSQs7mexrL_g",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "• Adaptación del virus a nuevos hospedadores",
+                    "guid": "SEpghkER-6tSbKcXB2FhXg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63",
+                "parent": "41",
+                "text": "Diversidad\ngenética:",
+                "guid": "C-U4DnqJyqknp7fcDslXxA",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "• Mayor diversidad en grupo M",
+                    "guid": "BuMTZwBsDS0CKQDJPhmNoQ",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "• Subtipos del grupo M: base de variantes globales",
+                    "guid": "eydiQGsyD283yZjLLpW97A",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "• Grupos N, O, P: menor diversidad y distribución limitada",
+                    "guid": "eZkXolXJ_o9OyQZOf3LUJQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "41",
+                "text": "Implicaciones:",
+                "guid": "KDhTQXchEy5ok6QZLxtmqA",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "• Diversidad genética → desafíos para diagnóstico y tratamiento",
+                    "guid": "HZzWXkCe2Oh3DsxhK8Bvmw",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "• Variabilidad en patogenicidad y transmisibilidad entre grupos",
+                    "guid": "KuXtwUlRm0cm2zuZczBOSA",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "67",
+                    "text": "• Necesidad de vigilancia continua de nuevas variantes",
+                    "guid": "CmOW8nlH4rB6ka-mUU4iRg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "parent": "1",
+            "text": "Distribución geográfica de\nsubtipos de VIH-1:",
+            "guid": "GWf_lSEh8-NX1wjlNb0jpg",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "Mayor diversidad: África Central y Occidental",
+                "guid": "YVTFuBEMyiMWSkJKIwGUEg",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "71",
+                "text": "Menor diversidad: África Meridional, India, Caribe",
+                "guid": "JYdNKWIXOLxYO4H2YgaAFA",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "71",
+                "text": "Subtipos dominantes por\nregión:",
+                "guid": "WEvts0YLeLBEie-KCR-QzQ",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "→ B: Américas, Europa, Medio Oriente",
+                    "guid": "FBQ7zCiafZgB8aW_LapsxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "→ C: África Meridional, India",
+                    "guid": "MMUMmVafUXp4xBHOCuq9KQ",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "→ A: África Oriental, Europa del Este",
+                    "guid": "ADAUPW0jNq4IrqHiC2ugMA",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "74",
+                    "text": "→ CRF01_AE: Asia Sudoriental y Oriental",
+                    "guid": "XQnJ8jQ5PA8Oed_EWApakg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79",
+                "parent": "71",
+                "text": "URFs: presencia significativa en América del Sur y Europa del Este",
+                "guid": "EG0oFl0aTB4SslrhccHtzg",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "71",
+                "text": "Mayor reducción: África Oriental y Meridional",
+                "guid": "JiFU7W0ddVUyc6HRZNDhZg",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "71",
+                "text": "Aumento preocupante: Europa Oriental y Asia Central, Oriente Medio y África del Norte",
+                "guid": "fX9CpFkPjbVlFQWcAZghTg",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "71",
+                "text": "Estabilidad: Caribe, América Latina",
+                "guid": "Ii6svwZQVX8tMppuR7gilw",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "71",
+                "text": "Leve descenso: Asia y el Pacífico, Europa Occidental y Central y Norteamérica",
+                "guid": "Wu_hh25YCihwEmdMPH9yfQ",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "71",
+                "text": "Descenso moderado: África Occidental y Central",
+                "guid": "FesdQTAU7RN5U_ZFCGzdug",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "71",
+                "text": "Implicaciones:",
+                "guid": "OiVsdT9aYHEfPXt6G8zePA",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "Necesidad de intensificar esfuerzos en regiones con aumento",
+                    "guid": "ZkN39lcHuwpDMbsLY8K6mg",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "85",
+                    "text": "Evaluar y replicar estrategias exitosas de África Oriental y Meridional",
+                    "guid": "MBdIvyhGwKdlWtvoUkX1fg",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "85",
+                    "text": "Mantener vigilancia en regiones estables",
+                    "guid": "LpcWJxKNdlYZ_hgWCYb3rg",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "85",
+                    "text": "Adaptar intervenciones según contexto regional",
+                    "guid": "AOWAfgoQf2JGBmorFtCdvw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "parent": "0",
+        "text": "Mecanismos/Patofisiología\ndel VIH:",
+        "guid": "T-A-yVn8f5MZFVn-NeoiLw",
+        "children": [
+          {
+            "id": "91",
+            "parent": "90",
+            "text": "Estructura viral:",
+            "guid": "MrIYDmmYiz53tiDBLo493g",
+            "children": [
+              {
+                "id": "92",
+                "parent": "91",
+                "text": "• Partícula madura: 120 nm diámetro, esférica",
+                "guid": "WUgbtlaS_jdIsrMkefmRtg",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "91",
+                "text": "• Componentes:",
+                "guid": "eRTGbxuh3Mck0iglINGfOA",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "→ Núcleo viral cónico interno",
+                    "guid": "LDnWTk_HLkgfixBUeV3dNA",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "→ Cápside",
+                    "guid": "QU4T_2Ag9iI-MF1dBiqFng",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "93",
+                    "text": "→ 2 ARN monocatenario (+) idénticos (53)",
+                    "guid": "H4w0hRW_q1E3gZrAeUzXOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97",
+                "parent": "91",
+                "text": "• Membrana externa:",
+                "guid": "F5TXdk63HopGkdEGcNzzLQ",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "→ Bicapa lipídica",
+                    "guid": "JUocwQ9EhCpq1oTjHl7jMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "97",
+                    "text": "→ Glicoproteína de envoltura (gp): gp120 + gp41",
+                    "guid": "KuZg8Q-orQg_MIJpVyA3Pw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "parent": "90",
+            "text": "Entrada viral\ny tropismo:",
+            "guid": "X2_bUF67kr1QfhRzIL3vTw",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "• Células diana: principalmente CD4+ T activadas",
+                "guid": "DvQQFnFlAD5Rh0NyLoBEmw",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "→ También: macrófagos, células microgliales (54)",
+                    "guid": "BySrjwkI3jMnzRvUbHYmqQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "103",
+                "parent": "100",
+                "text": "• Proceso de entrada:",
+                "guid": "NwUqa37OGZ0EebnSTpoB4Q",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "gp120 se une a receptor CD4",
+                    "guid": "TYU4J0sLitg_dvUOcs9U6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "103",
+                    "text": "Cambio conformacional de gp120",
+                    "guid": "WlAPAypNefIRLjgaBTZv9A",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "103",
+                    "text": "Unión a\ncorreceptores:",
+                    "guid": "OfYm-lBeuoNcVqc0GWYCSw",
+                    "children": [
+                      {
+                        "id": "107",
+                        "parent": "106",
+                        "text": "CCR5 → cepas R5 (56)",
+                        "guid": "LxpNQCzUu6c6I_GabfbWHw",
+                        "children": []
+                      },
+                      {
+                        "id": "108",
+                        "parent": "106",
+                        "text": "CXCR4 → cepas X4 (58-60)",
+                        "guid": "O4MteGEMZoglDF3oSnc9jg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "109",
+                "parent": "100",
+                "text": "• Cepas R5:",
+                "guid": "UnFmxnaToVp494IpWZYSVQ",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "→ Infectan macrófagos y CD4+ T",
+                    "guid": "f5x_jSDEnf1GDDj_NqGp-A",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "→ Resistencia: deleción CCR5∆32 homocigota (5% europeos) (60)",
+                    "guid": "H5K3mkqF8tEFO6vabRfvwg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "112",
+                "parent": "100",
+                "text": "• Cepas X4:",
+                "guid": "FZF9qUSyoOhf50Srb-GMrA",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "→ Más patogénicas",
+                    "guid": "bwAa2nEVfMV1F_yhKPZB1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "→ Mayor destrucción CD4+ T",
+                    "guid": "QXQ3SFFuo9VCXEQgcI6EiA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "115",
+                "parent": "100",
+                "text": "• Cepas duales: usan ambos correceptores",
+                "guid": "fkNffHyANbpehVqnOcaM9Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "parent": "90",
+            "text": "Ciclo de replicación:",
+            "guid": "XYycQwORuI8EPcqDL_4DCQ",
+            "children": [
+              {
+                "id": "117",
+                "parent": "116",
+                "text": "Fusión y liberación de ARN viral en citoplasma",
+                "guid": "eiVZ6n01TK0JlBVfecHZdw",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "116",
+                "text": "Transcripción inversa: ARN → ADNc",
+                "guid": "Hfnqqk-gTl4wY4NwPYyiRQ",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "→ Alta tasa de mutación (62,63)",
+                    "guid": "GiZBLzWfL0oqpJIHL7e-2A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "116",
+                "text": "Transporte al núcleo",
+                "guid": "elHQMgqL1rIfmUuFaVHrDQ",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "116",
+                "text": "Integración en ADN huésped (provirus)",
+                "guid": "e6FTdxSxSCYSSCziPRWKvw",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "116",
+                "text": "Transcripción: ADN viral → ARN y ARNm",
+                "guid": "Zh_r-1SkcQItpA9HZGNLdw",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "116",
+                "text": "Ensamblaje de nuevas partículas virales",
+                "guid": "USSmvAwpae4eKdhsLrFC_w",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "116",
+                "text": "Liberación por gemación",
+                "guid": "D7sifiJnovBer0YJCeB8aA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "90",
+            "text": "Propagación:",
+            "guid": "H5zvnWhDW2gDolXfPZbaRw",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "→ Libre: viriones",
+                "guid": "N-OpxjQF2U97I3yMUgnq9Q",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "→ Célula-célula (53)",
+                "guid": "aaUImSXIDpMBwanNY_bYzA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "128",
+            "parent": "90",
+            "text": "Impacto del TARV en\ninmunopatogénesis:",
+            "guid": "MFPlRSFa9VJNSMPZK_U4vA",
+            "children": []
+          },
+          {
+            "id": "129",
+            "parent": "90",
+            "text": "• Efectos:",
+            "guid": "ev3s6kAWMXYeVLosMuGWsA",
+            "children": [
+              {
+                "id": "130",
+                "parent": "129",
+                "text": "→ ↓ Replicación viral",
+                "guid": "Ngw9eF-Q8LtpCsN7HCwpcw",
+                "children": []
+              },
+              {
+                "id": "131",
+                "parent": "129",
+                "text": "→ ↓ Destrucción CD4+ T",
+                "guid": "NDVhvRau0sIAj3TrBVoIeQ",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "129",
+                "text": "→ ↓ Activación inmune",
+                "guid": "Itg8sR65TVc0C0t5MpNfLw",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "129",
+                "text": "→ ↑ Producción CD4+ T en timo (66,81)",
+                "guid": "QSDwRxK6kYI8c9uXYL3f5A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "134",
+            "parent": "90",
+            "text": "• Recuperación\nCD4+ T:",
+            "guid": "KAggxQ8AsAQbiWNOXhRePQ",
+            "children": [
+              {
+                "id": "135",
+                "parent": "134",
+                "text": "→ Bifásica: rápida (redistribución tisular) + lenta (↑ producción tímica)",
+                "guid": "dBwKxhl4NrgE64GlXcETXw",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "134",
+                "text": "→ Promedio: 50-100 células/μl/año (82,83)",
+                "guid": "P0BFTAatK3JBt-wrb5QqkQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "137",
+            "parent": "90",
+            "text": "• Marcadores\ninmunes:",
+            "guid": "GYlJ81wsVm9wrpVsWqo6Ow",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "→ ↓ Activación T (HLA-DR, CD38, PD1)",
+                "guid": "bpGgvwSUJsl6QIexIscCfA",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "137",
+                "text": "→ ↓ Activación macrófagos",
+                "guid": "G0L5jHrP_JwoIQr2Phs2PQ",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "137",
+                "text": "→ ↓ Translocación microbiana (LPS)",
+                "guid": "bubn8S0icQM7aBofaeTU2w",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "137",
+                "text": "→ ↓ Marcadores inmunidad innata (PCR, IL-6, dímero-D) (84)",
+                "guid": "bTiieVm81EscxmuLYVStPw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "142",
+            "parent": "90",
+            "text": "• Activación inmune\nresidual:",
+            "guid": "czULBCGx7TA_FcCfMnVQUA",
+            "children": [
+              {
+                "id": "143",
+                "parent": "142",
+                "text": "→ Persiste elevada en TARV (85)",
+                "guid": "KF8YogDNrMoiCXrhUGc5Zw",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "142",
+                "text": "→ TARV temprano → menor activación (86)",
+                "guid": "D85czz2S3i8ue5elfl_9jg",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "142",
+                "text": "→ Asociada a mayor riesgo de eventos no-SIDA (87)",
+                "guid": "QicE-Si8H1YhJwALXWn-hQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "146",
+        "parent": "0",
+        "text": "Reservorio viral\ndel VIH:",
+        "guid": "e6YW5FWIaL0uMaouFp2IHQ",
+        "children": [
+          {
+            "id": "147",
+            "parent": "146",
+            "text": "Formas de infección en\ncélulas CD4+ T (88):",
+            "guid": "EHMV1wbkM-8KBZ6uGnUW5w",
+            "children": [
+              {
+                "id": "148",
+                "parent": "147",
+                "text": "• Productiva:",
+                "guid": "I4wb8klICwEbhTTCPRVl5Q",
+                "children": [
+                  {
+                    "id": "149",
+                    "parent": "148",
+                    "text": "→ Producción ARN viral, proteínas, viriones",
+                    "guid": "JXRhcAwzyi4Xv6AgFFtJYQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "150",
+                "parent": "147",
+                "text": "• Latente:",
+                "guid": "OVY7MVMnukB-QB48Jo7dqg",
+                "children": [
+                  {
+                    "id": "151",
+                    "parent": "150",
+                    "text": "→ ADN viral integrado",
+                    "guid": "LOSOixsGiccH44rqIBmZjw",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "150",
+                    "text": "→ Sin transcripción/traducción viral",
+                    "guid": "PLh290b5S4lSjunfZRePmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "150",
+                    "text": "→ Reactivación posible tras activación celular (89)",
+                    "guid": "R8b4U3SYZME1fskBV5VVIg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "154",
+            "parent": "146",
+            "text": "Hijacking del proceso normal de\nactivación de células T:",
+            "guid": "MitC8GP6YKZV9VKxdFJH6Q",
+            "children": [
+              {
+                "id": "155",
+                "parent": "154",
+                "text": "• Generación en timo → células T naive (quiescentes)",
+                "guid": "DLZ__HccUrxRvEZuMEKb7g",
+                "children": []
+              },
+              {
+                "id": "156",
+                "parent": "154",
+                "text": "• Encuentro con antígeno → activación y proliferación",
+                "guid": "QGRdvW1BezBtWAHTZdi_LQ",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "154",
+                "text": "• Formación de células T memoria efectora activadas",
+                "guid": "eXVFXgUXofR6NAiOMsuAjw",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "154",
+                "text": "• Reversión a estado quiescente → células T memoria central",
+                "guid": "WD9cNHh0JspZWl46BSPqvw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "159",
+            "parent": "146",
+            "text": "Establecimiento de\ninfección latente:",
+            "guid": "FKUnkGSepDgLvPyyVQmFTQ",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "• Ocurre en células T CD4+ memoria quiescentes",
+                "guid": "E3qwkWE96SQlPYRPUDMniA",
+                "children": []
+              },
+              {
+                "id": "161",
+                "parent": "159",
+                "text": "• Mecanismos:",
+                "guid": "TsPgyB2I1NQS4l3JW3pgxA",
+                "children": [
+                  {
+                    "id": "162",
+                    "parent": "161",
+                    "text": "→ Infección directa de célula quiescente\n(latencia pre-activación) (90,91)",
+                    "guid": "KDc0rXfMbi41Srchb_4tAA",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "161",
+                    "text": "→ Infección de célula activada → reversión a estado quiescente\n(latencia post-activación) (88)",
+                    "guid": "bGTS72rJgCJHk4IjHpAV4A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "parent": "146",
+            "text": "Características del\nreservorio latente:",
+            "guid": "ew_EvGdHwW4fuZI2TO_kJA",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "• Establecimiento inmediato post-infección (92,93)",
+                "guid": "UeAfaHkU_oY64kR6S1Vkxw",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "164",
+                "text": "• Fracción pequeña del total de células infectadas pre-TARV",
+                "guid": "fiygejUWTQh-IOVWVmv8rg",
+                "children": []
+              },
+              {
+                "id": "167",
+                "parent": "164",
+                "text": "• Recambio y inestabilidad pre-TARV (94)",
+                "guid": "LYpz0ld7Q5Bbj-dtQQUkYw",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "164",
+                "text": "• Persistencia en múltiples\nsubtipos de células T:",
+                "guid": "OLkstADNa7wROEvrYPBhYQ",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "→ Naive, memoria de células madre, memoria central,\nmemoria efectora, memoria transicional",
+                    "guid": "eJnZ60aDAwxQ7o5iZP6s2g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "170",
+                "parent": "164",
+                "text": "• Virus intacto o defectuoso (94)",
+                "guid": "MUyDLxiCEIUDjsK6ABBj9w",
+                "children": []
+              },
+              {
+                "id": "171",
+                "parent": "164",
+                "text": "• Estados transcripcionales variables",
+                "guid": "NgrlWRZxIIRbisS8SrAM6Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "172",
+            "parent": "146",
+            "text": "Mecanismos de\npersistencia:",
+            "guid": "YFy_9Fqb1rAYRUjrXolgbg",
+            "children": [
+              {
+                "id": "173",
+                "parent": "172",
+                "text": "• Establecimiento en células T de larga vida (95)",
+                "guid": "D7IjuBZmLkI09V0cPTyXig",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "172",
+                "text": "• Proliferación/expansión clonal (96)",
+                "guid": "beFx0hCFRIp-QbvtJpqehw",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "172",
+                "text": "• Expansión de células T antígeno-específicas (97,98)",
+                "guid": "EVKwRg96B9gHiv_oCeyKMQ",
+                "children": []
+              },
+              {
+                "id": "176",
+                "parent": "172",
+                "text": "• Células expandidas\nclonalmente:",
+                "guid": "Vf0K5Fh5jkpu6zcMB0mOEw",
+                "children": [
+                  {
+                    "id": "177",
+                    "parent": "176",
+                    "text": "→ >50% del reservorio",
+                    "guid": "cPuez3J5-cYHWfILJwaEKA",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "176",
+                    "text": "→ Capaces de producir viremia de bajo nivel en TARV (99)",
+                    "guid": "COsaSmLktsdxtpERA_rfBg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "146",
+            "text": "Actividad transcripcional\ndel provirus:",
+            "guid": "SzGliStXBAEMGPvdVBy_1A",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "• Espectro: latencia profunda → transcripción constitutiva (100)",
+                "guid": "Six4NRFwI0dQ6sMrKok4Kg",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "179",
+                "text": "• Rebote viral post-TARV:",
+                "guid": "bAv592kwDBYJEpiYe74drw",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "→ 2-3 semanas",
+                    "guid": "f5Y6WD4H9bU4-rU5bXesKw",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "→ Fuente: reservorio activo vs. silencioso",
+                    "guid": "To06Pzc8cSYUEkqyX9_qhQ",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "181",
+                    "text": "• Tiempo hasta rebote: asociado con ARN viral asociado a células (101)",
+                    "guid": "RrZ4_hudSpppzHS3HLOD4w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "185",
+            "parent": "146",
+            "text": "Factores que influyen en\nactividad transcripcional:",
+            "guid": "dBbY5Vi3q8Mj_RH2ZRJ3tA",
+            "children": [
+              {
+                "id": "186",
+                "parent": "185",
+                "text": "• Sitio de integración (102)",
+                "guid": "Dju6yH3PjO5YF57aWGgy_g",
+                "children": []
+              },
+              {
+                "id": "187",
+                "parent": "185",
+                "text": "• Ambiente transcripcional de la célula huésped",
+                "guid": "Dz-wNikCYgUC8Wsoe0uqLQ",
+                "children": []
+              },
+              {
+                "id": "188",
+                "parent": "185",
+                "text": "• Factores del\nhuésped/ambientales:",
+                "guid": "Z0DuPRNSn1F4eR46LfdnOw",
+                "children": [
+                  {
+                    "id": "189",
+                    "parent": "188",
+                    "text": "→ Variación circadiana (CLOCK, BMAL1) (103)",
+                    "guid": "EjJuHAwEA8B3CcfdEciodA",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "188",
+                    "text": "→ Diferencias por sexo (estrógenos) (104)",
+                    "guid": "Sgv5dTAEfRZ_QFSfGJkztA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "191",
+            "parent": "146",
+            "text": "Características de células\nlatentemente infectadas:",
+            "guid": "EgHDUTJjQuwAou7dIUFzhw",
+            "children": [
+              {
+                "id": "192",
+                "parent": "191",
+                "text": "• Expresión de puntos de control inmunitario (105)",
+                "guid": "Lu_p7GJFkvFKquseIwbC0Q",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "191",
+                "text": "• Moléculas que limitan transcripción viral",
+                "guid": "Ov0-tG6n_RUIGTqFBi7kPQ",
+                "children": []
+              },
+              {
+                "id": "194",
+                "parent": "191",
+                "text": "• Moléculas que mejoran supervivencia (106,107)",
+                "guid": "Gf8BFhQyNmJaS6QRKDq73w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "146",
+            "text": "Composición\ndel reservorio:",
+            "guid": "EfOvc2q2qSlY07ggQOOZXw",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "• Mayoría: virus defectuoso (109)",
+                "guid": "W2Wk8QOUWgUcjR20bZgTDQ",
+                "children": []
+              },
+              {
+                "id": "197",
+                "parent": "195",
+                "text": "• Virus intacto: decae más rápido que formas defectuosas (110)",
+                "guid": "D5hdxROW5ZF_YLuCWaRXOw",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "195",
+                "text": "• Cuantificación precisa: requiere medición de virus intacto",
+                "guid": "Q5tiqH6hECFyPYrvKtxQ5Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "199",
+            "parent": "146",
+            "text": "Nuevas herramientas de\nestudio:",
+            "guid": "EiagVGwDlrUOKF8MLCWhag",
+            "children": [
+              {
+                "id": "200",
+                "parent": "199",
+                "text": "• PRIP-seq: secuencia viral, sitio de\nintegración, transcripción (102)",
+                "guid": "TPw8GiN-oz9j6lwwB_l6zg",
+                "children": []
+              },
+              {
+                "id": "201",
+                "parent": "199",
+                "text": "• Hallazgos en\ncontroladores de élite:",
+                "guid": "ADXNGGh0Ax1UYF1JEjeQaQ",
+                "children": [
+                  {
+                    "id": "202",
+                    "parent": "201",
+                    "text": "→ Sin virus intacto detectable (111,112)",
+                    "guid": "GtdGCVUDTCYzeQPwdjzq-w",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "201",
+                    "text": "→ Virus intacto en centrómeros/desiertos génicos (112)",
+                    "guid": "WJemK1AGIaRj1P4IaDAD8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "204",
+                "parent": "199",
+                "text": "• En TARV: ↑ proporción de células con baja transcripción viral y\nprovirus en zonas transcripcionalmente silenciosas (102)",
+                "guid": "Y50HNmM1uYpB1FssJzhp3g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "205",
+        "parent": "0",
+        "text": "Factores asociados con disfunción inmune no\nrelacionados con destrucción de células T CD4+:",
+        "guid": "JbbYaxvY66U9AJD0EEWOig",
+        "children": [
+          {
+            "id": "206",
+            "parent": "205",
+            "text": "Linfocitos T CD8+\ncitotóxicos:",
+            "guid": "Kz7Jl21PUl8JhgscSO-c_Q",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "• Fase aguda: ↑ por encima del rango normal (150-1,000 células/mm³)",
+                "guid": "Z2iULQeDKfhLUV5wBAUPew",
+                "children": []
+              },
+              {
+                "id": "208",
+                "parent": "206",
+                "text": "• Etapas tardías: ↓ declive",
+                "guid": "OrUo5lu9YINbtMWjQ4VV3A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "209",
+            "parent": "205",
+            "text": "Células Natural Killer (NK):",
+            "guid": "MDbn4G8so3MCG_AlWnACSg",
+            "children": [
+              {
+                "id": "210",
+                "parent": "209",
+                "text": "• Número: ↓ disminuido",
+                "guid": "KOM1yX0pF0UUihbPFVAuTQ",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "209",
+                "text": "• Función: ↓ deteriorada",
+                "guid": "WwrNkmWp_v9BTT0VSBBwMg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "212",
+            "parent": "205",
+            "text": "Monocitos y\nmacrófagos:",
+            "guid": "eP_B-X1Hy7BaPXGtTd3dKA",
+            "children": [
+              {
+                "id": "213",
+                "parent": "212",
+                "text": "• Quimiotaxis: ↓ defectos",
+                "guid": "BYe9znakNd0J_znCMMaHZQ",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "212",
+                "text": "• Proliferación de células T CD4+: ↓ incapacidad para promover",
+                "guid": "Y_OIPBOFRN55tiRiS1wcag",
+                "children": [
+                  {
+                    "id": "215",
+                    "parent": "214",
+                    "text": "(rango normal CD4+: 460-1,600 células/mm³)",
+                    "guid": "Gwhu1kUHgtJPYSvlVb2XvA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "216",
+                "parent": "212",
+                "text": "• Función del receptor Fc: ↓ defectos",
+                "guid": "IMTjVisV8YgZQu2YUPvLNg",
+                "children": [
+                  {
+                    "id": "217",
+                    "parent": "216",
+                    "text": "→ Afecta reconocimiento y eliminación de antígenos unidos a anticuerpos",
+                    "guid": "GkKU_Bte3b4ra82BQyXKxQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "218",
+            "parent": "205",
+            "text": "Células B:",
+            "guid": "CgIBEEcPa2471H74JQpv5g",
+            "children": [
+              {
+                "id": "219",
+                "parent": "218",
+                "text": "• Producción de IgG e IgA: ↑ aumentada",
+                "guid": "GIf1Az_15FBYdfkTc5LClQ",
+                "children": []
+              },
+              {
+                "id": "220",
+                "parent": "218",
+                "text": "• Anticuerpos neutralizantes:",
+                "guid": "JZ_jTxnDNig7ozLHHp-lSA",
+                "children": [
+                  {
+                    "id": "221",
+                    "parent": "220",
+                    "text": "→ ↓ niveles bajos tras infección o vacunación",
+                    "guid": "FwsB2RXgpHVsfYJwHJK_pw",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "220",
+                    "text": "→ Comparación: menor que en personas sin infección por VIH",
+                    "guid": "DITaUnZ8vDJNWUcMcHhijg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "223",
+            "parent": "205",
+            "text": "Implicaciones generales:",
+            "guid": "Be0rY3cnvVkteNc1HPgtPA",
+            "children": [
+              {
+                "id": "224",
+                "parent": "223",
+                "text": "Disfunción inmune multifacética",
+                "guid": "DBbuQAs1qt16yAeiLNvRlg",
+                "children": []
+              },
+              {
+                "id": "225",
+                "parent": "223",
+                "text": "Afectación de respuesta inmune innata y adaptativa",
+                "guid": "NkucZhQK9Tt915zNUI4xYg",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "223",
+                "text": "Alteraciones en número y función de diversas células inmunes",
+                "guid": "L2nS-SlDak4Ts_wnR_HH_A",
+                "children": []
+              },
+              {
+                "id": "227",
+                "parent": "223",
+                "text": "Impacto en la capacidad de respuesta a patógenos y vacunas",
+                "guid": "aTlOnmwp9To7hIqRDtkx7Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "228",
+        "parent": "0",
+        "text": "Personas con VIH\ny COVID-19:",
+        "guid": "X7p_9zi_ZJNyg_O3DtZHlQ",
+        "children": [
+          {
+            "id": "229",
+            "parent": "228",
+            "text": "Preocupación inicial:",
+            "guid": "JAstjUOTuXlptBVmVCJ2TA",
+            "children": [
+              {
+                "id": "230",
+                "parent": "229",
+                "text": "• ↑ susceptibilidad a SARS-CoV-2",
+                "guid": "DKnyGGgk63E_vvFYW67JGA",
+                "children": []
+              },
+              {
+                "id": "231",
+                "parent": "229",
+                "text": "• ↑ riesgo de síndrome respiratorio agudo grave",
+                "guid": "acGgEiaH4DUob1lKIgEkyQ",
+                "children": []
+              },
+              {
+                "id": "232",
+                "parent": "229",
+                "text": "• ↑ riesgo de resultados desfavorables",
+                "guid": "H63i1k0DcoMAYf5uBfFazA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "228",
+            "text": "Hallazgos de estudios:",
+            "guid": "KVlSkhiQAVsgaU30NgNEqg",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "• Susceptibilidad a infección: → no aumentada",
+                "guid": "a9p6IE8O8U4maGvLGnGQRw",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "233",
+                "text": "• Riesgo de enfermedad COVID-19 grave: ↑ (odds ratio ajustado 1.13) (280)",
+                "guid": "YZxnpEBmg-Ej-If1YoHoIg",
+                "children": []
+              },
+              {
+                "id": "236",
+                "parent": "233",
+                "text": "• Riesgo de muerte: ↑ (hazard ratio ajustado 2.14) (281)",
+                "guid": "SncDQ2n-8iF5UoXhBJxvuA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "228",
+            "text": "Factores de riesgo\nadicionales:",
+            "guid": "OxM621WeLgdEDYVKO8gnpw",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "• Edad avanzada",
+                "guid": "ALTszGAoP00Rsg3DanaM3g",
+                "children": []
+              },
+              {
+                "id": "239",
+                "parent": "237",
+                "text": "• Comorbilidades:",
+                "guid": "ZLDuDSKDOX81NOASDgpAnw",
+                "children": [
+                  {
+                    "id": "240",
+                    "parent": "239",
+                    "text": "→ Hipertensión",
+                    "guid": "BrAfgjohZw0Md7GoJl4CWA",
+                    "children": []
+                  },
+                  {
+                    "id": "241",
+                    "parent": "239",
+                    "text": "→ Diabetes mellitus",
+                    "guid": "ByTZkQzZsBYsT10kKzAHHg",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "239",
+                    "text": "→ Obesidad",
+                    "guid": "UG1pjxYDcop_Un1rPEfjrw",
+                    "children": []
+                  },
+                  {
+                    "id": "243",
+                    "parent": "239",
+                    "text": "→ Enfermedad hepática esteatótica (282)",
+                    "guid": "ZRJj2CW66TZWuXP3Rq7LfA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "244",
+                "parent": "237",
+                "text": "• Carga viral no suprimida: ↑ riesgo en algunos estudios",
+                "guid": "ZiFtF3qx--wpMLOeMJhwWg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "245",
+            "parent": "228",
+            "text": "Vacunación COVID-19:",
+            "guid": "HbDTZnoZQc59_R7cAmHBcw",
+            "children": [
+              {
+                "id": "246",
+                "parent": "245",
+                "text": "• Seguridad: confirmada en personas con VIH",
+                "guid": "NcZtVFW_kw0mPrSGPHaM1g",
+                "children": []
+              },
+              {
+                "id": "247",
+                "parent": "245",
+                "text": "• Eficacia:",
+                "guid": "Z0NBayL-13lQ6I4wTWSugg",
+                "children": [
+                  {
+                    "id": "248",
+                    "parent": "247",
+                    "text": "→ Estudio Ubuntu en África",
+                    "guid": "D-D6GjK2Zi5i1I8uFwXTqw",
+                    "children": []
+                  },
+                  {
+                    "id": "249",
+                    "parent": "247",
+                    "text": "→ Evidencia de entornos del mundo real",
+                    "guid": "P5AWRA8j7FJCNdrKD_1_0w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "250",
+                "parent": "245",
+                "text": "• Recomendaciones: iguales que para población general",
+                "guid": "JSde3EGIWDVMRWOCCjnCtA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "251",
+            "parent": "228",
+            "text": "• Intervalos de refuerzo: posible necesidad de acortarlos (no confirmado)",
+            "guid": "bQWinxNVwvo7-o6bEi0Bew",
+            "children": []
+          },
+          {
+            "id": "252",
+            "parent": "228",
+            "text": "Otras vacunas\nrecomendadas:",
+            "guid": "bGz4hF3htk1RH-gwK_0OyA",
+            "children": [
+              {
+                "id": "253",
+                "parent": "252",
+                "text": "• Influenza",
+                "guid": "HJx7TTMx_u4QbAITV6-2KA",
+                "children": []
+              },
+              {
+                "id": "254",
+                "parent": "252",
+                "text": "• Vacuna antineumocócica",
+                "guid": "CNAs9VR5h10Td93QPpaaSQ",
+                "children": []
+              },
+              {
+                "id": "255",
+                "parent": "252",
+                "text": "• Coadministración: posible con vacuna COVID-19",
+                "guid": "Kjkaajm2klZ7DScfOhoUhA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "256",
+        "parent": "0",
+        "text": "Progresión de la\ninfección por VIH:",
+        "guid": "BkeciU9U5VVr8v0vVifbUw",
+        "children": [
+          {
+            "id": "257",
+            "parent": "256",
+            "text": "Carga viral (ARN\ncopias/ml plasma):",
+            "guid": "TfOfXUXaHac_f4bNWgqNnQ",
+            "children": [
+              {
+                "id": "258",
+                "parent": "257",
+                "text": "• Infección primaria\n(0-6 semanas):",
+                "guid": "eFpmilOMvg96rOBNBWLIWA",
+                "children": [
+                  {
+                    "id": "259",
+                    "parent": "258",
+                    "text": "→ ↑↑↑ rápido (pico ~10⁸)",
+                    "guid": "UQ_IhDpHjm8G5l80B1tk6g",
+                    "children": [
+                      {
+                        "id": "260",
+                        "parent": "259",
+                        "text": "→ Síndrome VIH agudo",
+                        "guid": "TlKDqgS9_AFX6ZZMfbxWow",
+                        "children": []
+                      },
+                      {
+                        "id": "261",
+                        "parent": "259",
+                        "text": "→ Diseminación viral",
+                        "guid": "LgFmT2udknRFrh6fFzq07Q",
+                        "children": []
+                      },
+                      {
+                        "id": "262",
+                        "parent": "259",
+                        "text": "→ Siembra de órganos linfoides",
+                        "guid": "V8eHrgEyqTEmE-baXbSzEQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "263",
+                "parent": "257",
+                "text": "• 6-12 semanas: ↓↓ rápido\n(~10³)",
+                "guid": "bYMXtDQ3zTAe8AR4ffYtiw",
+                "children": []
+              },
+              {
+                "id": "264",
+                "parent": "257",
+                "text": "• Latencia clínica\n(1-10 años):",
+                "guid": "OxwBHyj1oyYYa0RyCQ-gfA",
+                "children": [
+                  {
+                    "id": "265",
+                    "parent": "264",
+                    "text": "→ ↑ lento y progresivo",
+                    "guid": "bs_AzVfqyz9jGi4aP9-JUg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "266",
+                "parent": "257",
+                "text": "• Fase final:",
+                "guid": "EjJZrmoAjU5HOu48YITdWQ",
+                "children": [
+                  {
+                    "id": "267",
+                    "parent": "266",
+                    "text": "→ ↑↑ rápido",
+                    "guid": "br6JTx8khIleQTP8HL_vng",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "266",
+                    "text": "→ Síntomas constitucionales",
+                    "guid": "CsIW_SPvUpwz-qSLYomeqw",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "266",
+                    "text": "→ Enfermedad oportunista",
+                    "guid": "JSH7zVoOi2VAPlG9HXxiVw",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "266",
+                    "text": "→ Muerte",
+                    "guid": "LZtJdDrrMgoi3yqvGx5hKA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "271",
+            "parent": "256",
+            "text": "Recuento de células T CD4+\n(células/mm³):",
+            "guid": "byL_O0HPLycZFI6zKj8AWg",
+            "children": [
+              {
+                "id": "272",
+                "parent": "271",
+                "text": "• Infección primaria: ↓ inicial, ↑ parcial",
+                "guid": "asTSTTF_0yUzTqDXWZSTGw",
+                "children": []
+              },
+              {
+                "id": "273",
+                "parent": "271",
+                "text": "• Latencia clínica: ↓ gradual",
+                "guid": "CWqeZBZozvEZdBxtG5z4Eg",
+                "children": []
+              },
+              {
+                "id": "274",
+                "parent": "271",
+                "text": "• Etapas de riesgo:",
+                "guid": "AGlcP2CvCql8IdVrbyfljg",
+                "children": [
+                  {
+                    "id": "275",
+                    "parent": "274",
+                    "text": "a. <350 células/mm³:",
+                    "guid": "f9OPMlpjCWgL59UsCpWmLw",
+                    "children": [
+                      {
+                        "id": "276",
+                        "parent": "275",
+                        "text": "→ ↑ riesgo de infecciones oportunistas",
+                        "guid": "flJcBD_iebdtH0TbI3RX0Q",
+                        "children": []
+                      },
+                      {
+                        "id": "277",
+                        "parent": "275",
+                        "text": "→ Varicela zóster, infecciones bacterianas graves, tuberculosis",
+                        "guid": "GfEFHC1dlphA8LooR4xOkA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "278",
+                    "parent": "274",
+                    "text": "b. <200 células/mm³:",
+                    "guid": "aEjIomPP5Ndiqq-4V2vH3Q",
+                    "children": [
+                      {
+                        "id": "279",
+                        "parent": "278",
+                        "text": "→ ↑↑ riesgo de infecciones oportunistas graves",
+                        "guid": "JZ8T_nu_PmsBqsg4EGPmSw",
+                        "children": []
+                      },
+                      {
+                        "id": "280",
+                        "parent": "278",
+                        "text": "→ Neumonía por Pneumocystis, candidiasis esofágica",
+                        "guid": "LT8RkDT5aQ9p-HlmNqmv9A",
+                        "children": []
+                      },
+                      {
+                        "id": "281",
+                        "parent": "278",
+                        "text": "→ Neoplasias asociadas al VIH",
+                        "guid": "S2I4AANsldNSRqgGS8uUPw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "282",
+                    "parent": "274",
+                    "text": "c. <100 células/mm³:",
+                    "guid": "ZBugfU5ofXI683nNY-8vrw",
+                    "children": [
+                      {
+                        "id": "283",
+                        "parent": "282",
+                        "text": "→ ↑↑↑ riesgo de infecciones oportunistas severas",
+                        "guid": "KMuG2kbbTvluhNXfJx3i3g",
+                        "children": []
+                      },
+                      {
+                        "id": "284",
+                        "parent": "282",
+                        "text": "→ Coccidioidomicosis, criptococosis, criptosporidiosis",
+                        "guid": "Br3IsFukGrpKkjqvIK7NzA",
+                        "children": []
+                      },
+                      {
+                        "id": "285",
+                        "parent": "282",
+                        "text": "→ Citomegalovirus, encefalitis, histoplasmosis",
+                        "guid": "CQGxUguC9NdoOxxccUp59A",
+                        "children": []
+                      },
+                      {
+                        "id": "286",
+                        "parent": "282",
+                        "text": "→ Complejo Mycobacterium avium diseminado",
+                        "guid": "b1LZrkrlzBRItkHSFPHtrA",
+                        "children": []
+                      },
+                      {
+                        "id": "287",
+                        "parent": "282",
+                        "text": "→ Leucoencefalopatía multifocal progresiva",
+                        "guid": "RqUKf0phCgolVdP3c-QcDw",
+                        "children": []
+                      },
+                      {
+                        "id": "288",
+                        "parent": "282",
+                        "text": "→ Toxoplasmosis cerebral",
+                        "guid": "f1pzGQ9OTV4qjcwDSryrGQ",
+                        "children": []
+                      },
+                      {
+                        "id": "289",
+                        "parent": "282",
+                        "text": "→ Síndrome de consuntivo asociado al VIH",
+                        "guid": "ErrjMXzUdAkWiD9YdtaDrg",
+                        "children": []
+                      },
+                      {
+                        "id": "290",
+                        "parent": "282",
+                        "text": "→ Neoplasias asociadas al VIH avanzadas",
+                        "guid": "Szzxe1F7uSVaxbNedAh4VQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "291",
+            "parent": "256",
+            "text": "Cronología:",
+            "guid": "cuSHCmfxEQ91gFITOYmRiQ",
+            "children": [
+              {
+                "id": "292",
+                "parent": "291",
+                "text": "• Semanas 0-12: fase aguda",
+                "guid": "GFcIHklKiT0bJlszHxTQzg",
+                "children": []
+              },
+              {
+                "id": "293",
+                "parent": "291",
+                "text": "• Años 1-10: latencia clínica",
+                "guid": "JO6j92W4leI_w56aLfBVSQ",
+                "children": []
+              },
+              {
+                "id": "294",
+                "parent": "291",
+                "text": "• Años 10-12: progresión a SIDA y muerte (sin tratamiento)",
+                "guid": "cTuKuSf-uvYfOs89YI5kZw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "295",
+            "parent": "256",
+            "text": "Nota: Esta progresión representa el curso natural sin tratamiento\nantirretroviral. El TARV modifica significativamente esta evolución",
+            "guid": "MlIbGRrWJgstba2YMayOMg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "296",
+        "parent": "0",
+        "text": "Diagnóstico, detección y\nprevención del VIH:",
+        "guid": "KVFk6AUIVy4MEf2CJPd7zA",
+        "children": [
+          {
+            "id": "297",
+            "parent": "296",
+            "text": "Importancia del diagnóstico:",
+            "guid": "MdDwcVw-icAwCXzXZCMLig",
+            "children": [
+              {
+                "id": "298",
+                "parent": "297",
+                "text": "• Primer paso para atención temprana",
+                "guid": "VM_tpBLxeKMztdpJIAzfIA",
+                "children": []
+              },
+              {
+                "id": "299",
+                "parent": "297",
+                "text": "• Permite inicio rápido de TARV",
+                "guid": "ZG0xyA57jacUFVd1fMQ55g",
+                "children": []
+              },
+              {
+                "id": "300",
+                "parent": "297",
+                "text": "• Beneficios:",
+                "guid": "V8YW5C87sqkb2Qq0fLS62w",
+                "children": [
+                  {
+                    "id": "301",
+                    "parent": "300",
+                    "text": "→ Individual: mejora de salud",
+                    "guid": "FPRIi1ucqU4qpRAkBi_TRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "parent": "300",
+                    "text": "→ Poblacional: interrupción de transmisión",
+                    "guid": "A5tkREnf32Fmvjesdn_rTg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "303",
+            "parent": "296",
+            "text": "Presentación clínica:",
+            "guid": "baB67SI0wg90xLN9ApTDeQ",
+            "children": [
+              {
+                "id": "304",
+                "parent": "303",
+                "text": "• Infección aguda (2-6\nsemanas post-exposición):",
+                "guid": "IEnhvj5kyEQGW7dbeA_4og",
+                "children": [
+                  {
+                    "id": "305",
+                    "parent": "304",
+                    "text": "→ Síndrome gripal breve",
+                    "guid": "dxSvy113Km8Vz5m9ITkjNA",
+                    "children": []
+                  },
+                  {
+                    "id": "306",
+                    "parent": "304",
+                    "text": "→ Fiebre, dolor de garganta, erupción, fatiga, dolores musculares/articulares, linfadenopatía",
+                    "guid": "NXKkChI40wheGHnOCkKRrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "307",
+                "parent": "303",
+                "text": "• Fase asintomática: años",
+                "guid": "JSpLrBHOVBcqT3DPCZd9dA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "308",
+            "parent": "296",
+            "text": "• Diagnóstico definitivo: solo\nmediante pruebas (121,122)",
+            "guid": "fdFrXh9pw6EIxJa-AWzPog",
+            "children": [
+              {
+                "id": "309",
+                "parent": "308",
+                "text": "Período eclipse:",
+                "guid": "BW1iOBUNOLtkDyspOuAGQg",
+                "children": [
+                  {
+                    "id": "310",
+                    "parent": "309",
+                    "text": "• Definición: VIH no detectable post-exposición",
+                    "guid": "aUmjA2-Czmp37LrxGxqTdA",
+                    "children": []
+                  },
+                  {
+                    "id": "311",
+                    "parent": "309",
+                    "text": "• Duración: 10-11 días (123)",
+                    "guid": "S8FYKif2N8h_PZ7-QtYH9Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "312",
+                "parent": "308",
+                "text": "Sistema de estadificación\nde Fiebig (2003):",
+                "guid": "J0YLxEInpPhFIpfxTHBXcA",
+                "children": [
+                  {
+                    "id": "313",
+                    "parent": "312",
+                    "text": "• 6 etapas basadas en marcadores de replicación viral y respuesta de anticuerpos",
+                    "guid": "U_X5D29yCMBWB9TkdD_azg",
+                    "children": []
+                  },
+                  {
+                    "id": "314",
+                    "parent": "312",
+                    "text": "• Etapa I: aparición de ARN VIH",
+                    "guid": "LdbRBVxjjD9sT9NwG3dL8g",
+                    "children": []
+                  },
+                  {
+                    "id": "315",
+                    "parent": "312",
+                    "text": "• Etapa VI: reactividad completa en Western blot (124)",
+                    "guid": "fphOT2EUhu4eDA9rfGm5rQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "316",
+                "parent": "308",
+                "text": "Marcadores de infección:",
+                "guid": "AH5KjybQpil91olPacftkg",
+                "children": [
+                  {
+                    "id": "317",
+                    "parent": "316",
+                    "text": "• ARN VIH: 10-11 días post-exposición",
+                    "guid": "FlN0lHXDREAE4oEGYhTMvg",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "316",
+                    "text": "• Antígeno p24: 4-10 días después del ARN VIH",
+                    "guid": "Hbl8CQQgIAUk6tS0IybeQQ",
+                    "children": []
+                  },
+                  {
+                    "id": "319",
+                    "parent": "316",
+                    "text": "• Anticuerpos IgM: ~20 días post-exposición",
+                    "guid": "GS1YwAj5_91eBuSDQHNkhA",
+                    "children": []
+                  },
+                  {
+                    "id": "320",
+                    "parent": "316",
+                    "text": "• Anticuerpos IgG: 2-6 semanas después del ARN VIH (123,125)",
+                    "guid": "SyGk1SMpfHUM47v0Hxed5Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "321",
+            "parent": "296",
+            "text": "Algoritmos diagnósticos:",
+            "guid": "EpuFNWLrkNkTV3izQHJWOg",
+            "children": [
+              {
+                "id": "322",
+                "parent": "321",
+                "text": "• Principio: prueba de detección altamente sensible → confirmación con prueba sensible y específica",
+                "guid": "P08dGH-nTCNb6aItPedrZw",
+                "children": []
+              },
+              {
+                "id": "323",
+                "parent": "321",
+                "text": "• Recomendación OMS:",
+                "guid": "X6EuPEVsGegg29ngYCsx1A",
+                "children": [
+                  {
+                    "id": "324",
+                    "parent": "323",
+                    "text": "→ VPP ≥99%",
+                    "guid": "YLvTEXn1sZg6USUUYTodoQ",
+                    "children": []
+                  },
+                  {
+                    "id": "325",
+                    "parent": "323",
+                    "text": "→ 2-3 pruebas en serie",
+                    "guid": "IMZXwjgnrmRLAgszNxnMVg",
+                    "children": []
+                  },
+                  {
+                    "id": "326",
+                    "parent": "323",
+                    "text": "→ Sensibilidad ≥99%, especificidad ≥98% (127)",
+                    "guid": "LerypE_kjDoZLpkUS6RurQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "327",
+        "parent": "0",
+        "text": "Tipos de pruebas:",
+        "guid": "",
+        "children": [
+          {
+            "id": "328",
+            "parent": "327",
+            "text": "a. Primera generación:",
+            "guid": "VASsPz4Zbchuy0zubTIE_w",
+            "children": [
+              {
+                "id": "329",
+                "parent": "328",
+                "text": "• Fuente: lisado viral crudo",
+                "guid": "RxNtpkzSMXItpWmEEjUSew",
+                "children": []
+              },
+              {
+                "id": "330",
+                "parent": "328",
+                "text": "• Período ventana: 8-10 semanas",
+                "guid": "b_ut5zqJJXgxTLBgApczHA",
+                "children": []
+              },
+              {
+                "id": "331",
+                "parent": "328",
+                "text": "• Sensible solo a IgG",
+                "guid": "HXS2UUSkKRNDCYlXXMPTag",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "332",
+            "parent": "327",
+            "text": "b. Segunda generación:",
+            "guid": "REt1Nx7zK4Qaqz7RJQdISA",
+            "children": [
+              {
+                "id": "333",
+                "parent": "332",
+                "text": "• Fuente: lisado y recombinante",
+                "guid": "GOjdHFT8Y-YGQWXpOa803g",
+                "children": []
+              },
+              {
+                "id": "334",
+                "parent": "332",
+                "text": "• Período ventana: 4-6 semanas",
+                "guid": "DSQSSlFDcR1wyQE0Ow8E7g",
+                "children": []
+              },
+              {
+                "id": "335",
+                "parent": "332",
+                "text": "• Sensible solo a IgG",
+                "guid": "ISf9Vwn3mkkGs3OcdSyplg",
+                "children": []
+              },
+              {
+                "id": "336",
+                "parent": "332",
+                "text": "• Diferencia VIH-1 y VIH-2",
+                "guid": "SBEIEXV-wIpiXq6VDyR1tw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "337",
+            "parent": "327",
+            "text": "c. Tercera generación:",
+            "guid": "QlDx_BAEGBkhWYgzMkyf4w",
+            "children": [
+              {
+                "id": "338",
+                "parent": "337",
+                "text": "• Fuente: recombinante y péptidos sintéticos",
+                "guid": "So09klKmOJM049MAaAHz4w",
+                "children": []
+              },
+              {
+                "id": "339",
+                "parent": "337",
+                "text": "• Período ventana: 2-3 semanas",
+                "guid": "F0php3ftXFdExcdNW5XW3g",
+                "children": []
+              },
+              {
+                "id": "340",
+                "parent": "337",
+                "text": "• Sensible a IgG e IgM",
+                "guid": "FuCH219xBh8AnR8mL8lk9w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "341",
+            "parent": "327",
+            "text": "d. Cuarta generación:",
+            "guid": "NG1qBQbehRBpeJnWQZF8Tw",
+            "children": [
+              {
+                "id": "342",
+                "parent": "341",
+                "text": "• Fuente: recombinante y péptidos sintéticos",
+                "guid": "WCH2LVpBmwp8oIE9eUnzhA",
+                "children": []
+              },
+              {
+                "id": "343",
+                "parent": "341",
+                "text": "• Período ventana: 2 semanas",
+                "guid": "ZDk1UwNT9Nludp0aLEo9ZQ",
+                "children": []
+              },
+              {
+                "id": "344",
+                "parent": "341",
+                "text": "• Sensible a IgG, IgM y p24",
+                "guid": "eNK1ZFDVS687brMcOyOnYA",
+                "children": []
+              },
+              {
+                "id": "345",
+                "parent": "341",
+                "text": "• No diferencia anticuerpos de antígenos",
+                "guid": "YNljyVzIO09tcEdEK2ahWw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "346",
+            "parent": "327",
+            "text": "e. Quinta generación:",
+            "guid": "L25z4yJUGkQTaJU-RrjVig",
+            "children": [
+              {
+                "id": "347",
+                "parent": "346",
+                "text": "• Fuente: recombinante y péptidos sintéticos",
+                "guid": "GkF2m1guXIwiTqxoMSH-dg",
+                "children": []
+              },
+              {
+                "id": "348",
+                "parent": "346",
+                "text": "• Período ventana: 2 semanas",
+                "guid": "N59iqyLry45g62NtbAzMsA",
+                "children": []
+              },
+              {
+                "id": "349",
+                "parent": "346",
+                "text": "• Sensible a IgG, IgM y p24",
+                "guid": "KcpQnkpj_UMtnkj_AexGyw",
+                "children": []
+              },
+              {
+                "id": "350",
+                "parent": "346",
+                "text": "• Resultados separados de anticuerpos y antígenos",
+                "guid": "JKWYTio-yjx7NjpPCN7NoQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "351",
+            "parent": "327",
+            "text": "f. Pruebas de\nácidos nucleicos:",
+            "guid": "LZK_Fmms12k1KQsGJmV0eg",
+            "children": [
+              {
+                "id": "352",
+                "parent": "351",
+                "text": "• Detección de ARN VIH",
+                "guid": "OoIjGXCXviNhiRvaG1uG4g",
+                "children": []
+              },
+              {
+                "id": "353",
+                "parent": "351",
+                "text": "• Período ventana: 10 días",
+                "guid": "TV_5ck75Yx5Gwig9fM5tVQ",
+                "children": []
+              },
+              {
+                "id": "354",
+                "parent": "351",
+                "text": "• Posible no detección de VIH-2",
+                "guid": "cU19YloqvXtDh0LfC47z_Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "355",
+            "parent": "327",
+            "text": "Consideraciones\nespeciales:",
+            "guid": "MlkaB2XV70c8sPJzafh8sg",
+            "children": [
+              {
+                "id": "356",
+                "parent": "355",
+                "text": "• Diagnóstico infantil\ntemprano (<18 meses):",
+                "guid": "CMG61h2cVeFWBUliMowLdA",
+                "children": [
+                  {
+                    "id": "357",
+                    "parent": "356",
+                    "text": "→ Pruebas basadas en anticuerpos no útiles (anticuerpos maternos)",
+                    "guid": "aABTJAOjkmE0eFJADKXrcg",
+                    "children": []
+                  },
+                  {
+                    "id": "358",
+                    "parent": "356",
+                    "text": "→ Recomendación OMS: pruebas de ácidos nucleicos en punto de atención",
+                    "guid": "LeJcni-ujI8VhLkUW3UbtA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "359",
+                "parent": "355",
+                "text": "• Personas\nen PrEP:",
+                "guid": "GVtj-UqtxBoB2pAuU92HEg",
+                "children": [
+                  {
+                    "id": "360",
+                    "parent": "359",
+                    "text": "→ Dificultad por baja viremia y producción de anticuerpos",
+                    "guid": "O0WCPWNjrAhvOQ30CKV7sA",
+                    "children": []
+                  },
+                  {
+                    "id": "361",
+                    "parent": "359",
+                    "text": "→ Riesgo de resistencia por monoterapia",
+                    "guid": "Ml0PJzX7NjEFc-kFI6qMiQ",
+                    "children": []
+                  },
+                  {
+                    "id": "362",
+                    "parent": "359",
+                    "text": "→ Necesidad de más datos para enfoque óptimo (135-137)",
+                    "guid": "ECXzrEj7K-UvOYCHQn8NtA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "363",
+        "parent": "0",
+        "text": "Prevención\ndel VIH:",
+        "guid": "WpC_6zpDp7A7lQPqO5Ou_A",
+        "children": [
+          {
+            "id": "364",
+            "parent": "363",
+            "text": "Condones:",
+            "guid": "LtEbLGvqcvosd4pmN5LWAg",
+            "children": [
+              {
+                "id": "365",
+                "parent": "364",
+                "text": "• Intervención temprana contra el VIH",
+                "guid": "CYbI2wJ808lqHuF3cYccAA",
+                "children": []
+              },
+              {
+                "id": "366",
+                "parent": "364",
+                "text": "• Uso anual en países de ingresos bajos y medios: ~16 mil millones (135)",
+                "guid": "BiBmKh6XM7d-LQdyNALCyA",
+                "children": []
+              },
+              {
+                "id": "367",
+                "parent": "364",
+                "text": "• Eficacia:",
+                "guid": "dLYasyq3uUUiSoKOJxMp2g",
+                "children": [
+                  {
+                    "id": "368",
+                    "parent": "367",
+                    "text": "→ Transmisión heterosexual: ↓ 71%",
+                    "guid": "TkXARhOxwIYPd958Z6EkPw",
+                    "children": []
+                  },
+                  {
+                    "id": "369",
+                    "parent": "367",
+                    "text": "→ Transmisión anal en HSH: ↓ 70% (138,139)",
+                    "guid": "Xl-EoRFSbqo7fqtRGaUG3g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "370",
+                "parent": "364",
+                "text": "• Problemas de uso:",
+                "guid": "ZeGp5V_Pez1XHYiob2hywA",
+                "children": [
+                  {
+                    "id": "371",
+                    "parent": "370",
+                    "text": "→ Rotura y deslizamiento: 25-45% de usuarios (141)",
+                    "guid": "YLLvdie-a5RKvbZjcNjjIw",
+                    "children": []
+                  },
+                  {
+                    "id": "372",
+                    "parent": "370",
+                    "text": "• Impacto estimado: 117 millones de infecciones evitadas en 77 países (142)",
+                    "guid": "cLmXeXn3NuozV_DXH4qypQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "373",
+                "parent": "364",
+                "text": "• Condón femenino:",
+                "guid": "PTnFIFE5La1q0uI5Me_f0w",
+                "children": [
+                  {
+                    "id": "374",
+                    "parent": "373",
+                    "text": "→ 1.6% de distribución mundial",
+                    "guid": "YkxPBkE8ah9g747AaGy1MQ",
+                    "children": []
+                  },
+                  {
+                    "id": "375",
+                    "parent": "373",
+                    "text": "→ Eficacia similar al masculino (laboratorio)",
+                    "guid": "X9Od1l8cljMcb3f5LhleHA",
+                    "children": []
+                  },
+                  {
+                    "id": "376",
+                    "parent": "373",
+                    "text": "→ Barreras: aceptabilidad, funcionalidad, estética, acceso (144,145)",
+                    "guid": "cs5WuSvnVnYVuoJcUS3bWg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "377",
+            "parent": "363",
+            "text": "Circuncisión médica masculina\nvoluntaria (CMMV):",
+            "guid": "e_Dm8w0dZMdZAwmtXKPWaQ",
+            "children": [
+              {
+                "id": "378",
+                "parent": "377",
+                "text": "• Eficacia: ↓ 59% riesgo de infección en hombres heterosexuales (29)",
+                "guid": "NNvQWyPAwBFNfLmMJZVn1A",
+                "children": []
+              },
+              {
+                "id": "379",
+                "parent": "377",
+                "text": "• Mecanismo: eliminación de tejido del prepucio rico en células CD4+ (146)",
+                "guid": "Hbf2-wDUqmNFIBp6A5mg4A",
+                "children": []
+              },
+              {
+                "id": "380",
+                "parent": "377",
+                "text": "• Riesgo temprano: ↑ transmisión a parejas femeninas en primeros 6 meses (147,148)",
+                "guid": "YKQloRw9oyJzAhOhQvB0pw",
+                "children": []
+              },
+              {
+                "id": "381",
+                "parent": "377",
+                "text": "• HSH: ↓ 23% riesgo general, hasta 42% en países de ingresos bajos y medios (149)",
+                "guid": "XXoNQVPxomErXSnYPU2rFw",
+                "children": []
+              },
+              {
+                "id": "382",
+                "parent": "377",
+                "text": "• Beneficios adicionales:",
+                "guid": "X6Fm-nhsMCZJa-nZfVld9g",
+                "children": [
+                  {
+                    "id": "383",
+                    "parent": "382",
+                    "text": "→ ↓ ITS no-VIH en hombres circuncidados y sus parejas (150-152)",
+                    "guid": "Mw44lEfModJrZwkzJdyPTg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "384",
+                "parent": "377",
+                "text": "• Impacto:",
+                "guid": "eUDaiQ6MBFMA8v7WWeUAKg",
+                "children": [
+                  {
+                    "id": "385",
+                    "parent": "384",
+                    "text": "→ 23 millones de hombres circuncidados en 15 países africanos",
+                    "guid": "c7P4SAEhi493CmqoMO29aA",
+                    "children": []
+                  },
+                  {
+                    "id": "386",
+                    "parent": "384",
+                    "text": "→ ~250,000 nuevas infecciones evitadas",
+                    "guid": "Ulq5PWHdTOFi3Z08TkugMA",
+                    "children": []
+                  },
+                  {
+                    "id": "387",
+                    "parent": "384",
+                    "text": "→ Proyección: 1.5 millones de infecciones prevenidas para 2030 (153,154)",
+                    "guid": "bvqxqTvgpukq73aZI9aCBA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "388",
+            "parent": "363",
+            "text": "Reducción de daños:",
+            "guid": "Lkni7V0hEhdoHbLXPkkjaQ",
+            "children": [
+              {
+                "id": "389",
+                "parent": "388",
+                "text": "• Intervenciones efectivas:",
+                "guid": "KsmndXP1Encc1XTSCEO0tg",
+                "children": [
+                  {
+                    "id": "390",
+                    "parent": "389",
+                    "text": "→ Tratamiento de drogas (ej. terapia de sustitución con opioides)",
+                    "guid": "R-a02UgynqpFkV_NevTtbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "391",
+                    "parent": "389",
+                    "text": "→ Programas de agujas y jeringas (NSP)",
+                    "guid": "D_9AfDD4aQAg0Xy7A7M4xA",
+                    "children": []
+                  },
+                  {
+                    "id": "392",
+                    "parent": "389",
+                    "text": "→ Intervenciones psicosociales",
+                    "guid": "Mhn0kBfb52Q0oPYtBHStzQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "393",
+                "parent": "388",
+                "text": "• Cobertura limitada:",
+                "guid": "ebk0RRd-k2lSwE39aLPl7g",
+                "children": [
+                  {
+                    "id": "394",
+                    "parent": "393",
+                    "text": "→ NSP: 93/179 países",
+                    "guid": "U186Un2vxJYMimfzMwChTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "395",
+                    "parent": "393",
+                    "text": "→ Terapia de sustitución: 86/179 países",
+                    "guid": "dhv0vFX2UcwwWf9Db1zPRg",
+                    "children": []
+                  },
+                  {
+                    "id": "396",
+                    "parent": "393",
+                    "text": "→ <1% de usuarios de drogas inyectables con alta cobertura de ambas (156)",
+                    "guid": "ZIJWHzFM_hlJQc9wD0v9lA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "397",
+                "parent": "388",
+                "text": "• Desafíos: falta de evidencia en países de ingresos bajos y medios, bajo apoyo político (157)",
+                "guid": "JUIQkWYXREIXj7JKbSjFag",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "398",
+        "parent": "0",
+        "text": "Profilaxis pre-exposición\n(PrEP):",
+        "guid": "Dhl7FwjvL5NB_FwuQDNvpw",
+        "children": [
+          {
+            "id": "399",
+            "parent": "398",
+            "text": "a. PrEP oral diaria:",
+            "guid": "FRgwCA_CmR4Ue8FjCzQkxA",
+            "children": [
+              {
+                "id": "400",
+                "parent": "399",
+                "text": "• Eficacia: ↓ 70% riesgo con adherencia ≥80% (159)",
+                "guid": "IMsW93adUltEqB10GoRLPA",
+                "children": []
+              },
+              {
+                "id": "401",
+                "parent": "399",
+                "text": "• Protección: 86-92% con tenofovir detectable en plasma (160)",
+                "guid": "DhvlxBdoa3EDODErYXsgFg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "402",
+            "parent": "398",
+            "text": "b. PrEP dirigida por\neventos (ED-PrEP):",
+            "guid": "KeoHvXEW8OcIjZS7WDPqqg",
+            "children": [
+              {
+                "id": "403",
+                "parent": "402",
+                "text": "• Recomendada para HSH",
+                "guid": "Zbjq6kTVwKZ6kPQKSjtBCQ",
+                "children": []
+              },
+              {
+                "id": "404",
+                "parent": "402",
+                "text": "• Eficacia: ↓ 86-97% riesgo de infección (164)",
+                "guid": "diK-wEPSw3tZhz6dG2TPUQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "405",
+            "parent": "398",
+            "text": "c. Anillo vaginal de\ndapivirina (DVR):",
+            "guid": "Txa8nWEtCzE06dlZXTKiYQ",
+            "children": [
+              {
+                "id": "406",
+                "parent": "405",
+                "text": "• Eficacia: ↓ 30% riesgo vs. placebo (ensayos fase III) (165,166)",
+                "guid": "TjgC_nCrR5IWfQ4UXFF-FQ",
+                "children": []
+              },
+              {
+                "id": "407",
+                "parent": "405",
+                "text": "• ↓ 50% riesgo estimado en estudios de extensión abiertos (165,167)",
+                "guid": "eZp3JVh5akIchO29GmWOHA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "408",
+            "parent": "398",
+            "text": "d. Cabotegravir\ninyectable (CAB):",
+            "guid": "F_9EgRNyv3p32M-VDiIDQQ",
+            "children": [
+              {
+                "id": "409",
+                "parent": "408",
+                "text": "• Eficacia: ↓ 79% incidencia vs. TDF/FTC oral (169,170)",
+                "guid": "eJV2ozgiCoQ-rcJ3Da2mqw",
+                "children": []
+              },
+              {
+                "id": "410",
+                "parent": "408",
+                "text": "• Aprobado por FDA en diciembre 2021",
+                "guid": "R-SjolMpg9sY4ctvLZ2OjA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "411",
+        "parent": "0",
+        "text": "Profilaxis\npost-exposición (PEP):",
+        "guid": "V0WC9VFgDjIphtKSAS-Ksg",
+        "children": [
+          {
+            "id": "412",
+            "parent": "411",
+            "text": "• Uso: después de exposición de alto riesgo, preferiblemente en 72h",
+            "guid": "Qnb_GTIUZ01ZY3VdEK8CFw",
+            "children": []
+          },
+          {
+            "id": "413",
+            "parent": "411",
+            "text": "• Régimen: terapia triple basada en inhibidores de integrasa por 28 días (174)",
+            "guid": "Ir-u4G_gg3FtAIAsHFomBQ",
+            "children": []
+          },
+          {
+            "id": "414",
+            "parent": "411",
+            "text": "• Evidencia: estudios en animales y prevención de transmisión vertical (175-178)",
+            "guid": "SFntswmFbek2v7QiF3CqUA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "415",
+        "parent": "0",
+        "text": "Vacunas y anticuerpos\nmonoclonales:",
+        "guid": "",
+        "children": [
+          {
+            "id": "416",
+            "parent": "415",
+            "text": "• Desafíos: reservorio viral, diversidad genética, evasión inmune (180)",
+            "guid": "arJ5G2upjXt0o0yxY0fvvg",
+            "children": []
+          },
+          {
+            "id": "417",
+            "parent": "415",
+            "text": "• Ensayo RV144: única vacuna con protección demostrada (31% a 3.5 años) (181)",
+            "guid": "I8uX_zNRDyhw9ZZpa7A7oQ",
+            "children": []
+          },
+          {
+            "id": "418",
+            "parent": "415",
+            "text": "• Ensayos recientes sin éxito: HVTN 702, HVTN 705/HPX2008, HVTN 706/HPX3002",
+            "guid": "BnqTAwnXYdgZTcotHnnXhQ",
+            "children": []
+          },
+          {
+            "id": "419",
+            "parent": "415",
+            "text": "• En curso: PrEPVacc (fase IIB, resultados esperados en 2023)",
+            "guid": "HUohUhEmmcIsm9rGdI-kRw",
+            "children": []
+          },
+          {
+            "id": "420",
+            "parent": "415",
+            "text": "• Anticuerpos neutralizantes de\namplio espectro (bNAbs):",
+            "guid": "PwMnyCKtKVBHUOmMB10Vew",
+            "children": [
+              {
+                "id": "421",
+                "parent": "420",
+                "text": "→ VRC01: ↓ 75% adquisición de cepas sensibles (186)",
+                "guid": "Yoan9FYirVl1vy76JP2nDQ",
+                "children": []
+              },
+              {
+                "id": "422",
+                "parent": "420",
+                "text": "→ Desarrollo de bNAbs más potentes y de mayor duración en curso",
+                "guid": "CDcUpk8ipFc1rKkkKvbDhg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "423",
+        "parent": "0",
+        "text": "Manejo\ndel VIH:",
+        "guid": "MpChIUIeD6EItIqmS_igtw",
+        "children": [
+          {
+            "id": "424",
+            "parent": "423",
+            "text": "Evolución del\ninicio de TARV:",
+            "guid": "LDKXOn4Qna4ezb_LFuUQVQ",
+            "children": [
+              {
+                "id": "425",
+                "parent": "424",
+                "text": "• Pasado: retraso por preocupaciones sobre eficacia, resistencia y toxicidad (188)",
+                "guid": "aborKRNxDHx6LQATDYXDKA",
+                "children": []
+              },
+              {
+                "id": "426",
+                "parent": "424",
+                "text": "• Actualidad: inicio rápido tras diagnóstico (144)",
+                "guid": "RsIbpGsilnx5Nf7JTTyuqA",
+                "children": []
+              },
+              {
+                "id": "427",
+                "parent": "424",
+                "text": "• Evidencia: estudios Temprano ANRS 12136 y START (189-191)",
+                "guid": "dPn4VBKDyPZrtoYtEkQZpw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "428",
+            "parent": "423",
+            "text": "Clases de medicamentos\nantirretrovirales:",
+            "guid": "I6piuBhSYPMG073uBjEKrA",
+            "children": [
+              {
+                "id": "429",
+                "parent": "428",
+                "text": "• Inhibidores de entrada",
+                "guid": "bnUOTHyS7OgrLrG5dqwi8w",
+                "children": []
+              },
+              {
+                "id": "430",
+                "parent": "428",
+                "text": "• Inhibidores nucleósidos/nucleótidos de la transcriptasa inversa (INTI)",
+                "guid": "S7WRP2DbWt0houZ5Cri5Bw",
+                "children": []
+              },
+              {
+                "id": "431",
+                "parent": "428",
+                "text": "• Inhibidores no nucleósidos de la transcriptasa inversa (INNTI)",
+                "guid": "A4iELWjz0AUSFc6CL7sbZw",
+                "children": []
+              },
+              {
+                "id": "432",
+                "parent": "428",
+                "text": "• Inhibidores de la integrasa (INI)",
+                "guid": "ZwRtszDjjk1GoCu8UL6Y3A",
+                "children": []
+              },
+              {
+                "id": "433",
+                "parent": "428",
+                "text": "• Inhibidores de la proteasa (IP)",
+                "guid": "RFSayUDNK89eRFwECxa2bg",
+                "children": []
+              },
+              {
+                "id": "434",
+                "parent": "428",
+                "text": "• Inhibidores de la cápside",
+                "guid": "K-_CS1d6Ws1YU2UWIOm6oA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "435",
+            "parent": "423",
+            "text": "Regímenes de\nTARV inicial:",
+            "guid": "af4jw0QJ60MzLdRHDaiGew",
+            "children": [
+              {
+                "id": "436",
+                "parent": "435",
+                "text": "• Estándar: INI, IP o INNTI + 2 INTI (192-195)",
+                "guid": "XFxMNjoBkjUT2ZEnStFagw",
+                "children": []
+              },
+              {
+                "id": "437",
+                "parent": "435",
+                "text": "• Alternativa: regímenes de dos fármacos (casos seleccionados)",
+                "guid": "NpR_Hj8IQuBBfX12AkoQXQ",
+                "children": []
+              },
+              {
+                "id": "438",
+                "parent": "435",
+                "text": "• Primera línea: regímenes basados en INI",
+                "guid": "H-OdvWMgY-8NAsllI2wh6w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "439",
+        "parent": "0",
+        "text": "Consideraciones especiales:",
+        "guid": "TBQz9R8Yl-dTJz1SMxihqA",
+        "children": [
+          {
+            "id": "440",
+            "parent": "439",
+            "text": "• Enfermedad avanzada por VIH\n(CD4+ <200 células/mm3):",
+            "guid": "T_wmNRnHaQ8D1zqFFFDA_g",
+            "children": [
+              {
+                "id": "441",
+                "parent": "440",
+                "text": "→ Profilaxis contra infecciones oportunistas",
+                "guid": "WpSU3mIblokfZ3dsBoRXKg",
+                "children": []
+              },
+              {
+                "id": "442",
+                "parent": "440",
+                "text": "→ ↑ riesgo de síndrome inflamatorio de reconstitución inmune (IRIS)",
+                "guid": "OZXxV3e63IInbhHKI5QVGg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "443",
+            "parent": "439",
+            "text": "• Infecciones oportunistas específicas:\nretraso en inicio de TARV (196)",
+            "guid": "O8THxVqb5hExPJuWGCET_A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "444",
+        "parent": "0",
+        "text": "Adherencia y\nresistencia:",
+        "guid": "MTxV7Sv0Q8MX22Zie400Gw",
+        "children": [
+          {
+            "id": "445",
+            "parent": "444",
+            "text": "• Adherencia incompleta → replicación viral → resistencia",
+            "guid": "FJ14RkUWLL1i8m5_SzH3ZA",
+            "children": []
+          },
+          {
+            "id": "446",
+            "parent": "444",
+            "text": "• Fallo virológico: incapacidad de mantener supresión viral <200 copias/ml (192)",
+            "guid": "BB5vniRv6_VNfAfCJAINWw",
+            "children": []
+          },
+          {
+            "id": "447",
+            "parent": "444",
+            "text": "• Resistencia transmisible",
+            "guid": "B5BP5Fp-0SdHbi9GU6SD2Q",
+            "children": []
+          },
+          {
+            "id": "448",
+            "parent": "444",
+            "text": "Pruebas de\nresistencia:",
+            "guid": "dQakMTzj03pJ2f0CMMtr9g",
+            "children": [
+              {
+                "id": "449",
+                "parent": "448",
+                "text": "• Recomendadas: casos nuevos y fallo virológico",
+                "guid": "eZdpDhqVbJkGvSWCSZOPQw",
+                "children": []
+              },
+              {
+                "id": "450",
+                "parent": "448",
+                "text": "• No disponibles universalmente",
+                "guid": "NFzVqAqUYAdd5FBCDvFqhg",
+                "children": []
+              },
+              {
+                "id": "451",
+                "parent": "448",
+                "text": "• Consideraciones: historia de tratamiento previo",
+                "guid": "bK_2kH1Lx64VdcGwJkXn5w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "452",
+            "parent": "444",
+            "text": "Manejo de la\nresistencia:",
+            "guid": "F3-5i3sWmJhI7H_yLB0x0g",
+            "children": [
+              {
+                "id": "453",
+                "parent": "452",
+                "text": "• Nuevo régimen: ≥2 fármacos completamente activos",
+                "guid": "QCzFVSve7nF3Tyk2REs08w",
+                "children": []
+              },
+              {
+                "id": "454",
+                "parent": "452",
+                "text": "• Preferencia: fármacos con alta barrera genética (ej. DTG, DRV potenciado) (191)",
+                "guid": "UE7aZkTLMPhoTUJPV98qSw",
+                "children": []
+              },
+              {
+                "id": "455",
+                "parent": "452",
+                "text": "• Estudios NADIA y VISEND:",
+                "guid": "PNUzrUBZSrMNnx5dKYUqPg",
+                "children": [
+                  {
+                    "id": "456",
+                    "parent": "455",
+                    "text": "→ Cambio a régimen basado en DTG o DRV potenciado",
+                    "guid": "H0oCHy-7cZUrg64kGOFrLg",
+                    "children": []
+                  },
+                  {
+                    "id": "457",
+                    "parent": "455",
+                    "text": "→ Eficaz incluso con resistencia a INTI (198,199)",
+                    "guid": "SlDeLjJA06ZidPpxfq2z1g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "458",
+                "parent": "452",
+                "text": "• Multirresistencia:",
+                "guid": "FLunvyxjonwjlZ7lVOhtFQ",
+                "children": [
+                  {
+                    "id": "459",
+                    "parent": "458",
+                    "text": "→ Regímenes de rescate",
+                    "guid": "PaUSYiMU4A1PyxIlMqu2kw",
+                    "children": []
+                  },
+                  {
+                    "id": "460",
+                    "parent": "458",
+                    "text": "→ Inclusión de fármacos con mecanismo de acción diferente (200-202)",
+                    "guid": "X_iziBmlDydjdyKJd3htEw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "461",
+        "parent": "0",
+        "text": "Consideraciones\na largo plazo:",
+        "guid": "",
+        "children": [
+          {
+            "id": "462",
+            "parent": "461",
+            "text": "• TARV de por vida",
+            "guid": "WEKQ7RrkyBwZM6IIKJFrVA",
+            "children": []
+          },
+          {
+            "id": "463",
+            "parent": "461",
+            "text": "• Factores a considerar:",
+            "guid": "X6_5FAGA5FcAcJWffvn7NA",
+            "children": [
+              {
+                "id": "464",
+                "parent": "463",
+                "text": "→ Preferencias del paciente",
+                "guid": "XjUXanpQYNN6OufyGwpLFw",
+                "children": []
+              },
+              {
+                "id": "465",
+                "parent": "463",
+                "text": "→ Comorbilidades médicas",
+                "guid": "OqmrhwfaBk9Ej3VVeE696Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "466",
+            "parent": "461",
+            "text": "• Interacciones farmacológicas: ritonavir y cobicistat (203)",
+            "guid": "Ku7mXBRah3sq-nR8CueZ5A",
+            "children": []
+          },
+          {
+            "id": "467",
+            "parent": "461",
+            "text": "• Regímenes de una sola tableta diaria: ↑ adherencia y supresión virológica (204)",
+            "guid": "Lf-Wog5xlwUCYAb4Qrs-Yg",
+            "children": []
+          },
+          {
+            "id": "468",
+            "parent": "461",
+            "text": "• TARV de acción\nprolongada:",
+            "guid": "Mlgx1zwZy2IfhGJCY5SHxA",
+            "children": [
+              {
+                "id": "469",
+                "parent": "468",
+                "text": "→ Opción para dificultades con régimen oral",
+                "guid": "OtU5gSX1pd0Xo6t3ExfKbw",
+                "children": []
+              },
+              {
+                "id": "470",
+                "parent": "468",
+                "text": "→ Ej: cabotegravir + rilpivirina (205,206)",
+                "guid": "QNpt-TDXTX87qTXDIIpnDg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "471",
+            "parent": "461",
+            "text": "• Situaciones\nclínicas específicas:",
+            "guid": "YTaqICXc5vxkqJLnDCWQfQ",
+            "children": [
+              {
+                "id": "472",
+                "parent": "471",
+                "text": "→ Coinfección VHB: régimen con tenofovir (207)",
+                "guid": "aA4PJTdfyKRfIbvfRkMmjw",
+                "children": []
+              },
+              {
+                "id": "473",
+                "parent": "471",
+                "text": "→ Embarazo: consideraciones de\nseguridad y eficacia (208-212)",
+                "guid": "MbApd1lco9FhTXGnbFnU_g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 474,
+  "relations": [],
+  "cross_references": [
+    {
+      "from_node": "48",
+      "reference": "SIV"
+    }
+  ],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "VIH-2025-1",
+  "id": "map_1349",
+  "resolved_references": []
+}

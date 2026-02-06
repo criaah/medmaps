@@ -1,0 +1,85 @@
+{
+  "title": "STEP (2021)",
+  "guid": "STEP-2021-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Cardiología/STEP-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "STEP (2021)\nStrategy of Blood Pressure\nIntervention in the Elderly\nHypertensive Patients\n\\n⭐ PAS menor 130 mmHg reduce\\neventos CV 26% vs menor 150\\nen ancianos chinos 60-80 años",
+    "guid": "STEP-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Zhang W et al.\nAño: 2021\nRevista: NEJM\nDOI: 10.1056/NEJMoa2111437\n\\nDiseño: RCT abierto\\nMulticéntrico: China (42 sitios)\\nn = 8,511 pacientes\\nSeguimiento: mediana 3.34 años",
+        "guid": "STEP-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Zhang W et al. NEJM 2021\\n   DOI: 10.1056/NEJMoa2111437\\n\\n2. SPRINT Trial. NEJM 2015\\n   Control intensivo USA\\n\\n3. HYVET Trial. NEJM 2008\\n   HTA mayor 80 años",
+            "guid": "STEP-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusión:\\n• Edad 60-80 años\\n• HTA (PAS 140-190 mmHg)\\n• Con o sin tratamiento previo\\n\\nCriterios Exclusión:\\n• ACV previo\\n• ICC sintomática\\n• ERC avanzada (ClCr menor 45)\\n• Expectativa vida menor 5 años\\n\\nCaracterísticas:\\n• Edad media: 66 años\\n• 47% mujeres\\n• PAS basal: 146 mmHg",
+        "guid": "STEP-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Intensivo:\\n• Meta PAS 110-130 mmHg\\n• PAS lograda: 127 mmHg\\n\\nGrupo Estándar:\\n• Meta PAS 130-150 mmHg\\n• PAS lograda: 136 mmHg\\n\\nDiferencia lograda: 9 mmHg\\n\\nFármacos usados:\\n• Olmesartán, amlodipino\\n• Indapamida\\n• Titulación según protocolo",
+        "guid": "STEP-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nEventos CV compuestos (1rio):\\n• Intensivo: 3.5%\\n• Estándar: 4.6%\\n• HR 0.74 (IC95% 0.60-0.92)\\n• p = 0.007 ✓\\n• RRR: 26%\n\\nACV:\\n• HR 0.67 (p = 0.03) ✓\n\\nSCA:\\n• HR 0.67 (p = 0.08, NS)\n\\nMortalidad CV:\\n• Sin diferencia significativa\n\\nNNT 3.3 años: ~100",
+        "guid": "STEP-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nHipotensión sintomática:\\n• Intensivo: 3.4%\\n• Estándar: 2.6%\\n• Diferencia pequeña\\n\\nMareos:\\n• Ligeramente mayor intensivo\\n\\nInjuria renal aguda:\\n• Sin diferencia\\n\\nCaídas con lesión:\\n• Sin diferencia significativa\\n\\nMensaje clave:\\n• PAS menor 130 es SEGURO\\n  en ancianos 60-80 años\\n• Sin exceso de eventos adversos",
+        "guid": "STEP-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT grande (n mayor 8500)\\n✓ Población asiática (diversidad)\\n✓ Outcomes duros (CV)\\n✓ Complementa SPRINT\\n\\nLimitaciones:\\n• Abierto (no ciego)\\n• Solo población china\\n• Excluye ACV previo\\n• Excluye muy ancianos (mayor 80)\\n\\nComplementa:\\n• SPRINT (USA, menor 75 años)\\n• HYVET (mayor 80 años)",
+        "guid": "STEP-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐ Muy aplicable 60-80 años\n\\nMensaje clave:\\n• PAS menor 130 es beneficioso\\n  Y seguro en ancianos 60-80\\n\\nPoblación ideal:\\n• Ancianos jóvenes (60-80)\\n• Sin ACV previo\\n• Función renal aceptable\\n\\nPrecaución:\\n• Mayor 80 años: HYVET\\n• Frágiles: individualizar\\n• Monitorear hipotensión\\n\\nAplicación:\\n• Confirma SPRINT en asiáticos\\n• Extiende evidencia global",
+        "guid": "STEP-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. PAS menor 130 reduce ACV 33%:\n   beneficio claro en ancianos\n\\n2. Población asiática confirma SPRINT:\n   evidencia global consistente\n\\n3. 60-80 años = tratamiento intensivo OK:\n   no evitar por edad\n\\n4. Hipotensión manejable:\n   sin exceso eventos graves\n\\n5. Excluye mayor 80 años:\n   usar HYVET para ellos\n\\n6. NNT ~100 en 3 años:\n   costo-efectivo\n\\n7. Sin beneficio mortalidad:\n   como SPRINT\n\\n8. Olmesartán + amlodipino:\n   combinación efectiva",
+        "guid": "STEP-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Cardiología",
+  "filename": "STEP-2026",
+  "id": "map_1161",
+  "resolved_references": []
+}

@@ -1,0 +1,478 @@
+{
+  "title": "Migraña",
+  "guid": "33A03F3564D764CC2FC6F62E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Wiki. Migraña-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Migraña",
+    "guid": "NLalujZ1np1uSxlnclRvuA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Cefalea primaria",
+            "guid": "bUztVBQFYQBxOU4eUHcxtw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Motivo de consulta frecuente",
+            "guid": "DlK_QQZy02Meoye9a528fw",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "Importancia en salud pública: Alta morbilidad e impacto económico",
+            "guid": "P8IZ7BhmLHw9jjgoCDMS1A",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "Prevalencia: 15%",
+            "guid": "W_J1jTsUricZtRHFLYZ62Q",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "Discapacidad: Mayor discapacidad respecto a otros trastornos neurológicos",
+            "guid": "FC3JhVMijH4fAc0jZ4OLkg",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "Inicio: Pubertad, principalmente entre 35-45 años",
+            "guid": "IR4ZuWfz4sZ7o89ncrfuqw",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "Frecuencia: Más frecuente en mujeres (2:1)",
+            "guid": "G5Qh-2B7NDMifuTZUErHtg",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "Migraña sin aura: 75% del total de casos",
+            "guid": "FvDS0BDJ_kBCnzduBD3AJA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "Clasificación\n(ICHD-3)",
+        "guid": "JM9fQTPYhYxUtPHbMyIegg",
+        "children": [
+          {
+            "id": "11",
+            "parent": "10",
+            "text": "Migraña episódica\nsin aura",
+            "guid": "OktY73NYGZgev9sBeg1y2w",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "Criterios\ndiagnósticos:",
+                "guid": "C75GFFxOEykCQIWvZ7C7oQ",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "A. Al menos 5 ataques que cumplan criterios B-D",
+                    "guid": "F2LBURv1l3QVNzZ6K5CK1g",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "B. Ataques de 4-72 h (con o sin tratamiento)",
+                    "guid": "bxgj8jQ5A50TFBZoEDY9qw",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "12",
+                    "text": "C. Al menos 2 de: Unilateral, pulsátil, intensidad moderada-severa, ↑ con actividad física",
+                    "guid": "HCzmZA635c8C7ixXN8EIXw",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "12",
+                    "text": "D. Durante el episodio, al menos 1 de: Náuseas y/o vómitos, fotofobia y fonofobia",
+                    "guid": "bzMaAiVtETAIC9AVBiPs0g",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "12",
+                    "text": "E. No se explica por otro diagnóstico",
+                    "guid": "NjcPcUqrB4MKYaz2WwZusg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "10",
+            "text": "Migraña episódica\ncon aura",
+            "guid": "foOND18WntEOKI00OM7l_w",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "Criterios\ndiagnósticos:",
+                "guid": "Um64aSzoaDYy3FjaXiz-fg",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "A. Al menos 2 ataques que cumplan criterios B y C",
+                    "guid": "CTZ7XzUc3opF3bofIJk8sA",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "19",
+                    "text": "B. ≥1 síntomas de aura completamente reversibles: visual,\nsensorial, habla y/o lenguaje, motor, tronco encefálico*, de retina**",
+                    "guid": "URJ1_lsU8JpMKceGQCqZ8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "19",
+                    "text": "C. ≥3 de: ≥1 síntoma se propaga gradualmente en ≥5 min, ≥2 síntomas en sucesión, cada síntoma dura 5-60 min,\n≥1 síntoma unilateral, ≥1 síntoma positivo***, aura acompañada o seguida de cefalea antes de 60 min",
+                    "guid": "D030N1893e9QYNecK3ramw",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "19",
+                    "text": "D. No se explica por otro diagnóstico",
+                    "guid": "bfXDvlNPA_NjO-L7XSjdwQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "10",
+            "text": "* Tronco encefálico: Disartria, vértigo, tinnitus, hipoacusia, diplopía, ataxia",
+            "guid": "NfK6lG2ud4oJ-ZNHNHZHow",
+            "children": []
+          },
+          {
+            "id": "25",
+            "parent": "10",
+            "text": "** Retina: Visión monocular, centelleos, escotomas, amaurosis transitoria",
+            "guid": "TMUWWxgiIHttRS2iHzPOxQ",
+            "children": []
+          },
+          {
+            "id": "26",
+            "parent": "10",
+            "text": "*** Positivos: Miodesopsias, parestesias. Negativos: Escotoma, hipoalgesia",
+            "guid": "RQqIsSAhhn19YM1DTkEEEQ",
+            "children": []
+          },
+          {
+            "id": "27",
+            "parent": "10",
+            "text": "Migraña\ncrónica",
+            "guid": "VT5lB0M-h2Ju2kDBJlDbBQ",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "Cefalea ≥15 días/mes, ≥3 meses, ≥8 días/mes con características de migraña.\nConsiderar: Divalproato de sodio, toxina botulínica",
+                "guid": "HlN3_DsECEhme3T2LaFsNA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "29",
+        "parent": "0",
+        "text": "Diagnóstico",
+        "guid": "GkHmNzbcTJNZHEbPCDep9Q",
+        "children": [
+          {
+            "id": "30",
+            "parent": "29",
+            "text": "Clínico: Historia clínica compatible, examen físico normal, criterios diagnósticos",
+            "guid": "CitQhjxYKcplYIe2Audlqg",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "29",
+            "text": "Neuroimágenes: Sospecha de cefalea secundaria, hallazgos en examen físico, banderas rojas (Ej. inicio >50 años)",
+            "guid": "J5_c20itUkox2oo_XZKXbw",
+            "children": []
+          },
+          {
+            "id": "32",
+            "parent": "29",
+            "text": "Complicaciones: Status migrañoso, infarto migrañoso, cefalea por sobreuso de medicamentos",
+            "guid": "NlvJ1DvUHYYSCN8SAyDgLw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "parent": "0",
+        "text": "Fisiopatología",
+        "guid": "U_Y-An9ODLUiVK70GQDGsw",
+        "children": [
+          {
+            "id": "34",
+            "parent": "33",
+            "text": "Depresión de propagación cortical de Leão: Onda de despolarización neuronal → activación de neuronas sensoriales del trigémino\n→ cambios inflamatorios neurogénicos (sustancia P, neuroquinina A, CGRP)",
+            "guid": "H2-TMh-1fDdnQcrEdK34OQ",
+            "children": []
+          },
+          {
+            "id": "35",
+            "parent": "33",
+            "text": "Sensibilización: ↓ umbral de respuesta, ↑ magnitud de respuesta",
+            "guid": "YvQDmlYcC4Ya_tM-AUd7lg",
+            "children": []
+          },
+          {
+            "id": "36",
+            "parent": "33",
+            "text": "Asociación genética: 40-50% de susceptibilidad",
+            "guid": "ESATzgF6SDUu6OfKK2H6BQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "37",
+        "parent": "0",
+        "text": "Complicaciones\nde la Migraña",
+        "guid": "OFaUyAgFLpozmaP6QoHlTg",
+        "children": [
+          {
+            "id": "38",
+            "parent": "37",
+            "text": "Estado migrañoso: >72 h",
+            "guid": "RF1YZBj6K7FFaUr5a_01Pw",
+            "children": []
+          },
+          {
+            "id": "39",
+            "parent": "37",
+            "text": "Aura persistente sin infarto: Síntomas de aura ≥ 1 semana, sin imagen de infarto",
+            "guid": "Yad9-3dD1ThJj8yuGANHzw",
+            "children": []
+          },
+          {
+            "id": "40",
+            "parent": "37",
+            "text": "Infarto migrañoso: Síntomas horas + neuroimagen con infarto cerebral",
+            "guid": "Mxfyv1uYq8EbJCf-Bw4wwQ",
+            "children": []
+          },
+          {
+            "id": "41",
+            "parent": "37",
+            "text": "Convulsión por aura de migraña: Raro",
+            "guid": "Wua4dj141vMgDvd0elZLqA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "42",
+        "parent": "0",
+        "text": "Tratamiento",
+        "guid": "XS5TKgdQwjlvBEPhQCJWxA",
+        "children": [
+          {
+            "id": "43",
+            "parent": "42",
+            "text": "Individualizado: Necesidades, experiencias previas, síntomas asociados (náuseas, vómitos), tiempo en alcanzar máximo dolor, respuesta previa",
+            "guid": "XWzNvwoDFx9BadJbbozhjQ",
+            "children": []
+          },
+          {
+            "id": "44",
+            "parent": "42",
+            "text": "Educación: Pilar fundamental, uso correcto de medicación, evitar sobreuso, posibles efectos adversos",
+            "guid": "C31fVHBSuiUZ7tuSQ9P0HA",
+            "children": []
+          },
+          {
+            "id": "45",
+            "parent": "42",
+            "text": "Inicio precoz: ↑ eficacia del tratamiento, dosis correcta",
+            "guid": "eFfov02If4wGVdlrPLVBJA",
+            "children": []
+          },
+          {
+            "id": "46",
+            "parent": "42",
+            "text": "No farmacológico",
+            "guid": "ZoKrPUu_JGQosnZjSCopOA",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "Bloqueo de nervios periféricos: Nervios supratrocleares y supraorbitarios, baja evidencia",
+                "guid": "QwL5nHJCQxJgLXEHdhrsWw",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "46",
+                "text": "Neuroestimulación: Estimulación transcutánea del nervio supraorbitario",
+                "guid": "Tdru03tRmQZ9KR0cKMGnSQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "parent": "42",
+            "text": "Farmacológico",
+            "guid": "OMpv-R04FJEjF_LxFfjDIw",
+            "children": [
+              {
+                "id": "50",
+                "parent": "49",
+                "text": "Primera línea: AINES (ibuprofeno, diclofenaco, ketorolaco), paracetamol (si contraindicación a AINES), antieméticos (metoclopramida)",
+                "guid": "JIjWyhIcNtJWGxnoAfWkiQ",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "49",
+                "text": "Segunda línea: Triptanes (si falla 1ra línea), se puede asociar AINEs. Si no hay respuesta, cambiar triptan o escalar a 3ra línea (gepants, inhibidores CGRP)",
+                "guid": "HB9N8ReE7ENwgoYWJ5ytRg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "Terapia\nPreventiva",
+        "guid": "B9emaApxYahrcKFiAC-PKA",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "Objetivo: ↓ frecuencia e intensidad de ataques (≥50% de ↓ de crisis mensuales)",
+            "guid": "V_nhNHHGes085NBMPnyMcg",
+            "children": []
+          },
+          {
+            "id": "54",
+            "parent": "52",
+            "text": "Modificaciones del estilo de vida: Horario de sueño regular, ejercicio, ↓ estrés, ↑ consumo de agua",
+            "guid": "PYWfMWWXRq8GprWqAIiYzg",
+            "children": []
+          },
+          {
+            "id": "55",
+            "parent": "52",
+            "text": "Indicaciones:",
+            "guid": "V9mJwWbUJrJ2o4UpJbR4lA",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "≥3 días de cefalea moderada-intensa/mes que no responde a tto agudo",
+                "guid": "YiW_uHPMokZOdh_dGvAvsQ",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "55",
+                "text": "≥6-8 días con cefalea/mes (incluso si tto agudo es efectivo)",
+                "guid": "EQS213GOEs4w6PLUNY2NoQ",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "55",
+                "text": "Contraindicaciones para tto agudo",
+                "guid": "A6pJoAcEDLw3gzIqH8mXkg",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "55",
+                "text": "Síntomas molestos infrecuentes (Ej. Migraña con aura del tronco encefálico, migraña hemipléjica)",
+                "guid": "Hoj4_ygFuEBHZkTYJmCfaA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "52",
+            "text": "Fármacos: Betabloqueadores (atenolol, bisoprolol, metoprolol, propranolol),\nterapias conductuales, acupuntura (evidencia limitada)",
+            "guid": "MncZ6DLW5jomkC6QCnD7HA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "61",
+        "parent": "0",
+        "text": "Embarazo",
+        "guid": "JJ1hCGN0_txI7YeOYiMAOQ",
+        "children": [
+          {
+            "id": "62",
+            "parent": "61",
+            "text": "Agudo: Paracetamol, metoclopramida (antiemético y analgésico)",
+            "guid": "SQxFi0-UPTliq5kHIOXPTQ",
+            "children": []
+          },
+          {
+            "id": "63",
+            "parent": "61",
+            "text": "Preventivo: Evitar por potencial daño fetal. Considerar anestésicos locales\n(riesgo de paso a sangre y complicaciones fetales)",
+            "guid": "Nmhj61lPHjFGmkfhGI4jow",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 64,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Wiki. Migraña-2025",
+  "id": "map_1621",
+  "resolved_references": []
+}

@@ -1,0 +1,1340 @@
+{
+  "title": "Infecciones del SNC",
+  "guid": "2A40090C028F027715570715",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/MKSAP 18. Infecciones del SNC-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Infecciones del SNC",
+    "guid": "RGtcd1McOaFviziOU15c0Q",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "### Meningitis",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Meningitis\nviral",
+            "guid": "Y5EmAiG92Rs5r2dZKYK1qw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Causa más común: enterovirus",
+                "guid": "aENExkDfc_Btx-y-ReEZig",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Presentación típica: entre mayo y noviembre en hemisferio norte occidental",
+                "guid": "b2OFexyRRP0kIcPIOmPDfw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- Síntomas: cefalea, fiebre, rigidez de nuca, fotofobia, náuseas, vómitos, mialgias, faringitis, exantema maculopapular, tos",
+                "guid": "KoWAaWLEVQFzkS6qFAhbxg",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "- Diagnóstico: PCR para enterovirus",
+                "guid": "DQReDnYgMSEpX2LbUW-6hQ",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "- Tratamiento: medidas de apoyo",
+                "guid": "STxqwxjqm2kkzhdWGOgNiQ",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "2",
+                "text": "- Agentes causales:",
+                "guid": "C4RDxD-8e8tLFWWCKBrlNQ",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "- Herpesvirus: pueden causar\nmeningitis durante todo el año",
+                    "guid": "cH3c1jGcPj8Qy0laVA8C2A",
+                    "children": [
+                      {
+                        "id": "10",
+                        "parent": "9",
+                        "text": "- VHS tipo 2: más frecuente, puede recurrir",
+                        "guid": "U1oXWkp6sLN9kbiDO51cIQ",
+                        "children": []
+                      },
+                      {
+                        "id": "11",
+                        "parent": "9",
+                        "text": "- VVZ (virus varicela-zóster)",
+                        "guid": "C1oko2tZpUIBfnWrer2qHg",
+                        "children": []
+                      },
+                      {
+                        "id": "12",
+                        "parent": "9",
+                        "text": "- Virus de Epstein-Barr",
+                        "guid": "B-rqPyWgOXQ1IW2dMnBqqA",
+                        "children": []
+                      },
+                      {
+                        "id": "13",
+                        "parent": "9",
+                        "text": "- Herpesvirus humano 6",
+                        "guid": "CGSOdSiynEhGeMZuFWjsgw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "14",
+                    "parent": "8",
+                    "text": "- Hallazgos en LCR: similares a meningitis enteroviral",
+                    "guid": "HtLNaW_YKUlm2KcIaA84LA",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "8",
+                    "text": "- Evolución VHS-2: favorable sin terapia con aciclovir",
+                    "guid": "CMLEsgumvl8A90W1FEcIdw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "- Meningitis\nbacteriana",
+            "guid": "S2M6KkwMqzc8Ye2sO-EXAA",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "- Signos meníngeos agudos + alteración del estado mental",
+                "guid": "fajpdk0tNwYP8BnZUQMA0Q",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "- Incidencia disminuida por vacunas contra H. influenzae y N. meningitidis",
+                "guid": "F6fnuQ2B0lwMoFzyIwIMXA",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "- Agentes\nprincipales:",
+                "guid": "eNt3ng4e0p0dv7Z6AMZh3g",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "- S. pneumoniae: causa más frecuente en comunidad",
+                    "guid": "M78MEVLhJBczNsyGPCOahw",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "19",
+                    "text": "- N. meningitidis: 40% de infecciones en EEUU",
+                    "guid": "e5PAX3mvkvVRjIcKGmaNyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "19",
+                    "text": "- Listeria monocytogenes: mayor riesgo en ancianos/inmunocomprometidos",
+                    "guid": "aYe8PjhlLhMCdcX1ckqA8Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23",
+                "parent": "16",
+                "text": "- Diagnóstico:",
+                "guid": "RAvscgNtC6sGkYloD28mnA",
+                "children": [
+                  {
+                    "id": "24",
+                    "parent": "23",
+                    "text": "- Tinción de Gram del LCR: positiva en 60-90%",
+                    "guid": "T3m24kLzdxRLUD2cTSKgWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "23",
+                    "text": "- No se recomiendan pruebas de aglutinación con látex (baja sensibilidad)",
+                    "guid": "ECCuGltAV3UeJaEqJ8iV0w",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "23",
+                    "text": "- PCR: alta sensibilidad (100%) y especificidad (98%)",
+                    "guid": "aMIp0irF_hxKyqIvYZ2hcA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "27",
+                "parent": "16",
+                "text": "- Manejo:",
+                "guid": "OOTQuWiKWKliZANObKPcyw",
+                "children": [
+                  {
+                    "id": "28",
+                    "parent": "27",
+                    "text": "- Tratamiento antibiótico empírico inmediato",
+                    "guid": "O2t8wBWaz9Uox3dSNv89IA",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "27",
+                    "text": "- Selección basada en edad, patrones epidemiológicos y resistencia local",
+                    "guid": "D0piynpT_lxRZcrpeNIfCA",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "27",
+                    "text": "- Dexametasona adyuvante: reduce mortalidad y secuelas neurológicas",
+                    "guid": "Mrksb1PbkN5rHJ_5dsUY4Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "parent": "0",
+        "text": "- Meningitis\nsubaguda y crónica",
+        "guid": "V0iciXGuKWEGND99JsJTbA",
+        "children": [
+          {
+            "id": "32",
+            "parent": "31",
+            "text": "- Duración: 5-30 días (subaguda), >30 días (crónica)",
+            "guid": "NKGgdVGEfRpz5PPFRMJOjw",
+            "children": []
+          },
+          {
+            "id": "33",
+            "parent": "31",
+            "text": "- Causas comunes: Mycobacterium tuberculosis y hongos",
+            "guid": "LMTUjxIKlO9siuRiFYb-YQ",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "31",
+            "text": "- Meningitis\ntuberculosa",
+            "guid": "PNCTCzdVhpF3JJ_SdbVjxA",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "- Presentación: meningitis basilar, neuropatías craneales, alteraciones mentales",
+                "guid": "H9_fOlmIoyBiWUCPW0tb-w",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "34",
+                "text": "- Hallazgos: síndrome de secreción inapropiada de hormona antidiurética",
+                "guid": "byNy9Qsgt-ESSpkbfm3Vvw",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "34",
+                "text": "- Diagnóstico: antecedente de exposición, prueba cutánea tuberculina positiva",
+                "guid": "BXS2PmOwZAR3P_TIOC3irQ",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "34",
+                "text": "- LCR: pleocitosis linfocítica, nivel elevado de proteínas, hipoglucorraquia",
+                "guid": "N4v04mJclMEu8vuPDtSRbA",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "34",
+                "text": "- Tratamiento: terapia antituberculosa (1 año) + glucocorticoides adyuvantes",
+                "guid": "VAq-IzUnOww1luTYCKxemA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "parent": "31",
+            "text": "- Meningitis\nfúngica",
+            "guid": "Bqu4Jil72J1Nbq0oM3CMtg",
+            "children": [
+              {
+                "id": "41",
+                "parent": "40",
+                "text": "- Patógenos: Cryptococcus neoformans, Coccidioides immitis, Histoplasma capsulatum",
+                "guid": "O4ZtjDn5kYpI94sXeFcAlw",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "40",
+                "text": "- Más común en inmunocomprometidos",
+                "guid": "cU8YHEAcKuluDGRbES73Vg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "31",
+            "text": "- Neurobruscelosis",
+            "guid": "GaTOClBlpOtselNRCMhA_w",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "- Afecta 4-11% de pacientes con brucelosis",
+                "guid": "W4ZczH7E7GwHNha_YPsTCg",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "- Endémica: Mediterráneo, Oriente Medio, América Central",
+                "guid": "YnVQcH52C4cZKPW4GgFFUw",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "43",
+                "text": "- Tratamiento: antimicrobianos (rifampicina, doxiciclina) mínimo 6 meses",
+                "guid": "YNKgSEgb8Uco1da_NN1eaw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "31",
+            "text": "- Meningitis\nparasitaria",
+            "guid": "fUMsU15su5c9ib0EA-7keg",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "- Meningoencefalitis amebiana primaria: Naegleria, Balamuthia, Acanthamoeba",
+                "guid": "B-iUNAr4aiw3X3EwQ28BwA",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "- Exposición a ambientes de agua dulce: indicio histórico clave",
+                "guid": "RPH7tgBW_Ec7xgJXNkET0g",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "47",
+                "text": "- Tratamiento: miltefosina",
+                "guid": "QHMnMSnSZrJHcAspWhf1Ow",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "51",
+            "parent": "31",
+            "text": "- Causas no infecciosas\nde meningitis",
+            "guid": "ejgLnTPqXnpi4DY6Vb5oag",
+            "children": [
+              {
+                "id": "52",
+                "parent": "51",
+                "text": "- Medicamentos: antiinflamatorios, antibióticos, inmunoglobulina",
+                "guid": "Mq9K52oWTPk2uXt0FSSbVw",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "51",
+                "text": "- Otras: carcinoma meníngeo, lupus eritematoso sistémico, enfermedad de Behçet",
+                "guid": "aIxYgE_icSwvJeCqSV74yQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "parent": "0",
+        "text": "### Meningitis y ventriculitis\nasociadas a atención sanitaria",
+        "guid": "",
+        "children": [
+          {
+            "id": "55",
+            "parent": "54",
+            "text": "- Causas habituales: Staphylococcus spp. y bacterias gramnegativas",
+            "guid": "F_5ic1f7t2l-PFc0FUGOxw",
+            "children": []
+          },
+          {
+            "id": "56",
+            "parent": "54",
+            "text": "- Factores de riesgo: traumatismo craneoencefálico, procedimientos neuroquirúrgicos",
+            "guid": "NmhzADvGFDgZMHNBPlEHNA",
+            "children": []
+          },
+          {
+            "id": "57",
+            "parent": "54",
+            "text": "- Diagnóstico: análisis de β-D-glucano y galactomanano en LCR",
+            "guid": "Rr5-ZFCP5HEBwAj0C7B6Gw",
+            "children": []
+          },
+          {
+            "id": "58",
+            "parent": "54",
+            "text": "- Tratamiento: antimicrobiano empírico + retirada del dispositivo implantado",
+            "guid": "UObguD2GC0tB8Y3tEVoH6Q",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "59",
+        "parent": "0",
+        "text": "## Infecciones focales del\nsistema nervioso central",
+        "guid": "",
+        "children": [
+          {
+            "id": "60",
+            "parent": "59",
+            "text": "### Abscesos\ncerebrales",
+            "guid": "Z1hx_glhmRZrcf0kYZB9mw",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "- Afectan principalmente a inmunocomprometidos/inmunodeprimidos",
+                "guid": "PUv3kU5SM183TuYFb_tCeA",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "60",
+                "text": "- Predominio en varones",
+                "guid": "OGiAWG4IYXoFH93PIPTY2Q",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "- Procesos\npredisponentes\nprincipales:",
+                "guid": "QEEEWDi2w3w3LAQ1J5l2Vg",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "- Focos contiguos (sinusitis, otitis): ~50%",
+                    "guid": "PerSpjRFvnpqU9GiVek1Gg",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "- Hematógeno (endocarditis): 25%",
+                    "guid": "DEF142iQKNZrKsPhQqno5A",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "- Criptogénico (probablemente odontógeno): 15%",
+                    "guid": "JFY9DwRbNyIA-vAYaxS7cw",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "63",
+                    "text": "- Neurocirugía/traumatismo: 10%",
+                    "guid": "VOsbkwK6-Q12xTWOJdH8Sw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68",
+                "parent": "60",
+                "text": "- Patógenos: estreptococos anaerobios/aerobios, microaerófilos, Enterobacteriaceae",
+                "guid": "QhhckiKeAVkJKfPyf2RUIw",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "60",
+                "text": "- Tratamiento: determinado por proceso predisponente más probable",
+                "guid": "cPA0uEB42fdvX5abKVi1EQ",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "60",
+                "text": "- Aspiración quirúrgica indicada para abscesos grandes (>2,5 cm)",
+                "guid": "LoE7cXR_dGtKTY3qbGwOGA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "60",
+                "text": "- Duración antibiótica: mínimo 4-6 semanas",
+                "guid": "KMUy5TShX4xCVUMyNQaoyA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "72",
+            "parent": "59",
+            "text": "### Abscesos\nepidurales espinales",
+            "guid": "HTGIYi2ABxN3sJGsQYfFcQ",
+            "children": [
+              {
+                "id": "73",
+                "parent": "72",
+                "text": "- Causa principal: diseminación hematógena",
+                "guid": "Mds-NXirgcUsnIDlBsZZyA",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "72",
+                "text": "- Patógenos principales: S. aureus (50%), estreptococos, gramnegativos",
+                "guid": "e2Z60iNhtnMsmFYTO6d_Kg",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "72",
+                "text": "- Factores predisponentes: endocarditis, drogas IV, catéteres a largo plazo",
+                "guid": "XBh572PEWkhjQPWBHjDWgg",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "72",
+                "text": "- Síntomas: dolor localizado que se irradia",
+                "guid": "BmJbomxq6XMdlSqld1KQWg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "72",
+                "text": "- Diagnóstico: resonancia magnética (modalidad de elección)",
+                "guid": "LOPDagz0wUEgq0VrW2T-3A",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "72",
+                "text": "- Manejo: obtener cultivos sanguíneos antes de iniciar antibióticos",
+                "guid": "AXQ1rGr401VH0Qz0KjlokQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "## Encefalitis",
+        "guid": "",
+        "children": [
+          {
+            "id": "80",
+            "parent": "79",
+            "text": "- Inflamación del parénquima cerebral",
+            "guid": "H5oy4QomUCZfQBFZPMu7RA",
+            "children": []
+          },
+          {
+            "id": "81",
+            "parent": "79",
+            "text": "- Criterio mayor: alteración de conciencia >24 h",
+            "guid": "N6ZXOVbwowZ-U4C1aYGVbg",
+            "children": []
+          },
+          {
+            "id": "82",
+            "parent": "79",
+            "text": "- Criterios menores: fiebre, convulsiones, hallazgos neurológicos focales",
+            "guid": "T5wkyyrwAZpwR-82SwKfnQ",
+            "children": []
+          },
+          {
+            "id": "83",
+            "parent": "79",
+            "text": "- Agente causal desconocido en 37-70% de casos",
+            "guid": "TlG4DhzgRUkGqh7HKmox_Q",
+            "children": []
+          },
+          {
+            "id": "84",
+            "parent": "79",
+            "text": "- Causas comunes: enfermedades virales y autoinmunes",
+            "guid": "AKSfkmnrFEhImwh_Bwb7NA",
+            "children": []
+          },
+          {
+            "id": "85",
+            "parent": "79",
+            "text": "### Encefalitis viral",
+            "guid": "VlX9u2YwMyV-WYuOAznBJg",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "- VHS-1: causa más común de\nencefalitis esporádica en EEUU",
+                "guid": "cyT0Zh8E0PpensACdJkqEg",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "- Presentación: fiebre, convulsiones, alteración mental, déficits neurológicos",
+                    "guid": "Cf2kTyZvzPYe0pKjKZfXMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "86",
+                    "text": "- Diagnóstico: PCR en LCR (sensibilidad 98%, especificidad 94%)",
+                    "guid": "MJYdHH4So_xmY5J1aDx0VQ",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "86",
+                    "text": "- Tratamiento: aciclovir IV inmediato (14-21 días)",
+                    "guid": "VQNHAmS3EypRvgnDJJ9rzQ",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "86",
+                    "text": "- Factores de mal pronóstico: edad avanzada, escala Glasgow baja, retraso terapia",
+                    "guid": "D6cUxUIF-PlvogtqXfjM0w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91",
+                "parent": "85",
+                "text": "- VVZ: causa tratable y\nfrecuentemente infradiagnosticada",
+                "guid": "XuY-QnZMKjIIYv7QX4rd1A",
+                "children": [
+                  {
+                    "id": "92",
+                    "parent": "91",
+                    "text": "- Puede presentarse sin exantema vesicular",
+                    "guid": "YDc-elD-B1BmkdkINo08Ng",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "91",
+                    "text": "- Tratamiento: aciclovir IV (10-14 días)",
+                    "guid": "Ny46dWTrZJc5xv1cKlMu2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94",
+                "parent": "85",
+                "text": "- Arbovirus",
+                "guid": "A_A1kRhlvV4e7FjtDe3Z4A",
+                "children": [
+                  {
+                    "id": "95",
+                    "parent": "94",
+                    "text": "- Más frecuentes en verano/otoño en EEUU",
+                    "guid": "PtWKVD2-65A3hbERb2uncA",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "94",
+                    "text": "- Incluyen: VNO, encefalitis equina oriental/occidental, virus de la Crosse",
+                    "guid": "O9GPjB3pQ4ZXqBvFENTWjw",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "94",
+                    "text": "- VNO: causa más común de encefalitis viral epidémica en EEUU",
+                    "guid": "AqBWsSlmJYg1dEJcEkdrdg",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "94",
+                    "text": "- Síntomas: meningitis, encefalitis, parálisis flácida, temblores faciales",
+                    "guid": "a2wegSUWTcdwQDhJSlJcww",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "94",
+                    "text": "- Diagnóstico: PCR en LCR o suero",
+                    "guid": "G2J3-XijNxkp3TqYe5m2cw",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "94",
+                    "text": "- Tratamiento: medidas de apoyo",
+                    "guid": "SaE-aRBvE6AyJvKpAM943g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "101",
+                "parent": "85",
+                "text": "- VIH: causa demencia\nasociada en etapas tardías",
+                "guid": "dVp4N2vt8AUrIqe5eUqtyA",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "- También como encefalitis CD8,\ninfiltración linfocitos CD8+",
+                    "guid": "BFOtY0oPAKYHOIepQyk3tw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "103",
+            "parent": "79",
+            "text": "### Encefalitis\nautoinmune",
+            "guid": "B83sNj6-OLoylN8nQ597ww",
+            "children": [
+              {
+                "id": "104",
+                "parent": "103",
+                "text": "- Anti-receptor NMDA: más común",
+                "guid": "XKd8QQo8-uxUdFJSX0fS8g",
+                "children": []
+              },
+              {
+                "id": "105",
+                "parent": "103",
+                "text": "- Inicialmente síndrome paraneoplásico (teratomas ováricos)",
+                "guid": "M6MgdAnolK5xjz5oHw8-9Q",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "103",
+                "text": "- Después de fase prodrómica: cambios comportamiento, psicosis, convulsiones",
+                "guid": "Lv7idWHPdrFpYZu5SmFabg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "parent": "0",
+        "text": "# Enfermedades priónicas del\nsistema nervioso central",
+        "guid": "",
+        "children": [
+          {
+            "id": "108",
+            "parent": "107",
+            "text": "## Características\ngenerales",
+            "guid": "WnKtyhM-1lFF-xDiJBPsNA",
+            "children": [
+              {
+                "id": "109",
+                "parent": "108",
+                "text": "- Causadas por proteína priónica plegada anormalmente",
+                "guid": "I63p8XgiA4sk42USGQhiKQ",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "108",
+                "text": "- Enfermedades neurodegenerativas raras pero inexorablemente progresivas",
+                "guid": "ZA_zkVAGDMwSUw_xaGOg9A",
+                "children": []
+              },
+              {
+                "id": "111",
+                "parent": "108",
+                "text": "- Rápidamente mortales",
+                "guid": "GhUNchmLl5orjNisIeL5qQ",
+                "children": []
+              },
+              {
+                "id": "112",
+                "parent": "108",
+                "text": "- Caracterizadas por demencia y ataxia",
+                "guid": "WEnQVV4ht9NlgnVsNPFMlg",
+                "children": []
+              },
+              {
+                "id": "113",
+                "parent": "108",
+                "text": "- Mecanismos\nde desarrollo:",
+                "guid": "N7GENAM6qjJmHm6fW19uJQ",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "- Esporádicas (espontáneas)",
+                    "guid": "aF6ywDn2x74UOR-IHAHTNA",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "- Familiares (genéticas)",
+                    "guid": "Q99cbAXIXfA7ERIqct4-4g",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "113",
+                    "text": "- Adquiridas (infecciosas o transmisibles)",
+                    "guid": "Z5fUoSRyreM9P5lQQgqCaw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "117",
+                "parent": "108",
+                "text": "- Diagnóstico: considerar en pacientes con demencia y ataxia rápidamente progresivas",
+                "guid": "e1ytvgsB07J0Z9BOX2yhTw",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "108",
+                "text": "- No existe tratamiento conocido",
+                "guid": "Wwfgfga64EBH0EJDdRzt8A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "119",
+            "parent": "107",
+            "text": "## Enfermedad de\nCreutzfeldt-Jakob esporádica",
+            "guid": "IEZ32nNdGu8W_-eZeJBILw",
+            "children": [
+              {
+                "id": "120",
+                "parent": "119",
+                "text": "- Forma más común de ECJ",
+                "guid": "UX7Sw3yCXQUtgZTFOd2Fgw",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "119",
+                "text": "- Incidencia: uno por millón de individuos a nivel mundial",
+                "guid": "Nnkkw0G6tE1V31i3eliBMA",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "119",
+                "text": "- No se conocen factores de riesgo ambientales",
+                "guid": "R4MSPRDwauFtNsASLxrm3g",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "119",
+                "text": "- Manifestaciones\nclínicas:",
+                "guid": "Q6ev1UlqYaNcbXu2FSaCmA",
+                "children": [
+                  {
+                    "id": "124",
+                    "parent": "123",
+                    "text": "- Demencia rápidamente progresiva",
+                    "guid": "NWMYxCp2WWJxJWlKbRSc-A",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "123",
+                    "text": "- Curso típico: 4-6 meses",
+                    "guid": "LbEDlVdD1-lIdAseKQ2xUw",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "123",
+                    "text": "- Ataxia, mioclonía, signos piramidales y extrapiramidales",
+                    "guid": "YkWrmzzb22wIelKiPU2MGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "123",
+                    "text": "- No es frecuente la pérdida de visión",
+                    "guid": "Q5a7rFBKlOUyanoKY90zhw",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "123",
+                    "text": "- Pacientes entran en coma antes de fallecer",
+                    "guid": "Rey-qQnvEHxPBAgbfGXjbA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "119",
+                "text": "- Diagnóstico:",
+                "guid": "S6nEySTjYNJ2vmScEyzXBw",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "- Anamnesis clínica y RM",
+                    "guid": "NdPLtGP1JK5CR73lazbkeA",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "- Análisis positivo para proteínas tau total o 14-3-3",
+                    "guid": "Dmt-ETNtJy9YS4FxPByBpg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "132",
+            "parent": "107",
+            "text": "## Enfermedades\npriónicas transmisibles",
+            "guid": "CrD_GSC_jI9lKjL5bPaqtA",
+            "children": [
+              {
+                "id": "133",
+                "parent": "132",
+                "text": "- ECJ variante (vECJ): forma humana de\nencefalopatía espongiforme bovina",
+                "guid": "XZtn-22khZsqRDbOITIjqA",
+                "children": [
+                  {
+                    "id": "134",
+                    "parent": "133",
+                    "text": "- Afecta generalmente a personas jóvenes (15-50 años)",
+                    "guid": "Pe8agFyusNgFD1cvAZbKVQ",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "133",
+                    "text": "- Manifestaciones neuropsiquiátricas rápidamente progresivas",
+                    "guid": "JhkSe2F80uUWvUztbAXRJA",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "133",
+                    "text": "- Síntomas: depresión, introversión, neuropatía periférica",
+                    "guid": "a2vjYWXBVQhoa7SRNxWoKw",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "133",
+                    "text": "- Seguidos por ataxia cerebelosa, movimientos involuntarios, declive cognitivo",
+                    "guid": "CqS1218qGS1KQn8yQHiBjw",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "133",
+                    "text": "- Periodo de evolución: 12 meses",
+                    "guid": "Qx893AyKPRcrr2YHUYq77Q",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "133",
+                    "text": "- Transmisible por productos sanguíneos y tejidos",
+                    "guid": "P_dkRwP653gNpz2TSqhjYA",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "133",
+                    "text": "- Problema grave de salud pública mundial",
+                    "guid": "JLp0B3LRcIw3nw4UAlXcAw",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "133",
+                    "text": "- Diagnóstico: hallazgos típicos en RM (signo del \"palo de hockey\" en tálamo posterior)",
+                    "guid": "YHX2J2HjROIjh_-rHmUQpw",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "133",
+                    "text": "- Biopsia amigdalina para detectar proteína priónica asociada",
+                    "guid": "PpH1uiiXVtof-9r9ZKsINg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "143",
+                "parent": "132",
+                "text": "- ECJ iatrogénica:\nextremadamente rara",
+                "guid": "VI7xajablJlGkwh4bNWYgw",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "- Documentada\ntransmisión por:",
+                    "guid": "AvlYtxtyY34KBd9NH3PVqg",
+                    "children": [
+                      {
+                        "id": "145",
+                        "parent": "144",
+                        "text": "- Hormona del crecimiento y gonadotropina derivadas de hipófisis de cadáver",
+                        "guid": "ChQpvza5J-pQsNladYANIQ",
+                        "children": []
+                      },
+                      {
+                        "id": "146",
+                        "parent": "144",
+                        "text": "- Duramadre",
+                        "guid": "HHp88zkcjesslbVMJx8yzg",
+                        "children": []
+                      },
+                      {
+                        "id": "147",
+                        "parent": "144",
+                        "text": "- Agujas de electroencefalografía estereotácticas",
+                        "guid": "GEanGXbYNH5nl7RdW2Xk9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "148",
+                        "parent": "144",
+                        "text": "- Instrumentos neuroquirúrgicos",
+                        "guid": "A2JxlRNHGmQs8KDiQ1nV3A",
+                        "children": []
+                      },
+                      {
+                        "id": "149",
+                        "parent": "144",
+                        "text": "- Trasplantes corneales",
+                        "guid": "F0IB3TqX3nUOAjk8O_x15A",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "144",
+                        "text": "- Instrumental médico",
+                        "guid": "LWlPAUWhR1E-UlHnDd9FKA",
+                        "children": []
+                      },
+                      {
+                        "id": "151",
+                        "parent": "144",
+                        "text": "- Electrodos de EEG implantados",
+                        "guid": "J4SMM2HaUZIsRFXPZhaB7g",
+                        "children": []
+                      },
+                      {
+                        "id": "152",
+                        "parent": "144",
+                        "text": "- Transfusiones sanguíneas",
+                        "guid": "CnGobExAMMxKwYokFIXSLA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "153",
+            "parent": "107",
+            "text": "## Enfermedades\npriónicas familiares",
+            "guid": "NNzydRdQ5sdVbp84P06a4Q",
+            "children": [
+              {
+                "id": "154",
+                "parent": "153",
+                "text": "- Asociadas a mutaciones en genes de proteínas priónicas",
+                "guid": "LXPJFy4qvNVIO314MNY6rA",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "153",
+                "text": "- Incluyen:",
+                "guid": "R9ORFlMCoOJrDJD4b1gdSg",
+                "children": [
+                  {
+                    "id": "156",
+                    "parent": "155",
+                    "text": "- Síndrome de Gerstmann-Sträussler-Scheinker: gravemente progresivo",
+                    "guid": "QXHXOXUsHlp0MBCJWLPZFg",
+                    "children": []
+                  },
+                  {
+                    "id": "157",
+                    "parent": "155",
+                    "text": "- Insomnio familiar fatal: rápidamente progresivo",
+                    "guid": "L8P8zwIyScUUsE77XS1L0A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "158",
+            "parent": "107",
+            "text": "## Criterios diagnósticos",
+            "guid": "BeCUZneHYvEyaZ9_SFjp8Q",
+            "children": [
+              {
+                "id": "159",
+                "parent": "158",
+                "text": "### Universidad de California,\nSan Francisco (2007)",
+                "guid": "Y5EXlCAwKVxT1G0NZopwSw",
+                "children": [
+                  {
+                    "id": "160",
+                    "parent": "159",
+                    "text": "- Declive cognitivo rápido",
+                    "guid": "O6KM2l3aTFoF_kX1EDF-RA",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "159",
+                    "text": "- Dos o más de los\nsiguientes signos/síntomas:",
+                    "guid": "Im7yLhnXQMxhwMEZNuTTIQ",
+                    "children": [
+                      {
+                        "id": "162",
+                        "parent": "161",
+                        "text": "- Mioclonía",
+                        "guid": "FHXg80yRTm19BxbHQemqCg",
+                        "children": []
+                      },
+                      {
+                        "id": "163",
+                        "parent": "161",
+                        "text": "- Disfunción piramidal/extrapiramidal",
+                        "guid": "erwLQkVClD9yv-S3PC3iew",
+                        "children": []
+                      },
+                      {
+                        "id": "164",
+                        "parent": "161",
+                        "text": "- Disfunción visual",
+                        "guid": "Om6ymWbv9UAU4buSajKvaA",
+                        "children": []
+                      },
+                      {
+                        "id": "165",
+                        "parent": "161",
+                        "text": "- Disfunción cerebelosa",
+                        "guid": "aSI_BSmSCo1HX_s4MPXQHA",
+                        "children": []
+                      },
+                      {
+                        "id": "166",
+                        "parent": "161",
+                        "text": "- Mutismo acinético",
+                        "guid": "fJSrbzJsjDAgTe1mMXGd5A",
+                        "children": []
+                      },
+                      {
+                        "id": "167",
+                        "parent": "161",
+                        "text": "- Signos corticales focales",
+                        "guid": "Sb1y-HW8jJ5wwDjGLU6KjA",
+                        "children": []
+                      },
+                      {
+                        "id": "168",
+                        "parent": "161",
+                        "text": "- EEG y/o RM típicas",
+                        "guid": "Fey1-kSUpdMT2PrXUY9C1A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "169",
+                "parent": "158",
+                "text": "### European MRI-CJD\nConsortium (2009)",
+                "guid": "ZmiPOV7H1-B4zn0sYSSaew",
+                "children": [
+                  {
+                    "id": "170",
+                    "parent": "169",
+                    "text": "- Demencia progresiva",
+                    "guid": "JApsIGuOYeMdUnz2XnkeuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "169",
+                    "text": "- Uno de los siguientes\nsignos o síntomas:",
+                    "guid": "fNIPYUwUNVwtKPzqT1BmhA",
+                    "children": [
+                      {
+                        "id": "172",
+                        "parent": "171",
+                        "text": "- Mioclonía",
+                        "guid": "Un5XIzI0OIhIq84iO6CWKA",
+                        "children": []
+                      },
+                      {
+                        "id": "173",
+                        "parent": "171",
+                        "text": "- Síntomas\npiramidales/extrapiramidales",
+                        "guid": "W8ZDFRALyVpslmZEWFruhQ",
+                        "children": []
+                      },
+                      {
+                        "id": "174",
+                        "parent": "171",
+                        "text": "- Disfunción\nvisual/cerebelosa",
+                        "guid": "QnhViwzkU6oJzIxpDDXIgw",
+                        "children": []
+                      },
+                      {
+                        "id": "175",
+                        "parent": "171",
+                        "text": "- Mutismo acinético",
+                        "guid": "AqDgSHqMxS85hFMPGI2WQg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "176",
+                    "parent": "169",
+                    "text": "- Cualquiera de:",
+                    "guid": "fkht5XXUywwK8PytWg6w-g",
+                    "children": [
+                      {
+                        "id": "177",
+                        "parent": "176",
+                        "text": "- EEG típica",
+                        "guid": "PyFrA01dTeZqHNkXYZBdMQ",
+                        "children": []
+                      },
+                      {
+                        "id": "178",
+                        "parent": "176",
+                        "text": "- Elevación de proteína 14-3-3 en LCR (con duración total de enfermedad <2 años)",
+                        "guid": "ZzSOskvdmjAYdTBSTZ0d6w",
+                        "children": []
+                      },
+                      {
+                        "id": "179",
+                        "parent": "176",
+                        "text": "- RM típica",
+                        "guid": "KqVyEBFDrX4uwbhmTq_eMA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "180",
+            "parent": "107",
+            "text": "## Puntos clave",
+            "guid": "W3BTaQm3Bj5XdLlMQqTiGw",
+            "children": [
+              {
+                "id": "181",
+                "parent": "180",
+                "text": "- Las enfermedades priónicas deben incluirse en el diagnóstico diferencial de pacientes con demencia y ataxia rápidamente progresivas no explicadas",
+                "guid": "BGu2nDw2K-lUjrJ0BwyW5A",
+                "children": []
+              },
+              {
+                "id": "182",
+                "parent": "180",
+                "text": "- La enfermedad de Creutzfeldt-Jakob esporádica es la forma más común de enfermedad priónica y no tiene factores de riesgo conocidos",
+                "guid": "NsLxGA4TBYMfmi0ndeRcGw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 183,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "MKSAP 18. Infecciones del SNC-2025-1",
+  "id": "map_1344",
+  "resolved_references": []
+}

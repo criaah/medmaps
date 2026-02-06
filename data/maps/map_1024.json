@@ -1,0 +1,1360 @@
+{
+  "title": "Papiledema",
+  "guid": "13282AF9E662C0AC5AA05878",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Reumatología/Papiledema-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Papiledema",
+    "guid": "IdPBicE9MW3n7C-bMa-L5A",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• “Papiledema” = inflamación (edema) del disco óptico debida a ↑Presión Intracraneal (PIC) [1].",
+            "guid": "dcBrr-MMZ-7Ik4NGptq6gA",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• El término “papiledema” debe reservarse para el edema del disco óptico causado por ↑PIC,\nno para otras formas de edema de papila.",
+            "guid": "5YaB870mrAX68_dhtrq6sA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "ETIOLOGÍAS Y\nPATOGÉNESIS",
+        "guid": "",
+        "children": [
+          {
+            "id": "5",
+            "parent": "4",
+            "text": "• ↑PIC → transmisión a la vaina del nervio óptico → alteración del flujo axoplásmico → edema axonal y fuga de agua, proteínas y otros contenidos al espacio extracelular\n→ edema del disco [2,3].",
+            "guid": "n9YjRfXxWiww4KAEiGIvbg",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "4",
+            "text": "• Fenómenos secundarios: obstrucción y dilatación venosa, isquemia de fibras nerviosas, telangiectasias vasculares.",
+            "guid": "tgFMwyVGnfDF3J2BnQGx9g",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "4",
+            "text": "• Cualquier proceso que ↑PIC\npuede causar papiledema:",
+            "guid": "vR74Ge2U0I5C44neamN1_w",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "● Lesiones intracraneales (tumor, hematoma)",
+                "guid": "UpYqOPW-PaP-qyCPH7nU6A",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "● Edema cerebral (p.ej., encefalopatía hipóxico-isquémica, infarto cerebral grande, TCE grave)",
+                "guid": "GGxa_txWgv8z96iL5hBK3Q",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "7",
+                "text": "● ↑Producción de LCR (papiloma de plexo coroideo)",
+                "guid": "fdHDoL6SmHOgD3Ik6GpWkg",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "7",
+                "text": "● ↓Absorción de LCR (adhesiones en granulaciones aracnoideas tras meningitis bacteriana)",
+                "guid": "vv2opLwcdgrgJ2cIae06mA",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "7",
+                "text": "● Hidrocefalia obstructiva",
+                "guid": "5TAtQFI-kcmDXDJmWXmuxw",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "7",
+                "text": "● Obstrucción del drenaje venoso (trombosis de senos venosos, compresión de vena yugular, cx de cuello)",
+                "guid": "-NnFVBOU80NfrHnUirzqJw",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "7",
+                "text": "● Hipertensión intracraneal idiopática (pseudotumor cerebri)",
+                "guid": "ch23syvstqHAoHIFTh6Mew",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "7",
+                "text": "• Otras causas\nmenos frecuentes:",
+                "guid": "58DcEV0gxaENU_CqCf_OVA",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "● ↑Aporte arterial (fístula arteriovenosa) [4,5]",
+                    "guid": "iKHfu7PMm7VwRRhhH0k0HA",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "● Lesiones intraspinales [6, 7]",
+                    "guid": "OfgfJP2p2ufPF8ZqnYB2bA",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "15",
+                    "text": "● Enfermedades respiratorias crónicas [8, 9]",
+                    "guid": "Ia48VGn7lC7qospnR45YpQ",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "15",
+                    "text": "● Condiciones tóxicas-metabólicas → edema cerebral difuso [10]",
+                    "guid": "qRC9g2DW4-xt_msxuWrkGw",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "15",
+                    "text": "● Casos en neuropatía inflamatoria desmielinizante aguda/crónica →\nposible ↑proteína en LCR que altera su resorción/circulación [11-14]",
+                    "guid": "qC-0L4qLmG_pKJccnKk-3w",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "15",
+                    "text": "• HTIC idiopática (pseudotumor cerebri)",
+                    "guid": "NdJ4G47WjGICDz_sFdUMUg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "parent": "0",
+        "text": "MANIFESTACIONES\nCLÍNICAS",
+        "guid": "Mrrm6lEi8BoeoRvC6QdV5w",
+        "children": [
+          {
+            "id": "23",
+            "parent": "22",
+            "text": "• Descubrimiento\ndel papiledema",
+            "guid": "",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "→ Generalmente se detecta al evaluar síntomas de ↑PIC\n(no por patología directa del n. óptico).",
+                "guid": "Lte2yWRt9qWB5iiPrFl4SA",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "23",
+                "text": "→ Suele ser bilateral\n(puede ser asimétrico).",
+                "guid": "zusGgXLhJISjwRdgqjhJ8w",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "23",
+                "text": "→ Excepción: si existe lesión previa del n. óptico\n(p.ej., síndrome de Foster-Kennedy: un tumor\nfrontal comprime un n. óptico → atrofia en un ojo y\npapiledema en el otro).",
+                "guid": "avEY1cK6zP5sUljQGtNoRA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "22",
+            "text": "• Síntomas\nde ↑PIC",
+            "guid": "J7RIUuTjFKqZQzEF6C0qWw",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "→ Cefalea (cardinal).\nCaracterísticas sospechosas:",
+                "guid": "E4nsYeivCOBOEn5xGSFD8g",
+                "children": [
+                  {
+                    "id": "29",
+                    "parent": "28",
+                    "text": "• Empeora en decúbito (posición supina).",
+                    "guid": "Fo3Tc9JnLpsgw2aB8hP0Jw",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "28",
+                    "text": "• Patrón diurno (peor al despertar).",
+                    "guid": "hzVVDGJ9AaE-ODaf1MOruQ",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "28",
+                    "text": "→ Náuseas y vómitos (también presentes en migraña, pero aquí se asocian a ↑PIC).",
+                    "guid": "LufQOymrt78dljV072hmRw",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "28",
+                    "text": "→ Diplopía horizontal binocular por paresia del VI par (n. abducens)\n(vulnerable por su trayecto largo en espacio subaracnoideo).",
+                    "guid": "Y2Jh_cw-p-gX-WcjYl8NMg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "parent": "27",
+                "text": "→ Acúfeno pulsátil (tipo “ruido de maquinaria”) en oído,\na menudo por obstrucción de senos venosos.",
+                "guid": "f5pYy4UHvB4t-nEXDz9EUg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "34",
+            "parent": "22",
+            "text": "• Síntomas\nvisuales",
+            "guid": "TbjFyDG79qRufh8pTDkAng",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "→ Frecuentes aunque raras veces inician el cuadro.",
+                "guid": "lr6rKNETMDVqYgAbBZNluw",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "34",
+                "text": "→ “Oscurecimientos visuales” transitorios (segundos), unilaterales o bilaterales, a veces inducidos por cambios de posición.\nSe relacionan con fluctuaciones transitorias de la perfusión del disco. Su ↑frecuencia/duración puede indicar riesgo de daño\nvisual permanente, aunque no siempre es predictivo [15].",
+                "guid": "CXNGMp4Bsd5vEKrJ_LHOnw",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "34",
+                "text": "→ Déficits persistentes de agudeza o campo visual suelen aparecer en etapas tardías.\nSin tratamiento, el papiledema crónico puede causar:",
+                "guid": "78r24wte2Dk4AqVlNrpRUQ",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "• Pérdida progresiva de campo periférico\n(defectos en haz de fibras nerviosas)",
+                    "guid": "9FxpqKI_4rMaP_VDb05VqA",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "• Incluso ceguera [16,17]",
+                    "guid": "a7m7K8wz-itdiu0BwXwdQA",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "• Defectos de campo similares a glaucoma",
+                    "guid": "K97se3u2_klA5FEmhsKrIA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "22",
+            "text": "• Hallazgos funduscópicos\n(evolucionan con el tiempo)",
+            "guid": "l3SrEOImuXU8K9D2t-u_mw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "• Fase\ntemprana",
+                "guid": "6Txgl7wx7tukY-sIdjxgVQ",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "→ Pérdida de pulsaciones venosas espontáneas\n(con presiones de ~200 mm) [19-29]",
+                    "guid": "aivxlL4kf2bbo9XQw2p-LQ",
+                    "children": [
+                      {
+                        "id": "44",
+                        "parent": "43",
+                        "text": "• 20% de individuos sanos no las presentan de manera normal\n(sensibilidad > especificidad).",
+                        "guid": "k4NtWE5g2pTrhataIsJVvA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "45",
+                    "parent": "42",
+                    "text": "→ El anillo neurorretiniano se mantiene\n(la excavación óptica aún es visible).",
+                    "guid": "opAsu1sDgg6UoDSIEZOaGA",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "42",
+                    "text": "→ Pequeñas hemorragias en capa de fibras nerviosas (cerca/borde del disco).\nA veces se observan en px mayores sin ser específicas [29].",
+                    "guid": "7bmMpuHasKmnlzJf4h8e6w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47",
+                "parent": "41",
+                "text": "• Fase completamente\ndesarrollada",
+                "guid": "CPZw736lQLmOdMjHt8OTcA",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "→ Disco óptico elevado, sin excavación (cup desaparece).",
+                    "guid": "sooOvJEftw0zdhXzt61tcA",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "→ Márgenes del disco borrosos. Vasos “enterrados” al pasar por el disco.",
+                    "guid": "LmwCYnYIhyJMvdmGb7cHQQ",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "47",
+                    "text": "→ Venas retinianas tortuosas y congestivas.",
+                    "guid": "mPtmsjaYsiEx6OgHEs1Nbg",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "47",
+                    "text": "→ Disco hiperémico.",
+                    "guid": "DLWVFT7XdOurCW94FrUrEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "47",
+                    "text": "→ Hemorragias en llama, “algodonosas” (infracciones de fibras nerviosas)\ny micropliegues retinianos alrededor del disco.",
+                    "guid": "UeXbar_cwTu6ydGW2jx38g",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "47",
+                    "text": "→ Aumento del punto ciego [29].",
+                    "guid": "WezVOgam9E8N9yFElG-BMQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "41",
+                "text": "• Fase crónica",
+                "guid": "ZCC-gFnVUhJVGV5jjKhDrw",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "→ Excavación central obliterada.",
+                    "guid": "9-YctemZVTk16U2HhyGjzg",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "→ Resolución de hemorragias y exudados blandos.",
+                    "guid": "dYAXomCjuxCAk3d0Rs2GPA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57",
+                "parent": "41",
+                "text": "→ Aparición de exudados duros en la\ncapa de fibras (indica proceso de meses).",
+                "guid": "8vYYNKYxm0gyoipByQ-nDw",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "41",
+                "text": "→ El nervio óptico luce plano, con márgenes irregulares y palidez progresiva\n(pérdida de fibras nerviosas) (imagen 3).",
+                "guid": "FfcUgc4W_TYgn38wWRTm9w",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "41",
+                "text": "→ Suele haber pérdida de campo visual detectable en esta fase.",
+                "guid": "lsbZy3EJXeNVJ9tgeyhLAg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "parent": "0",
+        "text": "DIAGNÓSTICO\nDIFERENCIAL",
+        "guid": "_XMWaytYUwD9Ok6DMFVj1g",
+        "children": [
+          {
+            "id": "61",
+            "parent": "60",
+            "text": "• Hay muchas causas de elevación de la cabeza del nervio óptico.",
+            "guid": "fvLwuzIhuJztOFyxdgPo2g",
+            "children": []
+          },
+          {
+            "id": "62",
+            "parent": "60",
+            "text": "• “Papiledema” = elevación del disco por ↑Presión Intracraneal (PIC).",
+            "guid": "5xYSTaGyk0yH9ArSWZiuFg",
+            "children": []
+          },
+          {
+            "id": "63",
+            "parent": "60",
+            "text": "• Otras causas de discopatía (bilateral o unilateral) pueden simular papiledema, pero no se deben a ↑PIC.",
+            "guid": "-5_bKA6FjSuCpTCzHBoSJA",
+            "children": []
+          },
+          {
+            "id": "64",
+            "parent": "60",
+            "text": "ALTERACIONES\nBILATERALES DEL\nDISCO",
+            "guid": "4O2O0HSjJsVwO-nAm1N6mQ",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "1. Seudopapiledema",
+                "guid": "bxg8rmPrgmO4ysISuC-3YA",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "• Anomalías congénitas del disco (drusen, fibras nerviosas mielinizadas) o hipermetropía\n→ apariencia de disco elevado sin ↑PIC.",
+                    "guid": "hgL2vkFSix2zE12NPEAG0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "65",
+                    "text": "• Drusen: cuerpos hialinos calcificados\n(restos de degeneración axonal).",
+                    "guid": "SZd8I_dYSQFRBXWKlukkFg",
+                    "children": [
+                      {
+                        "id": "68",
+                        "parent": "67",
+                        "text": "→ Frecuentes en niños (a veces enterrados → confusión con papiledema).",
+                        "guid": "S6hBKeqAIfafP4fHsta8WA",
+                        "children": []
+                      },
+                      {
+                        "id": "69",
+                        "parent": "67",
+                        "text": "→ 75-85% bilaterales [30, 31].",
+                        "guid": "ojvUQ2EDmFuR6HkBlMpGlA",
+                        "children": []
+                      },
+                      {
+                        "id": "70",
+                        "parent": "67",
+                        "text": "→ ~2% población (posible herencia AD).",
+                        "guid": "rLsEpxsZNa1yR64-T2sjvg",
+                        "children": []
+                      },
+                      {
+                        "id": "71",
+                        "parent": "67",
+                        "text": "→ Pueden causar defectos de campo visual (aumento del punto ciego, constricción\nperiférica, pérdida campo ínferonasal).",
+                        "guid": "2oEW0Jn1sFT8J0ZK-UkQUw",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "67",
+                        "text": "→ Defecto pupilar aferente si unilateral/asimétrico.",
+                        "guid": "0oy0-evfq8m29y1hqh1z2w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "73",
+                    "parent": "65",
+                    "text": "• Aspecto en fondo de ojo\n(pseudopapiledema):",
+                    "guid": "vu3IAQNHTloH5RMoWpoB8Q",
+                    "children": [
+                      {
+                        "id": "74",
+                        "parent": "73",
+                        "text": "→ Disco con masas irregulares refráctiles (drusen).",
+                        "guid": "amnfIDUi-lJEvFWtLqF-eQ",
+                        "children": []
+                      },
+                      {
+                        "id": "75",
+                        "parent": "73",
+                        "text": "→ Fibras mielinizadas: áreas blancas con bordes festoneados, cubriendo retina.",
+                        "guid": "NNY-o5fbVpSKkbZOEgh_Og",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "73",
+                        "text": "→ Ausencia de signos de papiledema verdadero (algodonosos, hemorragias, hiperemia, congestión venosa).",
+                        "guid": "WVlOmd7_qGMNrLu-E8f4Dg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "77",
+                    "parent": "65",
+                    "text": "• Diagnóstico de drusen: TC, ecografía, OCT\n(muestran depósitos de calcio).",
+                    "guid": "kuaHq3aJ0cW1-eL9useGww",
+                    "children": [
+                      {
+                        "id": "78",
+                        "parent": "77",
+                        "text": "→ Ausencia de pulsaciones venosas espontáneas no es discriminante\n(también pueden faltar en seudopapiledema).",
+                        "guid": "dFbR_Z7KzFmz9PmydkgL_g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "79",
+                "parent": "64",
+                "text": "2. Hipertensión\nmaligna",
+                "guid": "g46nREkDJCmbgZNlyefgMg",
+                "children": [
+                  {
+                    "id": "80",
+                    "parent": "79",
+                    "text": "• HTA severa → edema leve del disco (simula papiledema).",
+                    "guid": "1d1rz7mJ55i8Yi60YTSexA",
+                    "children": []
+                  },
+                  {
+                    "id": "81",
+                    "parent": "79",
+                    "text": "• Hallazgos retinianos “hipertensivos” alejados del nervio (hemorragias, exudados, manchas algodonosas).",
+                    "guid": "HzH7aoyjgafuyCKPQMMuqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "79",
+                    "text": "• Posible figura estrellada hacia la fóvea [34,35].",
+                    "guid": "X00eTV43ECAJRKXNxlW7IQ",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "79",
+                    "text": "• Función del n. óptico suele ser normal; el daño retiniano puede ocasionar escotomas, visión borrosa, diplopía, fotopsias [36].",
+                    "guid": "u4YHb4tXuvQouGgWFRIWxw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "64",
+                "text": "3. Papilopatía\ndiabética",
+                "guid": "7XNwtRUHlfUPKyooKovXtg",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• Imita papiledema (↑PIC) y neuropatía óptica isquémica anterior (AION).",
+                    "guid": "A-gS9jfh5gkrnIQYTVLcuA",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "• Edema del disco variable (mínimo-extenso), telangiectasias, hemorragias, “estrella macular” [37].",
+                    "guid": "7kirj9kRX5bxP9hZS1tVYw",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "84",
+                    "text": "• Puede ser bilateral (clásico en diabéticos jóvenes) o unilateral en px mayores.",
+                    "guid": "Wgv-Fy5OKAIIefhmN7ULuQ",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "84",
+                    "text": "• Pronóstico generalmente bueno,\naunque puede haber:",
+                    "guid": "gV0uvtAgQoQxKgcXZzHsig",
+                    "children": [
+                      {
+                        "id": "89",
+                        "parent": "88",
+                        "text": "→ ↓Visión central transitoria, aumento del punto ciego, defectos de campo.",
+                        "guid": "ueQpcWpIZ-7bIPIqvseyPQ",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "88",
+                        "text": "→ Pérdida visual permanente poco frecuente.",
+                        "guid": "O_L6HPi-ddGNPZsBXMZe_Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "parent": "84",
+                    "text": "• Mecanismo probable: isquemia del n. óptico independiente de la retinopatía diabética [39].",
+                    "guid": "T9vfp2yIErFgMaFwl6XKYg",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "84",
+                    "text": "• Peor pronóstico en diabéticos tipo II de mayor edad [40].",
+                    "guid": "C26BOVyAmj3aRiVU2AL48A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93",
+                "parent": "64",
+                "text": "4. Otras causas",
+                "guid": "613o_46gw75TOy_FCWB3ow",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "• Hiperviscosidad, hipotensión, pérdida de sangre → edema bilateral de papila [41].",
+                    "guid": "oDvFU16f9bjwJzWahdEsFg",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "• Neuropatías ópticas tóxicas (metanol, etambutol, etilenglicol) → edema papilar al inicio, atrofia óptica rápida [10].",
+                    "guid": "bh9mAwmid8QQSE4IQeHGPA",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "93",
+                    "text": "• Compresión bilateral del n. óptico (p.ej., oftalmopatía tiroidea severa).",
+                    "guid": "inqYT8YGQ-58mT7ZDgXnfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "parent": "60",
+            "text": "ALTERACIONES\nUNILATERALES DEL\nDISCO",
+            "guid": "eF4y56hUXv7dQyL4ko2Wmw",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "• La mayoría de entidades que causan elevación unilateral del disco se clasifican en isquémicas, inflamatorias o infiltrativas.",
+                "guid": "1nEPdvQhaFfwG7WZBqrurw",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "97",
+                "text": "• No suelen confundirse con papiledema (que típicamente es bilateral), pero en ocasiones\npueden ser bilaterales o el papiledema puede ser tan asimétrico que parezca unilateral.",
+                "guid": "plmcV7TkuUxbXm_spErmSA",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "97",
+                "text": "1. Neuropatía óptica isquémica\nanterior (AION)",
+                "guid": "9_RFIs8lJneZm5Hs51fHQw",
+                "children": [
+                  {
+                    "id": "101",
+                    "parent": "100",
+                    "text": "• Arterítica (p.ej., arteritis de células gigantes) vs No arterítica.",
+                    "guid": "CeKVeGUxwuRfHzNnxWg7hw",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "100",
+                    "text": "• No arterítica: frecuente en px mayores, asociada a HTA, DM. Se\nha descrito con inhibidores de fosfodiesterasa-5 (p.ej., sildenafil).",
+                    "guid": "JB1k6GZCe4gpNEaDxrZTuw",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "100",
+                    "text": "• Generalmente unilateral (excepto en arteritis de células gigantes).",
+                    "guid": "QMH96gRoafJF7Xxz237dXw",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "100",
+                    "text": "• Pérdida visual súbita (parcial o total), clásico defecto altitudinal.\nPupila con defecto aferente. Mal pronóstico de recuperación.",
+                    "guid": "U2w4GitgDD8zfyWtKzPVpw",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "100",
+                    "text": "• Fondo de ojo: edema pálido, no congestivo (Imagen 8).\nHemorragias pequeñas y en “astilla” en el borde del disco [42].",
+                    "guid": "NfY_aRILSsLMXlEhSkBXDw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "97",
+                "text": "2. Papilitis,\nneurorretinitis",
+                "guid": "KU2wFV1udBWNlBu4iiVnOQ",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "• Papilitis: neuritis óptica de la porción anterior del n. óptico →\ncausas diversas (vs retrobulbar, que suele ser desmielinizante/EM)",
+                    "guid": "xVlwHGD3clRCF-eGarja3g",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "• Neurorretinitis: hay inflamación en retina (exudados maculares). Raramente de origen desmielinizante.",
+                    "guid": "zki1ZldxqN6TF5exAQpIIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "• Etiologías: virus, toxoplasma, “cat scratch disease”, sarcoidosis, sífilis,\nLyme, vasculitis (LES, granulomatosis con poliangeítis) [44-48].",
+                    "guid": "VRspthy_V1RBkeKA9u_wug",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "• Casi siempre unilateral.",
+                    "guid": "gViJfhhqliQ61irovCMecA",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "106",
+                    "text": "• Pérdida de visión, defecto pupilar aferente, dolor (sobre todo al mover el ojo).",
+                    "guid": "_jUuRnb1lqmH0OU2JJoOOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "106",
+                    "text": "• Fondo de ojo: disco tumefacto y congestivo, escasas hemorragias, posible presencia de células en\nvítreo cerca del disco y depósitos blanco-amarillentos dispuestos “en radios” hacia la fóvea (Imagen 9).",
+                    "guid": "fr1M37GdhUmsyuYQrkeIcw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "113",
+                "parent": "97",
+                "text": "3. Sarcoidosis",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "• Rara vez la afectación del n. óptico es la presentación inicial [49].",
+                    "guid": "qcAX2xhwe4yGvAfOtURolg",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "• Puede comprometer meninges → papiledema verdadero.",
+                    "guid": "uje3uFiB7J-HyLIz8xZiVg",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "113",
+                    "text": "• Algunos px presentan un nódulo sarcoide solitario en la cabeza del n. óptico → masa amarillenta, casi siempre unilateral;\npuede acompañarse de lesiones típicas de sarco en retina, conjuntiva o cámara anterior.",
+                    "guid": "Y9Rz87crHly_am_ueune8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "113",
+                    "text": "• Puede haber pérdida visual si la masa afecta el n. óptico; a veces asintomático [50].",
+                    "guid": "dAkz3JvpN7mQ2K-2wG9KIw",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "113",
+                    "text": "• Otros px con sarcoidosis → edema de disco por vasculitis, uveítis o infiltración sutil del disco (“Neurologic sarcoidosis”).",
+                    "guid": "8NSVEzmSWfWOszBNL9ctww",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "119",
+                "parent": "97",
+                "text": "4. Oclusión de la vena central\nde la retina (CRVO)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "120",
+                    "parent": "119",
+                    "text": "• Asociada a glaucoma crónico, factores de riesgo arterioscleróticos\n(edad, DM, HTA), hiperviscosidad, coagulopatía [51].",
+                    "guid": "g_ZsJmDm9Jn2BXh-jBW2Pg",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "119",
+                    "text": "• Disco ligeramente congestionado.",
+                    "guid": "C2eCRuRirQC4bqOo_OZuxA",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "119",
+                    "text": "• Múltiples hemorragias más allá del polo posterior\n(más extensas que en papiledema).",
+                    "guid": "2qF16j6b-qs8r0GiRpOAfg",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "119",
+                    "text": "• Pérdida visual ligada a las hemorragias y a la isquemia retiniana (Imagen 10) [52].",
+                    "guid": "bIyq0MKwtMgeWH3hKJ5k7w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "124",
+                "parent": "97",
+                "text": "5. Papiloflebitis",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "• Posible etiología inflamatoria, suele afectar a jóvenes, buen pronóstico [53].",
+                    "guid": "ui6sPAqn2J6t3Bk_LUgtpg",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "• Disco edematoso + hallazgos similares a una CRVO leve.",
+                    "guid": "ddItv2fzY6RKD_T7yRikXQ",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "124",
+                    "text": "• Aumento del punto ciego correlaciona con la cantidad de hemorragia retiniana en la mácula [54].",
+                    "guid": "cHepzwx2dhXVjkE5_He8Dg",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "124",
+                    "text": "• Mejoría espontánea frecuente.",
+                    "guid": "zifJvJKTJcXDZpJj_PL10w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "97",
+                "text": "6. Malignidad",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "• Metástasis raras veces invaden la cabeza del n. óptico (principalmente cáncer de mama o pulmón).\nOtros: meningioma, glioma, hamartoma, dermoide, linfoma, leucemia [55,56].",
+                    "guid": "AL8UQP7Z0NWqBenjEfV4cA",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "• Apariencia: disco “destruido” por el tejido tumoral (Imagen 11).\nEstructura normal perdida.",
+                    "guid": "tqbcgbOHFi1s7d8BB1DPog",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "• Si la invasión/compresión es más posterior, puede semejar papiledema.",
+                    "guid": "JInEpfBPi0XQ_acSUZxUGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "129",
+                    "text": "• Pérdida visual progresiva [57].",
+                    "guid": "3mLYuCMd62DjL7MCX_9MTg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "134",
+                "parent": "97",
+                "text": "7. Neuropatía óptica\nhereditaria de Leber",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "135",
+                    "parent": "134",
+                    "text": "• Al inicio: leve elevación del disco óptico [58].",
+                    "guid": "-MadiHIzYJKSuAaARMUxig",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "134",
+                    "text": "• Suele comenzar en un ojo y luego afecta al otro.",
+                    "guid": "pTZ13NxhSrGiETHvL7LTHw",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "134",
+                    "text": "• Vasos peripapilares con aspecto telangiectásico, sin hemorragias.",
+                    "guid": "X4Q0VOsXKFrJ7eHRx14Ymg",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "134",
+                    "text": "• Siempre hay pérdida visual que evoluciona a atrofia óptica.",
+                    "guid": "KwOOwQbStNhFw-DqabU33Q",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "134",
+                    "text": "• Antecedentes familiares frecuentes. Se confirma con pruebas genéticas.",
+                    "guid": "t1UUA4vYUgmo-GOas1zMLQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "parent": "97",
+                "text": "8. Otras causas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "• Edema del disco por ↓Presión intraocular o inflamación intraocular crónica → puede verse\ntras cx (cataratas/glaucoma) o lesiones del globo ocular (a menudo iatrogénicas) [59].",
+                    "guid": "-jTeINJQtmwrhgq8lV2Ykg",
+                    "children": [
+                      {
+                        "id": "142",
+                        "parent": "141",
+                        "text": "→ Siempre unilaterales, confirmación midiendo presión ocular\ny examen con lámpara de hendidura.",
+                        "guid": "36mvjeeO0j_jD-wqTW_9Pw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "143",
+                    "parent": "140",
+                    "text": "• Neuropatía óptica por radiación (6-24 meses post-radioterapia)\n→ edema de disco al inicio [60,61].",
+                    "guid": "Er_QI4C42TuHiQCot14m-Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "144",
+        "parent": "0",
+        "text": "PRUEBAS\nDIAGNÓSTICAS",
+        "guid": "HyxU6q-ZQmnnM1anPnspCg",
+        "children": [
+          {
+            "id": "145",
+            "parent": "144",
+            "text": "• Neuroimagen",
+            "guid": "",
+            "children": [
+              {
+                "id": "146",
+                "parent": "145",
+                "text": "→ Paso inicial si se sospecha papiledema.",
+                "guid": "T2JTCI7DFy3x517sQ5xzFg",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "145",
+                "text": "→ RM (MRI) con gadolinio (preferible) o TC si la RM se retrasa.",
+                "guid": "NUPDjI2NpmodA458dfStaA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "148",
+        "parent": "0",
+        "text": "→ Puede detectar lesiones\nintracraneales (tumor), hidrocefalia.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "149",
+        "parent": "0",
+        "text": "→ Secuencias adicionales: MRV\n(angiografía venosa) → valorar obstrucción\nvenosa en senos durales/cuello.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "150",
+        "parent": "0",
+        "text": "→ ↑PIC por lesiones espinales (raro) → si datos\nclínicos (dolor espalda/cuello, signos mielopáticos,\nLCR anormal) → RM de columna.",
+        "guid": "",
+        "children": [
+          {
+            "id": "151",
+            "parent": "150",
+            "text": "• Punción lumbar",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "→ Si la neuroimagen es\nnormal, se mide presión de\napertura + análisis de LCR.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "153",
+        "parent": "0",
+        "text": "→ Técnica de medición\ndescrita en otro lugar.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "154",
+        "parent": "0",
+        "text": "→ Presión elevada >250 mmH₂O;\n200-250 mmH₂O = límite.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "155",
+        "parent": "0",
+        "text": "→ En niños, valores\nnormales todavía debatidos.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "156",
+        "parent": "0",
+        "text": "→ HTIC sin otra causa →\nhipertensión intracraneal\nidiopática (pseudotumor cerebri).",
+        "guid": "",
+        "children": [
+          {
+            "id": "157",
+            "parent": "156",
+            "text": "• Campimetría (pruebas\nde campo visual)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "158",
+        "parent": "0",
+        "text": "→ Útil para detectar\nalteraciones subclínicas y\ncuantificar cambios en el\ntiempo.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "159",
+        "parent": "0",
+        "text": "→ Imprescindible para monitorizar\nsecuelas visuales del papiledema y\nrespuesta al tratamiento.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "160",
+        "parent": "0",
+        "text": "→ Tamaño del punto ciego = medida indirecta\nde la magnitud del edema de papila (sensible\na errores de refracción).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "161",
+        "parent": "0",
+        "text": "→ Constricción del campo visual y defectos\nsectoriales → signos de daño visual inminente\n(más valor pronóstico que los síntomas o la\napariencia del fondo).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "162",
+        "parent": "0",
+        "text": "→ Elegir la técnica de campimetría que el px\npueda realizar correctamente; la\nautomatizada no siempre es ideal.",
+        "guid": "",
+        "children": [
+          {
+            "id": "163",
+            "parent": "162",
+            "text": "• Angiografía con\nfluoresceína",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "164",
+        "parent": "0",
+        "text": "→ Puede mostrar fuga de contraste,\n↑vascularización y exceso de\nfluorescencia precoz/tardía en disco.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "165",
+        "parent": "0",
+        "text": "→ Oftalmólogos la consideran poco\nconfiable en casos dudosos y rara vez\nnecesaria en este contexto.",
+        "guid": "",
+        "children": [
+          {
+            "id": "166",
+            "parent": "165",
+            "text": "• Tomografía de\ncoherencia óptica (OCT)",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "167",
+        "parent": "0",
+        "text": "→ Útil donde se disponga, para\nmonitorizar edema del nervio y cambios\nen la retina circundante [62].",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "168",
+        "parent": "0",
+        "text": "→ Alta dependencia de la\npericia del operador.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "169",
+        "parent": "0",
+        "text": "→ La tecnología espectral (en\nlugar de la basada en tiempo)\nmejora la confiabilidad.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "170",
+        "parent": "0",
+        "text": "TRATAMIENTO",
+        "guid": "PwyG-EVhc6jYR3qArTrfrg",
+        "children": [
+          {
+            "id": "171",
+            "parent": "170",
+            "text": "• Manejo dirigido a la etiología de la\nhipertensión intracraneal.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "172",
+            "parent": "170",
+            "text": "• Detalles en:",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "173",
+        "parent": "0",
+        "text": "→ “Evaluation and\nmanagement of elevated\nintracranial pressure in\nadults”",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "174",
+        "parent": "0",
+        "text": "→ “Idiopathic intracranial\nhypertension (pseudotumor\ncerebri): Prognosis and treatment”.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "PRONÓSTICO VISUAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "176",
+            "parent": "175",
+            "text": "• La pérdida visual permanente es\nfrecuente si el papiledema no se\ntrata o no responde al tx.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "177",
+            "parent": "175",
+            "text": "• Factores predictivos\nde mala evolución:",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "178",
+        "parent": "0",
+        "text": "→ Edema de disco\nde grado alto.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "179",
+        "parent": "0",
+        "text": "→ Hemorragias\nsubretinianas\nperipapilares.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "180",
+        "parent": "0",
+        "text": "→ Vasos de derivación\nóptico-ciliares (shunt).",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "181",
+        "parent": "0",
+        "text": "→ Visión\nanormal al\ninicio.",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "182",
+        "parent": "0",
+        "text": "→ Desarrollo de defectos\nde campo visual.",
+        "guid": "",
+        "children": [
+          {
+            "id": "183",
+            "parent": "182",
+            "text": "• Factores de riesgo descritos:\nanemia, edad avanzada, miopía,\nglaucoma, HTA sistémica [63].",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "184",
+            "parent": "182",
+            "text": "• Cambios progresivos en la agudeza o el campo visual\nayudan a identificar px en riesgo. Sin embargo, la pérdida\nvisual puede ocurrir súbitamente.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "185",
+            "parent": "182",
+            "text": "• Si la pérdida del campo visual se asocia a\nhemorragia, puede resolverse cuando dicha\nhemorragia se recupera.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 186,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Reumatología",
+  "filename": "Papiledema-2025",
+  "id": "map_1024",
+  "resolved_references": []
+}

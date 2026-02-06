@@ -1,0 +1,261 @@
+{
+  "title": "HYVET (2008) Hypertension in the Very Elderly Trial  ⭐ Estudio pivote HTA en ≥80 años",
+  "guid": "HYVET-2008-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/HYVET-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HYVET (2008)\nHypertension in the Very Elderly Trial\n\n⭐ Estudio pivote HTA en ≥80 años",
+    "guid": "HYVET-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACIÓN",
+        "guid": "HYVET-ID",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Acrónimo\nHYpertension in the Very Elderly Trial",
+            "guid": "HYVET-ID1",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Publicación\nNEJM 2008;358:1887-98\nDOI: 10.1056/NEJMoa0801369",
+            "guid": "HYVET-ID2",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "Financiamiento\nBritish Heart Foundation",
+            "guid": "HYVET-ID3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "🔬 DISEÑO",
+        "guid": "HYVET-DESIGN",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "Tipo\nRCT doble ciego\nPlacebo-controlado",
+            "guid": "HYVET-D1",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "5",
+            "text": "Países\n195 centros, 13 países\n(Europa, China, Australasia)",
+            "guid": "HYVET-D2",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "5",
+            "text": "Período\n2001-2007\nSeguimiento: 1.8 años\nTerminado precozmente",
+            "guid": "HYVET-D3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "👥 POBLACIÓN",
+        "guid": "HYVET-POP",
+        "children": [
+          {
+            "id": "10",
+            "parent": "9",
+            "text": "n = 3845 aleatorizados\n1933 indapamida\n1912 placebo",
+            "guid": "HYVET-P1",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "9",
+            "text": "Criterios inclusión\n• Edad ≥80 años\n• PAS 160-199 mmHg\n• PAD menor a 110 mmHg",
+            "guid": "HYVET-P2",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "9",
+            "text": "Exclusión\n• HTA secundaria\n• IC que requiere antiHTA\n• Demencia\n• Dependencia",
+            "guid": "HYVET-P3",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "9",
+            "text": "Edad media: 83.6 años\n60.5% mujeres\nPA: 173/90 mmHg",
+            "guid": "HYVET-P4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "parent": "0",
+        "text": "💊 INTERVENCIÓN",
+        "guid": "HYVET-INT",
+        "children": [
+          {
+            "id": "15",
+            "parent": "14",
+            "text": "Grupo activo\nIndapamida SR 1.5 mg/día\n± Perindopril 2-4 mg",
+            "guid": "HYVET-I1",
+            "children": []
+          },
+          {
+            "id": "16",
+            "parent": "14",
+            "text": "Meta: PA menor a 150/80 mmHg",
+            "guid": "HYVET-I2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "17",
+        "parent": "0",
+        "text": "📊 OUTCOMES",
+        "guid": "HYVET-OUT",
+        "children": [
+          {
+            "id": "18",
+            "parent": "17",
+            "text": "Outcome primario\nACV fatal o no fatal\nHR 0.70 (0.49-1.01) p=0.06\n↓30% (no significativo)",
+            "guid": "HYVET-O1",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "17",
+            "text": "Outcomes secundarios ⭐\n• Mortalidad total: ↓21% p=0.02\n• IC: ↓64% p menor a 0.001\n• ACV fatal: ↓39%",
+            "guid": "HYVET-O2",
+            "children": []
+          },
+          {
+            "id": "20",
+            "parent": "17",
+            "text": "NNT\n• ACV: 40 a 2 años\n• Mortalidad: 40 a 2 años",
+            "guid": "HYVET-O3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "21",
+        "parent": "0",
+        "text": "⚠️ SESGOS",
+        "guid": "HYVET-SEG",
+        "children": [
+          {
+            "id": "22",
+            "parent": "21",
+            "text": "Limitaciones\n• Terminado precozmente\n• Run-in period\n• Excluye dementes/frágiles\n• Seguimiento corto",
+            "guid": "HYVET-S1",
+            "children": []
+          },
+          {
+            "id": "23",
+            "parent": "21",
+            "text": "Sesgo selección\nNo aplica a población\ngeriátrica real (frágiles)",
+            "guid": "HYVET-S2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "🏥 GERIATRÍA",
+        "guid": "HYVET-GER",
+        "children": [
+          {
+            "id": "25",
+            "parent": "24",
+            "text": "Fortalezas\n• Único RCT en ≥80 años\n• Meta conservadora 150/80",
+            "guid": "HYVET-G1",
+            "children": []
+          },
+          {
+            "id": "26",
+            "parent": "24",
+            "text": "Precauciones\n• No aplica a frágiles\n• Vigilar hipotensión ortostática\n• Evaluar expectativa vida",
+            "guid": "HYVET-G2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "27",
+        "parent": "0",
+        "text": "💎 PERLAS CLÍNICAS",
+        "guid": "HYVET-PERLAS",
+        "children": [
+          {
+            "id": "28",
+            "parent": "27",
+            "text": "1. Primer RCT que demuestra\nbeneficio tratar HTA en ≥80",
+            "guid": "HYVET-PE1",
+            "children": []
+          },
+          {
+            "id": "29",
+            "parent": "27",
+            "text": "2. Meta 150/80 es razonable\nen muy ancianos",
+            "guid": "HYVET-PE2",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "27",
+            "text": "3. ↓IC 64% inesperado",
+            "guid": "HYVET-PE3",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "27",
+            "text": "4. NO aplica a frágiles/dementes",
+            "guid": "HYVET-PE4",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "📚 Referencias",
+        "guid": "HYVET-REF",
+        "children": [
+          {
+            "id": "33",
+            "parent": "32",
+            "text": "1. Beckett NS, et al. NEJM 2008\n2. Peters R, Lancet Neurol 2008",
+            "guid": "HYVET-R1",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 34,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "HYVET-2026",
+  "id": "map_17",
+  "resolved_references": []
+}

@@ -1,0 +1,85 @@
+{
+  "title": "SELECT (2023)",
+  "guid": "SELECT-2023-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/SELECT-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "SELECT (2023)\nSemaglutide Effects on\nCardiovascular Outcomes\nin Obesity without Diabetes\n\\n⭐ Semaglutida reduce 20%\neventos CV en obesidad SIN DM",
+    "guid": "SELECT-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Lincoff AM et al.\nAño: 2023\nRevista: NEJM\nDOI: 10.1056/NEJMoa2307563\n\\nDiseño: RCT doble ciego\\nMulticéntrico: 41 países\\nn = 17,604 pacientes\\nSeguimiento: Media 39.8 meses",
+        "guid": "SELECT-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Lincoff AM et al. NEJM 2023\\n   DOI: 10.1056/NEJMoa2307563\\n\\n2. FDA Cardiovascular indication\\n   Wegovy (semaglutide) 2024\\n\\n3. ACC/AHA Obesity Guidelines",
+            "guid": "SELECT-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Edad mayor o igual 45 años\\n• IMC mayor o igual 27 kg/m2\\n• ECV establecida previa:\\n  - IAM, ACV, o\\n  - Enfermedad arterial periférica\\n• SIN diabetes mellitus\\n\\nCriterios Exclusion:\\n• DM1 o DM2\\n• HbA1c mayor o igual 6.5%\\n• Uso previo GLP-1 RA\\n• Pancreatitis previa\\n\\nCaracterísticas:\\n• Edad media: 61.6 años\\n• IMC medio: 33.3\\n• 72% hombres\\n• 100% ECV previa",
+        "guid": "SELECT-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Semaglutida:\\n• Semaglutida 2.4 mg SC\\n• Una vez por semana\\n• Titulación 16 semanas\\n  (0.25 a 2.4 mg)\\n\\nGrupo Control:\\n• Placebo SC semanal\\n• Mismo esquema titulación\\n\\nCo-intervenciones:\\n• Manejo CV estándar\\n• Estatinas, antihipertensivos\\n• Sin restricción dieta",
+        "guid": "SELECT-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nOutcome Primario MACE:\\n(Muerte CV + IAM + ACV no fatal)\\n• Semaglutida: 6.5%\\n• Placebo: 8.0%\\n• HR 0.80 (IC95% 0.72-0.90)\\n• p menor 0.001 ✓\\n• RRR: 20%\n\\nPérdida peso:\\n• Semaglutida: -9.4%\\n• Placebo: -0.9%\n\\nMortalidad CV:\\n• HR 0.85 (0.71-1.01)\\n• NS (tendencia favorable)\n\\nIAM no fatal:\\n• HR 0.72 (0.61-0.85) ✓",
+        "guid": "SELECT-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos adversos GI:\\n• Náuseas: 45% vs 10%\\n• Vómitos: 24% vs 4%\\n• Diarrea: 32% vs 16%\\n• Constipación: 24% vs 11%\\n\\nDescontinuación por EA:\\n• Semaglutida: 16.6%\\n• Placebo: 8.2%\\n• p menor 0.001\\n\\nSIN aumento:\\n• Pancreatitis\\n• Cáncer tiroides\\n• Hipoglicemia severa\\n• Colelitiasis sintomática",
+        "guid": "SELECT-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Muy grande (17,604 pts)\\n✓ Doble ciego\\n✓ Outcomes duros CV\\n✓ Seguimiento prolongado\\n✓ Primera evidencia sin DM\\n\\nLimitaciones:\\n• Alta discontinuación (16.6%)\\n• Efectos GI limitan ciego\\n• Financiado Novo Nordisk\\n• Solo prevención secundaria\\n• Costo elevado\\n\\nGeneralizabilidad:\\n• Extiende beneficio a\\n  obesidad sin diabetes",
+        "guid": "SELECT-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐ Muy relevante\n\\nConsideraciones ancianos:\\n• Obesidad sarcopénica común\\n• ECV prevalente\\n• Beneficio CV independiente peso\\n\\nPrecauciones geriátricas:\\n• Náuseas: riesgo deshidratación\\n• Pérdida peso: vigilar sarcopenia\\n• Anorexia: puede empeorar\\n• Titulación más lenta\\n• Costo: acceso limitado\\n\\nConsiderar si:\\n• Obesidad + ECV establecida\\n• Sin DM pero alto riesgo CV\\n• Tolera vía subcutánea",
+        "guid": "SELECT-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Beneficio CV INDEPENDIENTE\n   del efecto hipoglicemiante\n\\n2. NO requiere diabetes:\n   obesidad + ECV es suficiente\n\\n3. Pérdida peso promedio 9.4%\n   pero beneficio CV aparece antes\n\\n4. Efectos GI son principales\n   limitantes de adherencia\n\\n5. Costo-efectividad:\n   comparable a estatinas\n\\n6. Expandió indicaciones:\n   no solo DM, también obesidad CV\n\\n7. Diferencia vs STEP:\n   SELECT es prevención secundaria",
+        "guid": "SELECT-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "SELECT-2026",
+  "id": "map_342",
+  "resolved_references": []
+}

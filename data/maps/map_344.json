@@ -1,0 +1,85 @@
+{
+  "title": "BAFTA (2007)",
+  "guid": "BAFTA-2007-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/BAFTA-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "BAFTA (2007)\nBirmingham Atrial Fibrillation\nTreatment of the Aged\n\\n⭐ Warfarina SUPERIOR a aspirina\nen prevención ACV en FA\nmayores de 75 años",
+    "guid": "BAFTA-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Mant J et al.\nAño: 2007\nRevista: Lancet\nDOI: 10.1016/S0140-6736(07)61233-1\n\\nDiseño: RCT abierto\\nAtención primaria UK\\nn = 973 pacientes\\nSeguimiento: Media 2.7 años",
+        "guid": "BAFTA-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Mant J et al. Lancet 2007\\n   DOI: 10.1016/S0140-6736(07)61233-1\\n\\n2. ELDERCARE-AF. NEJM 2020\\n   Edoxabán dosis baja\\n\\n3. ESC AF Guidelines 2024",
+            "guid": "BAFTA-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Edad mayor o igual 75 años\\n• FA confirmada (paroxística\\n  o persistente)\\n• Sin contraindicación ACO\\n\\nCriterios Exclusion:\\n• Valvulopatía reumática\\n• Contraindicación warfarina\\n• Ya en anticoagulación\\n\\nCaracterísticas:\\n• Edad media: 81.5 años\\n• 55% mujeres\\n• CHADS2 medio: 2.3\\n• 40% con HTA",
+        "guid": "BAFTA-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Warfarina:\\n• Meta INR 2-3\\n• Monitoreo regular\\n• Ajuste según INR\\n\\nGrupo Aspirina:\\n• Aspirina 75 mg/día\\n• Sin monitoreo especial\\n\\nNota:\\n• Estudio abierto\\n• Outcomes cegados\\n• Era pre-DOACs",
+        "guid": "BAFTA-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nACV + embolismo (primario):\\n• Warfarina: 1.8%/año\\n• Aspirina: 3.8%/año\\n• RR 0.48 (IC95% 0.28-0.80)\\n• p = 0.003 ✓\\n• NNT = 50/año\n\\nACV fatal/discapacitante:\\n• Warfarina: 0.8%/año\\n• Aspirina: 1.9%/año\\n• p = 0.03 ✓\n\\nSangrado mayor:\\n• Warfarina: 1.9%/año\\n• Aspirina: 2.0%/año\\n• p = NS\\n• SIN diferencia",
+        "guid": "BAFTA-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nSangrado mayor:\\n• Similar entre grupos\\n• Warfarina NO aumentó\\n  sangrado vs aspirina\\n\\nHemorragia intracraneal:\\n• Warfarina: 0.5%/año\\n• Aspirina: 0.4%/año\\n• Sin diferencia\\n\\nMortalidad:\\n• Similar entre grupos\\n\\nMensaje clave:\\n• Edad NO es contraindicación\\n• Beneficio neto a favor warfarina\\n• Aspirina NO es alternativa segura",
+        "guid": "BAFTA-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT en muy ancianos\\n✓ Setting atención primaria\\n✓ Outcome cegado\\n✓ Seguimiento adecuado\\n\\nLimitaciones:\\n• Estudio abierto\\n• Pre-DOACs (solo warfarina)\\n• UK (sistema salud específico)\\n• Exclusión alto riesgo sangrado\\n\\nRelevancia actual:\\n• DOACs han reemplazado warfarina\\n• Pero principio se mantiene:\\n  ACO mayor que antiagregante en FA",
+        "guid": "BAFTA-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Fundamental\n\\nMensaje clave:\\n• Mayor 75 años DEBE recibir\\n  anticoagulación en FA\\n• Edad NO es contraindicación\\n• Aspirina NO es alternativa\\n\\nAplicación actual:\\n• DOACs preferidos sobre warfarina\\n• Apixabán mejor perfil ancianos\\n• Dosis ajustada si corresponde\\n\\nExcepciones:\\n• Sangrado activo\\n• Riesgo caídas extremo\\n• Expectativa vida muy limitada\\n• Decisión compartida",
+        "guid": "BAFTA-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Edad NO contraindica ACO:\n   mayor 75 años = MÁS beneficio\n\\n2. Aspirina NO es alternativa:\n   no previene ACV en FA\n\\n3. Sangrado similar:\n   warfarina no sangra más que AAS\n\\n4. NNT 50/año para prevenir ACV:\n   muy costo-efectivo\n\\n5. CHA2DS2-VASc incluye edad:\n   mayor 75 = 2 puntos\n\\n6. Hoy usar DOACs:\n   mejor perfil que warfarina\n\\n7. Apixabán/Edoxabán:\n   dosis reducida disponible\n\\n8. ELDERCARE-AF 2020:\n   Edoxabán 15mg en muy frágiles",
+        "guid": "BAFTA-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "BAFTA-2026",
+  "id": "map_344",
+  "resolved_references": []
+}

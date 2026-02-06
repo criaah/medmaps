@@ -1,0 +1,795 @@
+{
+  "title": "TROMBOPOYESIS",
+  "guid": "00DDFD104F0ECB13562DBC67",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/4. TROMBOPOYESIS-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "TROMBOPOYESIS",
+    "guid": "UtUXuAvhBA0g_DoSBBdiew",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## 1. INTRODUCCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Proceso de formación de plaquetas",
+            "guid": "OOInuWY5Kp8RnuEXHtINhw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Parte del sistema hematopoyético",
+            "guid": "ANZEiC1iOf0T5OWse8eFjw",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Regulado por citoquinas y factores de maduración",
+            "guid": "dHDXCFCwYPco0GPWYUCkrw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "## 2. CÉLULAS MADRE",
+        "guid": "",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "- Origen: células madre hematopoyéticas pluripotenciales",
+            "guid": "c3HAFW0A3z0_jBLbWR4yug",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "5",
+            "text": "- Ciclo vital de plaquetas: 7-10 días",
+            "guid": "eIZ9xhZhDsNrFxIlWSPtQA",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "5",
+            "text": "- Requiere proliferación continua para mantener recuento",
+            "guid": "Fz8L0zol3TgvUamnahQjjA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "## 3. MEGACARIOCITOS",
+        "guid": "csu28T8jgDUJuFspZj13Bw",
+        "children": [
+          {
+            "id": "10",
+            "parent": "9",
+            "text": "- Nombre: mega (grande) + cario (núcleo) + cito (célula)",
+            "guid": "RgbhRlBN47puK4YHX8cR2Q",
+            "children": []
+          },
+          {
+            "id": "11",
+            "parent": "9",
+            "text": "- Tamaño: 20-100 μm",
+            "guid": "NoI7DTN8J6h1BcReb2Rixg",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "9",
+            "text": "- Función biológica: producir plaquetas (trombocitos)",
+            "guid": "GbVSRwakpXUONnBOGouWzw",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "9",
+            "text": "- Características: células poliploides (hasta 128N)",
+            "guid": "NAbfciIbVfoWUxxfKHe2eg",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "9",
+            "text": "### PROCESO DE\nDIFERENCIACIÓN",
+            "guid": "LCRfcklEbgU_W6nBJKrdOA",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "- **Megacariopoyesis\ncanónica**:",
+                "guid": "X6V8yCpyu-d9zsp5duSImw",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "- Célula madre hematopoyética → BFU-MK → CFU-MK → Megacarioblasto → Promegacariocito → Megacariocito",
+                    "guid": "ZJiZHy0gdCBg-KwnKp96ZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "- Duración aproximada: 10 días",
+                    "guid": "fW5X2k8kMi8KZow-M_CS6A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18",
+                "parent": "14",
+                "text": "- **Megacarioblasto**:",
+                "guid": "AqBZ139sUJ0jVPWuHFWsHg",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "- Núcleo ovalado único",
+                    "guid": "BhD2EjGLZfw24ULuOhfVhQ",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "- Citoplasma basófilo no granular",
+                    "guid": "U6a79k00X01ij4v_RnJy6A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "parent": "14",
+                "text": "- **Promegacariocito**:",
+                "guid": "DFffgmxH5yksr-nvOHw-9Q",
+                "children": [
+                  {
+                    "id": "22",
+                    "parent": "21",
+                    "text": "- 2-4 núcleos",
+                    "guid": "NYxVLmwLk7BdJxwtFTHR9g",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "21",
+                    "text": "- Citoplasma basófilo",
+                    "guid": "Fn5Pl1r15qYMFlqRexbotw",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "21",
+                    "text": "- Gránulos azurofílicos",
+                    "guid": "CBZax20PBrkltmMcBYSyoQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "25",
+                "parent": "14",
+                "text": "- **Megacariocito\nmaduro**:",
+                "guid": "PDM46DAc71s5dUWJPtOSvw",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "- Gran volumen citoplasmático",
+                    "guid": "L4k_-FzKOzhbKT7dNZo2Cg",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "25",
+                    "text": "- Sistema de demarcación de membrana (DMS)",
+                    "guid": "DlWhNBIKgctvsguPYfxdKw",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "25",
+                    "text": "- Gránulos (densos, alfa y lisosomas)",
+                    "guid": "Xz7hGFJBl48obtATa5bAmw",
+                    "children": []
+                  },
+                  {
+                    "id": "29",
+                    "parent": "25",
+                    "text": "- Receptores de superficie (glucoproteínas/integrinas)",
+                    "guid": "Pol-uFUeugIkEv-QdBXT5g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "parent": "9",
+            "text": "### ENDOMITOSIS",
+            "guid": "QSpNsgE6G70JR6XcV6idSg",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "- Duplicación de material genético",
+                "guid": "XDACZBVeAG1Sv4YBZEZdKw",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "30",
+                "text": "- Mitosis inconclusa",
+                "guid": "Am0HJnh16R1pyw_MPqBADg",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "30",
+                "text": "- Aumento del tamaño celular",
+                "guid": "KJLYeCNAVVZ9c9LNWBwYcA",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "30",
+                "text": "- Incremento de síntesis proteica",
+                "guid": "AAqQjlidEasNtk57DmAxwg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "## 4. FORMACIÓN DE PLAQUETAS",
+        "guid": "N30q6GWmoe9OdedBRD1aXw",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "### MODELOS DE\nFORMACIÓN",
+            "guid": "aqeTdn1oWgpwXI7tSeZ0jw",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "1. **Modelo de proplaquetas**\n(Wright):",
+                "guid": "T6nxmRjLXwA1fTUqDjNwUQ",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "- Formación de prolongaciones citoplasmáticas (2-4 μm)",
+                    "guid": "beoZAlmQNLoCSUQ3LxRmtQ",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "- DMS como depósito de membrana",
+                    "guid": "WspQdwuQ6hMGvQP_NvpS2w",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "- Microtúbulos esenciales para formación y transporte",
+                    "guid": "IO7qgVl8igAbQLAGI1vxpw",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "37",
+                    "text": "- Liberación en sinusoides vasculares por estímulo mecánico",
+                    "guid": "UfJzHQULv9Nh_DG2eoVLlg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42",
+                "parent": "36",
+                "text": "2. **Modelo de fragmentación**\n(Sharnoff):",
+                "guid": "KEwVKV9wBINSoWQGKFaltw",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "- MK viajan a pulmones y se fragmentan en capilares",
+                    "guid": "OA0WLmBXsoE2ttd5IrSppQ",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "42",
+                    "text": "- DMS define territorios plaquetarios preformados",
+                    "guid": "XcAMjCcTZmdsmx40LWn-JQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45",
+                "parent": "36",
+                "text": "3. **Teoría de fragmentación\nexplosiva**:",
+                "guid": "P97FZyIYU147nW53Lcjeag",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "- Respuesta a condiciones proinflamatorias",
+                    "guid": "e6iIGD3msq5c3UUfVnLYjw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "- Liberación rápida de plaquetas preformadas",
+                    "guid": "SXecwmOaSR4NbStramaHQw",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "45",
+                    "text": "- Fraccionamiento del citoplasma",
+                    "guid": "PRbTHiit23ENwnjqDwlGOw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "parent": "35",
+            "text": "### PRODUCCIÓN",
+            "guid": "LbmbRG--qqAJjpHRVgWwbQ",
+            "children": [
+              {
+                "id": "50",
+                "parent": "49",
+                "text": "- 200-5000 plaquetas por megacariocito",
+                "guid": "Ty6vJFwv9dh-XFYkBzvFUg",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "49",
+                "text": "- Ocurre principalmente en nicho vascular de médula ósea",
+                "guid": "PIeoWTUTLZ4p8G73Gke05Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "## 5. TROMBOPOYETINA (TPO)",
+        "guid": "Egq9ZTBvpIwcje9eG4ZJvw",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "###\nCARACTERÍSTICAS",
+            "guid": "XCaUBRaLjStHsbMLHAVZbA",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "- Principal regulador de megacariopoyesis",
+                "guid": "OKPgiQNPIYJJzjfWNExooQ",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "- Polipéptido de 353 aminoácidos (proteína madura)",
+                "guid": "QTXUMCarfPUKv0ExCq1w8g",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "- Estructura:",
+                "guid": "cpUbwF_0cT5EmZO_QcPK5A",
+                "children": [
+                  {
+                    "id": "57",
+                    "parent": "56",
+                    "text": "- Dominio amino-terminal: homólogo a eritropoyetina, se une al receptor c-MPL",
+                    "guid": "CkXGExgsbJx1E_g1R1yZMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "56",
+                    "text": "- Dominio carboxilo-terminal: aumenta vida media, actúa como chaperona",
+                    "guid": "QNpIDQLWcSBWZd9tbpPjUg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "parent": "52",
+            "text": "### PRODUCCIÓN Y\nREGULACIÓN",
+            "guid": "PCRnFkL16eRI_5A3eKwPcA",
+            "children": [
+              {
+                "id": "60",
+                "parent": "59",
+                "text": "- Producción\nconstitutiva:",
+                "guid": "YK65vwErFrYp194FavR_0w",
+                "children": [
+                  {
+                    "id": "61",
+                    "parent": "60",
+                    "text": "- Principalmente en hígado",
+                    "guid": "eAkXgnLv_y4S88RVVC-rhw",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "60",
+                    "text": "- En menor medida en riñón",
+                    "guid": "CXuMWlqld2BwNQTzQh9s4w",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "60",
+                    "text": "- También en músculo liso y médula ósea",
+                    "guid": "XfSY4joDPMp2a9WFHyptEw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "64",
+                "parent": "59",
+                "text": "- Regulación por\nretroalimentación:",
+                "guid": "UFUsVR8avjcde-A2SF5D1w",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "- Secuestrada por plaquetas circulantes (receptor c-MPL)",
+                    "guid": "GVeDUh7r1jsyURkEWjHLXw",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "64",
+                    "text": "- Trombocitosis → bajos niveles de TPO",
+                    "guid": "IcJHWwi2-HFIxa6xFFdjGw",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "64",
+                    "text": "- Trombocitopenia → altos niveles de TPO",
+                    "guid": "aKtpsA1fQnFWGy4AJM_Qxg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "68",
+            "parent": "52",
+            "text": "### MECANISMO\nDE ACCIÓN",
+            "guid": "CxUb7AzC9FFdpbajaQm0zw",
+            "children": [
+              {
+                "id": "69",
+                "parent": "68",
+                "text": "1. TPO se une al receptor c-MPL",
+                "guid": "RsYxG1QRjCgINCHiJ3Tq2w",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "68",
+                "text": "2. Internalización del complejo receptor-ligando",
+                "guid": "VTyi3jIL_-cSaWqubpQmMA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "68",
+                "text": "3. Activación de vías\nde señalización:",
+                "guid": "KNg7XVQsQjwp2HP1M-1XSQ",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "- JAK2",
+                    "guid": "UPfWIkS6g7JIxfGPcrodfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "71",
+                    "text": "- STAT3/STAT5",
+                    "guid": "TXF8JBGLoEEHEYCZNhzl1A",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "71",
+                    "text": "- MAPK/ERK",
+                    "guid": "Hurisl0srpla7Laab0APBw",
+                    "children": []
+                  },
+                  {
+                    "id": "75",
+                    "parent": "71",
+                    "text": "- PI3K/AKT",
+                    "guid": "fEds0HholtE3nlLeDlIqNQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76",
+                "parent": "68",
+                "text": "4. Activación de factores de transcripción específicos",
+                "guid": "YO82jQd-Kpgc9wwYJ7VnqQ",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "68",
+                "text": "5. Regulación de expresión génica",
+                "guid": "W4-2wCUrLfpPKlKEMMxZng",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "78",
+            "parent": "52",
+            "text": "### REGULACIÓN\nALTERNATIVA",
+            "guid": "Vzct4mGTvTIfYH_OKC8EBA",
+            "children": [
+              {
+                "id": "79",
+                "parent": "78",
+                "text": "- Estados inflamatorios → aumento de TPO",
+                "guid": "Jk5A5GgmcV0a6SGCc7-9CA",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "78",
+                "text": "- IL-6 → estimula producción de TPO en hepatocitos",
+                "guid": "ebIRniH6ohsp3KLcGJz0UA",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "78",
+                "text": "- Enfermedades autoinmunes (colitis ulcerosa, artritis reumatoide) → trombocitosis",
+                "guid": "fydQtATJWXcH3QNXe269hA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "82",
+        "parent": "0",
+        "text": "## 6. TROMBOPOYESIS\nEXTRAMEDULAR",
+        "guid": "SuIo-l9qOrpDk6l6AvCoGQ",
+        "children": [
+          {
+            "id": "83",
+            "parent": "82",
+            "text": "###\nTROMBOPOYESIS\nPULMONAR",
+            "guid": "fTHwSD97VjUJwOe5JgorpQ",
+            "children": [
+              {
+                "id": "84",
+                "parent": "83",
+                "text": "- Presencia de MK en vasos pulmonares",
+                "guid": "E6eYcTOZW65Z94LudJbO_w",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "83",
+                "text": "- Liberación de plaquetas en respuesta a estímulos",
+                "guid": "OxeGRnbujwccTDaoFqc9Bg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "86",
+            "parent": "82",
+            "text": "### MECANISMO",
+            "guid": "HBm9AWt2iSxHc5akc1Dq4w",
+            "children": [
+              {
+                "id": "87",
+                "parent": "86",
+                "text": "1. MK y proplaquetas cruzan barrera endotelial desde médula ósea y bazo",
+                "guid": "TQpGXmbUFnIbf-7oc1iHQg",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "86",
+                "text": "2. Quedan atrapados en\nmicrovasculatura pulmonar por:",
+                "guid": "Fb5AnmkmkRZS-cC9EvAw5g",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "- Diámetro",
+                    "guid": "TvqH0DZpEGpnGERLSKyZbg",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "88",
+                    "text": "- Rigidez del citoesqueleto",
+                    "guid": "WGOyhRD05ydhSY2_V4sDOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91",
+                "parent": "86",
+                "text": "3. Tensión de cizallamiento e interacciones moleculares favorecen generación de plaquetas",
+                "guid": "KKHnTFy6qHY4-lyLPEl_vQ",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "86",
+                "text": "4. Sangre entrante al pulmón: rica en MK",
+                "guid": "EFQEJRLx33ow4E68S2uKaw",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "86",
+                "text": "5. Sangre saliente del pulmón: rica en plaquetas, casi sin MK",
+                "guid": "CeBugU0shWRiEsdyJforgg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "parent": "82",
+            "text": "### POBLACIONES DE\nMK EN PULMÓN",
+            "guid": "OKMOkCmGXhYZSxZmBa1U7g",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "1. **MK\nintravasculares**:",
+                "guid": "cRMHowlLI4YbIst2BtFIQg",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "- Productores activos de plaquetas",
+                    "guid": "EFp0iTTLBU55BdwxX1T8WQ",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "- Similares a los de médula ósea",
+                    "guid": "azQVuGAeIHwoAZXHQ5fIPQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "98",
+                "parent": "94",
+                "text": "2. **MK residentes**:",
+                "guid": "cnG0nW4cjDMZwXkoGxOb6Q",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "- Más pequeños e inmaduros",
+                    "guid": "Stc0qVK71bRXXRumWys4zg",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "98",
+                    "text": "- No liberan proplaquetas activamente",
+                    "guid": "Za21Lgg9amMmlsM6b44jrw",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "98",
+                    "text": "- Función\nprincipalmente\ninmunitaria:",
+                    "guid": "VWnvxwipiqwViE8xDgz-WA",
+                    "children": [
+                      {
+                        "id": "102",
+                        "parent": "101",
+                        "text": "- Inmunidad innata",
+                        "guid": "Mi_owi7TZZcTulNGQopdSw",
+                        "children": []
+                      },
+                      {
+                        "id": "103",
+                        "parent": "101",
+                        "text": "- Inflamación",
+                        "guid": "Y55q5QzAL3ch31mkTtKAnQ",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "101",
+                        "text": "- Reconocimiento de patógenos",
+                        "guid": "bN5P80ng72wSakjaXfFXlw",
+                        "children": []
+                      },
+                      {
+                        "id": "105",
+                        "parent": "101",
+                        "text": "- Procesamiento y presentación de antígenos",
+                        "guid": "UywS8i2NFFBkwp_ZRZ3Hjw",
+                        "children": []
+                      },
+                      {
+                        "id": "106",
+                        "parent": "101",
+                        "text": "- Activación de linfocitos CD4+",
+                        "guid": "G6mgg36EGQFgsWN4ZoDVLQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 107,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "4. TROMBOPOYESIS-2025-1",
+  "id": "map_1400",
+  "resolved_references": []
+}

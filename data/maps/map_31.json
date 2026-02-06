@@ -1,0 +1,85 @@
+{
+  "title": "ABCDEF Bundle",
+  "guid": "ABCDEF-BUNDLE-2017",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/ABCDEF-Bundle-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ABCDEF Bundle (2017)\nAwaken and Breathe\nCoordination, Delirium\nEarly mobility, Family\n\\n⭐ Reduce delirium 40%\\nMortalidad 68% menor\\nen pacientes UCI",
+    "guid": "ABCDEF-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Ely EW, Pun BT et al.\nAño: 2017\nRevista: Critical Care Med\nDOI: 10.1097/CCM.0000000000002376\\n\\nDiseño: Estudio observacional\\nMulticéntrico (68 UCIs)\\nn = 15,226 adultos\\nSeguimiento: hasta alta UCI",
+        "guid": "ABCDEF-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Pun BT et al. Crit Care Med 2017\\n   DOI: 10.1097/CCM.0000000000002376\\n\\n2. Guías PADIS 2018\\n   Crit Care Med\\n\\n3. ICU Liberation\\n   www.iculiberation.org",
+            "guid": "ABCDEF-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "📋 COMPONENTES ABCDEF\n\\nA: Assess, prevent, manage pain\\n   - Evaluar dolor (escalas)\\n   - Tratar adecuadamente\\n\\nB: Both SAT and SBT\\n   - Despertar espontáneo diario\\n   - Prueba respiración espontánea\\n\\nC: Choice of sedation\\n   - Sedación ligera\\n   - Evitar benzodiazepinas\\n   - Preferir propofol/dexmed\\n\\nD: Delirium assess and manage\\n   - CAM-ICU 2 veces/día\\n   - Tratar causas\\n   - NO antipsicóticos rutina",
+        "guid": "ABCDEF-COMP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "📋 COMPONENTES (cont)\n\\nE: Early mobility/exercise\\n   - Movilización en cama\\n   - Sedestación\\n   - Bipedestación\\n   - Deambulación precoz\\n   - Fisioterapia diaria\\n\\nF: Family engagement\\n   - Visitas flexibles\\n   - Participación cuidados\\n   - Diario del paciente\\n   - Comunicación empática\\n   - Decisiones compartidas\\n\\nIntegración:\\n• Todos los componentes juntos\\n• Checklist diario\\n• Cultura de equipo",
+        "guid": "ABCDEF-COMP2",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nDelirium (por componente):\\n• Cada componente adicional:\\n  reducción 15% odds delirium\\n• Cumplimiento completo:\\n  reducción 40% delirium\n\\nMortalidad hospitalaria:\\n• Por cada 10% cumplimiento:\\n  reducción 68% mortalidad\n\\nVentilación mecánica:\\n• Reducción días de VM\\n\\nAlta a domicilio:\\n• Mayor probabilidad vs\\n  institucionalización\n\\nReadmisiones:\\n• Tendencia a reducción",
+        "guid": "ABCDEF-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "🔧 IMPLEMENTACION\n\\nBarreras comunes:\\n• Falta tiempo\\n• Personal insuficiente\\n• Cultura sedación profunda\\n• Miedo extubación accidental\\n\\nFacilitadores:\\n• Liderazgo comprometido\\n• Protocolos escritos\\n• Auditoría y feedback\\n• Equipo multidisciplinario\\n\\nMétricas:\\n• % cumplimiento cada letra\\n• Días sin delirium\\n• Tiempo ventilación\\n• Movilización precoz %",
+        "guid": "ABCDEF-IMPL",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ EVIDENCIA\n\\nFortalezas:\\n✓ Estudio grande (n mayor 15,000)\\n✓ 68 UCIs multicéntrico\\n✓ Outcomes clínicos relevantes\\n✓ Base de guías PADIS 2018\\n\\nLimitaciones:\\n• Observacional (no RCT)\\n• Causalidad no demostrada\\n• Heterogeneidad implementación\\n• Contexto USA principalmente\\n\\nEstudios soporte:\\n• MENDS (dexmed)\\n• MIND-USA (no antipsicóticos)\\n• Early mobility trials",
+        "guid": "ABCDEF-EVID",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Fundamental\n\\nRelevancia en ancianos:\\n• Mayor riesgo delirium\\n• Mayor beneficio prevención\\n• Peor pronóstico si delirium\\n\\nAdaptaciones geriátricas:\\n• Movilización gradual\\n• Evaluación fragilidad\\n• Comunicación familiar intensa\\n• Prevención caídas\\n• Nutrición precoz\\n\\nIntegración con VGI:\\n• Bundle + VGI = sinérgico\\n• Identificar basal cognitivo\\n• Metas funcionales realistas",
+        "guid": "ABCDEF-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. PREVENIR es mejor que tratar:\n   delirium se evita, no se cura\n\\n2. TODOS los componentes:\n   sinergia, no elegir solo algunos\n\\n3. Despertar diariamente:\n   SAT reduce VM y delirium\n\\n4. Movilización PRECOZ:\n   incluso en VM es seguro\n\\n5. FAMILIA es terapéutica:\n   reduce ansiedad y delirium\n\\n6. NO benzodiacepinas:\n   causan más delirium\n\\n7. Cultura de equipo:\n   no solo protocolo, mentalidad\n\\n8. 68% reducción mortalidad:\n   costo-efectivo, salva vidas",
+        "guid": "ABCDEF-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "ABCDEF-Bundle-2026",
+  "id": "map_31",
+  "resolved_references": []
+}

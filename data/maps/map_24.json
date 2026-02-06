@@ -1,0 +1,77 @@
+{
+  "title": "PARADIGM-HF-2014",
+  "guid": "12b74d7b-c3d5-41c5-9b2e-f2d2b5b4b6b8",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/PARADIGM-HF-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "PARADIGM-HF (2014)\nProspective comparison of ARNI with ACEI\n\\nSacubitril/Valsartan superior a Enalapril\\nen IC-FEr: reduce mortalidad 20%\nNNTH 21 a 27 meses",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nMcMurray JJ, et al.\\nN Engl J Med 2014;371:993-1004\nDOI: 10.1056/NEJMoa1409077\n\\nRCT multicentrico, doble ciego\\n47 paises\\nDetenido precozmente por beneficio",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=8,442\\nEdad media: 64 años (25% mayor 72a)\\n\\nCriterios:\\n- IC clase NYHA II-IV\\n- FEVI menor o igual 40% (luego 35%)\\n- BNP mayor o igual 150 pg/mL o\\n  NT-proBNP mayor o igual 600 pg/mL\\n- Tolerancia a enalapril 10mg bid\\n\\nSeguimiento: 27 meses (mediana)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nSacubitril/Valsartan 200mg bid\\nvs\\nEnalapril 10mg bid\\n\\nTitulacion requerida\\nRun-in para asegurar tolerancia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (muerte CV + hosp IC):\\nSacubitril/Valsartan: 21.8%\\nEnalapril: 26.5%\\nHR 0.80 (IC95% 0.73-0.87)\\np menor 0.001\nNNTH 21\n\\nMuerte CV: HR 0.80\\nHospitalizacion IC: HR 0.79\\nMortalidad total: HR 0.84\\n\\nMejoria calidad de vida\\nMenor empeoramiento sintomas",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nSacubitril/Valsartan:\\n- Mas hipotension sintomatica: 14% vs 9%\\n- Menos hiperkalemia: 12% vs 14%\\n- Menos elevacion creatinina: 3.3% vs 4.5%\\n- Mas angioedema no serio\\n\\nSin diferencia en funcion cognitiva",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Run-in excluyo intolerantes\\n- Poblacion relativamente joven (media 64a)\\n- Pocos muy ancianos o fragiles\\n- Requiere tolerancia previa a IECA\\n- Alto costo del farmaco",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Subanalisis en mayores 65a: beneficio mantenido\\n- Precaucion con hipotension en ancianos\\n- Menor riesgo de hiperkalemia vs IECA\\n- Considerar titulacion mas lenta\\n- Evaluar funcion cognitiva basal\\n- Costo-efectividad en expectativa limitada",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Cambio de paradigma en IC-FEr\\n2. NNT 21 = altamente efectivo\\n3. Beneficio en ancianos preservado\\n4. Menos hiperkalemia que enalapril\\n5. Atencion a hipotension en geriatria\\n6. No combinar con IECA (angioedema)\\n7. Esperar 36h tras suspender IECA\\n8. Considerar si BNP elevado persistente\\n9. Titulacion gradual obligatoria\\n10. Clase I en guias actuales IC-FEr",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "PARADIGM-HF-2026",
+  "id": "map_24",
+  "resolved_references": []
+}

@@ -1,0 +1,3486 @@
+{
+  "title": "Clase 9",
+  "guid": "64A45B9F6FF0AA0276FAAAC3",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/9-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Clase 9",
+    "guid": "GF14UGiBZqpFvFQPTyjv-A",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "# Estudios de\nExactitud Diagnóstica",
+        "guid": "feQqNwZHiyYTmgVra-C_7Q",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "## Introducción a los Estudios de\nExactitud Diagnóstica",
+            "guid": "G8pH_AMlsGsu9123YycMCg",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "- Descripción: Estudios observacionales analíticos para evaluar la capacidad de pruebas diagnósticas",
+                "guid": "NDY2Oz0bX1V-F1C1J9si7g",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "- Objetivo Fundamental: Evaluar una prueba diagnóstica o test",
+                "guid": "XjnXVh_3P2JU4cXsJL-87Q",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "- Tipo de Estudio: Observacional y analítico",
+                "guid": "XrgP2HH4Qi0-tPdhLI0Rjw",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "2",
+                "text": "- Propósito: Determinar capacidad para discriminar entre presencia/ausencia de enfermedad",
+                "guid": "ObxjgxdywRc1In1YUdYWDg",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "- Ejemplo Clásico: Dímero D en sospecha de TVP",
+                "guid": "HWD7fHeFPxcVioUKdIPsDw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "## Objetivos y Resultados\nde Aprendizaje",
+            "guid": "XCmatwV7LwxrfpbSdIcTBw",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "- Describir los principales indicadores de estudios de exactitud diagnóstica",
+                "guid": "bfyVtjE66uFDsAMACcbdsg",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "- Calcular e interpretar los resultados",
+                "guid": "NGCbTXKnYLds7em9aJbRiA",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "- Aplicar los resultados en la práctica clínica",
+                "guid": "L8LADGsFOnIQcfR2DfyXYw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "1",
+            "text": "## Conceptos Iniciales:\nPrueba Diagnóstica",
+            "guid": "Cvx51WVTumIyvFRQabSJrQ",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "- Definición: Método para obtener información adicional del estado de salud",
+                "guid": "V0v8j3FxS7EWQZs9EQhgEw",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "12",
+                "text": "- Finalidad: Eliminar zona de incertidumbre diagnóstica",
+                "guid": "COQMyEtkGJVi3nYhJkUIRQ",
+                "children": []
+              },
+              {
+                "id": "15",
+                "parent": "12",
+                "text": "- Beneficio: Reducir incertidumbre conociendo presencia/ausencia de condición",
+                "guid": "QulXrHho-ysayPRUHxLyYw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "## Ejemplos de Pruebas\nDiagnósticas en Medicina",
+            "guid": "N4J2B1dKCGt1p52fa-MRVA",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "- Scores para reflujo gastroesofágico",
+                "guid": "SfFpImKVh1xUeeLcebQpLw",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "16",
+                "text": "- Scores para enfermedades inflamatorias",
+                "guid": "TZrBz2Tr11MHsMCSWJc7pA",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "16",
+                "text": "- Puntos de corte de PCR para filtración de anastomosis digestiva",
+                "guid": "Sj-RtTptFOJCS8VRIYuORQ",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "16",
+                "text": "- Puntos de corte de procalcitonina en endocarditis infecciosa",
+                "guid": "K95gk1iNYI4yk-5YNMJtXA",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "16",
+                "text": "- Dímero D y presencia de TVP",
+                "guid": "I_F5IxVyZHlbB3WhZtrQ0A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "parent": "1",
+            "text": "## Objetivo Principal de los Estudios\nde Exactitud Diagnóstica",
+            "guid": "DdtfpHXQafUF7cMzC7-J2w",
+            "children": [
+              {
+                "id": "23",
+                "parent": "22",
+                "text": "- Meta: Tomar decisiones con margen de certeza",
+                "guid": "fBf1GxmHyJ53oEnIM5prIg",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "22",
+                "text": "- Acciones:",
+                "guid": "cNHRCW1H52cffXx3OsM6LA",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "- Descartar un diagnóstico",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "- Confirmar un diagnóstico para iniciar terapia",
+                    "guid": "T91uxHP3X1M0d2NbHXgwkw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "1",
+            "text": "## Diseño de los Estudios de\nExactitud Diagnóstica",
+            "guid": "WOM2pjwoI-12D2w3IyLIXA",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "- Tipos de Estudio:",
+                "guid": "dpU4zzhbMYhErlahInOZYg",
+                "children": [
+                  {
+                    "id": "29",
+                    "parent": "28",
+                    "text": "- Casos y controles",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "30",
+                    "parent": "28",
+                    "text": "- Transversales\n(más comunes)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "28",
+                    "text": "- De cohorte",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "32",
+                "parent": "27",
+                "text": "- Metodología: Comparación de prueba diagnóstica con gold estándar en mismo grupo",
+                "guid": "EOiSF3dCRPlXNga-NNoLOg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "33",
+            "parent": "1",
+            "text": "## Indicadores Clave en Estudios\nde Exactitud Diagnóstica",
+            "guid": "JvgBNyvpeABwZ8yLN-CTTg",
+            "children": [
+              {
+                "id": "34",
+                "parent": "33",
+                "text": "- Sensibilidad",
+                "guid": "DLSpcjI9fF8btNwKGpAJFg",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "33",
+                "text": "- Especificidad",
+                "guid": "KA3mVCGinz4mT5LxJCXbbw",
+                "children": []
+              },
+              {
+                "id": "36",
+                "parent": "33",
+                "text": "- Valor Predictivo Positivo (VPP)",
+                "guid": "Oypn3B3v3LlXwEaSK_w45g",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "33",
+                "text": "- Valor Predictivo Negativo (VPN)",
+                "guid": "CzfEIHc9wwlmv3MSWxUy5A",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "33",
+                "text": "- Razones de Verosimilitud (Likelihood Ratios)",
+                "guid": "azUiXBs21m14jWN3RBhZAw",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "33",
+                "text": "- Curvas ROC",
+                "guid": "V176Wm6cz65nOyFfTfQzKQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "40",
+            "parent": "1",
+            "text": "## Sensibilidad y\nEspecificidad",
+            "guid": "FQ0bCHf4LaV0_NYwAEI9ZQ",
+            "children": [
+              {
+                "id": "41",
+                "parent": "40",
+                "text": "- Sensibilidad: Capacidad para identificar\ncorrectamente personas con enfermedad",
+                "guid": "Iyu8-Ued00psup6IL-Bmaw",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "- Fórmula: Sensibilidad\n= VP/(VP+FN)",
+                    "guid": "edtPqQhvepNKcG-BIek1_g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43",
+                "parent": "40",
+                "text": "- Especificidad: Capacidad para identificar\ncorrectamente personas sin enfermedad",
+                "guid": "KhIZ0XDAAnJGDxFtZTyBrQ",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "- Fórmula: Especificidad\n= VN/(VN+FP)",
+                    "guid": "Dq_fKx3PV_8ROLqTGeejSw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "parent": "1",
+            "text": "## Valores Predictivos Positivos\n(VPP) y Negativos (VPN)",
+            "guid": "V38vxyjp_iE6_53beqrswA",
+            "children": [
+              {
+                "id": "46",
+                "parent": "45",
+                "text": "- VPP: Probabilidad de tener\nenfermedad si prueba es positiva",
+                "guid": "Ey8EEm2KOadEWpZoao3-bA",
+                "children": [
+                  {
+                    "id": "47",
+                    "parent": "46",
+                    "text": "- Fórmula: VPP =\nVP/(VP+FP)",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "48",
+                "parent": "45",
+                "text": "- VPN: Probabilidad de no tener\nenfermedad si prueba es negativa",
+                "guid": "XCcJViuVt8c4gjGVAx8KjQ",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "- Fórmula: VPN =\nVN/(VN+FN)",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "50",
+            "parent": "1",
+            "text": "## Razones de Verosimilitud\n(Likelihood Ratios)",
+            "guid": "ZbvFHlJbaIA_eFJ1dGukSQ",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "- RV+: Indica probabilidad de resultado\npositivo en personas con vs. sin enfermedad",
+                "guid": "cIfRaye6PGMqi1MramMhFA",
+                "children": [
+                  {
+                    "id": "52",
+                    "parent": "51",
+                    "text": "- Fórmula: RV+ = Sensibilidad/(1-Especificidad)",
+                    "guid": "MCm29nT7wqwMTFcSWjvQxw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "53",
+                "parent": "50",
+                "text": "- RV-: Indica probabilidad de resultado\nnegativo en personas con vs. sin enfermedad",
+                "guid": "cCrAf1CxDQgOU0eUBTfbiA",
+                "children": [
+                  {
+                    "id": "54",
+                    "parent": "53",
+                    "text": "- Fórmula: RV- = (1-Sensibilidad)/Especificidad",
+                    "guid": "SKk6rgNQHcQFehjtW9g-wA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "55",
+            "parent": "1",
+            "text": "## Curvas ROC (Receiver\nOperating Characteristic)",
+            "guid": "cNpXbEnUr1VGZj0tTQFgwg",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "- Eje Y: Sensibilidad (Tasa de Verdaderos Positivos)",
+                "guid": "dWpnHH7obsJQIGtPTOmW4w",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "55",
+                "text": "- Eje X: 1-Especificidad (Tasa de Falsos Positivos)",
+                "guid": "J9Js4wsgCSpHlIOjGFo-Tg",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "55",
+                "text": "- AUC: Medida del\nrendimiento global",
+                "guid": "MtpFjXIf1s4CvV9jYwP8hA",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "- AUC=1: Prueba perfecta",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "58",
+                    "text": "- AUC=0.5: Rendimiento similar al azar",
+                    "guid": "ZxuZeg8JtnU9P81LTNdemA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "parent": "1",
+            "text": "## Tabla de\nContingencia 2x2",
+            "guid": "YWUe9Xy4H8BBQwLhUY_fdQ",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "- Prueba Positiva + Enfermedad Presente = Verdaderos Positivos (VP)",
+                "guid": "TWksyU-WSnVWx7r9FhJndw",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "61",
+                "text": "- Prueba Positiva + Enfermedad Ausente = Falsos Positivos (FP)",
+                "guid": "UuZoOlxB0-px6qY3Q8C_pg",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "61",
+                "text": "- Prueba Negativa + Enfermedad Presente = Falsos Negativos (FN)",
+                "guid": "JhaDPzhQ42QQwiBoG4DqWw",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "61",
+                "text": "- Prueba Negativa + Enfermedad Ausente = Verdaderos Negativos (VN)",
+                "guid": "NzlSJ2Dii7doaoE-Xwu_Cg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "66",
+            "parent": "1",
+            "text": "## Metodología de Estudio\ny el Gold Standard",
+            "guid": "",
+            "children": [
+              {
+                "id": "67",
+                "parent": "66",
+                "text": "- Descripción",
+                "guid": "CS0TMT8gpD5WEdPBapIyJw",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "- Metodología debe ser clara, estricta y respetada",
+                    "guid": "bAKU4S__BOF3Zf1ZHtzabg",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "- Gold Standard: método de referencia para confirmar/descartar condición",
+                    "guid": "Ih7br3ojXLwB4NbyCTp1KQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "70",
+                "parent": "66",
+                "text": "- Puntos Clave",
+                "guid": "SY_h2g5UaV8www4dAMk0AQ",
+                "children": [
+                  {
+                    "id": "71",
+                    "parent": "70",
+                    "text": "- Metodología: Clara y rigurosa",
+                    "guid": "O9jD_hdU1qI8IhGcCUHwxw",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "70",
+                    "text": "- Gold Standard: Mejor manera de\nestablecer presencia/ausencia de condición",
+                    "guid": "ZushFxLpzJkfVFg-OdGJUQ",
+                    "children": [
+                      {
+                        "id": "73",
+                        "parent": "72",
+                        "text": "- Puede ser único o múltiple (scores para reflujo o riesgo de apendicitis)",
+                        "guid": "byuggxE-_nZ9kkj3FUIjwg",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "72",
+                        "text": "- En infecciones: cultivo positivo como estándar",
+                        "guid": "bzb1Fhktj1tf1PMMWzmJ9w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "75",
+                    "parent": "70",
+                    "text": "- Pruebas diagnósticas: tests individuales, combinaciones o scores",
+                    "guid": "SSyUPFc68GV6FmRma0tv6w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "1",
+            "text": "## Cuantificación\nde Resultados",
+            "guid": "",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "- Descripción: Crucial tras realizar estudio",
+                "guid": "UV5NIXv3O1h0heUUWotgUg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "- Puntos Clave",
+                "guid": "JHXIYAFJIosA4bSBOJ85Dw",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "- Valores Clave:",
+                    "guid": "OxfflkqXuNVFHZJ5dvCjlQ",
+                    "children": [
+                      {
+                        "id": "80",
+                        "parent": "79",
+                        "text": "- Sensibilidad",
+                        "guid": "YeyPdwE_pBUAMpRcSNewjg",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "79",
+                        "text": "- Especificidad",
+                        "guid": "FClwrh-G7JsCqTngA1URMQ",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "79",
+                        "text": "- Valor Predictivo Positivo (VPP)",
+                        "guid": "MMXrEQA7gtcYlzTzelXM6w",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "79",
+                        "text": "- Valor Predictivo Negativo (VPN)",
+                        "guid": "Do_sN0laQxB7HwDtfcbhTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "84",
+                        "parent": "79",
+                        "text": "- Razón de Verosimilitud (Likelihood Ratio)",
+                        "guid": "YofSa1rz8_lZAGtFK7Rmpw",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "79",
+                        "text": "- Puntos de Corte de Curvas ROC",
+                        "guid": "Mi7kXlMWz6sW_9aSA40xfw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "86",
+                    "parent": "78",
+                    "text": "- Metodología del estudio: clave para cuantificación",
+                    "guid": "Tw4LAwuFu6ZeGJHRCiXqmg",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "78",
+                    "text": "- Definir gold standard y prueba: esencial",
+                    "guid": "Vh10eyM2JEsBFo4vOAoD8g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "88",
+            "parent": "1",
+            "text": "## Proceso de\nCuantificación",
+            "guid": "",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "- Descripción: Implica elegir grupos y categorizar",
+                "guid": "INAPJgOK7mE79EpAUZX6Nw",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "- Puntos Clave",
+                "guid": "A8ZxOFSLfzRL68cjElZdbw",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "- Grupos de Estudio:",
+                    "guid": "HeXCREcKyBAQHT69AG2UsA",
+                    "children": [
+                      {
+                        "id": "92",
+                        "parent": "91",
+                        "text": "- Sujetos Enfermos",
+                        "guid": "If68CWkdqgIsIftXVC2gZw",
+                        "children": []
+                      },
+                      {
+                        "id": "93",
+                        "parent": "91",
+                        "text": "- Sujetos Sanos",
+                        "guid": "PDR5rUMh0epXutHmC0KEsA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "94",
+                    "parent": "90",
+                    "text": "- Categorización:",
+                    "guid": "TqeNkDXTY7cVaG9KJMUCDA",
+                    "children": [
+                      {
+                        "id": "95",
+                        "parent": "94",
+                        "text": "- Positivo",
+                        "guid": "WQmIAhZ-_XlczwX-fX9QYw",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "94",
+                        "text": "- Negativo",
+                        "guid": "F8ggBV2wun82HolyOJgvKw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "97",
+                    "parent": "90",
+                    "text": "- Tablas de 2x2: Para realizar cálculos",
+                    "guid": "YTuo4HIS07IKLiljZQIaGQ",
+                    "children": [
+                      {
+                        "id": "98",
+                        "parent": "97",
+                        "text": "- Barra superior: pacientes con condición (gold standard)",
+                        "guid": "Rp5S5lYZ8IZ3WHeIZIQVKw",
+                        "children": []
+                      },
+                      {
+                        "id": "99",
+                        "parent": "97",
+                        "text": "- Tabla izquierda: resultados positivos/negativos en prueba",
+                        "guid": "HSS4lgd1tkVk8anbPyN0nw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "parent": "1",
+            "text": "## Interpretación de\nResultados en la Tabla 2x2",
+            "guid": "",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "- Descripción: Determina VP, FP, FN y VN",
+                "guid": "cJNgRxETpTITURUGLMfZ9A",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "100",
+                "text": "- Puntos Clave",
+                "guid": "VDV3HGsL5uw4Cl6lIt0ErQ",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "- Verdadero Positivo (VP): Persona enferma con test positivo",
+                    "guid": "IN9Ko01yze9Hoga5eejSpg",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "- Falso Positivo (FP): Persona sana con test positivo",
+                    "guid": "Y_HLaSRxDLd3aCMJe7nrbg",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "102",
+                    "text": "- Falso Negativo (FN): Persona enferma con test negativo",
+                    "guid": "AiHHNy2GrHs0UhqZY11wFw",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "102",
+                    "text": "- Verdadero Negativo (VN): Persona sana con test negativo",
+                    "guid": "H5mALT6AQ_xIX4owZjfTFA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "107",
+            "parent": "1",
+            "text": "## Ejemplo Práctico: Test\nde Cáncer de Colon",
+            "guid": "",
+            "children": [
+              {
+                "id": "108",
+                "parent": "107",
+                "text": "- Descripción: Estudio con 1000 personas",
+                "guid": "FJo0gj-4AblKu-g_Mb7tGA",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "107",
+                "text": "- Puntos Clave",
+                "guid": "Ry23_i-tkhpw4mG3N8EYRg",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "- Población: 1000 personas",
+                    "guid": "QME3TAQzdr1kiPI6FPauaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "- Prevalencia de Cáncer: 100 personas (10%)",
+                    "guid": "bz9dqRyTUN8307MWEB6oTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "109",
+                    "text": "- Nuevo Test: Para detección temprana",
+                    "guid": "agYez391uc8KB3rzTffqOA",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "109",
+                    "text": "- Resultados Iniciales: De 100 con cáncer, 80 positivos y 20 negativos",
+                    "guid": "I-bGhgFvnfxJsdWmJgiNvQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "114",
+            "parent": "1",
+            "text": "## Tabla 2x2 y Cálculos",
+            "guid": "LvZKd34D8D8JZf3VTo_KpA",
+            "children": [
+              {
+                "id": "115",
+                "parent": "114",
+                "text": "- Construcción de la Tabla 2x2:",
+                "guid": "PIQ0PFHFiAU0x524UR5ovg",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- Test Positivo + Enfermos = VP",
+                    "guid": "EX2Jvn-DhfcC3VXXWKtBvQ",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- Test Positivo + Sanos = FP",
+                    "guid": "LzEYEXO_t44QbFoDb_JPXg",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "- Test Negativo + Enfermos = FN",
+                    "guid": "d_MuTHT1TD0E6P3HZzKL9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "115",
+                    "text": "- Test Negativo + Sanos = VN",
+                    "guid": "EYidHTy8sN13UTRCe4677A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "114",
+                "text": "- Cálculos:",
+                "guid": "PDJqrAFYrzVJhqYkYBkxMg",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "- Sensibilidad = VP/(VP+FN)",
+                    "guid": "AshNMRM4e8oGIb7wMb6XqA",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "- Especificidad = VN/(VN+FP)",
+                    "guid": "ETxsCQ-HvMUATmJNTcCgRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "- VPP = VP/(VP+FP)",
+                    "guid": "YU1EyjUWAAUe3wkEcsrOiQ",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "120",
+                    "text": "- VPN = VN/(VN+FN)",
+                    "guid": "NJmF_SG8XttLdhBGY8qeDg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "1",
+            "text": "## Razón de Verosimilitud\n(Likelihood Ratio)",
+            "guid": "",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "- Descripción: Medida de utilidad de prueba diagnóstica",
+                "guid": "FXwWaVviaklTvO1sDW9EtQ",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "125",
+                "text": "- Puntos Clave",
+                "guid": "UNe2hlil6zN0odCrYmBTow",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "- LR Positiva (LR+): Probabilidad de resultado + en enfermos vs sanos",
+                    "guid": "FWKcEGvzBO1d7w-PUZUGvA",
+                    "children": [
+                      {
+                        "id": "129",
+                        "parent": "128",
+                        "text": "- LR+ = Sensibilidad/(1-Especificidad)",
+                        "guid": "bUu0Iyd1tbMxrjfvcBQBVA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "130",
+                    "parent": "127",
+                    "text": "- LR Negativa (LR-): Probabilidad de resultado - en enfermos vs sanos",
+                    "guid": "Oq4xfTfP9t8h0pj9S-qdhw",
+                    "children": [
+                      {
+                        "id": "131",
+                        "parent": "130",
+                        "text": "- LR- = (1-Sensibilidad)/Especificidad",
+                        "guid": "R1ezpCIg-0oZqz3MKKT4bg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "125",
+                "text": "- Interpretación:",
+                "guid": "Vzb7TziKRtAbb8b3C9CBTA",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "- LR+ > 1: Resultado + más probable en enfermos",
+                    "guid": "Wkalq2bl1z1vmx9bb8K8FQ",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "- LR- < 1: Resultado - más probable en sanos",
+                    "guid": "QshBhkNYDMd9MgDKE5_4DQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "135",
+            "parent": "1",
+            "text": "## Curvas ROC y\nPuntos de Corte",
+            "guid": "",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "- Descripción: Gráficos de rendimiento de prueba diagnóstica",
+                "guid": "G_33-3HT0XV2AEuwMWCUCw",
+                "children": []
+              },
+              {
+                "id": "137",
+                "parent": "135",
+                "text": "- Puntos\nClave",
+                "guid": "XcbWY1PvW0AC9ZrISxKKhg",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "- Curva ROC: Gráfico sensibilidad vs (1-especificidad)",
+                    "guid": "e2UQ8zSj0rc7JovaNhNCcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "- Puntos de Corte: Definen resultado positivo/negativo",
+                    "guid": "bHPJllz5JNcB_d_4M8t9Og",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "137",
+                    "text": "- Selección de Punto de Corte: Según objetivos (maximizar sensibilidad/especificidad)",
+                    "guid": "fxogIRupHcRccHWoVlEbcQ",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "137",
+                    "text": "- Área Bajo la Curva (AUC):\nRendimiento global",
+                    "guid": "VDNklXfgPKBiIZy9LnoKQA",
+                    "children": [
+                      {
+                        "id": "142",
+                        "parent": "141",
+                        "text": "- AUC=1: Prueba perfecta",
+                        "guid": "XsYT3VG8vBgePMZVIY5VZA",
+                        "children": []
+                      },
+                      {
+                        "id": "143",
+                        "parent": "141",
+                        "text": "- AUC=0.5: Rendimiento similar al azar",
+                        "guid": "FRTI4BtuxyA1Lk1xMRLA2w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "144",
+            "parent": "1",
+            "text": "## Prevalencia y\nsu Impacto",
+            "guid": "DUKYlSsumSFic1Tmawlu-A",
+            "children": []
+          },
+          {
+            "id": "145",
+            "parent": "1",
+            "text": "- Descripción: Influye en\ninterpretación de resultados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "146",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "147",
+            "parent": "1",
+            "text": "- Porcentaje de población con\nenfermedad en momento dado",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "148",
+            "parent": "1",
+            "text": "- Ejemplo: 10% de cáncer\n(valor relativamente alto)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "149",
+            "parent": "1",
+            "text": "## Sensibilidad: Probabilidad de\nResultado Positivo Correcto",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "150",
+            "parent": "1",
+            "text": "- Descripción: Capacidad para\nidentificar correctamente\npersonas con enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "151",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "152",
+            "parent": "1",
+            "text": "- Definición: Probabilidad de\nclasificar correctamente individuo\ncon estado real positivo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "153",
+            "parent": "1",
+            "text": "- Cálculo: Verdaderos\nPositivos ÷ Total de Enfermos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "154",
+            "parent": "1",
+            "text": "- Fórmula: Sensibilidad =\nVP/Total Enfermos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "155",
+            "parent": "1",
+            "text": "- Ejemplo: 80 positivos de 100 con\ncáncer → sensibilidad = 80%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "156",
+            "parent": "1",
+            "text": "## Utilidad de Pruebas\ncon Alta Sensibilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "157",
+            "parent": "1",
+            "text": "- Descripción: Valiosas cuando falso\nnegativo tiene consecuencias graves",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "158",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "159",
+            "parent": "1",
+            "text": "- Contextos Clínicos: Útiles cuando\nsubdiagnosticar genera más\nproblemas que sobrediagnosticar",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "160",
+            "parent": "1",
+            "text": "- Programas de Tamizaje:\nPruebas bajo costo, fácil\nrealización, mínima incomodidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "161",
+            "parent": "1",
+            "text": "- Objetivo del Tamizaje: Necesidad de alta\nsensibilidad depende del objetivo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "162",
+            "parent": "1",
+            "text": "## Especificidad: Probabilidad de\nResultado Negativo Correcto",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "163",
+            "parent": "1",
+            "text": "- Descripción: Capacidad para\nidentificar correctamente\npersonas sin enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "164",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "165",
+            "parent": "1",
+            "text": "- Definición: Probabilidad de clasificar\ncorrectamente individuo sano",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "166",
+            "parent": "1",
+            "text": "- Cálculo: Verdaderos\nNegativos ÷ Total de Sanos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "167",
+            "parent": "1",
+            "text": "- Fórmula: Especificidad\n= VN/Total Sanos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "168",
+            "parent": "1",
+            "text": "- Ejemplo: 89% de personas sin cáncer dieron\nnegativo → especificidad = 89%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "169",
+            "parent": "1",
+            "text": "## Utilidad de Pruebas con\nAlta Especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "170",
+            "parent": "1",
+            "text": "- Descripción: Útiles para\nconfirmar/descartar enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "171",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "172",
+            "parent": "1",
+            "text": "- Confirmación o Descarte: Para\nconfirmar/descartar enfermedad o evento",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "173",
+            "parent": "1",
+            "text": "- Implicaciones Diagnósticas:\nImportantes cuando enfermedad\nrequiere exámenes costosos/invasivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "174",
+            "parent": "1",
+            "text": "- Objetivo: Preferible cuando\nfalsos positivos pueden llevar a\ntratamientos innecesarios",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "175",
+            "parent": "1",
+            "text": "## Relación Inversa entre\nSensibilidad y Especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "176",
+            "parent": "1",
+            "text": "- Descripción: Existe relación\ninversa entre ambas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "177",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "178",
+            "parent": "1",
+            "text": "- Compromiso: Mejorar sensibilidad\ndisminuye especificidad y viceversa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "179",
+            "parent": "1",
+            "text": "- Optimización: Elección depende\nde contexto clínico y consecuencias\nde falsos resultados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "180",
+            "parent": "1",
+            "text": "## Sensibilidad y Especificidad:\nUna Relación Inversa",
+            "guid": "fx30YWVo7642G_l-eoMFVQ",
+            "children": []
+          },
+          {
+            "id": "181",
+            "parent": "1",
+            "text": "- Descripción: Características\nintrínsecas con relación inversa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "182",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "183",
+            "parent": "1",
+            "text": "- Sensibilidad: Capacidad para identificar\npersonas con enfermedad (VP)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "184",
+            "parent": "1",
+            "text": "- Alta sensibilidad: Crucial para\nno pasar por alto casos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "185",
+            "parent": "1",
+            "text": "- Especificidad: Capacidad para identificar\npersonas sin enfermedad (VN)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "186",
+            "parent": "1",
+            "text": "- Alta especificidad: Importante\ncuando falsos positivos llevan a\nintervenciones innecesarias",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "187",
+            "parent": "1",
+            "text": "- Curvas ROC: Representan\ngráficamente relación entre\nsensibilidad y especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "188",
+            "parent": "1",
+            "text": "- Importancia: Aunque\nfundamentales, tienen utilidad\nlimitada en práctica clínica directa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "189",
+            "parent": "1",
+            "text": "## Tamizaje (Pesquisa):\nObjetivos y Escenarios",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "190",
+            "parent": "1",
+            "text": "- Descripción: Relevante en enfermedades\ncon alta incidencia y mortalidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "191",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "192",
+            "parent": "1",
+            "text": "- Objetivos del Tamizaje:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "193",
+            "parent": "1",
+            "text": "- Alta Sensibilidad: Priorizar detección\nde mayor cantidad de casos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "194",
+            "parent": "1",
+            "text": "- Crucial en enfermedades\nprevenibles donde detección\ntemprana mejora calidad de vida",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "195",
+            "parent": "1",
+            "text": "- Alta Especificidad:\nMinimizar falsos positivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "196",
+            "parent": "1",
+            "text": "- Importante cuando pruebas positivas\nconllevan procedimientos invasivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "197",
+            "parent": "1",
+            "text": "- Ejemplo Cáncer de Cuello Uterino:\nPreferible alta especificidad para evitar\nbiopsias innecesarias",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "198",
+            "parent": "1",
+            "text": "## Valor Predictivo Positivo\n(VPP): Probabilidad de\nEnfermedad con Prueba Positiva",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "199",
+            "parent": "1",
+            "text": "- Descripción: Probabilidad de tener\nenfermedad si prueba es positiva",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "200",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "201",
+            "parent": "1",
+            "text": "- Definición: Proporción de individuos con\nprueba positiva realmente enfermos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "202",
+            "parent": "1",
+            "text": "- Cálculo: VP ÷ (VP + FP)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "203",
+            "parent": "1",
+            "text": "- Ejemplo: 80 VP y 100 FP →\nVPP = 80/180 = 44.4%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "204",
+            "parent": "1",
+            "text": "- Interpretación: Solo 44.4% de\npersonas con prueba positiva\nrealmente tienen cáncer",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "205",
+            "parent": "1",
+            "text": "## Valor Predictivo Negativo\n(VPN): Probabilidad de Estar\nSano con Prueba Negativa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "206",
+            "parent": "1",
+            "text": "- Descripción: Probabilidad de estar\nsano si prueba es negativa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "207",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "208",
+            "parent": "1",
+            "text": "- Definición: Proporción de individuos con\nprueba negativa realmente sanos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "209",
+            "parent": "1",
+            "text": "- Cálculo: VN ÷ (VN + FN)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "210",
+            "parent": "1",
+            "text": "- Ejemplo: 800 VN y 20 FN →\nVPN = 800/820 = 97.5%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "211",
+            "parent": "1",
+            "text": "- Interpretación: Alta probabilidad\n(97.5%) de no tener cáncer si\nprueba es negativa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "212",
+            "parent": "1",
+            "text": "## Resumen de\nConceptos Clave",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "213",
+            "parent": "1",
+            "text": "- Descripción: Tabla que resume\nconceptos discutidos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "214",
+            "parent": "1",
+            "text": "- Puntos Clave: [Tabla\nincompleta en el texto]",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "215",
+            "parent": "1",
+            "text": "## Sensibilidad y Especificidad\nvs. Valores Predictivos",
+            "guid": "GgzCZXFChVkwlkfGBoCL-w",
+            "children": []
+          },
+          {
+            "id": "216",
+            "parent": "1",
+            "text": "- Descripción: Utilidad clínica directa limitada\nvs. perspectiva más relevante",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "217",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "218",
+            "parent": "1",
+            "text": "- Sensibilidad: Capacidad para identificar\nenfermos (VP) - 80% en ejemplo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "219",
+            "parent": "1",
+            "text": "- Especificidad: Capacidad para identificar\nsanos (VN) - 89% en ejemplo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "220",
+            "parent": "1",
+            "text": "- Validez de prueba: Definida por sensibilidad y\nespecificidad, pero no entregan información\nrelevante para decisión clínica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "221",
+            "parent": "1",
+            "text": "- VPP: Probabilidad de enfermedad\ncon prueba positiva - 44% en ejemplo\n(no muy concluyente)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "222",
+            "parent": "1",
+            "text": "- VPN: Probabilidad de ausencia de\nenfermedad con prueba negativa - 97.5%\nen ejemplo (bastante fiable)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "223",
+            "parent": "1",
+            "text": "- Limitaciones: Valores predictivos dependen\nde prevalencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "224",
+            "parent": "1",
+            "text": "## La Tabla 2x2 y\nsu Significado",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "225",
+            "parent": "1",
+            "text": "- Descripción: Herramienta esencial\npara visualizar resultados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "226",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "227",
+            "parent": "1",
+            "text": "- VP: Enfermos\ncorrectamente\nidentificados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "228",
+            "parent": "1",
+            "text": "- VN: Sanos\ncorrectamente\nidentificados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "229",
+            "parent": "1",
+            "text": "- FP: Sanos incorrectamente\nidentificados como positivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "230",
+            "parent": "1",
+            "text": "- FN: Enfermos incorrectamente\nidentificados como negativos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "231",
+            "parent": "1",
+            "text": "- Independencia de prevalencia: VP y VN son\nindependientes pero no entregan información\nrelevante para decisión clínica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "232",
+            "parent": "1",
+            "text": "## Prevalencia de la\nEnfermedad y su Impacto",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "233",
+            "parent": "1",
+            "text": "- Descripción: Influye significativamente\nen interpretación de resultados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "234",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "235",
+            "parent": "1",
+            "text": "- Relación Inversa: Menor\nprevalencia → mayor VPN\n(descartar con mayor seguridad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "236",
+            "parent": "1",
+            "text": "- Impacto en VPP: Si prevalencia\naumenta significativamente, VPP\npuede volverse irrelevante",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "237",
+            "parent": "1",
+            "text": "- Ejemplo: Prevalencia de cáncer al 40% →\nVPN disminuye al 80% (reduce utilidad por\naumento de falsos negativos)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "238",
+            "parent": "1",
+            "text": "## Limitaciones de Sensibilidad,\nEspecificidad y Valores Predictivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "239",
+            "parent": "1",
+            "text": "- Descripción: Utilidad limitada en\ntoma de decisiones clínicas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "240",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "241",
+            "parent": "1",
+            "text": "- Sensibilidad y Especificidad:\nDescriptores del diagnóstico \"per se\" con\nescasa utilidad en dilema clínico",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "242",
+            "parent": "1",
+            "text": "- Valores Predictivos: Mayor\nrelevancia clínica pero limitados\npor prevalencia del estudio",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "243",
+            "parent": "1",
+            "text": "- Pérdida de Utilidad: Alta prevalencia\n→ prueba pierde utilidad por aumento\nde falsos negativos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "244",
+            "parent": "1",
+            "text": "## Razón de Verosimilitud\n(Likelihood Ratio)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "245",
+            "parent": "1",
+            "text": "- Descripción: Supera limitaciones\nde métricas anteriores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "246",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "247",
+            "parent": "1",
+            "text": "- Cálculo: Necesario para dimensionar\ncorrectamente utilidad clínica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "248",
+            "parent": "1",
+            "text": "- Próxima Clase: Se abordará en\ndetalle posteriormente",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "249",
+            "parent": "1",
+            "text": "# Estudios de Exactitud Diagnóstica: Razón\nde Probabilidad y Curvas ROC",
+            "guid": "TjuqMDKUJ746TAk1TVXKUg",
+            "children": []
+          },
+          {
+            "id": "250",
+            "parent": "1",
+            "text": "## Introducción a la Razón de\nProbabilidad (Likelihood Ratio)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "251",
+            "parent": "1",
+            "text": "- Descripción: Métrica clave que\nsupera limitaciones de\nsensibilidad y especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "252",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "253",
+            "parent": "1",
+            "text": "- Independencia de la prevalencia: No afectada\npor prevalencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "254",
+            "parent": "1",
+            "text": "- Aplicabilidad clínica: Facilita\ntransición desde incertidumbre\nhacia confirmación/descarte",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "255",
+            "parent": "1",
+            "text": "- Tipos de pruebas: Calculable\npara pruebas dicotómicas,\npolitómicas y continuas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "256",
+            "parent": "1",
+            "text": "- Precisión diagnóstica: Proporciona\nrespuesta clínica más clara",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "257",
+            "parent": "1",
+            "text": "## Definición y Cálculo de la\nRazón de Probabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "258",
+            "parent": "1",
+            "text": "- Descripción: Mide probabilidad\nde resultado en presencia vs.\nausencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "259",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "260",
+            "parent": "1",
+            "text": "- Definición: Probabilidad de\nresultado en paciente con\nenfermedad vs. sin enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "261",
+            "parent": "1",
+            "text": "- Razón de Probabilidad Positiva\n(RP+): Probabilidad de enfermedad\ndado resultado positivo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "262",
+            "parent": "1",
+            "text": "- Fórmula: RP+ =\nSensibilidad/(1-Especificidad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "263",
+            "parent": "1",
+            "text": "- Razón de Probabilidad Negativa (RP-):\nProbabilidad de no tener enfermedad\ndado resultado negativo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "264",
+            "parent": "1",
+            "text": "- Fórmula: RP- =\n(1-Sensibilidad)/Especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "265",
+            "parent": "1",
+            "text": "## Interpretación de la Razón de\nProbabilidad Positiva (RP+)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "266",
+            "parent": "1",
+            "text": "- Descripción: Indica probabilidad de\nresultado + en enfermo vs. sano",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "267",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "268",
+            "parent": "1",
+            "text": "- Ejemplo: RP+ de 7.27 significa 7.27\nveces más probabilidad de resultado +\nen paciente con cáncer",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "269",
+            "parent": "1",
+            "text": "- Confirmación diagnóstica: RP+ alto\nacerca al clínico a confirmación",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "270",
+            "parent": "1",
+            "text": "- Verosimilitud: 7.27 veces más\nverosímil resultado + en paciente\ncon cáncer vs. sin cáncer",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "271",
+            "parent": "1",
+            "text": "## Tabla Resumen de Indicadores\nde Exactitud Diagnóstica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "272",
+            "parent": "1",
+            "text": "[Tabla\nincompleta en el\ntexto]",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "273",
+            "parent": "1",
+            "text": "## Razón de\nProbabilidad Negativa\n(LR-)",
+            "guid": "Tj1Fgha8ft4jpuXDInCqFw",
+            "children": []
+          },
+          {
+            "id": "274",
+            "parent": "1",
+            "text": "- Descripción: Evalúa probabilidad de\nresultado negativo en personas con\nvs. sin enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "275",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "276",
+            "parent": "1",
+            "text": "- Definición: Relación entre % enfermos\ncon prueba negativa y % no enfermos\ncon prueba negativa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "277",
+            "parent": "1",
+            "text": "- Interpretación: LR- cercano a\ncero indica alta probabilidad de\ndescartar enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "278",
+            "parent": "1",
+            "text": "- Valor Ideal: Cuanto más cerca de cero,\nmejor; más cerca de uno, peor",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "279",
+            "parent": "1",
+            "text": "- Ejemplo: 0.22",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "280",
+            "parent": "1",
+            "text": "## Razón de\nProbabilidad Positiva\n(LR+)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "281",
+            "parent": "1",
+            "text": "- Descripción: Indica probabilidad de\nresultado positivo en enfermo vs. sano",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "282",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "283",
+            "parent": "1",
+            "text": "- Definición: P(Test+ | Enfermedad) ÷\nP(Test+ | No Enfermedad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "284",
+            "parent": "1",
+            "text": "- Interpretación: LR+ alto indica\nmayor probabilidad de\nenfermedad si prueba positiva",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "285",
+            "parent": "1",
+            "text": "- Rango: Entre uno e infinito en\nestudios dicotómicos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "286",
+            "parent": "1",
+            "text": "- Ejemplo: LR+ 7.27 significa 7.27\nveces más probable resultado + en\npaciente con cáncer",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "287",
+            "parent": "1",
+            "text": "## Utilidad de las\nRazones de Probabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "288",
+            "parent": "1",
+            "text": "- Descripción: Herramientas para evaluar\nutilidad de prueba diagnóstica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "289",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "290",
+            "parent": "1",
+            "text": "- Valor = 1: Prueba sin capacidad\nde discriminación (inútil)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "291",
+            "parent": "1",
+            "text": "- Valor > 1: Mayor valor,\nmayor fuerza de prueba",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "292",
+            "parent": "1",
+            "text": "- Independencia de Prevalencia: No afectadas\npor prevalencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "293",
+            "parent": "1",
+            "text": "- Aplicación a Escores:\nAplicables a combinaciones de\nsíntomas, signos y medidas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "294",
+            "parent": "1",
+            "text": "- Evita Dicotomización: Previene pérdida de\ninformación clínica relevante",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "295",
+            "parent": "1",
+            "text": "## Aplicación Clínica de las\nRazones de Probabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "296",
+            "parent": "1",
+            "text": "- Descripción: Ayudan a interpretar resultados\ny modificar probabilidad pre-test",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "297",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "298",
+            "parent": "1",
+            "text": "- Probabilidad Pre-Test: Generalmente es\nprevalencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "299",
+            "parent": "1",
+            "text": "- Interpretación Práctica: Indican\nmagnitud de modificación de\nprobabilidad pre-test",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "300",
+            "parent": "1",
+            "text": "- Ejemplo Clínico: Estudio de 503\npacientes evaluó puntaje para\nFaringoamigdalitis Estreptocócica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "301",
+            "parent": "1",
+            "text": "- Puntaje de 4\npuntos: LR+ de 7.55",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "302",
+            "parent": "1",
+            "text": "- Significa 7.55 veces más\nprobable obtener 4 puntos en\npaciente con enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "303",
+            "parent": "1",
+            "text": "## Tabla Resumen de\nRazones de Probabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "304",
+            "parent": "1",
+            "text": "- Razón de\nProbabilidad Positiva\n(LR+):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "305",
+            "parent": "1",
+            "text": "- Definición: P(Test+ | Enfermedad) ÷\nP(Test+ | No Enfermedad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "306",
+            "parent": "1",
+            "text": "- Interpretación: Aumenta\nprobabilidad si test positivo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "307",
+            "parent": "1",
+            "text": "- Valor Ideal: Alto (>1)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "308",
+            "parent": "1",
+            "text": "- Impacto:\nConfirma\nenfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "309",
+            "parent": "1",
+            "text": "- Razón de\nProbabilidad Negativa\n(LR-):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "310",
+            "parent": "1",
+            "text": "- Definición: P(Test- | Enfermedad) ÷\nP(Test- | No Enfermedad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "311",
+            "parent": "1",
+            "text": "- Interpretación: Disminuye\nprobabilidad si test negativo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "312",
+            "parent": "1",
+            "text": "- Valor Ideal: Bajo\n(cercano a 0)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "313",
+            "parent": "1",
+            "text": "- Impacto:\nDescarta\nenfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "314",
+            "parent": "1",
+            "text": "##\nConsideraciones\nAvanzadas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "315",
+            "parent": "1",
+            "text": "- Descripción: Integración en\ntoma de decisiones y aplicación\nen diferentes contextos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "316",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "317",
+            "parent": "1",
+            "text": "- Test Dicotómicos vs. Escores\nContinuos: Aplicables a ambos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "318",
+            "parent": "1",
+            "text": "- Impacto de Prevalencia: Probabilidad\npost-test afectada por prevalencia",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "319",
+            "parent": "1",
+            "text": "- Umbrales de Decisión: Influyen en\nrazones de probabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "320",
+            "parent": "1",
+            "text": "- Estudios de Validación: Fundamentales\npara obtener valores aplicables",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "321",
+            "parent": "1",
+            "text": "- Integración con Juicio Clínico: Uso\nconjunto para decisiones informadas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "322",
+            "parent": "1",
+            "text": "## Ejemplo Detallado de\nAplicación Clínica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "323",
+            "parent": "1",
+            "text": "- Escenario: Paciente con síntomas\nde ITU (prevalencia 50%)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "324",
+            "parent": "1",
+            "text": "- Prueba Diagnóstica: Test rápido\norina (LR+ 4.0, LR- 0.2)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "325",
+            "parent": "1",
+            "text": "- Resultado: Positivo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "326",
+            "parent": "1",
+            "text": "- Cálculo\nProbabilidad\nPost-Test:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "327",
+            "parent": "1",
+            "text": "- Pre-Test: 50%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "328",
+            "parent": "1",
+            "text": "- Odds Pre-Test:\n0.5/(1-0.5) = 1",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "329",
+            "parent": "1",
+            "text": "- Odds\nPost-Test: 1 × 4.\n0 = 4",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "330",
+            "parent": "1",
+            "text": "- Probabilidad\nPost-Test: 4/(1+4) =\n80%",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "331",
+            "parent": "1",
+            "text": "- Interpretación: 80% probabilidad de\nITU tras prueba positiva",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "332",
+            "parent": "1",
+            "text": "- Decisión: Iniciar\ntratamiento antibiótico",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "333",
+            "parent": "1",
+            "text": "## Limitaciones y\nConsideraciones\nAdicionales",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "334",
+            "parent": "1",
+            "text": "- Variabilidad entre\nestudios y poblaciones",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "335",
+            "parent": "1",
+            "text": "- Errores en medición\nafectan precisión",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "336",
+            "parent": "1",
+            "text": "- Sesgos en estudios causan\nestimaciones inexactas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "337",
+            "parent": "1",
+            "text": "- Complejidad de\nenfermedades limita\naplicabilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "338",
+            "parent": "1",
+            "text": "- Importancia de\ncomunicación clara con\npaciente",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "339",
+            "parent": "1",
+            "text": "## Interpretación de la Magnitud\ndel Cambio y Evidencia",
+            "guid": "Dpy7fgXIgoBQ6rRYbWLPWw",
+            "children": []
+          },
+          {
+            "id": "340",
+            "parent": "1",
+            "text": "- Descripción: Evaluar\nsignificancia de cambio en\nmagnitud de prueba diagnóstica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "341",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "342",
+            "parent": "1",
+            "text": "- Umbral de Significancia: Cambio en\nmagnitud >10 es evidencia fuerte",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "343",
+            "parent": "1",
+            "text": "- Evidencia Débil: Cambio en\nmagnitud <10 es evidencia débil",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "344",
+            "parent": "1",
+            "text": "## Utilidad Real\nde una Prueba",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "345",
+            "parent": "1",
+            "text": "- Descripción: Medida por capacidad para\nreducir incertidumbre diagnóstica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "346",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "347",
+            "parent": "1",
+            "text": "- Reducción de Incertidumbre:\nPrueba debe permitir abandonar\n\"zona de incertidumbre\"",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "348",
+            "parent": "1",
+            "text": "- Intervalos de Confianza:\nEsenciales para evaluar precisión",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "349",
+            "parent": "1",
+            "text": "## Nomograma de Fagan",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "350",
+            "parent": "1",
+            "text": "- Descripción: Herramienta gráfica para\ncalcular probabilidad post-prueba",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "351",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "352",
+            "parent": "1",
+            "text": "- Probabilidad Pre-Prueba:\nPrevalencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "353",
+            "parent": "1",
+            "text": "- Likelihood Ratio (LR):\nRazón de verosimilitud",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "354",
+            "parent": "1",
+            "text": "- Probabilidad Post-Prueba: Probabilidad de\nenfermedad después de prueba",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "355",
+            "parent": "1",
+            "text": "- Relevancia Clínica: Interpretación debe\nser congruente con expectativas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "356",
+            "parent": "1",
+            "text": "## Interpretación Clínica y\nCriterio del Investigador",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "357",
+            "parent": "1",
+            "text": "- Descripción: Alineación de probabilidad\npost-prueba con criterio clínico",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "358",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "359",
+            "parent": "1",
+            "text": "- Criterio Clínico: Evaluación\nen contexto clínico",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "360",
+            "parent": "1",
+            "text": "- Impacto Diagnóstico: Considerar\nimpacto en comunidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "361",
+            "parent": "1",
+            "text": "- Definición del Investigador: Investigador\ndefine significancia según estudio",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "362",
+            "parent": "1",
+            "text": "## Pruebas Continuas y\nPuntos de Corte",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "363",
+            "parent": "1",
+            "text": "- Descripción: Interpretación de valores\ncontinuos mediante puntos de corte",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "364",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "365",
+            "parent": "1",
+            "text": "- Valores Continuos: Pruebas\ncon rango de valores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "366",
+            "parent": "1",
+            "text": "- Punto de Corte: Valor que define\npresencia/ausencia de enfermedad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "367",
+            "parent": "1",
+            "text": "- Ejemplos: Leucocitos, proteína C\nreactiva, procalcitonina",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "368",
+            "parent": "1",
+            "text": "## Curvas ROC (Receiver\nOperating Characteristic)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "369",
+            "parent": "1",
+            "text": "- Descripción: Utilizadas para\nanalizar pruebas continuas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "370",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "371",
+            "parent": "1",
+            "text": "- Objetivos:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "372",
+            "parent": "1",
+            "text": "- Determinar punto de corte óptimo (mayor\nsensibilidad y especificidad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "373",
+            "parent": "1",
+            "text": "- Evaluar capacidad\ndiscriminatoria del test",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "374",
+            "parent": "1",
+            "text": "- Comparar capacidad\ndiscriminatoria entre tests",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "375",
+            "parent": "1",
+            "text": "- Tabla 2x2: Base para\nvalores VP, VN, FP, FN",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "376",
+            "parent": "1",
+            "text": "## Construcción de\nuna Curva ROC",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "377",
+            "parent": "1",
+            "text": "- Descripción: Graficar sensibilidad contra\n1-especificidad para múltiples puntos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "378",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "379",
+            "parent": "1",
+            "text": "- Múltiples Puntos de Corte: Cada\nvalor tiene punto asociado",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "380",
+            "parent": "1",
+            "text": "- Ejes:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "381",
+            "parent": "1",
+            "text": "- Eje Y: Sensibilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "382",
+            "parent": "1",
+            "text": "- Eje X: 1-Especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "383",
+            "parent": "1",
+            "text": "- Diagonal: Línea de no\ndiscriminación (área=0.5)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "384",
+            "parent": "1",
+            "text": "## Interpretación de\nla Curva ROC",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "385",
+            "parent": "1",
+            "text": "- Descripción: Análisis del\nárea bajo la curva (AUC)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "386",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "387",
+            "parent": "1",
+            "text": "- Diagonal: Línea de no\ndiscriminación (AUC=0.5)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "388",
+            "parent": "1",
+            "text": "- AUC<0.5: Prueba sin\nvalor discriminatorio",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "389",
+            "parent": "1",
+            "text": "## Determinación del Mejor Punto de\nCorte en Pruebas Diagnósticas",
+            "guid": "V4U-mW8neq0O8SS_bJoHeQ",
+            "children": []
+          },
+          {
+            "id": "390",
+            "parent": "1",
+            "text": "- Descripción: Proceso crucial\npara utilidad clínica",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "391",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "392",
+            "parent": "1",
+            "text": "- Consideraciones\nPreliminares:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "393",
+            "parent": "1",
+            "text": "- Punto de corte coherente\ncon literatura existente",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "394",
+            "parent": "1",
+            "text": "- Desviaciones significativas\nrequieren justificación sólida",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "395",
+            "parent": "1",
+            "text": "- Clasificación\nde Pacientes:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "396",
+            "parent": "1",
+            "text": "- Verdadero Positivo (VP)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "397",
+            "parent": "1",
+            "text": "- Falso Positivo (FP)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "398",
+            "parent": "1",
+            "text": "- Verdadero Negativo (VN)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "399",
+            "parent": "1",
+            "text": "- Falso Negativo (FN)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "400",
+            "parent": "1",
+            "text": "- Cálculo de\nSensibilidad y\nEspecificidad:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "401",
+            "parent": "1",
+            "text": "- Para cada valor posible\ndel test continuo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "402",
+            "parent": "1",
+            "text": "- Curva ROC:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "403",
+            "parent": "1",
+            "text": "- Punto ideal maximiza\nsensibilidad y especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "404",
+            "parent": "1",
+            "text": "- Representación gráfica de\nsensibilidad vs. (1-especificidad)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "405",
+            "parent": "1",
+            "text": "- Objetivos del Estudio:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "406",
+            "parent": "1",
+            "text": "- Alineación de punto de\ncorte con objetivos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "407",
+            "parent": "1",
+            "text": "- Ejemplo: Priorizar\nsensibilidad en tamizaje",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "408",
+            "parent": "1",
+            "text": "- Índice de\nYouden (Índice\nJ):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "409",
+            "parent": "1",
+            "text": "- Métrica para\ndeterminar punto\nóptimo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "410",
+            "parent": "1",
+            "text": "- Fórmula: J = Sensibilidad\n+ Especificidad - 1",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "411",
+            "parent": "1",
+            "text": "- Mayor índice = mejor\npunto de corte",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "412",
+            "parent": "1",
+            "text": "- Aplicabilidad del Índice:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "413",
+            "parent": "1",
+            "text": "- No aplicable en\ntodos contextos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "414",
+            "parent": "1",
+            "text": "- Depende del objetivo\n(tamizaje vs. confirmación)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "415",
+            "parent": "1",
+            "text": "- Definición de\nPrioridades:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "416",
+            "parent": "1",
+            "text": "- Crucial definir si se busca mayor\nsensibilidad o especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "417",
+            "parent": "1",
+            "text": "## Capacidad Discriminatoria\nde las Curvas ROC",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "418",
+            "parent": "1",
+            "text": "- Descripción: Herramientas para evaluar\ndistinción entre sanos y enfermos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "419",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "420",
+            "parent": "1",
+            "text": "- Definición:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "421",
+            "parent": "1",
+            "text": "- Habilidad para diferenciar entre\npacientes sanos y enfermos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "422",
+            "parent": "1",
+            "text": "- Área Bajo la\nCurva (AUC):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "423",
+            "parent": "1",
+            "text": "- Medida única e\nindependiente de\nprevalencia",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "424",
+            "parent": "1",
+            "text": "- Probabilidad de\nclasificación correcta",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "425",
+            "parent": "1",
+            "text": "- Línea de No\nDiscriminación:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "426",
+            "parent": "1",
+            "text": "- Línea diagonal\nen curva ROC",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "427",
+            "parent": "1",
+            "text": "- AUC de 0.5 (50%) indica\nprueba no mejor que azar",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "428",
+            "parent": "1",
+            "text": "- Prueba con AUC\ncercano a 0.5 no es útil",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "429",
+            "parent": "1",
+            "text": "- Interpretación del AUC:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "430",
+            "parent": "1",
+            "text": "- Objetivo: mayor\nárea sobre la curva",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "431",
+            "parent": "1",
+            "text": "- AUC cercano a 1: excelente\ncapacidad discriminatoria",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "432",
+            "parent": "1",
+            "text": "- Ejemplos de AUC:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "433",
+            "parent": "1",
+            "text": "- AUC bajo zona de no\ndiscriminación: prueba inútil",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "434",
+            "parent": "1",
+            "text": "- Intervalos de Confianza:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "435",
+            "parent": "1",
+            "text": "- AUC tiene\nintervalos de\nconfianza",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "436",
+            "parent": "1",
+            "text": "- Si IC toca 0.5:\nprueba no significativa",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "437",
+            "parent": "1",
+            "text": "- Valores de Referencia:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "438",
+            "parent": "1",
+            "text": "- AUC > 0.75:\ngeneralmente\naceptable",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "439",
+            "parent": "1",
+            "text": "- AUC cercano a 1: buena\ncapacidad discriminatoria",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "440",
+            "parent": "1",
+            "text": "## Resumen de\nPuntos Clave",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "441",
+            "parent": "1",
+            "text": "- [Tabla\nincompleta en el\ntexto]",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "442",
+            "parent": "1",
+            "text": "## Comparación de\nPruebas Diagnósticas",
+            "guid": "CpZBzUQfcjAdrMhUF9jaYw",
+            "children": []
+          },
+          {
+            "id": "443",
+            "parent": "1",
+            "text": "- Descripción: Asegurar validez\nmetodológica antes de comparar",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "444",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "445",
+            "parent": "1",
+            "text": "- Metodología Rigurosa:\nMediciones simultáneas, mismos\nsujetos, mismo estándar de oro",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "446",
+            "parent": "1",
+            "text": "- Evaluación Crítica:\nMetodología transparente y\nsólida",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "447",
+            "parent": "1",
+            "text": "- Ejemplo PCR vs.\nProcalcitonina: Comparación de\nAUC e intervalos de confianza",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "448",
+            "parent": "1",
+            "text": "## Interpretación de\nCurvas ROC",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "449",
+            "parent": "1",
+            "text": "- Descripción: Herramientas\npara definir puntos de corte y\ncomparar rendimiento",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "450",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "451",
+            "parent": "1",
+            "text": "- Área Bajo la Curva (AUC):\nCercana a 1 indica excelente\ncapacidad discriminatoria",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "452",
+            "parent": "1",
+            "text": "- Intervalos de Confianza: Más\nestrechos indican mayor precisión",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "453",
+            "parent": "1",
+            "text": "- Ejemplo: PCR (AUC 0.86, IC alto) mejor\nque procalcitonina (AUC 0.66, IC cercano a\nlínea de no discriminación)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "454",
+            "parent": "1",
+            "text": "## Razón de Probabilidad\n(Likelihood Ratio) y Nomogramas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "455",
+            "parent": "1",
+            "text": "- Descripción: Herramientas\nindependientes de prevalencia\npara evaluar utilidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "456",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "457",
+            "parent": "1",
+            "text": "- Razón de Probabilidad: Evalúa\ncambio en probabilidad post-test",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "458",
+            "parent": "1",
+            "text": "- Nomograma de Fagan:\nVisualiza transformación de\nprobabilidad pre-test a post-test",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "459",
+            "parent": "1",
+            "text": "- Zona de Incertidumbre: Objetivo\nes alejarse para\nconfirmar/descartar con mayor\ncerteza",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "460",
+            "parent": "1",
+            "text": "## Aplicación Clínica y Medicina\nBasada en la Evidencia",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "461",
+            "parent": "1",
+            "text": "- Descripción: Interpretación correcta\nfundamental para decisiones informadas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "462",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "463",
+            "parent": "1",
+            "text": "- Medicina Basada en Evidencia:\nIntegra mejor evidencia, experiencia\nclínica y valores del paciente",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "464",
+            "parent": "1",
+            "text": "- Sensibilidad vs. Especificidad:\nDeterminar requisitos según\ncontexto y prevalencia",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "465",
+            "parent": "1",
+            "text": "- Diseño de Estudios: Comprensión\npermite diseñar estudios, definir\ncortes y desarrollar scores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "466",
+            "parent": "1",
+            "text": "## Tabla Comparativa de\nPruebas Diagnósticas",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "467",
+            "parent": "1",
+            "text": "- PCR (Ejemplo):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "468",
+            "parent": "1",
+            "text": "- AUC: 0.86",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "469",
+            "parent": "1",
+            "text": "- Intervalo de Confianza: Alto\n(cercano al punto ideal)",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "470",
+            "parent": "1",
+            "text": "- Capacidad\nDiscriminatoria:\nBuena",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "471",
+            "parent": "1",
+            "text": "- Utilidad Clínica: Útil para discriminar\nentre positivos/negativos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "472",
+            "parent": "1",
+            "text": "- Procalcitonina (Ejemplo):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "473",
+            "parent": "1",
+            "text": "- AUC: 0.66",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "474",
+            "parent": "1",
+            "text": "- Intervalo de Confianza: Cercano a\nlínea de no discriminación",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "475",
+            "parent": "1",
+            "text": "- Capacidad\nDiscriminatoria:\nModerada",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "476",
+            "parent": "1",
+            "text": "- Utilidad Clínica: Limitada, requiere\ninterpretación con precaución",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "477",
+            "parent": "1",
+            "text": "## Diseño de Estudios\nDiagnósticos Avanzados",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "478",
+            "parent": "1",
+            "text": "- Descripción: Habilidad\ncrucial para clínicos",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "479",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "480",
+            "parent": "1",
+            "text": "- Valores de Corte: Determinar\nvalor óptimo considerando\nsensibilidad/especificidad",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "481",
+            "parent": "1",
+            "text": "- Desarrollo de Scores: Combinar\nvariables para mejorar precisión y\nestratificar riesgo",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "482",
+            "parent": "1",
+            "text": "- Interpretación de Estudios:\nComprender teoría para tomar\ndecisiones y reducir incertidumbre",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "483",
+            "parent": "1",
+            "text": "## Reducción de la Incertidumbre\nen la Toma de Decisiones",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "484",
+            "parent": "1",
+            "text": "- Descripción: Objetivo\nfundamental en medicina",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "485",
+            "parent": "1",
+            "text": "- Puntos Clave:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "486",
+            "parent": "1",
+            "text": "- Confirmación vs. Descarte: Alta\nespecificidad para confirmar, alta\nsensibilidad para descartar",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "487",
+            "parent": "1",
+            "text": "- Contexto Clínico: Considerar prevalencia,\nhistoria clínica y otros factores",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "488",
+            "parent": "1",
+            "text": "- Decisiones Informadas:\nBasadas en evidencia,\nexperiencia y valores del\npaciente",
+            "guid": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 489,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "9-2025",
+  "id": "map_677",
+  "resolved_references": []
+}

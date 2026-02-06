@@ -1,0 +1,1878 @@
+{
+  "title": "NÓDULOS TIROIDEOS",
+  "guid": "481F0F66345E4BDB21CE44BD",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Endocrinología/Arteaga | NÓDULOS TIROIDEOS-2024.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "NÓDULOS\nTIROIDEOS",
+    "guid": "ej3j5XHSeslGM-x4O0fGqQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Prevalencia: 4-7% → palpables",
+            "guid": "d5DURFFaqfk8McXZMdOjRQ",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "• ↑ 60% → c/ecografía (1)",
+            "guid": "IF-q3Sp8nU4frkIILGK7fw",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "• ↑ frecuencia: mujeres + edad avanzada",
+            "guid": "ZAW7T1IAfdkrKjzZEr7o-g",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "• Cáncer tiroideo: 3-10% nódulos",
+            "guid": "UeNdyk98Rd5zVGFHG91OqQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "EVALUACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "1. Laboratorio",
+            "guid": "dVC_qzV3lNVwW1ieM7Z84Q",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "→ TSH + T4/T4L",
+                "guid": "fZakOyS5pHlVhMGfd9SIIQ",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "→ Calcitonina:\nNO rutinaria",
+                "guid": "FowfQhu4rhczHE7KVR2uLg",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "* Solo: antecedentes Ca medular/NEM2",
+                    "guid": "ILVE4gMl3GV2SX2KGEYZJg",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "9",
+                    "text": "* ⚠️ Alto costo + falsos (+)",
+                    "guid": "VICGXjJ7Q2NKGbxrdOAxOw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "parent": "6",
+            "text": "2. Imágenes",
+            "guid": "XPfgsWnH_nQhQuy7QP2cAA",
+            "children": [
+              {
+                "id": "13",
+                "parent": "12",
+                "text": "→ Ecografía tiroidea",
+                "guid": "O8h8TUxtKZRTvIT6DavaFw",
+                "children": [
+                  {
+                    "id": "14",
+                    "parent": "13",
+                    "text": "* Obligatoria",
+                    "guid": "G-lvckcQ5kEpiSjAETovHg",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "13",
+                    "text": "* Define: tamaño + características + otros nódulos",
+                    "guid": "fIh7FhnkgV5E8Kv_eh8fUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "13",
+                    "text": "* Limitación: no confirma benignidad/malignidad (4)",
+                    "guid": "Pp4l1xp1bZ5x86dyVSpFGg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "17",
+                "parent": "12",
+                "text": "→ Cintigrama tiroideo",
+                "guid": "Ni4btSUP9j0qR_NIVuNglw",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "* Solo si: nódulo palpable + TSH<0.5 mUI/mL",
+                    "guid": "KDXSoiCRcNJvKXm-fLZZAA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "19",
+                "parent": "12",
+                "text": "→ TAC/RM cuello",
+                "guid": "Uwy0NTlDNilxloo7MASU5g",
+                "children": [
+                  {
+                    "id": "20",
+                    "parent": "19",
+                    "text": "* Indicaciones:",
+                    "guid": "Iws0nRLZdvZxAjDmXtOw6g",
+                    "children": [
+                      {
+                        "id": "21",
+                        "parent": "20",
+                        "text": "- Bocio intratorácico no visible x eco",
+                        "guid": "X0agikS-teBsf4sBezAP_Q",
+                        "children": []
+                      },
+                      {
+                        "id": "22",
+                        "parent": "20",
+                        "text": "- Masas cervicales origen incierto",
+                        "guid": "C8-cIRYIs8EMaj8bCFgXNw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "23",
+        "parent": "0",
+        "text": "MANEJO\nPOST-BIOPSIA",
+        "guid": "",
+        "children": [
+          {
+            "id": "24",
+            "parent": "23",
+            "text": "1. Benigno",
+            "guid": "L-01H1Fa6xoCdzaJbota9w",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "→ Control c/6-12 meses",
+                "guid": "a9BYuXRq3ftDtaARIf50bg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "23",
+            "text": "2. Maligno",
+            "guid": "GXrUOG39k1l44dUGQbCm2g",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "→ Tiroidectomía total",
+                "guid": "Do8ELGgLTsQ-Zv_aYZu4YQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "23",
+            "text": "3. Indeterminado/sospechoso*",
+            "guid": "IU6E7S_9ihYRoE1IRFm5iw",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "→ Tiroidectomía total",
+                "guid": "QtcBDAKifi4jLWp1Ih2hlw",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "*Incluye lesiones foliculares",
+                    "guid": "R2E0Dw-s9XcdTbGUUzDQMA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "31",
+            "parent": "23",
+            "text": "4. Insuficiente",
+            "guid": "JbWpOCm38K9biOdoVaLeWA",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "→ Nueva PAAF",
+                "guid": "exLbyV4AHfFELjlPZuM0gg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "33",
+        "parent": "0",
+        "text": "HALLAZGOS\nFRECUENTES",
+        "guid": "AlFrIB49VScU4Pj9KAcUWA",
+        "children": [
+          {
+            "id": "34",
+            "parent": "33",
+            "text": "PATOLOGÍA NODULAR BENIGNA",
+            "guid": "Tmn-VkHYK_8p61YiINT6Qg",
+            "children": [
+              {
+                "id": "35",
+                "parent": "34",
+                "text": "a. Quiste coloideo",
+                "guid": "SbwFXzLM_xMMuspnP51yGQ",
+                "children": [
+                  {
+                    "id": "36",
+                    "parent": "35",
+                    "text": "→ Coloide espeso",
+                    "guid": "NJB9CjpRQWdEDeL-Hl9JxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "35",
+                    "text": "→ Focos ecogénicos",
+                    "guid": "Jk64QSoaDEUpfJtuQkm5MQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "38",
+                "parent": "34",
+                "text": "b. Nódulo mixto\nsólido-quístico",
+                "guid": "IcaC1HjzpqEhG7stHBV3kg",
+                "children": [
+                  {
+                    "id": "39",
+                    "parent": "38",
+                    "text": "→ Imagen vegetante adherida",
+                    "guid": "a5gcSiILXsFdxaBebemHag",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "38",
+                    "text": "→ Tabiques internos",
+                    "guid": "QEiz6HKmmVsV8JvDCD35vw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41",
+                "parent": "34",
+                "text": "c. Quiste coloideo anecogénico",
+                "guid": "YxB5wBOajnNLRhtfMXp4Fg",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "→ Comparable c/cáncer papilar",
+                    "guid": "VXK6c3UxcYFST3JZHy6_0g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "33",
+            "text": "PATOLOGÍA\nNODULAR MALIGNA",
+            "guid": "J_5wlV8KPMBezDHrXI7tnw",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "1. Cáncer papilar",
+                "guid": "GVt-JyLaFOp67jdlP6o2aA",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "a. Hipoecogénico",
+                    "guid": "TPQhLyRq0tMB8--ZbrqkBA",
+                    "children": [
+                      {
+                        "id": "46",
+                        "parent": "45",
+                        "text": "→ Microcalcificaciones puntiformes",
+                        "guid": "HV55dCMPqscK0BuWCPaVvw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "47",
+                    "parent": "44",
+                    "text": "b. Características:",
+                    "guid": "RRsJiGiVu_R24B0pBWO9cA",
+                    "children": [
+                      {
+                        "id": "48",
+                        "parent": "47",
+                        "text": "→ Cápsula hipoecogénica",
+                        "guid": "WzxVUAzQuOwNobcvPkzPEA",
+                        "children": []
+                      },
+                      {
+                        "id": "49",
+                        "parent": "47",
+                        "text": "→ Calcificaciones centrales múltiples",
+                        "guid": "IGtHYFjn0o5vx0cndd4B0w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "50",
+                "parent": "43",
+                "text": "2. Asociación c/linfoadenopatía",
+                "guid": "ThlEEEIWuYAVDMGldhe0pQ",
+                "children": [
+                  {
+                    "id": "51",
+                    "parent": "50",
+                    "text": "a. Bordes lobulados",
+                    "guid": "ISD2QHPY85FSpqJEOnx0aA",
+                    "children": [
+                      {
+                        "id": "52",
+                        "parent": "51",
+                        "text": "→ Calcificación central gruesa",
+                        "guid": "FrMIe02U2al6JqrQY6cpqg",
+                        "children": []
+                      },
+                      {
+                        "id": "53",
+                        "parent": "51",
+                        "text": "→ Microcalcificaciones múltiples",
+                        "guid": "cf-sfHwammpSYc2uD14l8Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "54",
+                    "parent": "50",
+                    "text": "b. Adenopatía cervical\nhipoecogénica",
+                    "guid": "HypFMV0x6UQYVLuwZEVOuQ",
+                    "children": [
+                      {
+                        "id": "55",
+                        "parent": "54",
+                        "text": "→ Elementos quísticos",
+                        "guid": "RcelOQ802NlpqQwpIQP6iQ",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "54",
+                        "text": "→ Microcalcificaciones",
+                        "guid": "HAWRxndKw1lfUMmZPHDZJg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "parent": "50",
+                    "text": "c. Adenopatía\npapilar redondeada",
+                    "guid": "UDKV508YEMAyTtr5HkvZ9w",
+                    "children": [
+                      {
+                        "id": "58",
+                        "parent": "57",
+                        "text": "→ Hipoecogénica",
+                        "guid": "ES7KQEdbnJ4UY46cMk_AgQ",
+                        "children": []
+                      },
+                      {
+                        "id": "59",
+                        "parent": "57",
+                        "text": "→ Pérdida de hilio",
+                        "guid": "OzSQL2cKMOFszDTpUeeYqg",
+                        "children": []
+                      },
+                      {
+                        "id": "60",
+                        "parent": "57",
+                        "text": "→ Cercana a:",
+                        "guid": "ZSJ5SE5RmKhmfQ4NKuoegQ",
+                        "children": [
+                          {
+                            "id": "61",
+                            "parent": "60",
+                            "text": "* Arteria carótida común",
+                            "guid": "NJ8Kimby37k1jsJVJp63Bw",
+                            "children": []
+                          },
+                          {
+                            "id": "62",
+                            "parent": "60",
+                            "text": "* Vena yugular interna",
+                            "guid": "Yw16IwfwkAM1_Nz4Aje_VA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "63",
+                        "parent": "57",
+                        "text": "→ ⚠️ Signo asociación patológica",
+                        "guid": "XYZxgVAmGjdL7hkKeYwDRw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "64",
+                    "parent": "50",
+                    "text": "d. Corte sagital\nadenopatía lateral",
+                    "guid": "R3DdkCs-4qM1_NxtF6Nzdw",
+                    "children": [
+                      {
+                        "id": "65",
+                        "parent": "64",
+                        "text": "→ Doppler color (+)",
+                        "guid": "elbzZGhLt2Y1701vC4W9pA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "parent": "0",
+        "text": "PUNCIÓN ASPIRATIVA CON\nAGUJA FINA (PAAF)",
+        "guid": "dP26OBf6iJYYJgBhJIey6g",
+        "children": [
+          {
+            "id": "67",
+            "parent": "66",
+            "text": "CARACTERÍSTICAS",
+            "guid": "DNNvBkUukdwgx4T0PjB78w",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "• Procedimiento ambulatorio + sencillo",
+                "guid": "b9BE6l2LAdMkLJNqAWTXsg",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "• Mortalidad ↓",
+                "guid": "T91BBzDHYeh2BuSeSiAQPw",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "67",
+                "text": "• Sensibilidad: 70-98%",
+                "guid": "c18NXmzgsN4phVi-BEhRfA",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "67",
+                "text": "• Especificidad: 72-100%",
+                "guid": "SjeLKzPUv79yuAcbd7R_sA",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "67",
+                "text": "• Requisitos:",
+                "guid": "ChI_yVqzwAJsolHEC46idw",
+                "children": [
+                  {
+                    "id": "73",
+                    "parent": "72",
+                    "text": "→ Profesional entrenado",
+                    "guid": "eKxVV3kzl1AHYfiJfvCiEg",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "72",
+                    "text": "→ Ecógrafo alta resolución",
+                    "guid": "O7QqSw67DEA03ELSSIeZUg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75",
+                "parent": "67",
+                "text": "• Ventaja: ↓ cirugías innecesarias",
+                "guid": "U-meHFWjx8YGuBVFQ7njBg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "76",
+            "parent": "66",
+            "text": "INDICACIONES",
+            "guid": "My7JmirkqK9FHrq5AwwKoQ",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "1. Nódulos sólidos >10mm",
+                "guid": "W6wKlzsln1dNLBrgTwsX9Q",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "2. Nódulos 5-10mm\n+ FR cáncer:",
+                "guid": "KAZQNXaxc59TU2lxcj3bYA",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "→ Radiación cervical previa",
+                    "guid": "BkRMu0KAkvsHWRO2NeugwA",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "78",
+                    "text": "→ Ca tiroideo familiar",
+                    "guid": "KoYzXkYLcIxp8lsQNJhzJw",
+                    "children": []
+                  },
+                  {
+                    "id": "81",
+                    "parent": "78",
+                    "text": "→ Crecimiento rápido c/levotiroxina",
+                    "guid": "IL8wj1aUrNVAJxWfGWuF5g",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "78",
+                    "text": "→ Adenopatías regionales",
+                    "guid": "T8hEJUeJDigYXCf4C3xucQ",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "78",
+                    "text": "→ Metástasis distancia",
+                    "guid": "VkQaaE04aspUBAfDKi24hA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "76",
+                "text": "3. Nódulos 5-10mm + eco\nsugerente malignidad",
+                "guid": "ItwykFq8HQht55uLVgr8Kg",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• Microcalcificaciones:",
+                    "guid": "GICBklR56_1PAd8BHkQajg",
+                    "children": [
+                      {
+                        "id": "86",
+                        "parent": "85",
+                        "text": "• OR: 6.6 | Sensib.: 52% | Especif.: 86% | LR: 3.7",
+                        "guid": "Fpbb51E-0ugtkZOACOEKaA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "87",
+                    "parent": "84",
+                    "text": "• Hipoecogenicidad:",
+                    "guid": "OEE9tjgZ6F0KffqPGGUOSA",
+                    "children": [
+                      {
+                        "id": "88",
+                        "parent": "87",
+                        "text": "• OR: 4.7 | Sensib.: 86% | Especif.: 43% | LR: 1.5",
+                        "guid": "BcOY_GPHUblpGAlcbDngAA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "89",
+                    "parent": "84",
+                    "text": "• Bordes irregulares:",
+                    "guid": "OQyDYQGCHsQ3H1ojc_M1kQ",
+                    "children": [
+                      {
+                        "id": "90",
+                        "parent": "89",
+                        "text": "• OR: 4.3 | Sensib.: 39% | Especif.: 87% | LR: 3.0",
+                        "guid": "YCPQkQDymwR3BCQ1HrpL2w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "parent": "84",
+                    "text": "• Linfonodo anormal:",
+                    "guid": "cJutdhLkbygOyP0lXdU6Jg",
+                    "children": [
+                      {
+                        "id": "92",
+                        "parent": "91",
+                        "text": "• OR: 6.1 | Sensib.: 7% | Especif.: 99% | LR: 5.8",
+                        "guid": "OuayL28ZjrFbxRUFGtXHlA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "93",
+                    "parent": "84",
+                    "text": "• Contenido sólido:",
+                    "guid": "Lev60kvGeQRzdTQDZHUkmg",
+                    "children": [
+                      {
+                        "id": "94",
+                        "parent": "93",
+                        "text": "• OR: 3.4 | Sensib.: 89% | Especif.: 30% | LR: 1.3",
+                        "guid": "bTmMsBsHi6k8_XvfFZ_53Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "95",
+                    "parent": "84",
+                    "text": "• Ausencia de hilo ecogénico:",
+                    "guid": "NokpyArT2ohgjLmpMn8h5g",
+                    "children": [
+                      {
+                        "id": "96",
+                        "parent": "95",
+                        "text": "• OR: 1.8 | Sensib.: 77% | Especif.: 35% | LR: 1.2",
+                        "guid": "EKshlyD7zIsBBkIVMOCLPg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "97",
+                    "parent": "84",
+                    "text": "• Vascularidad central:",
+                    "guid": "VppTjFQB7a0W9EaAZ0V1Iw",
+                    "children": [
+                      {
+                        "id": "98",
+                        "parent": "97",
+                        "text": "• OR: 1.6 | Sensib.: 21% | Especif.: 86% | LR: 1.5",
+                        "guid": "L4n4skdBrqkm6Fh9RiDUmQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "99",
+                "parent": "76",
+                "text": "4. Crecimiento nódulo\nPAAF benigna previa:",
+                "guid": "SPcpFjw6UXAD4Xi1GL9tOw",
+                "children": [
+                  {
+                    "id": "100",
+                    "parent": "99",
+                    "text": "→ ≥2mm en 2 dimensiones",
+                    "guid": "HPSVSwOrUbQIcCEwR3rIqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "99",
+                    "text": "→ ↑volumen ≥20%",
+                    "guid": "SbbCQHJifEF8EzvRanXyzw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "parent": "66",
+            "text": "CONTRAINDICACIONES",
+            "guid": "A8NfmBw9oK0kO9usWgd6AQ",
+            "children": [
+              {
+                "id": "103",
+                "parent": "102",
+                "text": "• Quistes simples pequeños",
+                "guid": "aXYLd3g_428ENTKFDFI-CA",
+                "children": []
+              },
+              {
+                "id": "104",
+                "parent": "102",
+                "text": "• Nódulos <10mm:",
+                "guid": "Ybdiq2pBfr8pgV-_fqv39g",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "→ Sin eco sospechosa",
+                    "guid": "UvwAd3IczhBiXToyWJzGLg",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "104",
+                    "text": "→ Sin FR específicos",
+                    "guid": "JSMkVDt0QP456ZZ8E08Z7w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "107",
+                "parent": "102",
+                "text": "• Nódulos >10mm:",
+                "guid": "IoZSnmB0WgA4AOhmdYJTFg",
+                "children": [
+                  {
+                    "id": "108",
+                    "parent": "107",
+                    "text": "→ Patología grave asociada",
+                    "guid": "bezQczHxgPBGJsCgN6OStA",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "107",
+                    "text": "→ Paciente mayor",
+                    "guid": "JFP9MUI5_HEiGYWDbUsmRw",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "107",
+                    "text": "→ PAAF riesgosa",
+                    "guid": "fnRN4SX6_jkGCpOCAjeteQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "107",
+                    "text": "→ Resultado no modifica tto",
+                    "guid": "Qjie5ipGby9cPyd6K66qXg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "66",
+            "text": "EXCEPCIONES\nNO PAAF",
+            "guid": "E4hE3DmqZoUWANNgS8mCkg",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "1. Nódulos evolución >3 años:",
+                "guid": "ccRO4yB-ze9kLpDaKtDSRA",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "→ Tamaño estable",
+                    "guid": "IgDssxtN6v0exAfVEpyaKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "→ Sin eco sospechosa",
+                    "guid": "LjJaJi2NBPpwcdRPXB5U-A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "116",
+                "parent": "112",
+                "text": "2. Según Endocrine\nSociety:",
+                "guid": "eVN9_mPnCFNAk3mST-3Rig",
+                "children": [
+                  {
+                    "id": "117",
+                    "parent": "116",
+                    "text": "→ Nódulos esponjiformes",
+                    "guid": "N-j2AFeHwBI3M0atLOawOA",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "116",
+                    "text": "→ Aspecto coloideo",
+                    "guid": "b4JIqE9ZRw9RbmMjTr5_6A",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "116",
+                    "text": "→ <20mm",
+                    "guid": "Dmef7TwW6qdGezi5Ie_kyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "116",
+                    "text": "→ Solo observación",
+                    "guid": "Xzw3Pz8OWN5qqIeEd7y40Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "121",
+            "parent": "66",
+            "text": "CRITERIOS MUESTRA\nSATISFACTORIA",
+            "guid": "BfE9iDgaC-Qn6M6tPdoziA",
+            "children": [
+              {
+                "id": "122",
+                "parent": "121",
+                "text": "→ Mínimo 6 grupos celulares",
+                "guid": "fPraCFHn-DYSVnJUHvvGvA",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "121",
+                "text": "→ >10 células/grupo",
+                "guid": "bTXjNDEaeikxmGDlG2g9Wg",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "121",
+                "text": "→ Bien preservadas",
+                "guid": "Xqd_JCIKNTV3hpJSV_r9Ig",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "125",
+            "parent": "66",
+            "text": "SITUACIONES\nESPECIALES",
+            "guid": "Sy6r7TNVdJNB98hSQ3Tddw",
+            "children": [
+              {
+                "id": "126",
+                "parent": "125",
+                "text": "1. Nódulo\nhiperfuncionante",
+                "guid": "D6HL9l8cFVpqwOPAfyQUnw",
+                "children": [
+                  {
+                    "id": "127",
+                    "parent": "126",
+                    "text": "→ Riesgo Ca <4%",
+                    "guid": "LnVcaTwvRuNN4pSHPNz8Vw",
+                    "children": []
+                  },
+                  {
+                    "id": "128",
+                    "parent": "126",
+                    "text": "→ No PAAF rutinaria (5,6)",
+                    "guid": "eEYxihRdzUBezOEgbgeCtw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "125",
+                "text": "2. Bocio\nmultinodular",
+                "guid": "cNnZWkyGSHxVjSLGbdSzYg",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "→ Riesgo Ca = bocio uninodular",
+                    "guid": "Hm5As2fjlRoM0HoeC6Qj5w",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "→ Criterios PAAF:",
+                    "guid": "GP4PRD5o2wQnDGFBd6WOaA",
+                    "children": [
+                      {
+                        "id": "132",
+                        "parent": "131",
+                        "text": "* Nódulos >10mm: punción más sospechoso eco",
+                        "guid": "YHMQOR6S85NPoIuKZmRNwQ",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "131",
+                        "text": "* Sin eco sospechosa: punción mayor tamaño",
+                        "guid": "Vqz_d3eJWjckPoFJZk7LbQ",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "131",
+                        "text": "* TSH <0.5mUI/mL: cintigrama + PAAF según criterios previos",
+                        "guid": "VqVvkg7_ZQllcuAMBRrL-w",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "parent": "0",
+        "text": "SEGUIMIENTO",
+        "guid": "eHQK7AixGG9kqNHoPy6maQ",
+        "children": [
+          {
+            "id": "136",
+            "parent": "135",
+            "text": "1. Crecimiento\nsignificativo:",
+            "guid": "R7NB1CDEqXMxfGAuOI0bLg",
+            "children": [
+              {
+                "id": "137",
+                "parent": "136",
+                "text": "→ ↑2mm en ≥2 dimensiones",
+                "guid": "bUrx7wcJgvUmYc6QC7kyog",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "136",
+                "text": "→ ↑volumen >20%",
+                "guid": "bu0YDzMySK8XXVaJB-snUw",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "136",
+                "text": "→ No implica malignidad",
+                "guid": "cZsjsz5pt8p_kLW7Ug4z7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "140",
+            "parent": "135",
+            "text": "2. PAAF\nrepetición:",
+            "guid": "XPyrXU8xQUY4coGtM6mq1A",
+            "children": [
+              {
+                "id": "141",
+                "parent": "140",
+                "text": "→ Eco sospechosa sin crecimiento",
+                "guid": "RrqbfVyxAvYZ-HZCHWALDw",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "140",
+                "text": "→ Esperar 3-6 meses post-PAAF previa",
+                "guid": "a7Bn_39rVk4ietcLNt8T7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "143",
+            "parent": "135",
+            "text": "3. Evaluación\neco:",
+            "guid": "MsDK4mRyn116U_FkenQMtg",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "→ Alto riesgo: 6 meses",
+                "guid": "BTdI0CvQUZIzASfkcoI6wA",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "143",
+                "text": "→ Bajo riesgo: 6-12 meses",
+                "guid": "MtnUh1li9nR-O21iIcbslw",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "143",
+                "text": "→ Sin crecimiento: control c/12 meses",
+                "guid": "DJU_IxWYw-wpshPqfjBi1g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "147",
+        "parent": "0",
+        "text": "ALTERNATIVAS TRATAMIENTO\nNÓDULOS TIROIDEOS",
+        "guid": "Ppv3a1zA5LQXRmHiKFC0Lg",
+        "children": [
+          {
+            "id": "148",
+            "parent": "147",
+            "text": "1. LEVOTIROXINA",
+            "guid": "fgyeeX8JiIQH8ZdRMM1pWw",
+            "children": [
+              {
+                "id": "149",
+                "parent": "148",
+                "text": "→ RCT: dosis supresivas",
+                "guid": "Y3wn4QJFiLUrQXYRaLNwsg",
+                "children": [
+                  {
+                    "id": "150",
+                    "parent": "149",
+                    "text": "* ↓20% tamaño: 52% pacientes",
+                    "guid": "LhXaSF5CnfVbNatyYO-uzw",
+                    "children": []
+                  },
+                  {
+                    "id": "151",
+                    "parent": "149",
+                    "text": "* ↓50% tamaño: 25% pacientes",
+                    "guid": "N6WUaVlxGNQCtptmRDrTjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "149",
+                    "text": "* Meta-análisis: sin significancia estadística",
+                    "guid": "bwncwCxor1FCazZjQwxYdw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "153",
+                "parent": "148",
+                "text": "RECOMENDACIONES:",
+                "guid": "Vat49xKpzSZ0C3-LTh-D4w",
+                "children": [
+                  {
+                    "id": "154",
+                    "parent": "153",
+                    "text": "→ TSH meta: 0. 5-1 uUI/mL",
+                    "guid": "G1rllVi0UXMNTipMAL0A-w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "155",
+                "parent": "148",
+                "text": "→ Evaluación\n1 año:",
+                "guid": "XAakZzFxF4M1FfzdChx-rw",
+                "children": [
+                  {
+                    "id": "156",
+                    "parent": "155",
+                    "text": "* Si ↓2mm o 20%: suspender",
+                    "guid": "V1WZnmnc28VRz4RgVWI4Fw",
+                    "children": []
+                  },
+                  {
+                    "id": "157",
+                    "parent": "155",
+                    "text": "* No mantener TSH <0.5 uUI/mL",
+                    "guid": "aOZkSVnBG7EGL6FyTGKMKw",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "155",
+                    "text": "- ⚠️Riesgo CV + óseo",
+                    "guid": "D7O1eBBLqE9rDC1-R1lJ4Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "159",
+                "parent": "148",
+                "text": "CONTRAINDICACIONES:",
+                "guid": "abzBI23CyOULlB1uWMad5A",
+                "children": [
+                  {
+                    "id": "160",
+                    "parent": "159",
+                    "text": "→ Ancianos",
+                    "guid": "Git4Nk3_U9Ib0vZbb9bxLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "159",
+                    "text": "→ Comorbilidades agravables",
+                    "guid": "YKkg-A_edeY99nUQfAQGjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "159",
+                    "text": "→ Posmenopáusicas",
+                    "guid": "aJLHWUtEn1x8wQeIP-hg9w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "163",
+            "parent": "147",
+            "text": "2. CIRUGÍA",
+            "guid": "NSF7Ik6Qi-gVSpkOHgffaw",
+            "children": [
+              {
+                "id": "164",
+                "parent": "163",
+                "text": "INDICACIONES:",
+                "guid": "fYvCnQ4iZiVxRip2XjTjlQ",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "→ Crecimiento significativo",
+                    "guid": "KFGnmht6OoBqamuWBFhMAQ",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "164",
+                    "text": "→ Síntomas compresivos",
+                    "guid": "TOtSAx-AaHMOdMqwXJ8Hew",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "164",
+                    "text": "→ Duda benignidad post-PAAF",
+                    "guid": "ZWIbZX6hSCpcjrF5URKDZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "168",
+                    "parent": "164",
+                    "text": "→ Molestias cosméticas",
+                    "guid": "L8wQwnmA-C4j-FFdGYjR5g",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "164",
+                    "text": "→ Nódulos >4cm",
+                    "guid": "Z0PBEy-MbstyT2_KAW85SQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "170",
+                "parent": "163",
+                "text": "TÉCNICA:",
+                "guid": "eoE-41b58atGfARcL6K6BQ",
+                "children": [
+                  {
+                    "id": "171",
+                    "parent": "170",
+                    "text": "→ Preferir tiroidectomía total",
+                    "guid": "HgDcCy88n4ZaOOojBpOjZA",
+                    "children": []
+                  },
+                  {
+                    "id": "172",
+                    "parent": "170",
+                    "text": "→ Hemitiroidectomía:",
+                    "guid": "V5VtemCpO98gyzFqB2F-PQ",
+                    "children": [
+                      {
+                        "id": "173",
+                        "parent": "172",
+                        "text": "* Solo si lóbulo contralateral normal",
+                        "guid": "JYp9lFvGnWpNqplwTdwlLg",
+                        "children": []
+                      },
+                      {
+                        "id": "174",
+                        "parent": "172",
+                        "text": "* Recurrencia contralateral: 10%",
+                        "guid": "d0DX6zgVBQdSNHEvRCwp7g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "175",
+            "parent": "147",
+            "text": "3. ETANOL",
+            "guid": "Wio0DUTDgscg6lAjQW31IQ",
+            "children": [
+              {
+                "id": "176",
+                "parent": "175",
+                "text": "Solo casos muy seleccionados",
+                "guid": "CSgtRFRrKCZ2iHovElcqlw",
+                "children": []
+              },
+              {
+                "id": "177",
+                "parent": "175",
+                "text": "CARACTERÍSTICAS:",
+                "guid": "aDNHSFsuisB0qhZWX3QfMw",
+                "children": [
+                  {
+                    "id": "178",
+                    "parent": "177",
+                    "text": "→ Inyección intranodular 99%",
+                    "guid": "dE_xkhM5v-1C3S5qcdu0MA",
+                    "children": []
+                  },
+                  {
+                    "id": "179",
+                    "parent": "177",
+                    "text": "→ Necrosa tejido",
+                    "guid": "IVwmEjQjWOFQEJfFP10CHQ",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "177",
+                    "text": "→ Evita crecimiento",
+                    "guid": "Y1_4ZypJgehF8KWBXeE3Sg",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "177",
+                    "text": "→ Indicación: nódulos quísticos importantes",
+                    "guid": "AUNzlAxsqd0Ng_FPJs3xKA",
+                    "children": [
+                      {
+                        "id": "182",
+                        "parent": "181",
+                        "text": "* Recurrencia post-vaciamiento",
+                        "guid": "E0OPx0beh4UjoEkhatj9QQ",
+                        "children": []
+                      },
+                      {
+                        "id": "183",
+                        "parent": "181",
+                        "text": "* No respuesta levotiroxina",
+                        "guid": "J4fDZERreotyOnt-AbH3cQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "184",
+                    "parent": "177",
+                    "text": "→ Éxito: 30-95%",
+                    "guid": "CS79UhMky6FDH-ySfX7u5Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "185",
+                "parent": "175",
+                "text": "COMPLICACIONES:",
+                "guid": "Jl6LjgX9Gv1vWqMVR7qxoA",
+                "children": [
+                  {
+                    "id": "186",
+                    "parent": "185",
+                    "text": "→ Dolor",
+                    "guid": "OiBz3j9rOtoHF7O9HYBsRQ",
+                    "children": []
+                  },
+                  {
+                    "id": "187",
+                    "parent": "185",
+                    "text": "→ Disfonía transitoria",
+                    "guid": "abS8w00IWT97YaOQavgwVw",
+                    "children": []
+                  },
+                  {
+                    "id": "188",
+                    "parent": "185",
+                    "text": "→ Riesgo infeccioso mínimo",
+                    "guid": "WXUDHAjllN8RxiF_QahKZA",
+                    "children": []
+                  },
+                  {
+                    "id": "189",
+                    "parent": "185",
+                    "text": "→ Post-etanol:",
+                    "guid": "Z4_zyDmoZsIP1hl8De5_Vg",
+                    "children": [
+                      {
+                        "id": "190",
+                        "parent": "189",
+                        "text": "* Cirugía más compleja",
+                        "guid": "ZBQfnwZwN9UhHGmXd1evZg",
+                        "children": []
+                      },
+                      {
+                        "id": "191",
+                        "parent": "189",
+                        "text": "* Fibrosis periglandular",
+                        "guid": "TU6_WkS8srliMKyodNaCvg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "192",
+        "parent": "0",
+        "text": "Clasificación TIRADS \n(Thyroid Imaging Reporting and Data System)",
+        "guid": "Kck98xKoBXITSOSFAz5BEA",
+        "children": [
+          {
+            "id": "193",
+            "parent": "192",
+            "text": "TIRADS 1: Normal",
+            "guid": "G42aUiUPBgRE5ot0f6G58Q",
+            "children": [
+              {
+                "id": "194",
+                "parent": "193",
+                "text": "• Glándula tiroidea sin alteraciones ecográficas.",
+                "guid": "K3892WYC9Qx2-WlYeM39Mw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "192",
+            "text": "TIRADS 2:\nBenigno",
+            "guid": "Kr-nxVkqFgBtpH_xM-fVCQ",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "• Nódulos con\ncaracterísticas benignas:",
+                "guid": "LZU-JmQs-iFGPv-gFSUx7g",
+                "children": [
+                  {
+                    "id": "197",
+                    "parent": "196",
+                    "text": "• Quistes simples",
+                    "guid": "HdVg41YVGRwjE7FFXXriog",
+                    "children": []
+                  },
+                  {
+                    "id": "198",
+                    "parent": "196",
+                    "text": "• Quistes coloides",
+                    "guid": "VUXVrXi84jxXQNg_E-HNGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "199",
+                    "parent": "196",
+                    "text": "• Halo completo, isoecoicos",
+                    "guid": "VX3G8G6HOiE8MoFHf0cE5A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "200",
+            "parent": "192",
+            "text": "TIRADS 3:\nProbablemente Benigno",
+            "guid": "AS8_lE97Zc0ChUX0HLzZ5g",
+            "children": [
+              {
+                "id": "201",
+                "parent": "200",
+                "text": "• Nódulos con bajo riesgo\nde malignidad (<5%):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "202",
+                    "parent": "201",
+                    "text": "• Isoecoico o hipoecoico leve",
+                    "guid": "dIpr0Udr0WgcXpPXIAmpqw",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "201",
+                    "text": "• Bordes regulares",
+                    "guid": "LW7GdBNX_S8Y16beWC5uOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "201",
+                    "text": "• Sin microcalcificaciones",
+                    "guid": "bIITLwZ8JtAMFkNDGhdRVg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "parent": "192",
+            "text": "TIRADS 4:\nSospechoso",
+            "guid": "aqkg8VJVQuMvPINECH6B1A",
+            "children": [
+              {
+                "id": "206",
+                "parent": "205",
+                "text": "• 4A (Riesgo bajo):\n5-10%",
+                "guid": "acL59mYMJCgx0_tXFzHAaw",
+                "children": [
+                  {
+                    "id": "207",
+                    "parent": "206",
+                    "text": "• Hipoecogenicidad leve",
+                    "guid": "Sw0WxT06PLURkf7GIIrdtg",
+                    "children": []
+                  },
+                  {
+                    "id": "208",
+                    "parent": "206",
+                    "text": "• Bordes bien definidos",
+                    "guid": "K8F21k3EgA4f0eKaLPC2ag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "209",
+                "parent": "205",
+                "text": "• 4B (Riesgo moderado):\n10-50%",
+                "guid": "HT_l2yJXKI5JrZBQEcpRrA",
+                "children": [
+                  {
+                    "id": "210",
+                    "parent": "209",
+                    "text": "• Hipoecogenicidad marcada",
+                    "guid": "eWQhV0qrojZvYC6kZeY0hw",
+                    "children": []
+                  },
+                  {
+                    "id": "211",
+                    "parent": "209",
+                    "text": "• Bordes irregulares",
+                    "guid": "USfJBnt2ced__YXdO9Dp9w",
+                    "children": []
+                  },
+                  {
+                    "id": "212",
+                    "parent": "209",
+                    "text": "• Microcalcificaciones aisladas",
+                    "guid": "Tcu0yy86CSFET2vLdjYQyw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "213",
+                "parent": "205",
+                "text": "• 4C (Riesgo alto):\n50-85%",
+                "guid": "Z4MM9gV4QT9tIjImE0SDzA",
+                "children": [
+                  {
+                    "id": "214",
+                    "parent": "213",
+                    "text": "• Todas las características previas + invasión extratiroidea",
+                    "guid": "AYo9qypI0EFz5kJ4TJdUcA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "215",
+            "parent": "192",
+            "text": "TIRADS 5:\nAltamente\nSospechoso",
+            "guid": "UzzBTQz0FMBANTo3cHynKA",
+            "children": [
+              {
+                "id": "216",
+                "parent": "215",
+                "text": "• Riesgo de\nmalignidad >85%",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "217",
+                    "parent": "216",
+                    "text": "• Hipoecogenicidad marcada",
+                    "guid": "L0s9TgniyocCRvjUGQ43RQ",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "216",
+                    "text": "• Bordes irregulares",
+                    "guid": "b-7urzQa9CwwP_ewaVMQBw",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "216",
+                    "text": "• Microcalcificaciones múltiples",
+                    "guid": "fsaWYh-gJlRPOUSOT-5faA",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "216",
+                    "text": "• Forma más alta que ancha",
+                    "guid": "GxaYPE82ymsLv0lfaOJNBw",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "216",
+                    "text": "• Invasión extratiroidea",
+                    "guid": "fnDTjFAOtSpfGF3Sf_sRNw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "222",
+            "parent": "192",
+            "text": "TIRADS 6:\nMalignidad\nConfirmada",
+            "guid": "WHbhiTm0l851HxYtK7Oi1g",
+            "children": [
+              {
+                "id": "223",
+                "parent": "222",
+                "text": "• Diagnóstico confirmado de cáncer\ntiroideo por PAAF o histopatología.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "224",
+        "parent": "0",
+        "text": "Sistema Bethesda para\nClasificación de Nódulos Tiroideos",
+        "guid": "aXZ7BinvoUAgejIEMfGjWw",
+        "children": [
+          {
+            "id": "225",
+            "parent": "224",
+            "text": "I. No diagnóstico\no Insuficiente",
+            "guid": "Nukomy0Gdihi2yRqNVn8KA",
+            "children": [
+              {
+                "id": "226",
+                "parent": "225",
+                "text": "• Riesgo malignidad: 1-4%",
+                "guid": "fRUrUkHzgjw1VQ1fd2ywvQ",
+                "children": []
+              },
+              {
+                "id": "227",
+                "parent": "225",
+                "text": "• Conducta:",
+                "guid": "FPIihgHncwdZR0MebWkEEA",
+                "children": [
+                  {
+                    "id": "228",
+                    "parent": "227",
+                    "text": "• Repetir PAAF con ecografía.",
+                    "guid": "O5wK1k5mWUsZHKbmAkS3ZQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "229",
+            "parent": "224",
+            "text": "II. Benigno",
+            "guid": "U8QzuAc6wmVyF843JlZqtw",
+            "children": [
+              {
+                "id": "230",
+                "parent": "229",
+                "text": "• Riesgo malignidad: 0-3%",
+                "guid": "RnzbNwqQ59p3rzgYJV8aXg",
+                "children": []
+              },
+              {
+                "id": "231",
+                "parent": "229",
+                "text": "• Conducta:",
+                "guid": "ckNGChj2ZOEfV_HBKSxupg",
+                "children": [
+                  {
+                    "id": "232",
+                    "parent": "231",
+                    "text": "• Seguimiento clínico-ecográfico.",
+                    "guid": "RfzbCQIzFitehmrOQxIGWw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "224",
+            "text": "III. Atipia de significado indeterminado\n(AUS/FLUS)",
+            "guid": "FcLrNRPF-jZGgb7-UV72Cw",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "• Riesgo malignidad: 5-15%",
+                "guid": "YixTgV-eZeRTo61wZeb9MQ",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "233",
+                "text": "• Conducta:",
+                "guid": "UxcRFxrwkAUPBfU4GZPsTw",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "• Repetir PAAF o pruebas moleculares.",
+                    "guid": "FOtWyUvcTrIo2MHNaK-KgQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "224",
+            "text": "IV. Neoplasia folicular o sospecha de\nneoplasia folicular (FN/SFN)",
+            "guid": "H6uSMV5K-G9A8SyPZahtOg",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "• Riesgo malignidad: 15-30%",
+                "guid": "YH4Omh93l10ounOVJKSnAg",
+                "children": []
+              },
+              {
+                "id": "239",
+                "parent": "237",
+                "text": "• Conducta:",
+                "guid": "I92G0m4Ynjs_EnWWOMjdnA",
+                "children": [
+                  {
+                    "id": "240",
+                    "parent": "239",
+                    "text": "• Lobectomía diagnóstica.",
+                    "guid": "M1MPi2M5Kq19vWHwSRX6wA",
+                    "children": []
+                  },
+                  {
+                    "id": "241",
+                    "parent": "239",
+                    "text": "• Calcitonina en todos los casos para descartar carcinoma medular.",
+                    "guid": "dv8k40Q_IO4adPDLWSt4ZQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "242",
+            "parent": "224",
+            "text": "V. Sospechoso de malignidad\n(SM)",
+            "guid": "OfTs7WfrN2QheGgdDQv-BQ",
+            "children": [
+              {
+                "id": "243",
+                "parent": "242",
+                "text": "• Riesgo malignidad: 60-75%",
+                "guid": "AtvHaTB-XVYmn-pUKF0_SA",
+                "children": []
+              },
+              {
+                "id": "244",
+                "parent": "242",
+                "text": "• Conducta:",
+                "guid": "IIrBHmVB_ahJAJ8NU93QqQ",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "• Tiroidectomía total/lobectomía según caso.",
+                    "guid": "NzOKpmWS8QFAIf0xVt8c2A",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "• Calcitonina para excluir carcinoma medular.",
+                    "guid": "Q93pcAETKcE8h4oSJFv4Cw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "247",
+            "parent": "224",
+            "text": "VI. Maligno",
+            "guid": "SHsoVUa-AP0c88tpP3pNOQ",
+            "children": [
+              {
+                "id": "248",
+                "parent": "247",
+                "text": "• Riesgo malignidad: 97-99%",
+                "guid": "Cv0h6zdovDQYpcWeLtqovQ",
+                "children": []
+              },
+              {
+                "id": "249",
+                "parent": "247",
+                "text": "• Conducta:",
+                "guid": "JYFab1e4OzRno4ZZX3ZHXQ",
+                "children": [
+                  {
+                    "id": "250",
+                    "parent": "249",
+                    "text": "• Tiroidectomía total con evaluación linfática.",
+                    "guid": "P6NymAkb7ndsgkViQn86AQ",
+                    "children": []
+                  },
+                  {
+                    "id": "251",
+                    "parent": "249",
+                    "text": "• Medir calcitonina prequirúrgica si carcinoma medular.",
+                    "guid": "OZpLzRMiL7Zq3HlJcM3Wcw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 252,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Endocrinología",
+  "filename": "Arteaga | NÓDULOS TIROIDEOS-2024",
+  "id": "map_1538",
+  "resolved_references": []
+}

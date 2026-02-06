@@ -1,0 +1,1350 @@
+{
+  "title": "Microbiología Clínica",
+  "guid": "56418BD947E63DC5F234D481",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/01. Microbiología Clínica-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Microbiología\nClínica",
+    "guid": "PhSmMA73Lc6Nd-cUqFDU4g",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "- Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "› Definición",
+            "guid": "FNjYCy9uv5Vf9ngTrrZs4A",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "◊ Estudio de\nmicroorganismos ★",
+                "guid": "W_I_KChry26MeqalgQF8MA",
+                "children": [
+                  {
+                    "id": "4",
+                    "parent": "3",
+                    "text": "• Bacterias",
+                    "guid": "BN4LhPZ2xJObw513Cj0-FQ",
+                    "children": []
+                  },
+                  {
+                    "id": "5",
+                    "parent": "3",
+                    "text": "• Virus",
+                    "guid": "LbhVoFooC3Y8CEtdKld9eA",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "3",
+                    "text": "• Hongos",
+                    "guid": "VTciLLl5kjvtIv1sLuBKuw",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "3",
+                    "text": "• Protozoos",
+                    "guid": "RDtgLX2s3e03d1fua0c0Ng",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8",
+                "parent": "2",
+                "text": "◊ Organismos no visibles\nsin magnificación",
+                "guid": "_R4JqpFu_TCOCjfLfDiWEg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "› Bacterias ★",
+            "guid": "MTKoLr3Rfsp0V3CynXtCOw",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "◊ Estructura",
+                "guid": "xZzbzUigio9-lt691adtkA",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "• Procariotas (unicelulares, sin organelos membranosos)",
+                    "guid": "A_P2KEDIMpSuApeHHcAi6A",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "• Reproducción asexual",
+                    "guid": "Vgd2W-o3QqBeKZjT0x05Kw",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "• Pared celular compleja",
+                    "guid": "Wcnn0-Q4XP3MzLKFQC6w1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14",
+                "parent": "9",
+                "text": "◊ Tipos pared\ncelular",
+                "guid": "PClphvwpWe5Eje5eRm_d1A",
+                "children": [
+                  {
+                    "id": "15",
+                    "parent": "14",
+                    "text": "• Grampositiva (peptidoglicano grueso) ★",
+                    "guid": "pcF0OvPe8rlUObClshGCBg",
+                    "children": []
+                  },
+                  {
+                    "id": "16",
+                    "parent": "14",
+                    "text": "• Gramnegativa (peptidoglicano fino + membrana externa) ★",
+                    "guid": "-QZSmPpghmqP3JbF6xTHxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "14",
+                    "text": "• Sin pared (intracelulares/ambiente hipertónico)",
+                    "guid": "L7NcShaI5sDcOmRLREbRmQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "18",
+                "parent": "9",
+                "text": "◊ Clasificación\npreliminar",
+                "guid": "BHB4ZRPuaY037iJLFwuVuA",
+                "children": [
+                  {
+                    "id": "19",
+                    "parent": "18",
+                    "text": "• Tamaño (1-20~\\\\mu~m)",
+                    "guid": "CDO9osOTinOM33v0wxSWoA",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "18",
+                    "text": "• Forma (cocos, bacilos, etc.)",
+                    "guid": "PDrAsG23vn4ilkiNfykdWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "18",
+                    "text": "• Disposición espacial (cadenas, racimos)",
+                    "guid": "ceSY1tJHy6CUubftDIN0Yg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "parent": "9",
+                "text": "◊ Clasificación definitiva (propiedades fenotípicas y genotípicas)",
+                "guid": "IlAvdeVDfVsOVNFG530AUA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "1",
+            "text": "› Relación con\nhumanos y ambiente",
+            "guid": "-IScxApUZSCgb8nvc_j1MA",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "◊ Microbiota humana (transitoria/permanente)",
+                "guid": "HptZPR_oh8iWS-7u2TPZgg",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "23",
+                "text": "◊ Presencia en ambiente (aire, agua, alimentos)",
+                "guid": "z1ywl8WDjIcqdOkPjlm7dw",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "23",
+                "text": "◊ Causas de\nenfermedad",
+                "guid": "DZrgNFZsAkIkE_0vJEVjQA",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "• Efectos tóxicos (toxinas)",
+                    "guid": "fSeHQsUw2SlW5kMUPey9lw",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "• Invasión de tejidos estériles",
+                    "guid": "MOSHdWOyLzoBgeEUsYw9pg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "parent": "1",
+            "text": "› Laboratorio de\nMicrobiología Clínica ★",
+            "guid": "w0rC_ZGUrN52rYuMVvByqw",
+            "children": [
+              {
+                "id": "30",
+                "parent": "29",
+                "text": "◊ Áreas",
+                "guid": "40WokUZm6kdh-VV1S0SWuw",
+                "children": [
+                  {
+                    "id": "31",
+                    "parent": "30",
+                    "text": "• Bacteriología",
+                    "guid": "TA_Jhfx6-9cwM1eHqEqunw",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "30",
+                    "text": "• Virología",
+                    "guid": "2_y2c4nrTQzLbTtSEUqZ1g",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "30",
+                    "text": "• Micología",
+                    "guid": "5kvlgEwoMiXbdKImf3fwPg",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "30",
+                    "text": "• Micobacteriología",
+                    "guid": "20yoPEriUkdByt53SttDzw",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "30",
+                    "text": "• Parasitología",
+                    "guid": "nHjEqzfrMztodbP0flWQVw",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "30",
+                    "text": "• Serología",
+                    "guid": "2loJF16ryNO52hyBdNj8Yw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "parent": "29",
+                "text": "◊ Variabilidad (recursos, volumen, necesidades, tiempos)",
+                "guid": "gz3MMDtbd1UW5vKGb5cAhw",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "29",
+                "text": "◊ Laboratorios de referencia (Ej: ISP en Chile)",
+                "guid": "KG03Hto516ZBw7scmvtOGg",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "29",
+                "text": "◊ Importancia de comunicación con laboratorio",
+                "guid": "xMdue7HescJZ9VqIyZlTZg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "- Toma de\nMuestra ★",
+        "guid": "9dXjFQREwU1t7HKJRq7S7Q",
+        "children": [
+          {
+            "id": "41",
+            "parent": "40",
+            "text": "› Importancia",
+            "guid": "2VCjGGaEQ08HYGha_lqXvw",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "◊ Crucial para diagnóstico preciso",
+                "guid": "4HivO8rLplZemaijYoV65A",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "◊ Errores → retrasos y resultados engañosos",
+                "guid": "5N047RKQKdMJap33nwnxBw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "40",
+            "text": "› Recomendaciones\ngenerales",
+            "guid": "vaCObz5oXDfSqCnbxN0pSw",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "◊ Seguir manuales de recolección (Ej: Intranet HPM)",
+                "guid": "eXGkVkodjgLH84Ogoxf0Dw",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "44",
+                "text": "◊ Consultar al laboratorio (dudas, patógenos raros/virulentos)",
+                "guid": "PdpdwFDu4p3x5mdYmFsoDg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "40",
+            "text": "› Hemocultivos ★",
+            "guid": "tDjZAMzZtKsy5apYHbm9uQ",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "◊ Contaminación\n(falsos positivos) ★",
+                "guid": "f5Pv4poIP1-w1Ukl7VA_zQ",
+                "children": [
+                  {
+                    "id": "49",
+                    "parent": "48",
+                    "text": "• Flora cutánea (dificultad diagnóstica, esp. con dispositivos)",
+                    "guid": "e5f4skgN1Sj6U3PpQSflpw",
+                    "children": []
+                  },
+                  {
+                    "id": "50",
+                    "parent": "48",
+                    "text": "• Catéteres (> riesgo)",
+                    "guid": "AlvbcIjot407yzS4APkWIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "48",
+                    "text": "• Consecuencias: financieras, hospitalización prolongada, > antibióticos, > pruebas",
+                    "guid": "AtR3zVqR9hNDbxhWP45b2Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "52",
+                "parent": "47",
+                "text": "◊ Técnica aséptica estricta ★",
+                "guid": "39SR5ukbwTscxUXYhZUxyA",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "47",
+                "text": "◊ Recolección",
+                "guid": "oqHZ7dq6c4QX-KSrV6uHkw",
+                "children": [
+                  {
+                    "id": "54",
+                    "parent": "53",
+                    "text": "• Intervalos programados (útil en sospecha endovascular/endocarditis)",
+                    "guid": "4usqRZJaCVwpS4SIfaym8w",
+                    "children": []
+                  },
+                  {
+                    "id": "55",
+                    "parent": "53",
+                    "text": "• Con/sin fiebre (no afecta sensibilidad, tomar ante sospecha) ★",
+                    "guid": "2RnHlrXp8A288OmU3_8cFg",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "53",
+                    "text": "• Volumen sanguíneo vs Positividad (Relación directa) ★",
+                    "guid": "lTp9AYK56Qhv5QnJBPn5Fg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "57",
+                "parent": "47",
+                "text": "◊ Volumen\nrecomendado",
+                "guid": "l9igtq61qA_W7MP6Bc0eXg",
+                "children": [
+                  {
+                    "id": "58",
+                    "parent": "57",
+                    "text": "• Literatura: Adultos/niños >: 2 flebotomías, 20ml c/u (total 40ml) -> 1 frasco aeróbico + 1 anaeróbico",
+                    "guid": "KvJ_bsrcUSOPD5vy2QUNEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "57",
+                    "text": "• Práctica HPM/Chile (sin anaeróbicos): 2 venopunciones separadas, 10ml c/u en frasco aeróbico (total 20ml) ★",
+                    "guid": "WqK8JXo08i6W8KaghO9XEA",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "57",
+                    "text": "• Niños pequeños: Volumen según peso y estado clínico",
+                    "guid": "ScBK4AzPyctivZtUYY3lMg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61",
+                "parent": "47",
+                "text": "◊ Sitios separados ★ (Clave para interpretar contaminación)",
+                "guid": "Z0zzk0sjXXFqQi_nZpxUSg",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "47",
+                "text": "◊ Sistemas\nautomatizados ★",
+                "guid": "aQB-b3IikgtaybxFdsPBXA",
+                "children": [
+                  {
+                    "id": "63",
+                    "parent": "62",
+                    "text": "• Botellas con caldos nutritivos",
+                    "guid": "XTlNii_Ixche7cawArbxKw",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "62",
+                    "text": "• Tipos frascos: aeróbicos, anaeróbicos, micobacterias, hongos, pediátricos",
+                    "guid": "ckqrwWKtgOYItskhTEXkIA",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "62",
+                    "text": "• Anticoagulante: SPS (polianetolsulfonato de sodio)",
+                    "guid": "J9YRZit56whlsBcmc_HBaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "62",
+                    "text": "• Atmósfera: Aeróbicos (O2+CO2), Anaeróbicos (N2+CO2)",
+                    "guid": "XSFIq2Vf07ZvxmoHforNUw",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "62",
+                    "text": "• Frascos especializados (carbón/resinas) -> neutralizan antibióticos",
+                    "guid": "eybVHyQl-dRTFusEROcf_w",
+                    "children": []
+                  },
+                  {
+                    "id": "68",
+                    "parent": "62",
+                    "text": "• Detección crecimiento: Continua (CO2, presión)",
+                    "guid": "MPXDnzXUhlkmdQUxGEK3Mg",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "62",
+                    "text": "• Incubación: Rutina (5 días), Hongos (4 sem), Micobacterias (6 sem)",
+                    "guid": "APfjyhC3NRh-3wt9afhiOg",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "62",
+                    "text": "• Candida: Crece bien en frascos de rutina",
+                    "guid": "AtnHI1mox8JgvCOWYBMUrQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71",
+                "parent": "47",
+                "text": "◊ Centrifugación por lisis\n(Manual)",
+                "guid": "CXGNij-p6kZiygXYe7w5Sw",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "• Aislamiento de hongos y micobacterias",
+                    "guid": "IldrLGuAzvpIAh1rSi18kg",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "71",
+                    "text": "• Tubos con SPS + Saponina (libera MO intracelulares)",
+                    "guid": "Fvq6Ai2yNJI-Hz37dBwCrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "71",
+                    "text": "• Concentración por centrifugación -> siembra en medio sólido",
+                    "guid": "ExIISC3lqAJyptAADjjdZw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "75",
+            "parent": "40",
+            "text": "› Otros tipos de muestras\n(Resumen)",
+            "guid": "Uguh10W9uwVTH_1mAwFldg",
+            "children": [
+              {
+                "id": "76",
+                "parent": "75",
+                "text": "◊ LCR: Tubo estéril, entrega inmediata, no refrigerar/calentar",
+                "guid": "e5JBXnmVApgbRBypfIolKA",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "75",
+                "text": "◊ Fluidos estériles: Tubo estéril / Frasco hemocultivo",
+                "guid": "Ckw3sBojKCZmgodiDSX-1A",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "75",
+                "text": "◊ Catéter: Tubo estéril, remover asépticamente, rodar en agar sangre",
+                "guid": "c8vv6Ec-qvhtOROBfT19cg",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "75",
+                "text": "◊ Respiratorio (Garganta): Tórula en medio transporte, evitar saliva",
+                "guid": "BuiVPlADGVp4-ba9KUAAag",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "75",
+                "text": "◊ Respiratorio (Senos): Tubo anaeróbico estéril, aspirado",
+                "guid": "O4PoVED71ChzbXz8Un6iVg",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "75",
+                "text": "◊ Respiratorio (Vía aérea baja):\nFrasco estéril / Tubo anaeróbico",
+                "guid": "bq4IujGMuvdGmqUDAcARAw",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "• Esputo: Enjuague boca, tos profunda, evitar saliva",
+                    "guid": "X3Ji-jlBdQQP-O5qMX4E0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "• Broncoscopía: Procesar rápido, anaerobios si \"protegida\"",
+                    "guid": "fv8wCWMY69E0f2pHepFxZw",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "81",
+                    "text": "• Aspirado pulmonar: Aerobios y anaerobios",
+                    "guid": "XK3uaU_DhvB3G5aPZvomGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85",
+                "parent": "75",
+                "text": "◊ Oído: Jeringa/Tubo estéril, aspirado (oído externo no predice otitis media)",
+                "guid": "aeavFl2eHfJ0ICTtXbKe_g",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "75",
+                "text": "◊ Ojo: Inocular placas in situ, transporte inmediato",
+                "guid": "JNzI6mFZOG9a8BxwK8VeKQ",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "75",
+                "text": "◊ Exudados/Drenajes/Úlceras: Tórula / Aspirado, no apto anaerobios",
+                "guid": "MVxRyVPp0y1VBV6TbOA6HQ",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "75",
+                "text": "◊ Heridas (Abscesos/Pus): Aspirado (aguja/jeringa) / Cureta",
+                "guid": "FOWnVkhy25A_XtxzA5OwEA",
+                "children": []
+              },
+              {
+                "id": "89",
+                "parent": "75",
+                "text": "◊ Tejidos: Tubo estéril / anaeróbico, muestra representativa",
+                "guid": "ef-WhwX5gXYFU8ETWXH5gQ",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "75",
+                "text": "◊ Orina (Chorro medio): Contenedor estéril, descartar 1ra porción, transporte rápido/preservante/refrigerar",
+                "guid": "Pzr2ehVMr34K7_5SPjomgw",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "75",
+                "text": "◊ Orina (Catéter): Contenedor estéril, descartar 1ra porción",
+                "guid": "eGWbTz9vaJo4y5fqVROJuA",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "75",
+                "text": "◊ Orina (Aspirado suprapúbico): Tubo anaeróbico estéril, válido anaerobios",
+                "guid": "DzLvii_nLno8Da_ReRmeoQ",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "75",
+                "text": "◊ Genitales: Tórulas especiales (Neisseria, Chlamydia), muestrear inflamación/exudado",
+                "guid": "DYVMbDAt1L9WzD2fMmIVVg",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "75",
+                "text": "◊ Heces: Contenedor estéril, transporte rápido, no apto anaerobios, no usar tórula",
+                "guid": "EYcNLjG8WhBeJ3N_QuNe9w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "- Identificación\nBacteriana ★",
+        "guid": "",
+        "children": [
+          {
+            "id": "96",
+            "parent": "95",
+            "text": "› Procedimientos\ngenerales",
+            "guid": "bVhdrQh6qqnnF-f69bC9ug",
+            "children": [
+              {
+                "id": "97",
+                "parent": "96",
+                "text": "◊ Microscopía",
+                "guid": "qbJeetrazmAo8l_RgS5A1A",
+                "children": []
+              },
+              {
+                "id": "98",
+                "parent": "96",
+                "text": "◊ Cultivo",
+                "guid": "hze21nOq7wk_S3zaiMsRZw",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "96",
+                "text": "◊ Detección ácidos nucleicos",
+                "guid": "8RcLYUNTWvsOwZGVwvX4gQ",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "96",
+                "text": "◊ Detección antígenos",
+                "guid": "1YuOE1mRlh7saK4PSM8Knw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "96",
+                "text": "◊ Serología",
+                "guid": "-CVFaiR8KRCMNyUvVaArGQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "parent": "95",
+            "text": "› Microscopía",
+            "guid": "FnMyqDim-Aq5Tvpz9KtO-w",
+            "children": [
+              {
+                "id": "103",
+                "parent": "102",
+                "text": "◊ Tinción de\nGram ★",
+                "guid": "Ku4U9d_ZGI7pemUj45FuqQ",
+                "children": [
+                  {
+                    "id": "104",
+                    "parent": "103",
+                    "text": "• Principio: Distingue Gram (+) y Gram (-)",
+                    "guid": "fAUTZUz1I981atwYsZ3IDg",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "103",
+                    "text": "• Procedimiento: Fijación → Cristal violeta → Yodo → Decolorante → Safranina",
+                    "guid": "Fw2hfhXQ9CCSwOChAu2_1g",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "103",
+                    "text": "• Resultado: G(+) Violeta (peptidoglicano grueso), G(-) Rojo (peptidoglicano fino)",
+                    "guid": "DgEZ8p1GJoiAgN_smlq6_A",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "103",
+                    "text": "• Utilidad: Diagnóstico inicial, guía terapia",
+                    "guid": "I8jo1JLZKx8k1_yD-DAd2A",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "103",
+                    "text": "• Limitaciones: Bacterias muertas/tratadas",
+                    "guid": "8tw_1zCb7xgMde58Gl_Z8g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "109",
+                "parent": "102",
+                "text": "◊ Otras\ntinciones",
+                "guid": "taBe_xsiDMQWvtaQQVK0Jw",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "• Examen directo: Montaje húmedo, KOH, Tinta china, Lugol",
+                    "guid": "Trphw1-GcsViaMqzIRVPSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "• Diferenciales: Gram ★, Hematoxilina, Metenamina, Azul toluidina, Tricrómica, Wright-Giemsa",
+                    "guid": "nuhBEUud6zzt6g13ydwH5A",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "109",
+                    "text": "• BAAR: Ziehl-Neelsen, Kinyoun, Auramina-rodamina ★, BAAR modificada ★",
+                    "guid": "9ZuYZ3GCO_Of7KWO6COEvA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "113",
+            "parent": "95",
+            "text": "› Cultivos ★",
+            "guid": "HlsG0Sma-TUVDRtvVx47EQ",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "◊ Factores de éxito: Biología MO, sitio, inmunidad, medios",
+                "guid": "ZY8A5kVAmR35Qmzc-xthHQ",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "113",
+                "text": "◊ Tipos de\nmedios ★",
+                "guid": "9MFjr9bCEU15Up3Xd69Udg",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "• No selectivos: Agar sangre, Chocolate, Tioglicolato, Sabouraud",
+                    "guid": "mSJ6sv-eO6UT_k1GczYhHQ",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "• Selectivos/diferenciales: MacConkey ★, Sal manitol, XLD, Lowenstein-Jensen, CHROMagar",
+                    "guid": "lMfiaD2WqGjdPgaiN1LVhg",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "• Especializados: BCYE, Cistina-telurito, Regan Lowe, TCBS",
+                    "guid": "D2DSbK7AiCvx7PcgJ1512A",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "115",
+                    "text": "• Susceptibilidad: Mueller-Hinton ★",
+                    "guid": "z9dLyN9n3yO8RwG_VbCZ6g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "113",
+                "text": "◊ Estudio\nAutomatizado",
+                "guid": "buk-qCSYdq7vhE_GCqY5Ug",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "• VITEK 2 (biomérieux) (Disponible HPM) ★",
+                    "guid": "sN0c3Ryn6LqTUGG-OuLLYQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "122",
+                "parent": "113",
+                "text": "◊ Principio\nVITEK 2",
+                "guid": "wWrO7n3ojUtdZMKEhdJQBA",
+                "children": [
+                  {
+                    "id": "123",
+                    "parent": "122",
+                    "text": "• Suspensión → Tarjeta (pocillos con sustratos/ATB) → Incubación → Medición turbidez/color",
+                    "guid": "wMKpEFCYcCYGqImLy6HS3w",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "122",
+                    "text": "• Resultados: 4-24h",
+                    "guid": "3MeZHHaq5CgB1mIj0WHaYg",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "122",
+                    "text": "• Ventajas: Preciso, rápido, seguro",
+                    "guid": "-pW_0O26nocTsHQnglE9qw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "126",
+            "parent": "95",
+            "text": "› Diagnóstico\nMolecular ★",
+            "guid": "-8sqlQC6t8U3uopY7bQj8Q",
+            "children": [
+              {
+                "id": "127",
+                "parent": "126",
+                "text": "◊ MALDI-TOF\n(Disponible HPM) ★",
+                "guid": "QLFhbXYPmA0wAXqTqdP2fg",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "• Principio: Ionización láser → Separación masa/carga → Comparación espectros",
+                    "guid": "XpqxrqAC5lRImQ7YfhlSNA",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "127",
+                    "text": "• Limitaciones: Algunas especies, cultivos mixtos, Shigella/E. coli",
+                    "guid": "qbyQFfwm6gjFFeWxGlHzAQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "130",
+                "parent": "126",
+                "text": "◊ PCR Cuantitativa (qPCR)\n(Disponible HPM) ★",
+                "guid": "FL9iXLfVy3IdcUC1fvwAGg",
+                "children": [
+                  {
+                    "id": "131",
+                    "parent": "130",
+                    "text": "• Principio: Amplificación + Cuantificación simultánea ADN/ARN",
+                    "guid": "BwRPNP2l-yPN5iMKWPwRtg",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "130",
+                    "text": "• Detección: Colorantes fluorescentes / Sondas",
+                    "guid": "3Q1gyoM6TegAEFx6qcITlQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "133",
+                "parent": "126",
+                "text": "◊ PCR Múltiple\n(Disponible HPM -\nrestringido) ★",
+                "guid": "RsNuQQd6piy4Tl323vDMKQ",
+                "children": [
+                  {
+                    "id": "134",
+                    "parent": "133",
+                    "text": "• Principio: Detección múltiples objetivos/reacción",
+                    "guid": "qiS3PM91eYbcdodcdB648A",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "133",
+                    "text": "• Aplicación: Paneles sindrómicos (respiratorio, meníngeo, hemocultivo +)",
+                    "guid": "dl_yamVoMMIvjuFvIF-Cww",
+                    "children": []
+                  },
+                  {
+                    "id": "136",
+                    "parent": "133",
+                    "text": "• Características: Alta sensibilidad, alto costo",
+                    "guid": "4va_IqhJXTeYwpMbJ_I-FA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "137",
+                "parent": "126",
+                "text": "◊ Secuenciación / PCR Universal Bacteriana (16S rRNA)\n(No HPM, derivable PUC) ★",
+                "guid": "n0yhyAY02TSLM_AwianCCQ",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "• Base: Gen ARNr 16S (conservado + hipervariable)",
+                    "guid": "5Pgw7eWDZSbp0KkHNqwGXw",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "• Proceso: Amplificación universal → Secuenciación → Comparación BBDD",
+                    "guid": "7jthJxW7MO-3T0v1sERQag",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "137",
+                    "text": "• Ventajas: MO no cultivables, identificación post-ATB",
+                    "guid": "CnWl0LBRX2RpgRwk3z668Q",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "137",
+                    "text": "• Limitaciones: Falsos (-), difícil diferenciar especies cercanas",
+                    "guid": "nxbrlCFTWgm1XFG8PEZeCQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "142",
+                "parent": "126",
+                "text": "◊ Secuenciación / PCR Universal Fúngica (18S rRNA)\n(No HPM, derivable PUC) ★",
+                "guid": "YrqsLPWqNCVfKQnAiC5DXA",
+                "children": [
+                  {
+                    "id": "143",
+                    "parent": "142",
+                    "text": "• Base: Gen ARNr 18S (homólogo eucariota 16S)",
+                    "guid": "iFEMEmqD2FbqucNhge3JwA",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "142",
+                    "text": "• Aplicación: Clasificación Candida spp., otros hongos",
+                    "guid": "S0iC0LmTKMq5DRylYcDQqw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "145",
+            "parent": "95",
+            "text": "› Detección de\nAntígenos ★",
+            "guid": "VME6fALKlr3Ragq0xg1Ydw",
+            "children": [
+              {
+                "id": "146",
+                "parent": "145",
+                "text": "◊ Principio: Detección Ag (bacterianos, fúngicos, virales, parásitos)",
+                "guid": "RJb0yLuY6FbzNJaSNzzg8w",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "145",
+                "text": "◊ Métodos: EIA, Aglutinación látex, IF, Inmunocromatografía ★",
+                "guid": "d1laDPVML3pFHBq47deZkw",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "145",
+                "text": "◊ Ventajas: Rapidez, POC",
+                "guid": "Tl4JRhdcg36OOwBKXlmo-A",
+                "children": []
+              },
+              {
+                "id": "149",
+                "parent": "145",
+                "text": "◊ Desventajas: Sensibilidad limitada vs cultivo/PCR ★ (negativo requiere confirmación)",
+                "guid": "xw4DhX8L-s6ZQOGvJZ8Jsg",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "145",
+                "text": "◊ Ejemplos comunes: C. difficile (Toxinas, GDH) ★,\nLegionella pneumophila Sg1 ★, S. pneumoniae ★, S. pyogenes ★",
+                "guid": "XR4YTPXdrQVCA18bJE3MzQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "parent": "95",
+            "text": "› Diagnóstico\nSerológico ★",
+            "guid": "VGNplxslfXNkE0cT8L5UNw",
+            "children": [
+              {
+                "id": "152",
+                "parent": "151",
+                "text": "◊ Principio: Detección respuesta inmune humoral (anticuerpos)",
+                "guid": "FDpOK7dxOVMC5WM8dDLlnQ",
+                "children": []
+              },
+              {
+                "id": "153",
+                "parent": "151",
+                "text": "◊ Utilidad: Identificar agente, curso infección, naturaleza (primaria/reinfección, aguda/crónica)",
+                "guid": "qjFQI_udC5miVCRHwKALrQ",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "151",
+                "text": "◊ Aplicación: Agentes difíciles de aislar/cultivar, progresión lenta",
+                "guid": "vVjerw99JYEM2pYno_ORuw",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "151",
+                "text": "◊ Ejemplos: VIH, VHB, VHC, CMV, VEB, Toxoplasmosis",
+                "guid": "lyii7em2jZXRwtbHvgNAIw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "156",
+        "parent": "0",
+        "text": "- Estudio de Susceptibilidad\nBacteriana ★",
+        "guid": "4Gp2H3rCFgizttFTNgsB-Q",
+        "children": [
+          {
+            "id": "157",
+            "parent": "156",
+            "text": "› Importancia\ny Utilidad",
+            "guid": "1t8lmH0oewyTfkBpF0gc1w",
+            "children": [
+              {
+                "id": "158",
+                "parent": "157",
+                "text": "◊ Actividad clave del laboratorio",
+                "guid": "EkFNbSdIqddEsYw_o-BbGw",
+                "children": []
+              },
+              {
+                "id": "159",
+                "parent": "157",
+                "text": "◊ Guía para tratamiento ★",
+                "guid": "0_RE4GDQrtxrvmIXhb8SCw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "160",
+            "parent": "156",
+            "text": "› Limitaciones ★",
+            "guid": "bovrIBOADaOCBRgggwBtng",
+            "children": [
+              {
+                "id": "161",
+                "parent": "160",
+                "text": "◊ No considera variables in vivo (unión proteínas, pH, fármacos, inmunidad, carga MO)",
+                "guid": "uTzw5ZbB5x57hLZ9BHltfg",
+                "children": []
+              },
+              {
+                "id": "162",
+                "parent": "160",
+                "text": "◊ Concentraciones séricas vs sitio infección",
+                "guid": "BLGoL8MCvBdqvaVYDxaVlg",
+                "children": []
+              },
+              {
+                "id": "163",
+                "parent": "160",
+                "text": "◊ No hay métodos estandarizados para todo",
+                "guid": "pVmA3Mio3YdhX5yo-IYJSQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "parent": "156",
+            "text": "› Procedimiento y\nNotificación",
+            "guid": "KdRKifhAZaSwduvUXdLYow",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "◊ Realizado con aislados puros ★",
+                "guid": "bfy8AQH3Dww3IxTGAzG_tw",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "164",
+                "text": "◊ Resultados tras identificación",
+                "guid": "K77eK8VJrulSX9XXdDx_hg",
+                "children": []
+              },
+              {
+                "id": "167",
+                "parent": "164",
+                "text": "◊ Selección antibióticos: Colaboración, Fuente muestra ★",
+                "guid": "elSNjtF3CFRiMEBE0dwg7A",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "164",
+                "text": "◊ Notificación selectiva\n(condicional) ★",
+                "guid": "Ma7st0x4mKF2kbkYJlaIiw",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "• Informar espectro reducido si S",
+                    "guid": "MusMmb1-KWU0TNOGUmOeRA",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "• Informar espectro amplio si reducido no es S/apropiado",
+                    "guid": "0SHawHAHWUb6A20Wbs0ehg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "171",
+            "parent": "156",
+            "text": "› Estandarización ★",
+            "guid": "aOCQtfw8CHFDFPVKxgQqlQ",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "◊ Necesaria para precisión/reproducibilidad",
+                "guid": "mqEOMyRUKNQmfiLmpjQAEA",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "171",
+                "text": "◊ Parámetros: Inóculo, medio, incubación, [ATB]",
+                "guid": "9j_6aUfdlxnep7y9LlhYnQ",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "171",
+                "text": "◊ Medio común: Mueller-Hinton",
+                "guid": "gwyW8aLDM1XrVjvSgy8sqA",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "171",
+                "text": "◊ Interpretación: Susceptible (S), Intermedio (I), Resistente (R) ★",
+                "guid": "s8_0_kRD6XUSoFCcjJYIuw",
+                "children": []
+              },
+              {
+                "id": "176",
+                "parent": "171",
+                "text": "◊ Guías: CLSI (EEUU) ★, EUCAST (Europa) ★ (HPM usa CLSI)",
+                "guid": "C7ZWqYcbTNp8cdwAprywxw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "177",
+            "parent": "156",
+            "text": "› Métodos\nComunes",
+            "guid": "8GmUEtemtUYBucsKS7Wq7w",
+            "children": [
+              {
+                "id": "178",
+                "parent": "177",
+                "text": "◊ Dilución",
+                "guid": "_-qdJemtGsN2mI40SGdQhQ",
+                "children": [
+                  {
+                    "id": "179",
+                    "parent": "178",
+                    "text": "• Macrodilución en caldo ★ (Cuantitativo - CIM ★)",
+                    "guid": "UC-qWmDXrbRdVWmO7lOn0A",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "178",
+                    "text": "• Microdilución en caldo ★ (Cuantitativo - CIM ★) (Paneles, VITEK 2 HPM ★)",
+                    "guid": "uvBcBtRWwGOGWreWqZQXEg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "181",
+                "parent": "177",
+                "text": "◊ Difusión ★",
+                "guid": "a7iFLTjYf6S6gY39gCfkzw",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "• Disco (Kirby-Bauer) ★ (Semicuantitativo - S,I,R)",
+                    "guid": "ihM7OJU1zhEzsGgKrTFb6A",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "• Gradiente (E-test) ★ (Cuantitativo - CIM ★)",
+                    "guid": "WdQc4eeJ-ROZtV7iCXCMcQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 184,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "01. Microbiología Clínica-2025",
+  "id": "map_1323",
+  "resolved_references": []
+}

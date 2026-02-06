@@ -1,0 +1,85 @@
+{
+  "title": "RECOVERY (2020)",
+  "guid": "RECOVERY-2020-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/General/RECOVERY-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "RECOVERY (2020)\nRandomised Evaluation of\nCOVID-19 Therapy\n\n⭐ Dexametasona reduce mortalidad\nen COVID-19 con soporte O2/VM\n(Primer tratamiento eficaz demostrado)",
+    "guid": "RECOVERY-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: RECOVERY Collaborative Group\\n(Horby P, Landray M)\nAño: 2020\nRevista: NEJM\nDOI: 10.1056/NEJMoa2021436\n\\nDiseño: RCT abierto adaptativo\\nMulticéntrico UK\\nn = 6,425 (rama dexametasona)\\nSeguimiento: 28 días",
+        "guid": "RECOVERY-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. RECOVERY Collaborative Group\\n   NEJM 2021\\n   DOI: 10.1056/NEJMoa2021436\\n\\n2. WHO Rapid Evidence Appraisal\\n   JAMA 2020\\n\\n3. NIH COVID-19 Treatment\\n   Guidelines 2024",
+            "guid": "RECOVERY-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Hospitalizados por COVID-19\\n• Sospecha clínica o confirmado\\n• Sin contraindicación específica\\n• Cualquier nivel gravedad\\n\\nSubgrupos clave:\\n• Sin O2: 24% (n=1535)\\n• Con O2 sin VM: 60%\\n• Con VM invasiva: 16%\\n\\nEdad media: 66 años\\n36% mayores de 70 años\\n64% hombres",
+        "guid": "RECOVERY-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Dexametasona:\\n• Dexametasona 6 mg/día\\n• VO o IV\\n• Por 10 días o hasta alta\\n\\nGrupo Control:\\n• Cuidado habitual solo\\n• Sin placebo (estudio abierto)\\n\\nCo-intervenciones permitidas:\\n• Anticoagulación\\n• Antibióticos\\n• Remdesivir (si disponible)\\n• Soporte ventilatorio según necesidad",
+        "guid": "RECOVERY-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nMortalidad 28 días (global):\\n• Dexa: 22.9%\\n• Control: 25.7%\\n• RR 0.83 (IC95% 0.75-0.93)\\n• p menor 0.001 ✓\n\\nPor soporte respiratorio:\\n\\n✓ VM invasiva:\\n  • Dexa: 29.3% vs Control: 41.4%\\n  • RR 0.64 (NNT = 8)\\n\\n✓ O2 sin VM:\\n  • Dexa: 23.3% vs Control: 26.2%\\n  • RR 0.82 (NNT = 34)\\n\\n❌ Sin O2:\\n  • Dexa: 17.8% vs Control: 14.0%\\n  • RR 1.19 (posible daño)",
+        "guid": "RECOVERY-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEfectos adversos:\\n• No reportados sistemáticamente\\n  (diseño pragmático)\\n\\nPreocupaciones teóricas:\\n• Hiperglicemia\\n• Infecciones secundarias\\n• Miopatía (uso prolongado)\\n• Inmunosupresión\\n\\nSin aumento reportado de:\\n• Infecciones oportunistas\\n• Eventos tromboembólicos\\n\\n⚠️ DAÑO potencial si se usa\\n   SIN requerimiento de O2",
+        "guid": "RECOVERY-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Gran tamaño muestral\\n✓ Diseño pragmático (aplicable)\\n✓ Outcome duro (mortalidad)\\n✓ Reclutamiento rápido\\n✓ Bajo costo intervención\\n\\nLimitaciones:\\n• Sin ciego (abierto)\\n• Solo población UK\\n• Variantes tempranas COVID\\n• Sin datos detallados EA\\n• No evalúa secuelas largo plazo\\n\\nRiesgo sesgo: MODERADO\\n(compensado por outcome duro)",
+        "guid": "RECOVERY-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Altamente relevante\n\\nPoblación anciana (36% mayor 70 años):\\n• Beneficio consistente\\n• Mayor mortalidad basal\\n• Mayor beneficio absoluto\\n\\nConsideraciones UCI geriátrica:\\n• Iniciar precoz si deterioro\\n• Monitorizar glicemia\\n• Vigilar debilidad muscular\\n• Prevenir delirium\\n• Evaluar interacciones",
+        "guid": "RECOVERY-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Solo beneficio si REQUIERE O2\n   NO usar en enfermedad leve\n\\n2. Mayor beneficio cuanto mayor\n   soporte respiratorio (VM mayor O2)\n\\n3. Dosis FIJA 6 mg/día\n   No ajustar por peso\n\\n4. Equivalencia:\\n   Dexa 6 mg = Prednisona 40 mg\n   = Metilpred 32 mg\n\\n5. NNT en VM = 8\n   Uno de los NNT mas bajos en UCI\n\\n6. Primer tratamiento COVID\n   con beneficio mortalidad demostrado\n\\n7. Cambió práctica clínica mundial\n   en semanas desde publicación",
+        "guid": "RECOVERY-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/General",
+  "filename": "RECOVERY-2026",
+  "id": "map_722",
+  "resolved_references": []
+}

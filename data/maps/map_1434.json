@@ -1,0 +1,1324 @@
+{
+  "title": "UTD - Enfoque Diagnóstico de Neutropenia en Adultos",
+  "guid": "3720EEA36C7DB82A78CB1C5E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/UTD - Enfoque Diagnóstico de Neutropenia en Adultos-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "UTD - Enfoque Diagnóstico de\nNeutropenia en Adultos",
+    "guid": "alOzmnvFMXcj8t6XVnvVHw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## DEFINICIONES Y\nVALORES NORMALES",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- **Neutropenia**: Recuento absoluto de neutrófilos (RAN) <1500 células/microL",
+            "guid": "VS-SaBEp-y03akSaK2elbg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- **Clasificación**:",
+            "guid": "VmoRtFzJ_WlCuBrdWzowTQ",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "- Leve: RAN ≥1000 y <1500 células/microL",
+                "guid": "dwSCjHiXbWUShGGZQQsCNg",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "- Moderada: RAN ≥500 y <1000 células/microL",
+                "guid": "T6s0lHCSFYdrZwpLfK4YLA",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "- Severa: RAN <500 células/microL",
+                "guid": "Aot8nDWDSREHIlgWIRTbig",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "1",
+            "text": "- **Agranulocitosis**: RAN <200 células/microL",
+            "guid": "bKQ3tHOgEEAZ3_foVvfrTg",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "- **Neutropenia crónica**: Neutropenia durante >3 meses",
+            "guid": "b2VBtz3S1oAtc8BuLQiZ7w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "parent": "0",
+        "text": "## EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "10",
+            "parent": "9",
+            "text": "- Prevalencia variable\nsegún población:",
+            "guid": "IBxdL3DV4Dd2DxqYdUvvlw",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "- Población general: 0-10%",
+                "guid": "Af_bZC15XzIgs5UGWGntGQ",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "- Afroamericanos: 4.5%",
+                "guid": "CkNcnGNrr-MzpB1mAUffKA",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "- Caucásicos: 0.79%",
+                "guid": "XAMdSEYofv9CUuFeK65R3A",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "10",
+                "text": "- México-americanos: 0.38%",
+                "guid": "NrqUhy2566koXGoIOUYRIw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "parent": "9",
+            "text": "- Mayor prevalencia en trastornos reumatológicos",
+            "guid": "Yz00ui9-wh5aWuytT-Fsbw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "parent": "0",
+        "text": "## MECANISMOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "17",
+            "parent": "16",
+            "text": "- Disminución de producción/diferenciación en médula ósea",
+            "guid": "Ix7SXnQ65JYm2Ve9EoQUFQ",
+            "children": []
+          },
+          {
+            "id": "18",
+            "parent": "16",
+            "text": "- Redistribución de neutrófilos circulantes (marginación)",
+            "guid": "Mg27FlRNGCs_jK4FUioYRQ",
+            "children": []
+          },
+          {
+            "id": "19",
+            "parent": "16",
+            "text": "- Destrucción inmune",
+            "guid": "RSL4YjWbyJ1HdgfdRyLTxw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "20",
+        "parent": "0",
+        "text": "## CAUSAS DE\nNEUTROPENIA",
+        "guid": "",
+        "children": [
+          {
+            "id": "21",
+            "parent": "20",
+            "text": "### Variantes normales",
+            "guid": "YxUnz2gpnOMfjMDgbViEaw",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "- Neutropenia asociada al fenotipo Duffy-null (DANC)",
+                "guid": "S5VMxlMw3kZuoGOTJ5hqDg",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "21",
+                "text": "- Neutropenia familiar",
+                "guid": "GVldRTDzRPJTRrvqUBPxzA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "20",
+            "text": "### Congénitas",
+            "guid": "Xq0wm3ujJfIJWgLwQeplVg",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "- Neutropenia congénita grave",
+                "guid": "KyHoEWO0750Ry9HFTkC6bw",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "- Síndrome de Shwachman-Diamond",
+                "guid": "V-_UMzilKYJgxM6FCf2PSQ",
+                "children": []
+              },
+              {
+                "id": "27",
+                "parent": "24",
+                "text": "- Neutropenia cíclica",
+                "guid": "DPJBriBRfIpcJ6ePUhU6EA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "20",
+            "text": "### Infecciones",
+            "guid": "Ve1FJyOdr2wZOA3XOQJs9g",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "- Virales: Hepatitis, VIH, VEB, CMV",
+                "guid": "C8dMTzjEzrcmWvFiV1yZFQ",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "28",
+                "text": "- Bacterianas: Especialmente en sepsis",
+                "guid": "C_Ws_RT7VPV-9QMjJU8KQw",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "28",
+                "text": "- Parasitarias: Malaria, leishmaniasis",
+                "guid": "Re6Z51I7vw11YvwPJJvKgw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "32",
+            "parent": "20",
+            "text": "### Medicamentos",
+            "guid": "Td7k_368_v9mhi_ZeQDNEA",
+            "children": [
+              {
+                "id": "33",
+                "parent": "32",
+                "text": "- Predecibles y dosis-dependientes: Agentes citotóxicos",
+                "guid": "YnHunXhSAZ5HQYeAOmHC0A",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "32",
+                "text": "- Idiosincráticas: Múltiples fármacos",
+                "guid": "MPcrICgGVgVEX1IaPelszg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "parent": "20",
+            "text": "### Nutricionales",
+            "guid": "SFfSjyCG-akP_qbfHkUXtg",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "- Déficit de vitamina B12",
+                "guid": "RCSpFSk2tLZXR4SsT-v1ZA",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "35",
+                "text": "- Déficit de folato",
+                "guid": "YfuDbn2idg4nSI55bfEwaw",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "35",
+                "text": "- Déficit de cobre",
+                "guid": "Ep3LBCY9kZwTQDquWIxk6w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "20",
+            "text": "### Neoplasias\nhematológicas",
+            "guid": "eHlQqQijNr59KC9uRlg1qA",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "- Leucemia de linfocitos grandes granulares (LGL)",
+                "guid": "B2A1vWOuX0c_WQK5adIkWg",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "39",
+                "text": "- Leucemia de células peludas",
+                "guid": "XABg5QaaijkkM-crDPeMBg",
+                "children": []
+              },
+              {
+                "id": "42",
+                "parent": "39",
+                "text": "- Síndromes mielodisplásicos",
+                "guid": "LqDgPmiTOUVK4PjUdviyzQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "20",
+            "text": "### Trastornos\nreumatológicos",
+            "guid": "CRoy7lrfn7MVPcqDTT7cAw",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "- Artritis reumatoide",
+                "guid": "BBZUamyFTy8dKtFnZhHX2A",
+                "children": []
+              },
+              {
+                "id": "45",
+                "parent": "43",
+                "text": "- Lupus eritematoso sistémico",
+                "guid": "aifFPkRzX-BUAwhDfMWQQg",
+                "children": []
+              },
+              {
+                "id": "46",
+                "parent": "43",
+                "text": "- Síndrome de Felty",
+                "guid": "arDxfGdDQvJVUfUtYypCJQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "47",
+            "parent": "20",
+            "text": "### Otras causas",
+            "guid": "b-Z5sFJ6JJwpgnfNd0avbQ",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "- Neutropenia autoinmune",
+                "guid": "NiiD42jbeoZhGNPIEijkyQ",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "- Anemia aplásica",
+                "guid": "b3YEvwVMuvMfIHDPHhbk_Q",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "47",
+                "text": "- Neutropenia idiopática crónica",
+                "guid": "bd_0OGoBaaMVD5fKdvonJg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "parent": "0",
+        "text": "## EVALUACIÓN\nINICIAL",
+        "guid": "ROEJVypNYk1EOQMpSPddwQ",
+        "children": [
+          {
+            "id": "52",
+            "parent": "51",
+            "text": "### Urgencia de\nevaluación",
+            "guid": "FtKxfWFj1JAvCTWZAPp2uw",
+            "children": [
+              {
+                "id": "53",
+                "parent": "52",
+                "text": "- **Inmediata**: Signos de sepsis, inestabilidad hemodinámica, RAN <500 células/microL",
+                "guid": "Jdc0cAMMPdx9wAb9EIgl7A",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "52",
+                "text": "- **1-2 semanas**: Neutropenia moderada asintomática",
+                "guid": "ak-AzlMR_CpzsmgRWjX6fg",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "52",
+                "text": "- **2-6 semanas**: Neutropenia leve asintomática",
+                "guid": "JYwgxh00395RfKnsW7Skqg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "51",
+            "text": "###\nHemograma\ncompleto",
+            "guid": "BhBaZTKVfbRt3YlzdYZfJA",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "- Confirmar nivel de RAN",
+                "guid": "N-I4pwz9-kITnUQiJcIs3w",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "- Revisar hemogramas previos",
+                "guid": "dv9j5Sis2-wcvFQFO-BtPA",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "56",
+                "text": "- Evaluar otras citopenias\nacompañantes:",
+                "guid": "Uvo-OmD1Vy4E18r9aczvtw",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "- Eosinofilia/basofilia",
+                    "guid": "QlkrvjPhAJZqx2ZyaDBgLg",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "- Linfocitosis/linfopenia",
+                    "guid": "Nu0-c2iHbW94uIYaITy_QQ",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "- Anemia (macrocítica, aplásica, mieloftísica)",
+                    "guid": "O5lpmWxq7it7crnAYSWKYA",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "59",
+                    "text": "- Trombocitopenia",
+                    "guid": "CZ_OCUzvY6w82i8KD7Aobg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "parent": "51",
+            "text": "### Historia clínica",
+            "guid": "f4ThYCq3uH0FNoeTN2caBw",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "- Infecciones activas o previas",
+                "guid": "N7WyvxjTy7VdKUbmLrUWpA",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "64",
+                "text": "- Úlceras aftosas episódicas",
+                "guid": "QYCnoXnlmutqlYPhFHrl2w",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "64",
+                "text": "- Neoplasias hematológicas diagnosticadas",
+                "guid": "WtryGW9tTt5-R9WSHTQd1w",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "64",
+                "text": "- Trastornos gastrointestinales",
+                "guid": "I05PdWkPPAQFZH4FWjuN6A",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "64",
+                "text": "- Medicamentos (relación temporal)",
+                "guid": "UZapc34dBB97eE0pDTATDQ",
+                "children": []
+              },
+              {
+                "id": "70",
+                "parent": "64",
+                "text": "- Exposiciones personales y ocupacionales",
+                "guid": "aofySnbrBuluVZ1tdCfAUw",
+                "children": []
+              },
+              {
+                "id": "71",
+                "parent": "64",
+                "text": "- Historia familiar de neutropenia",
+                "guid": "Q9pqlSsvzHcD1-jCQ19L9Q",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "64",
+                "text": "- Origen étnico",
+                "guid": "VeeE9AkOcFV6xmX8DZ03sw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "parent": "51",
+            "text": "### Examen físico",
+            "guid": "IeI8ClfvrOI8Uk5XY2Ljqw",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "- Signos de infección:",
+                "guid": "BkJShyxRNQssFYx_Shy9HA",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "- Fiebre",
+                    "guid": "UdVHzSbn0jh33cmHLLA55g",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "- Alteraciones cutáneas",
+                    "guid": "FlUhF3YlnxlJ5Fe9OaNwjA",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "- Gingivitis, úlceras orales",
+                    "guid": "XzTbHk9I1cIT3v50MMuEkQ",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "74",
+                    "text": "- Examen respiratorio anormal",
+                    "guid": "TWXZ4Q9XS509-5eeN-3MKw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "79",
+                "parent": "73",
+                "text": "- Signos diagnósticos:",
+                "guid": "V4EBgi_tdUENfAkSLWiGdg",
+                "children": [
+                  {
+                    "id": "80",
+                    "parent": "79",
+                    "text": "- Ictericia o estigmas de hepatopatía",
+                    "guid": "OPvllghCbw47Bb4pWt4hoA",
+                    "children": []
+                  },
+                  {
+                    "id": "81",
+                    "parent": "79",
+                    "text": "- Inflamación articular",
+                    "guid": "YDIb8XdYDIE-QQVLMgdjvg",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "79",
+                    "text": "- Erupciones cutáneas",
+                    "guid": "Hj_euTYeztJet52lNJT_0A",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "79",
+                    "text": "- Linfadenopatía o esplenomegalia",
+                    "guid": "LERt7Cib9WJuOHBcC3lJCg",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "79",
+                    "text": "- Alteraciones neuropsiquiátricas",
+                    "guid": "d-TLJQIXbtA8RM2bRUqlBg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "51",
+            "text": "### Frotis de\nsangre periférica",
+            "guid": "EW66bnpAZTp9OHEyF7EM9Q",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "- Morfología\nneutrofílica:",
+                "guid": "JpGaRSlN_bFhzcoRfhKbyA",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "- Granulaciones tóxicas o cuerpos de Dohle (sepsis)",
+                    "guid": "WTty8m9J0yMreyI-EjdYiA",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "86",
+                    "text": "- Neutrófilos bilobulados o displásicos (SMD)",
+                    "guid": "d4xCMmaA4GhtFXooV75eIw",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "86",
+                    "text": "- Neutrófilos hipersegmentados (déficit B12/folato)",
+                    "guid": "Xdjs6StWf3MJxcHhfBjLog",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "86",
+                    "text": "- Células mieloides inmaduras (leucemia)",
+                    "guid": "YXVORmh9X4YwrctzDbm8Mg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "91",
+                "parent": "85",
+                "text": "- Morfología\nlinfocitaria:",
+                "guid": "ERlU6R7mO88ZMwU8CP4gDg",
+                "children": [
+                  {
+                    "id": "92",
+                    "parent": "91",
+                    "text": "- Linfocitos atípicos (viral)",
+                    "guid": "IP2qoFV30tdOSMUUMmxlDg",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "91",
+                    "text": "- Linfocitos \"smudge\" (LLC)",
+                    "guid": "T7g4EUuBNkZKHXIDdknSVw",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "91",
+                    "text": "- Proyecciones \"pilosas\" (tricoleucemia)",
+                    "guid": "dM8z9yvrPBR0XG4fTgqm6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "91",
+                    "text": "- Linfocitos con gránulos azurófilos (LGL)",
+                    "guid": "GzUPOB_XkF1gQf9xEsFRag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "96",
+                "parent": "85",
+                "text": "- Glóbulos\nrojos:",
+                "guid": "BlhwxU1XeZlqf6-NZDFdrg",
+                "children": [
+                  {
+                    "id": "97",
+                    "parent": "96",
+                    "text": "- Macro-ovalocitos (anemias megaloblásticas)",
+                    "guid": "eK35DXRFcW5gSilRWiNHUw",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "96",
+                    "text": "- Células fragmentadas (microangiopatía)",
+                    "guid": "XMLQ9RD39MRn3QOFbdwl3g",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "96",
+                    "text": "- Dacriocitos (procesos mieloftísicos)",
+                    "guid": "L94wkwEQCMF22kXsUNvbMw",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "96",
+                    "text": "- Células espiculadas o en diana (hepatopatía)",
+                    "guid": "VofbmEUjCwADSEBBJkATqg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "parent": "51",
+            "text": "### Otras\npruebas iniciales",
+            "guid": "EKRBR01lskQcieYBBXN1Pg",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "- Deficiencia\nnutricional:",
+                "guid": "eVDuWRDmVCBTfhwoFIX9kQ",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "- Niveles de vitamina B12, folato y cobre",
+                    "guid": "ML3kfTPAG5knR077NxZVQw",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "- Pruebas de función hepática",
+                    "guid": "AReVMxHG_ogbR7LxecWOQA",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "102",
+                    "text": "- Cribado para hepatitis viral y VIH",
+                    "guid": "Bgxv9nuR3EJT6NWTYs9A6w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "106",
+                "parent": "101",
+                "text": "- Pacientes\nfebriles/inestables:",
+                "guid": "DInRBjvF2RhQq2bJPGgBmg",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "- Pruebas de coagulación",
+                    "guid": "PNXh2UeFrLUNQ9zNE129cQ",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "- LDH y creatinina sérica",
+                    "guid": "DKi3thCMHQ85ndEbHUz4_Q",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "- VSG y/o PCR en neutropenia moderada/severa",
+                    "guid": "XfHPU1YntxwiwG47V0K9rA",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "- Tipaje sanguíneo para antígeno Duffy en casos sugestivos",
+                    "guid": "Zw4LPHY-imNryLs9F8vvug",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "111",
+        "parent": "0",
+        "text": "## EVALUACIÓN\nPOSTERIOR Y MANEJO",
+        "guid": "",
+        "children": [
+          {
+            "id": "112",
+            "parent": "111",
+            "text": "### Diagnóstico\nestablecido",
+            "guid": "Kf6l_RMQCjhO4kT9KxY7MA",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "- **Deficiencia nutricional**: Suplementación apropiada",
+                "guid": "JNcIwGop9-4k28lwKuN4tw",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "112",
+                "text": "- **Infección viral**: Mejora en 1-2 semanas",
+                "guid": "ZbvUMXjEnwMNsrmickWlNw",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "112",
+                "text": "- **Medicamentos**:",
+                "guid": "TH2grj5b6IFP2X3UKm9wAQ",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- RAN <1000: Suspender medicamentos asociados a reacciones idiosincráticas",
+                    "guid": "NIp4G15eIGwurabRcWBZ9A",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- RAN ≥1000: Suspender citotóxicos/inmunosupresores",
+                    "guid": "JePNITvxg58EvhdlMoyE1w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "118",
+            "parent": "111",
+            "text": "### Otros escenarios",
+            "guid": "FIOfnXKZ7BABsi2ue5Gq2g",
+            "children": [
+              {
+                "id": "119",
+                "parent": "118",
+                "text": "#### Paciente\nhospitalizado",
+                "guid": "aNh2c2166OsTXZqUEtcccA",
+                "children": [
+                  {
+                    "id": "120",
+                    "parent": "119",
+                    "text": "- Determinar si es previa o desarrollada durante hospitalización",
+                    "guid": "AIrzJGI_35E97VegJWH75A",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "119",
+                    "text": "- Correlacionar con medicamentos",
+                    "guid": "TGnXf2LJIRBQRXSbMiWrsA",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "119",
+                    "text": "- Considerar derivación a hematología si no hay mejoría",
+                    "guid": "W43AE134Lj4ka1DoEBg4Lg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "123",
+                "parent": "118",
+                "text": "#### Neutropenia\nincidental asintomática",
+                "guid": "PFZOqlMY97kBeJIiYjobyw",
+                "children": [
+                  {
+                    "id": "124",
+                    "parent": "123",
+                    "text": "- RAN ≥1000: Evaluación ambulatoria",
+                    "guid": "Dwp7WAY2qYgUxqCjW4gcBg",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "123",
+                    "text": "- Si mejora: Probable síndrome viral o medicación mielosupresora",
+                    "guid": "RJKSCWSgHncF94wIWRYxpg",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "123",
+                    "text": "- Si es estable: Considerar DANC, neutropenia familiar, autoinmune",
+                    "guid": "VzoKhwepubZUp9yAQBKA-w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "127",
+                "parent": "118",
+                "text": "#### Frotis anormal/Hemograma\nalterado",
+                "guid": "dSSioWgFdxRS6Z1rda-VxQ",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "- Hallazgos sugestivos de leucemia: Hospitalización inmediata",
+                    "guid": "SkVWpRDW9QwbEZGqFq8uJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "127",
+                    "text": "- Esquistocitos: Hospitalización inmediata",
+                    "guid": "c6AWHGtXBkVI1NnVTy3WMA",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "127",
+                    "text": "- Granulaciones tóxicas: Evaluación urgente",
+                    "guid": "SU80g21AKr1fRg5eBaWDLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "127",
+                    "text": "- Células displásicas o atípicas: Derivación hematológica",
+                    "guid": "QFkid2C-oIFn3575T2Odzw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "118",
+                "text": "#### Infección/fiebre",
+                "guid": "OIz_lFlF6jl4kumWLbGiNQ",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "- Temperatura ≥38.0°C: Tratamiento antibiótico inmediato",
+                    "guid": "ZvVKCXymP5wq67nWK4fcEg",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "- Sepsis/inestabilidad: Hospitalización inmediata",
+                    "guid": "YUZeEzDjRd4Eng24OIBomw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "135",
+                "parent": "118",
+                "text": "#### Trastornos\nreumatológicos/autoinmunes",
+                "guid": "QUthTUt8hwEjYTf7C5C38w",
+                "children": [
+                  {
+                    "id": "136",
+                    "parent": "135",
+                    "text": "- Evaluación de manifestaciones\nhematológicas específicas",
+                    "guid": "XFN8DT5yyaUiP-YYT_OSKg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "137",
+                "parent": "118",
+                "text": "#### Sospecha de\nneutropenia congénita",
+                "guid": "KcnP6msUv-0fIWhacxkEbg",
+                "children": [
+                  {
+                    "id": "138",
+                    "parent": "137",
+                    "text": "- Considerar en neutropenia severa inexplicada",
+                    "guid": "WFTqq35ndrh4voebGK4NIg",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "137",
+                    "text": "- Buscar hallazgos somáticos o antecedentes familiares",
+                    "guid": "XyYXOWCeJpRoEarxRhthQg",
+                    "children": []
+                  },
+                  {
+                    "id": "140",
+                    "parent": "137",
+                    "text": "- Derivar a hematólogo con experiencia en estos trastornos",
+                    "guid": "XURmMBL9ZMdxoz1UPorERA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "141",
+                "parent": "118",
+                "text": "#### Variantes normales <1500/microL",
+                "guid": "Q-CqpXZBSw13CyzffG2qOQ",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "- DANC: Recuento estable, sin infecciones, asociado al fenotipo Duffy-null",
+                    "guid": "T4c1Rm-eFnUqH0xvENKWkw",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "141",
+                    "text": "- Neutropenia familiar: Similar pero en grupos étnicos no asociados a DANC",
+                    "guid": "Oxqddk2AhGocY06GF24ZhA",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "141",
+                    "text": "- Diagnóstico: RAN persistente <1500/microL sin historia de infecciones anormales",
+                    "guid": "C_NODz6jNJ5nYauuNb0d-Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "145",
+        "parent": "0",
+        "text": "## EVALUACIÓN\nADICIONAL",
+        "guid": "Kbf0jAaDFAgo1iJnAgzfNw",
+        "children": [
+          {
+            "id": "146",
+            "parent": "145",
+            "text": "### Derivación a\nhematología",
+            "guid": "BOqKwCGUqgMauuxZZBCh-g",
+            "children": [
+              {
+                "id": "147",
+                "parent": "146",
+                "text": "- **Inmediata (horas)**:",
+                "guid": "AjLQlwLMl0oqLAM8X3c2yA",
+                "children": [
+                  {
+                    "id": "148",
+                    "parent": "147",
+                    "text": "- Blastos leucémicos en frotis",
+                    "guid": "Fcn8EhvPQJEeAfsMWaqmtw",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "147",
+                    "text": "- Agranulocitosis (RAN <200/microL)",
+                    "guid": "EhCLnhUNJ-tWGFDxYZfA5A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "150",
+                "parent": "146",
+                "text": "- **Pronta (días)**:",
+                "guid": "BKs-YAA3nWByald3P8Xb1g",
+                "children": [
+                  {
+                    "id": "151",
+                    "parent": "150",
+                    "text": "- Anomalías en frotis sugestivas de neoplasia hematológica",
+                    "guid": "Tbghyg7Npf5XM_VaWatv2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "150",
+                    "text": "- Pancitopenia",
+                    "guid": "TXDanD6VoQgPaI3SdyjPKA",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "150",
+                    "text": "- Hallazgos de síndrome de neutropenia congénita",
+                    "guid": "RRi1EDg-sDp5Na5fSgM_0Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "154",
+                "parent": "146",
+                "text": "- **Oportuna\n(días-semanas)**:",
+                "guid": "WdNaPRPwmrguE-HLXAYq1A",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "- Empeoramiento o persistencia de RAN <1000/microL no explicada",
+                    "guid": "Fr0yA1g_5Qc7fWGcLIcuFQ",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "154",
+                    "text": "- Respuesta inadecuada a tratamiento nutricional",
+                    "guid": "dA8lmFl_XKgGMdTMBh-xNg",
+                    "children": []
+                  },
+                  {
+                    "id": "157",
+                    "parent": "154",
+                    "text": "- Patrón de infecciones episódicas consistente con neutropenia cíclica",
+                    "guid": "boyEk1xKJb1nt3IaczfC8w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "158",
+            "parent": "145",
+            "text": "### Examen de\nmédula ósea",
+            "guid": "XIHDHVohyZIy_Z7KKjnk5w",
+            "children": [
+              {
+                "id": "159",
+                "parent": "158",
+                "text": "- **Esencial**: Sospecha de trastorno hematológico primario o síndrome de neutropenia congénita",
+                "guid": "aO9vkAoxlCQD5VTANmBKLA",
+                "children": []
+              },
+              {
+                "id": "160",
+                "parent": "158",
+                "text": "- **Útil**: Sospecha de infección fúngica o tuberculosis",
+                "guid": "SMc1LRNN4pMtiRlVDd_qPQ",
+                "children": []
+              },
+              {
+                "id": "161",
+                "parent": "158",
+                "text": "- **Puede ser engañoso**: Realizado muy pronto tras suspensión de medicamento",
+                "guid": "S4ySzSa-x7RX4yoOJV_tCg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "162",
+        "parent": "0",
+        "text": "## RIESGO DE\nINFECCIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "163",
+            "parent": "162",
+            "text": "- Influenciado por severidad y trayectoria del RAN",
+            "guid": "Oq9ibQX3C9kBZhfeUWyUcA",
+            "children": []
+          },
+          {
+            "id": "164",
+            "parent": "162",
+            "text": "- Afectado por causa subyacente",
+            "guid": "Xjbw4TzjeXt988KFUkYWeQ",
+            "children": []
+          },
+          {
+            "id": "165",
+            "parent": "162",
+            "text": "- Mayor riesgo: Defectos de producción vs. redistribución/inmune",
+            "guid": "FmLWIwQll1FYZcewBO9atw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "166",
+        "parent": "0",
+        "text": "## MONITORIZACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "167",
+            "parent": "166",
+            "text": "- **Neutropenia no\ncomplicada**:",
+            "guid": "YG-9D0AdOcp4Jx2qPPGALA",
+            "children": [
+              {
+                "id": "168",
+                "parent": "167",
+                "text": "- Hemogramas semanales durante 2-4 semanas",
+                "guid": "Gj8DXCskvHRnK2UUAy5y7A",
+                "children": []
+              },
+              {
+                "id": "169",
+                "parent": "167",
+                "text": "- Repetir a los 3 meses",
+                "guid": "NVZQmWsQudQ5jr0Zfh2Fxg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "parent": "166",
+            "text": "- **Si se resuelve**: No requiere seguimiento adicional",
+            "guid": "fl6cZ2cX1m4L_XADSesvNA",
+            "children": []
+          },
+          {
+            "id": "171",
+            "parent": "166",
+            "text": "- **DANC**: No requiere monitorización adicional",
+            "guid": "DdaeImPgmhJvSxw-SIYAjw",
+            "children": []
+          },
+          {
+            "id": "172",
+            "parent": "166",
+            "text": "- **Otras causas definidas**: Guiada por enfermedad subyacente",
+            "guid": "adel63CxNB0Z8pT_SA6WzA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "173",
+        "parent": "0",
+        "text": "## RESUMEN",
+        "guid": "",
+        "children": [
+          {
+            "id": "174",
+            "parent": "173",
+            "text": "- La neutropenia puede reflejar defectos de producción, redistribución o destrucción",
+            "guid": "LZStmBfmV4QaVK1GQ_eDuw",
+            "children": []
+          },
+          {
+            "id": "175",
+            "parent": "173",
+            "text": "- La evaluación inicial debe estratificar el riesgo según severidad, síntomas y hallazgos",
+            "guid": "HAvu1nK6dPZI5t5yfHur5Q",
+            "children": []
+          },
+          {
+            "id": "176",
+            "parent": "173",
+            "text": "- Los medicamentos y las infecciones son causas frecuentes y potencialmente reversibles",
+            "guid": "MteuwEEN_B05bSwRTRayHQ",
+            "children": []
+          },
+          {
+            "id": "177",
+            "parent": "173",
+            "text": "- Las variantes normales (DANC) son comunes en ciertos grupos étnicos",
+            "guid": "bDK4kSCYkSVQRSUJIYkJKg",
+            "children": []
+          },
+          {
+            "id": "178",
+            "parent": "173",
+            "text": "- El riesgo de infección se correlaciona principalmente con la severidad y causa de neutropenia",
+            "guid": "C6lK-gnT4iIfpo7wCgfnYQ",
+            "children": []
+          },
+          {
+            "id": "179",
+            "parent": "173",
+            "text": "- La evaluación de médula ósea está indicada en casos seleccionados",
+            "guid": "cOu4kCuj_vRT8xaWfsJWsw",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 180,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "UTD - Enfoque Diagnóstico de Neutropenia en Adultos-2025",
+  "id": "map_1434",
+  "resolved_references": []
+}

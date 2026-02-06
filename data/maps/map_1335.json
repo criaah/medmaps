@@ -1,0 +1,1362 @@
+{
+  "title": "Antimicrobianos y Resistencia",
+  "guid": "58BEAB5A23D9747D5234F00E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/05.06. Antimicrobianos y Resistencia-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Antimicrobianos\ny Resistencia",
+    "guid": "IIaPmS4IUW5FYQG9ThDQ4Q",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Introducción",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Impacto Histórico ATB: Revolución medicina (desde 1930s), disminución mortalidad",
+            "guid": "L8Isuh9txJgMV8B2DhRfrg",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Problema Actual: Aumento uso y \"mal uso\" ATB (automedicación, sobreuso/mal uso con prescripción)",
+            "guid": "RthTj2c5NN9-IAeNS6Ip4w",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Preocupación Principal: Transmisión de Resistencia",
+            "guid": "G4bNwVy50_ZTVjZXa9KBrA",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "- Origen Resistencia: Mecanismos naturales preexistentes (>2 billones años). Uso clínico ATB -> presión selectiva",
+            "guid": "JzC5Gk_yQDonEC3OQeO4sQ",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "- Responsabilidad Médica: Uso adecuado ATB (impacto individual y social)",
+            "guid": "dhdoVCMo03EOkduUOhwwRQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "## Conceptos Generales de\nAntimicrobianos (PK/PD)",
+        "guid": "",
+        "children": [
+          {
+            "id": "8",
+            "parent": "7",
+            "text": "- Farmacocinética (PK): Procesos ADME\n(Absorción, Distribución, Metabolismo, Excreción)",
+            "guid": "e-d-yzJrUBEMUSBTHG4OZA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "- Administración: VO, IV, IM. Medición niveles plasmáticos (ej: Vanco, Amika)",
+                "guid": "YHOhgFGyIhBqft9Fe5g-Vw",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "- Absorción: Movimiento a circulación. Biodisponibilidad",
+                "guid": "BDyr609W9HkR_1oYM_7Ypg",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "- Distribución: Volumen de Distribución (Vd). Depende lipofilidad, unión proteínas",
+                "guid": "bsS5Eh5XGo5CEzhUNZ0MoQ",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "8",
+                "text": "- Metabolismo: Principalmente hepático (Citocromo P450). Factores genéticos/ambientales",
+                "guid": "BZBPbUAzP-EBPzaEIRcdLg",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "8",
+                "text": "- Excreción: Renal o no renal (biliar, intestinal)",
+                "guid": "HO0T11SVbNsM6Z7bRB3M8Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "parent": "7",
+            "text": "- Farmacodinamia (PD): Respuesta\ndroga, mecanismo acción",
+            "guid": "JIetFTP5zKkGAYWjGp8VaQ",
+            "children": [
+              {
+                "id": "15",
+                "parent": "14",
+                "text": "- Potencia Antimicrobiana: Bacteriostático vs Bactericida. Influencia concentración sitio acción",
+                "guid": "VyKgGhSTYTdUu0WuUwoe5Q",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "14",
+                "text": "- Interacciones Combinadas: Sinergia, Aditividad (Indiferencia), Antagonismo",
+                "guid": "Rv6xSGEMZgFveC1JJ3JSyA",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "14",
+                "text": "- Índices PK/PD\n(Eficacia):",
+                "guid": "Mr6IEVn3DI4jCpEgNvsz_Q",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "- T>CIM: Tiempo sobre CIM. Agentes tiempo-dependientes (ej: Betalactámicos, Linezolid)",
+                    "guid": "KU4BCDUJ6zhq-gyjGBK6Gg",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "17",
+                    "text": "- Cmax/CIM: Concentración máxima sobre CIM. Agentes concentración-dependientes (ej: Fluoroquinolonas, Aminoglucósidos)",
+                    "guid": "U2EFxi0NRPdNr8a7WPFVMw",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "17",
+                    "text": "- ABC/CIM (AUC/MIC): Área bajo curva sobre CIM. Agentes exposición-dependientes (ej: Vancomicina)",
+                    "guid": "bUCE2E7u_T96CHJiCi2Yrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "parent": "14",
+                "text": "- Efecto Postantibiótico (EPA): Inhibición crecimiento persiste bajo CIM. Variable (largo FQ/AG, mínimo B-lactámicos). Implica dosificación",
+                "guid": "I4RqGgbyET1OS2WgSAwXLw",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "14",
+                "text": "- Infusión Continua: Opción para ATM sin EPA o tiempo-dependientes",
+                "guid": "Ouvd5lRM60NiqyyZEg5-AQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "7",
+            "text": "- Optimización Dosificación: Terapias individualizadas basadas en PK/PD",
+            "guid": "aOBMejdmckdlGJzmL979ww",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "24",
+        "parent": "0",
+        "text": "## Conceptos Generales de Resistencia",
+        "guid": "JQSbWDxvkL8ihvdnJ1DN0g",
+        "children": [
+          {
+            "id": "25",
+            "parent": "24",
+            "text": "- Mecanismos\nPrincipales (4 tipos):",
+            "guid": "GHLYSVSQyjBXUVCLSzFgWg",
+            "children": [
+              {
+                "id": "26",
+                "parent": "25",
+                "text": "- 1. Inhibición\nEnzimática:",
+                "guid": "LxATBhanNRRjaLx9EmaBgA",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "- Betalactamasas: Inactivan anillo B-lactámico.\nGenes cromosómicos/transferibles.\nClasificación Ambler (A, B, C, D)",
+                    "guid": "UTCuJA3447cnpZK_NlGSHg",
+                    "children": [
+                      {
+                        "id": "28",
+                        "parent": "27",
+                        "text": "- Clase A: Serina. Penicilinasas, BLEE (Betalactamasas Espectro Extendido), Carbapenemasas KPC. (S. aureus, Enterobacterias, PSAE, BGNNF)",
+                        "guid": "VNrI7HZPFLEGT6vITTNqMw",
+                        "children": []
+                      },
+                      {
+                        "id": "29",
+                        "parent": "27",
+                        "text": "- Clase B: Metalo-beta-lactamasas (MBL - VIM, NDM, IMP). Zinc. (PSAE, Enterobacterias)",
+                        "guid": "Qi8JH3ztEyB5xl_WaNIBSg",
+                        "children": []
+                      },
+                      {
+                        "id": "30",
+                        "parent": "27",
+                        "text": "- Clase C: Cefalosporinasas (AmpC). Serina. (Enterobacter, K. aerogenes, Citrobacter, Serratia, Morganella, Providencia, PSAE)",
+                        "guid": "HTeB3ENz9lAhnm96TEeU4g",
+                        "children": []
+                      },
+                      {
+                        "id": "31",
+                        "parent": "27",
+                        "text": "- Clase D: Oxacilinasas (OXA). Serina. (A. baumannii)",
+                        "guid": "WhsrZAUHK_derhZiFQ1PnQ",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "27",
+                        "text": "- Espectro Inhibición (Resumen Tabla): Detalla qué ATB son afectados por cada tipo",
+                        "guid": "Xj2XHALy3RtupkSoL25FQA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "33",
+                    "parent": "26",
+                    "text": "- Enzimas Modificadoras Aminoglucósidos (AG)",
+                    "guid": "EOvA0hZL12dlv9dfeIFTaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "26",
+                    "text": "- Enzimas Modificadoras Macrólidos, Lincosamidas, Tetraciclinas",
+                    "guid": "DsTahBtmM2l3S-17M8l13A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35",
+                "parent": "25",
+                "text": "- 2. Disminución de la Permeabilidad:",
+                "guid": "V9XEKBnS5ONbGkOuLLCNFA",
+                "children": [
+                  {
+                    "id": "36",
+                    "parent": "35",
+                    "text": "- Rol Porinas (BGN): Mutaciones -> pérdida -> resistencia B-lactámicos, AG, Quinolonas",
+                    "guid": "ECH5lGFp73Z54_dHUlECtA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "37",
+                "parent": "25",
+                "text": "- 3. Aumento de Eflujo:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "- Bombas de Eflujo: Expulsión activa ATB (específicas o multi-droga). Resistencia B-lactámicos, Quinolonas, Tetraciclinas (BGN); Macrólidos, Quinolonas (CGP)",
+                    "guid": "XlcClnOqVx07IwP-e46Ecw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "39",
+                "parent": "25",
+                "text": "- 4. Alteración del\nSitio de Acción:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "40",
+                    "parent": "39",
+                    "text": "- Alteración Unión Ribosomal: R a Macrólidos/Lincosamidas (Gram+/anaerobios), Linezolid (CGP), AG (Enterob/BGNNF)",
+                    "guid": "Nx5NbVzBc3hH1hlVETl40Q",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "39",
+                    "text": "- Alteración Precursores Pared Celular: R Vancomicina en Enterococcus (E. faecium - genes vanA/vanB)",
+                    "guid": "YcifbyaEL7gmRshvQAY2iw",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "39",
+                    "text": "- Alteración\nEnzimas Diana:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "43",
+                        "parent": "42",
+                        "text": "- PBPs (Betalactámicos): S. pneumoniae R Penicilina, S. aureus R Meticilina (SAMR/MRSA - gen mecA -> PBP2a)",
+                        "guid": "KXcM0xTtDRdvdHvMOmLNpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "44",
+                        "parent": "42",
+                        "text": "- ADN girasa/Topoisomerasa IV (Quinolonas): Enterobacterias, PSAE",
+                        "guid": "KzjkflU0Uysy5CEPOf2_Ag",
+                        "children": []
+                      },
+                      {
+                        "id": "45",
+                        "parent": "42",
+                        "text": "- Enzimas vía ácido fólico (Sulfas/Trimetoprim): Staph, BGN",
+                        "guid": "cJqGlCowDoptxzTeSHBKvA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "46",
+        "parent": "0",
+        "text": "## Antimicrobianos\npor Familias",
+        "guid": "",
+        "children": [
+          {
+            "id": "47",
+            "parent": "46",
+            "text": "- Betalactámicos y\nAsociaciones con Inhibidores",
+            "guid": "LofWvnpb4asCLJRXV9XXxg",
+            "children": [
+              {
+                "id": "48",
+                "parent": "47",
+                "text": "- Mecanismo Acción Común: Inhiben síntesis pared (unión PBPs)",
+                "guid": "RALzbUjheIx1INfQVCTtAg",
+                "children": []
+              },
+              {
+                "id": "49",
+                "parent": "47",
+                "text": "- Familias:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "- Penicilinas",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "51",
+                        "parent": "50",
+                        "text": "- Naturales\n(PNC Sódica,\nPNC Benzatina)",
+                        "guid": "KktoAm8Ezxgmde-2CKJqmA",
+                        "children": [
+                          {
+                            "id": "52",
+                            "parent": "51",
+                            "text": "- Espectro: CGP (Strep no R, E. faecalis), CGN (Neisseria), BGP, Espiroquetas (T. pallidum, Lepto), Anaerobios",
+                            "guid": "Yq8mNWGY87QEMO8LGc1zow",
+                            "children": []
+                          },
+                          {
+                            "id": "53",
+                            "parent": "51",
+                            "text": "- PK/PD: Ajuste renal. Buena distrib (SNC si inflam)",
+                            "guid": "PlpnLUwHCGErBux0ICMGnA",
+                            "children": []
+                          },
+                          {
+                            "id": "54",
+                            "parent": "51",
+                            "text": "- Usos: Infec. Strepto, Sífilis",
+                            "guid": "cos4GVFNtONgKT0oHAJE7A",
+                            "children": []
+                          },
+                          {
+                            "id": "55",
+                            "parent": "51",
+                            "text": "- EA: Hipersensibilidad, Jarisch-Herxheimer",
+                            "guid": "ZjrB-k-duPRWZRKREXOmeA",
+                            "children": []
+                          },
+                          {
+                            "id": "56",
+                            "parent": "51",
+                            "text": "- Resistencia: S. pneumoniae (Chile: R PNC meningitis alta; no meningitis muy baja)",
+                            "guid": "JNIMHwlJM6BLcWV6FWySsw",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "57",
+                        "parent": "50",
+                        "text": "- Resistentes a Penicilinasas\n(Cloxacilina)",
+                        "guid": "M3lCKzk4mlhd3N1vd3w1mA",
+                        "children": [
+                          {
+                            "id": "58",
+                            "parent": "57",
+                            "text": "- Espectro: CGP (Staphylococcus sensible a meticilina - SAMS, Streptococcus)",
+                            "guid": "AhoS5FL9tT9LoSKaLGV65g",
+                            "children": []
+                          },
+                          {
+                            "id": "59",
+                            "parent": "57",
+                            "text": "- PK/PD: NO ajuste renal. Buena distrib (incl SNC)",
+                            "guid": "QgKEV3IXElA1B-V_JLGqjQ",
+                            "children": []
+                          },
+                          {
+                            "id": "60",
+                            "parent": "57",
+                            "text": "- Usos: Infecciones SAMS (elección SNC)",
+                            "guid": "U7AGBTk41Io-fx4wEgptMg",
+                            "children": []
+                          },
+                          {
+                            "id": "61",
+                            "parent": "57",
+                            "text": "- Resistencia: SAMR (MRSA). Diferencias SAMR-AH vs SAMR-AC (resistencia, PVL, SCCmec). Vigilancia SAMR-AC Chile",
+                            "guid": "BT_c62mGCqQyLXPOd8sVBA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "62",
+                        "parent": "50",
+                        "text": "- Aminopenicilinas (Ampi, Amoxi) +/-\nInhibidor (Sulbactam, Clavulánico)",
+                        "guid": "",
+                        "children": [
+                          {
+                            "id": "63",
+                            "parent": "62",
+                            "text": "- Espectro Base: CGP (Strep, E. faecalis), CGN (Neisseria), BGP (Listeria), BGN (E. coli, Salmonella, Shigella, H. pylori)",
+                            "guid": "OtO_iBJWsPYTzVnwIQ6Bgg",
+                            "children": []
+                          },
+                          {
+                            "id": "64",
+                            "parent": "62",
+                            "text": "- Espectro + Inhibidor: Agrega S. aureus S, M. catarrhalis, H. influenzae, Enterob (B-lactamasa simple),\nAnaerobios. Sulbactam activo vs Acinetobacter",
+                            "guid": "YfRp6moybIIygif7BsZ2CQ",
+                            "children": []
+                          },
+                          {
+                            "id": "65",
+                            "parent": "62",
+                            "text": "- PK/PD: Ajuste renal. Buena distrib (incl SNC)",
+                            "guid": "c3ugIn3zjXUcMwi8JvTiTQ",
+                            "children": []
+                          },
+                          {
+                            "id": "66",
+                            "parent": "62",
+                            "text": "- Usos Base: Infec Strep, E. faecalis (elección), Listeria (elección)",
+                            "guid": "NywnznoP5isecRfmOUY6sg",
+                            "children": []
+                          },
+                          {
+                            "id": "67",
+                            "parent": "62",
+                            "text": "- Usos + Inhibidor: Infec resp, Piel/PB, Intraabdominal, Mordeduras. Acinetobacter (Ampi/Sulba si S)",
+                            "guid": "TQ2ba2oSOoBlq7WZDxAfwg",
+                            "children": []
+                          },
+                          {
+                            "id": "68",
+                            "parent": "62",
+                            "text": "- EA: Hipersensibilidad, GI con inhibidor",
+                            "guid": "XClM0RqzmxgzwcpPL9lS1g",
+                            "children": []
+                          },
+                          {
+                            "id": "69",
+                            "parent": "62",
+                            "text": "- Resistencia: E. faecium R Ampi (alta). H. influenzae R Ampi/Amoxi (alta). Enterobacterias R creciente",
+                            "guid": "U-xvonJA6H9B48AIWSxMjg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "70",
+                    "parent": "49",
+                    "text": "- Cefalosporinas",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "71",
+                        "parent": "70",
+                        "text": "- 1ª Gen (Cefazolina, Cefadroxilo): CGP, algunos BGN (E. coli, Klebsiella, Proteus mirabilis).\nUso: SAMS (no SNC), Piel/PB, Osteo, Profilaxis Qx, ITU. Pobre SNC. Ajuste renal",
+                        "guid": "W8bzJHQRM9ZQ92GSFpqyrA",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "70",
+                        "text": "- 2ª Gen (Cefuroximo): Similar 1G + H. influenzae, M. catarrhalis.\nUso: Piel/PB, Osteo, ITU, Resp. Ajuste renal",
+                        "guid": "BmfkzWTEu4M3qTQuaFxOtw",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "70",
+                        "text": "- 3ª Gen (Ceftriaxona, Cefotaxima, Ceftazidima): Amplio espectro CGP, CGN, BGN. Ceftazidima anti-Pseudomonas. Ceftriaxona vs Espiroquetas.\nUso amplio, incl SNC. Ceftriaxona no ajuste renal",
+                        "guid": "TvcoBWorXClvIsTBQnLIJw",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "70",
+                        "text": "- 4ª Gen (Cefepime): Amplio espectro, similar 3G + mayor estabilidad vs AmpC. Anti-Pseudomonas, Acinetobacter.\nUso amplio, incl SNC, Neutropenia febril. Ajuste renal",
+                        "guid": "aB7pnwtVzX1pZ6p1H0sRbQ",
+                        "children": []
+                      },
+                      {
+                        "id": "75",
+                        "parent": "70",
+                        "text": "- 5ª Gen (Ceftarolina): Similar Ceftriaxona + SAMR.\nUso: Piel/PB, NAC, infec SAMR. Pobre SNC. Ajuste renal",
+                        "guid": "BWWzqQfYwltYkUwfUnNPFA",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "70",
+                        "text": "- Asociaciones (Ceftazidima/Avibactam): Cubre BLEE, KPC, AmpC.\nUso ITU, Intraabd, Infec KPC. NO cubre MBL. Ajuste renal",
+                        "guid": "cer82z49Abhhg27WThRJrA",
+                        "children": []
+                      },
+                      {
+                        "id": "77",
+                        "parent": "70",
+                        "text": "- EA: Raros. Hipersensibilidad, Pseudocolelitiasis (Ceftriaxona)",
+                        "guid": "WPCc0BVFOSZ97ZyCLN0Mcw",
+                        "children": []
+                      },
+                      {
+                        "id": "78",
+                        "parent": "70",
+                        "text": "- Resistencia: S. pneumoniae S Cefotaxima Chile (alta). N. gonorrhoeae S Ceftriaxona Chile (100%).\nEnterobacterias (BLEE R Cef 3G; AmpC evitar Cef 3G)",
+                        "guid": "B4YhpT_RXIoGCVkBY00UyQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "79",
+                    "parent": "49",
+                    "text": "- Ureidopenicilinas\n(Piperacilina/Tazobactam)",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "80",
+                        "parent": "79",
+                        "text": "- Espectro: Amplio (CGP, BGN incl PSAE, ACBA, Burkholderia, Anaerobios)",
+                        "guid": "M-KQYVcAupN558d1Okp1Lg",
+                        "children": []
+                      },
+                      {
+                        "id": "81",
+                        "parent": "79",
+                        "text": "- PK/PD: Ajuste renal. Pobre SNC",
+                        "guid": "O8V2FjGQ-6QipsPlCryeGw",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "79",
+                        "text": "- Usos: Infecciones graves amplio espectro (Neumonía HAP/NAVM, Intraabd, Neutropenia febril)",
+                        "guid": "G7xXzRHJiKZNL2ZDA9tBbA",
+                        "children": []
+                      },
+                      {
+                        "id": "83",
+                        "parent": "79",
+                        "text": "- EA: Hipersensibilidad, C. difficile",
+                        "guid": "HR9WJDaXELgjJlLZIoUJzQ",
+                        "children": []
+                      },
+                      {
+                        "id": "84",
+                        "parent": "79",
+                        "text": "- Resistencia: BLEE (S variable, CBP elección)",
+                        "guid": "Pm_TE3u3nvl0-FjhMFrP7g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "85",
+                    "parent": "49",
+                    "text": "- Carbapenémicos\n(Ertapenem, Meropenem, Imipenem)",
+                    "guid": "OfSgsVZ7x7d-bxmbEuU9gg",
+                    "children": [
+                      {
+                        "id": "86",
+                        "parent": "85",
+                        "text": "- Espectro: Muy amplio (CGP, BGN incl BLEE, Anaerobios). Mero/Imi vs PSAE/ACBA. Erta NO vs PSAE/ACBA/Enterococcus",
+                        "guid": "a8EA3Xxcth0_wkn1c0cigw",
+                        "children": []
+                      },
+                      {
+                        "id": "87",
+                        "parent": "85",
+                        "text": "- PK/PD: Ajuste renal. Mero/Imi penetran SNC",
+                        "guid": "PC4SqEXLovZWlDdMcBCjCQ",
+                        "children": []
+                      },
+                      {
+                        "id": "88",
+                        "parent": "85",
+                        "text": "- Usos: Infecciones graves polimicrobianas/MDR (BLEE elección). Mero en SNC hospitalaria",
+                        "guid": "HMxdiVB7_sIqWxg3WJHToA",
+                        "children": []
+                      },
+                      {
+                        "id": "89",
+                        "parent": "85",
+                        "text": "- EA: Hipersensibilidad, C. difficile, Convulsiones (Imi>Erta)",
+                        "guid": "Agz6Zk0B3BxjTnG7HclSMw",
+                        "children": []
+                      },
+                      {
+                        "id": "90",
+                        "parent": "85",
+                        "text": "- Resistencia: Creciente (Carbapenemasas KPC, MBL, OXA; porinas, eflujo). Stenotrophomonas/Burkholderia intrínsecamente R",
+                        "guid": "XstkwzB91_4hpJOge-q65w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "91",
+                    "parent": "49",
+                    "text": "- Monobactámicos\n(Aztreonam)",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "92",
+                        "parent": "91",
+                        "text": "- Espectro: SOLO BGN aerobios (Enterob, PSAE, ACBA)",
+                        "guid": "ZxTotkTK5nkeb8S0JYS7yQ",
+                        "children": []
+                      },
+                      {
+                        "id": "93",
+                        "parent": "91",
+                        "text": "- PK/PD: Ajuste renal. Buena distrib (incl SNC)",
+                        "guid": "QIKFchNoHZVV34u4encmJA",
+                        "children": []
+                      },
+                      {
+                        "id": "94",
+                        "parent": "91",
+                        "text": "- Usos: Infec BGN. Teórico vs MBL (pero limitado por co-resistencias)",
+                        "guid": "aePlTFROpVMNXGOmVaTmKg",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "91",
+                        "text": "- EA: Hipersensibilidad (reacción cruzada rara)",
+                        "guid": "UKtbcE0erZtI7AitDNluGA",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "91",
+                        "text": "- Resistencia: Hidrolizado por BLEE, KPC, AmpC. Estable vs MBL",
+                        "guid": "EupQkR-AP_l86hEhL7auGg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "97",
+            "parent": "46",
+            "text": "- Glicopéptidos\n(Vancomicina)",
+            "guid": "L2XM420moPpv6JHgAsbSqQ",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "- Mecanismo Acción: Inhibe síntesis pared (une D-ala-D-ala)",
+                "guid": "b_w-uydFKVgISIG6cgk5IQ",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "97",
+                "text": "- Espectro: CGP (Staph incl SAMR, Strep, Enterococcus), BGP, C. difficile (VO)",
+                "guid": "dEcFdWuW83YP0otVUxJqOA",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "97",
+                "text": "- PK/PD: VO no absorbida. Ajuste renal. Monitorización niveles (AUC/CIM 400-600)",
+                "guid": "HBTLdDF3HvVO_SUfAym0Kw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "97",
+                "text": "- Usos: Elección SAMR, Alergia B-lactámicos, C. difficile VO",
+                "guid": "dkIFbm1s6dMorm_0NsSK4Q",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "97",
+                "text": "- EA: Reacción infusión, Nefrotoxicidad, Flebitis",
+                "guid": "ANUHaH6N-6wxO7EFarjstA",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "97",
+                "text": "- Resistencia: S. aureus R Vanco (no Chile). E. faecium R Vanco (alta prevalencia)",
+                "guid": "Utyg_z6YFKtAXdLeI4f8cA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "46",
+            "text": "- Oxazolidinonas\n(Linezolid)",
+            "guid": "GjPl8T2YWJtbuCfdB3RqyQ",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 30S)",
+                "guid": "C7bCRglJ24swYWqIHqES1w",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "- Espectro: CGP (Staph incl SAMR, Strep, Enterococcus incl ERV), BGP, Nocardia",
+                "guid": "KMobhS1Le6pOV8DxGMZaQA",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "104",
+                "text": "- PK/PD: 100% VO. NO ajuste renal. Buena distrib (incl SNC)",
+                "guid": "VJClAlagQqwKz5NiSNeqdw",
+                "children": []
+              },
+              {
+                "id": "108",
+                "parent": "104",
+                "text": "- Usos: ERV, SAMR (alternativa Vanco)",
+                "guid": "Qjc2IhqiHrcb6hSvXkwBlg",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "104",
+                "text": "- EA: Citopenias (>2sem tto), Sd. Serotoninérgico (raro)",
+                "guid": "TBk9rGrnOc5hdbXBQltDGg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "parent": "46",
+            "text": "- Lipopéptidos\n(Daptomicina)",
+            "guid": "DIdV2lXAmj8RogN4MAu_9A",
+            "children": [
+              {
+                "id": "111",
+                "parent": "110",
+                "text": "- Mecanismo Acción: Depolariza membrana bacteriana",
+                "guid": "WFQjoQokJbZ5H837WSkrCQ",
+                "children": []
+              },
+              {
+                "id": "112",
+                "parent": "110",
+                "text": "- Espectro: SOLO CGP (Staph incl SAMR, Strep, Enterococcus incl ERV)",
+                "guid": "CLIhYipbfwBD4he-W47CYg",
+                "children": []
+              },
+              {
+                "id": "113",
+                "parent": "110",
+                "text": "- PK/PD: Ajuste renal. Inactivado por surfactante (NO neumonía). Mínima llegada SNC",
+                "guid": "aPOTqwQ_6px_Fr7SdKpV8Q",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "110",
+                "text": "- Usos: Piel/PB, Bacteriemia/Endocarditis (dosis altas), SAMR, ERV",
+                "guid": "DYnGKC94KVoTS2jINlPhrQ",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "110",
+                "text": "- EA: Elevación CK, miopatía",
+                "guid": "XMOlBGGjKbpPGjvtMVRKBw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "parent": "46",
+            "text": "- Sulfamidas\n(Cotrimoxazol - SMX/TMP)",
+            "guid": "XLKrfF_taRl4F9ckF56JYg",
+            "children": [
+              {
+                "id": "117",
+                "parent": "116",
+                "text": "- Mecanismo Acción: Inhibe vía ácido fólico (secuencial)",
+                "guid": "OENsZlnpz096K_R-enqiiA",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "116",
+                "text": "- Espectro: CGP (S. aureus incl SAMR, S. pneumo), CGN, BGP, BGN (Enterob, Stenotrophomonas, Burkholderia), Nocardia, P. jirovecii, Toxoplasma",
+                "guid": "dIvuBhYWCS5YxqQeQKUrsg",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "116",
+                "text": "- PK/PD: Buena VO. Ajuste renal. Buena distrib (incl SNC)",
+                "guid": "AP1C_Do8WeADAG7NWVFmng",
+                "children": []
+              },
+              {
+                "id": "120",
+                "parent": "116",
+                "text": "- Usos: ITU, Piel/PB, Tto VO SAMR, Elección Stenotrophomonas/Burkholderia, Oportunistas (PJP, Toxo)",
+                "guid": "RGB_lnwgPMgyepGnTRKg-A",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "116",
+                "text": "- EA: GI, Hipersensibilidad, Nefrotoxicidad, Hiperkalemia, Citopenias",
+                "guid": "Jnu7yXZcqWUooWNaD29PdA",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "116",
+                "text": "- Resistencia: S. pneumoniae Chile (~20%)",
+                "guid": "epyUAie4IiwEGaVmCCZaKg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "123",
+            "parent": "46",
+            "text": "- Macrólidos \n(Azitromicina, Claritromicina)",
+            "guid": "NDpUXFrDA70prQdjHRqg1w",
+            "children": [
+              {
+                "id": "124",
+                "parent": "123",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 50S)",
+                "guid": "VzBLhxdlDi4-ejvXM_Pwiw",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "123",
+                "text": "- Espectro: CGP (Strep), CGN, BGN (H. influ), Atípicos (Mycoplasma, Chlamydia), H. pylori (Claritro)",
+                "guid": "eQg36A2Ud8RlSDqSMUukTg",
+                "children": []
+              },
+              {
+                "id": "126",
+                "parent": "123",
+                "text": "- PK/PD: Azitro no ajuste renal, Claritro sí. Pobre SNC",
+                "guid": "Z35HFF90LxErxkbWXAo1Gg",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "123",
+                "text": "- Usos: Resp altas/bajas (NAC atípica), ITS (Chlamydia)",
+                "guid": "dYo4PwSM6vUcr2DNdod7Ow",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "123",
+                "text": "- EA: GI",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "123",
+                "text": "- Resistencia: S. pneumoniae Chile (~34%). H. pylori R Claritro creciente",
+                "guid": "PslE1R-vz5pP2OHZAynEaw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "130",
+            "parent": "46",
+            "text": "- Lincosamidas\n(Clindamicina)",
+            "guid": "Eil2BA7FpEpM-Z6aKpxOTQ",
+            "children": [
+              {
+                "id": "131",
+                "parent": "130",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 50S)",
+                "guid": "G9AMYgJTc4FQPGVjQkvIKw",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "130",
+                "text": "- Espectro: CGP (Staph incl SAMR-AC, Strep), Anaerobios",
+                "guid": "eLAc5njdyL5Ruxegc0yw6A",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "130",
+                "text": "- PK/PD: VO mala tolerancia. NO ajuste renal. Pobre SNC",
+                "guid": "IJXq6lXUvQZ7cwsSd8Y2cQ",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "130",
+                "text": "- Usos: Shock tóxico, Infec piel/PB, Empiema, Infec anaeróbicas (supra-diafragmáticas)",
+                "guid": "bTnLNDntRukruib9ZkIDHQ",
+                "children": []
+              },
+              {
+                "id": "135",
+                "parent": "130",
+                "text": "- EA: Diarrea, Colitis por C. difficile (alto riesgo)",
+                "guid": "R4G-rhECYY8XjadrLwAFwg",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "130",
+                "text": "- Resistencia: S. aureus (variable). S. pneumoniae Chile (~15%). Bacteroides R alta (no intraabd)",
+                "guid": "cHaQoENT7kILCjrcZgDI3w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "137",
+            "parent": "46",
+            "text": "- Tetraciclinas\n(Doxiciclina)",
+            "guid": "Y1ZueiRK7yV1za6oEd5FOA",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 30S)",
+                "guid": "R-DZNye5m6lciEQbBqoeDA",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "137",
+                "text": "- Espectro: Amplio (CGP incl SAMR, BGN, Espiroquetas, Atípicos, Rickettsia, Brucella)",
+                "guid": "R2lrQyxhJfQJ0-J3Yzl3pg",
+                "children": []
+              },
+              {
+                "id": "140",
+                "parent": "137",
+                "text": "- PK/PD: Buena VO. NO ajuste renal. Moderada SNC",
+                "guid": "LrSZdVoQR9olhT_RJ2S2XA",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "137",
+                "text": "- Usos: Resp, Piel/PB (SAMR VO), ITS, Zoonosis",
+                "guid": "Uu4QmHdAV3EasWdEc4P7gw",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "137",
+                "text": "- EA: Bien tolerado. GI, Fotosensibilidad",
+                "guid": "TRUUdxYkcldrSjH0Ok7frA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "143",
+            "parent": "46",
+            "text": "- Glicilciclinas\n(Tigeciclina)",
+            "guid": "HqbQ0Xf6Qv9ptBz_TgydtA",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 30S)",
+                "guid": "UBG5QBcEWPEgkOLJF5N37g",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "143",
+                "text": "- Espectro: Amplio (CGP, BGN incl BLEE, ACBA, Anaerobios). NO vs PSAE",
+                "guid": "KAa6gTgeijRGk32wGH1LIQ",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "143",
+                "text": "- PK/PD: NO ajuste renal. Pobre nivel sérico/SNC",
+                "guid": "e3J4dlGduI1-fhQBQ1NRrQ",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "143",
+                "text": "- Usos: Piel/PB, Intraabdominales, Resp",
+                "guid": "eVdUNlsGWBxJ_W-5QMC_eg",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "143",
+                "text": "- EA: Náuseas/Vómitos frecuentes",
+                "guid": "B2d-EFPRUjAj-jcgNhwXhg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "parent": "46",
+            "text": "- Fluoroquinolonas \n(Ciprofloxacino, Levofloxacino, Moxifloxacino)",
+            "guid": "ZSDj-lmcrt9Q03Bef1TJ6w",
+            "children": [
+              {
+                "id": "150",
+                "parent": "149",
+                "text": "- Mecanismo Acción: Inhiben ADN girasa/topoisomerasa IV",
+                "guid": "LeGaC0l_dvFdgM3iAM-qow",
+                "children": []
+              },
+              {
+                "id": "151",
+                "parent": "149",
+                "text": "- Espectro: Amplio (CGP - Levo/Moxi > Cipro; BGN incl PSAE - Cipro/Levo; Atípicos)",
+                "guid": "QL_OY3gyNSZ0U6YmDdTi2g",
+                "children": []
+              },
+              {
+                "id": "152",
+                "parent": "149",
+                "text": "- PK/PD: Buena VO. Cipro/Levo ajuste renal, Moxi no. Variable SNC",
+                "guid": "DlanfV-d2BtII8KGXmhgvg",
+                "children": []
+              },
+              {
+                "id": "153",
+                "parent": "149",
+                "text": "- Usos: Amplio espectro. Opción VO para PSAE (Cipro/Levo)",
+                "guid": "dqIxDGi0pU91-9isHqjrjQ",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "149",
+                "text": "- EA: GI, C. difficile, QT prolongado, SNC, Tendinitis/Ruptura tendón, Disección aórtica, Neuropatía periférica",
+                "guid": "INMvhDyPVl03JjavHEWn-g",
+                "children": []
+              },
+              {
+                "id": "155",
+                "parent": "149",
+                "text": "- Resistencia: S. pneumoniae S Levo Chile (>99%). N. gonorrhoeae R Cipro Chile (alta). Enterobacterias/PSAE R creciente",
+                "guid": "Di0O6jWkSrBfmPmoB4RjIA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "156",
+            "parent": "46",
+            "text": "- Aminoglucósidos\n(Amikacina, Gentamicina)",
+            "guid": "FzUHeyyLmDsGyTS1I7xdVQ",
+            "children": [
+              {
+                "id": "157",
+                "parent": "156",
+                "text": "- Mecanismo Acción: Inhibe síntesis proteica (subunidad 30S). Concentración-dependiente",
+                "guid": "EKqizCmWaWFIRSKaGBIg3A",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "156",
+                "text": "- Espectro: BGN aerobios (Enterob, PSAE, ACBA)",
+                "guid": "fWe7kmw_WbpOLjhiK0lVnQ",
+                "children": []
+              },
+              {
+                "id": "159",
+                "parent": "156",
+                "text": "- PK/PD: EPA largo. Dosis única diaria. Monitorización niveles (valle/peak). Ajuste renal. Pobre distrib SNC/pulmón/abscesos",
+                "guid": "Nb7QrCuvBkQsGQBAdn6fDw",
+                "children": []
+              },
+              {
+                "id": "160",
+                "parent": "156",
+                "text": "- Usos: Generalmente en combinación. ITU monoterapia. Infec BGN MDR. Neutropenia febril",
+                "guid": "I-E7ayBspmcEU4HpMjfi6A",
+                "children": []
+              },
+              {
+                "id": "161",
+                "parent": "156",
+                "text": "- EA: Nefrotoxicidad, Ototoxicidad",
+                "guid": "AAp-gkx3RHAQoEOmdqyvjg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "162",
+            "parent": "46",
+            "text": "- Polimixinas\n(Colistina)",
+            "guid": "AkwyehhrOC1TyB1KXv7d9g",
+            "children": [
+              {
+                "id": "163",
+                "parent": "162",
+                "text": "- Mecanismo Acción: Detergente catiónico -> daña membrana",
+                "guid": "NSvpvwacHFMVVZscVf8ZQw",
+                "children": []
+              },
+              {
+                "id": "164",
+                "parent": "162",
+                "text": "- Espectro: BGN (Enterob, PSAE, ACBA). R intrínseca (Proteus, Serratia, etc)",
+                "guid": "QytysEx70ctyRME-UViBmg",
+                "children": []
+              },
+              {
+                "id": "165",
+                "parent": "162",
+                "text": "- PK/PD: Ajuste renal. Pobre distrib SNC/pleura/sinovial",
+                "guid": "AiAce1HduuZY3OS6Esq_Rw",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "162",
+                "text": "- Usos: Último recurso infecciones BGN MDR",
+                "guid": "e3QkRyEiB1Uq3OAjeNvf2Q",
+                "children": []
+              },
+              {
+                "id": "167",
+                "parent": "162",
+                "text": "- EA: Nefrotoxicidad",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "168",
+            "parent": "46",
+            "text": "- Nitroimidazoles\n(Metronidazol)",
+            "guid": "eFihRkvf9G52nWdYLJL1ow",
+            "children": [
+              {
+                "id": "169",
+                "parent": "168",
+                "text": "- Mecanismo Acción: Inhibe síntesis ADN (requiere reducción)",
+                "guid": "DWFhD3kLGIYkJTV2QyAxuw",
+                "children": []
+              },
+              {
+                "id": "170",
+                "parent": "168",
+                "text": "- Espectro: Anaerobios estrictos, H. pylori, Protozoos",
+                "guid": "JLoeylA-Nbc5ntDKSJtaNQ",
+                "children": []
+              },
+              {
+                "id": "171",
+                "parent": "168",
+                "text": "- PK/PD: Excelente VO. NO ajuste renal. Buena distrib (incl SNC)",
+                "guid": "cKrcHj3yUrR60z0ecLVaoA",
+                "children": []
+              },
+              {
+                "id": "172",
+                "parent": "168",
+                "text": "- Usos: Elección infecciones anaeróbicas, C. difficile",
+                "guid": "CmmXJAtzgMRnYgouP5WA4w",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "168",
+                "text": "- EA: GI, Neuropatía periférica (uso prolongado)",
+                "guid": "Eg-dF3y3pUoVlJonVTsPxw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "174",
+            "parent": "46",
+            "text": "- Agentes\nVía Urinaria",
+            "guid": "JqL4KyBKbrxJrZZ6OMxuLw",
+            "children": [
+              {
+                "id": "175",
+                "parent": "174",
+                "text": "- Nitrofurantoína",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "- Mecanismo Acción: Daño macromoléculas (proteínas ribosomales, ADN, ARN)",
+                    "guid": "STN3FQfZW2Umk5FhS1OTkA",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "175",
+                    "text": "- Espectro: Enterococcus, Enterobacterias",
+                    "guid": "WbcWS39wdhxeHlLXVSs6kg",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "175",
+                    "text": "- PK/PD: Buena VO. Evitar ClCr <30. Concentración solo urinaria",
+                    "guid": "IJJ9cQj7MvtOBxpsLfPegA",
+                    "children": []
+                  },
+                  {
+                    "id": "179",
+                    "parent": "175",
+                    "text": "- Usos: SOLO ITU baja (Cistitis)",
+                    "guid": "AgZLgXIsT-JxFBA8JsBqSw",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "175",
+                    "text": "- EA: GI, Toxicidad pulmonar (rara)",
+                    "guid": "QmqFmSqy4QZvW8SBMxVhtw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "181",
+                "parent": "174",
+                "text": "- Fosfomicina\n(Trometamol VO)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "- Mecanismo Acción: Inhibe síntesis pared",
+                    "guid": "aKUzumovAZ8jyrxXcw7K3g",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "- Espectro: Amplio (CGP incl ERV, BGN incl BLEE/KPC/PSAE)",
+                    "guid": "daKCYwssxoYypEvCB7Ifew",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "181",
+                    "text": "- PK/PD: Baja absorción VO. Concentración urinaria/prostática",
+                    "guid": "B-Rr0Eg45elc7S9CURfi5g",
+                    "children": []
+                  },
+                  {
+                    "id": "185",
+                    "parent": "181",
+                    "text": "- Usos: ITU baja (dosis única)",
+                    "guid": "UBJBTgOAwKQca3Z2KclXmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "186",
+                    "parent": "181",
+                    "text": "- EA: GI",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 187,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "05.06. Antimicrobianos y Resistencia-2025",
+  "id": "map_1335",
+  "resolved_references": []
+}

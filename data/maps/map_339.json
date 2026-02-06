@@ -1,0 +1,85 @@
+{
+  "title": "SHEP (1991)",
+  "guid": "SHEP-1991-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/SHEP-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "SHEP (1991)\nSystolic Hypertension in\\nthe Elderly Program\n\\n⭐ Tratar HTA sistólica aislada\nen mayores de 60 años\nREDUCE ACV 36%",
+    "guid": "SHEP-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: SHEP Cooperative\\nResearch Group\nAño: 1991\nRevista: JAMA\nDOI: 10.1001/jama.1991.03470240059029\n\\nDiseño: RCT doble ciego\\nMulticéntrico USA\\nn = 4,736 pacientes\\nSeguimiento: Media 4.5 años",
+        "guid": "SHEP-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. SHEP Group. JAMA 1991\\n   DOI: 10.1001/jama.1991.03470240059029\\n\\n2. Syst-Eur Trial. Lancet 1997\\n   BCC en ancianos\\n\\n3. HYVET Trial. NEJM 2008\\n   Extensión a mayor 80 años",
+            "guid": "SHEP-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusion:\\n• Edad mayor o igual 60 años\\n• HTA sistólica aislada:\\n  - PAS 160-219 mmHg\\n  - PAD menor 90 mmHg\\n\\nCriterios Exclusion:\\n• Enfermedad terminal\\n• Demencia\\n• Condición que impida\\n  participación\\n\\nCaracterísticas:\\n• Edad media: 72 años\\n• 57% mujeres\\n• 14% afroamericanos\\n• PAS media: 170 mmHg",
+        "guid": "SHEP-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Tratamiento:\\n• Clortalidona 12.5-25 mg/día\\n• Si insuficiente: + Atenolol\\n  o Reserpina\\n• Meta: PAS menor 160 mmHg\\n  y reducción mayor o igual 20 mmHg\\n\\nGrupo Placebo:\\n• Placebo matching\\n• Sin tratamiento activo\\n\\nNota:\\n• Era pre-IECA/ARA2\\n• Diurético primera línea\\n• Beta-bloqueador segunda línea",
+        "guid": "SHEP-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nACV (primario):\\n• Tratamiento: 5.2%\\n• Placebo: 8.2%\\n• RR 0.64 (IC95% 0.50-0.82)\\n• p = 0.0003 ✓\\n• RRR: 36%\\n• NNT = 43/5 años\n\\nEventos CV totales:\\n• RRR: 32% (p menor 0.001) ✓\n\\nIAM:\\n• RRR: 27% (p = 0.05) ✓\n\\nInsuficiencia cardíaca:\\n• RRR: 55% (p menor 0.001) ✓\n\\nMortalidad:\\n• Tendencia favorable (NS)",
+        "guid": "SHEP-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEfectos adversos:\\n• Hipokalemia: mayor con\\n  clortalidona (monitorear K)\\n• Hiperuricemia: frecuente\\n• Hiponatremia: posible\\n\\nTolerado:\\n• Buena tolerancia general\\n• Discontinuación similar\\n  placebo vs tratamiento\\n\\nBalance:\\n• Beneficio ampliamente supera\\n  riesgos menores\\n• Diuréticos seguros en ancianos",
+        "guid": "SHEP-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT doble ciego grande\\n✓ Primera evidencia HTA\\n  sistólica aislada ancianos\\n✓ Outcomes duros\\n✓ Cambió práctica mundial\\n\\nLimitaciones:\\n• Era pre-IECA/ARA2/BCC\\n• Meta PAS menor 160 (conservadora)\\n• Excluye muy ancianos (mayor 80)\\n• USA (generalización)\\n\\nEstudios posteriores:\\n• Syst-Eur (BCC)\\n• HYVET (mayor 80 años)",
+        "guid": "SHEP-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Histórico fundamental\n\\nImpacto:\\n• Demostró que SÍ tratar HTA\\n  en ancianos\\n• Cambió paradigma\\n  (antes se evitaba tratar)\\n\\nAplicación actual:\\n• Diuréticos siguen siendo\\n  primera línea en ancianos\\n• Clortalidona efectiva\\n• Metas PA evolucionaron\\n  (SPRINT: menor 120)\\n\\nPrecauciones:\\n• Monitorear electrolitos\\n• Evitar hipotensión ortostática\\n• Titular lentamente",
+        "guid": "SHEP-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. HTA sistólica aislada:\n   SÍ debe tratarse en ancianos\n\\n2. Reduce ACV 36%:\n   beneficio claro y significativo\n\\n3. Diuréticos tiazídicos:\n   efectivos y económicos\n\\n4. NNT 43/5 años:\n   muy costo-efectivo\n\\n5. No temor a tratar ancianos:\n   beneficio supera riesgos\n\\n6. Monitorear potasio:\n   hipokalemia con tiazidas\n\\n7. Estudios posteriores confirman:\n   Syst-Eur, HYVET, SPRINT\n\\n8. Metas han evolucionado:\n   ahora menor 130/80 en alto riesgo",
+        "guid": "SHEP-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "SHEP-2026",
+  "id": "map_339",
+  "resolved_references": []
+}

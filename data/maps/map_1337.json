@@ -1,0 +1,3851 @@
+{
+  "title": "Guía de Antimicrobianos por Patología Específica",
+  "guid": "44F45A162846EA88008CAC21",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Infectología/PROA. 02. Guía de Antimicrobianos por Patología Específica-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Guía de Antimicrobianos por\nPatología Específica",
+    "guid": "aj7J3gxkTZQuXvVPdn8CTw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "- Endocarditis\nInfecciosa ★",
+        "guid": "AJ6rr2N1yHkXW3aFDjRQlQ",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "› Válvula nativa o Protésica tardía\n(instalación > 1 año) ★",
+            "guid": "Tn6ll2ZSSW4mOQuUHlvZDw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "◊\nEstudio\ninicial",
+                "guid": "ZnK5VFhDuxJEQLCVUSmKUg",
+                "children": [
+                  {
+                    "id": "4",
+                    "parent": "3",
+                    "text": "• Hemocultivos periféricos x 3",
+                    "guid": "PlIwVhp_hdo04dlBSJtcxw",
+                    "children": []
+                  },
+                  {
+                    "id": "5",
+                    "parent": "3",
+                    "text": "• Ecocardiograma transtorácico y transesofágico",
+                    "guid": "JCu7nWJLOzAs_2_weB3z8A",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "3",
+                    "text": "• TC TAP con contraste",
+                    "guid": "eEgkIxhMc3QbHRomTl61Ng",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "7",
+                "parent": "2",
+                "text": "◊ Tratamiento\ny duración",
+                "guid": "XUDNikNkBK5O62FXR3-XaA",
+                "children": [
+                  {
+                    "id": "8",
+                    "parent": "7",
+                    "text": "• Si paciente estable y sin criterios de sepsis: esperar hemocultivos para iniciar tratamiento",
+                    "guid": "T8hSQn1KVqY9_pm4aX23PA",
+                    "children": []
+                  },
+                  {
+                    "id": "9",
+                    "parent": "7",
+                    "text": "• Tratamiento:",
+                    "guid": "Iy3DzgHaa4lzhHKNCaB9Ig",
+                    "children": [
+                      {
+                        "id": "10",
+                        "parent": "9",
+                        "text": "▪ Cloxacilina 2 gr c/4 hrs EV",
+                        "guid": "Bqnz5jzbel9boV_1VSiZfQ",
+                        "children": []
+                      },
+                      {
+                        "id": "11",
+                        "parent": "9",
+                        "text": "▪ Ampicilina 2 gr c/4 hrs EV (Nota: Fuente 1 menciona Penicilina sódica 4 mill UI c/4 hrs EV)",
+                        "guid": "Wh4mmzfFIyJaygd0GHBW8Q",
+                        "children": []
+                      },
+                      {
+                        "id": "12",
+                        "parent": "9",
+                        "text": "▪ Gentamicina 3 mg/kg c/24 hrs EV (dosis máxima 240 mg/día)",
+                        "guid": "UkSo_Q-r4LVhC7O4dnBkmg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "13",
+                    "parent": "7",
+                    "text": "• Duración: Según microorganismo",
+                    "guid": "cfcb5Q4LI6lujliKaj9ACQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "14",
+                "parent": "2",
+                "text": "◊ Comentarios",
+                "guid": "JleXHQmrcrA4nfU_A5hkpw",
+                "children": [
+                  {
+                    "id": "15",
+                    "parent": "14",
+                    "text": "• Presentar a comité de endocarditis ⇄ Evaluación por Comité",
+                    "guid": "TQ93XgeJVpZLF_wQHNfJoQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "parent": "1",
+            "text": "› Válvula protésica Precoz\n(instalación < 1 año) ★",
+            "guid": "BNOtPAkWlcgGVYDdC32hIg",
+            "children": [
+              {
+                "id": "17",
+                "parent": "16",
+                "text": "◊ Estudio inicial",
+                "guid": "RfIQJ2H24NJgpjqfaR_T9Q",
+                "children": [
+                  {
+                    "id": "18",
+                    "parent": "17",
+                    "text": "• Hemocultivos periféricos x 3",
+                    "guid": "Y9FMW1QqrSxywFEXPe9y9g",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "17",
+                    "text": "• Ecocardiograma transtorácico y transesofágico",
+                    "guid": "C-_QT02KWItWX8nnXjR5TA",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "17",
+                    "text": "• TC TAP con contraste",
+                    "guid": "XTY5QDdrfZ9UpN3mTy1VJg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "21",
+                "parent": "16",
+                "text": "◊ Tratamiento\ny duración",
+                "guid": "RXahSEMzNnE5bJUva844ZQ",
+                "children": [
+                  {
+                    "id": "22",
+                    "parent": "21",
+                    "text": "• Si paciente estable y sin criterios de sepsis: esperar hemocultivos para iniciar tratamiento",
+                    "guid": "TN6pIXIKim5vZp0NGe4ggA",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "21",
+                    "text": "• Tratamiento:",
+                    "guid": "MvG8pRcy1Qgo2mDJECf15Q",
+                    "children": [
+                      {
+                        "id": "24",
+                        "parent": "23",
+                        "text": "▪ Vancomicina 20-30 mg/kg de carga, luego según protocolo local",
+                        "guid": "eZPhBDp-mR02xeohfmeOQA",
+                        "children": []
+                      },
+                      {
+                        "id": "25",
+                        "parent": "23",
+                        "text": "▪ Gentamicina 3 mg/kg c/24 hrs EV (dosis máxima 240 mg/día)",
+                        "guid": "Q5Uu5T0bav4J5S9iCYc_DA",
+                        "children": []
+                      },
+                      {
+                        "id": "26",
+                        "parent": "23",
+                        "text": "▪ Rifampicina 300 mg c/8 hrs VO (evaluar inicio simultáneo o diferir hasta HC negativos ⇄ Evaluación por Infectología)",
+                        "guid": "HxJL0GqLagFypxMCAuOYKw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "27",
+                    "parent": "21",
+                    "text": "• Duración: Según microorganismo",
+                    "guid": "PrYXLmVnZBlA0wshSqXnfQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "28",
+                "parent": "16",
+                "text": "◊ Comentarios",
+                "guid": "QLJ1IBjB4Dp_4yxVDZEeQg",
+                "children": [
+                  {
+                    "id": "29",
+                    "parent": "28",
+                    "text": "• Presentar a comité de endocarditis ⇄ Evaluación por Comité",
+                    "guid": "Tp5Sp31_Pq9fVUsLFBTz8A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "parent": "0",
+        "text": "- Infecciones de piel y partes\nblandas/osteoarticulares ★",
+        "guid": "",
+        "children": [
+          {
+            "id": "31",
+            "parent": "30",
+            "text": "› Erisipelas/celulitis ★",
+            "guid": "CsxqqG9JyWInfz7CBGBLrA",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "◊ Estudio\ninicial",
+                "guid": "dzhzUGmL43M9VnfcNe6Kfg",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "• Hemocultivos periféricos x2 (en casos de hospitalización)",
+                    "guid": "Kchif15FKOMCx9nsbV2RZA",
+                    "children": []
+                  },
+                  {
+                    "id": "34",
+                    "parent": "32",
+                    "text": "• Cultivo corriente (en caso de flictena o absceso)",
+                    "guid": "G2CT4QytCU525NBxOnLfsQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "35",
+                "parent": "31",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "TvNHjH4pgv0AlHH7AeUEMQ",
+                "children": [
+                  {
+                    "id": "36",
+                    "parent": "35",
+                    "text": "• Manejo\nambulatorio",
+                    "guid": "CiQlXXfyyvJ1MaTWFPCQBQ",
+                    "children": [
+                      {
+                        "id": "37",
+                        "parent": "36",
+                        "text": "▪ Amoxicilina/ácido clavulánico (500/125 mg) 1 comp c/8 hrs VO x 5 días ★",
+                        "guid": "FVxYBSlu0sQSDPoXY_qqrA",
+                        "children": []
+                      },
+                      {
+                        "id": "38",
+                        "parent": "36",
+                        "text": "▪ Alternativa: Cefadroxilo 500 mg c/12 hrs VO x 5 días",
+                        "guid": "Ju4Rc3FiRSJ4D56cZ6CGlA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "39",
+                    "parent": "35",
+                    "text": "• Manejo\nhospitalizado",
+                    "guid": "ZzyUVByw45gZUNuyEQT21A",
+                    "children": [
+                      {
+                        "id": "40",
+                        "parent": "39",
+                        "text": "▪ Cefazolina 2 gr c/8 hrs EV ★",
+                        "guid": "evYMexwYtZ5-Yog4FlagXA",
+                        "children": []
+                      },
+                      {
+                        "id": "41",
+                        "parent": "39",
+                        "text": "▪ Duración: 7 días",
+                        "guid": "KMW-7XVHWKlQyYANH_4yPQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "42",
+                    "parent": "35",
+                    "text": "• Alergia a betalactámicos:",
+                    "guid": "DEl65laBLrYvq4faIaXS6w",
+                    "children": [
+                      {
+                        "id": "43",
+                        "parent": "42",
+                        "text": "▪ Clindamicina 600 mg c/8 hrs EV",
+                        "guid": "XtM8HA4f9-lV7Ly7LcaDqQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "44",
+                "parent": "31",
+                "text": "◊ Comentarios",
+                "guid": "MxrHFH2wHDQOfpmBPT7scQ",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "• Desescalar a ATB VO precoz según evolución clínica y de laboratorio",
+                    "guid": "f_ABekG4gfEFoH2XJt4S7Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "46",
+            "parent": "30",
+            "text": "› Fasceítis\nnecrotizante ★",
+            "guid": "daLnJgOwPldSL3x2XN97eg",
+            "children": [
+              {
+                "id": "47",
+                "parent": "46",
+                "text": "◊ Estudio inicial",
+                "guid": "EJdGvCZJu6xuKBL2HODBog",
+                "children": [
+                  {
+                    "id": "48",
+                    "parent": "47",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "IGEh72uAWCht5HJOG1cuag",
+                    "children": []
+                  },
+                  {
+                    "id": "49",
+                    "parent": "47",
+                    "text": "• Cultivo corriente de tejido (pabellón)",
+                    "guid": "B5kNx2xG-ocxrc7GMF7MtA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "50",
+                "parent": "46",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "YY5TMAJ3TtNQXP7xQGGPTQ",
+                "children": [
+                  {
+                    "id": "51",
+                    "parent": "50",
+                    "text": "• Tipo 1 (Polimicrobiana,\nGangrena de Fournier)",
+                    "guid": "fMrqYh3TmtA-hpSNfLrr3A",
+                    "children": [
+                      {
+                        "id": "52",
+                        "parent": "51",
+                        "text": "▪ Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV ★",
+                        "guid": "X4wcwkQnEiUjmP7JEqbj1g",
+                        "children": []
+                      },
+                      {
+                        "id": "53",
+                        "parent": "51",
+                        "text": "▪ Alergia a betalactámicos: Ciprofloxacino 400 mg c/12 hrs EV + Metronidazol 500 mg c/8 hrs EV",
+                        "guid": "QdcuWTIXmEtP5dBHN3oVfw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "54",
+                    "parent": "50",
+                    "text": "• Tipo 2 (Monomicrobiana,\ncabeza, cuello, extremidades)",
+                    "guid": "NcfWoiIVTL0UWZD5Vij4kg",
+                    "children": [
+                      {
+                        "id": "55",
+                        "parent": "54",
+                        "text": "▪ Penicilina sódica 4 mill UI c/4 hrs EV + Clindamicina 900 mg c/8 hrs EV ★",
+                        "guid": "DZWk5gI-A0hxgCb8FS6yrQ",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "54",
+                        "text": "▪ Alergia a betalactámicos: Clindamicina 900 mg c/8 hrs EV",
+                        "guid": "boT9zyMt9cNFjX9hUBNQ_w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "parent": "50",
+                    "text": "• Duración: Depende de defocación ⇄ Drenaje quirúrgico",
+                    "guid": "JaVElhXqflIQdOBMNjyLUw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "58",
+                "parent": "46",
+                "text": "◊ Comentarios",
+                "guid": "C2qnUF6JXvJPHDeAQTJ98w",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "• Siempre asociar a drenaje quirúrgico ★",
+                    "guid": "PDQ5_n6c80JTHUz1OP8kYA",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "58",
+                    "text": "• Shock tóxico estreptocócico: agregar Inmunoglobulina EV (1 gr/kg día 1, 0.5 gr/kg día 2 y 3)",
+                    "guid": "HHCOExGj4YM1uhA8e_yq1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "58",
+                    "text": "• Desescalar a ATB VO según evolución clínica",
+                    "guid": "VcrzqFlTDwUOo46rF6IiAQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "62",
+            "parent": "30",
+            "text": "› Osteomielitis\naguda ★",
+            "guid": "ZbPLwQjbnYEjYwNCVDjJkA",
+            "children": [
+              {
+                "id": "63",
+                "parent": "62",
+                "text": "◊ Estudio inicial",
+                "guid": "LAmTRGjwgqMkTBqQUa7X2w",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "• Hemograma con VHS",
+                    "guid": "ftsA9TTA-twH62MuOw868w",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "63",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "M13uH1sIsCN0Dl9TT858Mg",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "63",
+                    "text": "• Cultivo corriente y/o en frasco de hemocultivo de hueso",
+                    "guid": "bKyRpinIb49LyycHQneFTg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "62",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "Axt-lVputbJaGadPDoYl5Q",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "• Cloxacilina 2 gr c/4 hrs EV o Cefazolina 2 gr c/8 hrs EV ★",
+                    "guid": "OPgUpCk13s9PuKPYOZbAUw",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "67",
+                    "text": "• Alergia a betalactámicos: Clindamicina 600 mg c/8 hrs EV o Vancomicina según protocolo",
+                    "guid": "DKunSWcUGl1HyxDpcl9zCg",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "67",
+                    "text": "• Duración: 3-6 semanas",
+                    "guid": "b--332suFCtGmDybG_lLIw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71",
+                "parent": "62",
+                "text": "◊ Comentarios",
+                "guid": "VB6Wz2rkVyttqCL-UvmXxA",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "• Desescalar a ATB VO según evolución clínica y de laboratorio",
+                    "guid": "H6VSB3WThiwOCNK4UwNAJg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "parent": "30",
+            "text": "› Espondilodiscitis ★",
+            "guid": "KItWtCQkgAdzA6QvXCLYMQ",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "◊ Estudio inicial",
+                "guid": "UJw2UAIXMgsi0bxYPUjH9g",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "• Hemograma con VHS",
+                    "guid": "K9-hm26c419_wE1FLvsgMA",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "SQuZEVnZ9JQ9gUYVAgOttQ",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "• Pacientes con HC negativos o necesidad de drenaje: Cultivo corriente y cultivo en frasco HC,\nbiopsia, guardar muestra congelada (-20º) para PCR universal (examen derivación)",
+                    "guid": "Aw_TZA056e47mm4JD7t6rQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78",
+                "parent": "73",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "dE4ESwNlfvICGu23ZD28Kg",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "• Si paciente estable: esperar estudio etiológico (HC+, cultivo pabellón) para iniciar ATB",
+                    "guid": "bpOTHUizKlIANwdOQrIp7A",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "78",
+                    "text": "• Tratamiento empírico (si necesario):",
+                    "guid": "M5eBfW3fKkwVq8GxUzzThQ",
+                    "children": [
+                      {
+                        "id": "81",
+                        "parent": "80",
+                        "text": "▪ Cloxacilina 2 gr c/4 hrs EV o Cefazolina 2 gr c/8 hrs EV ★",
+                        "guid": "Y3KweSO0lGkmQBOrNA7myQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "82",
+                    "parent": "78",
+                    "text": "• Alergia a betalactámicos: Vancomicina según protocolo",
+                    "guid": "JcvGdEkR0ARxV66_UatoDw",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "78",
+                    "text": "• Duración: 6 semanas general, definir según microorganismo ⇄ Evaluación por Infectología",
+                    "guid": "N66zY3EX_AQApog_ALpMdQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "84",
+                "parent": "73",
+                "text": "◊ Comentarios",
+                "guid": "SvHwmT4nzlUCvfoqTgHD_Q",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "• Solicitar evaluación por neurocirugía ⇄ Evaluación por Neurocirugía",
+                    "guid": "S2G4Qz5YaDNdvT6qP6-8jg",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "84",
+                    "text": "• Desescalar a ATB VO según evolución clínica y de laboratorio",
+                    "guid": "Qb3nJV_YLGEj7Xi5MFF6Qw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "parent": "30",
+            "text": "› Artritis séptica ★",
+            "guid": "EjCQ0AltjjldmKj-KmGCbA",
+            "children": [
+              {
+                "id": "88",
+                "parent": "87",
+                "text": "◊ Estudio inicial",
+                "guid": "EgOqUwivZeAvX6u2dXZazA",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "• Hemograma con VHS",
+                    "guid": "LGP6SVWfv2IphUGVUi_Avg",
+                    "children": []
+                  },
+                  {
+                    "id": "90",
+                    "parent": "88",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "HrGPZhrc8FUj2yjNVmBCyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "91",
+                    "parent": "88",
+                    "text": "• Artrocentesis diagnóstica: citoquímico, gram, cultivo corriente, (opcional: cultivo en frasco HC)",
+                    "guid": "C_TsWSSBsQ1XGo8-Vubc8g",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "88",
+                    "text": "• Cultivo corriente y/o en frasco HC en pabellón",
+                    "guid": "Yql_YlnYiWkk6KDvLgs3pQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "93",
+                "parent": "87",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "GDDxnAKl35ltuvQzWe7Ywg",
+                "children": [
+                  {
+                    "id": "94",
+                    "parent": "93",
+                    "text": "• Cloxacilina 2 gr c/4 hrs EV o Cefazolina 2 gr c/8 hrs EV ★",
+                    "guid": "Yn4L-xGobOwKQFMFCwlirw",
+                    "children": []
+                  },
+                  {
+                    "id": "95",
+                    "parent": "93",
+                    "text": "• Alergia a betalactámicos: Clindamicina 600 mg c/8 hrs EV o Vancomicina según protocolo",
+                    "guid": "Nczs831D9zRnLDrgR9CXRw",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "93",
+                    "text": "• Duración: 3-6 semanas",
+                    "guid": "BfNdFRaL5pc9RvITMldXXg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97",
+                "parent": "87",
+                "text": "◊ Comentarios",
+                "guid": "TOPx9zhYB2dkhO1KL41xWQ",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "• Realizar defocación quirúrgica ★ ⇄ Defocación quirúrgica",
+                    "guid": "bCul-WbMM6kEhxgcCt01Xw",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "97",
+                    "text": "• Desescalar a ATB VO según evolución clínica y de laboratorio",
+                    "guid": "Aakj_ihiQOphPXgoDZ4QVw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "100",
+            "parent": "30",
+            "text": "› Pie diabético\ninfectado ★",
+            "guid": "V2R1enAmKAwGK12RYzka4g",
+            "children": [
+              {
+                "id": "101",
+                "parent": "100",
+                "text": "◊ Estudio inicial",
+                "guid": "DBNt00tTnTEEUFsubpF5zg",
+                "children": [
+                  {
+                    "id": "102",
+                    "parent": "101",
+                    "text": "• Cultivo corriente preferiblemente en pabellón (aseo quirúrgico)",
+                    "guid": "XPwKHg6QrjN5mtx9Esj3EQ",
+                    "children": []
+                  },
+                  {
+                    "id": "103",
+                    "parent": "101",
+                    "text": "• Cultivo corriente de hueso residual (ante amputación)",
+                    "guid": "C9SlaGDHF11amY5YEcgCfQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "104",
+                "parent": "100",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "d1L99BfggGxEH1nbY36j7Q",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "• Casos leves: Amoxicilina/ácido clavulánico (500/125 mg) 1 c/8 hrs VO ★",
+                    "guid": "fqy0FUimcfhuW9lMAFXYEw",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "104",
+                    "text": "• Casos severos: Ampicilina/sulbactam 3 gr c/6 hrs EV ★",
+                    "guid": "cQiy4k-ZUXUN8-hqPeyk2Q",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "104",
+                    "text": "• Duración: según presencia de osteomielitis y defocación",
+                    "guid": "B_FY3HJ41bRtehYyGiHprA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "108",
+                "parent": "100",
+                "text": "◊ Comentarios",
+                "guid": "e-Zj7ksSvzBEg2wYB_nRwQ",
+                "children": [
+                  {
+                    "id": "109",
+                    "parent": "108",
+                    "text": "• Siempre evaluar necesidad de defocación quirúrgica ⇄ Defocación quirúrgica",
+                    "guid": "FmZcYUjTx0d2i0uPc2Jmfw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "110",
+            "parent": "30",
+            "text": "› Fractura\nexpuesta ★",
+            "guid": "WgIiq0i9L7F709yuUqePAQ",
+            "children": [
+              {
+                "id": "111",
+                "parent": "110",
+                "text": "◊ Estudio inicial",
+                "guid": "UO0_aWDE6-l1AR1fSEA9Xg",
+                "children": [
+                  {
+                    "id": "112",
+                    "parent": "111",
+                    "text": "• Sin necesidad de cultivo",
+                    "guid": "eKVsVTkgdzsrvuFLd1Igag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "113",
+                "parent": "110",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "AcbpMxoauph3p_h9cs-cFQ",
+                "children": [
+                  {
+                    "id": "114",
+                    "parent": "113",
+                    "text": "• Gustilo I y II: Cefazolina 2 gr c/8 hrs EV ★",
+                    "guid": "abQMDQWb4OgwvEDucaVk6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "113",
+                    "text": "• Gustilo III: Cefazolina 2 gr c/8 hrs EV + Gentamicina 4 mg/kg c/24 hrs EV (dosis máxima 240 mg/día) ★",
+                    "guid": "eBS2nB42VyALx06Vc_saig",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "113",
+                    "text": "• Duración:",
+                    "guid": "aUkWUFBKuq179OxLf69ysQ",
+                    "children": [
+                      {
+                        "id": "117",
+                        "parent": "116",
+                        "text": "▪ Gentamicina: 1 día máximo",
+                        "guid": "GR6B9HKAN9pzEdkxcIL3bw",
+                        "children": []
+                      },
+                      {
+                        "id": "118",
+                        "parent": "116",
+                        "text": "▪ Cefazolina: 3 días máximo (suspender ATB 24 hrs post cierre herida)",
+                        "guid": "YqZf5nk9NsJTvBJRM5OfUA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "parent": "0",
+        "text": "- Infecciones del sistema\nnervioso central ★",
+        "guid": "",
+        "children": [
+          {
+            "id": "120",
+            "parent": "119",
+            "text": "› Meningitis ★",
+            "guid": "Ad2m7CeSvflJ-a9rA6SQHw",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "◊ Estudio inicial",
+                "guid": "HzOuMDPQWgJHWA7jIRFVHA",
+                "children": [
+                  {
+                    "id": "122",
+                    "parent": "121",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "Qa14kUGhp-l2dCw0K2GEng",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "121",
+                    "text": "• Estudio de LCR: citoquímico, gram, cultivo corriente, guardar 2 frascos (eventual FilmArray meníngeo)",
+                    "guid": "Rz2I0ScwbSIdBumHP1I_bQ",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "121",
+                    "text": "• Estudio complementario\nLCR (según sospecha):",
+                    "guid": "RWbEQijOOBwzTVn4Lq_akg",
+                    "children": [
+                      {
+                        "id": "125",
+                        "parent": "124",
+                        "text": "▪ Tuberculosis: ADA, PCR Tuberculosis",
+                        "guid": "eRjyyi9CRkMuX01DEjd0vg",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "124",
+                        "text": "▪ Cryptococcus: tinta china",
+                        "guid": "IcJ-HiFxJnQCumwtBGjeBA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "127",
+                    "parent": "121",
+                    "text": "• VIH",
+                    "guid": "Gq5dNlZ2fn83_H1UdLB_4g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "128",
+                "parent": "120",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "Qlp-kWV4_rNZgy52B8FC0w",
+                "children": [
+                  {
+                    "id": "129",
+                    "parent": "128",
+                    "text": "• Ceftriaxona 2 gr c/12 hrs EV ★",
+                    "guid": "W2MX_BFRvk4kteU7HRCQjQ",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "128",
+                    "text": "• Con riesgo de Listeria (>50a, IS, embarazo, OH): agregar Ampicilina 2 gr c/4 hrs EV",
+                    "guid": "UvNmNxsqEW9IchUsGjDvCA",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "128",
+                    "text": "• Duración:",
+                    "guid": "TgsCK1z4fRgzDYxRKW4aJw",
+                    "children": [
+                      {
+                        "id": "132",
+                        "parent": "131",
+                        "text": "▪ Streptococcus pneumoniae: 10-14 días",
+                        "guid": "Dkc20AzQiG42cR1lB2Apmg",
+                        "children": []
+                      },
+                      {
+                        "id": "133",
+                        "parent": "131",
+                        "text": "▪ Neisseria meningitidis: 7 días",
+                        "guid": "PBLOsWTQaqgZl55YXdVMzw",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "131",
+                        "text": "▪ Listeria monocytogenes: 21 días (prolongar con abscesos ⇄ Evaluación por Infectología)",
+                        "guid": "BkGRHRxSCoZiPirUIO_uUw",
+                        "children": []
+                      },
+                      {
+                        "id": "135",
+                        "parent": "131",
+                        "text": "▪ Microorganismo no identificado: 10 días",
+                        "guid": "csiJBRo6qCgVoG41Efw3NQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "136",
+                "parent": "120",
+                "text": "◊ Comentarios",
+                "guid": "cu2C-w7wv-BbbpCnNUgBjA",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "• Dexametasona 0.15 mg/kg c/6 hrs EV: dar con 1ra dosis ATB, suspender si no S. pneumoniae",
+                    "guid": "bko7Z1fDcYxGfqq0QT2hng",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "• Realizar notificación EPIVIGILA ⇄ Notificación EPIVIGILA",
+                    "guid": "dGm-lDTxvx09CURfArD1ZA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "parent": "119",
+            "text": "› Meningitis/ventriculitis\nintrahospitalaria ★",
+            "guid": "QcJHi3N6YcQKER7-fdUWPA",
+            "children": [
+              {
+                "id": "140",
+                "parent": "139",
+                "text": "◊ Estudio inicial",
+                "guid": "WCM2CBUcuhJEv4gWJi44Mw",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "WErMbCOovVZbqmMMXoxdiQ",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "140",
+                    "text": "• Estudio de LCR: citoquímico, gram, cultivo corriente",
+                    "guid": "P_rH3D3ojeB_fEvdMsNQ4Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "143",
+                "parent": "139",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "chU3K3fNFGdPnFJaYF9ykg",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "• Vancomicina 25-30 mg/kg EV carga, luego según protocolo + Meropenem 2 gr c/8 hrs EV ★",
+                    "guid": "T5CF8xYa_Q8hnRQwQn4I7g",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "143",
+                    "text": "• Duración: 10-21 días según microorganismo",
+                    "guid": "JQu8730LpNd3xgp6GXV7gw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "146",
+                "parent": "139",
+                "text": "◊ Comentarios",
+                "guid": "c7nggwFd7hAJeSDkZc8Xrg",
+                "children": [
+                  {
+                    "id": "147",
+                    "parent": "146",
+                    "text": "• Definir necesidad de terapia intratecal\n⇄ Evaluación por Infectología",
+                    "guid": "Mf1j9DTPTtkcJnDnc7-rfw",
+                    "children": [
+                      {
+                        "id": "148",
+                        "parent": "147",
+                        "text": "▪ Vancomicina 10-20 mg/día",
+                        "guid": "KEmwnSY3j-VxlMG8AJR9Cg",
+                        "children": []
+                      },
+                      {
+                        "id": "149",
+                        "parent": "147",
+                        "text": "▪ Amikacina 30-50 mg/día",
+                        "guid": "SeBNPE0_JMhfINqTCdsVGA",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "147",
+                        "text": "▪ Colistin 125. 000 UI/día",
+                        "guid": "CyeyqF6dJnA8nmX6Y0rosA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "151",
+            "parent": "119",
+            "text": "› Absceso cerebral ★",
+            "guid": "UecX_kuHrwYhmiS_CbYCrA",
+            "children": [
+              {
+                "id": "152",
+                "parent": "151",
+                "text": "◊ Estudio inicial",
+                "guid": "eSsCeFkVcz5GLopASLuIaw",
+                "children": [
+                  {
+                    "id": "153",
+                    "parent": "152",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "bzBwTWfLnnALOZFaFDwtPQ",
+                    "children": []
+                  },
+                  {
+                    "id": "154",
+                    "parent": "152",
+                    "text": "• Estudio de absceso (según disponibilidad): gram, cultivo corriente, guardar 1 muestra congelada (-20º) para PCR universal (derivación)",
+                    "guid": "ZNdDSAL_m9QtsajAFtSnPA",
+                    "children": []
+                  },
+                  {
+                    "id": "155",
+                    "parent": "152",
+                    "text": "• VIH",
+                    "guid": "N87qrknYGagKlFK8YBibSw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "156",
+                "parent": "151",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "cA-pjXwpFHhgrRhVOe_2yQ",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "• Ceftriaxona 2 gr c/12 hrs EV + Metronidazol 500 mg c/8 hrs EV ★",
+                    "guid": "SWg5QD_N8ulDywviVI_r6A",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "156",
+                    "text": "• Casos intrahospitalarios: Vancomicina 25-30 mg/kg EV carga, luego según protocolo + Meropenem 2 gr c/8 hrs EV",
+                    "guid": "HmsZWQBpcdw32tSYEiT53A",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "156",
+                    "text": "• Duración: mínimo 4-6 semanas, hasta resolución (clínica, lab, imagen)",
+                    "guid": "Acdf7EFT9Xx39BGKevJiZA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "160",
+                "parent": "151",
+                "text": "◊ Comentarios",
+                "guid": "Gmlouz4im8pDrerQCZnZCA",
+                "children": [
+                  {
+                    "id": "161",
+                    "parent": "160",
+                    "text": "• Solicitar evaluación por neurocirugía para drenaje ⇄ Evaluación por Neurocirugía",
+                    "guid": "Je46O07nfCod1gZFCsV9gw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "162",
+            "parent": "119",
+            "text": "› Encefalitis ★",
+            "guid": "KjiLFU_Tv_1VyOrFLcxx2A",
+            "children": [
+              {
+                "id": "163",
+                "parent": "162",
+                "text": "◊ Estudio inicial",
+                "guid": "FV_Iriwud3tpzp34BW9yOw",
+                "children": [
+                  {
+                    "id": "164",
+                    "parent": "163",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "KFeL80p7tk0_X2kFcb_FMw",
+                    "children": []
+                  },
+                  {
+                    "id": "165",
+                    "parent": "163",
+                    "text": "• Estudio de LCR: citoquímico, gram, cultivo corriente. PCR específica VHS 1-2 (casos sugerentes).\nGuardar 1 muestra para FilmArray (protocolo local)",
+                    "guid": "CkmpNgMqdOdGT7EbKLTCkA",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "163",
+                    "text": "• VIH",
+                    "guid": "A5Pmw34qhbQ62bxsBVtGrw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "167",
+                "parent": "162",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "P357MDLNzfcATakUWefj6w",
+                "children": [
+                  {
+                    "id": "168",
+                    "parent": "167",
+                    "text": "• Aciclovir 10 mg/kg c/8 hrs EV ★",
+                    "guid": "cPBpwUP7k-Rjgbz0Ft6j_A",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "167",
+                    "text": "• Duración:",
+                    "guid": "EuMQDgFXwzkhpCF_ZMooDA",
+                    "children": [
+                      {
+                        "id": "170",
+                        "parent": "169",
+                        "text": "▪ VHS 1-2: 14-21 días",
+                        "guid": "TN9yP0M-Rj9ugCq5Yj867Q",
+                        "children": []
+                      },
+                      {
+                        "id": "171",
+                        "parent": "169",
+                        "text": "▪ VVZ: 7-14 días",
+                        "guid": "b2y9ulhOyLFnrq0pF8RJrg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "172",
+        "parent": "0",
+        "text": "- Infecciones del tracto\ngenitourinario/ITS ★",
+        "guid": "Isp-_icOFi4JhA7hLRQoNQ",
+        "children": [
+          {
+            "id": "173",
+            "parent": "172",
+            "text": "› ITU baja ★",
+            "guid": "Tf5FsRCipzEzJ7iHDXzA4Q",
+            "children": [
+              {
+                "id": "174",
+                "parent": "173",
+                "text": "◊ Estudio inicial",
+                "guid": "Q3B1KDN1YZtnZKTNNGDe6g",
+                "children": [
+                  {
+                    "id": "175",
+                    "parent": "174",
+                    "text": "• Orina completa + urocultivo (si hospitalización)",
+                    "guid": "d3D1f0rmYcFLP4LmClQFjQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "176",
+                "parent": "173",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "TD4k-mzjpGZvHi2aGR2XOg",
+                "children": [
+                  {
+                    "id": "177",
+                    "parent": "176",
+                    "text": "• Nitrofurantoína 100 mg c/8 h VO x 5 días ★",
+                    "guid": "MCHqpV2eWFN7XNInH46oXw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "178",
+                "parent": "173",
+                "text": "◊ Comentarios",
+                "guid": "Ne0hBGMLf1A3UvINWLegAg",
+                "children": [
+                  {
+                    "id": "179",
+                    "parent": "178",
+                    "text": "• Con susceptibilidad opción: Cotrimoxazol forte 1 c/12 h VO x 3 días",
+                    "guid": "ChmVfkDXAO8Fy8g3NFIgkw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "180",
+            "parent": "172",
+            "text": "› ITU alta ★",
+            "guid": "EKrA7FuUsvxiHpJrXqkGnQ",
+            "children": [
+              {
+                "id": "181",
+                "parent": "180",
+                "text": "◊ Estudio inicial",
+                "guid": "HCvVjTme1TUDzIpBTE3AMg",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "• Hemocultivos periféricos x2 (si hospitalización)",
+                    "guid": "bDdaLhVGSvNsJcd-L6fPVg",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "• Orina completa + urocultivo",
+                    "guid": "SLusjlOKbEtkCK5AQCyiDg",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "181",
+                    "text": "• TAC o ecografía (sospecha complicaciones: abscesos, PNA enfisematosa)",
+                    "guid": "HnDODC9IMSdKgKebaq7zBw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "185",
+                "parent": "180",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "Fz0tiH8pXGhr3GiRTSpOjA",
+                "children": [
+                  {
+                    "id": "186",
+                    "parent": "185",
+                    "text": "• Manejo\nambulatorio:",
+                    "guid": "B0JpwwK_JDZTWiMXc3nD8Q",
+                    "children": [
+                      {
+                        "id": "187",
+                        "parent": "186",
+                        "text": "▪ Cefuroximo 500 mg c/12 hrs VO ★",
+                        "guid": "YjTbuSMvWp8l4e6PbE5xNw",
+                        "children": []
+                      },
+                      {
+                        "id": "188",
+                        "parent": "186",
+                        "text": "▪ Alternativas (con susceptibilidad): Ciprofloxacino 500 mg c/12 hrs VO, Cotrimoxazol forte 1 comp c/12 hrs VO",
+                        "guid": "ZAZbjiuttsYgoJHLdLEceg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "189",
+                    "parent": "185",
+                    "text": "• Manejo\nhospitalizado:",
+                    "guid": "GAVvKT9_6pUjIZNHYMEbuA",
+                    "children": [
+                      {
+                        "id": "190",
+                        "parent": "189",
+                        "text": "▪ Ceftriaxona 2 gr/día EV ★",
+                        "guid": "EwpW4QcqQYgg7b3GMXsk7Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "191",
+                    "parent": "185",
+                    "text": "• Riesgo BGN multirresistentes: Amikacina 15 mg/kg día EV",
+                    "guid": "NnJyr2tuZWEcKhf0Up5IPA",
+                    "children": []
+                  },
+                  {
+                    "id": "192",
+                    "parent": "185",
+                    "text": "• Duración: 7 días (prolongar si colecciones)",
+                    "guid": "JQ06lx_2ojUe7AhuPEpoHw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "193",
+                "parent": "180",
+                "text": "◊ Comentarios",
+                "guid": "Hx_-ngrIcP8JdLasAVTaVw",
+                "children": [
+                  {
+                    "id": "194",
+                    "parent": "193",
+                    "text": "• Desescalar a VO según antibiograma",
+                    "guid": "LffLni9WpTtto0uOEf4nLA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "172",
+            "text": "› Prostatitis aguda ★",
+            "guid": "WwRcAQ5D3VkGr0OmYkbFxA",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "◊ Estudio inicial",
+                "guid": "EQMBkFoJZr1VwIm1KQhwuQ",
+                "children": [
+                  {
+                    "id": "197",
+                    "parent": "196",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "GYlRU3jiHP0JyYxxLJOoNA",
+                    "children": []
+                  },
+                  {
+                    "id": "198",
+                    "parent": "196",
+                    "text": "• Orina completa + urocultivo",
+                    "guid": "AAxehSq3SjdeDs0hNn7RNA",
+                    "children": []
+                  },
+                  {
+                    "id": "199",
+                    "parent": "196",
+                    "text": "• Antígeno prostático",
+                    "guid": "FiWvmXo45RYJHRlwOzLqMA",
+                    "children": []
+                  },
+                  {
+                    "id": "200",
+                    "parent": "196",
+                    "text": "• TAC o ecografía vesicoprostática/renal",
+                    "guid": "Gi-HSygJId53fVJPOU-F6Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "201",
+                "parent": "195",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "MtGS3QDyCPs6pGBAYMlefA",
+                "children": [
+                  {
+                    "id": "202",
+                    "parent": "201",
+                    "text": "• Manejo ambulatorio: Cefuroximo 500 mg c/12 h VO ★",
+                    "guid": "MEiuNihHq89yx4WoC00KOA",
+                    "children": []
+                  },
+                  {
+                    "id": "203",
+                    "parent": "201",
+                    "text": "• Manejo hospitalizado: Ceftriaxona 2 gr/día EV ★",
+                    "guid": "NouJKHl2yU9tk8_8R46KuA",
+                    "children": []
+                  },
+                  {
+                    "id": "204",
+                    "parent": "201",
+                    "text": "• Duración: 14 días (prolongar si colecciones)",
+                    "guid": "U4AwDENUWbJwlvtybQmBXw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "205",
+                "parent": "195",
+                "text": "◊ Comentarios",
+                "guid": "JRfSG3er9rVywaZoOz2BtA",
+                "children": [
+                  {
+                    "id": "206",
+                    "parent": "205",
+                    "text": "• Con susceptibilidad opción: Ciprofloxacino 500 mg c/12 h VO, Cotrimoxazol forte 1 c/12 h VO",
+                    "guid": "PDZ2r3pgh-MZnSmTPELVNA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "207",
+            "parent": "172",
+            "text": "› Enfermedad inflamatoria\npélvica (EIP) ★",
+            "guid": "ceTby3vev9h2cGvkDBRjFg",
+            "children": [
+              {
+                "id": "208",
+                "parent": "207",
+                "text": "◊ Estudio inicial",
+                "guid": "Vfof814TCxZddUgpGiU0ig",
+                "children": [
+                  {
+                    "id": "209",
+                    "parent": "208",
+                    "text": "• PCR ITS (gonococo, Chlamydia, Trichomonas)",
+                    "guid": "draUvEZQTYZu-GC3VxO4dQ",
+                    "children": []
+                  },
+                  {
+                    "id": "210",
+                    "parent": "208",
+                    "text": "• VIH",
+                    "guid": "XeZrFxguoxYsY-b9IEdMPQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "211",
+                "parent": "207",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "C1F_VW5WJBM4LBIxIyHRGw",
+                "children": [
+                  {
+                    "id": "212",
+                    "parent": "211",
+                    "text": "• Tto. Ambulatorio: Ceftriaxona 250 mg IM o EV x 1 dosis + Doxiciclina 100 mg c/12 h VO x 14 días ★",
+                    "guid": "DO8bbkEeNfoi7mG5cMGiBA",
+                    "children": [
+                      {
+                        "id": "213",
+                        "parent": "212",
+                        "text": "▪ Agregar Metronidazol 500 mg c/12 h VO x 14 días (si Trichomonas, vaginosis bacteriana, instrumentalización uterina reciente)",
+                        "guid": "f1vjpTALuEgI4KwQYJEz2w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "214",
+                    "parent": "211",
+                    "text": "• Tto. Hospitalizada: Ceftriaxona 1 gr/día EV x 3-7 días + Metronidazol 500 mg c/12 h EV o VO x 14 días + Doxiciclina 100 mg c/12 h VO x 14 días ★",
+                    "guid": "PvW-C03OKj9sUNukG1RhAA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "215",
+                "parent": "207",
+                "text": "◊ Comentarios",
+                "guid": "UhRrhj3qnFR-HlEdKA6LeQ",
+                "children": [
+                  {
+                    "id": "216",
+                    "parent": "215",
+                    "text": "• Desescalar a VO según evolución clínica y de laboratorio",
+                    "guid": "G_2naluTmUZCM8ADErQ8Jw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "217",
+            "parent": "172",
+            "text": "› Sífilis ★",
+            "guid": "IePmzTEsILtpx_Scf8pR5A",
+            "children": [
+              {
+                "id": "218",
+                "parent": "217",
+                "text": "◊ Estudio inicial",
+                "guid": "SsguQgsTaS95SP3OCb3sTg",
+                "children": [
+                  {
+                    "id": "219",
+                    "parent": "218",
+                    "text": "• VDRL",
+                    "guid": "SVrD0RYr25ogEZ4hVKxDJg",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "218",
+                    "text": "• MHA-Tp",
+                    "guid": "BIH_rVg9sFN3zhRBEXEbGw",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "218",
+                    "text": "• Otras ITS: VIH, HBsAg, VHC ⇄ ITS",
+                    "guid": "GVvmTRq8dfoCMr0fGLfJ8w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "222",
+                "parent": "217",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "WOGTb2WZ2XIlEk1OKvX-9Q",
+                "children": [
+                  {
+                    "id": "223",
+                    "parent": "222",
+                    "text": "• Sífilis 1ria, 2ria, latente precoz: Penicilina benzatina 2.4 mill UI/semanal IM x 2 dosis ★",
+                    "guid": "I4R1xyMwnmtTBIpuP4IdMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "224",
+                    "parent": "222",
+                    "text": "• Sífilis latente tardía, cardiovascular: Penicilina benzatina 2.4 mill UI/semanal IM x 3 dosis ★",
+                    "guid": "fsQ3shU4SnJSNllYIKgefw",
+                    "children": []
+                  },
+                  {
+                    "id": "225",
+                    "parent": "222",
+                    "text": "• Neurosífilis/ocular: Penicilina sódica 4 mill UI c/4 h EV x 14 días ★",
+                    "guid": "RmRrLTv-TfUgcnBjD78u_g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "226",
+                "parent": "217",
+                "text": "◊ Comentarios",
+                "guid": "Uiopj0CEDoVka3IkVqwpPA",
+                "children": [
+                  {
+                    "id": "227",
+                    "parent": "226",
+                    "text": "• Derivar a policlínico ITS para seguimiento ⇄ Seguimiento ITS",
+                    "guid": "GMG-2Fw5hmVoHURYMh2lJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "228",
+                    "parent": "226",
+                    "text": "• Realizar notificación EPIVIGILA ⇄ Notificación EPIVIGILA",
+                    "guid": "dvX8X2pQAXdK1W8YQb4qog",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "229",
+            "parent": "172",
+            "text": "› Gonorrea ★",
+            "guid": "dWNqp0QebOZLfBbwTkT-Fg",
+            "children": [
+              {
+                "id": "230",
+                "parent": "229",
+                "text": "◊ Estudio inicial",
+                "guid": "KbhGWXCOZD55Ov0LTTy8IA",
+                "children": [
+                  {
+                    "id": "231",
+                    "parent": "230",
+                    "text": "• PCR ITS (gonococo, Chlamydia, Trichomonas) ⇄ ITS",
+                    "guid": "E78CqUw_h3kMvtlREoM6Ww",
+                    "children": []
+                  },
+                  {
+                    "id": "232",
+                    "parent": "230",
+                    "text": "• Otras ITS: VIH, VDRL, HBsAg, VHC ⇄ ITS",
+                    "guid": "YXfR6171MqozK1jaJ9w9GA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "233",
+                "parent": "229",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "GvOAn1OdyT43m2wWbR2qLg",
+                "children": [
+                  {
+                    "id": "234",
+                    "parent": "233",
+                    "text": "• Ceftriaxona 250 mg IM x 1 dosis + Azitromicina 1 gr VO x 1 dosis ★ ⇄ Tratamiento Chlamydia",
+                    "guid": "FCHXwxwG3jpDydNqLOOWmw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "235",
+                "parent": "229",
+                "text": "◊ Comentarios",
+                "guid": "eEBknyvnF8JfATvAbzZg_w",
+                "children": [
+                  {
+                    "id": "236",
+                    "parent": "235",
+                    "text": "• Derivar a policlínico ITS para seguimiento ⇄ Seguimiento ITS",
+                    "guid": "FjcZOinWqtkw9IuhC5qD4Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "172",
+            "text": "› Infección por Chlamydia\ntrachomatis ★",
+            "guid": "bfUXv3xwopFZ34H3F61eGA",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "◊ Estudio inicial",
+                "guid": "bP8Gz1MafwJk6ho4AL4JeA",
+                "children": [
+                  {
+                    "id": "239",
+                    "parent": "238",
+                    "text": "• PCR ITS (gonococo, Chlamydia, Trichomonas) ⇄ ITS",
+                    "guid": "H1oGe3Go84oTQUPUANHYZw",
+                    "children": []
+                  },
+                  {
+                    "id": "240",
+                    "parent": "238",
+                    "text": "• Otras ITS: VIH, VDRL, HBsAg, VHC ⇄ ITS",
+                    "guid": "UJ4mNEZsnK4orhV_a5Gm0w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "241",
+                "parent": "237",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "Ggpl7GBJgZZYr1EBLiw9rw",
+                "children": [
+                  {
+                    "id": "242",
+                    "parent": "241",
+                    "text": "• Azitromicina 1 gr VO x 1 dosis ★, asociar tratamiento para gonorrea ⇄ Tratamiento Gonorrea",
+                    "guid": "fFBf0Bx5JGtbD9RKdJDEcA",
+                    "children": []
+                  },
+                  {
+                    "id": "243",
+                    "parent": "241",
+                    "text": "• Linfogranuloma venéreo: Doxiciclina 100 mg c/12 h VO x 21 días ★",
+                    "guid": "SGA8LjoREAtjxyVvXpdVaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "244",
+                "parent": "237",
+                "text": "◊ Comentarios",
+                "guid": "Y-e65BS7sRBqMdlJUdzSow",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "• Derivar a policlínico ITS para seguimiento ⇄ Seguimiento ITS",
+                    "guid": "ESxToUQRW0BpijC8fitacA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "246",
+        "parent": "0",
+        "text": "- Infecciones en pacientes\ninmunosuprimidos ★",
+        "guid": "FyvaQk50SvR-6WPoNoXgvQ",
+        "children": [
+          {
+            "id": "247",
+            "parent": "246",
+            "text": "› Neutropenia febril ★",
+            "guid": "QB0-fhIqp7w3V7kkELtksg",
+            "children": [
+              {
+                "id": "248",
+                "parent": "247",
+                "text": "◊ Definiciones",
+                "guid": "WJdEa2AFzqR8TQuFcqGqVw",
+                "children": [
+                  {
+                    "id": "249",
+                    "parent": "248",
+                    "text": "• Fiebre: T >38º (1 toma) (considerar hipotermia en neutropenia severa <500)",
+                    "guid": "QE9QOlT8XIYgzegHPJ-wCg",
+                    "children": []
+                  },
+                  {
+                    "id": "250",
+                    "parent": "248",
+                    "text": "• Neutropenia: RAN <1000",
+                    "guid": "cXWA8nvdvFExMHR6OdW9IA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "251",
+                "parent": "247",
+                "text": "◊ Estudio inicial",
+                "guid": "Ne7MXBT3mekYbRKIGdaHQA",
+                "children": [
+                  {
+                    "id": "252",
+                    "parent": "251",
+                    "text": "• Recuento neutrófilos (perfil hem/hemograma), PCR, lactato, creatinina",
+                    "guid": "KbNK-QKe69Frs1nkOt-emg",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "251",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "RrBHEVU9iqA5CvkKXdwhUw",
+                    "children": []
+                  },
+                  {
+                    "id": "254",
+                    "parent": "251",
+                    "text": "• Orina completa + urocultivo",
+                    "guid": "I7HVlDf0XPMUYgIQY88UEw",
+                    "children": []
+                  },
+                  {
+                    "id": "255",
+                    "parent": "251",
+                    "text": "• Resto según foco",
+                    "guid": "Sh8Er0u5uzV0injFIrZJGg",
+                    "children": []
+                  },
+                  {
+                    "id": "256",
+                    "parent": "251",
+                    "text": "• Panel respiratorio múltiple (síntomas influenza / brote viral)",
+                    "guid": "K7-J2XDXhEsVV_NybA7aEw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "257",
+                "parent": "247",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "RdPg0TYl23koroodN0lhww",
+                "children": [
+                  {
+                    "id": "258",
+                    "parent": "257",
+                    "text": "• Ceftriaxona 2 gr/día EV + Amikacina 15 mg/kg al día EV ★",
+                    "guid": "MgOXylne_phxHx7jZ_JkJw",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "257",
+                    "text": "• Asociar Metronidazol 500 mg c/8 hrs EV (foco abdominal / diarrea)",
+                    "guid": "btaYgQmMMWsByOtnGInjew",
+                    "children": []
+                  },
+                  {
+                    "id": "260",
+                    "parent": "257",
+                    "text": "• Asociar Vancomicina\n(20-30 mg/kg carga,\nluego protocolo) en:",
+                    "guid": "RGjYE0UZh7FKOrmTDofcwg",
+                    "children": [
+                      {
+                        "id": "261",
+                        "parent": "260",
+                        "text": "▪ Sospecha infección asociada a CVC",
+                        "guid": "DCsdPG18RUtTaYIVUttkTQ",
+                        "children": []
+                      },
+                      {
+                        "id": "262",
+                        "parent": "260",
+                        "text": "▪ Infección piel/partes blandas",
+                        "guid": "QrnP6wx0eyAwt4WgZmulgA",
+                        "children": []
+                      },
+                      {
+                        "id": "263",
+                        "parent": "260",
+                        "text": "▪ Inestabilidad hemodinámica / sepsis severa",
+                        "guid": "ENNC5j7FMlgxPiXdPJLMvw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "264",
+                    "parent": "257",
+                    "text": "• Falla renal: reemplazar esquema por Piperacilina/tazobactam (ajustado) (+/- Vancomicina)",
+                    "guid": "L5y2o0aWGU8ooabSdXCXdQ",
+                    "children": []
+                  },
+                  {
+                    "id": "265",
+                    "parent": "257",
+                    "text": "• Duración: Depende foco,\ngeneral 7 días total",
+                    "guid": "fLv0yFFQMO8sufk4Lr-Mkg",
+                    "children": [
+                      {
+                        "id": "266",
+                        "parent": "265",
+                        "text": "▪ Sin foco/microorganismo: hasta infección resuelta y >48 hrs afebril",
+                        "guid": "Ky8vhx3ZGBwWsfC5GgXICQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "267",
+                "parent": "247",
+                "text": "◊ Comentarios",
+                "guid": "J2VJhxh63CEyj6uEM5BmxA",
+                "children": [
+                  {
+                    "id": "268",
+                    "parent": "267",
+                    "text": "• Población objetivo: QMT en últimas 6 semanas",
+                    "guid": "BfchbAX5LZkGa8sRSLDxWA",
+                    "children": []
+                  },
+                  {
+                    "id": "269",
+                    "parent": "267",
+                    "text": "• Iniciar ATB < 1 hora post diagnóstico ★",
+                    "guid": "Em2ouTcjULIvHJbYVtaAzA",
+                    "children": []
+                  },
+                  {
+                    "id": "270",
+                    "parent": "267",
+                    "text": "• Alergia betalactámicos (grave): Ciprofloxacino 400 mg c/8 hrs EV + Clindamicina 600 mg c/8 hrs EV",
+                    "guid": "fDzYY3lXUGtlXl2PDRAbSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "271",
+                    "parent": "267",
+                    "text": "• Desescalar (casos seleccionados): Amoxicilina/ac. clavulánico (500/125) 1 c/8h VO + Ciprofloxacino 500 mg c/12h VO",
+                    "guid": "OByCwxacg2xJougIZ7k5Zw",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "267",
+                    "text": "• Solicitar evaluación por Infectología ⇄ Evaluación por Infectología",
+                    "guid": "XTKcu3JEjtpdKdDcWe6Rgw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "273",
+            "parent": "246",
+            "text": "› Candidiasis esofágica ★",
+            "guid": "Q5S_yQnjyhQIrh4VbsPvUQ",
+            "children": [
+              {
+                "id": "274",
+                "parent": "273",
+                "text": "◊ Estudio inicial",
+                "guid": "J7ziMB9gDs8IybdaTyIruA",
+                "children": [
+                  {
+                    "id": "275",
+                    "parent": "274",
+                    "text": "• VIH",
+                    "guid": "N9rq8DtZYt4CspJ8PdIMXA",
+                    "children": []
+                  },
+                  {
+                    "id": "276",
+                    "parent": "274",
+                    "text": "• Descartar otras causas IS si VIH (-)",
+                    "guid": "QVKQdwkeXY0Ggv20U8A5MQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "277",
+                "parent": "273",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "QEGuPzWflIwqlrn9PH6Gog",
+                "children": [
+                  {
+                    "id": "278",
+                    "parent": "277",
+                    "text": "• Fluconazol 300 mg VO día 1, luego 150 mg/día VO x 14 días ★",
+                    "guid": "Lvbk9w_1F4xJjqHrZxNnuw",
+                    "children": []
+                  },
+                  {
+                    "id": "279",
+                    "parent": "277",
+                    "text": "• Sin VO adecuada: Fluconazol 400 mg carga EV, luego 200 mg/día EV",
+                    "guid": "JpGa-BMxifNOzKEiA8Q3sw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "280",
+            "parent": "246",
+            "text": "› Neumonía por\nPneumocystis jirovecii\n(PJP) ★",
+            "guid": "BXYYzSv2cf5dssk2SQrYlw",
+            "children": [
+              {
+                "id": "281",
+                "parent": "280",
+                "text": "◊ Estudio inicial",
+                "guid": "Ndo8EmZg50w3zsfoXZceQw",
+                "children": [
+                  {
+                    "id": "282",
+                    "parent": "281",
+                    "text": "• VIH",
+                    "guid": "BcD2G0CYf0IsuUn7PZvhCw",
+                    "children": []
+                  },
+                  {
+                    "id": "283",
+                    "parent": "281",
+                    "text": "• LDH en sangre",
+                    "guid": "e_HiIC9r3Hd7be1nPURylw",
+                    "children": []
+                  },
+                  {
+                    "id": "284",
+                    "parent": "281",
+                    "text": "• PCR expectoración/LBA (si no posible: gárgaras)",
+                    "guid": "OIo6BAHw6xwRBKvIeMvoRA",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "281",
+                    "text": "• Rx Tórax o TC Tórax",
+                    "guid": "N5B_qDubZcY1Sm7mZodkoA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "286",
+                "parent": "280",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "S5B9Un7ZENJNmsxbciIYSw",
+                "children": [
+                  {
+                    "id": "287",
+                    "parent": "286",
+                    "text": "• Cotrimoxazol (15-20 mg/kg/día trimetoprim) VO/EV dividido c/6-8 hrs x 21 días ★",
+                    "guid": "EgqaxRxnbX115k_-F4Czkw",
+                    "children": []
+                  },
+                  {
+                    "id": "288",
+                    "parent": "286",
+                    "text": "• Luego profilaxis 2ria: Cotrimoxazol forte 1 comp/día VO",
+                    "guid": "SF3fe1OZGTVgi4wqfjgbjQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "289",
+                "parent": "280",
+                "text": "◊ Comentarios",
+                "guid": "OfoAgRhaVBJbzznQP7r2nA",
+                "children": [
+                  {
+                    "id": "290",
+                    "parent": "289",
+                    "text": "• Insuficiencia respiratoria asociada: Prednisona (o equiv) 40mg c/12 x5d, luego 40mg/día x5d, luego 20mg/día x11d ★",
+                    "guid": "WPLTVAiIg8t9VtenVOS1dA",
+                    "children": []
+                  },
+                  {
+                    "id": "291",
+                    "parent": "289",
+                    "text": "• Solicitar evaluación por Infectología ⇄ Evaluación por Infectología",
+                    "guid": "N_RgQnjExQ4SKSgLcH6aRw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "292",
+            "parent": "246",
+            "text": "› Toxoplasmosis\ncerebral ★",
+            "guid": "erWwKiMt09RpSoKLMkYv0w",
+            "children": [
+              {
+                "id": "293",
+                "parent": "292",
+                "text": "◊ Estudio inicial",
+                "guid": "Xsk5mh6U8XEYzZRzKlm27A",
+                "children": [
+                  {
+                    "id": "294",
+                    "parent": "293",
+                    "text": "• VIH",
+                    "guid": "HW4CQ2ZoYM4ce883L3idCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "295",
+                    "parent": "293",
+                    "text": "• IgG Toxoplasmosis en sangre",
+                    "guid": "As_OSxJiHzZG-VCcSy2txg",
+                    "children": []
+                  },
+                  {
+                    "id": "296",
+                    "parent": "293",
+                    "text": "• TC cerebro con contraste",
+                    "guid": "Zfs4ayeE3MZJZclTH_U47A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "297",
+                "parent": "292",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "P98w2CU1AyRfsC-IGNIELA",
+                "children": [
+                  {
+                    "id": "298",
+                    "parent": "297",
+                    "text": "• Cotrimoxazol (10 mg/kg/día trimetoprim) VO/EV dividido c/8-12 hrs x al menos 6 semanas ★",
+                    "guid": "Lb2G710HBy9ttrmgZbHnMg",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "parent": "297",
+                    "text": "• Luego profilaxis 2ria: Cotrimoxazol forte 1 comp/día VO",
+                    "guid": "VcvMPX_f4atWMIF5UIF8aA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "300",
+                "parent": "292",
+                "text": "◊ Comentarios",
+                "guid": "Iw21fz97BAQCx6w7AdbvGQ",
+                "children": [
+                  {
+                    "id": "301",
+                    "parent": "300",
+                    "text": "• Solicitar evaluación por Infectología ⇄ Evaluación por Infectología",
+                    "guid": "Xg_1dRuVQK4sMKYGe333uQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "302",
+            "parent": "246",
+            "text": "› Meningitis por\nCryptococcus ★",
+            "guid": "Af2hfEisdT0q9pTCBM1vxw",
+            "children": [
+              {
+                "id": "303",
+                "parent": "302",
+                "text": "◊ Estudio inicial",
+                "guid": "Ww6Uc3Hv5V5P-x2NQQnM3g",
+                "children": [
+                  {
+                    "id": "304",
+                    "parent": "303",
+                    "text": "• VIH",
+                    "guid": "GXTCJBlg5uBg_wXKWVPy_A",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "parent": "303",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "PpXqBECvNVJyJfcobFNw9A",
+                    "children": []
+                  },
+                  {
+                    "id": "306",
+                    "parent": "303",
+                    "text": "• Estudio LCR: citoquímico + gram/CC + tinta china, guardar 2 muestras refrigeradas (eventual antígeno Crypto, FilmArray)",
+                    "guid": "HbY8gV_csMhSBVgmc4IIvw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "307",
+                "parent": "302",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "X7yScyg12Z9EA4UnAspH8w",
+                "children": [
+                  {
+                    "id": "308",
+                    "parent": "307",
+                    "text": "• Fase inducción (mínimo 2 sem): Anfotericina B deoxicolato 0.7-1 mg/kg/día EV + Fluconazol 800-1200 mg/día EV ★",
+                    "guid": "Z7Ddo0bLMWIEoTcMRcDTGA",
+                    "children": []
+                  },
+                  {
+                    "id": "309",
+                    "parent": "307",
+                    "text": "• PL control día 10-12: si cultivo (-), avanzar a fase consolidación",
+                    "guid": "YmByEDDR3RJBPsrRZF4TjA",
+                    "children": []
+                  },
+                  {
+                    "id": "310",
+                    "parent": "307",
+                    "text": "• Fase consolidación: Fluconazol 800 mg/día VO ★",
+                    "guid": "eX5SUGw1X5NpK4NTVIzmww",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "311",
+                "parent": "302",
+                "text": "◊ Comentarios",
+                "guid": "XiVE8TkmoOAVlrOid5oHFQ",
+                "children": [
+                  {
+                    "id": "312",
+                    "parent": "311",
+                    "text": "• Solicitar evaluación por Infectología ⇄ Evaluación por Infectología",
+                    "guid": "UoeHwHaVuWxQ7foRER1xxQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "313",
+            "parent": "246",
+            "text": "› Infección diseminada por Citomegalovirus\n(CMV) (retinitis, digestivo, etc.) ★",
+            "guid": "N0Tuv0MT8Tl9cOK5VPsrQA",
+            "children": [
+              {
+                "id": "314",
+                "parent": "313",
+                "text": "◊ Estudio inicial",
+                "guid": "IvCiAU92Ot9IfTP_Aq00dQ",
+                "children": [
+                  {
+                    "id": "315",
+                    "parent": "314",
+                    "text": "• VIH",
+                    "guid": "d6wUfgyAuSYFd3xoX1zyIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "316",
+                    "parent": "314",
+                    "text": "• Carga viral CMV (examen derivación)",
+                    "guid": "U0vqiAoYs3QlHcU5NaxcmA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "317",
+                "parent": "313",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "OuqQh2ZckAsaCnAkNGji1w",
+                "children": [
+                  {
+                    "id": "318",
+                    "parent": "317",
+                    "text": "• Fase inducción (14-21 días): Ganciclovir 5 mg/kg c/12 h EV ★",
+                    "guid": "UpHvngM183cI9cmaMLc0kA",
+                    "children": []
+                  },
+                  {
+                    "id": "319",
+                    "parent": "317",
+                    "text": "• Fase mantención: Ganciclovir 5 mg/kg c/24 h EV ★",
+                    "guid": "PFyUVx6MfTwoUTulDuQcGA",
+                    "children": []
+                  },
+                  {
+                    "id": "320",
+                    "parent": "317",
+                    "text": "• Duración y traslape a Valganciclovir VO: definir ⇄ Evaluación por Infectología",
+                    "guid": "FSI2qXk_NbcgAY3dTGclaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "321",
+                "parent": "313",
+                "text": "◊ Comentarios",
+                "guid": "PFMm8B1ycJYhYlCoX0PI8g",
+                "children": [
+                  {
+                    "id": "322",
+                    "parent": "321",
+                    "text": "• Solicitar evaluación por Infectología ⇄ Evaluación por Infectología",
+                    "guid": "bOirdWnfhKhh8P1nZJS_8w",
+                    "children": []
+                  },
+                  {
+                    "id": "323",
+                    "parent": "321",
+                    "text": "• Retinitis: solicitar evaluación por Oftalmología ⇄ Evaluación por Oftalmología",
+                    "guid": "dmA9zmdoec9D8bIUSawoVw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "324",
+        "parent": "0",
+        "text": "- Infecciones\ngastrointestinales/intraabdominales ★",
+        "guid": "cYEtQ2kPd01_WITvLGu9yg",
+        "children": [
+          {
+            "id": "325",
+            "parent": "324",
+            "text": "› Colecistitis aguda ★",
+            "guid": "T2wHWBli9RRg1KChIf329w",
+            "children": [
+              {
+                "id": "326",
+                "parent": "325",
+                "text": "◊ Estudio inicial",
+                "guid": "HJjoi2nKajxStSuHWPV84w",
+                "children": [
+                  {
+                    "id": "327",
+                    "parent": "326",
+                    "text": "• Gram y cultivo corriente (si absceso en pabellón)",
+                    "guid": "CFbneHsGZyxn2Zj7HXkeIQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "328",
+                "parent": "325",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "dEWc4wfbJthp4EOJMJjD1A",
+                "children": [
+                  {
+                    "id": "329",
+                    "parent": "328",
+                    "text": "• Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV ★",
+                    "guid": "JU2XbgtClDIP3IzGEjZC4w",
+                    "children": []
+                  },
+                  {
+                    "id": "330",
+                    "parent": "328",
+                    "text": "• Duración:",
+                    "guid": "dSIY2nHNii12ywLWa4JWqA",
+                    "children": [
+                      {
+                        "id": "331",
+                        "parent": "330",
+                        "text": "▪ Casos leves: suspender ATB al extraer vesícula",
+                        "guid": "WTYD_Dq8tOo1Ln7_SrcxPw",
+                        "children": []
+                      },
+                      {
+                        "id": "332",
+                        "parent": "330",
+                        "text": "▪ Casos severos: 5 días desde control de foco",
+                        "guid": "I8wsNzSHA-93Iu8KczgzkA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "333",
+                "parent": "325",
+                "text": "◊ Comentarios",
+                "guid": "Ten5A1f3j6sVNiqHaoLhjg",
+                "children": [
+                  {
+                    "id": "334",
+                    "parent": "333",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "QcH552frVg5DeF5xShjhYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "335",
+            "parent": "324",
+            "text": "› Colangitis aguda ★",
+            "guid": "YvG9OitR92xnkf-BVzdaHg",
+            "children": [
+              {
+                "id": "336",
+                "parent": "335",
+                "text": "◊ Estudio inicial",
+                "guid": "My0eRFFyQwsH0B3yWHq1sg",
+                "children": [
+                  {
+                    "id": "337",
+                    "parent": "336",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "XLTXPResqrhqsPiVUdbwFw",
+                    "children": []
+                  },
+                  {
+                    "id": "338",
+                    "parent": "336",
+                    "text": "• Gram y cultivo corriente de bilis (si posible)",
+                    "guid": "CXo05WF7-2s9WUa_YrA44Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "339",
+                "parent": "335",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "HDiwVXKHxb8tZ2ogQATcjQ",
+                "children": [
+                  {
+                    "id": "340",
+                    "parent": "339",
+                    "text": "• Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV ★",
+                    "guid": "Jw7JriSKWSozPRAddPjCsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "341",
+                    "parent": "339",
+                    "text": "• Duración: 5 días post drenaje vía biliar",
+                    "guid": "fIHo1khzOqRfe6Q_PkPivQ",
+                    "children": []
+                  },
+                  {
+                    "id": "342",
+                    "parent": "339",
+                    "text": "• Si no drenaje posible: definir duración ⇄ Evaluación por Infectología",
+                    "guid": "MF6QsiL0ArEIXMQdE1BN7A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "343",
+                "parent": "335",
+                "text": "◊ Comentarios",
+                "guid": "TkX6HW_uw59qh6gKAXMYYg",
+                "children": [
+                  {
+                    "id": "344",
+                    "parent": "343",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "QWEGqnJXxfxZ7c4UHhXd5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "345",
+            "parent": "324",
+            "text": "› Absceso hepático ★",
+            "guid": "CgRwtESexqpv7M3-E36lmQ",
+            "children": [
+              {
+                "id": "346",
+                "parent": "345",
+                "text": "◊ Estudio inicial",
+                "guid": "SCChxTWVXxU71WbbRKKKmw",
+                "children": [
+                  {
+                    "id": "347",
+                    "parent": "346",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "JhrCFS1GFL12Lt56QlNyaw",
+                    "children": []
+                  },
+                  {
+                    "id": "348",
+                    "parent": "346",
+                    "text": "• Drenaje (si posible): 1 muestra gram/cultivo corriente + 1 muestra frasco HC",
+                    "guid": "H83afCOWSJsCWE74RtykKg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "349",
+                "parent": "345",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "ezH1FSw_IGIN_iBLPJL7vw",
+                "children": [
+                  {
+                    "id": "350",
+                    "parent": "349",
+                    "text": "• Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV ★",
+                    "guid": "fgiZuRtRCxsC5m1ZLmcqaw",
+                    "children": []
+                  },
+                  {
+                    "id": "351",
+                    "parent": "349",
+                    "text": "• Duración: hasta resolución (clínica, lab, imagen)",
+                    "guid": "PkUNzAtDMXZBt3hXDIsH6Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "352",
+                "parent": "345",
+                "text": "◊ Comentarios",
+                "guid": "LIq1CkqVp6Q8GfysUqV3Hw",
+                "children": [
+                  {
+                    "id": "353",
+                    "parent": "352",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "HpbmXmfr7mBaqNmmKJtXEw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "354",
+            "parent": "324",
+            "text": "› Apendicitis aguda ★",
+            "guid": "d9u8YjJI2ycU-OmKF6mW3g",
+            "children": [
+              {
+                "id": "355",
+                "parent": "354",
+                "text": "◊ Estudio inicial",
+                "guid": "Vd8jwhdROIJehjsJHf_Fhw",
+                "children": [
+                  {
+                    "id": "356",
+                    "parent": "355",
+                    "text": "• Gram y cultivo corriente intraoperatorio (si absceso)",
+                    "guid": "TOaXlxpboeRiolAjSu8xUA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "357",
+                "parent": "354",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "Nays_2WIvXx5Vlu7c_G6yw",
+                "children": [
+                  {
+                    "id": "358",
+                    "parent": "357",
+                    "text": "• Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV ★",
+                    "guid": "cMvu8jsN1BMAfMK1a_3kCA",
+                    "children": []
+                  },
+                  {
+                    "id": "359",
+                    "parent": "357",
+                    "text": "• Duración:",
+                    "guid": "Tc9hEmqZLpN1lv2KRasddA",
+                    "children": [
+                      {
+                        "id": "360",
+                        "parent": "359",
+                        "text": "▪ Casos leves: suspender al extraer apéndice",
+                        "guid": "Z0z0dQ564wAokN_HBePa0w",
+                        "children": []
+                      },
+                      {
+                        "id": "361",
+                        "parent": "359",
+                        "text": "▪ Casos severos: 5 días post control foco",
+                        "guid": "dmbRYAM5uW4ufzHmIvGGag",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "362",
+                "parent": "354",
+                "text": "◊ Comentarios",
+                "guid": "HOIJugqP5xRdVLRTcsEtfA",
+                "children": [
+                  {
+                    "id": "363",
+                    "parent": "362",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "IeEflzva71wQwPMDbse3Lg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "364",
+            "parent": "324",
+            "text": "› Diverticulitis aguda ★",
+            "guid": "VjaRQHNjQyY5tuh_C-M-QA",
+            "children": [
+              {
+                "id": "365",
+                "parent": "364",
+                "text": "◊ Estudio inicial",
+                "guid": "bhsYTQBRu8A1tdOdVWgMwg",
+                "children": [
+                  {
+                    "id": "366",
+                    "parent": "365",
+                    "text": "• Gram y cultivo corriente intraoperatorio (si absceso)",
+                    "guid": "WOwAojMNRDp_1PkLSbfvlQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "367",
+                "parent": "364",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "DsyewV5Gs2RbS-eWBTNwIQ",
+                "children": [
+                  {
+                    "id": "368",
+                    "parent": "367",
+                    "text": "• Tratamiento sólo con ATB: Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV x 5 días ★",
+                    "guid": "YYBs0gnLGXwoJPaML0_N5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "369",
+                    "parent": "367",
+                    "text": "• Tratamiento con cirugía: Mismo esquema x 5 días post control foco",
+                    "guid": "dGRIDx279BZ0-utZEUZRyQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "370",
+                "parent": "364",
+                "text": "◊ Comentarios",
+                "guid": "KEvbKlJPn6wEB39FSiz6wQ",
+                "children": [
+                  {
+                    "id": "371",
+                    "parent": "370",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "DiqPCBTIckk49LHwZGEgSQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "372",
+            "parent": "324",
+            "text": "› Pancreatitis aguda ★",
+            "guid": "CCu1b3Krmm9wRF6JYRe2Eg",
+            "children": [
+              {
+                "id": "373",
+                "parent": "372",
+                "text": "◊ Estudio inicial",
+                "guid": "JbjeqXAZV5Qqz6WnE9P29w",
+                "children": [
+                  {
+                    "id": "374",
+                    "parent": "373",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "cGsTVWCFeURpPAO5fzeyFg",
+                    "children": []
+                  },
+                  {
+                    "id": "375",
+                    "parent": "373",
+                    "text": "• Punción percutánea (si posible): 1 muestra gram/cultivo corriente + 1 muestra frasco HC",
+                    "guid": "PswsqESH608EayI3IEyZew",
+                    "children": []
+                  },
+                  {
+                    "id": "376",
+                    "parent": "373",
+                    "text": "• Procalcitonina (sospecha infección)",
+                    "guid": "TlMEzCyQGMNPnGdgQrdM2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "377",
+                "parent": "372",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "SkwM2USXUrlT_Z6lcpfoBA",
+                "children": [
+                  {
+                    "id": "378",
+                    "parent": "377",
+                    "text": "• TRATAR SÓLO ANTE SOBREINFECCIÓN (ideal con cultivo previo) ★",
+                    "guid": "FubyZlgFHeo8xOLFJRGBbg",
+                    "children": []
+                  },
+                  {
+                    "id": "379",
+                    "parent": "377",
+                    "text": "• 1ra línea: Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV",
+                    "guid": "bM2QM3W5lLUJcqG3dPlFow",
+                    "children": []
+                  },
+                  {
+                    "id": "380",
+                    "parent": "377",
+                    "text": "• 2da línea (sospecha Enterobacterias BLEE): Imipenem 500 mg c/6 hrs EV o Meropenem 1 gr c/8 hrs EV",
+                    "guid": "aGUvJHm3AEBWEPu1Dh4Nzg",
+                    "children": []
+                  },
+                  {
+                    "id": "381",
+                    "parent": "377",
+                    "text": "• Duración: a definir según lab/imágenes",
+                    "guid": "adBX1QDgoVwh8gTFWjtrKg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "382",
+                "parent": "372",
+                "text": "◊ Comentarios",
+                "guid": "YWYaoAsuCH5Zcx1AIDJHSA",
+                "children": [
+                  {
+                    "id": "383",
+                    "parent": "382",
+                    "text": "• No usar profilaxis antibiótica ★",
+                    "guid": "T7Xzzl3eP3dAfuDDHgj4mg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "384",
+            "parent": "324",
+            "text": "› Peritonitis bacteriana\nespontánea (PBE) ★",
+            "guid": "Cm5YOxAbSCNgwEV1VLplFA",
+            "children": [
+              {
+                "id": "385",
+                "parent": "384",
+                "text": "◊ Estudio inicial",
+                "guid": "DMMCBQQXL94Qqw6xeZCSOA",
+                "children": [
+                  {
+                    "id": "386",
+                    "parent": "385",
+                    "text": "• Estudio líquido ascítico: citoquímico, 1 muestra gram/cultivo corriente + 1 muestra frasco HC",
+                    "guid": "VLKa3TS95BpHUk0Ya5mNQw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "387",
+                "parent": "384",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "edDEkxodsGluidfbYjXzuA",
+                "children": [
+                  {
+                    "id": "388",
+                    "parent": "387",
+                    "text": "• Ceftriaxona 2 gr/día EV ★",
+                    "guid": "E9SwqUSa05BwVAGGfaUIfg",
+                    "children": []
+                  },
+                  {
+                    "id": "389",
+                    "parent": "387",
+                    "text": "• Duración: 7 días",
+                    "guid": "RXt07BJGBktX4HOoJuGPjA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "390",
+                "parent": "384",
+                "text": "◊ Comentarios",
+                "guid": "HXQOyTFTkOhHE9bVbSoClw",
+                "children": [
+                  {
+                    "id": "391",
+                    "parent": "390",
+                    "text": "• Alternativas VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO, Ciprofloxacino 500mg c/12h VO + Metronidazol 500mg c/8h VO",
+                    "guid": "DzHQYAeSt5gLMvsxGaAomw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "392",
+            "parent": "324",
+            "text": "› Peritonitis asociada a catéter\nde peritoneodiálisis ★",
+            "guid": "F63_vGvzQKduWo2vbGCamQ",
+            "children": [
+              {
+                "id": "393",
+                "parent": "392",
+                "text": "◊ Estudio inicial",
+                "guid": "ILEkwTWs2shX-ifcLXQmxg",
+                "children": [
+                  {
+                    "id": "394",
+                    "parent": "393",
+                    "text": "• Estudio líquido peritoneal: citoquímico, 1 muestra gram/cultivo corriente + 1 muestra frasco HC",
+                    "guid": "OcQKpmilNo0nBLj_M5TPOQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "395",
+                "parent": "392",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "AsLm9hWOkNoVysLxFpeXoA",
+                "children": [
+                  {
+                    "id": "396",
+                    "parent": "395",
+                    "text": "• Cefazolina 1 gr + Ceftazidima 1 gr intraperitoneal al día ★",
+                    "guid": "WilkawYexHcUPKAeH6TZVw",
+                    "children": []
+                  },
+                  {
+                    "id": "397",
+                    "parent": "395",
+                    "text": "• Duración: 14-21 días según microorganismo",
+                    "guid": "GGTKwmwdE8dGhmjkNdjZjA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "398",
+                "parent": "392",
+                "text": "◊ Comentarios",
+                "guid": "HXCkrw2aP7kjAtwjLKJ1Dw",
+                "children": [
+                  {
+                    "id": "399",
+                    "parent": "398",
+                    "text": "• Evaluar necesidad de retiro de catéter PD",
+                    "guid": "FSz3US4111VGQp2qLNr3DQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "400",
+            "parent": "324",
+            "text": "› Diarrea infecciosa\naguda/gastroenteritis ★",
+            "guid": "GikX_DSdK1oZO5GmOto8vQ",
+            "children": [
+              {
+                "id": "401",
+                "parent": "400",
+                "text": "◊ Estudio inicial",
+                "guid": "akoGInE1uYJoTmOEJA4QyA",
+                "children": [
+                  {
+                    "id": "402",
+                    "parent": "401",
+                    "text": "• Coprocultivo y coproparasitológico (disentería / IS)",
+                    "guid": "WdrwEA9THINXouABXJ3XBg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "403",
+                "parent": "400",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "JOGtXW1tovNzNW6mfwsRyA",
+                "children": [
+                  {
+                    "id": "404",
+                    "parent": "403",
+                    "text": "• Generalmente no necesario (etiología viral)",
+                    "guid": "c4xnagdyDsUer-sgC_EyLQ",
+                    "children": []
+                  },
+                  {
+                    "id": "405",
+                    "parent": "403",
+                    "text": "• Tratar si disentería significativa / IS: Ciprofloxacino 500 mg c/12 hrs VO ★",
+                    "guid": "c48ijGU2VARBygu5EP_HOw",
+                    "children": []
+                  },
+                  {
+                    "id": "406",
+                    "parent": "403",
+                    "text": "• Si no VO: Ceftriaxona 1 gr/día EV",
+                    "guid": "ctCTvWTM59w9ojxLB_2LDg",
+                    "children": []
+                  },
+                  {
+                    "id": "407",
+                    "parent": "403",
+                    "text": "• Duración: 3 días",
+                    "guid": "EwK_MQPk2fU02IIcLSvXLQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "408",
+                "parent": "400",
+                "text": "◊ Comentarios",
+                "guid": "OIIFT04UE8JoBhPrIswLcQ",
+                "children": [
+                  {
+                    "id": "409",
+                    "parent": "408",
+                    "text": "• Alternativa: Azitromicina 500 mg/día 1, 250 mg/día 2 al 5",
+                    "guid": "P0nNRVBUd29G2hw5GSS9VQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "410",
+            "parent": "324",
+            "text": "› Clostridioides difficile 1er\nepisodio leve y <65 años ★",
+            "guid": "X6eT8h58_Dt1wpRbBIlBTw",
+            "children": [
+              {
+                "id": "411",
+                "parent": "410",
+                "text": "◊ Estudio inicial",
+                "guid": "C-qfLmj4AwIDlFMYf3cGmA",
+                "children": [
+                  {
+                    "id": "412",
+                    "parent": "411",
+                    "text": "• PCR C. difficile en deposiciones",
+                    "guid": "cGoRxyJEPjgLaDjFY_k0Uw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "413",
+                "parent": "410",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "B3qSPE0yRH50-PuOeksl-Q",
+                "children": [
+                  {
+                    "id": "414",
+                    "parent": "413",
+                    "text": "• Metronidazol 500 mg c/8 hrs VO ★",
+                    "guid": "Mf8sWzKbN9kCSLEHRQHrjA",
+                    "children": []
+                  },
+                  {
+                    "id": "415",
+                    "parent": "413",
+                    "text": "• Duración: 10 días",
+                    "guid": "NoARzzchMyNyLcK6bwIXHg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "416",
+            "parent": "324",
+            "text": "› Clostridioides difficile 1er episodio\nmoderado-severo o recurrencia ★",
+            "guid": "BTVG5loz1qURziKQRH8UKw",
+            "children": [
+              {
+                "id": "417",
+                "parent": "416",
+                "text": "◊ Estudio inicial",
+                "guid": "KohOFFioPsldo9GACi_iBg",
+                "children": [
+                  {
+                    "id": "418",
+                    "parent": "417",
+                    "text": "• PCR C. difficile en deposiciones",
+                    "guid": "dyU7BFNmZdsOuSNVAw_aMg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "419",
+                "parent": "416",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "PF5o3RJNdm0ChuDLLMh6pA",
+                "children": [
+                  {
+                    "id": "420",
+                    "parent": "419",
+                    "text": "• Vancomicina 125 mg c/6 hrs VO ★",
+                    "guid": "NJG0pQ3vGZAQwa73PAxG4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "421",
+                    "parent": "419",
+                    "text": "• Duración: 10 días",
+                    "guid": "WyFeDwW6qoY2V2zaDSCKag",
+                    "children": []
+                  },
+                  {
+                    "id": "422",
+                    "parent": "419",
+                    "text": "• Infección fulminante: agregar Metronidazol 500 mg c/8 hrs EV y solicitar evaluación por cirugía ⇄ Evaluación por Cirugía",
+                    "guid": "OFXiXzigHeJSInX2btX0Lg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "423",
+                "parent": "416",
+                "text": "◊ Comentarios",
+                "guid": "b8FRBURQOLBd2AtNdPaX6w",
+                "children": [
+                  {
+                    "id": "424",
+                    "parent": "423",
+                    "text": "• Recurrencia: solicitar evaluación por Infectología para tto prolongado ⇄ Evaluación por Infectología",
+                    "guid": "HoQPVW-mLd05dawWSQxdaQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "425",
+        "parent": "0",
+        "text": "- Infecciones\noftalmológicas/otorrinolaringológicas ★",
+        "guid": "SE5sphcZfZZTPD9vP3Onqw",
+        "children": [
+          {
+            "id": "426",
+            "parent": "425",
+            "text": "› Endoftalmitis ★",
+            "guid": "an_jcmH1YsVCg4HdJt5MTw",
+            "children": [
+              {
+                "id": "427",
+                "parent": "426",
+                "text": "◊ Estudio inicial",
+                "guid": "dELZMkUKYqhTpsb0KNSN2A",
+                "children": [
+                  {
+                    "id": "428",
+                    "parent": "427",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "Uvl8OWRodetk4NS5LhraSA",
+                    "children": []
+                  },
+                  {
+                    "id": "429",
+                    "parent": "427",
+                    "text": "• Cultivo corriente intravítreo",
+                    "guid": "aiMgcRs4QZQ7O2SyInkC0Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "430",
+                "parent": "426",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "U9hfdg1d2qgRTvb_Q5mwew",
+                "children": [
+                  {
+                    "id": "431",
+                    "parent": "430",
+                    "text": "• Tratamiento intravítreo según oftalmología ⇄ Evaluación por Oftalmología",
+                    "guid": "Ua4TWW8nAkw4kEhncDIirg",
+                    "children": []
+                  },
+                  {
+                    "id": "432",
+                    "parent": "430",
+                    "text": "• Tratamiento sistémico: Vancomicina (20-30 mg/kg carga, luego protocolo) + Ceftazidima 2 gr c/8 h EV ★",
+                    "guid": "Xs0wKXIF9H05PoAYJxuc0A",
+                    "children": []
+                  },
+                  {
+                    "id": "433",
+                    "parent": "430",
+                    "text": "• Duración: a definir ⇄ Evaluación por Oftalmología",
+                    "guid": "CR9yFAx6v4dmj0R7c59Vhg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "434",
+                "parent": "426",
+                "text": "◊ Comentarios",
+                "guid": "bnAiTCkSxlgafaHVYrL7fw",
+                "children": [
+                  {
+                    "id": "435",
+                    "parent": "434",
+                    "text": "• Siempre evaluar por oftalmología ★ ⇄ Evaluación por Oftalmología",
+                    "guid": "bh0pAW4kaMkLh4lXQRalOg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "436",
+            "parent": "425",
+            "text": "› Absceso o flegmón\ncervical/periamigdaliano ★",
+            "guid": "UozetXBoXhBvMX-CPK__Jg",
+            "children": [
+              {
+                "id": "437",
+                "parent": "436",
+                "text": "◊ Estudio inicial",
+                "guid": "C6CfpCps5DRfKQH3X3j_Gg",
+                "children": [
+                  {
+                    "id": "438",
+                    "parent": "437",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "N8q-3HB3-PcjEq-WCXjSNQ",
+                    "children": []
+                  },
+                  {
+                    "id": "439",
+                    "parent": "437",
+                    "text": "• Cultivo corriente de absceso",
+                    "guid": "X577Q1ui9_15qvTkPmwrbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "440",
+                    "parent": "437",
+                    "text": "• TC cuello y tórax (descartar compromiso mediastínico)",
+                    "guid": "TajsejLpdPxlh8g9Vshejg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "441",
+                "parent": "436",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "P2Q0g0wXDLhKZ7QULdRW0A",
+                "children": [
+                  {
+                    "id": "442",
+                    "parent": "441",
+                    "text": "• Ampicilina/sulbactam 3 gr c/6 hrs EV ★",
+                    "guid": "dSnTEGTlVeoQh1JPY0b8EQ",
+                    "children": []
+                  },
+                  {
+                    "id": "443",
+                    "parent": "441",
+                    "text": "• Alergia grave PNC: Clindamicina 600 mg c/8 hrs EV",
+                    "guid": "Uwm-sxwO26YkXaFLJZadaA",
+                    "children": []
+                  },
+                  {
+                    "id": "444",
+                    "parent": "441",
+                    "text": "• Duración: al menos 7 días post defocación",
+                    "guid": "DHc5thOPIM1iRpyPGBfZWw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "445",
+                "parent": "436",
+                "text": "◊ Comentarios",
+                "guid": "PfwFAUFvnoZ3kNh1dcbD3g",
+                "children": [
+                  {
+                    "id": "446",
+                    "parent": "445",
+                    "text": "• Siempre evaluar por ORL o Cirugía cabeza y cuello según hallazgos ⇄ Evaluación por ORL/Cirugía CyC",
+                    "guid": "MeeXfRqjiAt_P5YTEYaSwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "447",
+                    "parent": "445",
+                    "text": "• Desescalar a VO según antibiograma",
+                    "guid": "dkaACHjqivdP8r4uQ-9sgw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "448",
+        "parent": "0",
+        "text": "- Infecciones\nrespiratorias ★",
+        "guid": "K9P_8zV6hmsat8sRazg0dw",
+        "children": [
+          {
+            "id": "449",
+            "parent": "448",
+            "text": "› Neumonía Adquirida en la Comunidad\n(NAC) manejo ambulatorio ★",
+            "guid": "AZGTI2UffyYZDItHdrtmMw",
+            "children": [
+              {
+                "id": "450",
+                "parent": "449",
+                "text": "◊ Estudio inicial",
+                "guid": "SgTVECmT3ZZaAmJFHQ6Tww",
+                "children": [
+                  {
+                    "id": "451",
+                    "parent": "450",
+                    "text": "• VIH",
+                    "guid": "RaK5PH5gA5BCpTEsUhny8g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "452",
+                "parent": "449",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "Ee8kXiTrzbtqMcxNT-spXw",
+                "children": [
+                  {
+                    "id": "453",
+                    "parent": "452",
+                    "text": "• Sin comorbilidades: Amoxicilina 1 gr c/12 hrs VO ★",
+                    "guid": "ZltsQWHCpMNFse09GEMDvw",
+                    "children": []
+                  },
+                  {
+                    "id": "454",
+                    "parent": "452",
+                    "text": "• Con comorbilidades (IC, DHC, ERC, DM, OH, Cáncer, asplenia): Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO (o 875/125 1 c/12h VO si disponible) ★",
+                    "guid": "fGYszkTxg1EpyZaAcqys1w",
+                    "children": []
+                  },
+                  {
+                    "id": "455",
+                    "parent": "452",
+                    "text": "• Duración: 5 días",
+                    "guid": "PdwOSHm8VK42nBlaabAOPA",
+                    "children": []
+                  },
+                  {
+                    "id": "456",
+                    "parent": "452",
+                    "text": "• Alergia betalactámicos: Azitromicina 500 mg c/24 hrs VO, Doxiciclina 100 mg c/12 hrs VO",
+                    "guid": "LzbbGVFT5GtU6EKzMMhuPA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "457",
+            "parent": "448",
+            "text": "› NAC hospitalizada no UPC ★",
+            "guid": "NnNjkW30zfong9RvAHg4oQ",
+            "children": [
+              {
+                "id": "458",
+                "parent": "457",
+                "text": "◊ Estudio inicial",
+                "guid": "F4irkAGGNrQdhsxlXStkzA",
+                "children": [
+                  {
+                    "id": "459",
+                    "parent": "458",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "f-Y6RWAr_ZEvRVe-EdVeow",
+                    "children": []
+                  },
+                  {
+                    "id": "460",
+                    "parent": "458",
+                    "text": "• Cultivo secreción bronquial",
+                    "guid": "BRfLTBl3JAxhwIgCa3M3jQ",
+                    "children": []
+                  },
+                  {
+                    "id": "461",
+                    "parent": "458",
+                    "text": "• Panel respiratorio",
+                    "guid": "eznIzydydUADtjtMd5_1nQ",
+                    "children": []
+                  },
+                  {
+                    "id": "462",
+                    "parent": "458",
+                    "text": "• VIH",
+                    "guid": "bGP4kS1_0cxqTKJ0KkAG2Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "463",
+                "parent": "457",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "JzwmeiDou84T8BUVVnMBkw",
+                "children": [
+                  {
+                    "id": "464",
+                    "parent": "463",
+                    "text": "• Ampicilina/sulbactam 3 gr c/6 hrs EV ★",
+                    "guid": "cjygOmjYV8gHO2_PKLADyw",
+                    "children": []
+                  },
+                  {
+                    "id": "465",
+                    "parent": "463",
+                    "text": "• Alternativa: Ceftriaxona 2 gr/día EV",
+                    "guid": "Vs0lwi6_RD8pKDxtblXRUg",
+                    "children": []
+                  },
+                  {
+                    "id": "466",
+                    "parent": "463",
+                    "text": "• Traslape precoz a Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO",
+                    "guid": "MEV680avCNJLgTYeMCu1OA",
+                    "children": []
+                  },
+                  {
+                    "id": "467",
+                    "parent": "463",
+                    "text": "• Alergia betalactámicos: Moxifloxacino 400 mg/día EV o VO",
+                    "guid": "JtsGY3rGjd1CARPbK_LRrw",
+                    "children": []
+                  },
+                  {
+                    "id": "468",
+                    "parent": "463",
+                    "text": "• Duración: 5 días",
+                    "guid": "FD2x6SPBm94XZgk8D3d6uA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "469",
+                "parent": "457",
+                "text": "◊ Comentarios",
+                "guid": "SzQRHhscRIkHF3BVN5gJrw",
+                "children": [
+                  {
+                    "id": "470",
+                    "parent": "469",
+                    "text": "• Influenza: agregar Oseltamivir 75 mg c/12 hrs VO x 5 días",
+                    "guid": "SJwWVXFkEsph2BCIb9g80A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "471",
+            "parent": "448",
+            "text": "› NAC grave en UPC ★",
+            "guid": "EkzOmHXIJZ5GSz5jBIlu0g",
+            "children": [
+              {
+                "id": "472",
+                "parent": "471",
+                "text": "◊ Estudio inicial",
+                "guid": "XqB9Zk2GrjMtOXKeNW2jKQ",
+                "children": [
+                  {
+                    "id": "473",
+                    "parent": "472",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "fEXyclZhrwsjw3R7LIttZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "474",
+                    "parent": "472",
+                    "text": "• Cultivo secreción bronquial",
+                    "guid": "HRC33W9EqppctyKeQ-u-QA",
+                    "children": []
+                  },
+                  {
+                    "id": "475",
+                    "parent": "472",
+                    "text": "• Panel respiratorio",
+                    "guid": "ags4dx64Nnlv3o_vfkjqYA",
+                    "children": []
+                  },
+                  {
+                    "id": "476",
+                    "parent": "472",
+                    "text": "• VIH",
+                    "guid": "QnnSVwdEmSsNwGUYDa3jdQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "477",
+                "parent": "471",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "ImDdtBTX1W1FRe0kavz0Cg",
+                "children": [
+                  {
+                    "id": "478",
+                    "parent": "477",
+                    "text": "• Ampicilina/sulbactam 3 gr c/6 hrs EV + Azitromicina 500 mg/día EV ★ (suspender Azitro si panel descarta atípicos)",
+                    "guid": "BjvoNycd_a1a1TDaGIi20A",
+                    "children": []
+                  },
+                  {
+                    "id": "479",
+                    "parent": "477",
+                    "text": "• Alternativa: Ceftriaxona 2 gr/día EV + Azitromicina 500 mg/día EV ★ (suspender Azitro si panel descarta atípicos)",
+                    "guid": "HOYjSyEgbz0dEiWie4agsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "480",
+                    "parent": "477",
+                    "text": "• Sin disponibilidad Azitro: Moxifloxacino 400 mg/día EV monoterapia",
+                    "guid": "bqcdcEpLmEAw9EPaau0P4g",
+                    "children": []
+                  },
+                  {
+                    "id": "481",
+                    "parent": "477",
+                    "text": "• Alergia betalactámicos: Moxifloxacino 400 mg/día EV monoterapia",
+                    "guid": "IK1HS1S3uFYXeH1IPb3_KA",
+                    "children": []
+                  },
+                  {
+                    "id": "482",
+                    "parent": "477",
+                    "text": "• Duración: 7 días",
+                    "guid": "Q_xi8HQvn-YBqb1oLgebZw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "483",
+                "parent": "471",
+                "text": "◊ Comentarios",
+                "guid": "EufWX3GITVcsUIXHVWGotw",
+                "children": [
+                  {
+                    "id": "484",
+                    "parent": "483",
+                    "text": "• Influenza: agregar Oseltamivir 75 mg c/12 hrs VO x 5 días",
+                    "guid": "eMzmgzoQ6t9jD4wsGy3ENw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "485",
+            "parent": "448",
+            "text": "› Empiema ★",
+            "guid": "TujATChVeVEGKrhBVSSohA",
+            "children": [
+              {
+                "id": "486",
+                "parent": "485",
+                "text": "◊ Estudio inicial",
+                "guid": "T3N2_mD_6RttrV9UbFmaSQ",
+                "children": [
+                  {
+                    "id": "487",
+                    "parent": "486",
+                    "text": "• Cultivo secreción bronquial",
+                    "guid": "AiBYWQq_hPZn4Dr6cMd1yQ",
+                    "children": []
+                  },
+                  {
+                    "id": "488",
+                    "parent": "486",
+                    "text": "• Toracocentesis precoz (<48 hrs): citoquímico, pH, gram, cultivo corriente + cultivo frasco HC (Sospecha TB: ADA, PCR TB)",
+                    "guid": "VQsdNxjUftVbtIWsdbhkgg",
+                    "children": []
+                  },
+                  {
+                    "id": "489",
+                    "parent": "486",
+                    "text": "• VIH",
+                    "guid": "bYw3K3MtAvQzdmOrMYiaGw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "490",
+                "parent": "485",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "Z1yi2jUgIRNfkDWCekR5OQ",
+                "children": [
+                  {
+                    "id": "491",
+                    "parent": "490",
+                    "text": "• Ampicilina/sulbactam 3 gr c/6 hrs EV ★",
+                    "guid": "Jqhuawvgu0lPpiHwH3VU7g",
+                    "children": []
+                  },
+                  {
+                    "id": "492",
+                    "parent": "490",
+                    "text": "• Alternativa: Ceftriaxona 2 gr/día EV + Metronidazol 500 mg c/8 hrs EV",
+                    "guid": "RfGmKDK1rh06oxklFNpmdA",
+                    "children": []
+                  },
+                  {
+                    "id": "493",
+                    "parent": "490",
+                    "text": "• Desescalar a VO: Amoxicilina/ácido clavulánico (500/125) 1 c/8h VO",
+                    "guid": "WwsnbkDN0Wdp_w74Kn6ebA",
+                    "children": []
+                  },
+                  {
+                    "id": "494",
+                    "parent": "490",
+                    "text": "• Duración: ~3 semanas, definir ⇄ Evaluación por Infectología y según drenaje ⇄ Drenaje quirúrgico",
+                    "guid": "Ic26glesbkwW2Di1I-4S2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "495",
+                "parent": "485",
+                "text": "◊ Comentarios",
+                "guid": "YmvzQ364c68UtYilN3cQeg",
+                "children": [
+                  {
+                    "id": "496",
+                    "parent": "495",
+                    "text": "• Solicitar evaluación por Cirugía de tórax y drenaje precoz ★ ⇄ Evaluación por Cirugía Tórax",
+                    "guid": "F4zyhHBqDlEtL3T8BRkprw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "497",
+            "parent": "448",
+            "text": "› Neumonía intrahospitalaria\n(no asociada a VMI) ★",
+            "guid": "Y5cRRWCl2Kc2ocPKSvO0Hw",
+            "children": [
+              {
+                "id": "498",
+                "parent": "497",
+                "text": "◊ Estudio inicial",
+                "guid": "FcX5uxYx-UxFOC1YPG5oJg",
+                "children": [
+                  {
+                    "id": "499",
+                    "parent": "498",
+                    "text": "• Cultivo secreción bronquial",
+                    "guid": "IhK0lRTeT0lb470UaARavQ",
+                    "children": []
+                  },
+                  {
+                    "id": "500",
+                    "parent": "498",
+                    "text": "• Panel respiratorio",
+                    "guid": "R5P9ZhaG1jl83sEyIp8k1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "501",
+                "parent": "497",
+                "text": "◊ Antimicrobiano\ny duración",
+                "guid": "V1SnoGbd0CpNHcNAeSJiIw",
+                "children": [
+                  {
+                    "id": "502",
+                    "parent": "501",
+                    "text": "• Sin estadía UPC / sin ATB previos / <7 días hosp: Ampicilina/sulbactam 3 gr c/6 hrs EV ★",
+                    "guid": "Poo-d2P1-_UdEHT-IPYxug",
+                    "children": []
+                  },
+                  {
+                    "id": "503",
+                    "parent": "501",
+                    "text": "• Con estadía UPC / ATB previos / >7 días hosp: Vancomicina (20-30 mg/kg carga, luego protocolo) + Piperacilina/tazobactam 4.5 gr c/6 hrs EV ★",
+                    "guid": "Yq5vpDHF_aNYbUI0ejtiKQ",
+                    "children": []
+                  },
+                  {
+                    "id": "504",
+                    "parent": "501",
+                    "text": "• Con cultivos (-): suspender Vancomicina (baja probabilidad SAMR en HPM)",
+                    "guid": "IjAL9AWctzB_VIvYBccdOQ",
+                    "children": []
+                  },
+                  {
+                    "id": "505",
+                    "parent": "501",
+                    "text": "• Duración: 7 días",
+                    "guid": "ZkKP2DX2T6NQutFYfAiJkw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "506",
+                "parent": "497",
+                "text": "◊ Comentarios",
+                "guid": "TChI7xXy_rE4dvG5bjr9hQ",
+                "children": [
+                  {
+                    "id": "507",
+                    "parent": "506",
+                    "text": "• Ajustar esquema con cultivos al menor espectro",
+                    "guid": "KtFN-hRars1WP1hCcmVLYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "508",
+            "parent": "448",
+            "text": "› Neumonía asociada\na VMI (NAVM) ★",
+            "guid": "KuGFBlMeGXQVBHA0AjYspw",
+            "children": [
+              {
+                "id": "509",
+                "parent": "508",
+                "text": "◊ Estudio inicial",
+                "guid": "Ofvpn2IiM3R7WI7KeIYoFg",
+                "children": [
+                  {
+                    "id": "510",
+                    "parent": "509",
+                    "text": "• Hemocultivos periféricos x2",
+                    "guid": "RhgvaRhpA8gZfFnQKMafDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "511",
+                    "parent": "509",
+                    "text": "• Cultivo secreción bronquial",
+                    "guid": "Si8BbHHpnAQjAgE2bF8NYA",
+                    "children": []
+                  },
+                  {
+                    "id": "512",
+                    "parent": "509",
+                    "text": "• Evaluar necesidad Lavado broncoalveolar (LBA)",
+                    "guid": "d4ZTNCJWjQ9yJiqaXcjjDA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "513",
+                "parent": "508",
+                "text": "◊ Antimicrobiano y\nduración",
+                "guid": "WEzcskLg-_JZ0WyfJHUloQ",
+                "children": [
+                  {
+                    "id": "514",
+                    "parent": "513",
+                    "text": "• Vancomicina (20-30 mg/kg carga, luego protocolo) + Piperacilina/tazobactam 4.5 gr c/6 hrs EV + Amikacina (carga y mantención según protocolo) ★",
+                    "guid": "WNP6oxJIXlgSsCMmA6VInQ",
+                    "children": []
+                  },
+                  {
+                    "id": "515",
+                    "parent": "513",
+                    "text": "• Con cultivos (-): suspender Vancomicina",
+                    "guid": "JqMNJWjve2l2CpP9UYSSLA",
+                    "children": []
+                  },
+                  {
+                    "id": "516",
+                    "parent": "513",
+                    "text": "• Duración: 7 días",
+                    "guid": "PA2U3QsPBDFTur7Tdgl-fA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "517",
+                "parent": "508",
+                "text": "◊ Comentarios",
+                "guid": "bTE3pU8TTZ1uj6aSM0lnDg",
+                "children": [
+                  {
+                    "id": "518",
+                    "parent": "517",
+                    "text": "• Ajustar esquema con cultivos al menor espectro",
+                    "guid": "Z3xRZQgMAGJcEAYcMatS0Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 519,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Infectología",
+  "filename": "PROA. 02. Guía de Antimicrobianos por Patología Específica-2025",
+  "id": "map_1337",
+  "resolved_references": []
+}

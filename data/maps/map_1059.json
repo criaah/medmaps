@@ -1,0 +1,2888 @@
+{
+  "title": "Delirium en UCI",
+  "guid": "3F49410D7E4DB6072D2B3D23",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/Paper. Delirium en UCI-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Delirium en UCI",
+    "guid": "YtBde2X9_UYel6qeBXVGcg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Definición",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Disfunción cerebral generalizada en contexto de enfermedad aguda o intoxicación",
+            "guid": "EY9pyUy_6Y9MZc71IDCEFw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Criterios DSM-5\npara diagnóstico:",
+            "guid": "",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "- Alteración de atención y conciencia que se desarrolla en corto período",
+                "guid": "R2xWFEuhv5tFx_iqQRbPjg",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "- Fluctuación de atención y conciencia durante el día",
+                "guid": "Z0_LQwYkRRZpD0ZrNb4n3A",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "- Alteración cognitiva (memoria, orientación, percepción visual-espacial)",
+                "guid": "bLg3MxIidqBoRHZQSjyYcA",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "3",
+                "text": "- No explicable por trastorno neurocognitivo preexistente",
+                "guid": "TPt67XgbwVh8GE3LLBftiQ",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "3",
+                "text": "- No ocurre en estado de coma",
+                "guid": "KBNqPHmg4DV-ylVQFkBx3g",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "3",
+                "text": "- Consecuencia fisiológica directa de condición médica, intoxicación o abstinencia",
+                "guid": "XZyslD1hOxJYAhTEGUWEng",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "parent": "0",
+        "text": "## Puntos clave",
+        "guid": "",
+        "children": [
+          {
+            "id": "11",
+            "parent": "10",
+            "text": "- Complicación común, seria y frecuentemente no reconocida en enfermedades críticas",
+            "guid": "Jk2H00itPG1r5KlgN9zxnA",
+            "children": []
+          },
+          {
+            "id": "12",
+            "parent": "10",
+            "text": "- Uso de herramientas validadas para detección temprana debe incorporarse a práctica diaria",
+            "guid": "FW0l_DhKeFZYDXWzXNl8EQ",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "10",
+            "text": "- Detección temprana permite exploración oportuna de causas subyacentes",
+            "guid": "A-w38R3Vbl0d8EufazwDNQ",
+            "children": []
+          },
+          {
+            "id": "14",
+            "parent": "10",
+            "text": "- Antipsicóticos y sedantes solo para control de agitación",
+            "guid": "I_mzdAb_kgog-isRELHqpw",
+            "children": []
+          },
+          {
+            "id": "15",
+            "parent": "10",
+            "text": "- Optimización de condiciones ambientales, minimización de causas iatrogénicas y manejo eficaz de enfermedad subyacente son esenciales",
+            "guid": "GSIIqgk-oWJa7oMXZh2Dlw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "parent": "0",
+        "text": "## Información general",
+        "guid": "",
+        "children": [
+          {
+            "id": "17",
+            "parent": "16",
+            "text": "- Conciencia sobre delirium en pacientes críticos ha crecido exponencialmente",
+            "guid": "AVpiulcG0OISNXEgKW3M9w",
+            "children": []
+          },
+          {
+            "id": "18",
+            "parent": "16",
+            "text": "- Sigue siendo subdiagnosticado e insuficientemente comprendido",
+            "guid": "UKexFxD_xnE_rj7VLkRdqw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "19",
+        "parent": "0",
+        "text": "## Epidemiología",
+        "guid": "FvZaRX7-DPQcchsCGsTX2Q",
+        "children": [
+          {
+            "id": "20",
+            "parent": "19",
+            "text": "- Problema clínico común",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "21",
+            "parent": "19",
+            "text": "- Prevalencia:",
+            "guid": "",
+            "children": [
+              {
+                "id": "22",
+                "parent": "21",
+                "text": "- 10% a 16% de pacientes en departamento de emergencias",
+                "guid": "YF2QBjNui6osi3rzdcq2Ag",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "21",
+                "text": "- 14% a 56% de pacientes hospitalizados durante algún momento de hospitalización",
+                "guid": "a7kEAASY8KZSpDITb6U78g",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "21",
+                "text": "- Meta-análisis de 48 estudios en UCI adultos: prevalencia agrupada del 31%",
+                "guid": "Im5fBHCUfbJa4T8nRmgSeA",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "21",
+                "text": "- Hasta 82% de pacientes críticos con ventilación mecánica",
+                "guid": "d5QPvHvbajhXGf0fELYYZg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "parent": "19",
+            "text": "- Considerable variabilidad en prevalencia\nreportada entre diferentes cohortes de UCI",
+            "guid": "BRoLmjIIgDZ205v9BnRuVQ",
+            "children": [
+              {
+                "id": "27",
+                "parent": "26",
+                "text": "- Señala diferencias importantes en sensibilidad\nde diagnóstico entre UCI a nivel mundial",
+                "guid": "CQ9RGAkJDR4v4jtMWbcCLw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "parent": "0",
+        "text": "## Fisiopatología",
+        "guid": "Lk39YzLAUPEmN6WwARq5WA",
+        "children": [
+          {
+            "id": "29",
+            "parent": "28",
+            "text": "- Mecanismos patofisiológicos en gran parte desconocidos",
+            "guid": "GgjTj2-QeiEH-1_aaGnVEg",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "28",
+            "text": "- Teorías propuestas:",
+            "guid": "",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "- Flujo sanguíneo cerebral alterado",
+                "guid": "B0DNuk-FQiRdGF5oZ55dwA",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "30",
+                "text": "- Desequilibrios de neurotransmisores",
+                "guid": "AvPNzwmj2VtdaRPCbqzRzw",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "30",
+                "text": "- Anormalidades genéticas",
+                "guid": "IKHDiDkzTOh3Ezt-GDXTRQ",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "30",
+                "text": "- Disrupción de barrera hematoencefálica",
+                "guid": "DjzKAjANRdZeUg3BMKspBg",
+                "children": []
+              },
+              {
+                "id": "35",
+                "parent": "30",
+                "text": "- Inflamación cerebral exacerbada",
+                "guid": "NQ63IU4tOJ0o6-urOijCuw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "36",
+            "parent": "28",
+            "text": "- Neurotransmisores\ninvolucrados:",
+            "guid": "",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "- Ácido gamma-aminobutírico",
+                "guid": "ADW40x-_h6lAnTEQCUUJ6w",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "36",
+                "text": "- Acetilcolina",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "39",
+                "parent": "36",
+                "text": "- Dopamina",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "36",
+                "text": "- Serotonina",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "28",
+            "text": "- Factores inflamatorios:",
+            "guid": "",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "- Niveles elevados de citoquinas proinflamatorias\n(proteína C-reactiva, procalcitonina)",
+                "guid": "KMiUx3B_bFxi_AwaQtFoVg",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "- Disrupción de barrera hematoencefálica",
+                "guid": "YA_mfWr3a_QrOz1oZ1C0Nw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "44",
+            "parent": "28",
+            "text": "- Fallo metabólico\ncerebral:",
+            "guid": "Fh_cTz4o7gky2iI-FlWVIg",
+            "children": [
+              {
+                "id": "45",
+                "parent": "44",
+                "text": "- Suministro energético\ninsuficiente",
+                "guid": "Q6KoYUfyo7IVPQJdeLFfgg",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "- Reducción del flujo sanguíneo cerebral a nivel microcirculatorio",
+                    "guid": "OnyuGQhTm9BO7xH3PXB76A",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "- Oxigenación disminuida",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "45",
+                    "text": "- Glucopenia relativa",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49",
+                "parent": "44",
+                "text": "- Utilización energética alterada",
+                "guid": "XGVrkApvW3lQ32g0fQcvGA",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "- Deterioro en utilización de glucosa por astrocitos",
+                    "guid": "Efd1LCxYJbosHU23IDQ_Lg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "51",
+                "parent": "44",
+                "text": "- Escasa evidencia que respalde esta teoría",
+                "guid": "Xeh1snN3U04fmp8NBrEKeQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "52",
+        "parent": "0",
+        "text": "## Etiología",
+        "guid": "ZBfx23bwbyARxdQYXVD8lA",
+        "children": [
+          {
+            "id": "53",
+            "parent": "52",
+            "text": "- Multifactorial, interacción compleja entre factores predisponentes y precipitantes",
+            "guid": "Y_a_qwKWqydJgnLPRAamKA",
+            "children": []
+          },
+          {
+            "id": "54",
+            "parent": "52",
+            "text": "- Factores predisponentes\n(presentes al ingreso):",
+            "guid": "",
+            "children": [
+              {
+                "id": "55",
+                "parent": "54",
+                "text": "- Edad avanzada",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "54",
+                "text": "- Deterioro cognitivo preexistente",
+                "guid": "bY4XG3S9sDcrV1pgKArFNA",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "54",
+                "text": "- Comorbilidades",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "54",
+                "text": "- Historia de abuso de alcohol o tabaco",
+                "guid": "fRFMB3pGbFdle0EcDwjBMw",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "54",
+                "text": "- Deterioro visual",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "54",
+                "text": "- Pérdida auditiva",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "54",
+                "text": "- Depresión",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "54",
+                "text": "- Desnutrición",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "54",
+                "text": "- Deterioro funcional basal",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "64",
+            "parent": "52",
+            "text": "- Factores precipitantes (adquiridos\ndurante hospitalización):",
+            "guid": "",
+            "children": [
+              {
+                "id": "65",
+                "parent": "64",
+                "text": "- Ventilación mecánica",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "64",
+                "text": "- Inmovilidad",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "64",
+                "text": "- Alteración del sueño",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "64",
+                "text": "- Catéteres urinarios",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "64",
+                "text": "- Procedimientos múltiples",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "70",
+            "parent": "52",
+            "text": "- Causas médicas\nespecíficas:",
+            "guid": "",
+            "children": [
+              {
+                "id": "71",
+                "parent": "70",
+                "text": "- Infecciones",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "70",
+                "text": "- Alteraciones metabólicas",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "70",
+                "text": "- Condiciones autoinmunes",
+                "guid": "Jp6SERGYjtQvPQBhAwP9oQ",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "70",
+                "text": "- Neoplasias",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "70",
+                "text": "- Convulsiones",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "70",
+                "text": "- Trastornos neurodegenerativos",
+                "guid": "HAfqTQAcaJUACyy6X6qSrg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "70",
+                "text": "- Trastornos psiquiátricos",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "70",
+                "text": "- Trauma",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "79",
+            "parent": "52",
+            "text": "- Causas\niatrogénicas:",
+            "guid": "SA8MRxVILxdYW_IxXi7olg",
+            "children": [
+              {
+                "id": "80",
+                "parent": "79",
+                "text": "- Polifarmacia (≥3 medicamentos nuevos triplica el riesgo)",
+                "guid": "U3EdIAs2FG90hH24MVmS0g",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "79",
+                "text": "- Medicamentos\nimplicados:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "- Agentes anticolinérgicos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "- Opioides (especialmente morfina)",
+                    "guid": "fq1nvRQfHMU4Cp1LYqQnaA",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "81",
+                    "text": "- Benzodiazepinas (lorazepam, midazolam)",
+                    "guid": "FrXH7AGNEBomqs2RBEPfCA",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "81",
+                    "text": "- Corticosteroides",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "81",
+                    "text": "- Agentes serotoninérgicos",
+                    "guid": "dkrAUVICJ_EsTqQ8c1wMWQ",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "81",
+                    "text": "- Ciertos antibióticos (cefepima)",
+                    "guid": "TEiUSBHJ5VkCZM2McucmWg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "88",
+                "parent": "79",
+                "text": "- Uso de drogas recreativas (intoxicación o abstinencia)",
+                "guid": "I2J0LTGhze516yP7P2peeg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "52",
+            "text": "- Procedimientos\nquirúrgicos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "- Factor de riesgo independiente",
+                "guid": "Mb42g3X2ULUfFPEoec1Cyw",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "89",
+                "text": "- Cirugías torácicas (cardíacas y no cardíacas) con mayor riesgo",
+                "guid": "Cz5_zXdw41lX_CthXq-c7Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "92",
+            "parent": "52",
+            "text": "- Ambiente de UCI:",
+            "guid": "",
+            "children": [
+              {
+                "id": "93",
+                "parent": "92",
+                "text": "- Disruptor importante del sueño",
+                "guid": "Aqb3yEyAqRoQCS_AAVRfhg",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "92",
+                "text": "- Factores ambientales: ruido, alarmas constantes, evaluaciones neurológicas frecuentes",
+                "guid": "YJ_F30gTzQtj-Ibud1WNzA",
+                "children": []
+              },
+              {
+                "id": "95",
+                "parent": "92",
+                "text": "- Sueño comprometido como factor de riesgo",
+                "guid": "SaDdJgqjVH97mWzUP-uddw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "96",
+        "parent": "0",
+        "text": "## Tabla 1: Causas y factores\ncontribuyentes del delirium en UCI",
+        "guid": "VFdUHiRDbk8gIF3cS6zdDw",
+        "children": [
+          {
+            "id": "97",
+            "parent": "96",
+            "text": "### Enfermedades",
+            "guid": "XKV8cCfoERAzR6nQKO4QuQ",
+            "children": [
+              {
+                "id": "98",
+                "parent": "97",
+                "text": "- Vasculares:",
+                "guid": "ObH2aTWsd10b1TcTXRRqlg",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "- Ictus isquémico",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "100",
+                    "parent": "98",
+                    "text": "- Hemorragia intracraneal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "101",
+                    "parent": "98",
+                    "text": "- Trombosis del seno venoso dural",
+                    "guid": "N1aTFQGt-D42__ThF_ZY9A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "102",
+                "parent": "97",
+                "text": "- Infecciosas:",
+                "guid": "Z05FSxHAWw4cfskQGQx7zg",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "- Meningitis/encefalitis",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "- ITU",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "102",
+                    "text": "- Neumonía",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "102",
+                    "text": "- Infecciosas intraabdominales",
+                    "guid": "ScHFShr4e88PS-bAE2KicA",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "102",
+                    "text": "- Sepsis/Bacteremia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "102",
+                    "text": "- Endocarditis",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "109",
+                "parent": "97",
+                "text": "- Autoinmunes:",
+                "guid": "B7arxDuTujkS2b6ZEvUrkQ",
+                "children": [
+                  {
+                    "id": "110",
+                    "parent": "109",
+                    "text": "- Encefalitis autoinmune",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "109",
+                    "text": "- Lupus neuropsiquiátrico",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "112",
+                "parent": "97",
+                "text": "- Metabólicas:",
+                "guid": "MwSdkmrV6ftxpMh-NauVWw",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "- Alteraciones electrolíticas",
+                    "guid": "JZvQTwrlU5RTTj_nAkFMvw",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "- Encefalopatía hepática",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "115",
+                    "parent": "112",
+                    "text": "- Encefalopatía urémica",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "116",
+                    "parent": "112",
+                    "text": "- Hipoxia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "112",
+                    "text": "- Hipercarbia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "112",
+                    "text": "- Deshidratación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "112",
+                    "text": "- Deficiencias\nnutricionales",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "97",
+                "text": "- Endocrinas:",
+                "guid": "Ms1kpQaV6bgrL114bH9bDg",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "- Hipotiroidismo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "- Hipertiroidismo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "- Hipoglucemia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "120",
+                    "text": "- Hiperglucemia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "120",
+                    "text": "- Hipercortisolismo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "120",
+                    "text": "- Hipocortisolismo",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "127",
+                "parent": "97",
+                "text": "- Neoplasias:",
+                "guid": "PEJhFUcElItJk8WlI5CmYA",
+                "children": [
+                  {
+                    "id": "128",
+                    "parent": "127",
+                    "text": "- Tumor primario del SNC",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "129",
+                    "parent": "127",
+                    "text": "- Metástasis cerebral",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "130",
+                    "parent": "127",
+                    "text": "- Meningitis\ncarcinomatosa",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "127",
+                    "text": "- Encefalitis\nparaneoplásica",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "97",
+                "text": "- Epilepsia:",
+                "guid": "WMTvmmYSjrU8nSIuYHubXg",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "- Convulsiones",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "- Estado epiléptico\nno convulsivo",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "135",
+                "parent": "97",
+                "text": "- Trastornos psiquiátricos",
+                "guid": "IaZI7k924MhzcMbvVKrmgQ",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "97",
+                "text": "- Síndrome neuroléptico maligno",
+                "guid": "OkzKw2UVj20KVnvccaNd2A",
+                "children": []
+              },
+              {
+                "id": "137",
+                "parent": "97",
+                "text": "- Síndrome serotoninérgico",
+                "guid": "ZsOHrEFWcL0JmbbMMIVM9g",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "97",
+                "text": "- Otros toxidromes",
+                "guid": "XE7sjBjlnY1D5-9mAeq82w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "parent": "96",
+            "text": "### Medicaciones",
+            "guid": "I8rxIRc2L00ELAmbVphVxg",
+            "children": [
+              {
+                "id": "140",
+                "parent": "139",
+                "text": "- Anticolinérgicos",
+                "guid": "HcwZBS9bZxNDF7DVWg56Gg",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "139",
+                "text": "- Benzodiazepinas",
+                "guid": "dl_7nwyrdnp9nyB6TyTrOQ",
+                "children": []
+              },
+              {
+                "id": "142",
+                "parent": "139",
+                "text": "- Opioides",
+                "guid": "cr4FLzo8QqkvoIaXFGROHg",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "139",
+                "text": "- Antihistamínicos",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "139",
+                "text": "- Antiepilépticos",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "139",
+                "text": "- Relajantes musculares",
+                "guid": "CbMjcSMRTYZpDzSfQ__uNA",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "139",
+                "text": "- Agonistas dopaminérgicos",
+                "guid": "CCbc83NlsHs1o0wMbupknw",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "139",
+                "text": "- Esteroides",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "139",
+                "text": "- Antiinflamatorios no esteroideos",
+                "guid": "NLwhOD89Atgfb7GVEQsNxA",
+                "children": []
+              },
+              {
+                "id": "149",
+                "parent": "139",
+                "text": "- Fluoroquinolonas",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "139",
+                "text": "- Cefalosporinas",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "151",
+                "parent": "139",
+                "text": "- Beta bloqueantes",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "152",
+                "parent": "139",
+                "text": "- Digitálicos",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "153",
+                "parent": "139",
+                "text": "- Litio",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "139",
+                "text": "- Inhibidores de monoamino oxidasa",
+                "guid": "WCKgZWNXoPsS9cqge-2Rhw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "155",
+            "parent": "96",
+            "text": "###\nDesencadenantes\nambientales",
+            "guid": "db8U2xNtQFBrdEP_PDxQKg",
+            "children": [
+              {
+                "id": "156",
+                "parent": "155",
+                "text": "- Catéteres urinarios",
+                "guid": "eo3QSRch1DtShedNGFnpTg",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "155",
+                "text": "- Contenciones",
+                "guid": "Rn07ThWdmCJyaGNpPN027Q",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "155",
+                "text": "- Privación de sueño",
+                "guid": "IkkOnHAHg-MMAiImFQcTzA",
+                "children": []
+              },
+              {
+                "id": "159",
+                "parent": "155",
+                "text": "- Evaluaciones neurológicas frecuentes",
+                "guid": "KkPGjDuiqL0pa2HqM_bp_Q",
+                "children": []
+              },
+              {
+                "id": "160",
+                "parent": "155",
+                "text": "- Control de signos vitales",
+                "guid": "XrP2QxJ6lol39tgxZtrTNw",
+                "children": []
+              },
+              {
+                "id": "161",
+                "parent": "155",
+                "text": "- Alarmas constantes",
+                "guid": "BeBHBC2aJD1VxTfWOpxoPA",
+                "children": []
+              },
+              {
+                "id": "162",
+                "parent": "155",
+                "text": "- Procedimientos múltiples",
+                "guid": "bNcnFnU06WxLp3YARPnHew",
+                "children": []
+              },
+              {
+                "id": "163",
+                "parent": "155",
+                "text": "- Cirugías",
+                "guid": "WIyKZ16dQKBA51kCUxpasA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "164",
+        "parent": "0",
+        "text": "##\nPresentación\nclínica",
+        "guid": "c5X1Kj41Xr1mczn1a-R9-g",
+        "children": [
+          {
+            "id": "165",
+            "parent": "164",
+            "text": "- Manifestaciones variables, espectro de síntomas",
+            "guid": "KQrYcl3cp2h5GYcXS1PnDw",
+            "children": []
+          },
+          {
+            "id": "166",
+            "parent": "164",
+            "text": "- Formas de\npresentación:",
+            "guid": "TeQrSwUbqT5gWvrbeCfx2A",
+            "children": [
+              {
+                "id": "167",
+                "parent": "166",
+                "text": "- Delirium\nhipoactivo:",
+                "guid": "QL5R-wnGXMUsHtvVH3JIPw",
+                "children": [
+                  {
+                    "id": "168",
+                    "parent": "167",
+                    "text": "- Actividad psicomotora reducida",
+                    "guid": "HEDzTiQVtAcGTRt2IiE6Ug",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "167",
+                    "text": "- Pacientes letárgicos, retraídos o abúlicos",
+                    "guid": "Ua_YRFwSU0xcvaKOPob_Wg",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "167",
+                    "text": "- Frecuentemente pasado por alto",
+                    "guid": "UUc8uChlGI4DgMbWKdPHIA",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "167",
+                    "text": "- Asociado con peor pronóstico",
+                    "guid": "BwJZL0RoH9h87iHQfMFuCg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "172",
+                "parent": "166",
+                "text": "- Delirium\nhiperactivo:",
+                "guid": "V9VgKGhiZc84_b40AOA4mw",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "- Agitación",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "172",
+                    "text": "- Combatividad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "172",
+                    "text": "- Vocalización alta",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "176",
+                    "parent": "172",
+                    "text": "- Comportamiento agresivo",
+                    "guid": "Rj8NNzIXRUxMNB-qFCM4gw",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "172",
+                    "text": "- Alucinaciones",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "172",
+                    "text": "- Impulsividad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "179",
+                    "parent": "172",
+                    "text": "- Inquietud",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "180",
+                "parent": "166",
+                "text": "- Delirium mixto (hipoactivo/hiperactivo):",
+                "guid": "NzLuiiyPGoUMSypbd_FAhQ",
+                "children": [
+                  {
+                    "id": "181",
+                    "parent": "180",
+                    "text": "- Fluctuación entre síntomas mencionados",
+                    "guid": "NlV3SjhqBjAXY4jEUpZqmA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "182",
+            "parent": "164",
+            "text": "- En UCI:",
+            "guid": "XH-6Nx2wpDp0t6TqLi-SfA",
+            "children": [
+              {
+                "id": "183",
+                "parent": "182",
+                "text": "- Hipoactivo o mixto son más comunes",
+                "guid": "ecL3h1F1R3hstpHWSwo0Pw",
+                "children": []
+              },
+              {
+                "id": "184",
+                "parent": "182",
+                "text": "- Representan >90% de los casos",
+                "guid": "edpgBnA3WKx03ftfANy5NQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "185",
+        "parent": "0",
+        "text": "## Diagnóstico",
+        "guid": "U5SbRFetC6oqVWcALumEww",
+        "children": [
+          {
+            "id": "186",
+            "parent": "185",
+            "text": "- Uso de herramientas estandarizadas validadas crucial para detección",
+            "guid": "NJ94hXHMHTB9nidADHTYrQ",
+            "children": []
+          },
+          {
+            "id": "187",
+            "parent": "185",
+            "text": "- Herramientas\nrecomendadas:",
+            "guid": "Wi6C_zab5XQNVRFIIG2QNw",
+            "children": [
+              {
+                "id": "188",
+                "parent": "187",
+                "text": "- CAM-ICU (Confusion\nAssessment Method for ICU)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "189",
+                    "parent": "188",
+                    "text": "- Implementación rutinaria para todo paciente en UCI",
+                    "guid": "aLMqwFmJMPI0kMi6H-YZSg",
+                    "children": []
+                  },
+                  {
+                    "id": "190",
+                    "parent": "188",
+                    "text": "- Excepto pacientes con puntuación RASS <3 (profundamente sedados)",
+                    "guid": "BhhLd0Db8xUX11nQPG3CwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "191",
+                    "parent": "188",
+                    "text": "- Reduce casos no reconocidos",
+                    "guid": "eUX5RS864pQPBC1ZVcWzfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "192",
+                    "parent": "188",
+                    "text": "- Toma solo 2-5 minutos completar la evaluación",
+                    "guid": "TOuGzwO70kMD9UX5Rq5-Vg",
+                    "children": []
+                  },
+                  {
+                    "id": "193",
+                    "parent": "188",
+                    "text": "- Puntuación dicotómica",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "194",
+                "parent": "187",
+                "text": "- ICDSC (Intensive Care\nDelirium Screening Checklist)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "195",
+                    "parent": "194",
+                    "text": "- Escala ordinal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "196",
+                    "parent": "194",
+                    "text": "- Puede medir gravedad del delirium",
+                    "guid": "VTEZu3Cr188RuLKVTwt5wg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "197",
+                "parent": "187",
+                "text": "- CAM-ICU-7",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "198",
+                    "parent": "197",
+                    "text": "- Modificación del CAM-ICU",
+                    "guid": "YOMwfAaWrfVP6DL3FYKpAQ",
+                    "children": []
+                  },
+                  {
+                    "id": "199",
+                    "parent": "197",
+                    "text": "- Proporciona información sobre gravedad",
+                    "guid": "eGLLJU2GWjch94GuUpFOJA",
+                    "children": []
+                  },
+                  {
+                    "id": "200",
+                    "parent": "197",
+                    "text": "- Buena correlación con ICDSC",
+                    "guid": "BCI_rC9Mkvdy_t5bbNVqbA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "201",
+            "parent": "185",
+            "text": "- Problemática:",
+            "guid": "CNXD6SePpxUMu4O3Du4PYQ",
+            "children": [
+              {
+                "id": "202",
+                "parent": "201",
+                "text": "- Cribado sistemático deficiente en muchas UCI",
+                "guid": "aGuaKiSS3YdLW9IiYbGTcA",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "201",
+                "text": "- Enfermeras encuentran desafiante diagnóstico en pacientes intubados/sedados",
+                "guid": "U83AG1pf_3w3d0btILlG6g",
+                "children": []
+              },
+              {
+                "id": "204",
+                "parent": "201",
+                "text": "- Sin herramientas validadas, delirium frecuentemente pasa desapercibido",
+                "guid": "XhvRvztsjOZnZ8VAM0zrew",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "parent": "185",
+            "text": "- Recomendación:",
+            "guid": "LBhktXkgd9YCWGU9DPuVMQ",
+            "children": [
+              {
+                "id": "206",
+                "parent": "205",
+                "text": "- Cribado diario (idealmente cada turno de enfermería)",
+                "guid": "f7cly1JAmDQifj4yeBnw8A",
+                "children": []
+              },
+              {
+                "id": "207",
+                "parent": "205",
+                "text": "- Diagnósticos perdidos conducen a falta de tratamiento apropiado",
+                "guid": "H8bybER1v-FKqz8UI-kyGA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "208",
+        "parent": "0",
+        "text": "## Figura 1: Método de evaluación de\nconfusión en UCI (CAM-ICU)",
+        "guid": "FvZMuCijHQdcFMHmecaqMw",
+        "children": [
+          {
+            "id": "209",
+            "parent": "208",
+            "text": "### Algoritmo de\nevaluación CAM-ICU",
+            "guid": "c8JS2D2qHXAQvpyEfJgWwQ",
+            "children": [
+              {
+                "id": "210",
+                "parent": "209",
+                "text": "- Cambio agudo en estado mental o estado\nmental fluctuante en últimas 24 horas",
+                "guid": "ZTnEhR16IDsLhiYiTaVesA",
+                "children": [
+                  {
+                    "id": "211",
+                    "parent": "210",
+                    "text": "- No → No Delirium, Repetir CAM-ICU en 24 horas",
+                    "guid": "MUH3wWbOOQ02lATID13JgA",
+                    "children": []
+                  },
+                  {
+                    "id": "212",
+                    "parent": "210",
+                    "text": "- Sí → Continuar evaluación",
+                    "guid": "IjrF8x37yglCqrT7TlMqqA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "213",
+                "parent": "209",
+                "text": "- \"Apriete mi mano cuando diga la letra 'A'\"",
+                "guid": "Qgz9wlbh-EUvVvIgFdq93g",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "209",
+                "text": "- Leer las siguientes letras: \"SAVEAHAART\"",
+                "guid": "FxxB30UDGjhbTr_aFtNnqg",
+                "children": [
+                  {
+                    "id": "215",
+                    "parent": "214",
+                    "text": "- Si >3 errores → Continuar evaluación",
+                    "guid": "F0OybX3M_gwO7ViaNwqk2Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "216",
+                "parent": "209",
+                "text": "- Nivel de\nconciencia alterado",
+                "guid": "QkK97VmYl65a89bxNgUQxQ",
+                "children": [
+                  {
+                    "id": "217",
+                    "parent": "216",
+                    "text": "- Realizar RASS",
+                    "guid": "F0K1Hmuyc3UynSeHfHx5pA",
+                    "children": []
+                  },
+                  {
+                    "id": "218",
+                    "parent": "216",
+                    "text": "- Si RASS es distinto de 0 → Delirium Presente",
+                    "guid": "CSyTsT4jTalKIdhUSzmRcw",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "216",
+                    "text": "- Si RASS es 0 → Continuar evaluación",
+                    "guid": "FQVF7nl4ynRhFE9RRkc9rw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "220",
+                "parent": "209",
+                "text": "- Pensamiento\ndesorganizado",
+                "guid": "YEcDgReoVBpVpQcwAoHJdA",
+                "children": [
+                  {
+                    "id": "221",
+                    "parent": "220",
+                    "text": "- Hacer las siguientes\npreguntas:",
+                    "guid": "NaQeIxhPvCtQ1PQcTMBgAg",
+                    "children": [
+                      {
+                        "id": "222",
+                        "parent": "221",
+                        "text": "- ¿Flotará una piedra en el agua?",
+                        "guid": "XVLWZCwjs_Zjk8esdJaI0Q",
+                        "children": []
+                      },
+                      {
+                        "id": "223",
+                        "parent": "221",
+                        "text": "- ¿Hay peces en el mar?",
+                        "guid": "KfCyA3KBIEYroS2qbDNv8A",
+                        "children": []
+                      },
+                      {
+                        "id": "224",
+                        "parent": "221",
+                        "text": "- ¿Pesa más 1 libra que 2 libras?",
+                        "guid": "TBm39AaVBJsiOIC2Y1xtEw",
+                        "children": []
+                      },
+                      {
+                        "id": "225",
+                        "parent": "221",
+                        "text": "- ¿Puede usar un martillo para clavar un clavo?",
+                        "guid": "ckd4EFTVqD1f2Oa3e3QLwQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "226",
+                    "parent": "220",
+                    "text": "- Si >1 error → Delirium Presente",
+                    "guid": "Evj15in6vwtGrZ01J_471Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "227",
+                "parent": "209",
+                "text": "- Prueba de capacidad\npara seguir órdenes:",
+                "guid": "I3OJfyfB7IZuRXmEA7qNAA",
+                "children": [
+                  {
+                    "id": "228",
+                    "parent": "227",
+                    "text": "- Muéstreme dos dedos",
+                    "guid": "P2pAoEPqgLQGPFZ0dQ5eww",
+                    "children": []
+                  },
+                  {
+                    "id": "229",
+                    "parent": "227",
+                    "text": "- Haga lo mismo con la otra mano",
+                    "guid": "XDo84FcRSpBBzr7FOY0TRA",
+                    "children": []
+                  },
+                  {
+                    "id": "230",
+                    "parent": "227",
+                    "text": "- Si <2 errores → No Delirium, Repetir CAM-ICU en 24 horas",
+                    "guid": "AzT-hyVihnEuI5wVLSWwig",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "231",
+        "parent": "0",
+        "text": "## Tabla 2: Escala de sedación-agitación de Richmond\n(RASS) para la evaluación de la profundidad de sedación",
+        "guid": "DqEaTnqsbIV_O_CmJZd0kw",
+        "children": [
+          {
+            "id": "232",
+            "parent": "231",
+            "text": "- +4: Muy combativo, violento, peligro para el personal",
+            "guid": "F-Omt1nEyb8ZWSB6Y_1erA",
+            "children": []
+          },
+          {
+            "id": "233",
+            "parent": "231",
+            "text": "- +3: Tira de catéteres y tubos, agresivo",
+            "guid": "YFnOWjuRoTBHWcu_UqFGag",
+            "children": []
+          },
+          {
+            "id": "234",
+            "parent": "231",
+            "text": "- +2: Movimientos frecuentes sin propósito, lucha con ventilador",
+            "guid": "EGdJbScysnZOFVIsI2A_VA",
+            "children": []
+          },
+          {
+            "id": "235",
+            "parent": "231",
+            "text": "- +1: Ansioso pero movimientos no agresivos ni vigorosos",
+            "guid": "US1xgRTC72FLXnspdKD7AA",
+            "children": []
+          },
+          {
+            "id": "236",
+            "parent": "231",
+            "text": "- 0: Alerta y calmado",
+            "guid": "PITb5zmj9K14W4gAe-8ciA",
+            "children": []
+          },
+          {
+            "id": "237",
+            "parent": "231",
+            "text": "- -1: Despierta (contacto visual) por >10 s en respuesta a voz",
+            "guid": "fY51Yn6X3nRw_XtLWciyQg",
+            "children": []
+          },
+          {
+            "id": "238",
+            "parent": "231",
+            "text": "- -2: Despierta (contacto visual) por <10 s en respuesta a voz",
+            "guid": "VakpBDLMOhETVcWGWN4niw",
+            "children": []
+          },
+          {
+            "id": "239",
+            "parent": "231",
+            "text": "- -3: Apertura ocular o movimiento a voz sin contacto visual",
+            "guid": "WC7AgkF5YZsGA9gVcBJnOg",
+            "children": []
+          },
+          {
+            "id": "240",
+            "parent": "231",
+            "text": "- -4: No respuesta a voz, pero apertura ocular o movimiento a estimulación física",
+            "guid": "Gz4rWh9c-JBUD8Xme5f5tA",
+            "children": []
+          },
+          {
+            "id": "241",
+            "parent": "231",
+            "text": "- -5: Sin respuesta a voz o estimulación física",
+            "guid": "Wu6ZwBtpkaVOOUAea1XjLg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "242",
+        "parent": "0",
+        "text": "## Tratamiento: \nManejo médico/farmacológico",
+        "guid": "eap5eRuuC6hAXExsJ_h23Q",
+        "children": [
+          {
+            "id": "243",
+            "parent": "242",
+            "text": "- Desafíos por opciones\nfarmacológicas limitadas",
+            "guid": "QpxEGxxOkkoOtiKCE8m1nA",
+            "children": []
+          },
+          {
+            "id": "244",
+            "parent": "242",
+            "text": "- Evolución del\ntratamiento:",
+            "guid": "MRGBq1oUnasIarCcbZZdkw",
+            "children": [
+              {
+                "id": "245",
+                "parent": "244",
+                "text": "- Históricamente:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "246",
+                    "parent": "245",
+                    "text": "- Haloperidol como agente preferido (basado en estudio pequeño de 1978)",
+                    "guid": "E7iSWADGOJxphXobEUcHug",
+                    "children": []
+                  },
+                  {
+                    "id": "247",
+                    "parent": "245",
+                    "text": "- Recomendado por guías SCCM en 2002",
+                    "guid": "f14XEFqC9WZrD7n8VQdAFA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "248",
+                "parent": "244",
+                "text": "- Cambio de\nperspectiva:",
+                "guid": "I-0nVBJkyXB5BejSMTxWzA",
+                "children": [
+                  {
+                    "id": "249",
+                    "parent": "248",
+                    "text": "- Estudios posteriores: antipsicóticos de primera generación aumentan mortalidad en ancianos",
+                    "guid": "DU8vd35lf4It5WegZX3v-g",
+                    "children": []
+                  },
+                  {
+                    "id": "250",
+                    "parent": "248",
+                    "text": "- Ensayo controlado aleatorizado\n(142 pacientes ventilados):",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "251",
+                        "parent": "250",
+                        "text": "- Haloperidol IV vs. solución salina",
+                        "guid": "P97hHTPpP7VVkFc0Wx0Mdw",
+                        "children": []
+                      },
+                      {
+                        "id": "252",
+                        "parent": "250",
+                        "text": "- Sin diferencias en días libres de delirium, duración o supervivencia",
+                        "guid": "U0Y4RSmgHRpWtQYrLjTSBg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "253",
+                    "parent": "248",
+                    "text": "- Ensayo MIND USA:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "254",
+                        "parent": "253",
+                        "text": "- Comparación entre ziprasidona, haloperidol y placebo",
+                        "guid": "RQmuvyTuRkoZirU0B6Xy2g",
+                        "children": []
+                      },
+                      {
+                        "id": "255",
+                        "parent": "253",
+                        "text": "- Sin diferencias en días libres de delirium o supervivencia",
+                        "guid": "QTzYlChA17Ybb6h2ck5aQA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "256",
+                    "parent": "248",
+                    "text": "- Estudio en pacientes de hospicio:",
+                    "guid": "AlV1YSPaWRJf5LfTFg4HuQ",
+                    "children": [
+                      {
+                        "id": "257",
+                        "parent": "256",
+                        "text": "- Aumento de gravedad de síntomas en pacientes con antipsicóticos",
+                        "guid": "JKCRrklqMe4nVQ90I_6ovg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "258",
+            "parent": "242",
+            "text": "- Agentes\nalternativos:",
+            "guid": "EMpI8ybrUHIWukbGUKkqEA",
+            "children": [
+              {
+                "id": "259",
+                "parent": "258",
+                "text": "- Dexmedetomidina:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "260",
+                    "parent": "259",
+                    "text": "- 23% menor riesgo de delirium vs. midazolam",
+                    "guid": "WtSQKGxKnforxjaILhrIbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "261",
+                    "parent": "259",
+                    "text": "- Mitad de días con delirium vs. lorazepam",
+                    "guid": "Feq7FAJ7PLNcT5pzWvRp0w",
+                    "children": []
+                  },
+                  {
+                    "id": "262",
+                    "parent": "259",
+                    "text": "- Análisis Cochrane: posible reducción de duración de delirium, ventilación mecánica y estancia en UCI",
+                    "guid": "J2mC_XXaT6dimlytaKZbkg",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "259",
+                    "text": "- Sin diferencias en deterioro cognitivo a largo plazo o mortalidad",
+                    "guid": "HhsnXX4KBSNa9LXSIHCcvg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "264",
+                "parent": "258",
+                "text": "- Ketamina:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "265",
+                    "parent": "264",
+                    "text": "- Sin diferencia en incidencia de delirium vs. placebo",
+                    "guid": "IeReNTrZbaU2fqR4RoTv4w",
+                    "children": []
+                  },
+                  {
+                    "id": "266",
+                    "parent": "264",
+                    "text": "- Mayor incidencia de alucinaciones y pesadillas",
+                    "guid": "BEOfk13Ts-xqg5ihKDDG5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "267",
+            "parent": "242",
+            "text": "- Recomendaciones\nactuales (SCCM):",
+            "guid": "cDh9XGOJgXNZbR2zAQLGTw",
+            "children": [
+              {
+                "id": "268",
+                "parent": "267",
+                "text": "- Contra el uso rutinario de haloperidol o antipsicóticos atípicos",
+                "guid": "CnTR5nAnZHlRq_BgZUliDg",
+                "children": []
+              },
+              {
+                "id": "269",
+                "parent": "267",
+                "text": "- Contra el uso rutinario de dexmedetomidina, ketamina o antipsicóticos",
+                "guid": "XHICc31yJugTZCp7cly9hw",
+                "children": []
+              },
+              {
+                "id": "270",
+                "parent": "267",
+                "text": "- Para pacientes agitados con riesgo de lesión: dexmedetomidina puede ser agente preferido",
+                "guid": "f-1jm2-zxO9NUSdaJ1bmmQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "271",
+            "parent": "242",
+            "text": "- Conclusión: Ningún agente farmacológico ha demostrado efecto significativo en incidencia, duración o prevención del delirium",
+            "guid": "ZY4Uli_rhAcP_UIrA6k79A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "272",
+        "parent": "0",
+        "text": "## Manejo no\nfarmacológico",
+        "guid": "Tm5cmWaT8hwpEzA1MoZOdA",
+        "children": [
+          {
+            "id": "273",
+            "parent": "272",
+            "text": "- Estrategias de prevención\ncomo base del manejo:",
+            "guid": "LfWJKmrx9_0kGdiyT9nnXw",
+            "children": [
+              {
+                "id": "274",
+                "parent": "273",
+                "text": "- Limitación de factores de riesgo",
+                "guid": "JctlolqYfSoWXtdCKg8FNQ",
+                "children": []
+              },
+              {
+                "id": "275",
+                "parent": "273",
+                "text": "- Promoción de higiene del sueño óptima",
+                "guid": "OGwxFgDib-NSP8wcKKSucw",
+                "children": []
+              },
+              {
+                "id": "276",
+                "parent": "273",
+                "text": "- Enfoque juicioso de analgosedación",
+                "guid": "G9ROSXtTZSJUKiVLeEZQvQ",
+                "children": []
+              },
+              {
+                "id": "277",
+                "parent": "273",
+                "text": "- Evitar procedimientos invasivos innecesarios",
+                "guid": "ZGvxVyus6dApp3TCbuDDPQ",
+                "children": []
+              },
+              {
+                "id": "278",
+                "parent": "273",
+                "text": "- Facilitar movilización temprana",
+                "guid": "eMWMCmeOT8Zqow5EeLLvpg",
+                "children": []
+              },
+              {
+                "id": "279",
+                "parent": "273",
+                "text": "- Proporcionar reorientación frecuente",
+                "guid": "V0IUtTf0NZ8gCdY_PNApTA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "280",
+            "parent": "272",
+            "text": "- Paquete ABCDEF\n(enfoque integral validado):",
+            "guid": "Z9-5pjAHGGpAeWVAFdVC0Q",
+            "children": [
+              {
+                "id": "281",
+                "parent": "280",
+                "text": "- A: Evaluación del dolor (Assessment of pain)",
+                "guid": "GvkQZ2STPfJlryowQMR2CQ",
+                "children": []
+              },
+              {
+                "id": "282",
+                "parent": "280",
+                "text": "- B: Administración efectiva de analgesia y uso juicioso de sedación (Both spontaneous awakening trials and spontaneous breathing trials)",
+                "guid": "Pyu7HXwOAXNq03s-d5fsMw",
+                "children": []
+              },
+              {
+                "id": "283",
+                "parent": "280",
+                "text": "- C: Elección de analgesia y sedación (Choice of analgesia and sedation)",
+                "guid": "fPBxVj0TR1ogPJqmYVxirQ",
+                "children": []
+              },
+              {
+                "id": "284",
+                "parent": "280",
+                "text": "- D: Monitorización/manejo del delirium (Delirium monitoring/management)",
+                "guid": "aMAxKknkD2lQPSXqBJR_dA",
+                "children": []
+              },
+              {
+                "id": "285",
+                "parent": "280",
+                "text": "- E: Ejercicio/movilidad temprana (Early exercise/mobility)",
+                "guid": "RTd0iyRnSzV82tAxPf0Alg",
+                "children": []
+              },
+              {
+                "id": "286",
+                "parent": "280",
+                "text": "- F: Participación y empoderamiento familiar (Family engagement and empowerment)",
+                "guid": "C_Wa_Gd93nU2r_A8YzevsQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "287",
+            "parent": "272",
+            "text": "- Implementación:",
+            "guid": "H3IUFFa5xnsgB9j9B1HNuw",
+            "children": [
+              {
+                "id": "288",
+                "parent": "287",
+                "text": "- Requiere enfoque de equipo multidisciplinario",
+                "guid": "BsDe5WCBPj0dJxCMIbnvTA",
+                "children": []
+              },
+              {
+                "id": "289",
+                "parent": "287",
+                "text": "- Involucra médicos, enfermeras, fisioterapeutas, terapeutas respiratorios, farmacéuticos y otros proveedores",
+                "guid": "RRR8MALWOrxifmVVBEA3TQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "290",
+            "parent": "272",
+            "text": "- Evidencia:",
+            "guid": "fuQ8L01R4JN72COAe9Sthg",
+            "children": [
+              {
+                "id": "291",
+                "parent": "290",
+                "text": "- Cumplimiento asociado con reducción de mortalidad",
+                "guid": "CmUn7RwUviddMRAzcyVZGA",
+                "children": []
+              },
+              {
+                "id": "292",
+                "parent": "290",
+                "text": "- Aumento de días libres de delirium",
+                "guid": "ZfjNkC1uNh53udiMKzBCGw",
+                "children": []
+              },
+              {
+                "id": "293",
+                "parent": "290",
+                "text": "- Impacto beneficioso no completamente consistente entre diferentes estudios",
+                "guid": "UdWBU3SUqL1pLUKxXcscTw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "294",
+        "parent": "0",
+        "text": "### Algoritmo de manejo",
+        "guid": "XBKHMh_dMu1BAswBe4SbRw",
+        "children": [
+          {
+            "id": "295",
+            "parent": "294",
+            "text": "- Paciente críticamente enfermo",
+            "guid": "dpb5aGEKpP4C1mkCfVfYTQ",
+            "children": []
+          },
+          {
+            "id": "296",
+            "parent": "294",
+            "text": "- Cribado diario con escala CAM-ICU",
+            "guid": "QYvjPB_9eY4fEceZBqBfbA",
+            "children": [
+              {
+                "id": "297",
+                "parent": "296",
+                "text": "(durante periodos sin sedación o con sedación RASS>-3)",
+                "guid": "ItO0SgGQLO4K4Ja5Ibfweg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "298",
+            "parent": "294",
+            "text": "- Si delirium ausente:",
+            "guid": "KCvkUUQmZxMz9ogMegFlpQ",
+            "children": [
+              {
+                "id": "299",
+                "parent": "298",
+                "text": "- Continuar evaluación diaria con CAM-ICU",
+                "guid": "OLsP0B0jyr1XzIH0FM2XAg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "300",
+            "parent": "294",
+            "text": "- Si delirium\npresente:",
+            "guid": "PQD9qxjPTfUQUjJJM5f3Ew",
+            "children": [
+              {
+                "id": "301",
+                "parent": "300",
+                "text": "- Explorar factores de\nriesgo predisponentes:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "302",
+                    "parent": "301",
+                    "text": "- Edad avanzada",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "303",
+                    "parent": "301",
+                    "text": "- Deterioro cognitivo preexistente",
+                    "guid": "edny9BMom0sw789hO2XWMA",
+                    "children": []
+                  },
+                  {
+                    "id": "304",
+                    "parent": "301",
+                    "text": "- Comorbilidades",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "305",
+                    "parent": "301",
+                    "text": "- Alcohol",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "306",
+                    "parent": "301",
+                    "text": "- Tabaquismo",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "307",
+                "parent": "300",
+                "text": "- Evaluar etiología\nsubyacente:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "308",
+                    "parent": "307",
+                    "text": "- Responder preguntas:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "309",
+                        "parent": "308",
+                        "text": "- ¿Cuál es el diagnóstico subyacente?",
+                        "guid": "MyYU2VABlvpCBjWcVfnJJA",
+                        "children": []
+                      },
+                      {
+                        "id": "310",
+                        "parent": "308",
+                        "text": "- ¿Necesita el paciente más pruebas (análisis, neuroimagen, punción lumbar)?",
+                        "guid": "UZHD6UzmzFV3sbmeIHPRag",
+                        "children": []
+                      },
+                      {
+                        "id": "311",
+                        "parent": "308",
+                        "text": "- ¿Existe preocupación por convulsiones o estado epiléptico no convulsivo?",
+                        "guid": "U5-GjhU-V555uwbZdmz-7w",
+                        "children": []
+                      },
+                      {
+                        "id": "312",
+                        "parent": "308",
+                        "text": "- ¿Sería útil un EEG?",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "313",
+                        "parent": "308",
+                        "text": "- ¿Hay medicamentos que deban reducirse o suspenderse?",
+                        "guid": "D_wF0UYnlWB_M0TfOCfqIw",
+                        "children": []
+                      },
+                      {
+                        "id": "314",
+                        "parent": "308",
+                        "text": "- ¿Necesita el paciente tratamiento para agitación?",
+                        "guid": "Ck38czMpzOsyKU_IQwkMQw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "315",
+                "parent": "300",
+                "text": "- Explorar factores de riesgo\nprecipitantes modificables:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "316",
+                    "parent": "315",
+                    "text": "- Fármacos perjudiciales:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "317",
+                        "parent": "316",
+                        "text": "- Sedantes",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "318",
+                        "parent": "316",
+                        "text": "- Opioides",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "319",
+                        "parent": "316",
+                        "text": "- Anticolinérgicos",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "320",
+                    "parent": "315",
+                    "text": "- Ambiente:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "321",
+                        "parent": "320",
+                        "text": "- Ruido",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "322",
+                        "parent": "320",
+                        "text": "- Déficits auditivos",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "323",
+                        "parent": "320",
+                        "text": "- Déficits visuales",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "324",
+                    "parent": "315",
+                    "text": "- Inmovilidad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "325",
+                    "parent": "315",
+                    "text": "- Ventilación mecánica prolongada",
+                    "guid": "IsUfsmgo1Y9A5oxnHJ8Spg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "326",
+                "parent": "300",
+                "text": "- Aplicar paquete ABCDEF",
+                "guid": "e1Fw23HWW8hYBOjWLneFtA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "327",
+        "parent": "0",
+        "text": "## Implicaciones\npronósticas",
+        "guid": "XxxynC_3qOR9iJJqUrJnxw",
+        "children": [
+          {
+            "id": "328",
+            "parent": "327",
+            "text": "- Asociación con\nresultados adversos:",
+            "guid": "QdfywxoLHnIEcU7YE2m2rA",
+            "children": [
+              {
+                "id": "329",
+                "parent": "328",
+                "text": "- Mayor mortalidad durante hospitalización y hasta 1 año post-alta",
+                "guid": "ZvHqx3wjCHYz3YgWOpFxVQ",
+                "children": []
+              },
+              {
+                "id": "330",
+                "parent": "328",
+                "text": "- Mayor riesgo de mortalidad intrahospitalaria en pacientes que desarrollan delirium en primeras 24h",
+                "guid": "EWFgFC2YjvAw_nBEIV1l5g",
+                "children": []
+              },
+              {
+                "id": "331",
+                "parent": "328",
+                "text": "- Ventilación mecánica prolongada y desafíos en destete",
+                "guid": "c8AkUDAxtSRZhVAJfg4gxA",
+                "children": []
+              },
+              {
+                "id": "332",
+                "parent": "328",
+                "text": "- Riesgo aumentado de desarrollar demencia en el año siguiente",
+                "guid": "Y1uCDwuun9FBFy0HM6kZuA",
+                "children": []
+              },
+              {
+                "id": "333",
+                "parent": "328",
+                "text": "- Mortalidad duplicada en pacientes >65 años vs. quienes no desarrollan delirium",
+                "guid": "FaRxjRjt0E1A968MOGmRPw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "334",
+            "parent": "327",
+            "text": "- Deterioro cognitivo:",
+            "guid": "ARal3QHeO3RVCKPlfGgWuA",
+            "children": [
+              {
+                "id": "335",
+                "parent": "334",
+                "text": "- >70% de sobrevivientes de UCI con delirium presentan deterioro cognitivo a los 3 y 12 meses",
+                "guid": "c7SXPC0NjLsq35xsNYyJ_w",
+                "children": [
+                  {
+                    "id": "336",
+                    "parent": "335",
+                    "text": "- Proporción significativa con deterioro moderado a severo",
+                    "guid": "KmxXshmad45eMrm2Hix8Ag",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "337",
+                "parent": "334",
+                "text": "- Pacientes con Alzheimer preexistente: peor trayectoria de deterioro cognitivo si desarrollan delirium",
+                "guid": "RxirLS9Q60VI9kCrLgqV9A",
+                "children": []
+              },
+              {
+                "id": "338",
+                "parent": "334",
+                "text": "- Neuroimagen: mayor atrofia cerebral y enfermedad más severa de sustancia blanca",
+                "guid": "K3Pzu3zTyMJonAdKPNVT0A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "339",
+            "parent": "327",
+            "text": "- Concepto erróneo: delirium como condición transitoria y benigna",
+            "guid": "Scwssje4Cb8cOpzGLSeuwg",
+            "children": []
+          },
+          {
+            "id": "340",
+            "parent": "327",
+            "text": "- Carga\nsocioeconómica:",
+            "guid": "Q2apkF1Ryc5g0Mh6WQsbHQ",
+            "children": [
+              {
+                "id": "341",
+                "parent": "340",
+                "text": "- Estancias más prolongadas en UCI y hospital",
+                "guid": "dj-aGyHId4cRdKxdd1Y_-A",
+                "children": []
+              },
+              {
+                "id": "342",
+                "parent": "340",
+                "text": "- Mayor probabilidad de alta a centros de enfermería especializada",
+                "guid": "I6ay-2Z9UEJzvlawF1tKNw",
+                "children": []
+              },
+              {
+                "id": "343",
+                "parent": "340",
+                "text": "- Mayores costos de atención médica",
+                "guid": "E4rc_h6d8x1M59Q3WqOIKw",
+                "children": []
+              },
+              {
+                "id": "344",
+                "parent": "340",
+                "text": "- Menor probabilidad de retorno laboral post-alta",
+                "guid": "Te7eYhXeFOIIrh4geWLSHQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "345",
+            "parent": "327",
+            "text": "- Impacto\npsicológico:",
+            "guid": "ErHdpHFKJWo2OCXtPR41Vg",
+            "children": [
+              {
+                "id": "346",
+                "parent": "345",
+                "text": "- >30% de sobrevivientes reportan síntomas depresivos a los 3 meses",
+                "guid": "CuSc-BRq36NbSrFZVLDJqw",
+                "children": []
+              },
+              {
+                "id": "347",
+                "parent": "345",
+                "text": "- 7% reciben diagnóstico de trastorno de estrés postraumático (TEPT)",
+                "guid": "TCLpYneFTh8B2HhtD4mS8g",
+                "children": []
+              },
+              {
+                "id": "348",
+                "parent": "345",
+                "text": "- Diagnósticos preexistentes (TEPT militar, ansiedad, depresión) asociados con mayor probabilidad de TEPT relacionado con UCI",
+                "guid": "VNcX7WKpQOdolK4QSxayCQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "349",
+        "parent": "0",
+        "text": "## Resumen: Qué recordar junto\na la cama del paciente",
+        "guid": "bi0HoWP7zF8-luXBQcGi5g",
+        "children": [
+          {
+            "id": "350",
+            "parent": "349",
+            "text": "- Delirium en UCI:",
+            "guid": "BHG4bnoJWm1CbPIBKBhraQ",
+            "children": [
+              {
+                "id": "351",
+                "parent": "350",
+                "text": "- Complicación prevalente y severa de enfermedad crítica",
+                "guid": "YIaqrzYrSLI_c7WhdBGHrQ",
+                "children": []
+              },
+              {
+                "id": "352",
+                "parent": "350",
+                "text": "- Asociado con:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "353",
+                    "parent": "352",
+                    "text": "- Mayor morbilidad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "354",
+                    "parent": "352",
+                    "text": "- Ventilación mecánica prolongada",
+                    "guid": "VMk7zwxbidhOtQ_ZIrgaMQ",
+                    "children": []
+                  },
+                  {
+                    "id": "355",
+                    "parent": "352",
+                    "text": "- Estancias hospitalarias extendidas",
+                    "guid": "IjmeuldjLfkcGuxONOt8Xw",
+                    "children": []
+                  },
+                  {
+                    "id": "356",
+                    "parent": "352",
+                    "text": "- Deterioro cognitivo exacerbado",
+                    "guid": "SK1TY1JTEjxyCbG1U5HwWw",
+                    "children": []
+                  },
+                  {
+                    "id": "357",
+                    "parent": "352",
+                    "text": "- Mayores tasas de mortalidad",
+                    "guid": "Zr3x301UYw4oQroGMuDbQg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "358",
+                "parent": "350",
+                "text": "- A menudo no detectado y subdiagnosticado",
+                "guid": "RNmxLiobMnNCam40GbDJGw",
+                "children": []
+              },
+              {
+                "id": "359",
+                "parent": "350",
+                "text": "- Mayoría de casos\nson hipoactivos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "360",
+                    "parent": "359",
+                    "text": "- Aunque el delirium hiperactivo es más obvio",
+                    "guid": "DMRzWyr_HERkx3skETYryQ",
+                    "children": []
+                  },
+                  {
+                    "id": "361",
+                    "parent": "359",
+                    "text": "- El hipoactivo puede tener peor pronóstico",
+                    "guid": "JQh2sSc0bSY5TpczBY8hYQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "362",
+            "parent": "349",
+            "text": "- Al detectar delirium, investigar\netiología subyacente:",
+            "guid": "XV-12HjCTNR5oKkOMijxpw",
+            "children": [
+              {
+                "id": "363",
+                "parent": "362",
+                "text": "- Preguntas clave:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "364",
+                    "parent": "363",
+                    "text": "- ¿Se conoce el diagnóstico subyacente?",
+                    "guid": "BR3WrEhVuOdU4QvYJ1d1Zg",
+                    "children": []
+                  },
+                  {
+                    "id": "365",
+                    "parent": "363",
+                    "text": "- ¿Se necesitan pruebas adicionales? (análisis, neuroimagen, EEG, punción lumbar)",
+                    "guid": "H7jm4HD7-CZcQvHFaGY6Qw",
+                    "children": []
+                  },
+                  {
+                    "id": "366",
+                    "parent": "363",
+                    "text": "- ¿Existen medicamentos potencialmente dañinos para reducir o suspender?",
+                    "guid": "Q08KYk5Mo3s7-CqfKgz8Qg",
+                    "children": []
+                  },
+                  {
+                    "id": "367",
+                    "parent": "363",
+                    "text": "- ¿Hay factores exacerbantes? (catéteres, privación de sueño, inmovilización, falta de audífonos o gafas)",
+                    "guid": "G6EGiWQ65KVc7deEYHq3tw",
+                    "children": []
+                  },
+                  {
+                    "id": "368",
+                    "parent": "363",
+                    "text": "- ¿Necesita tratamiento para agitación?",
+                    "guid": "DlYXGR9YRbh6K4DTGxqKdA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "369",
+            "parent": "349",
+            "text": "- Implementación:",
+            "guid": "Sldh_V7y-_csULY9b1_Yrg",
+            "children": [
+              {
+                "id": "370",
+                "parent": "369",
+                "text": "- Equipo multidisciplinario (médicos, enfermeras, fisioterapeutas, terapeutas respiratorios)",
+                "guid": "BidpHWWfTXB07voPY4ce9Q",
+                "children": []
+              },
+              {
+                "id": "371",
+                "parent": "369",
+                "text": "- Paquete ABCDEF",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "372",
+                "parent": "369",
+                "text": "- Intervenciones no\nfarmacológicas simples:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "373",
+                    "parent": "372",
+                    "text": "- Reorientación frecuente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "374",
+                    "parent": "372",
+                    "text": "- Asegurar buena calidad de sueño",
+                    "guid": "XmGaRG6Pox4VsBCcY39w8A",
+                    "children": []
+                  },
+                  {
+                    "id": "375",
+                    "parent": "372",
+                    "text": "- Proporcionar audífonos o gafas",
+                    "guid": "NuVcBWqRHHQK1uZXVp5C5g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "376",
+                "parent": "369",
+                "text": "- Minimizar sedación, especialmente benzodiazepinas",
+                "guid": "W40Um2cZ2Bw_BH0pHtwe_Q",
+                "children": []
+              },
+              {
+                "id": "377",
+                "parent": "369",
+                "text": "- Antipsicóticos solo para agitación manifiesta (no tratan el delirium per se)",
+                "guid": "NWZ7l3r8p8hI6Rs_UQeCIQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "378",
+        "parent": "0",
+        "text": "## Puntos clave de\natención clínica",
+        "guid": "",
+        "children": [
+          {
+            "id": "379",
+            "parent": "378",
+            "text": "- Considerar delirium en UCI en la práctica diaria",
+            "guid": "XzeMbiXW8sMxgjnYbY2jhw",
+            "children": []
+          },
+          {
+            "id": "380",
+            "parent": "378",
+            "text": "- Utilizar herramientas estandarizadas validadas para detección temprana",
+            "guid": "RS84fCutuqsIqC37D4aaeQ",
+            "children": []
+          },
+          {
+            "id": "381",
+            "parent": "378",
+            "text": "- Investigar causas potenciales y eliminar factores iatrogénicos",
+            "guid": "CqC2ozT45Dh-5nMnEMgfwA",
+            "children": []
+          },
+          {
+            "id": "382",
+            "parent": "378",
+            "text": "- Tratar la enfermedad crítica subyacente",
+            "guid": "GpgxqXPVbTd0Tz62ePnL7Q",
+            "children": []
+          },
+          {
+            "id": "383",
+            "parent": "378",
+            "text": "- Reducir factores ambientales que puedan exacerbar el delirium",
+            "guid": "YmUQVQn_T1JceTzeGUpsWg",
+            "children": []
+          },
+          {
+            "id": "384",
+            "parent": "378",
+            "text": "- Fomentar movilización temprana",
+            "guid": "dJBrx2dQIzVv6K9AUB2AYg",
+            "children": []
+          },
+          {
+            "id": "385",
+            "parent": "378",
+            "text": "- Priorizar calidad de sueño",
+            "guid": "Tmn7US7tLGpu-Z9fA9B26Q",
+            "children": []
+          },
+          {
+            "id": "386",
+            "parent": "378",
+            "text": "- Limitar uso de sedantes, antipsicóticos y opioides cuando sea posible",
+            "guid": "KenUMjfiup9U1_kKCSFgoA",
+            "children": []
+          },
+          {
+            "id": "387",
+            "parent": "378",
+            "text": "- Implementar paquete ABCDEF",
+            "guid": "XbmtYgZaMuJ2rwQnIujl3g",
+            "children": []
+          },
+          {
+            "id": "388",
+            "parent": "378",
+            "text": "- Involucrar equipos multidisciplinarios para atención integral",
+            "guid": "Mgftjn9XMiIyb4BXPKikMQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "389",
+        "parent": "0",
+        "text": "## Figura 3: Paquete ABCDEF para\nmanejo del delirium en UCI",
+        "guid": "",
+        "children": [
+          {
+            "id": "390",
+            "parent": "389",
+            "text": "- A: Evaluar, prevenir y manejar el dolor (Assess, prevent and manage pain)",
+            "guid": "NFAWWzFV839NcMPxTuhIBA",
+            "children": []
+          },
+          {
+            "id": "391",
+            "parent": "389",
+            "text": "- B: Pruebas de despertar espontáneo (SAT) y respiración espontánea (SBT) (Both SAT and SBT)",
+            "guid": "JStgtkHAAqdH4hPxB5BxCw",
+            "children": []
+          },
+          {
+            "id": "392",
+            "parent": "389",
+            "text": "- C: Elección de analgesia y sedación (Choice of analgesia and sedation)",
+            "guid": "S79R-iRbUM8g2t1lQE-9wQ",
+            "children": []
+          },
+          {
+            "id": "393",
+            "parent": "389",
+            "text": "- D: Evaluar, prevenir y manejar el delirium (Delirium assess, prevent and manage)",
+            "guid": "C6t0BBDDjKYQbT4jWhVvVg",
+            "children": []
+          },
+          {
+            "id": "394",
+            "parent": "389",
+            "text": "- E: Movilidad temprana y ejercicio (Early mobility and exercise)",
+            "guid": "P7C5EH9m3YJd5eY_aZqNQg",
+            "children": []
+          },
+          {
+            "id": "395",
+            "parent": "389",
+            "text": "- F: Participación y empoderamiento familiar (Family engagement and empowerment)",
+            "guid": "N0mYITK930lyu-3jFQNFhA",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 396,
+  "relations": [],
+  "cross_references": [
+    {
+      "from_node": "348",
+      "reference": "UCI"
+    }
+  ],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "Paper. Delirium en UCI-2025-1",
+  "id": "map_1059",
+  "resolved_references": []
+}

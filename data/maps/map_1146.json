@@ -1,0 +1,1125 @@
+{
+  "title": "APLASIA ERITROCITARIA PURA",
+  "guid": "12E1379924C91D892A3814DC",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Cardiología/Williams. APLASIA ERITROCITARIA PURA-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "APLASIA\nERITROCITARIA PURA",
+    "guid": "TjWE5FGwVSE6D7bkZubfYw",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## DEFINICIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Anemia aislada secundaria a falla de eritropoyesis",
+            "guid": "YjtoC0VbOd5SdvhiFRCmnw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Hallazgos\ncardinales",
+            "guid": "B5Uzolp7br5k_dhQZczLSA",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "- Nivel bajo de hemoglobina",
+                "guid": "dBca33n3055JfOaSNgaeuw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "- Reticulocitopenia",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "- Falta o muy baja frecuencia de precursores eritroides en médula",
+                "guid": "XKnlCSNgIhRXDqpBOAjdVg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "## CLASIFICACIÓN",
+        "guid": "",
+        "children": [
+          {
+            "id": "8",
+            "parent": "7",
+            "text": "- Aplasia\neritrocitaria fetal",
+            "guid": "fpZPnHWwUcVjezoaLsr0-w",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "- Infección por Parvovirus B19 in utero",
+                "guid": "CJGJXghEV6NZAwnYVscOQw",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "- Heredada (anemia de Diamond-Blackfan)",
+                "guid": "WfSsxBMSwLw9re2mIXwHvg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "parent": "7",
+            "text": "- Adquirida",
+            "guid": "W6XtvlJuVdQXF-KQPeFVyQ",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "- Transitoria",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "- Infección aguda por parvovirus B19 en enfermedad hemolítica",
+                    "guid": "F8mPsmmO2vJS8fxpH17DVA",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "- Eritroblastopenia transitoria de la niñez",
+                    "guid": "RApJsDfv1LkFK46cOCFkjw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "11",
+                "text": "- Crónica",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "- Idiopática",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "- Leucemia de linfocitos granulares grandes",
+                    "guid": "MeeoV06odS9uKANKDpGNYQ",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "15",
+                    "text": "- Leucemia linfocítica crónica",
+                    "guid": "cgiXQ0U2rYtGmmq3cJ7m3w",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "15",
+                    "text": "- Enfermedades mieloides clonales (especialmente síndrome 5q)",
+                    "guid": "Oub_UCoVpNEfadvbQ3iIrw",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "15",
+                    "text": "- Infección persistente por parvovirus B19 en inmunodeficientes",
+                    "guid": "Mln8dHhs5bMaP5byDE6pOA",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "15",
+                    "text": "- Timoma",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "15",
+                    "text": "- Vasculopatías del colágeno",
+                    "guid": "C3-mb1fthJgtyrD2ZyWULg",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "15",
+                    "text": "- Post-trasplante de células madre",
+                    "guid": "KlvabETik4YlBun3QiVqHg",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "15",
+                    "text": "- Anticuerpos anti-ABO",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "15",
+                    "text": "- Inducida por fármacos",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "15",
+                    "text": "- Anticuerpos antieritropoyetina",
+                    "guid": "LnFueHf45mBhhC1zcnu4KA",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "15",
+                    "text": "- Embarazo",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "28",
+        "parent": "0",
+        "text": "## APLASIA ERITROCITARIA\nPURA CONSTITUCIONAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "29",
+            "parent": "28",
+            "text": "- También llamada anemia de Diamond-Blackfan",
+            "guid": "L-i7GmavvA8qnRy3YdBjcQ",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "28",
+            "text": "- Incidencia: 5 casos por millón de nacidos vivos",
+            "guid": "NVgxPhjFIAJwYfDSJ2DIgg",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "28",
+            "text": "- Herencia",
+            "guid": "XfvNjTb8W4oX_69hGOLM3g",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "- Autosómica dominante (mayoría)",
+                "guid": "YRIAWzdpizxcW1WNE2v80A",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "31",
+                "text": "- Autosómica recesiva (algunos casos familiares)",
+                "guid": "L9Zw73aa7H8fuqYIO1YXXw",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "31",
+                "text": "- Casos esporádicos (más frecuentes)",
+                "guid": "TohxF02FVv8ie6uNeORLhA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "parent": "28",
+            "text": "- Etiología genética\n(65% de casos)",
+            "guid": "EmfqhUeClYQ7CbWiQNlY_g",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "- Mutaciones RPS19 (25%)",
+                "guid": "P3t75RyN4xUzVREmb2Q2_w",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "35",
+                "text": "- Otros genes reguladores de montaje de ribosomas",
+                "guid": "Az2fJV3yLd5RNJpwOJXQYw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "28",
+            "text": "###\nCaracterísticas\nclínicas",
+            "guid": "eJLmzXf2SEdtlehLWaTnKA",
+            "children": [
+              {
+                "id": "39",
+                "parent": "38",
+                "text": "- Presentación: palidez, apatía, falta de apetito, retraso del crecimiento",
+                "guid": "drdN4EGWi0Nf9pjlVLMbbQ",
+                "children": []
+              },
+              {
+                "id": "40",
+                "parent": "38",
+                "text": "- Diagnóstico: desde nacimiento hasta edad adulta",
+                "guid": "L1_Tg0nxPdhtEOP4XzZEcw",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "38",
+                "text": "- Anormalidades físicas\n(1/3 de pacientes)",
+                "guid": "QIwqVwzLigEajFvSDxSbbw",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "- Dismorfismo craneofacial",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "41",
+                    "text": "- Estatura baja",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "41",
+                    "text": "- Anormalidades del pulgar",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "41",
+                    "text": "- Cuello alado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "41",
+                    "text": "- Anormalidades urogenitales y cardiacas",
+                    "guid": "BIqc40MCnJUtkiSDRAYYyA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "47",
+                "parent": "38",
+                "text": "- Progresión posible a anemia grave con insuficiencia cardiaca",
+                "guid": "WlDhAD0IB18H-ObzbLjLhQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "28",
+            "text": "### Datos de\nlaboratorio",
+            "guid": "c1DQYHfZtSEYbUNwIrCj4w",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "- Reticulocitopenia grave absoluta",
+                "guid": "X5B_q2DnNaozak_HYs4e0A",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "- Anemia normocítica/macrocítica, normocrómica",
+                "guid": "PtljiASe6jgbY-8zNZCxaA",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "48",
+                "text": "- Leucocitos normales o ligeramente disminuidos",
+                "guid": "RjV1e3taiBkKQ8zVPshcSA",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "48",
+                "text": "- Plaquetas normales o ligeramente aumentadas",
+                "guid": "Qcry-QV-J2kB5uhWAlcdUQ",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "48",
+                "text": "- Médula ósea: hipoplasia eritroide marcada",
+                "guid": "EkmxahxzRCgRa7jAbJqSag",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "48",
+                "text": "- Hierro sérico alto, saturación de transferrina aumentada",
+                "guid": "WXtLhxlkn7NZU13vXgXoaw",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "48",
+                "text": "- Eritropoyetina elevada",
+                "guid": "XGc8SAblgnMiDAEzO_e78w",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "48",
+                "text": "- Aumento de adenosina desaminasa eritrocitaria (75% de casos)",
+                "guid": "Z8y4HVV2UPsexdrDJqYbpQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "28",
+            "text": "### Tratamiento",
+            "guid": "NeE-NU4pxwZ2HWM6H8ExBw",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "- Transfusiones para\naliviar anemia",
+                "guid": "WhU7MzopyfdcNs0NIEqwrg",
+                "children": [
+                  {
+                    "id": "59",
+                    "parent": "58",
+                    "text": "- Requiere quelación de hierro",
+                    "guid": "NYRSEGZ6meJfEwz2KNUicA",
+                    "children": []
+                  },
+                  {
+                    "id": "60",
+                    "parent": "58",
+                    "text": "- Leucorreducción para evitar aloinmunización",
+                    "guid": "XlRPA3eAUGZLhcZTIB9B_Q",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "61",
+                "parent": "57",
+                "text": "- Glucocorticoides",
+                "guid": "fP53z01srqoidl9OD0gpOQ",
+                "children": [
+                  {
+                    "id": "62",
+                    "parent": "61",
+                    "text": "- Prednisona 2 mg/kg/día (dosis inicial)",
+                    "guid": "ad_y0jPiGA574rujQ1s-Wg",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "61",
+                    "text": "- Reducción gradual a dosis alternadas",
+                    "guid": "TUa3wVU2GZMhYSbFKa30CQ",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "61",
+                    "text": "- Efectos secundarios significativos (síndrome de Cushing)",
+                    "guid": "XBucBkNtJ_hlpa_9Q-hUIw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65",
+                "parent": "57",
+                "text": "- Trasplante alogénico de\ncélulas hematopoyéticas",
+                "guid": "GON48wRrisBqjm_Icvi0Jg",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "- Curativo cuando es exitoso",
+                    "guid": "PpVUt0bFPNUTQ2TUdBmmxw",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "65",
+                    "text": "- Mejor en niños menores de 10 años",
+                    "guid": "LT_Wt3JWccoc7sk3C5Qluw",
+                    "children": []
+                  },
+                  {
+                    "id": "68",
+                    "parent": "65",
+                    "text": "- Más exitoso con donante hermano compatible",
+                    "guid": "adbCMWh0j4srs2e4ZtU6AA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69",
+                "parent": "57",
+                "text": "- Otras terapias\n(no estándar)",
+                "guid": "RzY4cAR9liZ5AIreI1HUdg",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "- Metilprednisolona en dosis altas",
+                    "guid": "AgvfFHIAHt1jHG9hT1KW1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "69",
+                    "text": "- Inmunosupresores",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "69",
+                    "text": "- Interleucina-3",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "73",
+            "parent": "28",
+            "text": "### Evolución y\npronóstico",
+            "guid": "GyQZ3X0VOWEqDL4JUQVYEg",
+            "children": [
+              {
+                "id": "74",
+                "parent": "73",
+                "text": "- Complicaciones\nprincipales",
+                "guid": "R-q-H16mOttnOiiZYM43Eg",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "- Sobrecarga crónica de hierro",
+                    "guid": "YxHFnFHImGFTxus5IacaUw",
+                    "children": []
+                  },
+                  {
+                    "id": "76",
+                    "parent": "74",
+                    "text": "- Hipercortisolismo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "77",
+                    "parent": "74",
+                    "text": "- Complicaciones del trasplante",
+                    "guid": "GI3VNmcKUA0VwMEbRc2r7g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78",
+                "parent": "73",
+                "text": "- Mayor riesgo de leucemia mielógena aguda",
+                "guid": "WWDB2DKvilJRYdGpQzeECQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "## CRISIS APLÁSICA Y ERITROBLASTOPENIA\nTRANSITORIAS DE LA NIÑEZ",
+        "guid": "Sz8AZyAqIUNwxokaTUrfew",
+        "children": [
+          {
+            "id": "80",
+            "parent": "79",
+            "text": "### Etiología",
+            "guid": "O-q_Gg693RQUEI8nFUuA8g",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "- Crisis aplásica\ntransitoria",
+                "guid": "EipAIVPi-HscnXZQWWB4kQ",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "- Infección por parvovirus B19",
+                    "guid": "WGCOohWeAS58sk0IIEtMwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "- Ocurre en contexto de\neritropoyesis exagerada",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "84",
+                        "parent": "83",
+                        "text": "- Enfermedad hemolítica",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "83",
+                        "text": "- Esferocitosis hereditaria",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "86",
+                        "parent": "83",
+                        "text": "- Enfermedad de células falciformes",
+                        "guid": "dEQ8CmPsdaEBGYPTV1YBpg",
+                        "children": []
+                      },
+                      {
+                        "id": "87",
+                        "parent": "83",
+                        "text": "- Talasemia",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "88",
+                "parent": "80",
+                "text": "- Eritroblastopenia transitoria de la niñez",
+                "guid": "NbUOA1Tgbwx4_Rv5TkLjOQ",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "- Virus desconocido",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "parent": "79",
+            "text": "###\nCaracterísticas\nclínicas",
+            "guid": "QOYpL3HkSzty21DgfNDoSQ",
+            "children": [
+              {
+                "id": "91",
+                "parent": "90",
+                "text": "- Crisis aplásica\ntransitoria",
+                "guid": "QW1nZ2VyYNBYgwT7XJGBRA",
+                "children": [
+                  {
+                    "id": "92",
+                    "parent": "91",
+                    "text": "- Palidez, fatiga, cansancio",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "91",
+                    "text": "- Molestias gastrointestinales o cefalea",
+                    "guid": "YoeaMQKPwwQtltlXLcaamA",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "91",
+                    "text": "- Taquicardia, soplo de flujo",
+                    "guid": "IrnkSB5dYnF7EXoTNOQkaQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "95",
+                "parent": "90",
+                "text": "- Eritroblastopenia\ntransitoria",
+                "guid": "ckBa7Beu8GMORJz6SqDpjg",
+                "children": [
+                  {
+                    "id": "96",
+                    "parent": "95",
+                    "text": "- Anemia aguda en niño previamente sano",
+                    "guid": "LUzxkgr26gJq7DZPIZEtnA",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "95",
+                    "text": "- Complicaciones raras: convulsiones, anormalidades neurológicas",
+                    "guid": "buNfpGwFuiN45y9CJJhtpw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "98",
+            "parent": "79",
+            "text": "### Datos de\nlaboratorio",
+            "guid": "XgjA6RJix45eSv9HTOwgjQ",
+            "children": [
+              {
+                "id": "99",
+                "parent": "98",
+                "text": "- Anemia (puede ser muy grave)",
+                "guid": "AKIoUAbr4AgSHGk7Qg-Ptw",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "98",
+                "text": "- Ausencia de reticulocitos",
+                "guid": "bF5A2GqfbjYeoRD7TuXbCg",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "98",
+                "text": "- Ausencia o gran disminución de precursores eritroides en médula",
+                "guid": "bS8xO0w36lJ8rHWiD-kVgw",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "98",
+                "text": "- Granulocitos y plaquetas normales o aumentados",
+                "guid": "apVMw3e977ZEzTnsXNWnsA",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "98",
+                "text": "- Recuperación: reticulocitosis, posible presencia transitoria de eritrocitos nucleados",
+                "guid": "D2zgGVMR1uYndpE-PLnRqw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "79",
+            "text": "### Tratamiento",
+            "guid": "GvpAV3rA60Y-DCGNKmcgcQ",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "- Transfusión de eritrocitos (casos graves)",
+                "guid": "fmiBsVcyLolxhI40P06q4A",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "- Recuperación\nespontánea",
+                "guid": "SRZ5xWRf3xQ8H5MqSbiiFQ",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "- Parvovirus B19: días o semanas",
+                    "guid": "a0u_HE47_GULyDHMV6n_9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "- Eritroblastopenia transitoria: semanas",
+                    "guid": "ONtqnCppQscmj9r_Jgqb1w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "109",
+                "parent": "104",
+                "text": "- Suspensión del fármaco (si es causa)",
+                "guid": "dqEtGiM8UKE187FaYTZ53Q",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "parent": "0",
+        "text": "## APLASIA ERITROCITARIA\nPURA ADQUIRIDA",
+        "guid": "TdLCLGWCssxnIPIcK9uDFQ",
+        "children": [
+          {
+            "id": "111",
+            "parent": "110",
+            "text": "### Etiología",
+            "guid": "d-V6WkVr8WR4x6Oidk38Cw",
+            "children": [
+              {
+                "id": "112",
+                "parent": "111",
+                "text": "- Mecanismos\ninmunitarios",
+                "guid": "P_g2ezs1bZMRoc_8eNOhFw",
+                "children": [
+                  {
+                    "id": "113",
+                    "parent": "112",
+                    "text": "- Inhibición por anticuerpos",
+                    "guid": "HJ4f7WpMMdY1nKbrZbSZsg",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "112",
+                    "text": "- Supresión por células T (más común)",
+                    "guid": "TqwQ63G8OhUvbTvHOffQBw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "115",
+                "parent": "111",
+                "text": "- Asociaciones",
+                "guid": "ZZ6wWzgxqvse3jzuXD_ddQ",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- Enfermedades autoinmunes",
+                    "guid": "TVw_5kIIwnJPOKIRafpf0w",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- Timoma",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "- Procesos linfoproliferativos",
+                    "guid": "LFT0SQTVSPxPrvmGewEFNA",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "115",
+                    "text": "- Gammapatía monoclonal",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "115",
+                    "text": "- Embarazo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "121",
+                    "parent": "115",
+                    "text": "- Post-trasplante (isoaglutininas)",
+                    "guid": "dpGDEn8cNU00-NU7Nom5jQ",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "115",
+                    "text": "- Toxicidad por inhibidores de punto de control",
+                    "guid": "OlGi4UaapTgvXVqkH_BTPA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "123",
+                "parent": "111",
+                "text": "- Infección persistente por parvovirus B19",
+                "guid": "W237nVTR7kg9dldSdmg79A",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "111",
+                "text": "- Mielodisplasia (raro)",
+                "guid": "T5LZjnuCeOAgz1xlHWWbug",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "111",
+                "text": "- Reacciones a medicamentos",
+                "guid": "YQUrrAfwToJJQR7QWOqmBg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "126",
+            "parent": "110",
+            "text": "### Características\nclínicas",
+            "guid": "fsxQM047l5J8MDCxWjpL0A",
+            "children": [
+              {
+                "id": "127",
+                "parent": "126",
+                "text": "- Palidez, lasitud, síntomas de anemia",
+                "guid": "Iw2F2jmmiANQoofFcqBfaA",
+                "children": []
+              },
+              {
+                "id": "128",
+                "parent": "126",
+                "text": "- Posibles enfermedades concomitantes",
+                "guid": "NSkA43Fx5CoQBfsiFi4sjw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "129",
+            "parent": "110",
+            "text": "### Datos de\nlaboratorio",
+            "guid": "eWIyrFlHGfJvGNKVRr5ykg",
+            "children": [
+              {
+                "id": "130",
+                "parent": "129",
+                "text": "- Anemia normocrómica, normocítica o macrocítica",
+                "guid": "G0_cZT5RdKYwuNJmR6TQrg",
+                "children": []
+              },
+              {
+                "id": "131",
+                "parent": "129",
+                "text": "- Reticulocitopenia grave",
+                "guid": "Qya9owBny-xCpdXiObhAtQ",
+                "children": []
+              },
+              {
+                "id": "132",
+                "parent": "129",
+                "text": "- Leucocitos y plaquetas normales",
+                "guid": "f4QBOXeeqx1wQfpCOdWkGg",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "129",
+                "text": "- Médula ósea: normocelular con hipoplasia/aplasia eritroide",
+                "guid": "PjlQVR-fVOZZxfdWPQWgiQ",
+                "children": []
+              },
+              {
+                "id": "134",
+                "parent": "129",
+                "text": "- Hierro sérico alto, capacidad de unión saturada",
+                "guid": "bdrseFX2KAcXP-xZEOhyUg",
+                "children": []
+              },
+              {
+                "id": "135",
+                "parent": "129",
+                "text": "- Posible masa mediastínica (timoma)",
+                "guid": "D5ywC2fidB4DiNG6RMWw7g",
+                "children": []
+              },
+              {
+                "id": "136",
+                "parent": "129",
+                "text": "- DNA de parvovirus en sangre (casos de infección persistente)",
+                "guid": "WVRYSROOzNxa891-UraK9Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "137",
+            "parent": "110",
+            "text": "### Tratamiento",
+            "guid": "bNXmz0oMsBMZdP2ICCXDNA",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "- Transfusiones de eritrocitos y quelación de hierro",
+                "guid": "CF4kukotz-5PypPiS4TiXQ",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "137",
+                "text": "- Agentes\ninmunosupresores",
+                "guid": "SpWb2hJwacQFPSMSShmdEw",
+                "children": [
+                  {
+                    "id": "140",
+                    "parent": "139",
+                    "text": "- Prednisona 1-2 mg/kg/día",
+                    "guid": "BHBmOBdqor4IDcGFXcS-gQ",
+                    "children": []
+                  },
+                  {
+                    "id": "141",
+                    "parent": "139",
+                    "text": "- Ciclosporina (posible primera línea)",
+                    "guid": "KvlvmmMBnwMwe0l2F89WaQ",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "139",
+                    "text": "- Anticuerpos monoclonales (daclizumab, rituximab, alemtuzumab)",
+                    "guid": "LQ5PF0nwRv4f9RmdNWxz0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "143",
+                    "parent": "139",
+                    "text": "- Fludarabina, cladribina (casos resistentes)",
+                    "guid": "FB4W7G-_rX8A8VYuXrOyxg",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "139",
+                    "text": "- Plasmaféresis",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "145",
+                "parent": "137",
+                "text": "- Timectomía (en caso de timoma)",
+                "guid": "Cg8U4XV_HVQD70EuSEhlNw",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "137",
+                "text": "- Gammaglobulina intravenosa (0.4 g/kg/día, 5-10 días) para parvovirus B19",
+                "guid": "FR5yOl21OIQFTgXAAvlesg",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "137",
+                "text": "- Terapias para aplasia\npost-trasplante",
+                "guid": "M6tgjByN8hkT4dEEQ0gQlw",
+                "children": [
+                  {
+                    "id": "148",
+                    "parent": "147",
+                    "text": "- Resolución espontánea",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "147",
+                    "text": "- Rituximab",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "147",
+                    "text": "- Globulina antitimocítica",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "151",
+                    "parent": "147",
+                    "text": "- Daratumumab",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "147",
+                    "text": "- Infusión de linfocitos de donantes",
+                    "guid": "AjAXQwYueUAozU_aDD8sJQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 153,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Cardiología",
+  "filename": "Williams. APLASIA ERITROCITARIA PURA-2025-1",
+  "id": "map_1146",
+  "resolved_references": []
+}

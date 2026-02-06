@@ -1,0 +1,2088 @@
+{
+  "title": "Insuficiencia Venosa Cronica IVC Manejo No Quirurgico",
+  "guid": "3D09C9B7F075590DA3095FCF",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Cardiología/NEJM 2024 | Insuficiencia Venosa Cronica-2024-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Insuficiencia Venosa Cronica IVC\nManejo No Quirurgico",
+    "guid": "CPE9jSfEXSJfWKLOjUlZJg",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Caso Clinico",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Mujer 68a",
+            "guid": "5fYHmNnH80v8xbQRj5CHyQ",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Sintomas:",
+            "guid": "XtRnCR4fyQF1ILmTv-hFgA",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "Pesadez piernas y pies",
+                "guid": "cyqEIL-KjZr1kvpUDxZlbw",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "Hiperpigmentacion (area \"polaina\" -> tobillo a media pantorrilla)",
+                "guid": "rUGdmFLkL_BU503n3qW00A",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "Edema aumenta (tardes y noches)",
+                "guid": "SM_DisJJx8cpKR3Ny6iArw",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "3",
+                "text": "Marcas de calcetines en pies y piernas",
+                "guid": "xVRewVBOyoDO9GUZHae40A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "Antecedentes:",
+            "guid": "ZJGPyJNFOuZMK60UVWWYZA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "Varices pequenas, no dolorosas (pantorrillas)",
+                "guid": "Ltpbctt2KYnJXQlCN29YLQ",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "Aranas vasculares (muslos)",
+                "guid": "Nzuu9hWG9k_0fwkOVyRL1Q",
+                "children": []
+              },
+              {
+                "id": "11",
+                "parent": "8",
+                "text": "Obesidad",
+                "guid": "xV-6jlrSi8B8zN2Hu0oadA",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "8",
+                "text": "Farmacos:",
+                "guid": "Nw2NFsxVuTn0g3FgrfXGkw",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "Amlodipino (HTA)",
+                    "guid": "EDEXF39A4eLCtsAUxLu4-A",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "Gabapentina (neuropatia periferica)",
+                    "guid": "C3DbwfD8HsJaLX5IRtqz7A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "8",
+                "text": "No: disnea, dolor toracico o palpitaciones",
+                "guid": "GncAHRzW5ap4ux59NoBiYw",
+                "children": []
+              },
+              {
+                "id": "16",
+                "parent": "8",
+                "text": "Analitica: normal",
+                "guid": "hbkBfykhOMkPwfVlGhAoxg",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "8",
+                "text": "Sedentarismo (muchas h/dia en computadora)",
+                "guid": "eP7pe-rTQisrkYyoRU64Ew",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "parent": "1",
+            "text": "Examen\nFisico:",
+            "guid": "rtJCRcpXpMUH81EtBOCs9Q",
+            "children": [
+              {
+                "id": "19",
+                "parent": "18",
+                "text": "Edema leve (dorso pies y tobillos)",
+                "guid": "be5RuAIxMHOB5nZbOQKn7A",
+                "children": []
+              },
+              {
+                "id": "20",
+                "parent": "18",
+                "text": "Edema con fovea 1+ (cara anterior tibia)",
+                "guid": "etmmwcVRb6MsIx-vDP9YqA",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "18",
+                "text": "Musculos pantorrilla: tensos y debiles",
+                "guid": "djhjor61Gz8GPhqKzyrU_Q",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "18",
+                "text": "Disminucion Capacidad elevacion talones",
+                "guid": "X3gxv1XYgGWzrbKz2_fg6Q",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "18",
+                "text": "Pies planos (pes planus)",
+                "guid": "VxhjstX79mV5tnMXjHQmsw",
+                "children": []
+              },
+              {
+                "id": "24",
+                "parent": "18",
+                "text": "Rigidez tobillo (fusion quirurgica previa)",
+                "guid": "tP5dKyq1Qpnt-uVFvBsvag",
+                "children": []
+              },
+              {
+                "id": "25",
+                "parent": "18",
+                "text": "Incapacidad flexion dedos del pie",
+                "guid": "jjnNjfsmXtiFzAVxjTRUHg",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "18",
+                "text": "Marcha arrastrando los pies",
+                "guid": "6lbZk5Cb0pWZrwo_PcDfWQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "1",
+            "text": "Ecografia\nDoppler:",
+            "guid": "uNvzFlDB_WkeWM7NtXCp2A",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "Reflujo segmentario (V. safena mayor, pantorrillas)",
+                "guid": "N3oQNZ991dcp-i9ovz1aew",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "Tiempo reflujo: 1.8 s",
+                "guid": "lIc0Aw5gCg-OKxS6evvwlQ",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "27",
+                "text": "Diametro vena: 2-3 mm",
+                "guid": "RSwBBUnrYgcTG6TzoZS3KA",
+                "children": []
+              },
+              {
+                "id": "31",
+                "parent": "27",
+                "text": "No: trombosis venosa profunda/superficial u otras anomalias",
+                "guid": "0qQjQk5btjjIBHnJesuVaA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "32",
+        "parent": "0",
+        "text": "Definicion\nIVC",
+        "guid": "ILHsmYg5fVvdUNCxsg8YZQ",
+        "children": [
+          {
+            "id": "33",
+            "parent": "32",
+            "text": "Conjunto sintomas y manifestaciones clinicas",
+            "guid": "13AGoZjDd2iAjl19eB2_Fw",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "32",
+            "text": "Rango: arañas vasculares asintomaticas -> ulceras venosas",
+            "guid": "CQi8yetVTgqwX-9YTGG83A",
+            "children": []
+          },
+          {
+            "id": "35",
+            "parent": "32",
+            "text": "Diferente Enfermedad\nVenosa Cronica EVC:",
+            "guid": "q86vP9Ud2NPMLs9lKIbn6Q",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "EVC: Espectro completo trastornos venosos",
+                "guid": "8P8KI4vbj_KhngCeIRDPlg",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "35",
+                "text": "IVC: Formas avanzadas EVC (edema, cambios piel, ulceras)",
+                "guid": "MdXOu-uwNKcRUA_HedLH9w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "parent": "32",
+            "text": "Aumento Riesgo eventos tromboembolicos venosos (2)",
+            "guid": "dOF2ZiJbbWnAnCV0FBKNFQ",
+            "children": []
+          },
+          {
+            "id": "39",
+            "parent": "32",
+            "text": "Disminucion Calidad de vida y limitacion actividades diarias",
+            "guid": "L-53zSxcRTjgxd0dX1uX6A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "40",
+        "parent": "0",
+        "text": "Epidemiologia",
+        "guid": "",
+        "children": [
+          {
+            "id": "41",
+            "parent": "40",
+            "text": "Interaccion\ncompleja:",
+            "guid": "ogdTioavRUAaPCo2_ylfCg",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "Predisposicion genetica",
+                "guid": "nU1j1-2QR4Uj31lS5ButxQ",
+                "children": []
+              },
+              {
+                "id": "43",
+                "parent": "41",
+                "text": "Factores ambientales (trabajos con bipedestacion prolongada o carga de pesos)",
+                "guid": "uwRPOQieWFeD5gJhMJPOGQ",
+                "children": []
+              },
+              {
+                "id": "44",
+                "parent": "41",
+                "text": "Edad (Disminucion integridad estructural venosa)",
+                "guid": "iEbrfn89XaVrKGyK_d49Zg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "45",
+            "parent": "40",
+            "text": "Prevalencia:",
+            "guid": "5onfIPkm8H9lqNeO1hPqWQ",
+            "children": [
+              {
+                "id": "46",
+                "parent": "45",
+                "text": "Amplia variacion en reportes",
+                "guid": "lIdVU7qBlQ8NpJmdnW-h7g",
+                "children": []
+              },
+              {
+                "id": "47",
+                "parent": "45",
+                "text": "♀: hasta 73%",
+                "guid": "HmXL7IC54IkM3d7DqWrNhw",
+                "children": []
+              },
+              {
+                "id": "48",
+                "parent": "45",
+                "text": "♂: hasta 56%",
+                "guid": "lKL8EoV8ZSmd-ri8fifpLg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "49",
+            "parent": "40",
+            "text": "Factores de Riesgo\nFR Establecidos:",
+            "guid": "A-XwgcSzNw_mvCqyVe3oYQ",
+            "children": [
+              {
+                "id": "50",
+                "parent": "49",
+                "text": "Edad avanzada",
+                "guid": "cEUzsO7rpDnwsSyD-goeqA",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "49",
+                "text": "Sexo femenino",
+                "guid": "DCG7UYZJxAH4AFSkMpcArQ",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "49",
+                "text": "Obesidad",
+                "guid": "powB79p_7vOVi_yfq-C_ag",
+                "children": []
+              },
+              {
+                "id": "53",
+                "parent": "49",
+                "text": "Embarazo",
+                "guid": "cMtklDXEgkqUFXfCzK6FLg",
+                "children": []
+              },
+              {
+                "id": "54",
+                "parent": "49",
+                "text": "Historia de Trombosis Venosa Profunda (TVP)",
+                "guid": "KXdbCloQZSBA1xZB2Vgn0Q",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "49",
+                "text": "Bipedestacion prolongada",
+                "guid": "yDkoDdqov4pw3Jiznp0XAQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "56",
+            "parent": "40",
+            "text": "Otros FR Asociados:",
+            "guid": "zkjHaUHZzOhg2hUQSjLcZw",
+            "children": [
+              {
+                "id": "57",
+                "parent": "56",
+                "text": "Disminucion Bioimpedancia",
+                "guid": "-m_bZijjjLT6Nuuol7Cc5Q",
+                "children": []
+              },
+              {
+                "id": "58",
+                "parent": "56",
+                "text": "Aumento Estatura",
+                "guid": "0a1pVbN5vg26IaKgFHnC1g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "59",
+            "parent": "40",
+            "text": "Genetica:",
+            "guid": "sy6kf181GXoGiSmhHLFbBw",
+            "children": [
+              {
+                "id": "60",
+                "parent": "59",
+                "text": "Estudios: 855 polimorfismos nucleotido unico y 30 variantes geneticas independientes asociadas a varices",
+                "guid": "pIMjL7GgCBtBUbO5Frkhow",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "59",
+                "text": "Contribucion relativa genetica vs. ambiental: no bien dilucidada",
+                "guid": "JpMpXxBtMh3ACrOyTEuGYQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "62",
+        "parent": "0",
+        "text": "Fisiopatologia",
+        "guid": "",
+        "children": [
+          {
+            "id": "63",
+            "parent": "62",
+            "text": "Hipertension\nvenosa HTV",
+            "guid": "2WPtEOcpJgf8QtBP8Og6aQ",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "Causas HTV:",
+                "guid": "I8cOoNNHGt8YFqLlZJtSEw",
+                "children": [
+                  {
+                    "id": "65",
+                    "parent": "64",
+                    "text": "Estructurales: reflujo u obstruccion venosa",
+                    "guid": "-xsEDspHp9EfU6NFn2vNpw",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "64",
+                    "text": "Funcionales:",
+                    "guid": "XZvNCS1LICaPTInx55XPEA",
+                    "children": [
+                      {
+                        "id": "67",
+                        "parent": "66",
+                        "text": "Edema dependiente",
+                        "guid": "FoaOLhgN5SFTFyv-dz9AZA",
+                        "children": []
+                      },
+                      {
+                        "id": "68",
+                        "parent": "66",
+                        "text": "Debilidad musculos pantorrilla",
+                        "guid": "OzBVtPVOVyiWBzWaTKAU2A",
+                        "children": []
+                      },
+                      {
+                        "id": "69",
+                        "parent": "66",
+                        "text": "Obesidad",
+                        "guid": "KOR1079IcHwAZOEalBSVnw",
+                        "children": []
+                      },
+                      {
+                        "id": "70",
+                        "parent": "66",
+                        "text": "HTV Detalles",
+                        "guid": "3gOj5gBvRWbGXbv4YyJXRg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "71",
+                "parent": "63",
+                "text": "Vasos de capacitancia: 2/3 volumen sanguineo total",
+                "guid": "JiAFAaY0kApXvV1vjrLDAw",
+                "children": []
+              },
+              {
+                "id": "72",
+                "parent": "63",
+                "text": "Reservorio sistema circulatorio -> Ajustes rapidos volumen con diferentes presiones",
+                "guid": "6eKz1iI0dlQfhWIjYJm8lQ",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "63",
+                "text": "Presion venosa central (decubito supino): 8-12 mmHg",
+                "guid": "vxF8kiuBGgZzqrMH1fZ5Ug",
+                "children": []
+              },
+              {
+                "id": "74",
+                "parent": "63",
+                "text": "Presion venosa (bipedestacion, piernas): hasta 90 mmHg",
+                "guid": "baOV2RSbMeRJ2LLaS9W1Qg",
+                "children": []
+              },
+              {
+                "id": "75",
+                "parent": "63",
+                "text": "Sistema venoso: venas superficiales y profundas (>90% retorno venoso)",
+                "guid": "50SqpQSDiqQx6uURj8b8mg",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "63",
+                "text": "Bomba muscular\npie y pantorrilla:",
+                "guid": "3SJJRAmbO0EK8_QZM7mXnw",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "Contraccion -> flujo sanguineo cefalico",
+                    "guid": "UyJLWpH0_L5ylGYMyVgUPw",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "Apertura valvulas unidireccionales",
+                    "guid": "ilwdtATkVUn5a1Ua0FY7eg",
+                    "children": []
+                  },
+                  {
+                    "id": "79",
+                    "parent": "76",
+                    "text": "Cierre valvulas -> previene flujo retrogrado",
+                    "guid": "GuIHFWswEN28y5eZ7YHWuw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "80",
+                "parent": "63",
+                "text": "Disfuncion valvular: reflujo venoso -> sangre retrograda -> HTV",
+                "guid": "H4TlW4cypXvoTDdrFcIxFg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "81",
+            "parent": "62",
+            "text": "Nivel Celular\nHTV prolongada:",
+            "guid": "_8V-VpMG9FlB3A-ps20-6Q",
+            "children": [
+              {
+                "id": "82",
+                "parent": "81",
+                "text": "Disfuncion endotelial",
+                "guid": "RruLRrMIw156q_KSkBwDzg",
+                "children": []
+              },
+              {
+                "id": "83",
+                "parent": "81",
+                "text": "Aumento Permeabilidad vascular",
+                "guid": "61GmIvm5T-0oyvgFGxNIUg",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "81",
+                "text": "Inflamacion pared venosa",
+                "guid": "19NttsLeT8Mav7XNjVDWOA",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "81",
+                "text": "Desequilibrio\nreduccion-oxidacion:",
+                "guid": "ScszW0Z9Z4xgF5QjQ4ujbw",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "Alteracion balance generacion/eliminacion\nespecies reactivas oxigeno y nitrogeno",
+                    "guid": "L6FnH0gKj94V23QGjcRx2A",
+                    "children": []
+                  },
+                  {
+                    "id": "87",
+                    "parent": "85",
+                    "text": "-> Degradacion tisular",
+                    "guid": "GAL4Y131dMvrpQXQSiJopw",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "85",
+                    "text": "Manifestaciones: varices, edema, cambios piel, ulceras venosas",
+                    "guid": "clhBFNAqwZYfcfu3Gnrt_w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "89",
+            "parent": "62",
+            "text": "Causas HTV\nDetalles:",
+            "guid": "yt0YLWBiK0QFt-GLJPZXcg",
+            "children": [
+              {
+                "id": "90",
+                "parent": "89",
+                "text": "Estructurales\nintravasculares:",
+                "guid": "qMyDAkt_29bTj0UyWVG6gQ",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "Reflujo valvular",
+                    "guid": "8Md4jhxOSr2zsj7yaLfe7A",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "90",
+                    "text": "Obstruccion venosa",
+                    "guid": "WbRAPm5JV2OXX4EU3PDoIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "90",
+                    "text": "Cicatrizacion y fibrosis post-TVP -> sindrome postrombotico (20-50% pacientes)",
+                    "guid": "9_Wa07WcevSGdv6NNjqfUw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94",
+                "parent": "89",
+                "text": "Estructurales\nextravasculares:",
+                "guid": "4kY_4EdsN-y0ISuJIMqMXw",
+                "children": [
+                  {
+                    "id": "95",
+                    "parent": "94",
+                    "text": "Compresiones anatomicas (Ej. Sindrome May-Thurner:\ncompresion V. iliaca izq. entre A. iliaca der. y columna lumbar)",
+                    "guid": "zrQG_MuN6lgXGsZ-OJ60FA",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "94",
+                    "text": "Tumores",
+                    "guid": "T3g894QD2r7Axn8Hkb0t5A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "97",
+                "parent": "89",
+                "text": "Insuficiencia\nVenosa Funcional",
+                "guid": "VDQba8Wbpktf6ous335vBA",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "Definicion: HTV causada por factores que no son daño venoso estructural.",
+                    "guid": "GLlQy2lbIm_VN4zDBaTOQA",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "97",
+                    "text": "Factores\nContribuyentes:",
+                    "guid": "VWIZkIPiIPVJPkDqi0u0Dg",
+                    "children": [
+                      {
+                        "id": "100",
+                        "parent": "99",
+                        "text": "Aumento Presiones centrales (Ej. Insuficiencia cardiaca derecha, pericarditis constrictiva, apnea obstructiva del sueno)",
+                        "guid": "dPUNz0vqms4OheWGZqwxQQ",
+                        "children": []
+                      },
+                      {
+                        "id": "101",
+                        "parent": "99",
+                        "text": "Aumento Presion intraabdominal (10-15 mmHg; normal <5 mmHg) por obesidad -> obstruye V. cava e impide retorno venoso",
+                        "guid": "b5xKTqZNSXzJHhrSi6ETCQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "102",
+                    "parent": "97",
+                    "text": "Disfuncion\nlinfatica",
+                    "guid": "kPB7fAXu7sMieN-nwmwR1Q",
+                    "children": [
+                      {
+                        "id": "103",
+                        "parent": "102",
+                        "text": "Disminucion Impulso anterogrado flujo sanguineo (disfuncion\nbomba muscular de la pantorrilla y/o pie, edema dependiente)",
+                        "guid": "mWePf220tyVkodu92WgjbQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "104",
+                    "parent": "97",
+                    "text": "AOS\nDetalles:",
+                    "guid": "qy-kGWFpn-AooTWBnmiXdg",
+                    "children": [
+                      {
+                        "id": "105",
+                        "parent": "104",
+                        "text": "Hipoxia intermitente inducida por AOS -> vasoconstriccion A. pulmonar -> Aumento Resistencia vascular pulmonar\n-> HTP -> Aumento precarga VD -> Aumento Presion venosa central",
+                        "guid": "4K4ajpAsNk3M1ppwjAX4ow",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "106",
+            "parent": "62",
+            "text": "Interconexion Sistemas Venoso y\nLinfatico Microcirculacion:",
+            "guid": "e1c611kzd3G0UwZNYJokpw",
+            "children": [
+              {
+                "id": "107",
+                "parent": "106",
+                "text": "Comprension clasica (Ley de Starling): equilibrio\npresion oncotica, hidrostatica e integridad capilar",
+                "guid": "l2BXuXPCImZOh77KcyKIiA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "108",
+            "parent": "62",
+            "text": "Nuevo\nparadigma:",
+            "guid": "Xe3jlOh1HlsMmCVjBi9BJw",
+            "children": [
+              {
+                "id": "109",
+                "parent": "108",
+                "text": "Glucocalix microvascular: estructura anatomica clave",
+                "guid": "OUvm_OjozTzAKEOn7oe7eQ",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "108",
+                "text": "Filtracion: capilares arteriales y venosos",
+                "guid": "mk5dS6FsuGYbRWWVI72tSA",
+                "children": []
+              },
+              {
+                "id": "111",
+                "parent": "108",
+                "text": "Reabsorcion: solo via linfaticos conectados a venulas (tracto de salida microcirculacion)",
+                "guid": "TgtRmlEYJS2WTcHLrbiNJQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "62",
+            "text": "Edema:",
+            "guid": "v1yZaeB_eMhRbpxLkamZwQ",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "Acumulacion liquido intersticial",
+                "guid": "6RmuGsoIqplWBNWB2O868Q",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "112",
+                "text": "Ultrafiltracion capilar > drenaje linfatico o Disminucion capacidad drenaje linfatico",
+                "guid": "9dxRzh_iNdEqU4-hflMODQ",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "112",
+                "text": "Disfuncion linfatica: impacto considerable en homeostasis fluidos del sistema venoso",
+                "guid": "Bmu4Qv_TCt1E8tfhPEjOxg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "116",
+            "parent": "62",
+            "text": "Bomba Muscular de\nla Pantorrilla:",
+            "guid": "Ka3QkUKFF6qNdCjDuAGmqA",
+            "children": [
+              {
+                "id": "117",
+                "parent": "116",
+                "text": "Contraccion (flexion y extension del pie) -> eyecta 100-150 ml sangre\n-> Disminucion presion venosa aprox 25 mmHg",
+                "guid": "KCHxuuCEa7u2uqeqrKgMxg",
+                "children": []
+              },
+              {
+                "id": "118",
+                "parent": "116",
+                "text": "Deterioro bomba -> estasis venoso y Aumento presion",
+                "guid": "IM8wGfGwRvap8jQT-4DXQg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "119",
+        "parent": "0",
+        "text": "Hipertension Venosa e\nInsuficiencia Venosa",
+        "guid": "QE8kyO1D2LS-cDr65-PoCQ",
+        "children": [
+          {
+            "id": "120",
+            "parent": "119",
+            "text": "Alteraciones:",
+            "guid": "sMbCdKgVjt3CJ6NTl3yg4Q",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "Disminucion Mecanotransduccion",
+                "guid": "fWtpb8nkSlpAzTk3kJtVRA",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "120",
+                "text": "Disfuncion del glucocalix",
+                "guid": "Mq_MNR9M-q9q3aeauRcyyw",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "120",
+                "text": "Activacion endotelial",
+                "guid": "dctxrw_flUpJsq_vLKnh-A",
+                "children": []
+              },
+              {
+                "id": "124",
+                "parent": "120",
+                "text": "Aumento Permeabilidad vascular",
+                "guid": "VGO5l1BEE4E4xJ92CV7n1A",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "120",
+                "text": "Inflamacion pared venosa",
+                "guid": "gDKbmfa95Bs_jm1_yPCcqQ",
+                "children": []
+              },
+              {
+                "id": "126",
+                "parent": "120",
+                "text": "Infiltracion eritrocitos -> Desequilibrio reduccion-oxidacion (redox)",
+                "guid": "BX_0RNCK0ykDURY0r42lPA",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "120",
+                "text": "Expresion Aumento citocinas, enzimas y moleculas de adhesion proinflamatorias",
+                "guid": "WAo9jRe-lvQD9NWZJk8nXw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "128",
+            "parent": "119",
+            "text": "Esquema:",
+            "guid": "Tk23mj0tXe2229OC6QuhoA",
+            "children": [
+              {
+                "id": "129",
+                "parent": "128",
+                "text": "Factores\nde Riesgo:",
+                "guid": "U3LdmWa5ev6oRu5rBq_B-g",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "Edad",
+                    "guid": "WeLrRqA7mfrgVp0u344WmA",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "Historia Familiar",
+                    "guid": "YsoIvPFPL7aKXZdY8Is4-w",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "Obesidad",
+                    "guid": "-fXZBTSjrDmdJFef1Tnytg",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "129",
+                    "text": "Embarazo",
+                    "guid": "Z739gCGXpHHUBNv_yFGI0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "129",
+                    "text": "Bipedestacion prolongada",
+                    "guid": "pX9S7X6Ha1MX8MJkLoJmTw",
+                    "children": []
+                  },
+                  {
+                    "id": "135",
+                    "parent": "129",
+                    "text": "Historia TVP",
+                    "guid": "X0nblVjVG5AK85Qsu_3rjg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "136",
+                "parent": "128",
+                "text": "Disfuncion\nEndotelial:",
+                "guid": "KxeOvTxZ7w711398dA5Ekg",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "Valvulas venosas -> Incompetencia",
+                    "guid": "xTFceyXM-wxr30xPpidxRw",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "Glucocalix -> Cambios",
+                    "guid": "MgmrOqmqWK9JDds_p5atuA",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "136",
+                    "text": "V. safena mayor -> Dilatacion",
+                    "guid": "WkpBRQu2zTsL7ozV5J11CQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "parent": "128",
+                "text": "Aumento Presion\nVenosa:",
+                "guid": "bYXoHWCEhN5adTFLD-1pRw",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "Presion hidrostatica Aumento",
+                    "guid": "imbI2adoZDXjiT66spnQvg",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "140",
+                    "text": "Tension de cizallamiento Disminucion",
+                    "guid": "e_YRJ5_43F1Kcqdicahifw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "143",
+                "parent": "128",
+                "text": "Inflamacion:",
+                "guid": "QHh8TdMWRKoX5T-zpb6Lag",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "Infiltracion leucocitos",
+                    "guid": "dqljJrAm20Xzm-3SMiA06g",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "143",
+                    "text": "Infiltracion eritrocitos",
+                    "guid": "B7n7tCk3KpSB5VYtvm8mCQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "146",
+                "parent": "128",
+                "text": "Cambios en la\nPared Venosa:",
+                "guid": "8UEHnhCB1OHHT4DkbH8kJw",
+                "children": [
+                  {
+                    "id": "147",
+                    "parent": "146",
+                    "text": "Aumento Metaloproteinasas de la matriz",
+                    "guid": "2r36st2E0DU603wPzD8SrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "148",
+                    "parent": "146",
+                    "text": "Aumento Especies reactivas de oxigeno",
+                    "guid": "DPsC22Yd-EFlHP_woBtW1w",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "146",
+                    "text": "Aumento Citocinas",
+                    "guid": "SdTzDLYMi5LlPJQRfssa-g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "150",
+        "parent": "0",
+        "text": "Venous Clinical\nSeverity Score VCSS:",
+        "guid": "",
+        "children": [
+          {
+            "id": "151",
+            "parent": "150",
+            "text": "Sistema de puntuacion mas utilizado y validado",
+            "guid": "CYHiXgfZUMMJa9WNHn4-QQ",
+            "children": []
+          },
+          {
+            "id": "152",
+            "parent": "150",
+            "text": "Evalua severidad clinica de la IVC (Tabla\nS2, Apendice Suplementario, NEJM.org)",
+            "guid": "X4zZlgLJEDFuafIBSZeG3A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "153",
+        "parent": "0",
+        "text": "Sintomas\nCaracteristicas:",
+        "guid": "",
+        "children": [
+          {
+            "id": "154",
+            "parent": "153",
+            "text": "Vena Saludable vs.\nVena Insuficiente",
+            "guid": "SQ50-SIXXtBislJ-C9z1ZQ",
+            "children": [
+              {
+                "id": "155",
+                "parent": "154",
+                "text": "Diagnostico y Evaluacion",
+                "guid": "swL31sutOyimk5mveICQLw",
+                "children": []
+              },
+              {
+                "id": "156",
+                "parent": "154",
+                "text": "Historia\nclinica",
+                "guid": "jN0vIx-UyZnmH94OAyZqwA",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "Dolor",
+                    "guid": "1aw5yYJ4ScpWqV8Id9n1Xg",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "156",
+                    "text": "Prurito",
+                    "guid": "j3xI3z5FljF14WTyv91vxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "156",
+                    "text": "Calambres",
+                    "guid": "mw81Gpu1E9Se5H4j12qGZw",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "156",
+                    "text": "Pesadez",
+                    "guid": "GirkJMqspxyk_F4HpRbvCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "156",
+                    "text": "Edema",
+                    "guid": "74nIJh2Cj0c0_AsoOmJNXw",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "156",
+                    "text": "Asintomaticos",
+                    "guid": "P9D34w59mshf4H32vxTUYw",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "156",
+                    "text": "Ulcera Venosa",
+                    "guid": "vzRdgZa5NlGtG1_UuOi3Qg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "164",
+                "parent": "154",
+                "text": "Examen\nfisico",
+                "guid": "ca0hP-JbUKfErxY036XzUA",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "Varices",
+                    "guid": "DCFNXyxO2Tf8kVXAz8KTrQ",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "164",
+                    "text": "Edema",
+                    "guid": "1NT6xUhzzH3UOe27OL_Wlw",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "164",
+                    "text": "Cambios en la piel",
+                    "guid": "qGp17IbVXEQ6axS-OL04tg",
+                    "children": []
+                  },
+                  {
+                    "id": "168",
+                    "parent": "164",
+                    "text": "Ulceras venosas",
+                    "guid": "aQzmNN4-pNODmWWcBqokzQ",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "164",
+                    "text": "Combinacion de las anteriores",
+                    "guid": "Fhcb78gJcNT01ux6YtkREg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "170",
+                "parent": "154",
+                "text": "Ecografia Doppler -> Evaluar causas estructurales",
+                "guid": "2quoS-LDdhNltNHxlMYM3Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "171",
+            "parent": "153",
+            "text": "Empeoran:",
+            "guid": "AhI-nCK5E6558fgDRKyq4w",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "Final del dia",
+                "guid": "QpNDbl4CS8kp2U3sYdgWNQ",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "171",
+                "text": "Bipedestacion prolongada",
+                "guid": "ZPd1PigF8AIIFSumXL89Cw",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "171",
+                "text": "Climas calidos",
+                "guid": "c02UnFCbEzsxN_XLVZEUaw",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "171",
+                "text": "Periodos perimenstruales",
+                "guid": "FlYx_mcmyF1Q71spUn66tw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "153",
+            "text": "Mejoran:",
+            "guid": "CataHHdtkXRlgttMEy08eg",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "Elevacion piernas",
+                "guid": "f0biOG7usNkxq3q8XtO7zg",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "Actividad (Ej. caminar)",
+                "guid": "cbfBCiAVbL0oa0Krc8n_pw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "153",
+            "text": "Examen\nFisico:",
+            "guid": "Qs6AayJdOq44dqqKBWHD2g",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "Posicion: Paciente de pie (evaluar efecto de la gravedad sobre el sistema venoso)",
+                "guid": "AF-GeGJP-HZnOdoPZVb7tg",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "179",
+                "text": "Evaluacion:",
+                "guid": "ClXoeW9PBbZCFjjBfaN9FQ",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "Reduccion flexibilidad y movilidad del pie: Aumento si coexisten diabetes, neuropatia periferica, artritis, deformidades del pie.",
+                    "guid": "P-oY8XNOLoxTNJGBVkBK7w",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "Limitaciones de movilidad del tobillo y pie pueden afectar la activacion de musculos de la pantorrilla\n(dependencia de los musculos tibiales anteriores).",
+                    "guid": "WnT26SQj7KoovwWnZCBRBQ",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "181",
+                    "text": "Fuerza muscular de la pantorrilla (paciente realiza flexion dorsal y plantar\ndel tobillo mientras el examinador palpa la pantorrilla del paciente).",
+                    "guid": "G5F-Hw5B4PN3TY2AGthgVw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "185",
+                "parent": "179",
+                "text": "Evaluacion\nFuncional:",
+                "guid": "fTCRzCj5CDx5rBwlbuhS1w",
+                "children": [
+                  {
+                    "id": "186",
+                    "parent": "185",
+                    "text": "Evaluacion de la capacidad de la bomba muscular\n(pantorrilla y pie)",
+                    "guid": "RHSZfxso_QgRPrk_RNQf9w",
+                    "children": []
+                  },
+                  {
+                    "id": "187",
+                    "parent": "185",
+                    "text": "Procedimiento:",
+                    "guid": "fXj1f3h4k04qKxutB87d-A",
+                    "children": [
+                      {
+                        "id": "188",
+                        "parent": "187",
+                        "text": "Examinador: coloca la mano en la pantorrilla del paciente.",
+                        "guid": "Z8eZBGxBVG4FclsNJ7Gx9Q",
+                        "children": []
+                      },
+                      {
+                        "id": "189",
+                        "parent": "187",
+                        "text": "Paciente: realiza dorsiflexion y flexion plantar del tobillo",
+                        "guid": "X4-C-1im7I598fzlOgR55A",
+                        "children": []
+                      },
+                      {
+                        "id": "190",
+                        "parent": "187",
+                        "text": "Limitaciones en la\nmovilidad del tobillo y pie:",
+                        "guid": "fMrZOSaxAoweJMrqGFxXWA",
+                        "children": [
+                          {
+                            "id": "191",
+                            "parent": "190",
+                            "text": "Incapacidad de activar musculos de la pantorrilla",
+                            "guid": "NPLjfxVyWGozNLevMiN1Sw",
+                            "children": []
+                          },
+                          {
+                            "id": "192",
+                            "parent": "190",
+                            "text": "Dependencia del musculo tibial anterior para la dorsiflexion del tobillo (no\nactiva musculos de la pantorrilla ni del pie).",
+                            "guid": "Pmtgpizg09QhC8giB3nVnw",
+                            "children": []
+                          },
+                          {
+                            "id": "193",
+                            "parent": "190",
+                            "text": "Posible rigidez de musculos y articulaciones intrinsecos del pie\n-> impide movimiento de los dedos",
+                            "guid": "TvgypQO-GqATVssEE2zMJA",
+                            "children": []
+                          },
+                          {
+                            "id": "194",
+                            "parent": "190",
+                            "text": "Pie plano (pes planus) y arcos colapsados del pie -> rotacion interna del tobillo (sobrepronacion)\n-> tension en tendon tibial posterior -> dolor o edema en tobillo o cara medial del pie.",
+                            "guid": "HucXqSSVhENYQOwbHGANKA",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "195",
+        "parent": "0",
+        "text": "Manifestaciones Clinicas de la\nEnfermedad Venosa Cronica Figura 3:",
+        "guid": "Y1DSTyk03hkIzmYCfrRDlw",
+        "children": [
+          {
+            "id": "196",
+            "parent": "195",
+            "text": "Panel A:",
+            "guid": "XZ4iKWS6BINeJ2LZVdG--Q",
+            "children": [
+              {
+                "id": "197",
+                "parent": "196",
+                "text": "Lipodermatoesclerosis",
+                "guid": "ATeEPRBhJut3IlJpbk6oFQ",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "196",
+                "text": "Corona flebectasica",
+                "guid": "cd3VbWuCFm4VD83kBYVdpA",
+                "children": []
+              },
+              {
+                "id": "199",
+                "parent": "196",
+                "text": "Ulcera venosa",
+                "guid": "eDOczxKJDT1Nw8dYQWXQrA",
+                "children": []
+              },
+              {
+                "id": "200",
+                "parent": "196",
+                "text": "Pie plano (pes planus)",
+                "guid": "a5AWtjlGbr5wufgxTKxM2w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "201",
+            "parent": "195",
+            "text": "Panel B:",
+            "guid": "d0MRwCvrKjEXN4-lYtModw",
+            "children": [
+              {
+                "id": "202",
+                "parent": "201",
+                "text": "Edema pierna derecha (insuficiencia venosa funcional: debilidad muscular pantorrilla y edema dependiente)",
+                "guid": "FkozCQh4RhxgVw8dbRBtTw",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "201",
+                "text": "Disminucion Edema pierna izquierda (1 semana de terapia de compresion con vendajes multicapa)",
+                "guid": "B7PGYHe6v3lj_0GPBdvcTA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "204",
+            "parent": "195",
+            "text": "Panel C:",
+            "guid": "ZTGY8Afxh9Yvf3VSe3vL-Q",
+            "children": [
+              {
+                "id": "205",
+                "parent": "204",
+                "text": "Obesidad morbida",
+                "guid": "GPSjazbvLDNNlKLafEV1uw",
+                "children": []
+              },
+              {
+                "id": "206",
+                "parent": "204",
+                "text": "Varices reticulares",
+                "guid": "YCQKTFZjCNx6-blSYVuOiQ",
+                "children": []
+              },
+              {
+                "id": "207",
+                "parent": "204",
+                "text": "Aranas vasculares",
+                "guid": "ZsQvx3IcC7tPqjaeWKIFNQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "208",
+        "parent": "0",
+        "text": "Farmacos que\ninducen edema",
+        "guid": "HQ4XkgJsB8gkLusgBNWwlg",
+        "children": [
+          {
+            "id": "209",
+            "parent": "208",
+            "text": "Mecanismos:",
+            "guid": "bq1cNimhRi0sh2KMTjzfMQ",
+            "children": [
+              {
+                "id": "210",
+                "parent": "209",
+                "text": "Vasodilatacion",
+                "guid": "AkgyvCp5X3EIQVkWfxML9Q",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "209",
+                "text": "Retencion de sodio y agua",
+                "guid": "USph_SZmJAAXb2NNBh1FfA",
+                "children": []
+              },
+              {
+                "id": "212",
+                "parent": "209",
+                "text": "Insuficiencia linfatica",
+                "guid": "O9h8akqkGvw4QLrHekPdEA",
+                "children": []
+              },
+              {
+                "id": "213",
+                "parent": "209",
+                "text": "Aumento Permeabilidad vascular",
+                "guid": "d4Tu0FlMguoBvbKvRn0hdQ",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "209",
+                "text": "Pueden imitar o coexistir con la IVC",
+                "guid": "XQqdihUUfbRZ6e2Ze_G1Mw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "215",
+            "parent": "208",
+            "text": "Clases de\nmedicamentos",
+            "guid": "OaoB9zIq2bQYUcJbVrgZiQ",
+            "children": [
+              {
+                "id": "216",
+                "parent": "215",
+                "text": "Antiepilepticos: Gabapentina, pregabalina, carbamazepina, valproato",
+                "guid": "NJbhfDyArXtbjcogI0Q9sw",
+                "children": []
+              },
+              {
+                "id": "217",
+                "parent": "215",
+                "text": "Antidepresivos: Escitalopram, mirtazapina, paroxetina, venlafaxina",
+                "guid": "ZiHzqQgVLKxxgRzkaGomZQ",
+                "children": []
+              },
+              {
+                "id": "218",
+                "parent": "215",
+                "text": "Antipsicoticos: Quetiapina, olanzapina, paliperidona, quetiapina, risperidona, ziprasidona",
+                "guid": "Mo6MHXnCdfpnfTJaA7juGg",
+                "children": []
+              },
+              {
+                "id": "219",
+                "parent": "215",
+                "text": "Antiparkinsonianos: Levodopa, carbidopa",
+                "guid": "ICiZ-n7slacJ1jOWXAEWZA",
+                "children": []
+              },
+              {
+                "id": "220",
+                "parent": "215",
+                "text": "Antihipertensivos:",
+                "guid": "SZCwo0IW7l1WRPN0QRWfcw",
+                "children": [
+                  {
+                    "id": "221",
+                    "parent": "220",
+                    "text": "Bloqueadores canales de calcio (amlodipino, nifedipino, diltiazem)",
+                    "guid": "G2NxR1gCpiQHksDpeG4O0g",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "220",
+                    "text": "Bloqueadores receptores adrenergicos (prazosina)",
+                    "guid": "bRcj2GF8roJ0X8QFJsElzw",
+                    "children": []
+                  },
+                  {
+                    "id": "223",
+                    "parent": "220",
+                    "text": "Vasodilatadores (hidralazina, clonidina, minoxidil)",
+                    "guid": "E6eINwyxhmF9eT9ZSD5psw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "224",
+                "parent": "215",
+                "text": "Terapia Hormonal: Estrogenos, progestagenos, inhibidores de la aromatasa (anastrozol, letrozol),\nandrogenos (danazol, testosterona)",
+                "guid": "STIz3FkHCXlrgqdmL1QnhQ",
+                "children": []
+              },
+              {
+                "id": "225",
+                "parent": "215",
+                "text": "Glucocorticoides: Hidrocortisona, metilprednisolona, betametasona",
+                "guid": "YRw2JV0DxEsXvk3qE6rCQg",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "215",
+                "text": "AINE: Aspirina, ibuprofeno, naproxeno, diclofenaco",
+                "guid": "VsY6RX87gEQXY7Bcdu7UQA",
+                "children": []
+              },
+              {
+                "id": "227",
+                "parent": "215",
+                "text": "Quimioterapia",
+                "guid": "figV6yE54_JS7-qkR7jGjg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "228",
+        "parent": "0",
+        "text": "Ecografia Doppler:",
+        "guid": "",
+        "children": [
+          {
+            "id": "229",
+            "parent": "228",
+            "text": "Fundamental para identificar\nproblemas estructurales:",
+            "guid": "cqxKNB9bwylWCsS2TyZk7w",
+            "children": [
+              {
+                "id": "230",
+                "parent": "229",
+                "text": "Reflujo venoso.",
+                "guid": "Ik_ttkIiB_08Ck2dNRqcsg",
+                "children": []
+              },
+              {
+                "id": "231",
+                "parent": "229",
+                "text": "Obstruccion venosa.",
+                "guid": "FsWEjEELyp1Pdo-YN_R78w",
+                "children": []
+              },
+              {
+                "id": "232",
+                "parent": "229",
+                "text": "Tamaño de las venas.",
+                "guid": "ZAa4PQpYadNcnhplco-5Vg",
+                "children": []
+              },
+              {
+                "id": "233",
+                "parent": "229",
+                "text": "Anatomia.",
+                "guid": "YgWhHmTmai9DCdbFUXfuyw",
+                "children": []
+              },
+              {
+                "id": "234",
+                "parent": "229",
+                "text": "Tiempos de reflujo.",
+                "guid": "Mij52Tw5QFFKy16VFBAAAw",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "229",
+                "text": "Patrones de flujo.",
+                "guid": "Nr_7MCueEqZvVYEwEMVqOw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "236",
+            "parent": "228",
+            "text": "Limitacion: No puede discernir la hipertension venosa.",
+            "guid": "ScHJ9js8jx92NLekPG4UKg",
+            "children": []
+          },
+          {
+            "id": "237",
+            "parent": "228",
+            "text": "Flujo venoso normal:",
+            "guid": "WphSSUw_fFoLlHkafOg__w",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "Espontaneo.",
+                "guid": "DmGEV0eexrcyAtyxJScI4w",
+                "children": []
+              },
+              {
+                "id": "239",
+                "parent": "237",
+                "text": "Respirofasico (responde a la respiracion).",
+                "guid": "CKqRVAF5bEpdG4TXbLFJkQ",
+                "children": []
+              },
+              {
+                "id": "240",
+                "parent": "237",
+                "text": "Unidireccional.",
+                "guid": "C9HWHTm5nzxfQQLnbdd3PA",
+                "children": []
+              },
+              {
+                "id": "241",
+                "parent": "237",
+                "text": "Sin reflujo en respuesta a las maniobras de aumento.",
+                "guid": "HqAJayJK2aw_T2YHUMkDRQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "242",
+            "parent": "228",
+            "text": "Reflujo venoso:",
+            "guid": "XoQZ_goaxJ1k2QNIFUQVLg",
+            "children": [
+              {
+                "id": "243",
+                "parent": "242",
+                "text": "Puede ocurrir en segmentos aislados o involucrar toda la vena (reflujo axial).",
+                "guid": "NbjXQ1QuhHgmCX9qf3qhOQ",
+                "children": []
+              },
+              {
+                "id": "244",
+                "parent": "242",
+                "text": "Tiempo de reflujo\nhemodinamicamente significativo:",
+                "guid": "D2sTmBw-Nw476LVjagNl4Q",
+                "children": [
+                  {
+                    "id": "245",
+                    "parent": "244",
+                    "text": "> 0.5 segundos en las venas superficiales.",
+                    "guid": "aH2zaEd9Ln1m66Xgdt83vw",
+                    "children": []
+                  },
+                  {
+                    "id": "246",
+                    "parent": "244",
+                    "text": "> 1.0 segundo en las venas profundas.",
+                    "guid": "Dxv1NBjugpEcBkCiF8aGiQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "247",
+                "parent": "242",
+                "text": "Limitacion de los tiempos de reflujo: No se correlacionan de\nforma fiable con la gravedad de la enfermedad o los sintomas.",
+                "guid": "Gmfu23khxXkEd9AaJjnE-Q",
+                "children": []
+              },
+              {
+                "id": "248",
+                "parent": "242",
+                "text": "Perdida de la respirofasicidad: Su sustitucion por formas de onda\ncontinuas o pulsatiles puede sugerir problemas venosos mas proximales.",
+                "guid": "MttktmO40wIUETw1UXtuIQ",
+                "children": []
+              },
+              {
+                "id": "249",
+                "parent": "242",
+                "text": "Limitaciones tecnicas de la ecografia duplex: Dificultad\npara evaluar el flujo venoso en las estructuras profundas.",
+                "guid": "BgOsrlNgojwiRHFmZIfGrA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "250",
+            "parent": "228",
+            "text": "Alternativas para la evaluacion de las\nvenas iliacas profundas de la pelvis:",
+            "guid": "XXtm2QcddK95y9vbEzQ-HA",
+            "children": [
+              {
+                "id": "251",
+                "parent": "250",
+                "text": "Venografia por tomografia computarizada.",
+                "guid": "W0v5Jx_VW0USrt9VarcMvw",
+                "children": []
+              },
+              {
+                "id": "252",
+                "parent": "250",
+                "text": "Venografia por resonancia magnetica.",
+                "guid": "PBOSU06XlLlUunKgJJFFuw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "253",
+        "parent": "0",
+        "text": "Tratamiento",
+        "guid": "VJSbEjd2vhw89z70bvyJ7Q",
+        "children": [
+          {
+            "id": "254",
+            "parent": "253",
+            "text": "Generalidades:",
+            "guid": "QfEcVhfFFmJE-j_hKLVMHQ",
+            "children": [
+              {
+                "id": "255",
+                "parent": "254",
+                "text": "Manejo Qx: procedimientos endovasculares y Qx no se abordan en este articulo.",
+                "guid": "A3qnC2uOE3kcy10QY56xVw",
+                "children": []
+              },
+              {
+                "id": "256",
+                "parent": "254",
+                "text": "Existe la idea erronea de que la enfermedad venosa es una afeccion que se puede curar quirurgicamente.",
+                "guid": "CeEiHRSkdn8BV1FSZ39ERg",
+                "children": []
+              },
+              {
+                "id": "257",
+                "parent": "254",
+                "text": "La enfermedad venosa es cronica y a menudo incluye un componente funcional.",
+                "guid": "eV57Al9-tCw9UQM_cKGMww",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "258",
+            "parent": "253",
+            "text": "Pilares del tratamiento\nconservador:",
+            "guid": "C2neXVSIkuRTdLU6cJt3TQ",
+            "children": [
+              {
+                "id": "259",
+                "parent": "258",
+                "text": "Reduccion de la hipertension venosa central.",
+                "guid": "XHoauwL0KoxsF0NHbOPorQ",
+                "children": []
+              },
+              {
+                "id": "260",
+                "parent": "258",
+                "text": "Terapia de compresion.",
+                "guid": "Esqu_FSjfI8FAX0AGlvy5g",
+                "children": []
+              },
+              {
+                "id": "261",
+                "parent": "258",
+                "text": "Elevacion de las piernas.",
+                "guid": "IS73ZyL67Z864do7JKmecg",
+                "children": []
+              },
+              {
+                "id": "262",
+                "parent": "258",
+                "text": "Ejercicio que involucre la flexion y extension de la pantorrilla y el pie.",
+                "guid": "DokBGVetN0sISE_JUHodbw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "263",
+            "parent": "253",
+            "text": "Objetivos del\ntratamiento:",
+            "guid": "b3JNrU1Cj6p5L2mMeVNvyg",
+            "children": [
+              {
+                "id": "264",
+                "parent": "263",
+                "text": "Aliviar los sintomas y las molestias.",
+                "guid": "YecGKnqGut9g0rQQW0WBLA",
+                "children": []
+              },
+              {
+                "id": "265",
+                "parent": "263",
+                "text": "No deben basarse unicamente en los hallazgos de las imagenes.",
+                "guid": "WgVvCx4jt1BL5w3vZW9NaA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "266",
+        "parent": "0",
+        "text": "Tratamientos Procedurales\nVenosos",
+        "guid": "XlE8gwl_MUZtV9JOOZ01qg",
+        "children": [
+          {
+            "id": "267",
+            "parent": "266",
+            "text": "Indicaciones:",
+            "guid": "KVSMiwAGsaMkVEJqZWge3g",
+            "children": [
+              {
+                "id": "268",
+                "parent": "267",
+                "text": "Venas varicosas, aranas vasculares, venas sangrantes y redes periulcerosas venosas",
+                "guid": "Tp5GXHkOtQoJ-WSZZLMJkw",
+                "children": []
+              },
+              {
+                "id": "269",
+                "parent": "267",
+                "text": "Cuando los sintomas de un paciente se correlacionan con los cambios patologicos venosos en la ecografia ->\nPueden estar indicadas las intervenciones venosas, ya que pueden reducir los sintomas",
+                "guid": "MJiDlkFvDw4VNk7mY3PoTA",
+                "children": []
+              },
+              {
+                "id": "270",
+                "parent": "267",
+                "text": "El reflujo venoso y las venas varicosas crean una contrapresion.",
+                "guid": "JSfiEClHixs071ZtKyuOvw",
+                "children": []
+              },
+              {
+                "id": "271",
+                "parent": "267",
+                "text": "Las venas alimentadoras de las ulceras venosas en las piernas provocan hipertension venosa.",
+                "guid": "fKgtWFczx9QPs1VrWiOUMQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "272",
+            "parent": "266",
+            "text": "Procedimientos:",
+            "guid": "NLTNiyVp4hMJ48H-CUlonQ",
+            "children": [
+              {
+                "id": "273",
+                "parent": "272",
+                "text": "Escleroterapia:",
+                "guid": "XOCgMEbbAPJ4RfKKDXkjxg",
+                "children": [
+                  {
+                    "id": "274",
+                    "parent": "273",
+                    "text": "Evidencia de Beneficio: Reduccion dolor, pesadez, edema, prurito, ardor, parestesias y hormigueo,\ny mejoria en la cicatrizacion de heridas.",
+                    "guid": "CEoQAA18QXFw7QwSLXHyEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "275",
+                    "parent": "273",
+                    "text": "Tipo de Datos:\nObservacional",
+                    "guid": "NsPMjCXcYn9YnYDQM2v55A",
+                    "children": [
+                      {
+                        "id": "276",
+                        "parent": "275",
+                        "text": "Ablacion Termica\nEndovenosa:",
+                        "guid": "fRAqU2hQ1jsNj44WW2Fm1g",
+                        "children": [
+                          {
+                            "id": "277",
+                            "parent": "276",
+                            "text": "Indicacion: Venas axiales y perforantes.",
+                            "guid": "cdAHgnrnYGQU_pyBGySUDQ",
+                            "children": []
+                          },
+                          {
+                            "id": "278",
+                            "parent": "276",
+                            "text": "Evidencia de Beneficio: Alto porcentaje (mayor o igual 95.1%) de oclusion del\nreflujo venoso axial al ano o mas y mejoria en las medidas de calidad de vida",
+                            "guid": "eu4SBzlS3usAjLLsSYxYZA",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "id": "279",
+                        "parent": "275",
+                        "text": "Radiofrecuencia:",
+                        "guid": "L-_5mTgjI_VwX8odDNCZyQ",
+                        "children": [
+                          {
+                            "id": "280",
+                            "parent": "279",
+                            "text": "Indicacion: Venas axiales y perforantes.",
+                            "guid": "fv4k52ilvKgaSb2PB0g05w",
+                            "children": []
+                          },
+                          {
+                            "id": "281",
+                            "parent": "279",
+                            "text": "Evidencia de Beneficio: Alto porcentaje (91.9%) de oclusion a los 5 anos, mejoria en las medidas venosas, mejoria\nen las medidas de calidad de vida especificas de la enfermedad venosa y mejoria en la cicatrizacion de las heridas.",
+                            "guid": "diH-GQs2yaE0uib4LOXKpQ",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "282",
+                "parent": "272",
+                "text": "Ablacion no Termica\nEndovenosa:",
+                "guid": "dah-BG3hUqAJhL1KZ3iFhg",
+                "children": [
+                  {
+                    "id": "283",
+                    "parent": "282",
+                    "text": "*   Microespuma:",
+                    "guid": "aMizBB6DWcsCnRmTY7bFCw",
+                    "children": [
+                      {
+                        "id": "284",
+                        "parent": "283",
+                        "text": "*   Indicacion: Venas axiales",
+                        "guid": "V9Y4tgMpzH8tQx1vCjfMrA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 285,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Cardiología",
+  "filename": "NEJM 2024 | Insuficiencia Venosa Cronica-2024-1",
+  "id": "map_1144",
+  "resolved_references": []
+}

@@ -1,0 +1,2061 @@
+{
+  "title": "LINFOMAS NO-HODGKIN Y HODGKIN",
+  "guid": "235721580A262E054E9C902F",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/Hazzards. LINFOMAS NO-HODGKIN Y HODGKIN-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "LINFOMAS NO-HODGKIN\nY HODGKIN",
+    "guid": "FhMPOx8pc4kHtKJbf34BRQ",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## Objetivos de\nAprendizaje",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Mayoría de linfomas ocurren en adultos mayores",
+            "guid": "Zm1ayEmI1Nx9YWBRT7WpJw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Sistemas modernos de clasificación evolucionan rápidamente e incorporan inmunofenotipado y genética",
+            "guid": "DJFPGmFEu6JJwYQtYAcHfA",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Comorbilidad y fragilidad son fuertes modificadores del pronóstico y deben incorporarse en la planificación del tratamiento",
+            "guid": "Hz2GSgN-GEIy451gOxw3MA",
+            "children": []
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "- Inmunoterapias tienen un papel creciente en el tratamiento de algunos linfomas; considerar expectativa de vida al planificar tratamiento",
+            "guid": "JtU5mj0Jy2UJuMdgPOhI1Q",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "## Introducción a Linfomas\nNo-Hodgkin y Hodgkin",
+        "guid": "",
+        "children": [
+          {
+            "id": "7",
+            "parent": "6",
+            "text": "- Interrelación entre envejecimiento y desarrollo de malignidad",
+            "guid": "XDM-7xFtabs8ZkobM0jd2w",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "6",
+            "text": "- Malignidades linfoides comprenden más de 60 entidades heterogéneas según clasificación WHO 2008",
+            "guid": "BEILzySmb410uiiBHt9Rzg",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "6",
+            "text": "- Edades medianas de diagnóstico: DLBCL (64 años), Mieloma múltiple (71 años), LLC/SLL (72 años)",
+            "guid": "KfjPiFHdEmAutf-pG0WyDg",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "6",
+            "text": "- Linfomas No-Hodgkin (LNH) son las\nmalignidades linfoides más comunes",
+            "guid": "",
+            "children": [
+              {
+                "id": "11",
+                "parent": "10",
+                "text": "- Se originan de células del sistema inmune (linfocitos B, T o células NK)",
+                "guid": "b9z8LnWGGAhAbysSVkpW9g",
+                "children": []
+              },
+              {
+                "id": "12",
+                "parent": "10",
+                "text": "- En EE.UU., linfomas de células B predominan (80-85%)",
+                "guid": "Pw7s5D3Qi2MmAAAdS6A7_g",
+                "children": []
+              },
+              {
+                "id": "13",
+                "parent": "10",
+                "text": "- Linfomas de células T representan 15-20%",
+                "guid": "HxVHBm_BhEorp0N6PlLNUA",
+                "children": []
+              },
+              {
+                "id": "14",
+                "parent": "10",
+                "text": "- Linfomas de células NK son raros (<1%)",
+                "guid": "cz-cjV6K4Np5bwSAGhTWJw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "parent": "6",
+            "text": "- Presentación clínica",
+            "guid": "",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "- Linfomas indolentes",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "17",
+                    "parent": "16",
+                    "text": "- A menudo\nidentificados\nincidentalmente",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "16",
+                    "text": "- Linfadenopatía progresiva lenta,\nesplenomegalia, citopenias",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "16",
+                    "text": "- Ejemplos: linfoma folicular, linfomas\nde zona marginal, LLC/SLL",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "20",
+                "parent": "15",
+                "text": "- Linfomas agresivos",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "- Presentación\naguda/subaguda",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "- Masa de crecimiento rápido,\nsíntomas B, LDH elevada,\nhipercalcemia, hiperuricemia",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "23",
+                    "parent": "20",
+                    "text": "- Ejemplos: DLBCL, linfomas de células T\nperiféricos, linfoma de Burkitt",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "6",
+            "text": "- Características clínicas",
+            "guid": "",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "- Síntomas B: fiebre >38°C, pérdida de\npeso >10%, sudores nocturnos",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "- Hasta 40% de pacientes con LNH\npueden tener síntomas B",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "- Más comunes en enfermedad\nagresiva/transformada (50%)",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "26",
+                    "text": "- Menos comunes en linfomas\nde bajo grado (<25%)",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "parent": "24",
+                "text": "- Presentaciones extranodales: 10-35%\nal diagnóstico inicial, 50% durante el\ncurso de la enfermedad",
+                "guid": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "30",
+        "parent": "0",
+        "text": "## Epidemiología",
+        "guid": "",
+        "children": [
+          {
+            "id": "31",
+            "parent": "30",
+            "text": "- Estimaciones 2016\n(American Cancer Society)",
+            "guid": "",
+            "children": [
+              {
+                "id": "32",
+                "parent": "31",
+                "text": "- 81,080 nuevos diagnósticos de linfoma en EE.UU.",
+                "guid": "G5SsQAMny-BW_R79d8frLw",
+                "children": [
+                  {
+                    "id": "33",
+                    "parent": "32",
+                    "text": "- 72,580 LNH y 8,500 HL",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "31",
+                "text": "- 21,270 muertes por malignidad linfoide (principalmente LNH, 20,150)",
+                "guid": "FJU1mxNjaRgrEMkKGNdBaw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "35",
+            "parent": "30",
+            "text": "- Incidencia relacionada con\nla edad en EE.UU.",
+            "guid": "",
+            "children": [
+              {
+                "id": "36",
+                "parent": "35",
+                "text": "- 2007-2011: tasas de HL estables, tasas de LNH aumentaron levemente en hombres (0.3% anual)",
+                "guid": "OAnYpR_K8Ys3tpM5YgKoLQ",
+                "children": []
+              },
+              {
+                "id": "37",
+                "parent": "35",
+                "text": "- Tasas de mortalidad por HL disminuyendo por cuatro décadas",
+                "guid": "cagD62ZskuN9SFo8YYUAGQ",
+                "children": []
+              },
+              {
+                "id": "38",
+                "parent": "35",
+                "text": "- Tasas de mortalidad por LNH disminuyendo desde finales de 1990s",
+                "guid": "W_Kq6z23hU43z1cPGwGXzw",
+                "children": [
+                  {
+                    "id": "39",
+                    "parent": "38",
+                    "text": "- Beneficio de anticuerpos monoclonales (rituximab)",
+                    "guid": "e4gQsl3PVyxmodPNGp1XuA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "40",
+                "parent": "35",
+                "text": "- Aumento significativo de incidencia de LNH 1970-1995, luego estabilización",
+                "guid": "TZDbdxJJF0hY8CUIQNB4BA",
+                "children": []
+              },
+              {
+                "id": "41",
+                "parent": "35",
+                "text": "- Factores contribuyentes:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "- Envejecimiento de la población",
+                    "guid": "cNP4IlJfKYha5U4rDGikYg",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "41",
+                    "text": "- Aumentos en expectativa de vida",
+                    "guid": "VYb1aTHibSgEMI-RahwrBA",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "41",
+                    "text": "- Baby-boomers entrando en edad avanzada",
+                    "guid": "RUXWQC9BWJsC82xvfU-u5g",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "41",
+                    "text": "- Disminución de mortalidad por otras causas",
+                    "guid": "TwxKJjqp_6lfUlcTQLROEQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46",
+                "parent": "35",
+                "text": "- Proyecciones: aumentos en incidencia de LNH (67%) y HL (70%) en adultos mayores para 2030",
+                "guid": "IRaSjFyasU8iOU4qfQk9dw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "47",
+        "parent": "0",
+        "text": "## Sistema de Clasificación de LNH -\nOrganización Mundial de la Salud 2008",
+        "guid": "GlI2nloIpTkYCtVGFdpHUA",
+        "children": [
+          {
+            "id": "48",
+            "parent": "47",
+            "text": "- Base biológica\naumentada",
+            "guid": "",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "- Históricamente basada en patrones morfológicos (clasificación Rappaport, 1956)",
+                "guid": "N9f8Zn6sqRMwd58IBWjX3Q",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "- Clasificación Kiel: dividía linfomas en grados bajo y alto según características histológicas",
+                "guid": "EPXAWwlnxBBGOU_hAcm4fg",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "48",
+                "text": "- Formulación de Trabajo Internacional (IWF): estableció categorías de bajo, intermedio y alto grado",
+                "guid": "W8btmCEengwOMlzgMU3jAQ",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "48",
+                "text": "- Clasificación REAL (1994) y\nactualización WHO (2001)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "53",
+                    "parent": "52",
+                    "text": "- Integración de célula de origen, morfología,\ninmunofenotipo, genética y características clínicas",
+                    "guid": "UwELNRJi7HIbag4GGEbhdQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "54",
+                "parent": "48",
+                "text": "- Clasificación WHO 2008",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "55",
+                    "parent": "54",
+                    "text": "- Refinamientos adicionales",
+                    "guid": "QaRFDR5denUVlpBbELCPNA",
+                    "children": []
+                  },
+                  {
+                    "id": "56",
+                    "parent": "54",
+                    "text": "- Mayor claridad y complejidad para diagnósticos de linfomas T/NK",
+                    "guid": "WQd6HnTo529RZN1Feh4Mqg",
+                    "children": []
+                  },
+                  {
+                    "id": "57",
+                    "parent": "54",
+                    "text": "- Integración de nuevas enfermedades y subtipos",
+                    "guid": "UYOYvnOeK3B3J0oha9XPXA",
+                    "children": []
+                  },
+                  {
+                    "id": "58",
+                    "parent": "54",
+                    "text": "- Importancia de detectar entidades virales (EBV, HHV8, HTLV1)",
+                    "guid": "TabQqQ8yH2cBsBasBX7NDw",
+                    "children": []
+                  },
+                  {
+                    "id": "59",
+                    "parent": "54",
+                    "text": "- Mayor uso de características genéticas (citogenética y FISH)",
+                    "guid": "Dd7IezIntbQK56TsHtSI1g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "60",
+        "parent": "0",
+        "text": "## Etiología de LNH",
+        "guid": "",
+        "children": [
+          {
+            "id": "61",
+            "parent": "60",
+            "text": "- Causa desconocida para la mayoría de los linfomas",
+            "guid": "O495xFEg9M0gnkFUF1ZnXQ",
+            "children": []
+          },
+          {
+            "id": "62",
+            "parent": "60",
+            "text": "- Eventos mutacionales estocásticos inherentes al proceso de división celular",
+            "guid": "cj-S2i7QnjVIpEpeRUCeDw",
+            "children": []
+          },
+          {
+            "id": "63",
+            "parent": "60",
+            "text": "- Factores de riesgo\nepidemiológicos:",
+            "guid": "",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "- Historia familiar de linfoma",
+                "guid": "QTOKp2QOWGRdh3-EAtfPtA",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "- Tratamiento previo con radiación o quimioterapia",
+                "guid": "AmvS2nMeD-ATiF7oW3NM-A",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "- Agentes inmunosupresores",
+                "guid": "aAb3T2TtPC5VkVmjOYqQDQ",
+                "children": []
+              },
+              {
+                "id": "67",
+                "parent": "63",
+                "text": "- Tabaquismo y obesidad",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "68",
+                "parent": "63",
+                "text": "- Exposiciones ambientales (pesticidas agrícolas, tintes capilares, agente naranja)",
+                "guid": "WItnnky4o8QlYF9qJjI4Rw",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "63",
+                "text": "- Desregulación del\nsistema inmune",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "- Enfermedades autoinmunes (artritis reumatoide, lupus, síndrome de Sjögren, tiroiditis)",
+                    "guid": "W-rDLCcQdhYrsQVXacmLpw",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "69",
+                    "text": "- Trasplante de órganos sólidos",
+                    "guid": "WTgryzaYqkMInhR9FMeljw",
+                    "children": []
+                  },
+                  {
+                    "id": "72",
+                    "parent": "69",
+                    "text": "- Enfermedad celíaca",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "73",
+                "parent": "63",
+                "text": "- Infecciones asociadas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "74",
+                    "parent": "73",
+                    "text": "- VIH, HTLV-I, EBV, hepatitis C, hepatitis B, Helicobacter pylori, HHV8",
+                    "guid": "B7mfESk8VdIsHgzsefkx6w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "75",
+        "parent": "0",
+        "text": "## EBV en Linfoma y\nAdultos Mayores",
+        "guid": "",
+        "children": [
+          {
+            "id": "76",
+            "parent": "75",
+            "text": "- DLBCL EBV+ de adultos mayores\n(clasificación WHO 2008)",
+            "guid": "",
+            "children": [
+              {
+                "id": "77",
+                "parent": "76",
+                "text": "- Proliferación monoclonal de células B grandes EBV-positiva",
+                "guid": "WAz0B3TCV0s_Oc_6GUB-rg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "76",
+                "text": "- Pacientes >50 años (edad media ~70 años)",
+                "guid": "WNCvrxzBT34cGE5iWzyCiQ",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "76",
+                "text": "- Sin historia conocida de inmunodeficiencia",
+                "guid": "D99fXi-grUs2r8-Cd-ZWrQ",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "76",
+                "text": "- Características:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "81",
+                    "parent": "80",
+                    "text": "- Fenotipo ABC",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "82",
+                    "parent": "80",
+                    "text": "- Fuerte activación NF-κB",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "80",
+                    "text": "- Mayor distribución extranodal al diagnóstico",
+                    "guid": "FI3peQxBKSUxcOa7bRlRFw",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "80",
+                    "text": "- Supervivencia inferior",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "85",
+            "parent": "75",
+            "text": "- EBV también implicado en\npatogénesis y resultado de HL",
+            "guid": "",
+            "children": [
+              {
+                "id": "86",
+                "parent": "85",
+                "text": "- Impacto negativo en resultado en edad avanzada\n(diferente a pacientes jóvenes)",
+                "guid": "WPnM6VbRRiUTS4leNOSQFQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "## Factores Genéticos -\nTranslocaciones",
+        "guid": "",
+        "children": [
+          {
+            "id": "88",
+            "parent": "87",
+            "text": "- Translocaciones balanceadas\nfrecuentes en LNH",
+            "guid": "feG8Oz78jrUerhu8VxnoBg",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "- A menudo involucran región de cadena pesada de inmunoglobulina en cromosoma 14",
+                "guid": "dZU4-SdMMDpr4Y2WfU7YCg",
+                "children": []
+              },
+              {
+                "id": "90",
+                "parent": "88",
+                "text": "- Activación constitutiva del gen translocado",
+                "guid": "UIiGDBf_moJ3SAn1KJV6Ew",
+                "children": []
+              },
+              {
+                "id": "91",
+                "parent": "88",
+                "text": "- Señalización aumentada\npara genes como:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "92",
+                    "parent": "91",
+                    "text": "- Vías antiapoptóticas (BCL2)",
+                    "guid": "DMHxzTaB2e9B1fjBZZKhfQ",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "91",
+                    "text": "- Proteínas del ciclo celular (CCND1)",
+                    "guid": "U0MpbV3uRyNAzyQGYyKIzA",
+                    "children": []
+                  },
+                  {
+                    "id": "94",
+                    "parent": "91",
+                    "text": "- Proliferación celular (cMYC)",
+                    "guid": "DY70bnd-84hbCN95Ihzd5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "## Evaluación y\nEstadificación",
+        "guid": "",
+        "children": [
+          {
+            "id": "96",
+            "parent": "95",
+            "text": "- Evaluación inicial:",
+            "guid": "",
+            "children": [
+              {
+                "id": "97",
+                "parent": "96",
+                "text": "- Historia y examen físico detallados (atención a sitios linfáticos)",
+                "guid": "A8AcrQx5xjQPNi7-XLnplw",
+                "children": []
+              },
+              {
+                "id": "98",
+                "parent": "96",
+                "text": "- Anillo de Waldeyer, bazo, piel, SNC, testículos, mamas, hueso",
+                "guid": "Y0sMWSKBuF0RnnmsYSzIlQ",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "96",
+                "text": "- Análisis de sangre: CBC, panel completo, calcio, ácido úrico, LDH, electroforesis de proteínas",
+                "guid": "YX5HEjBMlWk4RrCbVxOACw",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "96",
+                "text": "- β2 microglobulina (linfomas indolentes)",
+                "guid": "V5jFoyQoPjFUYlgVKCFLrw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "96",
+                "text": "- Pruebas serológicas para VIH, hepatitis B y C",
+                "guid": "PCfYtEuqYgpQtsXCSOnKgQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "102",
+            "parent": "95",
+            "text": "- Biopsia necesaria para\ndiagnóstico y clasificación",
+            "guid": "",
+            "children": [
+              {
+                "id": "103",
+                "parent": "102",
+                "text": "- Preferiblemente biopsia excisional o incisional de ganglio linfático",
+                "guid": "Aiw7-RKMvoMufGv-VW9lZw",
+                "children": []
+              },
+              {
+                "id": "104",
+                "parent": "102",
+                "text": "- Evaluaciones\ncomplejas necesarias:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "105",
+                    "parent": "104",
+                    "text": "- Evaluación morfológica",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "104",
+                    "text": "- Tinción inmunohistoquímica",
+                    "guid": "cHsFpm9LkAU4ke4zfgn6FQ",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "104",
+                    "text": "- Citometría de flujo",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "104",
+                    "text": "- Pruebas FISH",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "104",
+                    "text": "- Citogenética",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "104",
+                    "text": "- PCR para clonalidad",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "104",
+                    "text": "- Perfiles de expresión génica",
+                    "guid": "ZsqDjROazawgJtf8aoqgOw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "112",
+            "parent": "95",
+            "text": "- Sistema de Estadificación\nAnn Arbor",
+            "guid": "IBST4S9dBvtHRInSA1-gOg",
+            "children": [
+              {
+                "id": "113",
+                "parent": "112",
+                "text": "- Desarrollado en 1974 para HL",
+                "guid": "Ud6_WFjjA35kjGjPM10Gag",
+                "children": []
+              },
+              {
+                "id": "114",
+                "parent": "112",
+                "text": "- Define localización y extensión de enfermedad",
+                "guid": "CS-Y5xzTGWsKcIZ2YMheig",
+                "children": []
+              },
+              {
+                "id": "115",
+                "parent": "112",
+                "text": "- Modificado en 1988\n(clasificación Cotswold)",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- Inclusión formal de TC",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- Designaciones para enfermedad bulky (X)",
+                    "guid": "QPtXnF7S3osI6ao5fSMwUA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "118",
+                "parent": "112",
+                "text": "- Criterios de respuesta\nuniversalmente aceptados",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "119",
+                    "parent": "118",
+                    "text": "- Publicados en 1999 por NCI Working Group",
+                    "guid": "Kn1Allmgb_tGDPrSLKl8jw",
+                    "children": []
+                  },
+                  {
+                    "id": "120",
+                    "parent": "118",
+                    "text": "- Revisados en 2007 por\nInternational Working Group (IWG)",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "121",
+                        "parent": "120",
+                        "text": "- Incorporación de PET y médula ósea por\ninmunohistoquímica/citometría",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "parent": "0",
+        "text": "## Clasificación Lugano\nActualizada 2015",
+        "guid": "",
+        "children": [
+          {
+            "id": "123",
+            "parent": "122",
+            "text": "- Integración formal de PET en estadificación inicial para linfomas ávidos por FDG",
+            "guid": "bC0ufnSJZtACGOH2XKg0JQ",
+            "children": []
+          },
+          {
+            "id": "124",
+            "parent": "122",
+            "text": "- Modificación de terminología Ann Arbor eliminando calificadores A/B excepto para HL",
+            "guid": "Y9T21Tqq0Clasi46Sp96Yw",
+            "children": []
+          },
+          {
+            "id": "125",
+            "parent": "122",
+            "text": "- Abandono de biopsia rutinaria de médula ósea en DLBCL y HL basado en imágenes funcionales",
+            "guid": "TkWd1nrZBjY1Khqebloxtw",
+            "children": []
+          },
+          {
+            "id": "126",
+            "parent": "122",
+            "text": "- Integración de escala Deauville de 5 puntos para evaluación de respuesta con PET-FDG",
+            "guid": "KjYNMXxupHBxudHxfBTMiQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "parent": "0",
+        "text": "## Biopsia de Médula Ósea -\nRelevancia para Estadificación",
+        "guid": "",
+        "children": [
+          {
+            "id": "128",
+            "parent": "127",
+            "text": "- Tradicionalmente recomendada como parte de estadificación para LNH y HL",
+            "guid": "VVGn7lZGOsEvcdL0XoFA1g",
+            "children": []
+          },
+          {
+            "id": "129",
+            "parent": "127",
+            "text": "- Involucración de médula ósea ocurre en\n30-50% de pacientes con LNH",
+            "guid": "",
+            "children": [
+              {
+                "id": "130",
+                "parent": "129",
+                "text": "- Más frecuente en\nhistologías indolentes",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "131",
+            "parent": "127",
+            "text": "- Revisión Lugano sugiere que biopsia puede no ser necesaria en DLBCL o HL si imágenes funcionales no identifican lesiones óseas",
+            "guid": "cxlULDniWWo_SZ9gNBSryA",
+            "children": []
+          },
+          {
+            "id": "132",
+            "parent": "127",
+            "text": "- Involucración de médula con linfoma indolente generalmente no evidente en PET-FDG",
+            "guid": "GLU39UgzSZoxN9wZQzJ4iw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "133",
+        "parent": "0",
+        "text": "## Modelos Pronósticos\nde Riesgo Clínico",
+        "guid": "",
+        "children": [
+          {
+            "id": "134",
+            "parent": "133",
+            "text": "- Impacto de la edad en todos\nlos modelos pronósticos",
+            "guid": "",
+            "children": [
+              {
+                "id": "135",
+                "parent": "134",
+                "text": "- Edad cronológica parte integral de\npredictores de riesgo clínico:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "136",
+                    "parent": "135",
+                    "text": "- IPI (índice pronóstico internacional)",
+                    "guid": "IdO5lXdE1utv2_UbDgDoFA",
+                    "children": []
+                  },
+                  {
+                    "id": "137",
+                    "parent": "135",
+                    "text": "- FLIPI (índice pronóstico internacional de linfoma folicular)",
+                    "guid": "a849u3H01xFqqRw5T6M0kQ",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "135",
+                    "text": "- MIPI (índice pronóstico internacional de células del manto)",
+                    "guid": "LJ-nO0VbSnMaQq70euVFEQ",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "135",
+                    "text": "- IPS (puntuación pronóstica internacional de HL)",
+                    "guid": "QDRQqU9syZJpP3bIampd2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "parent": "134",
+                "text": "- Punto de corte de 60 años a menudo usado para segregar pacientes",
+                "guid": "S9tuAlr5SLlmfypkIS0V8A",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "134",
+                "text": "- Edad es variable continua con punto de corte clínicamente relevante entre 70-75 años",
+                "guid": "MT-DehXw_Vh_rlbGJFjXpg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "142",
+            "parent": "133",
+            "text": "- Factores de\nRiesgo Biológicos",
+            "guid": "",
+            "children": [
+              {
+                "id": "143",
+                "parent": "142",
+                "text": "- Índice proliferativo (Ki67)",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "144",
+                "parent": "142",
+                "text": "- Firmas genéticas y perfiles mutacionales",
+                "guid": "T9NWwj739idYbYNvaIiOuA",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "142",
+                "text": "- Célula de origen en DLBCL",
+                "guid": "Bys_wQmlX4gruwdDKP75Vg",
+                "children": []
+              },
+              {
+                "id": "146",
+                "parent": "142",
+                "text": "- Firmas inmunes del huésped en LF y DLBCL",
+                "guid": "AOo2cxuW_F42_-FqbLh0Lg",
+                "children": []
+              },
+              {
+                "id": "147",
+                "parent": "142",
+                "text": "- Presencia concurrente de t(14;18) BCL2 y t(8;14) cMYC (\"doble hit\")",
+                "guid": "DYvTcCGo_aM8W6i_Oit6qw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "148",
+        "parent": "0",
+        "text": "## Evaluación de\nRiesgo de SNC",
+        "guid": "",
+        "children": [
+          {
+            "id": "149",
+            "parent": "148",
+            "text": "- Evaluación con punción lumbar importante en pacientes con sospecha de afectación del sistema nervioso",
+            "guid": "ZwRIFlaeV7M1EL-8JziYwA",
+            "children": []
+          },
+          {
+            "id": "150",
+            "parent": "148",
+            "text": "- Análisis de LCR debe incluir: recuento celular, glucosa, proteína, citología y citometría de flujo",
+            "guid": "JgshRR5QNoQRovabceaPRw",
+            "children": []
+          },
+          {
+            "id": "151",
+            "parent": "148",
+            "text": "- Riesgo aumentado asociado con factores de riesgo clínico alto, sitios anatómicos (testículos, mama), múltiples sitios extranodales y médula ósea",
+            "guid": "eUl_PXgiIP8TE6U4KokCuA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "152",
+        "parent": "0",
+        "text": "## Diferencias en Biología del\nLinfoma entre Pacientes\nMayores y Jóvenes",
+        "guid": "",
+        "children": [
+          {
+            "id": "153",
+            "parent": "152",
+            "text": "- Factores relacionados con el huésped durante el envejecimiento",
+            "guid": "DhMeWBLB-_5O4dpeXeZ1Gg",
+            "children": []
+          },
+          {
+            "id": "154",
+            "parent": "152",
+            "text": "- Diferencias biológicas en la\nenfermedad subyacente",
+            "guid": "",
+            "children": [
+              {
+                "id": "155",
+                "parent": "154",
+                "text": "- Niveles inflamatorios más altos (IL-6) en pacientes mayores",
+                "guid": "UbnyJSdPXc1GbwPSWOUx5g",
+                "children": []
+              },
+              {
+                "id": "156",
+                "parent": "154",
+                "text": "- Heterogeneidad genética y complejidad creciente con la edad",
+                "guid": "MPS9VXIqCxYB5Cs9Md7zyA",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "154",
+                "text": "- Fenotipo de célula B activada (ABC) más frecuente en pacientes DLBCL mayores",
+                "guid": "DcEHdDjkDKcel2f3G0za5A",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "154",
+                "text": "- EBV conectado con resultados inferiores en DLBCL y HL de adultos mayores",
+                "guid": "Wo0KS1rzELZVeFWPQZFSYQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "159",
+        "parent": "0",
+        "text": "## Tratamiento de Pacientes Mayores\ncon Linfoma No-Hodgkin",
+        "guid": "",
+        "children": [
+          {
+            "id": "160",
+            "parent": "159",
+            "text": "- Expectativa de vida",
+            "guid": "",
+            "children": [
+              {
+                "id": "161",
+                "parent": "160",
+                "text": "- Persona de 80 años con salud promedio: expectativa de vida aproximada de 5 años",
+                "guid": "MZFoagqJFUtoyeshV5yJrw",
+                "children": []
+              },
+              {
+                "id": "162",
+                "parent": "160",
+                "text": "- Linfoma agresivo generalmente representa mayor riesgo excepto en pacientes muy enfermos",
+                "guid": "KNlLz3ps4bxJgxj3IiLLDQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "163",
+            "parent": "159",
+            "text": "- Evaluaciones de\nComorbilidad y Fragilidad",
+            "guid": "",
+            "children": [
+              {
+                "id": "164",
+                "parent": "163",
+                "text": "- Comorbilidad prevalente en pacientes mayores (60-70% de pacientes LNH >60 años)",
+                "guid": "co8CvFyWvi9Mq83FAKIhFA",
+                "children": []
+              },
+              {
+                "id": "165",
+                "parent": "163",
+                "text": "- Medidas utilizadas:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "166",
+                    "parent": "165",
+                    "text": "- Puntuación de comorbilidad de Charlson",
+                    "guid": "Qt0F8ST3mgEZ9945c9HDRg",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "165",
+                    "text": "- Escala de Calificación de Enfermedad Acumulativa para Geriátricos",
+                    "guid": "b1i6LRuNqCNeiJYuQRKsUw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "163",
+                "text": "- Fragilidad: síndrome\ndistinto de comorbilidad",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "- Criterios: edad >80/85, dependencia en actividades diarias, agotamiento, marcha lenta, etc.",
+                    "guid": "FyGlFxvcCXYlsLcPJOKsiw",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "- Pacientes frágiles tienen menor expectativa de vida y mayor probabilidad de toxicidad",
+                    "guid": "VMAWHkRIHwZAL4dwL00gaQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "171",
+            "parent": "159",
+            "text": "- Evaluación\nGeriátrica Integral\n(CGA)",
+            "guid": "",
+            "children": [
+              {
+                "id": "172",
+                "parent": "171",
+                "text": "- Recomendada por NCCN, ASCO y SIOG para pacientes mayores",
+                "guid": "HzsvvBWn3P9w3nLKUMyYJg",
+                "children": []
+              },
+              {
+                "id": "173",
+                "parent": "171",
+                "text": "- Evaluación de detección o evaluación de AVD/AIVD para todos los pacientes",
+                "guid": "IDDyS1moXewoaSHWSQo-Gg",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "171",
+                "text": "- Modelos CARG y CRASH predictivos de toxicidades hematológicas y no hematológicas serias",
+                "guid": "VBU_qHHsOs1rLQknRqRCZA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "175",
+        "parent": "0",
+        "text": "## Consideraciones\nFarmacológicas",
+        "guid": "",
+        "children": [
+          {
+            "id": "176",
+            "parent": "175",
+            "text": "- Agentes neuropáticos: alcaloides de vinca, cisplatino, oxaliplatino, brentuximab vedotin, bortezomib",
+            "guid": "ToL4_DfY1uxHRmN4PduzKQ",
+            "children": []
+          },
+          {
+            "id": "177",
+            "parent": "175",
+            "text": "- Antraciclinas: riesgo definido de cardiomiopatía relacionado con dosis acumulativa",
+            "guid": "U2Z_ECXO-ad-7l98FkOFAQ",
+            "children": []
+          },
+          {
+            "id": "178",
+            "parent": "175",
+            "text": "- Consideraciones con inhibidores\nde moléculas pequeñas",
+            "guid": "",
+            "children": [
+              {
+                "id": "179",
+                "parent": "178",
+                "text": "- Ibrutinib: inhibidor de BTK\naprobado para LLC y LCM",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "180",
+                    "parent": "179",
+                    "text": "- Propensión a sangrado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "181",
+                    "parent": "179",
+                    "text": "- Fibrilación auricular de nueva aparición (<5%)",
+                    "guid": "SsaTqBjmPbYKFUhHYeg4vw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "182",
+                "parent": "178",
+                "text": "- Idelalisib: inhibidor de PI3 kinasa-δ\naprobado para LLC/SLL y LF refractario",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "183",
+                    "parent": "182",
+                    "text": "- Hepatotoxicidad seria/fatal",
+                    "guid": "NMJHLC_F_1YGyuVKCYJdSg",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "182",
+                    "text": "- Diarrea o colitis severa",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "185",
+                    "parent": "182",
+                    "text": "- Neumonitis y perforación intestinal",
+                    "guid": "dA4eXEb6bLo4z32zE0lOGQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "186",
+        "parent": "0",
+        "text": "## Linfoma Difuso de Células\nB Grandes (DLBCL)",
+        "guid": "",
+        "children": [
+          {
+            "id": "187",
+            "parent": "186",
+            "text": "- Subtipo más común de LNH (30% de nuevos diagnósticos)",
+            "guid": "XKJJuimt8H5kFeY_fNM8BQ",
+            "children": []
+          },
+          {
+            "id": "188",
+            "parent": "186",
+            "text": "- Edad mediana al diagnóstico: 70 años",
+            "guid": "A1ZOagx_CBVF3XofV2uOEg",
+            "children": []
+          },
+          {
+            "id": "189",
+            "parent": "186",
+            "text": "- Terapia basada en antraciclinas y quimioinmunoterapia = mejor oportunidad de cura",
+            "guid": "fmtC4jEKg0ceD9B3TO473g",
+            "children": []
+          },
+          {
+            "id": "190",
+            "parent": "186",
+            "text": "- Sin terapia: fatal en semanas",
+            "guid": "aONaM2VWM-8Kye8IPEnZQw",
+            "children": []
+          },
+          {
+            "id": "191",
+            "parent": "186",
+            "text": "- Enfermedad en Etapa Temprana\n(I/II sin masa voluminosa)",
+            "guid": "",
+            "children": [
+              {
+                "id": "192",
+                "parent": "191",
+                "text": "- CHOP × 3 ciclos + IFRT establecido como superior a CHOP × 8 ciclos",
+                "guid": "CyUtlgm4ToRSjV5EVevBPg",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "191",
+                "text": "- Adición de rituximab a CHOP × 3 + IFRT explorada en pacientes con factores de riesgo",
+                "guid": "Ip6MOlyipow30_n9V2DTZw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "186",
+            "text": "- Enfermedad en\nEtapa Avanzada",
+            "guid": "",
+            "children": [
+              {
+                "id": "195",
+                "parent": "194",
+                "text": "- Terapias basadas\nen antraciclinas",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "196",
+                    "parent": "195",
+                    "text": "- Estándar: R-CHOP-21 (rituximab, ciclofosfamida, doxorrubicina, vincristina, prednisona)",
+                    "guid": "DGil4j6e30hg4zCxAHbEPw",
+                    "children": []
+                  },
+                  {
+                    "id": "197",
+                    "parent": "195",
+                    "text": "- Basado en estudio LNH 98-5 (pacientes 60-80 años)",
+                    "guid": "BZlMAhmyrmUTwBJYYjuVvA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "198",
+                "parent": "194",
+                "text": "- Concepto de pre-fase y\nintensidad reducida",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "199",
+                    "parent": "198",
+                    "text": "- Pre-fase: corticosteroide y dosis única de vincristina antes de terapia",
+                    "guid": "Q2Ce43fV-JdfDtHBRrbtTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "200",
+                    "parent": "198",
+                    "text": "- Regímenes de dosis reducida: 50-70% de dosificación estándar",
+                    "guid": "BFUArSTsS-EeIntfAsBDjw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "201",
+        "parent": "0",
+        "text": "## Linfoma de Burkitt",
+        "guid": "",
+        "children": [
+          {
+            "id": "202",
+            "parent": "201",
+            "text": "- Linfoma de alto grado prototípico",
+            "guid": "VfbPKDwyS9ZPrn9uPtopWw",
+            "children": []
+          },
+          {
+            "id": "203",
+            "parent": "201",
+            "text": "- Requiere terapia intensiva con agentes que cruzan barrera hematoencefálica",
+            "guid": "IYh_xlp4bnZ7JAKfLK2tXA",
+            "children": []
+          },
+          {
+            "id": "204",
+            "parent": "201",
+            "text": "- Profilaxis obligatoria del síndrome de lisis tumoral",
+            "guid": "ZDC8-k2xYOMCmW6bBs9JNQ",
+            "children": []
+          },
+          {
+            "id": "205",
+            "parent": "201",
+            "text": "- Terapia CHOP insuficiente para lograr cura",
+            "guid": "KlQHbzptaJheMBycNrytUg",
+            "children": []
+          },
+          {
+            "id": "206",
+            "parent": "201",
+            "text": "- Supervivencia global a 5 años: 56%",
+            "guid": "eQxH4D8TTU03M3GRfqWT4w",
+            "children": []
+          },
+          {
+            "id": "207",
+            "parent": "201",
+            "text": "- Aproximadamente un tercio de pacientes >60 años al diagnóstico en EE.UU.",
+            "guid": "WMX7skrzg-lg4SmfHCaalQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "208",
+        "parent": "0",
+        "text": "## Linfoma de Células del Manto\n(MCL)",
+        "guid": "Qsl8gD_v-2Fi3YfiRx59LQ",
+        "children": [
+          {
+            "id": "209",
+            "parent": "208",
+            "text": "- Subtipo más raro (~7000 casos nuevos anuales en EE.UU.)",
+            "guid": "ZNxHQgEAA0JJ3sC9OtMWag",
+            "children": []
+          },
+          {
+            "id": "210",
+            "parent": "208",
+            "text": "- Edad mediana al diagnóstico: 65 años, predominio masculino",
+            "guid": "PTJPGBmNQCt5rT_FXrrO3g",
+            "children": []
+          },
+          {
+            "id": "211",
+            "parent": "208",
+            "text": "- Enfermedad avanzada es la norma (estadios I/II raramente presentes)",
+            "guid": "dAWuoXTRQmQLaHw7WDZrmw",
+            "children": []
+          },
+          {
+            "id": "212",
+            "parent": "208",
+            "text": "- Terapias de primera línea",
+            "guid": "",
+            "children": [
+              {
+                "id": "213",
+                "parent": "212",
+                "text": "- Enfermedad de estadio limitado: RCHOP + IFRT",
+                "guid": "QoKjSA4B6tZfBbTQbNaqtw",
+                "children": []
+              },
+              {
+                "id": "214",
+                "parent": "212",
+                "text": "- RCHOP seguido de mantenimiento con rituximab",
+                "guid": "SG9Tbj010Wwjk1gJQXubTw",
+                "children": []
+              },
+              {
+                "id": "215",
+                "parent": "212",
+                "text": "- VR-CAP (bortezomib, rituximab, ciclofosfamida, doxorrubicina, prednisona)",
+                "guid": "fEkeulrGyZpAIS8yVQ8abA",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "212",
+                "text": "- Bendamustina-rituximab (similar a RCHOP con mayor SLP y menos toxicidad)",
+                "guid": "JbpNgyECWNFxNbUCaIPKBA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "217",
+        "parent": "0",
+        "text": "## Linfoma Folicular/Linfomas Indolentes",
+        "guid": "YPJUMlQTPOQvokcxRc6bdA",
+        "children": [
+          {
+            "id": "218",
+            "parent": "217",
+            "text": "- Segundo subtipo más común de LNH (30% de nuevos casos)",
+            "guid": "VRNAJnmBB-4AobHeEkWPPw",
+            "children": []
+          },
+          {
+            "id": "219",
+            "parent": "217",
+            "text": "- Supervivencia mediana >15 años",
+            "guid": "Ew5IGXpO8aRxAF4dBxP2ug",
+            "children": []
+          },
+          {
+            "id": "220",
+            "parent": "217",
+            "text": "- Prototipos de linfomas indolentes o de crecimiento lento",
+            "guid": "byA0CHxo2lhfSmJWMaLXUA",
+            "children": []
+          },
+          {
+            "id": "221",
+            "parent": "217",
+            "text": "- Monitoreo expectante",
+            "guid": "",
+            "children": [
+              {
+                "id": "222",
+                "parent": "221",
+                "text": "- Pacientes asintomáticos con baja carga tumoral",
+                "guid": "CmrFLj5QFyYeeYIIUtoYnQ",
+                "children": []
+              },
+              {
+                "id": "223",
+                "parent": "221",
+                "text": "- Sin efectos perjudiciales en supervivencia global",
+                "guid": "e4Xok0IM2hEUVbPsd88HTQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "224",
+            "parent": "217",
+            "text": "- Indicaciones\npara terapia:",
+            "guid": "",
+            "children": [
+              {
+                "id": "225",
+                "parent": "224",
+                "text": "- Carga tumoral alta (criterios GELF)",
+                "guid": "HNOjrFR24x5M3iG5Qo3xLw",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "224",
+                "text": "- Sitios nodales ≥3, cada uno ≥3 cm",
+                "guid": "dXk77z4T1rsrEbszVmuQIg",
+                "children": []
+              },
+              {
+                "id": "227",
+                "parent": "224",
+                "text": "- Sitio nodal único ≥7 cm",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "228",
+                "parent": "224",
+                "text": "- Esplenomegalia sintomática",
+                "guid": "EicToFq0AmUcOiuWZzpTxg",
+                "children": []
+              },
+              {
+                "id": "229",
+                "parent": "224",
+                "text": "- Citopenias",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "230",
+                "parent": "224",
+                "text": "- Enfermedad leucémica",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "231",
+                "parent": "224",
+                "text": "- Síntomas B",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "232",
+            "parent": "217",
+            "text": "- Enfermedad localizada: radioterapia curativa (ISRT) 24-30 Gy",
+            "guid": "VDUKUxzb3XV5f-MFZ0NSbQ",
+            "children": []
+          },
+          {
+            "id": "233",
+            "parent": "217",
+            "text": "- Enfermedad avanzada:",
+            "guid": "",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "- Quimioinmunoterapia cuando hay criterios de carga tumoral alta",
+                "guid": "FyrPGWqAQSNuV0knBksDIQ",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "233",
+                "text": "- Regímenes basados en alquilantes (RCHOP, R-CVP), análogos de purina (R-FCM), bendamustina-rituximab",
+                "guid": "Zukbe02hq3037dpycVPgqg",
+                "children": []
+              },
+              {
+                "id": "236",
+                "parent": "233",
+                "text": "- Mantenimiento con rituximab después de inducción con quimioinmunoterapia",
+                "guid": "C_HCpFZnXHpELflHB3erNw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "217",
+            "text": "- Riesgo de transformación: 40-50% durante curso de la enfermedad",
+            "guid": "GHQ2i1iDrTN_RrKENUfaNw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "238",
+        "parent": "0",
+        "text": "## Linfoma de Zona Marginal: Nodal y\nLinfoma MALT Extranodal",
+        "guid": "",
+        "children": [
+          {
+            "id": "239",
+            "parent": "238",
+            "text": "- Representan 8-10% de LNH",
+            "guid": "LPqQUUwk1D131ctnInPMQA",
+            "children": []
+          },
+          {
+            "id": "240",
+            "parent": "238",
+            "text": "- Supervivencia relativa a 5 años: 89% (MALT), 80% (esplénico), 76.5% (nodal)",
+            "guid": "Cjiq-SLnhpp431xiHF--mQ",
+            "children": []
+          },
+          {
+            "id": "241",
+            "parent": "238",
+            "text": "- Biología relacionada con\nestimulación antigénica crónica\nde población de células B",
+            "guid": "",
+            "children": [
+              {
+                "id": "242",
+                "parent": "241",
+                "text": "- H. pylori en MALT gástrico",
+                "guid": "fZuI_xUZh_kDmhJfUdCTUw",
+                "children": []
+              },
+              {
+                "id": "243",
+                "parent": "241",
+                "text": "- Infecciones y enfermedades autoinmunes como conductores antigénicos",
+                "guid": "MfVlbn0Z9WU5E-XASSA0hw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "244",
+            "parent": "238",
+            "text": "- Tratamiento:",
+            "guid": "",
+            "children": [
+              {
+                "id": "245",
+                "parent": "244",
+                "text": "- Linfoma de zona marginal esplénico: esplenectomía o rituximab",
+                "guid": "Z5o2iCdrLudPazeoToNSAw",
+                "children": []
+              },
+              {
+                "id": "246",
+                "parent": "244",
+                "text": "- MALT gástrico asociado a H. pylori: antibióticos como primera línea",
+                "guid": "dQzaZQdZEho_1zKtAP6dCQ",
+                "children": []
+              },
+              {
+                "id": "247",
+                "parent": "244",
+                "text": "- Enfermedad localizada (IE/IIE): radioterapia de campo involucrado",
+                "guid": "XcBulAQFK_QIdkhAdjSlIA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "248",
+        "parent": "0",
+        "text": "## Linfomas\nde Células T",
+        "guid": "",
+        "children": [
+          {
+            "id": "249",
+            "parent": "248",
+            "text": "- Linfomas de células T\nperiféricas (PTCL)",
+            "guid": "",
+            "children": [
+              {
+                "id": "250",
+                "parent": "249",
+                "text": "- 10-15% de diagnósticos de LNH",
+                "guid": "XIjZJwe8-sQrfH9XCYNpeA",
+                "children": []
+              },
+              {
+                "id": "251",
+                "parent": "249",
+                "text": "- Subtipos agresivos: PTCL NOS, AILD, linfoma NK/T, linfoma anaplásico de células grandes",
+                "guid": "U-HPASNSSr4r9zW5Xhp5-g",
+                "children": []
+              },
+              {
+                "id": "252",
+                "parent": "249",
+                "text": "- Mayor riesgo asociado con la edad de AILD y linfoma anaplásico ALK-negativo",
+                "guid": "RjnRWSTWkht6ejiTQ9VaWA",
+                "children": []
+              },
+              {
+                "id": "253",
+                "parent": "249",
+                "text": "- CHOP insuficiente para mayoría de pacientes",
+                "guid": "OfAaFH4USvMVpe2ra-V_gg",
+                "children": []
+              },
+              {
+                "id": "254",
+                "parent": "249",
+                "text": "- Nuevos agentes: Pralatrexate, Romidepsin, Belinostat, Brentuximab vedotin",
+                "guid": "ey5AWE6502s1BbQJYsh24A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "255",
+        "parent": "0",
+        "text": "## Linfoma de Hodgkin",
+        "guid": "",
+        "children": [
+          {
+            "id": "256",
+            "parent": "255",
+            "text": "- Neoplasia linfoide más común en pacientes jóvenes (edad mediana: 38 años)",
+            "guid": "diUCUwRw67IxS8jjazHcuA",
+            "children": []
+          },
+          {
+            "id": "257",
+            "parent": "255",
+            "text": "- 15-35% de pacientes presentan enfermedad >60 años",
+            "guid": "C8n9zHEi-5FsMHnBaYpsYQ",
+            "children": []
+          },
+          {
+            "id": "258",
+            "parent": "255",
+            "text": "- Biología y Modelos\nPronósticos",
+            "guid": "LAIx-ijaPlQ4nQdIZfJMDg",
+            "children": [
+              {
+                "id": "259",
+                "parent": "258",
+                "text": "- Células de Reed-Sternberg (CD15+, CD30+, generalmente CD20-)",
+                "guid": "dSgnhXSmwgFfvxGBUbEArQ",
+                "children": []
+              },
+              {
+                "id": "260",
+                "parent": "258",
+                "text": "- Biología más agresiva en\npacientes mayores",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "261",
+                    "parent": "260",
+                    "text": "- Puntuaciones de riesgo más altas",
+                    "guid": "fGO8xQs7kNhbNGolUEWLxg",
+                    "children": []
+                  },
+                  {
+                    "id": "262",
+                    "parent": "260",
+                    "text": "- Histología de celularidad mixta",
+                    "guid": "Lo3blwcrn94uYAXBdMes8A",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "260",
+                    "text": "- Estadio avanzado",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "260",
+                    "text": "- Asociación con EBV",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "265",
+            "parent": "255",
+            "text": "- Resultados en\nPacientes Mayores",
+            "guid": "",
+            "children": [
+              {
+                "id": "266",
+                "parent": "265",
+                "text": "- Significativamente inferiores comparados con pacientes jóvenes",
+                "guid": "HPzIXwbdf5oE5UB_EyHKsg",
+                "children": []
+              },
+              {
+                "id": "267",
+                "parent": "265",
+                "text": "- Incidencia acumulada de muerte a 5 años: 30% (mayores) vs 10% (jóvenes)",
+                "guid": "Ju6JR05C9PRR18uRIhzJnw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "268",
+            "parent": "255",
+            "text": "- Enfermedad en Etapa Temprana (I-IIA sin masa voluminosa)",
+            "guid": "C05rTDYxCWN-U6dqFxhpGQ",
+            "children": [
+              {
+                "id": "269",
+                "parent": "268",
+                "text": "- ABVD (2-4 ciclos) + IFRT",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "270",
+            "parent": "255",
+            "text": "- Enfermedad en Etapa Avanzada (III/IV)",
+            "guid": "J1QE9GqEISsAotV6HHwseQ",
+            "children": [
+              {
+                "id": "271",
+                "parent": "270",
+                "text": "- ABVD estándar (dosis escalada de BEACOPP demasiado tóxica en mayores)",
+                "guid": "XyrjLGBh5vtuLS0mW46f8Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "272",
+            "parent": "255",
+            "text": "- Enfermedad\nRecidivante/Refractaria",
+            "guid": "",
+            "children": [
+              {
+                "id": "273",
+                "parent": "272",
+                "text": "- Quimioterapia de segunda línea seguida de HDT/ASCR",
+                "guid": "a51300lhl0wr1Cu4GitTag",
+                "children": []
+              },
+              {
+                "id": "274",
+                "parent": "272",
+                "text": "- Brentuximab vedotin para linfomas CD30-positivos",
+                "guid": "UI03Klo0MXkO8wBafI9pJA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "275",
+        "parent": "0",
+        "text": "## Seguimiento y Supervivencia\nen LNH y HL",
+        "guid": "Aw5vzUeQB6NigbUzKfz5FQ",
+        "children": [
+          {
+            "id": "276",
+            "parent": "275",
+            "text": "- Evaluación de respuesta basada en escala Deauville de 5 puntos",
+            "guid": "FdL8lzRZgMRMGcK0Ms_E9g",
+            "children": []
+          },
+          {
+            "id": "277",
+            "parent": "275",
+            "text": "- Imágenes de vigilancia en remisión cada vez más desaconsejadas",
+            "guid": "OzcAXlD_AzRF8Y-pRoVrqw",
+            "children": []
+          },
+          {
+            "id": "278",
+            "parent": "275",
+            "text": "- Riesgo de recaída mayor en 1-2 años después de completar terapia para histologías agresivas",
+            "guid": "BzAMl0RFNxNdndTELoQRiw",
+            "children": []
+          },
+          {
+            "id": "279",
+            "parent": "275",
+            "text": "- Linfomas indolentes: uso prudente de escáneres de seguimiento",
+            "guid": "LslYP15Aqj5LAD4EDfQ7aw",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 280,
+  "relations": [],
+  "cross_references": [
+    {
+      "from_node": "197",
+      "reference": "LNH"
+    }
+  ],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "Hazzards. LINFOMAS NO-HODGKIN Y HODGKIN-2025-1",
+  "id": "map_1455",
+  "resolved_references": []
+}

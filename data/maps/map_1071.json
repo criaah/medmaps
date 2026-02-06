@@ -1,0 +1,85 @@
+{
+  "title": "MENDS (2007)",
+  "guid": "MENDS-2007-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Geriatría/MENDS-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "MENDS (2007)\nMaximizing Efficacy of Targeted\nSedation and Reducing\nNeurological Dysfunction\n\\n⭐ Dexmedetomidina vs Lorazepam\nMás días sin delirium ni coma\n(7 vs 3 días, p=0.01)",
+    "guid": "MENDS-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Pandharipande PP et al.\nAño: 2007\nRevista: JAMA\nDOI: 10.1001/jama.298.22.2644\n\\nDiseño: RCT doble ciego\\nMulticéntrico: Vanderbilt\\nn = 106 pacientes\\nSeguimiento: 28 días + 12 meses",
+        "guid": "MENDS-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Pandharipande PP et al.\\n   JAMA 2007;298:2644-53\\n   DOI: 10.1001/jama.298.22.2644\\n\\n2. Guías PADIS 2018\\n   Crit Care Med\\n\\n3. SPICE III Trial\\n   NEJM 2019",
+            "guid": "MENDS-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusion:\\n• Adultos UCI médico-quirúrgica\\n• Ventilación mecánica\\n• Necesidad sedación mayor 24h\\n\\nCriterios Exclusion:\\n• Enfermedad neurológica aguda\\n• Embarazo\\n• Alergia a fármacos estudio\\n\\nCaracterísticas:\\n• Edad media: 59 años\\n• Médicos 63%, quirúrgicos 37%\\n• APACHE II: 27\\n• Sepsis: 54%",
+        "guid": "MENDS-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Dexmedetomidina:\\n• 0.15-1.5 mcg/kg/h\\n• Hasta 120 horas\\n• Agonista alfa-2 central\\n• Sin depresión respiratoria\\n\\nGrupo Lorazepam:\\n• 1-10 mg/h infusión\\n• Sedación estándar época\\n• GABA-érgico\\n\\nMeta sedación:\\n• RASS individualizado\\n• Titulado a objetivo\\n• CAM-ICU 2 veces/día",
+        "guid": "MENDS-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nDías sin delirium ni coma (1rio):\\n• Dexmedetomidina: 7.0 días\\n• Lorazepam: 3.0 días\\n• p = 0.01 ✓\n\\nPrevalencia coma:\\n• Dexmedetomidina: 63%\\n• Lorazepam: 92%\\n• p menor 0.001 ✓\n\\nTiempo en meta sedación:\\n• Dex: 80% vs Lor: 67%\\n• p = 0.04 ✓\n\\nMortalidad 28 días:\\n• Dex: 17% vs Lor: 27%\\n• p = 0.18 (NS)\n\\nCostos: similares",
+        "guid": "MENDS-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nDexmedetomidina:\\n• Bradicardia: más frecuente\\n• Hipotensión: similar\\n• Sin depresión respiratoria\\n\\nLorazepam:\\n• Mayor coma/sobresedación\\n• Acumulación metabolitos\\n• Propilenglicol en infusión\\n\\nFunción cognitiva post-UCI:\\n• Más pacientes testeables\\n  con Dex (42% vs 31%)\\n• Scores similares\\n\\nSobrevida 12 meses:\\n• Tendencia favor Dex\\n  (363 vs 188 días, NS)",
+        "guid": "MENDS-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT doble ciego\\n✓ Outcome delirium/coma validado\\n✓ Cambió práctica sedación UCI\\n✓ Base para guías PAD\\n\\nLimitaciones:\\n• Muestra pequeña (n=106)\\n• Comparador lorazepam\\n  (ya no usado)\\n• Unicéntrico principalmente\\n• Población heterogénea\\n\\nEstudios posteriores:\\n• MENDS2 vs propofol\\n• SPICE III\\n• Guías PADIS 2018",
+        "guid": "MENDS-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Extremadamente relevante\n\\nAncianos en UCI:\\n• Mayor riesgo delirium\\n• Metabolismo BZD alterado\\n• Sensibilidad aumentada sedantes\\n\\nDexmedetomidina ventajas:\\n• Menos delirium\\n• Sedación cooperativa\\n• Sin acumulación\\n• Evaluable neurológicamente\\n\\nPrecauciones ancianos:\\n• Bradicardia más frecuente\\n• Titular cuidadosamente\\n• Monitorear hemodinamia\\n\\nGuías actuales:\\n• Evitar BZD en ancianos UCI\\n• Preferir Dex o propofol",
+        "guid": "MENDS-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. BZD = más delirium:\n   Evitar lorazepam/midazolam\n\\n2. Dexmedetomidina reduce:\n   delirium Y coma (7 vs 3 días)\n\\n3. Sedación cooperativa:\n   Paciente despertable, evaluable\n\\n4. Sin depresión respiratoria:\n   Útil en destete VM\n\\n5. Bradicardia esperada:\n   No es complicación grave\n\\n6. Costo NO es mayor:\n   Menos días delirium compensa\n\\n7. Base de guías PADIS:\n   Evitar BZD, preferir Dex\n\\n8. En anciano: primera elección\n   por menor riesgo cognitivo",
+        "guid": "MENDS-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Geriatría",
+  "filename": "MENDS-2026",
+  "id": "map_1071",
+  "resolved_references": []
+}

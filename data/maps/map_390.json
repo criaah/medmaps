@@ -1,0 +1,3570 @@
+{
+  "title": "Apnea del Sueño",
+  "guid": "5DEE27F32D75B94A4511DB6E",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neumología/UTD Apnea del Sueño-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Apnea del\nSueño",
+    "guid": "FOCYRxXd1eJ5Jou5WYFIGA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Apnea Central del\nSueño (CSA)",
+        "guid": "fE8b6SYF23pV0f-iaBPkrA",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "1. Definición",
+            "guid": "P4aGyTFwL0dlz9n-H6Fsfw",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "📌 Apneas centrales → Ausencia de flujo aéreo por falta de esfuerzo respiratorio.",
+                "guid": "Y7NdWUCsVsIIBiD1Y6mY-A",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "📌 CSA → Apneas centrales recurrentes.",
+                "guid": "bQdazUhk_UZBoITcZ-9ynA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "parent": "1",
+            "text": "2. Fisiopatología",
+            "guid": "cJoIikMh6cp_O0FpdprF4w",
+            "children": [
+              {
+                "id": "6",
+                "parent": "5",
+                "text": "🔹 Causa principal → Inhibición del centro respiratorio > Excitación del centro respiratorio.",
+                "guid": "VaxG3VH4xAA4VV1EJrVVXw",
+                "children": []
+              },
+              {
+                "id": "7",
+                "parent": "5",
+                "text": "🔹 Sueño → 🔽 Excitación relacionada con la vigilia → Facilita apneas centrales.",
+                "guid": "JTnVzkqqZvRMGusyciUCjg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "parent": "1",
+            "text": "3. Características\nprincipales",
+            "guid": "BxsrC0IsJEBewCW5Q3mpLA",
+            "children": [
+              {
+                "id": "9",
+                "parent": "8",
+                "text": "📍 Hallmark → Apneas centrales recurrentes.",
+                "guid": "cPzlNGTuPG1fJKPvMINr_g",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "8",
+                "text": "📍 Ocurre en sueño (particularmente en ciertas fases).",
+                "guid": "Fl5rtUT0fe1QJNh9ehHJDg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "parent": "1",
+            "text": "Apnea Central Relacionada con\nHiperventilación (CSA-HR)",
+            "guid": "eeL9Hl9ewplX9j3uEa8lCQ",
+            "children": [
+              {
+                "id": "12",
+                "parent": "11",
+                "text": "1. Fundamento",
+                "guid": "K8ungkAaImte32zqUQV9UQ",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "📌 Sueño NREM → Control respiratorio dependiente de influencias químicas, sobre todo la tensión de dióxido de carbono arterial (PaCO2).",
+                    "guid": "CsSJXyr6WBxDKn_fEd-0aw",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "📌 Apnea central → PaCO2 < umbral apneico altamente sensible.",
+                    "guid": "bSZ8XCHqpZhVWV2XXiNhkQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "11",
+                "text": "2. Mecanismo\nCíclico",
+                "guid": "BtjiBTR-AYYOps2PHTdNug",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "🔹 Estímulo inicial → Varias causas inducen hiperventilación (ej., hipoxia por secreciones o disminución del volumen pulmonar) [2-5].",
+                    "guid": "eXJ_c17LpgwXSRbJfxNUIg",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "🔹 Consecuencia → Hiperventilación → hipocapnia → apnea central.",
+                    "guid": "NvaffnUEeM9xu4OeV4aWNg",
+                    "children": []
+                  },
+                  {
+                    "id": "18",
+                    "parent": "15",
+                    "text": "🔹 Reacción → Apnea central eleva PaCO2 → hiperCAPnia leve (4 a 6 mmHg sobre eucapnia) → restaura respiración rítmica [6].",
+                    "guid": "FGBfskxTJbdosJV5dt4wXw",
+                    "children": []
+                  },
+                  {
+                    "id": "19",
+                    "parent": "15",
+                    "text": "🔹 Repetición → Hiperventilación → hipocapnia → nueva apnea central [7-10].",
+                    "guid": "JiYJOnB1WqAvCEfpUfGwvA",
+                    "children": []
+                  },
+                  {
+                    "id": "20",
+                    "parent": "15",
+                    "text": "🔹 STP (Potenciación a Corto Plazo) → Mitiga la caída ventilatoria tras el estímulo, evitando apneas en individuos sanos [3,4,11,12].",
+                    "guid": "MI99Cw3ntNMi9y4NO1QGag",
+                    "children": []
+                  },
+                  {
+                    "id": "21",
+                    "parent": "15",
+                    "text": "🔹 Factores inhibidores → Hiperventilación prolongada, hipoxia o factores inhibidores concomitantes favorecen apnea central al reducir PaCO2 bajo el umbral apneico [13-16].",
+                    "guid": "OOIM8GYhrexNM7rVJgiJTA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "parent": "11",
+                "text": "3. Influencia de Reflejos de la\nVía Aérea Superior",
+                "guid": "CAxThCKNGGwEK-rdDuU1ig",
+                "children": [
+                  {
+                    "id": "23",
+                    "parent": "22",
+                    "text": "🔹 Ciclo → Apneas centrales suelen ser recurrentes por naturaleza cíclica.",
+                    "guid": "VwsZ8hLSuGwsHINEUH2ZZQ",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "22",
+                    "text": "🔹 Mecánica → Durante apnea central, vía aérea faríngea se estrecha, pudiendo ocluir [17].",
+                    "guid": "cZ5eeENlmg1PkO2HKJT99g",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "22",
+                    "text": "🔹 Respiración → Necesidad de superar fuerzas de adhesión tisular y gravitacionales craneofaciales con presión negativa mayor en la vía aérea [18].",
+                    "guid": "OGoS3UFMcSYAG5QtTMpyjw",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "22",
+                    "text": "🔹 Modelos animales → Deformación de vía aérea por presión negativa induce apnea central [19].",
+                    "guid": "DZ-W3WjMKaZDqKLuM8WgFw",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "22",
+                    "text": "🔹 Factores posicionales → Apneas más comunes en posición supina, se reducen o eliminan en posición lateral y pueden prevenirse con CPAP nasal [20-23].",
+                    "guid": "WUGERnKw6tcFt1DUCdEBUQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "1",
+            "text": "Apnea Central Relacionada con\nHipovenilación (CSA-HV)",
+            "guid": "athimE9lH-AHARV_ELediQ",
+            "children": [
+              {
+                "id": "29",
+                "parent": "28",
+                "text": "1. Causas",
+                "guid": "AJifqyiufuFFJQe8OXqsmw",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "📌 Hipovenilación → Causa menos común de apnea central.",
+                    "guid": "DtAszhJYwpFfgzXnFtyAUg",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "📌 Estado ventilatorio marginal → Asociado a enfermedades del SNC (ej., encefalitis), enfermedades neuromusculares (ej., síndrome post-polio)\no anomalías severas en mecánica pulmonar (ej., cifoescoliosis) [24].",
+                    "guid": "NOXa_mOvIMUlwbXcC_D08A",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "29",
+                    "text": "📌 Hipovenilación alveolar primaria → Respuesta embotada de quimiorreceptores [1,25-28].",
+                    "guid": "doHZMVHeOSFcbo5WaCA3qg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "33",
+                "parent": "28",
+                "text": "2. Mecanismo\ndurante el Sueño",
+                "guid": "FUPTLiv_e90QtTWgTa3mCw",
+                "children": [
+                  {
+                    "id": "34",
+                    "parent": "33",
+                    "text": "🔹 Estímulo de vigilia → Desaparece en sueño → Conduce a hipovenilación alveolar y apneas centrales.",
+                    "guid": "bUvtAxDQyc0aeFiaeuuD4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "35",
+                    "parent": "33",
+                    "text": "🔹 Restauración de ventilación → Se recupera durante el despertar pero disminuye al reanudar el sueño.",
+                    "guid": "eZzzdF4g-4gusSP4Ut53ug",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "33",
+                    "text": "🔹 Caracterización de apneas → Dificultad en\ncumplir criterios estrictos de apnea central:",
+                    "guid": "UNHmYDRodMxcr3kMUWqGCw",
+                    "children": [
+                      {
+                        "id": "37",
+                        "parent": "36",
+                        "text": "• Esfuerzo respiratorio → Difícil distinguir ausencia de esfuerzo respiratorio por falta de salida ventilatoria del cerebro de\nesfuerzo respiratorio marcadamente disminuido por enfermedad muscular respiratoria o deformidades esqueléticas.",
+                        "guid": "XRbzriHUgMgK5TKma-cgfA",
+                        "children": []
+                      },
+                      {
+                        "id": "38",
+                        "parent": "36",
+                        "text": "• Evento apneico → Difícil distinguir una apnea de hipovenilación alveolar severa;\nmedición imprecisa de la duración del evento.",
+                        "guid": "NC1DWWpoaI0Cw6DOaRMeVw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "39",
+            "parent": "1",
+            "text": "Apneas Centrales al Inicio\ndel Sueño (CSA-SI)",
+            "guid": "CEnOwE2zDYxRfodHV_on2w",
+            "children": [
+              {
+                "id": "40",
+                "parent": "39",
+                "text": "1. Fenómeno en\nIndividuos Sanos",
+                "guid": "emOPzFFyoZ4suZouD6di-g",
+                "children": [
+                  {
+                    "id": "41",
+                    "parent": "40",
+                    "text": "📌 Transición → Vigilia a sueño NREM.",
+                    "guid": "fXIdez1uz85dVUkGar4Kfw",
+                    "children": []
+                  },
+                  {
+                    "id": "42",
+                    "parent": "40",
+                    "text": "📌 Oscilación de estado de sueño → Mecanismo similar a apneas inducidas por hiperventilación.",
+                    "guid": "Tj-ZnHfNoaBlqY5gR9yNEA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "43",
+                "parent": "39",
+                "text": "2. Mecanismo\ndurante Transición",
+                "guid": "Ve6dKRRaslgauwTKJsCDiQ",
+                "children": [
+                  {
+                    "id": "44",
+                    "parent": "43",
+                    "text": "🔹 PaCO2 → Al inicio de NREM, PaCO2 está en o por debajo del umbral apneico [2,29-31].",
+                    "guid": "SMMnJXdqfdZ4KwmUJdoa0w",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "43",
+                    "text": "🔹 Pérdida de estímulo excitatorio → Con el inicio de NREM, se pierde entrada excitatoria relacionada con la vigilia → Resulta en apnea central.",
+                    "guid": "GT7-ngMQPDoRwTtPTWxB-A",
+                    "children": []
+                  },
+                  {
+                    "id": "46",
+                    "parent": "43",
+                    "text": "🔹 Consecuencia de apnea → Eleva PaCO2 → Estimula vigilia transitoria → Hiperventilación que rebaja PaCO2 a nivel en o por debajo del umbral apneico.",
+                    "guid": "bXikxxSE3B02f2BPO5AuGg",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "43",
+                    "text": "🔹 Repetición del ciclo → Apnea puede recurrir al reanudar el sueño → Ciclo se repite.",
+                    "guid": "PQoyyCuDc5cAKZCeN23ClA",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "43",
+                    "text": "🔹 Estabilización → PaCO2 se estabiliza por encima del umbral apneico una vez completa la transición a sueño, terminando el ciclo.",
+                    "guid": "fPYVNSzjKsxHFSWPemgysQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "49",
+                "parent": "39",
+                "text": "3. Comparación\ncon Sueño REM",
+                "guid": "alH6miRqbpVlJj0wOJGUNg",
+                "children": [
+                  {
+                    "id": "50",
+                    "parent": "49",
+                    "text": "📌 Apneas en REM → Incomunes.",
+                    "guid": "HDgQNUrPy5AAbiFGciatXg",
+                    "children": []
+                  },
+                  {
+                    "id": "51",
+                    "parent": "49",
+                    "text": "🔹 Causa → Aumento de salida ventilatoria del cerebro comparado con NREM [32,33].",
+                    "guid": "Xyp96BspJhEY5zDnJ-2lDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "52",
+                    "parent": "49",
+                    "text": "🔹 Reducción marcada de ventilación alveolar → Pérdida de actividad muscular intercostal y accesorio durante REM → Difícil distinguir de apnea central.",
+                    "guid": "EpOj5xESOntNx7_gK9Kihg",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "49",
+                    "text": "🔹 Importancia en enfermedad → Particularmente en pacientes con función pulmonar pobre o enfermedad neuromuscular (ej., disfunción severa del diafragma).",
+                    "guid": "FCJ2tV-I-y95PuR-AZsbfQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "54",
+        "parent": "0",
+        "text": "Introducción a los Trastornos\nRespiratorios del Sueño",
+        "guid": "XgCwRU6NE8Nn1i7yI4p5Cg",
+        "children": [
+          {
+            "id": "55",
+            "parent": "54",
+            "text": "1. Descripción\nGeneral",
+            "guid": "VAVgzjfGPXsNG5PScD1xAw",
+            "children": [
+              {
+                "id": "56",
+                "parent": "55",
+                "text": "📌 Trastornos respiratorios del sueño → Incluye apnea obstructiva del sueño (OSA), apnea central del sueño (CSA) con y sin\nrespiración de Cheyne-Stokes, e hipovenilación relacionada con el sueño. Todos asociados con resultados clínicos adversos.",
+                "guid": "dA3XTS--RM09K0mXMRgKFQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "54",
+            "text": "2. Diagnóstico",
+            "guid": "ApYJCw2JtRhiZB5iYcCG9A",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "🔹 Evaluación → Historia clínica y examen físico son insuficientes solos; se requiere pruebas de sueño formales [1,2].",
+                "guid": "W0G4ZT1U2jVohcyqWDfNmg",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "57",
+                "text": "🔹 Polisomnografía atendida (PSG) → Estándar de referencia para evaluación. Regulada por la Academia Americana de Medicina del Sueño (AASM) [3].",
+                "guid": "ajgFAS-a8jlSoABLVIn_mw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "60",
+            "parent": "54",
+            "text": "Señales Registradas\nen la PSG",
+            "guid": "EBZK4l9GZY5cJMh0a1gDRw",
+            "children": [
+              {
+                "id": "61",
+                "parent": "60",
+                "text": "1. Etapas del Sueño",
+                "guid": "HJs_w0SqlR5Dj9DiBtNExA",
+                "children": [
+                  {
+                    "id": "62",
+                    "parent": "61",
+                    "text": "📌 Electroencefalografía (EEG), electromiografía de mentón (EMG), y electrooculografía (EOG)\n→ Necesarios para etapas del sueño. Mínimo de tres leads EEG (frontal, central, occipital) [4].",
+                    "guid": "dEWHVxYv0S1bXURgSEroJQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "63",
+                "parent": "60",
+                "text": "2. Flujo Respiratorio",
+                "guid": "TfYOqWh42DI4iFkoUIwXtA",
+                "children": [
+                  {
+                    "id": "64",
+                    "parent": "63",
+                    "text": "📌 Termistor oronasal y transductor de presión nasal → Métodos\ncomplementarios recomendados para monitorear el flujo respiratorio [3].",
+                    "guid": "dgKNShrsd4oyTJ6oHrVodA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "65",
+                "parent": "60",
+                "text": "3. Esfuerzo\nRespiratorio",
+                "guid": "FjfG1Dv6yqpZ--eFIpVQmQ",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "📌 Pletismografía de inductancia respiratoria (RIP) → Comúnmente usada para medir el\nesfuerzo respiratorio. Alternativas incluyen EMG diafragmático o costal y PVDF [3].",
+                    "guid": "E3C2jEEVCRxDFVETSm-dnQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "67",
+                "parent": "60",
+                "text": "4. Oximetría\nde Pulso",
+                "guid": "IW0PMWUwbQt1fFv8MYNaEw",
+                "children": [
+                  {
+                    "id": "68",
+                    "parent": "67",
+                    "text": "📌 Monitoreo continuo de saturación de oxihemoglobina arterial (SpO2)\n→ Utiliza luz roja e infrarroja para determinar SpO2.",
+                    "guid": "RHbSmVGhJHAc211bYRISXQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "69",
+                "parent": "60",
+                "text": "5. Ventilación\n(opcional en adultos)",
+                "guid": "Fku5jmBrLj1n5VchCpFA5Q",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "📌 Monitorización no invasiva de CO2 → Preferida sobre muestreo arterial durante PSG [3].",
+                    "guid": "dpr_akNCm4FS3CkKRJEOEw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "71",
+            "parent": "54",
+            "text": "Identificación y\nPuntuación de Eventos",
+            "guid": "K7tzswtkgjIVHSXIIb4A_g",
+            "children": [
+              {
+                "id": "72",
+                "parent": "71",
+                "text": "1. Apneas",
+                "guid": "JlD5vUdpxHBAc2lyPIjAkQ",
+                "children": [
+                  {
+                    "id": "73",
+                    "parent": "72",
+                    "text": "📌 Definición → Cese del flujo aéreo ≥90% por al menos 10 segundos.\nClasificadas como obstructivas, centrales o mixtas según el esfuerzo respiratorio [3].",
+                    "guid": "A2SPGhpvUPdfHhEqFtVFpg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "74",
+                "parent": "71",
+                "text": "2. Hipopneas",
+                "guid": "W4RaEyIzYj1hRONEfPFpRA",
+                "children": [
+                  {
+                    "id": "75",
+                    "parent": "74",
+                    "text": "📌 Definición AASM → Reducción del flujo aéreo ≥30%, duración ≥10 segundos,\nasociada con desaturación de O2 ≥3% o arousal EEG [3].",
+                    "guid": "B2PPSFbBP0AudMNXS9qh4g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "76",
+                "parent": "71",
+                "text": "3. Arousals Relacionados con el\nEsfuerzo Respiratorio (RERAs)",
+                "guid": "KGJjsEtQILIs7LQ_Pq4dPg",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "📌\\\\/ Definición → Cambios en el flujo aéreo que no cumplen\ncriterios para apnea o hipopnea pero terminan en arousal [3].\\\\/",
+                    "guid": "K7tO7xTSC2BJP14jIlZOWg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "78",
+                "parent": "71",
+                "text": "4. Respiración de\nCheyne-Stokes",
+                "guid": "WBSm4hwbhy1m51xtA9AalQ",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "📌 Patrón cíclico → Apnea seguida de hiperventilación y otra apnea. Común\nen insuficiencia cardíaca congestiva y enfermedades neurológicas [3].",
+                    "guid": "J4AJX3wEgjUljhuTTdEDHA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "80",
+            "parent": "54",
+            "text": "Medidas\nde Interpretación",
+            "guid": "AHDV_Gl31NddqBtnW_UwDw",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "1. Índice de\nApnea-Hipopnea (AHI)",
+                "guid": "Q25GpmYBhQUKWcOtRtLVwA",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "📌 Calculado → Total de apneas y hipopneas dividido\npor tiempo total de sueño en horas.",
+                    "guid": "C6s3FT7s_qtY5plTEw8GXQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "83",
+                "parent": "80",
+                "text": "2. Índice de Disturbio\nRespiratorio (RDI)",
+                "guid": "Fa496wdbXKte6ag_PhChmw",
+                "children": [
+                  {
+                    "id": "84",
+                    "parent": "83",
+                    "text": "📌 Incluye RERAs → Mayor que AHI\ndebido a inclusión de RERAs.",
+                    "guid": "Uqt9XQvWXH58vr7ZfmbMTQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "85",
+                "parent": "80",
+                "text": "3. Gravedad de\nla Hipoxemia",
+                "guid": "IKhn30X-HPwgvRqneL0OwQ",
+                "children": [
+                  {
+                    "id": "86",
+                    "parent": "85",
+                    "text": "📌 Saturación de oxígeno mínima y media durante el sueño\n→ Componentes recomendados en informes de PSG [3].",
+                    "guid": "YhmkKQekdxR8jSlWCZmtiA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "Introducción a la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "HGO2_l3LshURCPgkO3GzyQ",
+        "children": [
+          {
+            "id": "88",
+            "parent": "87",
+            "text": "1. Descripción\nGeneral",
+            "guid": "Kn8vwj1paU9p9oacQC1trQ",
+            "children": [
+              {
+                "id": "89",
+                "parent": "88",
+                "text": "📌 OSA → Trastorno caracterizado por apneas obstructivas, hipopneas y/o arousals relacionados con el\nesfuerzo respiratorio debido al colapso repetitivo de la vía aérea superior durante el sueño.",
+                "guid": "RMTF-kjgLtx-Pg9IF3BDVw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "parent": "87",
+            "text": "2. Epidemiología",
+            "guid": "VLaLWnr8ziEV1w-kdV7zOQ",
+            "children": [
+              {
+                "id": "91",
+                "parent": "90",
+                "text": "🔹 Prevalencia en Norteamérica → Aproximadamente 15-30% en hombres y 10-15% en mujeres,\ndefinida como AHI >5 eventos por hora de sueño [4,5].",
+                "guid": "QPrrHTaUKktuHAH6IxSPRg",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "90",
+                "text": "🔹 Variabilidad global → Estimaciones globales sugieren\n936 millones de personas con OSA leve a severa [7].",
+                "guid": "PjihYGqpK1EsrjzPQeGaqg",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "90",
+                "text": "🔹 Variaciones por raza y edad → Mayor prevalencia en hombres mayores y en afroamericanos\nmenores de 35 años en comparación con blancos del mismo grupo de edad [8,9].",
+                "guid": "DMRwOwQY7XQI-NqaFOE6Kg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "94",
+            "parent": "87",
+            "text": "3. Factores de Riesgo y\nCondiciones Asociadas",
+            "guid": "Zd1hxhbi8EodbtoWMRmq8A",
+            "children": [
+              {
+                "id": "95",
+                "parent": "94",
+                "text": "🔹 Edad avanzada → Incremento de prevalencia hasta la\nsexta o séptima década de vida [4,12,13].",
+                "guid": "AnUhYgHxqhIIASsvLPRRJA",
+                "children": []
+              },
+              {
+                "id": "96",
+                "parent": "94",
+                "text": "🔹 Sexo masculino → 2-3 veces más común en hombres; riesgos\nsimilares en mujeres peri- y postmenopáusicas [2,13-16].",
+                "guid": "P1sTYXH3scxtIb7SBB_ZWw",
+                "children": []
+              },
+              {
+                "id": "97",
+                "parent": "94",
+                "text": "🔹 Obesidad → Fuerte correlación con el índice de masa corporal (IMC);\nriesgo significativo en individuos con sobrepeso y obesidad [5,13,14].",
+                "guid": "OtfgqGtfzhobkByyD45sAg",
+                "children": []
+              },
+              {
+                "id": "98",
+                "parent": "94",
+                "text": "🔹 Anomalías craneofaciales y de la vía aérea superior → Incrementan la probabilidad\nde OSA; comunes en países con menores tasas de obesidad [14,18].",
+                "guid": "ZlycPDFnLFcE7V88J1eHWQ",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "94",
+                "text": "🔹 Tabaquismo y historial familiar → Pueden\naumentar el riesgo de OSA [19,20].",
+                "guid": "Z_tWonMJYTZKbBagJjP4Ag",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "94",
+                "text": "🔹 Condiciones médicas asociadas → Incluyen insuficiencia cardíaca congestiva,\nfibrilación auricular, hipertensión pulmonar, enfermedades del pulmón y más [26,27].",
+                "guid": "XbKMh3caU29oFZKsanb8wg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "parent": "87",
+            "text": "4. Comorbilidades y\nOtros Factores",
+            "guid": "ezNA43EObUZ_WDbtYRCiqQ",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "🔹 Enfermedades asociadas → OHS, enfermedad cardiovascular, enfermedad renal en etapa terminal,\ny enfermedades pulmonares crónicas [26-29].",
+                "guid": "B_FdkRzHEQMSKk2aCmZ-8w",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "101",
+                "text": "🔹 Influencia de sustancias → Alcohol, benzodiazepinas y\nnarcóticos pueden exacerbar OSA [24,25].",
+                "guid": "Hri7FRoreMk3WtAXXhPOdg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "104",
+        "parent": "0",
+        "text": "Características Clínicas de la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "O7naCD5-sW8Ag484UJpyTw",
+        "children": [
+          {
+            "id": "105",
+            "parent": "104",
+            "text": "1. Síntomas\ny Signos",
+            "guid": "D9xdBH3DxIRWiXdAdjj5QA",
+            "children": [
+              {
+                "id": "106",
+                "parent": "105",
+                "text": "📌 Síntomas\ncomunes:",
+                "guid": "Lyrw21t21nwdkICZFyZHfQ",
+                "children": [
+                  {
+                    "id": "107",
+                    "parent": "106",
+                    "text": "• Somnolencia diurna → Dificultad para mantenerse despierto o alerta durante el día. A menudo subestimada por su inicio insidioso [41,42].",
+                    "guid": "ToA3smf8lzk9Wj-ALDLEOg",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "106",
+                    "text": "• Ronquidos y eventos asociados → Ronquidos fuertes, gaspido, ahogo, ronquido interrumpido por silencios seguidos de fuertes ronquidos, sueño intranquilo [47,48].",
+                    "guid": "XxbqqCVv0iwWqcD8Wkoriw",
+                    "children": []
+                  },
+                  {
+                    "id": "109",
+                    "parent": "106",
+                    "text": "• Cefaleas matutinas → Bifrontales y opresivas, frecuentes al despertar y pueden durar varias horas [49,50].",
+                    "guid": "Fn4_cxYB9-k7Ws41Hm-dBA",
+                    "children": []
+                  },
+                  {
+                    "id": "110",
+                    "parent": "106",
+                    "text": "• Insomnio de mantenimiento del sueño → Despertares repetitivos durante la noche, más común en mujeres [53,54].",
+                    "guid": "MskI7U2FG88o1hv3UYHEAg",
+                    "children": []
+                  },
+                  {
+                    "id": "111",
+                    "parent": "106",
+                    "text": "• Nocturia → Despertares frecuentes por la noche con necesidad de orinar [55,56].",
+                    "guid": "Z7CUmGAw7A4vlZJ5c9O_Lg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "112",
+                "parent": "105",
+                "text": "• Escala de Somnolencia de Epworth (ESS) → Utilizada para documentar cuantitativamente la percepción del paciente sobre su somnolencia o fatiga.\nUn puntaje ESS >9 indica somnolencia diurna anormal [43,44].",
+                "guid": "D4z-zhFYQasKwtE8PrfvqQ",
+                "children": []
+              },
+              {
+                "id": "113",
+                "parent": "105",
+                "text": "• Evaluación de ronquidos y eventos respiratorios → Importante tener un testigo durante la entrevista para proporcionar una perspectiva más precisa de la frecuencia y severidad de los síntomas nocturnos.",
+                "guid": "CAiaSgxSX18ZAdQNHDZnRA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "114",
+            "parent": "104",
+            "text": "2. Examen Físico",
+            "guid": "bM8YJyhTUdVV3jcnO09P2g",
+            "children": [
+              {
+                "id": "115",
+                "parent": "114",
+                "text": "📌 Hallazgos comunes:",
+                "guid": "EE_pDxM4dqdnghQUb2bTtw",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "• Obesidad → Frecuentemente observada; IMC ≥30 kg/m² [57].",
+                    "guid": "OKhI034r1RBJsP9DTyaIRg",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "• Vía aérea orofaríngea estrecha → Condiciones craneofaciales como retrognatia, macroglosia, hipertrofia de amígdalas, y más.\nClasificación de Mallampati y posición de la lengua de Friedman utilizadas para evaluar el estrechamiento de la vía aérea [58].",
+                    "guid": "FC3M-gULzXhtliVKRvbV5w",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "• Circunferencia de cuello y/o cintura grande → Correlación fuerte con OSA; en\nhombres con un tamaño de cuello >17 pulgadas y en mujeres >16 pulgadas [57,61].",
+                    "guid": "UpDpRxZsQUEYeJnpOkF93w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "119",
+            "parent": "104",
+            "text": "3. Evaluación de\nComorbilidades",
+            "guid": "dp0tUEgOLGIuFT0Ne0qoSA",
+            "children": [
+              {
+                "id": "120",
+                "parent": "119",
+                "text": "• Hipertensión sistémica y falla cardíaca → Comúnmente asociadas con OSA.",
+                "guid": "WddmrWjkB3kP1IBEaWRlew",
+                "children": []
+              },
+              {
+                "id": "121",
+                "parent": "119",
+                "text": "• Hipertensión pulmonar → Menos comúnmente asociada con OSA.",
+                "guid": "ejxJJBqXUYAoHFUlZwthTA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "122",
+        "parent": "0",
+        "text": "Diagnóstico Diferencial de la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "VFyHUXmqGvEqG7pnUKujOg",
+        "children": [
+          {
+            "id": "123",
+            "parent": "122",
+            "text": "1. Somnolencia\nDiurna Excesiva",
+            "guid": "HQQ6mXul1xUeMJP9E6Fn6Q",
+            "children": [
+              {
+                "id": "124",
+                "parent": "123",
+                "text": "• Movimiento periódico de extremidades y síndrome de piernas inquietas – Pueden causar interrupciones del sueño similares a la OSA.",
+                "guid": "Q7QDd0xF0QsO7BAxHYtqJA",
+                "children": []
+              },
+              {
+                "id": "125",
+                "parent": "123",
+                "text": "• Narcolepsia y apnea central del sueño – Presentan síntomas de somnolencia pero con mecanismos y tratamientos distintos.",
+                "guid": "NSnYhB7AkHUG78-gL2YhqA",
+                "children": []
+              },
+              {
+                "id": "126",
+                "parent": "123",
+                "text": "• Condiciones no relacionadas con OSA que afectan la respiración durante el sueño – Pueden presentar síntomas similares de somnolencia.",
+                "guid": "OVfh9S8MJMUWcYL0fEKFSg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "127",
+            "parent": "122",
+            "text": "2. Despertares Abruptos o\nSonidos/Sensaciones\nAnormales Durante el Sueño",
+            "guid": "Qqj5VBIeccsIFP_KSrGTnw",
+            "children": [
+              {
+                "id": "128",
+                "parent": "127",
+                "text": "• Ronquido primario – Aunque el ronquido es común en la OSA, muchos pacientes que roncan no tienen OSA.\nEl diagnóstico definitivo requiere evaluación mediante pruebas de apnea del sueño.",
+                "guid": "RbsPJDHuqBxYVG-xCW8Smw",
+                "children": []
+              },
+              {
+                "id": "129",
+                "parent": "127",
+                "text": "• Enfermedad por reflujo gastroesofágico (ERGE) – Puede imitar la OSA al producir sensaciones de ahogo y disnea nocturna.\nAdemás, la ERGE puede mejorar con terapia de presión positiva en las vías respiratorias, lo que puede confundirse con OSA.",
+                "guid": "fjR5J2dAf-Im-nzAM15Rqw",
+                "children": []
+              },
+              {
+                "id": "130",
+                "parent": "127",
+                "text": "• Otros trastornos – Incluyen asma nocturna, trastornos de deglución, convulsiones nocturnas y trastornos psiquiátricos como ataques de pánico.\nEstos generalmente se diferencian de la OSA mediante la PSG, con la excepción de las convulsiones nocturnas.",
+                "guid": "BgEQVy3qTGBixHNUP1jyTA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "131",
+            "parent": "122",
+            "text": "3. Cefaleas\nMatutinas",
+            "guid": "XPZxJXk19kg7m3eWCf0iNg",
+            "children": [
+              {
+                "id": "132",
+                "parent": "131",
+                "text": "• Lesiones ocupantes de espacio cerebral – Las cefaleas matutinas pueden asociarse\ncon lesiones cerebrales, requiriendo imágenes cerebrales para su diagnóstico.",
+                "guid": "HTb7EFBL1gQ_XLdWO6fMOg",
+                "children": []
+              },
+              {
+                "id": "133",
+                "parent": "131",
+                "text": "• Síndrome de hipoventilación por obesidad (OHS) – A menudo presenta cefaleas matutinas que pueden distinguirse de la OSA por la presencia de hipercapnia en los exámenes de laboratorio.\nLa mayoría de los pacientes con OHS (>90%) tienen OSA.",
+                "guid": "cWKp3CZEsjprdso7GRF3Cw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "134",
+        "parent": "0",
+        "text": "Evaluación Diagnóstica de la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "H6_2a3_tugk4v4fnGZLziQ",
+        "children": [
+          {
+            "id": "135",
+            "parent": "134",
+            "text": "1. Selección de\nPacientes",
+            "guid": "MSOGdzYY7oQ_hAwIL1f_ng",
+            "children": [
+              {
+                "id": "136",
+                "parent": "135",
+                "text": "• Sospecha\nclínica de OSA:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "137",
+                    "parent": "136",
+                    "text": "• Presencia de somnolencia diurna excesiva.",
+                    "guid": "HVluZmZ-iMhitlFKI1p-vQ",
+                    "children": []
+                  },
+                  {
+                    "id": "138",
+                    "parent": "136",
+                    "text": "• Ronquidos habituales y fuertes.",
+                    "guid": "FGjVKEV6xJ5is3EJcV9GTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "139",
+                    "parent": "136",
+                    "text": "• Episodios de ahogo o gasping durante el sueño.",
+                    "guid": "PrC65h5O6J97XGiDcLLlSQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "140",
+                "parent": "135",
+                "text": "• Factores de\nriesgo relevantes:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "141",
+                    "parent": "140",
+                    "text": "• Obesidad, sexo masculino, edad avanzada.",
+                    "guid": "KWdx5UOTPr1lXgkBRp5s9Q",
+                    "children": []
+                  },
+                  {
+                    "id": "142",
+                    "parent": "140",
+                    "text": "• Historial de hipertensión o síntomas neuropsiquiátricos asociados.",
+                    "guid": "E98UwiS6wFcCRjkwBUG-ng",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "143",
+            "parent": "134",
+            "text": "2. Evaluación\nClínica",
+            "guid": "Sv9ykW29A2seUzWpO1lc2g",
+            "children": [
+              {
+                "id": "144",
+                "parent": "143",
+                "text": "• Explorar causas de somnolencia diurna y ronquidos.",
+                "guid": "MjCjADDyYlBNbWfbT4oRZg",
+                "children": []
+              },
+              {
+                "id": "145",
+                "parent": "143",
+                "text": "• Evaluar signos físicos como obesidad y anormalidades de la vía aérea superior.",
+                "guid": "F3DrGDAjuSVy5JAjK9nAQQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "146",
+            "parent": "134",
+            "text": "3. Herramientas\nde Evaluación",
+            "guid": "dZ59w1WYASwdOQaONE84qg",
+            "children": [
+              {
+                "id": "147",
+                "parent": "146",
+                "text": "• STOP-Bang, Escala de Somnolencia de Epworth (ESS), y otras herramientas pueden\nser útiles en entornos no especializados para identificar pacientes en riesgo.",
+                "guid": "XCitzwpgJvRj7MimcAfCkQ",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "146",
+                "text": "• Estas herramientas no reemplazan la necesidad de pruebas de apnea del sueño.",
+                "guid": "LxrnTGYzAdZ1SYEvehpZ3Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "149",
+            "parent": "134",
+            "text": "4. Pruebas de\nApnea del Sueño",
+            "guid": "U_AFQROcttg1c7a4QOHnBw",
+            "children": [
+              {
+                "id": "150",
+                "parent": "149",
+                "text": "• Polisomnografía\n(PSG):",
+                "guid": "XIhwRQRTr90bHxqpUibuCQ",
+                "children": [
+                  {
+                    "id": "151",
+                    "parent": "150",
+                    "text": "• Estándar de oro para el diagnóstico de OSA.",
+                    "guid": "D7RrVCbiDP9e909EQeUOVA",
+                    "children": []
+                  },
+                  {
+                    "id": "152",
+                    "parent": "150",
+                    "text": "• Realizada en un laboratorio del sueño, puede incluir estudios de noche completa o dividida.",
+                    "guid": "V9RvTyxktyARbx-6b0VaaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "153",
+                "parent": "149",
+                "text": "• Pruebas de apnea del\nsueño en casa (HSAT):",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "154",
+                    "parent": "153",
+                    "text": "• Alternativa razonable para pacientes sin complicaciones adicionales y con una probabilidad pretest moderada o severa de OSA.",
+                    "guid": "WeuxCThYITcGdiazTdKa1Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "155",
+            "parent": "134",
+            "text": "5. Selección entre Pruebas en\nCasa o en Laboratorio",
+            "guid": "Ndhrm08NvysdHgCqZPNS5w",
+            "children": [
+              {
+                "id": "156",
+                "parent": "155",
+                "text": "• Profesión del paciente y la gravedad sospechada de OSA.",
+                "guid": "JgQ4shSBY3xKEq1KNbikBw",
+                "children": []
+              },
+              {
+                "id": "157",
+                "parent": "155",
+                "text": "• Presencia de trastornos del sueño no respiratorios o condiciones complicadas.",
+                "guid": "O2NwfCkJ_I93nbJbEzffyw",
+                "children": []
+              },
+              {
+                "id": "158",
+                "parent": "155",
+                "text": "• Preferencias del paciente y prácticas institucionales.",
+                "guid": "VW6zrwkM0hYCfTozMfcj9A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "159",
+            "parent": "134",
+            "text": "6. Trabajadores con\nTareas Críticas",
+            "guid": "DWCB8x2cVNwEHhH9Z0wy_Q",
+            "children": [
+              {
+                "id": "160",
+                "parent": "159",
+                "text": "• Se recomienda PSG en laboratorio para trabajadores de tareas críticas como pilotos o\nconductores profesionales, debido al alto riesgo asociado con un diagnóstico erróneo.",
+                "guid": "Ngx9VyA_xFdT-ER2a-To8g",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "161",
+            "parent": "134",
+            "text": "7. Trastornos del Sueño\nNo Respiratorios",
+            "guid": "b02Dg3EWRSFQ2DvZJI5EhA",
+            "children": [
+              {
+                "id": "162",
+                "parent": "161",
+                "text": "• Si se sospechan trastornos como narcolepsia o trastornos de movimiento,\nse debe realizar PSG en un laboratorio del sueño.",
+                "guid": "RGdMGnfRuBJfOqO0f8q8lg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "163",
+            "parent": "134",
+            "text": "8. OSA Complicada por Otros\nTrastornos Respiratorios",
+            "guid": "INu0oVbYVhATApxhdkpoUA",
+            "children": [
+              {
+                "id": "164",
+                "parent": "163",
+                "text": "• Indicaciones para\nPSG en laboratorio:",
+                "guid": "X-UoJhV_1pUoQYxEbUWqGQ",
+                "children": [
+                  {
+                    "id": "165",
+                    "parent": "164",
+                    "text": "• Presencia de condiciones médicas que pueden afectar la respiración durante el\nsueño, como enfermedad pulmonar obstructiva crónica o insuficiencia cardíaca.",
+                    "guid": "NvPW8gmwqugv8qfjbQBUSQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "166",
+            "parent": "134",
+            "text": "9. Probabilidad Pretest de\nOSA Moderada a Severa",
+            "guid": "KfBvQAPq7FlY5T07GT3yww",
+            "children": [
+              {
+                "id": "167",
+                "parent": "166",
+                "text": "• Candidatos para HSAT:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "168",
+                    "parent": "167",
+                    "text": "• Pacientes con somnolencia diurna y ronquidos fuertes, especialmente si la prueba preliminar indica un AHI >15.",
+                    "guid": "dQExeim9eRQ9zDdHeH74dQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "169",
+            "parent": "134",
+            "text": "10. Probabilidad\nPretest de OSA Leve",
+            "guid": "WaNhsmuLQg8iAPgjHgqtzA",
+            "children": [
+              {
+                "id": "170",
+                "parent": "169",
+                "text": "• Enfoque recomendado:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "171",
+                    "parent": "170",
+                    "text": "• PSG es preferida; sin embargo, muchas aseguradoras requieren inicialmente HSAT. Si\nHSAT es negativa y persiste la sospecha de OSA, se procede con PSG en laboratorio.",
+                    "guid": "Y1z6IQE7m9cd1WpiBDiuwg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "172",
+        "parent": "0",
+        "text": "Pruebas Diagnósticas para la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "X0x8ohC1xdUrQhiTSiTfOw",
+        "children": [
+          {
+            "id": "173",
+            "parent": "172",
+            "text": "1. Polisomnografía\n(PSG)",
+            "guid": "RlfdWCLEo1YlPsQneXQIyg",
+            "children": [
+              {
+                "id": "174",
+                "parent": "173",
+                "text": "• Estándar de oro: La PSG realizada en un laboratorio del\nsueño es la prueba diagnóstica definitiva para OSA.",
+                "guid": "TyRBmHnQoT0ChKpPBhgYiw",
+                "children": []
+              },
+              {
+                "id": "175",
+                "parent": "173",
+                "text": "• Tipos de\nestudio:",
+                "guid": "cAcnf0XjYJ9taTKiU2QhoA",
+                "children": [
+                  {
+                    "id": "176",
+                    "parent": "175",
+                    "text": "• Estudio de noche completa: Monitorea al paciente durante su período típico de sueño nocturno. Puede requerir una\nvisita de retorno para la titulación de la terapia de presión positiva de las vías aéreas (PAP) si se diagnostica OSA.",
+                    "guid": "A4FMJjJ3UjJzGGzULXG7Zg",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "175",
+                    "text": "• Estudio de noche dividida (Split-night): Combina diagnóstico y titulación de PAP en una sola noche. Se inicia con el\ndiagnóstico en la primera mitad de la noche, seguido de la titulación de PAP si se confirma OSA.",
+                    "guid": "NmI-jEv9qhBGr64pK2NwBg",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "175",
+                    "text": "• Criterios para un estudio de noche dividida: Debe observarse una OSA de grado moderado a severo durante un mínimo de\ndos horas de registro, y debe quedar suficiente tiempo (al menos tres horas) para una titulación efectiva de CPAP.",
+                    "guid": "dbsjJAR75XAj4mh8T16E1g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "179",
+            "parent": "172",
+            "text": "2. Pruebas de Apnea del\nSueño en el Hogar (HSAT)",
+            "guid": "Rx78dgs-nQRXnNBiHzLuXg",
+            "children": [
+              {
+                "id": "180",
+                "parent": "179",
+                "text": "• Opción para OSA no complicada: Adecuada para pacientes con alta probabilidad pretest de OSA moderada a\nsevera, sin trastornos del sueño no respiratorios sospechosos, y donde no se requiere supervisión directa.",
+                "guid": "PBajyFIf53RXLAhrAm6BIA",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "179",
+                "text": "• Requisitos\npara HSAT:",
+                "guid": "CTb7023eI4USpDT_fvIe9w",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "• Debe usarse un dispositivo adecuado, generalmente de Tipo 3.",
+                    "guid": "dOSKy3xqzJJ74onqRAjMYw",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "• La interpretación debe ser realizada por un experto en medicina del sueño.",
+                    "guid": "djtt0H5nNDpKIOTueby59g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "184",
+                "parent": "179",
+                "text": "• Consideraciones:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "185",
+                    "parent": "184",
+                    "text": "• Si el HSAT es negativo, inconclusivo o técnicamente inadecuado, y persiste la sospecha de OSA, se recomienda realizar una PSG en laboratorio.",
+                    "guid": "MN6GbD05UcMnLnVcZ0DE-A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "186",
+            "parent": "172",
+            "text": "3. Selección entre\nPSG y HSAT",
+            "guid": "cloI9TaGnXtOUKPOYmEwdQ",
+            "children": [
+              {
+                "id": "187",
+                "parent": "186",
+                "text": "• La severidad sospechada de OSA.",
+                "guid": "fGn-Gju51nA1xVIVQ4j6kA",
+                "children": []
+              },
+              {
+                "id": "188",
+                "parent": "186",
+                "text": "• La presencia de otras condiciones médicas o trastornos del sueño.",
+                "guid": "RvhzdQ1iInhiu-juAw8XPQ",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "186",
+                "text": "• Preferencias del paciente y logística.",
+                "guid": "X4IJ7Dnn8VoFfZhdVGaUtw",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "186",
+                "text": "• Requerimientos de los aseguradores.",
+                "guid": "NlK97AFgIkgYb2EbLI4rvA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "191",
+            "parent": "172",
+            "text": "4. Trabajadores con\nTareas Críticas",
+            "guid": "H8mXzE15Ww4X5qHnKQCTnw",
+            "children": [
+              {
+                "id": "192",
+                "parent": "191",
+                "text": "• Recomendación: Se prefiere la PSG en laboratorio para los trabajadores de tareas\ncríticas debido al alto riesgo asociado con un diagnóstico erróneo de OSA.",
+                "guid": "O1d-kyqK1uYn8rKXLbGHiQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "193",
+            "parent": "172",
+            "text": "5. Evaluación de Trastornos del\nSueño No Respiratorios",
+            "guid": "Mf0s1UXYChMhBG0LePWgSg",
+            "children": [
+              {
+                "id": "194",
+                "parent": "193",
+                "text": "• Indicaciones para PSG: Si se sospecha de trastornos como la narcolepsia o trastornos del\nmovimiento, se debe optar por la PSG en laboratorio para un diagnóstico preciso.",
+                "guid": "YRF0YXZDVmUQErf-XXtyew",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "172",
+            "text": "6. Estudios de Noche\nCompleta vs. Noche Dividida",
+            "guid": "UzosiwPAVfp8BLeHMrw2eA",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "• Ventajas de la\nnoche dividida:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "197",
+                    "parent": "196",
+                    "text": "• Menor costo y mayor conveniencia.",
+                    "guid": "PahHVAGCT-UHIssvc_sFQA",
+                    "children": []
+                  },
+                  {
+                    "id": "198",
+                    "parent": "196",
+                    "text": "• Reduce los retrasos en la programación.",
+                    "guid": "AuJyLR-SLEogiTD9AqnIrw",
+                    "children": []
+                  },
+                  {
+                    "id": "199",
+                    "parent": "196",
+                    "text": "• No afecta negativamente la adherencia al tratamiento.",
+                    "guid": "AiJyVEbUFq8zT6WdIewKIA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "200",
+                "parent": "195",
+                "text": "• Preferencia del paciente: Generalmente se prefiere el protocolo de noche dividida cuando es clínicamente apropiado.",
+                "guid": "FE1xvks2R4RK7J3AT6TwUQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "201",
+            "parent": "172",
+            "text": "7. Repetición de PSG",
+            "guid": "dcEeanLfUFd9VnfaVtKSyw",
+            "children": [
+              {
+                "id": "202",
+                "parent": "201",
+                "text": "• Consideraciones: Si una PSG en laboratorio es negativa pero la sospecha clínica de OSA es alta, se\nrecomienda repetir la PSG debido a la variabilidad noche a noche en los resultados de las pruebas.",
+                "guid": "aSKmvA1pL9g0TgVGGx_TkQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "203",
+        "parent": "0",
+        "text": "Diagnóstico de la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "YBrltTJDLhJa3HzEaGS0dg",
+        "children": [
+          {
+            "id": "204",
+            "parent": "203",
+            "text": "Criterios Diagnósticos",
+            "guid": "WRLITBAaK2NZN5zvFrsPoA",
+            "children": [
+              {
+                "id": "205",
+                "parent": "204",
+                "text": "La OSA se diagnostica basándose en la presencia de síntomas relacionados y la frecuencia de eventos respiratorios\ndurante el sueño, tales como apneas, hipopneas y despertares relacionados con el esfuerzo respiratorio (RERAs).",
+                "guid": "EZx7SGBaaB8KthTgFH7tdQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "206",
+            "parent": "203",
+            "text": "Polisomnografía (PSG)",
+            "guid": "f-yUaSs_Rd0XKLYkAg8GvQ",
+            "children": [
+              {
+                "id": "207",
+                "parent": "206",
+                "text": "• Confirmación de OSA:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "208",
+                    "parent": "207",
+                    "text": "• Se confirma si se presentan 5 o más eventos\nrespiratorios obstructivos por hora de sueño y uno o\nmás de los siguientes síntomas:",
+                    "guid": "chNcjUp4W8Ij-xDeBmDOSw",
+                    "children": [
+                      {
+                        "id": "209",
+                        "parent": "208",
+                        "text": "• Somnolencia o\nfatiga diurna.",
+                        "guid": "Fa6jRm7nrp5WBb6cC2_BsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "210",
+                        "parent": "208",
+                        "text": "• Despertar con sensación de\nasfixia, ahogo o sofocación.",
+                        "guid": "Ycb-9VNcNndiQlR8SumlsQ",
+                        "children": []
+                      },
+                      {
+                        "id": "211",
+                        "parent": "208",
+                        "text": "• Ronquidos habituales o\ninterrupciones respiratorias\nobservadas.",
+                        "guid": "YMVmTxaQWcNmCXlCNAagOw",
+                        "children": []
+                      },
+                      {
+                        "id": "212",
+                        "parent": "208",
+                        "text": "• O 15 o más eventos\nrespiratorios por hora sin\nnecesidad de síntomas\nadicionales.",
+                        "guid": "a-LMFXoe7R5aggazRPWUYQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "213",
+                    "parent": "207",
+                    "text": "• Índices cuantitativos:",
+                    "guid": "CjkYgjO5o6JbsKQBG9WTyg",
+                    "children": [
+                      {
+                        "id": "214",
+                        "parent": "213",
+                        "text": "• Índice de Apnea-Hipopnea (AHI): Total de\napneas e hipopneas dividido por el tiempo\ntotal de sueño en horas.",
+                        "guid": "FBQLwWZmuOEwVIFAFACgKw",
+                        "children": []
+                      },
+                      {
+                        "id": "215",
+                        "parent": "213",
+                        "text": "• Índice de Perturbación Respiratoria (RDI): Incluye\napneas, hipopneas y RERAs, ofreciendo una\nmedida más sensible de la OSA.",
+                        "guid": "EaX-v0d9N2QWD6boA7lbTA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "216",
+            "parent": "203",
+            "text": "Pruebas de Apnea del Sueño\nen el Hogar (HSAT)",
+            "guid": "K-amXTushE1ISCU1F8lycg",
+            "children": [
+              {
+                "id": "217",
+                "parent": "216",
+                "text": "• Índice de Eventos Respiratorios (REI): Utilizado en HSAT, cuenta\nlos eventos respiratorios por hora de tiempo de grabación. No\nincluye EEG, por lo que RERAs e hipopneas con despertares no\nse identifican confiablemente.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "218",
+            "parent": "203",
+            "text": "Clasificación de\nla Severidad",
+            "guid": "EfWTJjoKt8YKGimXJ6Q2bQ",
+            "children": [
+              {
+                "id": "219",
+                "parent": "218",
+                "text": "La severidad de la OSA se clasifica\nbasada en el AHI o REI:",
+                "guid": "KPJmZGAf6DMzE_geCrllWQ",
+                "children": [
+                  {
+                    "id": "220",
+                    "parent": "219",
+                    "text": "• Leve: AHI/REI de 5 a 14 eventos por hora. Los\npacientes pueden ser asintomáticos o presentar\nsomnolencia diurna sedentaria.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "219",
+                    "text": "• Moderada: AHI/REI de 15 a 30 eventos por\nhora. Los pacientes suelen ser conscientes de la\nsomnolencia diurna y pueden tener hipertensión\nsistémica coexistente.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "222",
+                    "parent": "219",
+                    "text": "• Severa: AHI/REI superior a 30 eventos por hora. Los pacientes\nsuelen experimentar somnolencia diurna que interfiere con las\nactividades diarias y tienen un mayor riesgo de mortalidad y\ncomorbilidades cardiovasculares.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "223",
+        "parent": "0",
+        "text": "Síndrome de Resistencia de la Vía\nAérea Superior (UARS)",
+        "guid": "M3weqhVWTJpVowsKFEGE-g",
+        "children": [
+          {
+            "id": "224",
+            "parent": "223",
+            "text": "• Características: Resistencia incrementada en la vía aérea superior que induce despertares, llevando a somnolencia diurna\nexcesiva. A menudo se presenta en individuos delgados y puede requerir CPAP o dispositivos dentales para su manejo.",
+            "guid": "NctxayLKK-hcvwbTQASJ7Q",
+            "children": []
+          },
+          {
+            "id": "225",
+            "parent": "223",
+            "text": "Consideraciones\nAdicionales",
+            "guid": "VoPPizhvqtRb2h24apfbTA",
+            "children": [
+              {
+                "id": "226",
+                "parent": "225",
+                "text": "• PSG vs. HSAT: La PSG es preferida para casos complicados o cuando se sospechan trastornos del sueño no respiratorios.\nHSAT es adecuado para casos no complicados de OSA con alta probabilidad pretest de severidad moderada a severa.",
+                "guid": "HtZjtgwunvh-mHt3MHxidQ",
+                "children": []
+              },
+              {
+                "id": "227",
+                "parent": "225",
+                "text": "• Elección del tipo de estudio: Los estudios de noche completa son estándar, pero los estudios\nde noche dividida son comunes y pueden diagnosticar y ajustar CPAP en una sola noche.",
+                "guid": "U6vWXBSoImA0Nb3BZaFpgw",
+                "children": []
+              },
+              {
+                "id": "228",
+                "parent": "225",
+                "text": "• Repetición de pruebas: Si la PSG inicial es negativa pero persiste la sospecha clínica de OSA, o si HSAT es\ninconclusiva o técnicamente inadecuada, se recomienda una evaluación adicional en un laboratorio de sueño.",
+                "guid": "TrLaJj5P51gNRZ_wd6VAiw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "229",
+            "parent": "223",
+            "text": "El diagnóstico y manejo adecuado de la OSA requiere una evaluación cuidadosa de los síntomas y el uso\nestratégico de tecnologías de diagnóstico para confirmar la presencia y evaluar la severidad de la\nenfermedad, facilitando así un tratamiento efectivo y personalizado.",
+            "guid": "Hm_Pi0BZmA4CXqXkUevuNg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "230",
+        "parent": "0",
+        "text": "Complicaciones de la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "f_Y7nixbBAtAXtxRXfbr5A",
+        "children": [
+          {
+            "id": "231",
+            "parent": "230",
+            "text": "La OSA se asocia con múltiples riesgos y\ncomplicaciones adversas que afectan\ndiversas áreas de la salud.",
+            "guid": "Va_kqFgBsO9mLXMwAZaLBg",
+            "children": []
+          },
+          {
+            "id": "232",
+            "parent": "230",
+            "text": "1. Conducción Somnolienta y\nAccidentes de Tráfico",
+            "guid": "E641PC51mGUZX_14SXmmpw",
+            "children": [
+              {
+                "id": "233",
+                "parent": "232",
+                "text": "• Riesgo elevado: Los pacientes con OSA tienen de dos a tres veces\nmás probabilidades de verse involucrados en accidentes\nautomovilísticos comparados con aquellos sin OSA, debido\nprincipalmente a la somnolencia diurna [91].",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "234",
+            "parent": "230",
+            "text": "2. Disfunción\nNeuropsiquiátrica",
+            "guid": "UT_ETnYfBEwJfjCVJ8OT2Q",
+            "children": [
+              {
+                "id": "235",
+                "parent": "234",
+                "text": "• Función cognitiva: La OSA puede inducir o empeorar problemas\nde atención, memoria y déficits cognitivos, lo que puede llevar a\nuna función ejecutiva deteriorada y aumentar la probabilidad de\nerrores y accidentes [4, 91-100].",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "236",
+                "parent": "234",
+                "text": "• Estado de ánimo y comportamiento:\nIncluye irritabilidad, depresión, psicosis y\ndisfunción sexual [95, 101-104].",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "237",
+            "parent": "230",
+            "text": "3. Morbilidad\nCardiovascular y\nCerebrovascular",
+            "guid": "Lo6vIGVYTk0SW28lTWUS1g",
+            "children": [
+              {
+                "id": "238",
+                "parent": "237",
+                "text": "• Enfermedades asociadas: Los pacientes con OSA no tratada,\nespecialmente en casos moderados a severos, tienen un mayor\nriesgo de desarrollar hipertensión sistémica, enfermedad\ncoronaria, arritmias cardíacas, insuficiencia cardíaca y\naccidentes cerebrovasculares.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "239",
+            "parent": "230",
+            "text": "4. Hipertensión Pulmonar y\nFalla Cardíaca Derecha",
+            "guid": "cYbtRRDz6p194XVLRTLDoQ",
+            "children": [
+              {
+                "id": "240",
+                "parent": "239",
+                "text": "• Relación con OSA: La OSA está clásicamente asociada con la\nhipertensión pulmonar del grupo 3, especialmente cuando coexiste\ncon el síndrome de hipoventilación por obesidad o una causa\nalternativa de hipoxemia diurna [117-120].",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "241",
+            "parent": "230",
+            "text": "5. Síndrome Metabólico\ny Diabetes Tipo 2",
+            "guid": "JZwM_TIXMwwq1C0kdE7nIw",
+            "children": [
+              {
+                "id": "242",
+                "parent": "241",
+                "text": "• Prevalencia aumentada: Hay una prevalencia\nincrementada de resistencia a la insulina y diabetes tipo 2\nen pacientes con OSA. Además, OSA ha sido asociada\nindependientemente con mayor resistencia a la insulina y\nriesgo de diabetes [105-115].",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "243",
+            "parent": "230",
+            "text": "6. Enfermedad del Hígado Graso\nNo Alcohólico (NAFLD)",
+            "guid": "cGcaZDgZzRRr9CeuDtbp8A",
+            "children": [
+              {
+                "id": "244",
+                "parent": "243",
+                "text": "• Riesgo incrementado: La prevalencia de NAFLD es de\ndos a tres veces mayor en pacientes con OSA severa,\nindependientemente de otros factores de riesgo como la\nobesidad [117-120].",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "245",
+            "parent": "230",
+            "text": "7. Diversos",
+            "guid": "eHNlIm5SzZNgwtgmTiNJyw",
+            "children": [
+              {
+                "id": "246",
+                "parent": "245",
+                "text": "• Otros riesgos:",
+                "guid": "",
+                "children": [
+                  {
+                    "id": "247",
+                    "parent": "246",
+                    "text": "• Gota: Incremento en el riesgo de desarrollar\ngota en pacientes con OSA comparado con\nquienes no la padecen [121].",
+                    "guid": "RlR-gkbwS1ZPudTRWgKzvg",
+                    "children": []
+                  },
+                  {
+                    "id": "248",
+                    "parent": "246",
+                    "text": "• Cáncer: Estudios sugieren una posible asociación entre\nla hipoxemia nocturna y un aumento en el riesgo de\ncáncer en pacientes con OSA [122].",
+                    "guid": "dWXju2kZ0kkjfFplRqWoCQ",
+                    "children": []
+                  },
+                  {
+                    "id": "249",
+                    "parent": "246",
+                    "text": "• Tromboembolismo venoso: Un estudio indicó un\nligero aumento en el riesgo de tromboembolismo\nvenoso no provocado en pacientes con OSA y\nhipoxemia nocturna severa [123].",
+                    "guid": "XzjWlSz6ivpuaTviDceFtg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "250",
+        "parent": "0",
+        "text": "Cuestionarios de Detección para la Apnea\nObstructiva del Sueño (OSA)",
+        "guid": "eugXzyg1C0QBgWTuF0vOzQ",
+        "children": [
+          {
+            "id": "251",
+            "parent": "250",
+            "text": "1. Uso y Limitaciones",
+            "guid": "EbiVpVkODdhJDIouN1Siog",
+            "children": [
+              {
+                "id": "252",
+                "parent": "251",
+                "text": "📌 Recomendación AASM: No se recomienda el uso\nrutinario de herramientas de detección en pacientes\nasintomáticos en la comunidad [65].",
+                "guid": "CyVA5HPgt1Iro4nFe4xbSQ",
+                "children": []
+              },
+              {
+                "id": "253",
+                "parent": "251",
+                "text": "📌 Utilidad clínica: Algunos cuestionarios, como STOP-Bang, se\nusan en evaluaciones preoperatorias para identificar pacientes con\nriesgo de complicaciones perioperatorias.",
+                "guid": "K_qEZxeXsXQKY0U5JG3piQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "254",
+            "parent": "250",
+            "text": "2. Principales\nCuestionarios de\nEvaluación",
+            "guid": "Bep_B2smHV9ykTNUTD79iQ",
+            "children": [
+              {
+                "id": "255",
+                "parent": "254",
+                "text": "🔹 STOP-Bang:",
+                "guid": "MhZotUJLCCUmQbFHJ3xMcA",
+                "children": [
+                  {
+                    "id": "256",
+                    "parent": "255",
+                    "text": "• Parámetros evaluados: Ronquidos, fatiga,\napneas observadas, hipertensión, IMC, edad,\ncircunferencia de cuello y género.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "257",
+                    "parent": "255",
+                    "text": "• Puntuación: ≥3 sugiere\nalto riesgo de OSA.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "258",
+                    "parent": "255",
+                    "text": "•\nSensibilidad/Especificidad:",
+                    "guid": "K2Tab0m-C6xuIfR6Cp2xBA",
+                    "children": [
+                      {
+                        "id": "259",
+                        "parent": "258",
+                        "text": "• AHI ≥5\neventos/hora: 84% /\n56%.",
+                        "guid": "driWp1yLMFwYZTa6CQtv7g",
+                        "children": []
+                      },
+                      {
+                        "id": "260",
+                        "parent": "258",
+                        "text": "• AHI ≥15\neventos/hora: 93% /\n43%.",
+                        "guid": "XU_bZHORz0cM5TZ7bwhxCQ",
+                        "children": []
+                      },
+                      {
+                        "id": "261",
+                        "parent": "258",
+                        "text": "• Alta sensibilidad pero baja\nespecificidad, útil para descartar\nOSA severa [125,127-129].",
+                        "guid": "TJ_dH1XxwKkmXROrV8UeAw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "262",
+                "parent": "254",
+                "text": "🔹 Sleep Apnea\nClinical Score (SACS):",
+                "guid": "SdJ3-1IAnXFTUXlMdcz8Yg",
+                "children": [
+                  {
+                    "id": "263",
+                    "parent": "262",
+                    "text": "• Parámetros evaluados: Circunferencia del\ncuello, hipertensión, ronquidos habituales y\nepisodios de ahogo nocturno.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "262",
+                    "text": "• Interpretación: Puntuaciones >15\n→ 25-50% de probabilidad de OSA\n(AHI >10) [130,131].",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "265",
+                "parent": "254",
+                "text": "🔹 Cuestionario de Berlín:",
+                "guid": "aZhO5V20voUaOuXsb4LN7A",
+                "children": [
+                  {
+                    "id": "266",
+                    "parent": "265",
+                    "text": "• Parámetros evaluados: Ronquidos,\nfatiga, somnolencia al conducir, apneas\nnocturnas, hipertensión y IMC.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "parent": "265",
+                    "text": "• Interpretación: Riesgo\nalto o bajo de OSA.",
+                    "guid": "SNrb5AzMGUA7wct1evFEmQ",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "265",
+                    "text": "•\nSensibilidad/Especificidad:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "269",
+                        "parent": "268",
+                        "text": "• AHI ≥5\neventos/hora: 80% /\n46%.",
+                        "guid": "TxchZmIDfLwibZEKenv71Q",
+                        "children": []
+                      },
+                      {
+                        "id": "270",
+                        "parent": "268",
+                        "text": "• AHI ≥15 eventos/hora:\n91% / 37% [125,132].",
+                        "guid": "K8GIaBCPhYQFGazZInofDw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "271",
+                "parent": "254",
+                "text": "🔹 NoSAS Score:",
+                "guid": "bRq14B1-45QrhY7-SmqRRQ",
+                "children": [
+                  {
+                    "id": "272",
+                    "parent": "271",
+                    "text": "• Parámetros evaluados:\nCircunferencia del cuello, IMC,\nronquidos, edad y género.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "273",
+                    "parent": "271",
+                    "text": "• Valor predictivo:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "274",
+                        "parent": "273",
+                        "text": "• AUC 0.74 (mejor que\nSTOP-Bang y Berlín).",
+                        "guid": "ERCy2zhqxXk5cwJOXbCP-g",
+                        "children": []
+                      },
+                      {
+                        "id": "275",
+                        "parent": "273",
+                        "text": "• Requiere más validación antes de su\nuso clínico generalizado [133].",
+                        "guid": "DlyGIl_QFfo1da39WC7-HQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "276",
+                "parent": "254",
+                "text": "🔹 Multivariable Apnea\nPrediction (MVAP):",
+                "guid": "MdCzawjHJ0pN-_qAG2kCUA",
+                "children": [
+                  {
+                    "id": "277",
+                    "parent": "276",
+                    "text": "• Parámetros evaluados: Síntomas de\napnea, IMC, edad y género.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "278",
+                    "parent": "276",
+                    "text": "• Resultados:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "279",
+                        "parent": "278",
+                        "text": "• Sensibilidad del 91% y especificidad del 64%\npara predecir OSA severa (AHI ≥30) en pacientes\ncon somnolencia diurna [134].",
+                        "guid": "Znvlz2g24GwK69A8L1bBtA",
+                        "children": []
+                      },
+                      {
+                        "id": "280",
+                        "parent": "278",
+                        "text": "• En pacientes hipertensos, sensibilidad del\n92% y especificidad del 44% [135].",
+                        "guid": "dQL5rEatm7EqSAZNRBobEg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "281",
+            "parent": "250",
+            "text": "3. Consideraciones\nFinales",
+            "guid": "KLEYbUy1l1c-lhbnVHKg1Q",
+            "children": [
+              {
+                "id": "282",
+                "parent": "281",
+                "text": "📌 Cuestionarios en la\npráctica clínica:",
+                "guid": "XUUc20Ovw8F27L_lSl_SvA",
+                "children": [
+                  {
+                    "id": "283",
+                    "parent": "282",
+                    "text": "• Pueden ser útiles en pacientes\nsintomáticos en entornos de alto riesgo,\ncomo evaluación preoperatoria.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "284",
+                    "parent": "282",
+                    "text": "• No deben reemplazar\nestudios de sueño formales\npara el diagnóstico de OSA.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "285",
+                "parent": "281",
+                "text": "📌 Toma de decisiones:",
+                "guid": "YS6nVSJyTuMUymQBcj9aMA",
+                "children": [
+                  {
+                    "id": "286",
+                    "parent": "285",
+                    "text": "• STOP-Bang es el más utilizado\npor su alta sensibilidad.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "287",
+                    "parent": "285",
+                    "text": "• La especificidad de todos los cuestionarios es\nbaja, lo que puede llevar a sobrediagnóstico en\npoblaciones generales.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "288",
+            "parent": "250",
+            "text": "El uso de estas herramientas debe ser complementario y\nno sustituir estudios diagnósticos como la polisomnografía\no la prueba de apnea del sueño en casa en pacientes con\nalta sospecha de OSA.",
+            "guid": "Wt0UXE49Zk9P7-oqaTmafg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "289",
+        "parent": "0",
+        "text": "Fisiopatología de la Obstrucción de la Vía\nAérea Superior en la Apnea Obstructiva del\nSueño (OSA) en Adultos",
+        "guid": "BgC9WRKKXRNSvYKWQbqXYQ",
+        "children": [
+          {
+            "id": "290",
+            "parent": "289",
+            "text": "1. Introducción",
+            "guid": "Lg18SQVlmCdBaJibX94vtA",
+            "children": [
+              {
+                "id": "291",
+                "parent": "290",
+                "text": "📌 Definición:",
+                "guid": "d5tzhwYzAkAj_2b1bJ5tNA",
+                "children": [
+                  {
+                    "id": "292",
+                    "parent": "291",
+                    "text": "La OSA se caracteriza por obstrucción recurrente de la\nvía aérea faríngea durante el sueño, causando hipoxia\ny fragmentación del sueño.",
+                    "guid": "Diy_cQ9kkxt7RzIEdKilQQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "293",
+                "parent": "290",
+                "text": "📌 Mecanismos involucrados:",
+                "guid": "TOCd8U5HbUIwuIhGdZG2Xg",
+                "children": [
+                  {
+                    "id": "294",
+                    "parent": "293",
+                    "text": "• Susceptibilidad anatómica de la\nvía aérea superior (VAS).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "295",
+                    "parent": "293",
+                    "text": "• Alteraciones fisiológicas\nrelacionadas con el sueño que\nfavorecen la obstrucción [5].",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "296",
+                "parent": "290",
+                "text": "📌 Limitaciones del\nconocimiento actual:",
+                "guid": "Gv0Emm9Ony5KBFc0eEIhdQ",
+                "children": [
+                  {
+                    "id": "297",
+                    "parent": "296",
+                    "text": "• No se comprende completamente por qué\nalgunos individuos presentan colapso de la\nVAS mientras duermen.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "298",
+                    "parent": "296",
+                    "text": "• La mayoría de los estudios se han realizado en\nsueño NREM, debido a la dificultad de estudiar la\nfase REM en laboratorio.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "299",
+            "parent": "289",
+            "text": "2. Efectos del Sueño en la\nMecánica Respiratoria",
+            "guid": "Mv5i70DxFxlCofQxFC0KRA",
+            "children": [
+              {
+                "id": "300",
+                "parent": "299",
+                "text": "📌 Cambios fisiológicos\ndurante el sueño:",
+                "guid": "Y2Nl_FdsWDIGbGR0PkB6WA",
+                "children": [
+                  {
+                    "id": "301",
+                    "parent": "300",
+                    "text": "• Disminución del tono muscular de la VAS\n→ Favorece el colapso faríngeo.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "302",
+                    "parent": "300",
+                    "text": "• Reducción del impulso ventilatorio\ncentral → Disminución de la respuesta a\nla hipercapnia e hipoxia.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "303",
+                    "parent": "300",
+                    "text": "• Aumento de la resistencia de la VAS → Mayor\nvulnerabilidad a la obstrucción.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "304",
+                    "parent": "300",
+                    "text": "• Cambios en la mecánica toracoabdominal\n→ Alteración en la generación de presiones\ninspiratorias negativas.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "305",
+            "parent": "289",
+            "text": "3. Determinantes de la Permeabilidad\nde la Vía Aérea Superior",
+            "guid": "Jam-glZcTp4nehTWU7c6yw",
+            "children": [
+              {
+                "id": "306",
+                "parent": "305",
+                "text": "📌 Factores anatómicos\npredisponentes:",
+                "guid": "W8HmxWjirXEzlWqAae6mNw",
+                "children": [
+                  {
+                    "id": "307",
+                    "parent": "306",
+                    "text": "• Reducción del calibre de la\nVAS (macroglosia, retrognatia,\nhipertrofia amigdalar).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "308",
+                    "parent": "306",
+                    "text": "• Depósitos de grasa perifaríngea en\npacientes con obesidad.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "309",
+                    "parent": "306",
+                    "text": "• Cráneo y mandíbula de menor tamaño\nque reducen el espacio faríngeo.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "310",
+                "parent": "305",
+                "text": "📌 Factores neuromusculares:",
+                "guid": "eEdAjS7cnIRel0t4b-K0FA",
+                "children": [
+                  {
+                    "id": "311",
+                    "parent": "310",
+                    "text": "• Disminución del tono de los\nmúsculos dilatadores de la VAS\n(geniogloso, palatogloso).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "312",
+                    "parent": "310",
+                    "text": "• Retraso en la activación muscular\ncompensatoria tras la obstrucción.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "313",
+                    "parent": "310",
+                    "text": "• Alteración en reflejos\nprotectores de la vía aérea.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "314",
+            "parent": "289",
+            "text": "4. Fisiopatología de la Obstrucción\nde la VAS durante el Sueño",
+            "guid": "NQ-exQKWsm1cgSFIAfA8tg",
+            "children": [
+              {
+                "id": "315",
+                "parent": "314",
+                "text": "📌 Fases del colapso\nde la vía aérea:",
+                "guid": "IHxpAkuVVox3jItwfD5Pxw",
+                "children": [
+                  {
+                    "id": "316",
+                    "parent": "315",
+                    "text": "1️⃣ Disminución del tono neuromuscular →\nReducción del diámetro faríngeo.",
+                    "guid": "UN4frw05qY93gfMVa9skSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "315",
+                    "text": "2️⃣ Aumento de la resistencia al flujo aéreo →\nIncremento del esfuerzo inspiratorio.",
+                    "guid": "fIhIvUGGSklkHUW_L4arrA",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "315",
+                    "text": "3️⃣ Colapso parcial o total →\nDesarrollo de apneas/hipopneas.",
+                    "guid": "AndhYia_OfBDs7XwZdrHXg",
+                    "children": []
+                  },
+                  {
+                    "id": "319",
+                    "parent": "315",
+                    "text": "4️⃣ Despertares transitorios (arousals) → Reactivación del\ntono muscular y restauración del flujo aéreo.",
+                    "guid": "fiuSI0ogGmQkG0G2I9VQpQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "320",
+                "parent": "314",
+                "text": "📌 Diferencias entre NREM y REM:",
+                "guid": "NHgD_Ssh9fBmLPX-LL9Eig",
+                "children": [
+                  {
+                    "id": "321",
+                    "parent": "320",
+                    "text": "• NREM: Disminución del tono\nmuscular, pero con reflejos\ncompensatorios funcionales.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "322",
+                    "parent": "320",
+                    "text": "• REM: Mayor atonía muscular → Mayor\npredisposición al colapso de la VAS.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "323",
+            "parent": "289",
+            "text": "5. Conclusión",
+            "guid": "Wf6SdUTEQXYcofifDw4xOg",
+            "children": [
+              {
+                "id": "324",
+                "parent": "323",
+                "text": "La OSA resulta de una combinación de factores anatómicos y\nalteraciones fisiológicas del sueño que conducen a colapso de la\nVAS. La interacción entre predisposición estructural y control\nneuromuscular determina la severidad del trastorno, lo que tiene\nimplicaciones directas en el diagnóstico y tratamiento de la\nenfermedad.",
+                "guid": "R1rz43kjGecQ_m3wGDkTkw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "325",
+        "parent": "0",
+        "text": "Efecto del Sueño en la\nMecánica Respiratoria",
+        "guid": "UQkOglNBEc4SVQmwJWWV0w",
+        "children": [
+          {
+            "id": "326",
+            "parent": "325",
+            "text": "1. Introducción",
+            "guid": "BlzDdgiAYQUEFDfcAuUMMw",
+            "children": [
+              {
+                "id": "327",
+                "parent": "326",
+                "text": "📌 Durante el sueño ocurren múltiples\ncambios fisiológicos que afectan la\nventilación y la mecánica respiratoria.",
+                "guid": "SgarTmgxfZsya7ffTH4MsA",
+                "children": []
+              },
+              {
+                "id": "328",
+                "parent": "326",
+                "text": "📌 Se reduce el impulso ventilatorio relacionado con la vigilia,\nhaciendo que la respiración dependa más de los estímulos de\nquimiorreceptores y mecanorreceptores [5,6].",
+                "guid": "DvC3jHYfbc8yWNQODRxJrw",
+                "children": []
+              },
+              {
+                "id": "329",
+                "parent": "326",
+                "text": "📌 Esto aumenta la susceptibilidad a apneas centrales y a la\nobstrucción de la vía aérea superior (VAS).",
+                "guid": "QD-IM1Z0FcQw8ZpUYLvxNQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "330",
+            "parent": "325",
+            "text": "2. Mecánica de la Vía\nAérea Superior (VAS)",
+            "guid": "IglsUCh-JcRc-kD9VoFwTg",
+            "children": [
+              {
+                "id": "331",
+                "parent": "330",
+                "text": "2.1 Disminución de la\nActividad Muscular",
+                "guid": "U6AbtUMnNvsDQLTYLZ6uKg",
+                "children": [
+                  {
+                    "id": "332",
+                    "parent": "331",
+                    "text": "• Reducción del tono muscular de la\nVAS al inicio del sueño.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "333",
+                    "parent": "331",
+                    "text": "• Afecta particularmente a los\nmúsculos con actividad tónica, como\nel tensor del paladar [7,8].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "334",
+                    "parent": "331",
+                    "text": "• Consecuencia: Reducción del flujo inspiratorio\n→ Mayor resistencia faríngea → Posible colapso\nen individuos predispuestos.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "335",
+                "parent": "330",
+                "text": "2.2 Cambios en el Calibre y la\nComplacencia de la VAS",
+                "guid": "B-t4ch_irXc8rN9kT0ZsVQ",
+                "children": [
+                  {
+                    "id": "336",
+                    "parent": "335",
+                    "text": "• Disminución del calibre faríngeo y\naumento de la resistencia [10].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "337",
+                    "parent": "335",
+                    "text": "• Mayor compliance de la VAS →\nParedes más deformables y\nsusceptibles a colapso [11].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "338",
+                    "parent": "335",
+                    "text": "• Turbulencia del flujo → Aumento del\nronquido (vibración del paladar blando y\ntejidos de la VAS) [12,13].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "339",
+                    "parent": "335",
+                    "text": "• En casos extremos, el colapso\ntotal conduce a OSA.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "340",
+            "parent": "325",
+            "text": "3. Pérdida de la Compensación\na la Carga Ventilatoria",
+            "guid": "GQXHX02rTVRnf3_oH2KK1Q",
+            "children": [
+              {
+                "id": "341",
+                "parent": "340",
+                "text": "📌 Durante la vigilia, el sistema respiratorio compensa\naumentos de resistencia (ej., respirar por un tubo).",
+                "guid": "ViuuWmuTt8UiR5cJIDJZqA",
+                "children": []
+              },
+              {
+                "id": "342",
+                "parent": "340",
+                "text": "📌 En el sueño, esta compensación se\npierde → Disminución de la ventilación →\nAumento de PaCO₂ [14,15].",
+                "guid": "U8U1YFSzTuhssGZZYrXs7A",
+                "children": []
+              },
+              {
+                "id": "343",
+                "parent": "340",
+                "text": "📌 En individuos normales, el aumento de PaCO₂\nestimula la ventilación, pero en enfermedades como\nEPOC esta compensación es insuficiente.",
+                "guid": "StK8uB8JOmdv0jabCxJE6w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "344",
+            "parent": "325",
+            "text": "4. Dinámica de la\nCaja Torácica",
+            "guid": "dX1QLCDD0O9rzjYhF4a8fA",
+            "children": [
+              {
+                "id": "345",
+                "parent": "344",
+                "text": "• Cambio en la contribución de músculos\nrespiratorios durante el sueño:",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "346",
+                "parent": "344",
+                "text": "• NREM: Mayor participación de\nlos músculos del tórax.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "347",
+                "parent": "344",
+                "text": "• REM: Atonía de músculos\nintercostales, con preservación\ndel diafragma [5,17].",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "348",
+                "parent": "344",
+                "text": "• Efecto:",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "349",
+                "parent": "344",
+                "text": "• Mayor irregularidad\nen la ventilación.",
+                "guid": "",
+                "children": []
+              },
+              {
+                "id": "350",
+                "parent": "344",
+                "text": "• Reducción del volumen minuto y\naumento del riesgo de hipoxia.",
+                "guid": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "351",
+            "parent": "325",
+            "text": "5. Cambios en la\nVentilación y la VAS",
+            "guid": "SUH2tEjIdx5uCCzKHOISaQ",
+            "children": [
+              {
+                "id": "352",
+                "parent": "351",
+                "text": "📌 Aumento de PaCO₂:",
+                "guid": "C--uGXFI4aNKgMCTE9smiw",
+                "children": [
+                  {
+                    "id": "353",
+                    "parent": "352",
+                    "text": "• Durante el sueño, PaCO₂ se\nincrementa 4-5 mmHg [18].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "354",
+                    "parent": "352",
+                    "text": "• Causa: Mayor resistencia de la VAS y\nmenor salida motora ventilatoria.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "355",
+                "parent": "351",
+                "text": "📌 Implicaciones Clínicas:",
+                "guid": "ESuPGgctn_djIZLhKjFWeQ",
+                "children": [
+                  {
+                    "id": "356",
+                    "parent": "355",
+                    "text": "• Individuos con VAS favorable →\nMantienen respiración estable,\naunque con mayor PaCO₂.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "357",
+                    "parent": "355",
+                    "text": "• Susceptibilidad intermedia → Ronquidos e\ninspiración limitada sin apneas.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "358",
+                    "parent": "355",
+                    "text": "• Alto compromiso de la VAS →\nObstrucción completa (OSA).",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "359",
+                    "parent": "355",
+                    "text": "• Obesos y pacientes pulmonares\ncrónicos → Peor relación\nventilación/perfusión, aumentando la\nhipoxia.",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "360",
+            "parent": "325",
+            "text": "6. Conclusión",
+            "guid": "VNjtS0qhEslJk-FPKwSbpQ",
+            "children": [
+              {
+                "id": "361",
+                "parent": "360",
+                "text": "📌 El sueño afecta la mecánica respiratoria al reducir\nel tono de la VAS, disminuir la ventilación y aumentar\nla resistencia al flujo aéreo.",
+                "guid": "NjTKjmvbeFhLNvVOCfn_7w",
+                "children": []
+              },
+              {
+                "id": "362",
+                "parent": "360",
+                "text": "📌 En individuos predispuestos, estos cambios pueden\nllevar a ronquidos, limitación del flujo inspiratorio o\napnea obstructiva del sueño (OSA).",
+                "guid": "QI7HQDfnW6dsr-zbC2GD-A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "363",
+        "parent": "0",
+        "text": "Determinantes de la Permeabilidad de\nla Vía Aérea Superior (VAS)",
+        "guid": "TOssvzxwxBd2ETkNbJsjKw",
+        "children": [
+          {
+            "id": "364",
+            "parent": "363",
+            "text": "1. Introducción",
+            "guid": "VvCWDlyCI3cWc8jkTG3mOg",
+            "children": [
+              {
+                "id": "365",
+                "parent": "364",
+                "text": "📌 La VAS es una estructura flexible sin\nsoporte óseo/cartilaginoso.",
+                "guid": "fUX0ZgJB_wVj9KK3RofrGg",
+                "children": []
+              },
+              {
+                "id": "366",
+                "parent": "364",
+                "text": "📌 Es susceptible a colapso si la presión\ntransmural aplicada es suficiente.",
+                "guid": "Swp2I1H8z4Fjaf2DVvokPA",
+                "children": []
+              },
+              {
+                "id": "367",
+                "parent": "364",
+                "text": "📌 Sus determinantes pueden dividirse en factores\nestructurales y factores neuromusculares.",
+                "guid": "Q0WxJC3qvhZq1UrIVHFAPw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "368",
+            "parent": "363",
+            "text": "2. Factores\nEstructurales",
+            "guid": "NRheDU323al-opa4CfFLWQ",
+            "children": [
+              {
+                "id": "369",
+                "parent": "368",
+                "text": "2.1 Estructura\nCraneofacial",
+                "guid": "GJfwckg2eAc09eb-Tsy7AQ",
+                "children": [
+                  {
+                    "id": "370",
+                    "parent": "369",
+                    "text": "🔹 Importante en la\npermeabilidad de la VAS [19,\n20].",
+                    "guid": "NBHwXwAs3ExYxrrwdKC3oA",
+                    "children": []
+                  },
+                  {
+                    "id": "371",
+                    "parent": "369",
+                    "text": "🔹 La VAS está rodeada por una caja ósea (mandíbula,\nmaxilar, base del cráneo, columna cervical).",
+                    "guid": "OBQ380V2p8sAAjuYDwTOAg",
+                    "children": []
+                  },
+                  {
+                    "id": "372",
+                    "parent": "369",
+                    "text": "🔹 Restricciones craneofaciales (ej., retrognatia)\n→ Aumento de presión en tejidos circundantes →\nMayor tendencia al colapso.",
+                    "guid": "IfjLQhZ2BHxbcrQ8Hz6_qQ",
+                    "children": []
+                  },
+                  {
+                    "id": "373",
+                    "parent": "369",
+                    "text": "📌 Evidencia:",
+                    "guid": "GLgDgT9nVvNlxqrDY8J5pA",
+                    "children": [
+                      {
+                        "id": "374",
+                        "parent": "373",
+                        "text": "• ↑ Longitud mandibular → ↓ Riesgo\nde OSA en hombres [21].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "375",
+                        "parent": "373",
+                        "text": "• Posición del hioides depende\ndel volumen de la lengua y la\npresión circundante.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "376",
+                        "parent": "373",
+                        "text": "• Avance mandibular con\ndispositivos orales → ↓ Presión\ncircundante → ↓ Obstrucción [22].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "377",
+                        "parent": "373",
+                        "text": "• Diferencias craneofaciales entre grupos\nraciales/étnicos pueden explicar la\nprevalencia variable de OSA [23-25].",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "378",
+                "parent": "368",
+                "text": "2.2 Tejidos Blandos",
+                "guid": "EWQmdUkwqEc6vJ3hVKnXmQ",
+                "children": [
+                  {
+                    "id": "379",
+                    "parent": "378",
+                    "text": "🔹 La luz de la VAS está rodeada por tejidos\nconectivos, adiposos, vasculares y linfáticos.",
+                    "guid": "dxtmXSWR6KkpGxfYLDPEaw",
+                    "children": []
+                  },
+                  {
+                    "id": "380",
+                    "parent": "378",
+                    "text": "🔹 ↑ Presión circundante → ↓\nPermeabilidad de la VAS.",
+                    "guid": "c4jGUie9rpE2JQ_EDCC2xA",
+                    "children": []
+                  },
+                  {
+                    "id": "381",
+                    "parent": "378",
+                    "text": "📌 Factores asociados a OSA:",
+                    "guid": "b_QmmGsa9sJa7XHFJAYW-A",
+                    "children": [
+                      {
+                        "id": "382",
+                        "parent": "381",
+                        "text": "• ↑ Volumen de la lengua y\npared faríngea lateral [26].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "383",
+                        "parent": "381",
+                        "text": "• Mayor volumen de tejido blando →\nPuede ser hereditario [27].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "384",
+                        "parent": "381",
+                        "text": "• Acumulación de grasa en la\nVAS/tongue por obesidad → ↑\nPresión colapsante [28].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "385",
+                        "parent": "381",
+                        "text": "• Amigdalas hipertróficas → ↑\nSusceptibilidad a la obstrucción\n(importante en niños) [29-31].",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "386",
+                "parent": "368",
+                "text": "2.3 Factores Vasculares\n(Desplazamiento de Líquido Rostral)",
+                "guid": "a0fTDzO0LLUYps6YI1wLAg",
+                "children": [
+                  {
+                    "id": "387",
+                    "parent": "386",
+                    "text": "🔹 ↑ Volumen vascular en el cuello → ↑ Presión\ncircundante en la VAS → ↑ Obstrucción.",
+                    "guid": "eSrUgRipCjAyYNkEGyOfww",
+                    "children": []
+                  },
+                  {
+                    "id": "388",
+                    "parent": "386",
+                    "text": "🔹 Vasoconstricción → ↓\nResistencia de la VAS.",
+                    "guid": "Lx8OrQ3TjUE6Yl9sR9cSLg",
+                    "children": []
+                  },
+                  {
+                    "id": "389",
+                    "parent": "386",
+                    "text": "🔹 Vasodilatación (hipoxia/hipercapnia) → ↑\nResistencia de la VAS [32,33].",
+                    "guid": "TTrkNCApCjArmYvTXp8KqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "390",
+                    "parent": "386",
+                    "text": "📌 Evidencia:",
+                    "guid": "aVmyd2ZWKbQzSOJDYHUY1A",
+                    "children": [
+                      {
+                        "id": "391",
+                        "parent": "390",
+                        "text": "• Edema en el cuello durante\nsueño en insuficiencia\ncardíaca/enf. renal → ↑ AHI\n[34-40].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "392",
+                        "parent": "390",
+                        "text": "• Diuréticos → ↓ AHI, ↓ circunferencia del\ncuello, ↓ volumen de piernas [35].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "393",
+                        "parent": "390",
+                        "text": "• Medias de compresión →\n↓ AHI en 40% [40].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "394",
+                        "parent": "390",
+                        "text": "• Infusión de solución salina en\nadultos mayores → ↑ AHI en\ncomparación con jóvenes [37].",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "395",
+                    "parent": "386",
+                    "text": "📌 Implicaciones:",
+                    "guid": "C-gSXVxj-hsMqN0_f3DYrw",
+                    "children": [
+                      {
+                        "id": "396",
+                        "parent": "395",
+                        "text": "• Manejo de fluidos intraoperatorios es\nclave en pacientes con OSA.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "397",
+                        "parent": "395",
+                        "text": "• (Ver “Manejo intraoperatorio de adultos con\napnea obstructiva del sueño”).",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "398",
+            "parent": "363",
+            "text": "3. Factores\nNeuromusculares",
+            "guid": "BCGorELN7QMLkY9zdBXPRQ",
+            "children": [
+              {
+                "id": "399",
+                "parent": "398",
+                "text": "3.1 Actividad\nMuscular de la VAS",
+                "guid": "LejjxmZ_ATkYG-Y9GTC21Q",
+                "children": [
+                  {
+                    "id": "400",
+                    "parent": "399",
+                    "text": "🔹 Músculos de la VAS → Controlan\nrespiración, deglución y fonación.",
+                    "guid": "GjMt7jDCtNU8jMHXE14Cbw",
+                    "children": []
+                  },
+                  {
+                    "id": "401",
+                    "parent": "399",
+                    "text": "🔹 Algunos tienen actividad tónica\n(independiente del ciclo respiratorio).",
+                    "guid": "SWu_BW7tmtwugaIzeIrNsg",
+                    "children": []
+                  },
+                  {
+                    "id": "402",
+                    "parent": "399",
+                    "text": "🔹 Otros tienen actividad fásica\n(dependen del ciclo respiratorio).",
+                    "guid": "fMEoHWjkAZ9AYd_hSfwMUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "403",
+                    "parent": "399",
+                    "text": "📌 Ejemplos:",
+                    "guid": "CQ0Lz2v7a7Qomxb7cma-Rg",
+                    "children": [
+                      {
+                        "id": "404",
+                        "parent": "403",
+                        "text": "• Músculo tensor del paladar → Actividad\ntónica → ↓ Actividad con el sueño → ↑\nColapsabilidad [7,9,41].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "405",
+                        "parent": "403",
+                        "text": "• Músculo geniogloso → Actividad\ninspiratoria → Se activa antes del flujo\ninspiratorio para preparar la VAS.",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "406",
+                "parent": "398",
+                "text": "3.2 Disminución\nde la Actividad",
+                "guid": "UlGVaFvj-T5S29cbXjmnxQ",
+                "children": [
+                  {
+                    "id": "407",
+                    "parent": "406",
+                    "text": "🔹 Pérdida del impulso ventilatorio de la vigilia → ↓\nActividad EMG de músculos respiratorios/UA [9].",
+                    "guid": "OEfzWV-EtFpdqoB0PGmcBg",
+                    "children": []
+                  },
+                  {
+                    "id": "408",
+                    "parent": "406",
+                    "text": "🔹 Sueño NREM → ↓ Actividad muscular\nde la VAS → ↑ Resistencia.",
+                    "guid": "IlKhXmk8D-cwf2tLUDuFJA",
+                    "children": []
+                  },
+                  {
+                    "id": "409",
+                    "parent": "406",
+                    "text": "📌 Respuesta refleja reducida:",
+                    "guid": "T7sRIEibUYhpbDv5ae4_Dw",
+                    "children": [
+                      {
+                        "id": "410",
+                        "parent": "409",
+                        "text": "• En vigilia, presión negativa en la VAS\n→ ↑ Actividad muscular de la VAS\n(reflejo protector) [42,43].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "411",
+                        "parent": "409",
+                        "text": "• Durante el sueño → Reflejo atenuado →\n↑ Colapsabilidad de la VAS.",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "412",
+                "parent": "398",
+                "text": "3.3 Cambios en el\nSueño REM",
+                "guid": "eV4GXSX4_dB9TEF-QsnFYg",
+                "children": [
+                  {
+                    "id": "413",
+                    "parent": "412",
+                    "text": "🔹 Atonía muscular en REM → ↓ Actividad en\nmúsculos dilatadores de la VAS y músculos\nintercostales (pero se preserva el diafragma).",
+                    "guid": "FOaYrCvN47E7VJMVEafAyQ",
+                    "children": []
+                  },
+                  {
+                    "id": "414",
+                    "parent": "412",
+                    "text": "🔹 Pacientes con EPOC/enfermedades\nneuromusculares → Mayor hipoventilación en REM.",
+                    "guid": "FLHlUXu2cvZbo80bHb7xIA",
+                    "children": []
+                  },
+                  {
+                    "id": "415",
+                    "parent": "412",
+                    "text": "🔹 Curiosamente, la faringe es menos\ncomplaciente en REM que en NREM [10,45].",
+                    "guid": "Z7HeqgQ-5BYQJa9nOgN0Eg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "416",
+            "parent": "363",
+            "text": "4. Efecto del\nVolumen Pulmonar",
+            "guid": "YCLdVGMBhoIYPRvXGGrQrQ",
+            "children": [
+              {
+                "id": "417",
+                "parent": "416",
+                "text": "🔹 La variación del volumen pulmonar\nmodifica el calibre de la VAS [46].",
+                "guid": "QoY63HXnnEtU1GyzZNjcOg",
+                "children": []
+              },
+              {
+                "id": "418",
+                "parent": "416",
+                "text": "🔹 Inspiración → ↑\nTamaño de la VAS.",
+                "guid": "XyOsMgVT1_41FGFeLt69Uw",
+                "children": []
+              },
+              {
+                "id": "419",
+                "parent": "416",
+                "text": "🔹 Espiración → ↓ Tamaño de la VAS (sobre\ntodo en pacientes con OSA) [47-49].",
+                "guid": "Te8phh6AnVcYzPxiR00v4w",
+                "children": []
+              },
+              {
+                "id": "420",
+                "parent": "416",
+                "text": "📌 Mecanismo:",
+                "guid": "RHmbKBYZPeAKFvVGWWAz1A",
+                "children": [
+                  {
+                    "id": "421",
+                    "parent": "420",
+                    "text": "• La inspiración desplaza la\ntráquea y carina caudalmente.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "422",
+                    "parent": "420",
+                    "text": "• Esto tensa los tejidos conectivos de la\nVAS → ↑ Permeabilidad [50].",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "423",
+                    "parent": "420",
+                    "text": "• Mayor volumen pulmonar → ↓\nColapsabilidad de la VAS (tensión\nlongitudinal) [51,52].",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "424",
+                "parent": "416",
+                "text": "📌 Implicaciones:",
+                "guid": "QechkkVriFtrB_SeVpkG4w",
+                "children": [
+                  {
+                    "id": "425",
+                    "parent": "424",
+                    "text": "• Obesidad → ↓ Volumen pulmonar →\nMayor colapsabilidad de la VAS →\nMayor riesgo de OSA.",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "426",
+                    "parent": "424",
+                    "text": "• (Ver “Epidemiología y\npatogénesis del síndrome de\nhipoventilación por obesidad”).",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "427",
+            "parent": "363",
+            "text": "5. Conclusión",
+            "guid": "QSH7UUarwbl0V_gDKNPZ-w",
+            "children": [
+              {
+                "id": "428",
+                "parent": "427",
+                "text": "📌 La permeabilidad de la VAS depende de múltiples\nfactores estructurales y neuromusculares.",
+                "guid": "SuqlzwR9p2pi104NKw2DIw",
+                "children": []
+              },
+              {
+                "id": "429",
+                "parent": "427",
+                "text": "📌 La estructura craneofacial, tejidos blandos\ny desplazamiento de líquidos afectan la\nresistencia y calibre de la VAS.",
+                "guid": "Z38t7HsUaeRDeFPQKgVoyQ",
+                "children": []
+              },
+              {
+                "id": "430",
+                "parent": "427",
+                "text": "📌 La actividad muscular de la VAS y el\nvolumen pulmonar influyen en la estabilidad de\nla VAS durante la respiración.",
+                "guid": "cPwGLxhMwIQO3kUDUB-yYQ",
+                "children": []
+              },
+              {
+                "id": "431",
+                "parent": "427",
+                "text": "📌 En pacientes predispuestos, estos factores contribuyen\na la apnea obstructiva del sueño (OSA).",
+                "guid": "HaCYgkPypmJ-_m-0a4_CCQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "432",
+        "parent": "0",
+        "text": "Obstrucción Faríngea\nDurante el Sueño",
+        "guid": "PF5-IC7QwPQGLha0G6r6ww",
+        "children": [
+          {
+            "id": "433",
+            "parent": "432",
+            "text": "La obstrucción de la vía aérea superior (VAS)\ndurante el sueño ocurre debido a la interacción entre\nla pérdida del impulso de vigilia para mantener la\npermeabilidad de la VAS y la susceptibilidad\nindividual al colapso faríngeo.",
+            "guid": "YnNDuRfLbBYy3PHsJuze4Q",
+            "children": []
+          },
+          {
+            "id": "434",
+            "parent": "432",
+            "text": "1. Mecanismos de la\nObstrucción Faríngea",
+            "guid": "LeSp9zzz5zIATRK2b8vLiQ",
+            "children": [
+              {
+                "id": "435",
+                "parent": "434",
+                "text": "📌 Durante el sueño, la actividad neuromuscular de\nla VAS disminuye, lo que provoca:",
+                "guid": "Al9vjWtVB1RGZNJsQ4Fq3g",
+                "children": [
+                  {
+                    "id": "436",
+                    "parent": "435",
+                    "text": "• ↓ Calibre de la VAS",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "437",
+                    "parent": "435",
+                    "text": "• ↑ Resistencia de la VAS",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "438",
+                    "parent": "435",
+                    "text": "• ↑ Complacencia faríngea",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "439",
+                "parent": "434",
+                "text": "📌 La respuesta individual a\nestos cambios depende de:",
+                "guid": "MgDJDTq8ym9sVUTZfOtu3A",
+                "children": [
+                  {
+                    "id": "440",
+                    "parent": "439",
+                    "text": "• Tamaño basal de la VAS",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "441",
+                    "parent": "439",
+                    "text": "• Presión de los\ntejidos circundantes",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "442",
+                    "parent": "439",
+                    "text": "• Estructura craneofacial",
+                    "guid": "",
+                    "children": []
+                  },
+                  {
+                    "id": "443",
+                    "parent": "439",
+                    "text": "• Propiedades\nintrínsecas de la\nfaringe",
+                    "guid": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "444",
+            "parent": "432",
+            "text": "2. Factores Involucrados\nen la Obstrucción",
+            "guid": "Pzpx2k8skuYn-PH_Jrmfxg",
+            "children": [
+              {
+                "id": "445",
+                "parent": "444",
+                "text": "2.1 Mecánica de la VAS",
+                "guid": "SkD8ymtxRc9QvwiPOz0C-Q",
+                "children": [
+                  {
+                    "id": "446",
+                    "parent": "445",
+                    "text": "🔹 En individuos con anatomía favorable, los\ncambios faríngeos durante el sueño son mínimos y\nsolo causan un leve ↑ de PaCO₂.",
+                    "guid": "A74GU1-dTZMLXLVbIV6e1g",
+                    "children": []
+                  },
+                  {
+                    "id": "447",
+                    "parent": "445",
+                    "text": "🔹 En individuos con susceptibilidad intermedia, se\nproduce ronquido debido a la vibración del paladar\nblando y la limitación del flujo inspiratorio.",
+                    "guid": "I4_z9QpbJQ8M7mDfBgM3rg",
+                    "children": []
+                  },
+                  {
+                    "id": "448",
+                    "parent": "445",
+                    "text": "🔹 En individuos con alta susceptibilidad, se produce el\ncolapso completo de la VAS → OSA.",
+                    "guid": "IiaRJj_LUsss8BaQUAs7HQ",
+                    "children": []
+                  },
+                  {
+                    "id": "449",
+                    "parent": "445",
+                    "text": "📌 Mecanismo de colapso:",
+                    "guid": "fL85_i09KUY_1wamfx6piw",
+                    "children": [
+                      {
+                        "id": "450",
+                        "parent": "449",
+                        "text": "• La VAS es un tubo deformable,\nsusceptible al colapso cuando la presión\ntransmural se vuelve negativa.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "451",
+                        "parent": "449",
+                        "text": "• Puede ocurrir por:",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "452",
+                        "parent": "449",
+                        "text": "• Presión intraluminal subatmosférica en la\ninspiración (efecto de “succión”)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "453",
+                        "parent": "449",
+                        "text": "• Presión extraluminal de los tejidos\ncircundantes en cualquier fase respiratoria",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "454",
+                    "parent": "445",
+                    "text": "📌 Aunque la presión intraluminal negativa se ha implicado\nen la obstrucción de la VAS, no hay evidencia concluyente\nde que sea la única causa [53].",
+                    "guid": "GJIwmgY72RJCoBRqSpL5pw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "455",
+                "parent": "444",
+                "text": "2.2 Salida\nMotora\nVentilatoria",
+                "guid": "QPijgS71WUNHfmiDADMVWw",
+                "children": [
+                  {
+                    "id": "456",
+                    "parent": "455",
+                    "text": "🔹 Cambios en la señal motora ventilatoria pueden\nafectar la permeabilidad de la VAS.",
+                    "guid": "fiHsKm93WoIm7LUiSGLo9A",
+                    "children": []
+                  },
+                  {
+                    "id": "457",
+                    "parent": "455",
+                    "text": "🔹 Durante la respiración periódica, la estrechez faríngea\ncoincide con el mínimo de la señal motora ventilatoria, cuando\nla presión colapsante es menor [54,55].",
+                    "guid": "WuigUXervbEDn-vuXqampQ",
+                    "children": []
+                  },
+                  {
+                    "id": "458",
+                    "parent": "455",
+                    "text": "🔹 Apneas centrales hipóxicas/hipocápnicas pueden inducir el\ncolapso faríngeo, lo que sugiere que la presión negativa no es\nindispensable para la obstrucción [56].",
+                    "guid": "V0kLRA78oUkABUV7etj_OQ",
+                    "children": []
+                  },
+                  {
+                    "id": "459",
+                    "parent": "455",
+                    "text": "🔹 En un estudio en individuos\nanestesiados/paralizados:",
+                    "guid": "GVfGWAzzploA3DboO35Xfg",
+                    "children": [
+                      {
+                        "id": "460",
+                        "parent": "459",
+                        "text": "• En sujetos sanos, la faringe permaneció\npermeable a presión atmosférica.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "461",
+                        "parent": "459",
+                        "text": "• En pacientes con OSA, la faringe se cerró\nincluso sin presión negativa [57].",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "462",
+                    "parent": "455",
+                    "text": "📌 Otras causas de ↓\nseñal ventilatoria:",
+                    "guid": "Wwl2vktgmUFInNyvc5unWA",
+                    "children": [
+                      {
+                        "id": "463",
+                        "parent": "462",
+                        "text": "• Eventos fisiológicos como la\ndeglución → Inhibición transitoria\nde neuronas frénicas.",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "464",
+                "parent": "444",
+                "text": "2.3 Influencia de los\nTejidos Circundantes",
+                "guid": "UZxyUws88Rk-LqD_EpUV1Q",
+                "children": [
+                  {
+                    "id": "465",
+                    "parent": "464",
+                    "text": "🔹 Factores que ↑ la presión\nextraluminal de la VAS:",
+                    "guid": "OjJKXAWtCYISyCswOFQ2hg",
+                    "children": [
+                      {
+                        "id": "466",
+                        "parent": "465",
+                        "text": "• Fuerzas gravitacionales\npasivas en decúbito",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "467",
+                        "parent": "465",
+                        "text": "• Deficiencia mandibular → Mayor\npresión en tejidos circundantes",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "468",
+                        "parent": "465",
+                        "text": "• Hipertrofia de la lengua",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "469",
+                        "parent": "465",
+                        "text": "• Depósitos de grasa en la VAS\n(relacionados con obesidad)",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "470",
+                        "parent": "465",
+                        "text": "• Edema faríngeo por desplazamiento de líquido\nrostral en posición recumbente (ver sección\n“Desplazamiento de Líquido Rostral”)",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "471",
+                "parent": "444",
+                "text": "2.4\nEstrechamiento\nExpiratorio",
+                "guid": "dSRkBDm04FIAtx97UA0EVQ",
+                "children": [
+                  {
+                    "id": "472",
+                    "parent": "471",
+                    "text": "📌 Evidencia creciente sugiere que la\nobstrucción inicia en la espiración:",
+                    "guid": "MWCeBARXC2kus6r6CKmpSA",
+                    "children": [
+                      {
+                        "id": "473",
+                        "parent": "472",
+                        "text": "• Apneas obstructivas suelen precederse de\nun estrechamiento expiratorio.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "474",
+                        "parent": "472",
+                        "text": "• Resistencia expiratoria aumentada → Mayor\ncolapsabilidad faríngea [58-60].",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "475",
+                        "parent": "472",
+                        "text": "• Hipocapnia inducida → Hipopnea asociada con\nestrechamiento expiratorio y aumento de la\ncomplacencia faríngea en espiración [61].",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "476",
+                    "parent": "471",
+                    "text": "📌 Implicaciones clínicas:",
+                    "guid": "E1Ossi648HUDgqiCLKtzCg",
+                    "children": [
+                      {
+                        "id": "477",
+                        "parent": "476",
+                        "text": "• La obstrucción puede ocurrir tanto en\ninspiración como en espiración.",
+                        "guid": "",
+                        "children": []
+                      },
+                      {
+                        "id": "478",
+                        "parent": "476",
+                        "text": "• Pacientes con alta presión de tejidos circundantes (ej.\nobesidad, edemas) son más susceptibles al colapso\nfaríngeo en la espiración, especialmente si la señal\nventilatoria está reducida.",
+                        "guid": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "479",
+                "parent": "444",
+                "text": "3. Conclusión",
+                "guid": "O6yWzwRe32poKcqJCGuP9Q",
+                "children": [
+                  {
+                    "id": "480",
+                    "parent": "479",
+                    "text": "📌 La obstrucción faríngea en OSA es el resultado de la\ninteracción entre pérdida del impulso de vigilia y factores\nanatómicos/neuromusculares.",
+                    "guid": "Miss4nOzXSRR6cMYDTSjoA",
+                    "children": []
+                  },
+                  {
+                    "id": "481",
+                    "parent": "479",
+                    "text": "📌 La presión negativa intraluminal NO es la única causa de la\nobstrucción; otros mecanismos como la reducción de la señal ventilatoria\ny el estrechamiento expiratorio son importantes.",
+                    "guid": "PxP2ZhqGn8cA0Er4ELBouQ",
+                    "children": []
+                  },
+                  {
+                    "id": "482",
+                    "parent": "479",
+                    "text": "📌 Pacientes con hipertrofia de tejidos blandos, alta\npresión extraluminal o desplazamiento de líquido\nrostral son más vulnerables.",
+                    "guid": "JcOQ4D7-6_cjRX6OX_XbPQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 483,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neumología",
+  "filename": "UTD Apnea del Sueño-2025",
+  "id": "map_390",
+  "resolved_references": []
+}

@@ -1,0 +1,692 @@
+{
+  "title": "Afasia primaria progresiva (APP)",
+  "guid": "72E94D1ADBF6BE7A8F0FE277",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Afasia primaria progresiva (APP)-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Afasia primaria\nprogresiva (APP)",
+    "guid": "k1omo4zR57UFJn9HzujVtA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "Definición",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "• Trastorno neurodegenerativo",
+            "guid": "ovEMbmDDwSUFCXjzfh7log",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "→ deterioro gradual del lenguaje (1, 2, 12, 13)",
+            "guid": "Cf9HI36XgZnvqc3Y0gOSUQ",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "→ inicialmente sin afectar otras funciones cognitivas (1).",
+            "guid": "vVBaV3segKyGSeMiZ04hGw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "Tipos (24, 26, 31)",
+        "guid": "",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "• No Fluente/Agramatical\n(APP-G)",
+            "guid": "P5_p66na2vh-mAOeR4XWGQ",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "→ ↓ fluidez, agramatismo (32-40); habla trabajosa; errores fonológicos (22-25)",
+                "guid": "xp1rn4uS3ii0Y3Xsc1apKA",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "→ afectación frontal posterior (área Broca) e ínsula (Figura 3a) (36-38, 53).",
+                "guid": "ZrnZTpr0xHtSD6s053BxAw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "6",
+                "text": "• Neuropatología",
+                "guid": "mVfmhy1XGcAMLzQN0LRufA",
+                "children": [
+                  {
+                    "id": "10",
+                    "parent": "9",
+                    "text": "→ FTLD-tau (29) (Figura 5b).",
+                    "guid": "a440G62ZpYyBIvj0ePhekg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "11",
+                "parent": "6",
+                "text": "• Criterios Dx (24):",
+                "guid": "pRekggtL509YMFuwTeEbOA",
+                "children": [
+                  {
+                    "id": "12",
+                    "parent": "11",
+                    "text": "• Necesarios:",
+                    "guid": "mNGSYkEOOwp7TcgvKky3NQ",
+                    "children": [
+                      {
+                        "id": "13",
+                        "parent": "12",
+                        "text": "• Agramatismo ó",
+                        "guid": "aV65kkKsipGQO8RUhNlJ-Q",
+                        "children": []
+                      },
+                      {
+                        "id": "14",
+                        "parent": "12",
+                        "text": "• Habla trabajosa c/errores inconsistentes",
+                        "guid": "R0KdOBSIFEuh14iWjRRTUA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "15",
+                    "parent": "11",
+                    "text": "• Al menos 2:",
+                    "guid": "oWUFFVLj0KHUpaQ-ZuTCHQ",
+                    "children": [
+                      {
+                        "id": "16",
+                        "parent": "15",
+                        "text": "• Comprensión alterada de frases complejas.",
+                        "guid": "j16nufTFi7KJGyjmPrwnZA",
+                        "children": []
+                      },
+                      {
+                        "id": "17",
+                        "parent": "15",
+                        "text": "• Comprensión de palabras simples conservada.",
+                        "guid": "Q-9781-VL3aDgzhLAoXrUQ",
+                        "children": []
+                      },
+                      {
+                        "id": "18",
+                        "parent": "15",
+                        "text": "• Conocimiento de objetos conservado.",
+                        "guid": "MQL4oIbXEzUVUmxhXlOCew",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "parent": "5",
+            "text": "• Semántica\n(APP-S)",
+            "guid": "O8Ajrad4s6zr_EwnW611mg",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "→ anomia;",
+                "guid": "r9hxZcRpzfTnvbm9i7OLHw",
+                "children": [
+                  {
+                    "id": "21",
+                    "parent": "20",
+                    "text": "↓ comprensión de palabras, conocimiento de objetos (esp. baja frecuencia) (27, 65-67)",
+                    "guid": "wnpaD_uLhuBwRWp51I_biw",
+                    "children": []
+                  },
+                  {
+                    "id": "22",
+                    "parent": "20",
+                    "text": "dislexia/disgrafía superficial (24) → afectación temporal anterior, polo temporal (Figura 3d) (39-41).",
+                    "guid": "ubfzCUIDZbssjzptiUDCGQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "23",
+                "parent": "19",
+                "text": "• Neuropatología → FTLD-TDP tipo C (29) (Figura 5c).",
+                "guid": "spAtnNZIt3zknnpISivQNg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "5",
+            "text": "• Criterios Dx (24):",
+            "guid": "",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "• Necesarios:",
+                "guid": "6TOHvcNg_mcic_QDHI-PIg",
+                "children": [
+                  {
+                    "id": "26",
+                    "parent": "25",
+                    "text": "• Anomia",
+                    "guid": "V80wdln4AxLRozZOspxWgw",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "25",
+                    "text": "• Comprensión alterada de\npalabras simples.",
+                    "guid": "H0fiBbdw_fKBtijiApwx5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "28",
+            "parent": "5",
+            "text": "• Al menos 3:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "29",
+            "parent": "5",
+            "text": "• Conocimiento\nalterado de objetos.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "30",
+            "parent": "5",
+            "text": "•\nDislexia/disgrafía\nsuperficial.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "31",
+            "parent": "5",
+            "text": "• Repetición preservada.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "32",
+            "parent": "5",
+            "text": "• Producción del habla preservada\n(gramática y motricidad).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "33",
+            "parent": "5",
+            "text": "• Logopénica (APP-L) → ↓ fluidez por dificultad para encontrar\npalabras (18, 22, 56); repetición de frases alterada (24, 26);\nerrores fonológicos (32) → afectación temporal posterior y parietal\ninferior (Figura 3b-c) (42, 53, 64).",
+            "guid": "OXuE5fbUj0Do44Uc6m06XA",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "5",
+            "text": "• Neuropatología → Enfermedad de\nAlzheimer (EA) (29) (Figura 5a, 6).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "35",
+            "parent": "5",
+            "text": "• Criterios Dx (24):",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "36",
+            "parent": "5",
+            "text": "• Necesarios:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "37",
+            "parent": "5",
+            "text": "• Dificultad para\nencontrar palabras",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "38",
+            "parent": "5",
+            "text": "• Repetición\nalterada de frases.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "39",
+            "parent": "5",
+            "text": "• Al menos 3:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "40",
+            "parent": "5",
+            "text": "• Errores fonológicos.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "41",
+            "parent": "5",
+            "text": "• Comprensión de palabras\nsimples y objetos preservada.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "42",
+            "parent": "5",
+            "text": "• Motricidad del\nhabla intacta.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "43",
+            "parent": "5",
+            "text": "• Ausencia de\nagramatismo.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "44",
+        "parent": "0",
+        "text": "Etiología",
+        "guid": "",
+        "children": [
+          {
+            "id": "45",
+            "parent": "44",
+            "text": "• Neurodegeneración (1, 131, 132) → lóbulos\nfrontal y temporal del hemisferio dominante\n(izquierdo en la mayoría) (16, 17).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "46",
+            "parent": "44",
+            "text": "• APP-G → FTLD\n(proteína tau) (29).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "47",
+            "parent": "44",
+            "text": "• APP-S → FTLD\n(proteína TDP-43-C) (29).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "48",
+            "parent": "44",
+            "text": "• APP-L → EA\n(amiloide y tau) (29).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "parent": "0",
+        "text": "Epidemiología",
+        "guid": "",
+        "children": [
+          {
+            "id": "50",
+            "parent": "49",
+            "text": "• 3-4/100,000 (18); incidencia → 1.\n14/100,000 personas-años (19).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "51",
+        "parent": "0",
+        "text": "Fisiopatología\n(29, 133-135)",
+        "guid": "",
+        "children": [
+          {
+            "id": "52",
+            "parent": "51",
+            "text": "• APP-G → Atrofia → lóbulo\nfrontal inferior dominante (área\nde Broca) e ínsula (53).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "53",
+            "parent": "51",
+            "text": "• APP-S → Atrofia → lóbulos\ntemporales anteriores, polos\ntemporales → predominio izquierdo\n(66).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "54",
+            "parent": "51",
+            "text": "• APP-L → Atrofia → circunvoluciones\ntemporal superior y media posterior,\nlóbulo parietal inferior (42).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "55",
+        "parent": "0",
+        "text": "Diagnóstico",
+        "guid": "",
+        "children": [
+          {
+            "id": "56",
+            "parent": "55",
+            "text": "• Clínico → Anamnesis → inicio insidioso, progresión\ngradual (15, 149, 150); evaluación del lenguaje →\nNorthwestern Anagram Test (44, 45), Montreal Cognitive\nAssessment (Precaución) (35).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "57",
+            "parent": "55",
+            "text": "• Imagen → RMN cerebral (Figura 1,\n3) (26, 31), FDG-PET (26) → atrofia\nfocal según variante.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "58",
+            "parent": "55",
+            "text": "• RMN:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "59",
+            "parent": "55",
+            "text": "• APP-G ↓ sensibilidad (29%), ↑\nespecificidad (91%) → atrofia\nfrontal posterior (36-38).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "60",
+            "parent": "55",
+            "text": "• APP-S ↑ sensibilidad (98%), ↑\nespecificidad (93%) → atrofia\ntemporal anterior (39-41).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "61",
+            "parent": "55",
+            "text": "• APP-L ↓ sensibilidad (57%), ↑\nespecificidad (95%) → atrofia temporal\nposterior y parietal inferior (42).",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "62",
+            "parent": "55",
+            "text": "• FDG-PET:",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "63",
+            "parent": "55",
+            "text": "• APP-G sensibilidad (67%),\nespecificidad (92%) →\nhipometabolismo frontal posterior.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "64",
+            "parent": "55",
+            "text": "• APP-S sensibilidad (casi 100%),\nespecificidad (casi 100%) →\nhipometabolismo temporal anterior.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "65",
+            "parent": "55",
+            "text": "• APP-L sensibilidad (92%), especificidad\n(94%) → hipometabolismo temporal\nposterior y parietal inferior.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "parent": "0",
+        "text": "Tratamiento",
+        "guid": "",
+        "children": [
+          {
+            "id": "67",
+            "parent": "66",
+            "text": "• Terapia del habla y lenguaje (153);\ntDCS experimental (156-158).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "68",
+        "parent": "0",
+        "text": "Pronóstico",
+        "guid": "",
+        "children": [
+          {
+            "id": "69",
+            "parent": "68",
+            "text": "• Supervivencia media → 7.1 - 12\naños según variante (47).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "70",
+        "parent": "0",
+        "text": "Dx Diferencial",
+        "guid": "",
+        "children": [
+          {
+            "id": "71",
+            "parent": "70",
+            "text": "• Demencia, afasia isquémica, tumor\ncerebral, Alzheimer, FTD (3).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "72",
+        "parent": "0",
+        "text": "Complicaciones",
+        "guid": "",
+        "children": [
+          {
+            "id": "73",
+            "parent": "72",
+            "text": "• Pérdida del habla/comprensión, depresión\n(155), parkinsonismo (raro) (47).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "74",
+        "parent": "0",
+        "text": "Consultas",
+        "guid": "",
+        "children": [
+          {
+            "id": "75",
+            "parent": "74",
+            "text": "• Neurología,\nFonoaudiología,\nPsicología.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "76",
+        "parent": "0",
+        "text": "Factores de\nsusceptibilidad",
+        "guid": "",
+        "children": [
+          {
+            "id": "77",
+            "parent": "76",
+            "text": "• Historia familiar o personal de problemas\nde aprendizaje (dislexia) (138, 139),\nautoinmunidad (140, 141).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "78",
+        "parent": "0",
+        "text": "Genética",
+        "guid": "",
+        "children": [
+          {
+            "id": "79",
+            "parent": "78",
+            "text": "• Mutaciones en GRN, MAPT,\nC9orf72, PSEN1 (raro) (142-145).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "parent": "0",
+        "text": "Biomarcadores\n(Figura 7)",
+        "guid": "",
+        "children": [
+          {
+            "id": "81",
+            "parent": "80",
+            "text": "• Imagen de amiloide-β por PET,\ncuantificación de tau y amiloide-β en LCR →\nprobabilidad de patología de AD (29).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "82",
+        "parent": "0",
+        "text": "Clasificación simplificada\n(Figura 2) (26, 31)",
+        "guid": "",
+        "children": [
+          {
+            "id": "83",
+            "parent": "82",
+            "text": "• PPA-G → Agramatismo, ↓\nfluidez, habla trabajosa.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "84",
+            "parent": "82",
+            "text": "• PPA-S → Anomia, ↓\ncomprensión palabras,\npreserva gramática y\nrepetición.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "85",
+            "parent": "82",
+            "text": "• PPA-L → ↓ fluidez por dificultad para\nencontrar palabras, preserva gramática y\ncomprensión de palabras simples.",
+            "guid": "",
+            "children": []
+          },
+          {
+            "id": "86",
+            "parent": "82",
+            "text": "• PPA-M → Combinación de\ngramática y comprensión alteradas.",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "87",
+        "parent": "0",
+        "text": "Área de Wernicke",
+        "guid": "",
+        "children": [
+          {
+            "id": "88",
+            "parent": "87",
+            "text": "• Cuestionada su localización clásica (69,\n96-98). Se propone red distribuida con mayor\npeso en ATL (60, 75, 80, 117).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "89",
+        "parent": "0",
+        "text": "Red del lenguaje",
+        "guid": "",
+        "children": [
+          {
+            "id": "90",
+            "parent": "89",
+            "text": "• Componentes dorsales (IFG - Broca) → fonología,\nfluidez, gramática (1-5). Componentes ventrales (lóbulo\ntemporal) → lexicosemántico (1-5).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "91",
+        "parent": "0",
+        "text": "ATL",
+        "guid": "",
+        "children": [
+          {
+            "id": "92",
+            "parent": "91",
+            "text": "• Rol crítico en la precisión de la denominación y\ncomprensión de palabras (66, 67, 73-77). Asimetría →\nizquierdo especializado en verbal (66, 83).",
+            "guid": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 93,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Afasia primaria progresiva (APP)-2025",
+  "id": "map_1646",
+  "resolved_references": []
+}

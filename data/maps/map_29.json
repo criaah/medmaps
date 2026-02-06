@@ -1,0 +1,85 @@
+{
+  "title": "CRASH-2 (2010)",
+  "guid": "CRASH2-2010-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/CRASH-2-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "CRASH-2 (2010)\nClinical Randomisation of an\nAntifibrinolytic in Significant\nHaemorrhage\n\n⭐ Acido Tranexámico reduce\nmortalidad en trauma con sangrado",
+    "guid": "CRASH2-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: CRASH-2 Collaborators\\n(Shakur H, Roberts I)\nAño: 2010\nRevista: Lancet\nDOI: 10.1016/S0140-6736(10)60835-5\n\\nDiseño: RCT doble ciego\\nMulticéntrico: 274 hospitales\\n40 países\\nn = 20,211 pacientes",
+        "guid": "CRASH2-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. CRASH-2 Collaborators\\n   Lancet 2010\\n   DOI: 10.1016/S0140-6736(10)60835-5\\n\\n2. CRASH-2 Lancet 2011\\n   Time-to-treatment analysis\\n\\n3. WHO Essential Medicines List",
+            "guid": "CRASH2-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Trauma agudo (menor 8 hrs)\\n• Hemorragia significativa activa\\n  o riesgo de sangrado\\n• Adultos (mayor o igual 16 años)\\n• PAS menor 90 o FC mayor 110\\n\\nCriterios Exclusion:\\n• Contraindicación ATX\\n• Indicación clara de ATX\\n\\nCaracterísticas:\\n• Edad media: 30 años\\n• 84% hombres\\n• 50% trauma penetrante\\n• Mayoría países bajos recursos",
+        "guid": "CRASH2-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo ATX:\\n• Bolo: 1 g IV en 10 min\\n• Infusión: 1 g en 8 hrs\\n• Inicio menor 8 hrs desde trauma\\n\\nGrupo Control:\\n• Placebo idéntico\\n• Mismo volumen/timing\\n\\nCo-intervenciones:\\n• Hemoderivados según protocolo local\\n• Cirugía según indicación\\n• Cuidados trauma estándar",
+        "guid": "CRASH2-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nMortalidad total (4 semanas):\\n• ATX: 14.5%\\n• Placebo: 16.0%\\n• RR 0.91 (IC95% 0.85-0.97)\\n• p = 0.0035 ✓\\n• NNT = 67\n\\nMortalidad por sangrado:\\n• ATX: 4.9%\\n• Placebo: 5.7%\\n• RR 0.85 (IC95% 0.76-0.96)\\n• p = 0.0077 ✓\\n• NNT = 121\n\\nAnálisis por tiempo:\\n• menor 1 hr: Mayor beneficio\\n• 1-3 hrs: Beneficio moderado\\n• mayor 3 hrs: Sin beneficio/daño",
+        "guid": "CRASH2-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEventos tromboembólicos:\\n• ATX: 1.7%\\n• Placebo: 2.0%\\n• SIN aumento significativo\\n\\nIAM:\\n• Similar entre grupos\\n\\nACV:\\n• Similar entre grupos\\n\\nTEP:\\n• ATX: 0.7% vs Placebo: 0.8%\\n\\nConclusión seguridad:\\n• ATX NO aumenta eventos\\n  tromboembólicos en trauma\\n• Perfil seguridad favorable",
+        "guid": "CRASH2-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Mega-trial (mayor 20,000)\\n✓ Doble ciego riguroso\\n✓ Outcome duro (mortalidad)\\n✓ Poblaciones diversas\\n✓ Bajo costo intervención\\n\\nLimitaciones:\\n• Población joven (30 años)\\n• Definición sangrado variable\\n• Mayoría trauma penetrante\\n• Settings recursos limitados\\n\\nGeneralizabilidad:\\n• Aplica globalmente\\n• Costo ATX muy bajo",
+        "guid": "CRASH2-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐ Moderadamente relevante\n\\nLimitación principal:\\n• Población estudio muy joven\\n• Pocos mayores 65 incluidos\\n\\nAplicación en ancianos:\\n• Trauma por caídas\\n• Fractura cadera sangrante\\n• Politrauma geriátrico\\n\\nPrecauciones:\\n• Mayor riesgo basal TEV\\n• Ajustar en ERC severa\\n• Considerar anticoagulación previa\\n• Ventana 3 hrs sigue aplicando",
+        "guid": "CRASH2-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. VENTANA CRITICA: menor 3 hrs\n   Después NO hay beneficio\n   (posible daño si mayor 3 hrs)\n\\n2. Protocolo simple:\n   1g bolo + 1g infusión 8 hrs\n\\n3. Costo ATX: menor 10 USD\n   Uno de los tratamientos mas\n   costo-efectivos en medicina\n\\n4. NO aumenta TEV\n   a pesar de ser antifibrinolítico\n\\n5. Aplicable a:\\n   • Hemorragia postparto (WOMAN)\\n   • Sangrado GI (HALT-IT)\\n   • Fx cadera (estudio en curso)\n\\n6. Ya incluido en protocolos\n   ATLS y trauma mundiales",
+        "guid": "CRASH2-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Estudios Pivotales",
+  "folder": "- Estudios Pivotales",
+  "filename": "CRASH-2-2026",
+  "id": "map_29",
+  "resolved_references": []
+}

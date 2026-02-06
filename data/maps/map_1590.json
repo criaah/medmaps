@@ -1,0 +1,1607 @@
+{
+  "title": "Neuroimagenes en Ictus",
+  "guid": "A3361375F68A6F1736ED40EF",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Neuroimagenes en Ictus-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Neuroimagenes\nen Ictus",
+    "guid": "0oequGmv90aZ61jlsmroZA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "TC sin contraste\n(NCCT)",
+        "guid": "oy-A6RLwNeiqSqNpIfvHSg",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "→ Visión\ngeneral",
+            "guid": "lgVI9peI2T3amRYjkbRKfQ",
+            "children": [
+              {
+                "id": "3",
+                "parent": "2",
+                "text": "• Útil para diferenciar ACV isquémico vs. hemorrágico",
+                "guid": "gp2s2_ExesZGKhgoqRCA0w",
+                "children": []
+              },
+              {
+                "id": "4",
+                "parent": "2",
+                "text": "• Alta sensibilidad p/ hemorragias + Disponible + Rápida",
+                "guid": "oI4NyEVrR0ItpIDVDxlmJA",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "2",
+                "text": "• Debe descartarse hemorragia intracraneal antes de trombólisis",
+                "guid": "OBk-UzwXZ_lAv8qLF-0xGA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "parent": "1",
+            "text": "→ ACV Isquémico",
+            "guid": "9ONVR4TJFIZRP60TCrAQBA",
+            "children": [
+              {
+                "id": "7",
+                "parent": "6",
+                "text": "• Lesiones isquémicas = hipoatenuadas (oscuras)",
+                "guid": "1aEo12nnjkHHZsx5iHwxuw",
+                "children": []
+              },
+              {
+                "id": "8",
+                "parent": "6",
+                "text": "• Normal: diferenciación sustancia gris/blanca (SG > brillante que SB)",
+                "guid": "LRexABMEtUn6uLUcnzL6Tw",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "6",
+                "text": "• En isquemia aguda: edema → SG se obscurece → ↓ diferenciación G-B",
+                "guid": "zgsBmG0c9VTBy8JQreexQA",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "6",
+                "text": "• Cambios isquémicos\ntempranos (EIC)",
+                "guid": "zy4ffp3Mn7LT6zoAbrxR-Q",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "– Ocurren en pocas horas",
+                    "guid": "EWhyX7Ath3rxiq3IJ-cImg",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "– Signos:",
+                    "guid": "7DkPXncSrm4W-AMEseg4Ug",
+                    "children": [
+                      {
+                        "id": "13",
+                        "parent": "12",
+                        "text": "▸ Lentiforme borroso",
+                        "guid": "0kkqJhR2TC6TqXL7pso_lQ",
+                        "children": []
+                      },
+                      {
+                        "id": "14",
+                        "parent": "12",
+                        "text": "▸ “Insular ribbon sign” → mala diferenciación insular",
+                        "guid": "d0MO61FrXjWIptFxsCnsgw",
+                        "children": []
+                      },
+                      {
+                        "id": "15",
+                        "parent": "12",
+                        "text": "▸ “Cortical ribbon sign” → mala diferenciación cortical",
+                        "guid": "e5O7eHDmMdEUm1BIim1MRQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "16",
+                    "parent": "10",
+                    "text": "– Extensión EIC\ninfluye en manejo",
+                    "guid": "-OWDDfBK0l_slLpZoJAHPw",
+                    "children": [
+                      {
+                        "id": "17",
+                        "parent": "16",
+                        "text": "▸ ASPECTS bajo → peor pronóstico + menor probabilidad de rescate tisular",
+                        "guid": "tRG6q8UNA7s3TrEY8B2BSw",
+                        "children": []
+                      },
+                      {
+                        "id": "18",
+                        "parent": "16",
+                        "text": "▸ ASPECTS = escala 10 puntos p/ territorio de A. cerebral media (ACM)",
+                        "guid": "bve_ZgZy91jLf6tjjTyrgA",
+                        "children": []
+                      },
+                      {
+                        "id": "19",
+                        "parent": "16",
+                        "text": "▸ Se puntúa 0 = área afectada; 1 = área no afectada",
+                        "guid": "m3eaVwxfJkYPDVtUvIHiNA",
+                        "children": []
+                      },
+                      {
+                        "id": "20",
+                        "parent": "16",
+                        "text": "▸ Suma total (máx 10)",
+                        "guid": "-A9fj9FcP--Mml3_3CPp8g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "21",
+                    "parent": "10",
+                    "text": "– Regla de 1/3 → si > 1/3 del territorio ACM afectado, ↑ riesgo vs. beneficio con trombolisis",
+                    "guid": "j7q_0U2_15QAqJNIG27ptg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "22",
+                "parent": "6",
+                "text": "• Cambios\nsubagudos",
+                "guid": "FMRJMdbR2BQcuBBeKLIQWw",
+                "children": [
+                  {
+                    "id": "23",
+                    "parent": "22",
+                    "text": "– SG puede verse aún más oscura que SB",
+                    "guid": "WWsbgnqTB26oy-LWoGXCbQ",
+                    "children": []
+                  },
+                  {
+                    "id": "24",
+                    "parent": "22",
+                    "text": "– Implican mayor tiempo o gravedad de isquemia",
+                    "guid": "KUlYYYtMO_SHTOVz3VR6XA",
+                    "children": []
+                  },
+                  {
+                    "id": "25",
+                    "parent": "22",
+                    "text": "– Asociados a ↑ riesgo de sangrado con trombolíticos",
+                    "guid": "JI3D9abObynk7ZlWYQrPxQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "26",
+                "parent": "6",
+                "text": "• “Hyperdense artery sign”",
+                "guid": "PynLHcnVLFjD_Zik93nyyA",
+                "children": [
+                  {
+                    "id": "27",
+                    "parent": "26",
+                    "text": "– Hiperdensidad en arteria → trombo intracraneal",
+                    "guid": "11cJHex71NcZGGAt74T1Bw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "28",
+                "parent": "6",
+                "text": "• “Eye deviation sign”",
+                "guid": "gv2vEmAVx9OYRgwcfFbjtA",
+                "children": [
+                  {
+                    "id": "29",
+                    "parent": "28",
+                    "text": "– Ojos desviados hacia el lado de la isquemia en NCCT",
+                    "guid": "PBvChlGfkuCXaCDlQclhlQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "parent": "1",
+            "text": "→ ACV Hemorrágico\n(Intracerebral y Subaracnoideo)",
+            "guid": "30foh2WTYdHrbNH4WKWafQ",
+            "children": [
+              {
+                "id": "31",
+                "parent": "30",
+                "text": "• Lesiones hemorrágicas = hiperatenuadas (brillantes)",
+                "guid": "zKAu5Ui2MKwLVg8zWCBKng",
+                "children": []
+              },
+              {
+                "id": "32",
+                "parent": "30",
+                "text": "• Sangre aguda ~60-80 HU (disminuye con el tiempo)",
+                "guid": "BgnMttpQao1tNR006Pud5Q",
+                "children": []
+              },
+              {
+                "id": "33",
+                "parent": "30",
+                "text": "• Cerebro normal ~40-60 HU",
+                "guid": "bJk6GD6TVX-ikCS-NDzoLw",
+                "children": []
+              },
+              {
+                "id": "34",
+                "parent": "30",
+                "text": "• Clasificación\nsegún ubicación:",
+                "guid": "i3hatbbtiV373M3UAD62bQ",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "– Intracerebral (superficial/profunda), intraventricular, subaracnoidea, subdural, extradural",
+                    "guid": "097AFv5l1llTadNZcrIvww",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "36",
+                "parent": "30",
+                "text": "• Cálculo volumen\n(hemorragia intracerebral)",
+                "guid": "6Xen2Do91h6m4BYlqzQxRw",
+                "children": [
+                  {
+                    "id": "37",
+                    "parent": "36",
+                    "text": "– (A × B × C) / 2",
+                    "guid": "wiQtJB8NiETGZOO_l_0eSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "36",
+                    "text": "– A = diámetro máx axial",
+                    "guid": "RLixtcD8w8KW_XU3rVyIYg",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "36",
+                    "text": "– B = diámetro perpendicular a A",
+                    "guid": "xhsjtceW8Vth8iQ8j_sIwg",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "36",
+                    "text": "– C = altura (n° de cortes con sangrado × grosor corte)",
+                    "guid": "6ar-6HrmrnLVpuVUF-cy1A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "41",
+                "parent": "30",
+                "text": "• Factores pronósticos\ndesfavorables",
+                "guid": "6GUOc6sam-YnQnMQsSYM1Q",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "– Volumen > 60 mL",
+                    "guid": "zTtX_fZHEoAMRKbm2_dN1w",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "41",
+                    "text": "– “Blend sign” → áreas hiper e hipoatenuadas en el mismo hematoma",
+                    "guid": "B-OTYW3t0cho8c3SuIAjnA",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "41",
+                    "text": "– “Black hole sign” → zona hipoatenuada rodeada de hiperatenuación sin continuidad con el parénquima",
+                    "guid": "PPCFSmHc1eMcPOuXsACYKg",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "41",
+                    "text": "– “Island sign” → ≥ 3 focos hemorrágicos separados del mayor",
+                    "guid": "8acPRGH8H92avOo_BBOXLg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46",
+                "parent": "30",
+                "text": "• Hemorragia Subaracnoidea\n(HSA)",
+                "guid": "IU0vU1vpHGSWh_VmvGy0VQ",
+                "children": [
+                  {
+                    "id": "47",
+                    "parent": "46",
+                    "text": "– Hiperdensidad en surcos o cisternas",
+                    "guid": "exqlhaogdF7l34nxswtinA",
+                    "children": []
+                  },
+                  {
+                    "id": "48",
+                    "parent": "46",
+                    "text": "– Estudios muestran alta sensibilidad de TC ≤ 6 h del inicio",
+                    "guid": "ohm_opRSOMuS7wy3F4a0_g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "49",
+        "parent": "0",
+        "text": "Tomografía Computarizada Angiográfica\n(CTA)",
+        "guid": "IqZ-i2lOOTEYn2-Iy3hqfQ",
+        "children": [
+          {
+            "id": "50",
+            "parent": "49",
+            "text": "→ Recomendaciones\ngenerales",
+            "guid": "imA5EczVRVMrWN13xG3QOg",
+            "children": [
+              {
+                "id": "51",
+                "parent": "50",
+                "text": "• No debe retrasar la terapia trombolítica en ACV isquémico",
+                "guid": "1p3Kuk-CBhsSSxhh6qLlVA",
+                "children": []
+              },
+              {
+                "id": "52",
+                "parent": "50",
+                "text": "• Evalúa arterias extracraneales/intracraneales desde arco aórtico hasta vértice",
+                "guid": "9pp7RyNe2qivaM8BSOyXPw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "53",
+            "parent": "49",
+            "text": "→ Contrastación",
+            "guid": "xMXqkmXKFYgXihWYb-kSMA",
+            "children": [
+              {
+                "id": "54",
+                "parent": "53",
+                "text": "• Usa medio de contraste (cautela en insuf. renal grave no dializada)",
+                "guid": "b0jARvOeVe5JvEjX29aLZg",
+                "children": []
+              },
+              {
+                "id": "55",
+                "parent": "53",
+                "text": "• Riesgo bajo de nefropatía",
+                "guid": "nvHA8cVPsYmj2eUcYeHvRw",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "53",
+                "text": "• Metformina → suspender ≥ 48 h post-CTA",
+                "guid": "UzHFn24UipvlPHYE3GKFvQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "57",
+            "parent": "49",
+            "text": "→ Utilidad",
+            "guid": "1CW8hI7vFfKtZnFwQszHUg",
+            "children": [
+              {
+                "id": "58",
+                "parent": "57",
+                "text": "• Diferencia obstrucción (isquémico) vs. fuga vascular (hemorrágico)",
+                "guid": "XKA7y_G5dBzGM_ep1jnhkg",
+                "children": []
+              },
+              {
+                "id": "59",
+                "parent": "57",
+                "text": "• Identifica patología aórtica (trombosis, placas, disección), ateroesclerosis extracraneal,\ndisecciones, “carotid webs”, estrechez intracraneal (vasculopatía/vasculitis)",
+                "guid": "4nrPK7yH39z1BSL8izTR2A",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "57",
+                "text": "• Aporta pronóstico (ver vascularización, colaterales, etc.)",
+                "guid": "07kwfK126nNo93k5TYWzeg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "61",
+            "parent": "49",
+            "text": "CTA\nmultipfase",
+            "guid": "zQakr3rpLqFAJqb_kkgTTQ",
+            "children": [
+              {
+                "id": "62",
+                "parent": "61",
+                "text": "• Varias adquisiciones en < 1 min (ej. 0, 8 y 16 s)",
+                "guid": "-6YkxXVAIWGm06EkmoiIjg",
+                "children": []
+              },
+              {
+                "id": "63",
+                "parent": "61",
+                "text": "• Evita obtener imágenes antes de llegada de contraste",
+                "guid": "JOQqdigTh7jESap-xe6nIA",
+                "children": []
+              },
+              {
+                "id": "64",
+                "parent": "61",
+                "text": "• Visualiza llenado arterial a lo largo del tiempo",
+                "guid": "chqwRPg3X_zM-z0ZlzG8TQ",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "61",
+                "text": "→ ACV\nIsquémico",
+                "guid": "k5N5hsfPQ3DS7Ea2YdKB_g",
+                "children": [
+                  {
+                    "id": "66",
+                    "parent": "65",
+                    "text": "• Muestra trombo (especialmente en oclusiones de grandes vasos)",
+                    "guid": "V8sCQrxilpwX_YR_tfNIeg",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "65",
+                    "text": "• Orienta a terapia endovascular si hay oclusión de arterias proximales",
+                    "guid": "hLtyAOFGRgLYLGA-Kv8DnA",
+                    "children": []
+                  },
+                  {
+                    "id": "68",
+                    "parent": "65",
+                    "text": "• Trombólisis menos efectiva si trombo en carótida interna o si gran carga trombótica",
+                    "guid": "kA_yDsfba9iTaBTit2U9hA",
+                    "children": []
+                  },
+                  {
+                    "id": "69",
+                    "parent": "65",
+                    "text": "• CTA multipfase valora\nestado de colaterales",
+                    "guid": "XHMY-ltNIBlbSrmhAoWjAg",
+                    "children": [
+                      {
+                        "id": "70",
+                        "parent": "69",
+                        "text": "– Flujo en zona isquémica, retraso en llenado y lavado",
+                        "guid": "Th_UyKkyUoaC4rkv4ZuLpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "71",
+                        "parent": "69",
+                        "text": "– Si colaterales presentes, más probabilidad de rescate tisular",
+                        "guid": "HyTRvpkmGtd-GIOq81YKLA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "72",
+                "parent": "61",
+                "text": "→ ACV\nHemorrágico",
+                "guid": "xbLj73aaCkTDyT0FhD-Cvw",
+                "children": [
+                  {
+                    "id": "73",
+                    "parent": "72",
+                    "text": "• Detecta aneurismas, malformaciones vasculares, trombosis venosa",
+                    "guid": "Ns1tqueUseGW1lDBs80rCA",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "72",
+                    "text": "• “Spot sign” (hiperdensidad focal de contraste filtrándose)",
+                    "guid": "aSerwE49LyAWsLtYjorhjA",
+                    "children": [
+                      {
+                        "id": "75",
+                        "parent": "74",
+                        "text": "– Se asocia a ↑ riesgo de expansión hemorrágica y peor pronóstico",
+                        "guid": "awmyRaBtCLcNwBTLpK8Vmw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "76",
+                "parent": "61",
+                "text": "→ Inteligencia\nartificial",
+                "guid": "JIUlztmbiM6VE5K1zidA2w",
+                "children": [
+                  {
+                    "id": "77",
+                    "parent": "76",
+                    "text": "• Software p/ detección automática de oclusiones de grandes vasos (ej. Viz. ai, RAPID, e-Stroke)",
+                    "guid": "OuuXfItvpIaBTDv_hnHCGw",
+                    "children": []
+                  },
+                  {
+                    "id": "78",
+                    "parent": "76",
+                    "text": "• Notifica a especialistas e identifica bloqueos grandes en CTA",
+                    "guid": "aLdE0x9DncE5AGGC0Cmcyw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "79",
+        "parent": "0",
+        "text": "Tomografía de\nPerfusión (CTP)",
+        "guid": "KmFdfJAzmuALLPKyLmx-qg",
+        "children": [
+          {
+            "id": "80",
+            "parent": "79",
+            "text": "→ Utilidad en\nACV Isquémico",
+            "guid": "zg6qQpy5AEzjoFFqU6g67g",
+            "children": [
+              {
+                "id": "81",
+                "parent": "80",
+                "text": "• Ayuda a evaluar elegibilidad p/ terapia endovascular",
+                "guid": "fpD-OWbalb_oDGCtF040Tw",
+                "children": []
+              },
+              {
+                "id": "82",
+                "parent": "80",
+                "text": "• CTP estima flujo sanguíneo cerebral a lo largo del tiempo tras administración de contraste",
+                "guid": "TWs6ASq4zAh0FFpsebVusQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "83",
+            "parent": "79",
+            "text": "→ Parámetros\nhemodinámicos\n(por vóxel)",
+            "guid": "0nnf6pxlOg2G5mK8gBdN3g",
+            "children": [
+              {
+                "id": "84",
+                "parent": "83",
+                "text": "• Tmax (delay time)",
+                "guid": "Gamau_1lo0Ia1gCfxyLlqA",
+                "children": [
+                  {
+                    "id": "85",
+                    "parent": "84",
+                    "text": "– Tiempo hasta intensidad máx de contraste (s)",
+                    "guid": "0WMRtEQ9rl4rBJUBoJdlIg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "86",
+                "parent": "83",
+                "text": "• MTT \n(mean transit time)",
+                "guid": "BV2hS47mQI2RSZwDGhEf9g",
+                "children": [
+                  {
+                    "id": "87",
+                    "parent": "86",
+                    "text": "– Tiempo promedio de paso del bolo por el vóxel",
+                    "guid": "S_Y-poBIBBqyFSg788jPYA",
+                    "children": []
+                  },
+                  {
+                    "id": "88",
+                    "parent": "86",
+                    "text": "– Inversamente proporcional a presión de perfusión",
+                    "guid": "wfbNT1W7BtgjOWZwaJGpMg",
+                    "children": []
+                  },
+                  {
+                    "id": "89",
+                    "parent": "86",
+                    "text": "– Normal ~4-5 s",
+                    "guid": "bWndqGWd5ZNPEqQCLJUeRg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "90",
+                "parent": "83",
+                "text": "• CBF \n(cerebral blood flow)",
+                "guid": "LuJIkkbg68cvA8kuFQHwnw",
+                "children": [
+                  {
+                    "id": "91",
+                    "parent": "90",
+                    "text": "– Volumen de sangre que fluye por 100 g de tejido/min",
+                    "guid": "hC_ABJ4unTibVEZSLRMOIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "92",
+                    "parent": "90",
+                    "text": "– SG normal ~80 mL/100 g/min",
+                    "guid": "jkSCjfGVfQ2GQiXHSMxBgQ",
+                    "children": []
+                  },
+                  {
+                    "id": "93",
+                    "parent": "90",
+                    "text": "– SB normal ~20 mL/100 g/min",
+                    "guid": "PBJRxRjp_5-eL0Wa5YaKvg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94",
+                "parent": "83",
+                "text": "• CBV (cerebral\nblood volume)",
+                "guid": "6xbAw3oyriAJfjLdbin8dg",
+                "children": [
+                  {
+                    "id": "95",
+                    "parent": "94",
+                    "text": "– Porción de la unidad de masa cerebral que contiene vasos",
+                    "guid": "SCej0JFtYbZ8aLfRYFjYsA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "96",
+            "parent": "79",
+            "text": "→ Core Isquémico\nvs. Penumbra",
+            "guid": "aKQPI9jehUTZoURtL0CMug",
+            "children": [
+              {
+                "id": "97",
+                "parent": "96",
+                "text": "• Core (no\nrecuperable)",
+                "guid": "15O8WZebhoAvhEjfhltoOQ",
+                "children": [
+                  {
+                    "id": "98",
+                    "parent": "97",
+                    "text": "– Zonas con CBF y CBV bajas vs. lado contralateral",
+                    "guid": "dwEXObyVwDbjfOFrcOQBeg",
+                    "children": []
+                  },
+                  {
+                    "id": "99",
+                    "parent": "97",
+                    "text": "– Tejido con daño irreversible",
+                    "guid": "8p7iEyfztQ8qyFsVwGOHdg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "100",
+                "parent": "96",
+                "text": "• Penumbra\n(potencialmente salvable)",
+                "guid": "XudckDQGVW0PXIgRXFGP8w",
+                "children": [
+                  {
+                    "id": "101",
+                    "parent": "100",
+                    "text": "– Zonas con ↑ MTT y Tmax vs. lado contralateral",
+                    "guid": "IVVXshRWXImoyPzL-rZugw",
+                    "children": []
+                  },
+                  {
+                    "id": "102",
+                    "parent": "100",
+                    "text": "– Puede recuperarse con reperfusión",
+                    "guid": "vyg6_DahRRPluyz5tF9R9Q",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "103",
+            "parent": "79",
+            "text": "→ Aspectos\nadicionales",
+            "guid": "u7gYGENVqd2Br6V4QsgzdA",
+            "children": [
+              {
+                "id": "104",
+                "parent": "103",
+                "text": "• CTP más accesible que RM perfusión",
+                "guid": "sRK2Ta8PkyzCnZ0bowTssQ",
+                "children": []
+              },
+              {
+                "id": "105",
+                "parent": "103",
+                "text": "• Distintas plataformas de software pueden arrojar estimaciones diferentes",
+                "guid": "lYFIHOnTLDQL_HKClLu7NA",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "103",
+                "text": "• Exposición a radiación presente en TC",
+                "guid": "KWXLmSe012k63pBnxEjXfg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "107",
+        "parent": "0",
+        "text": "Tomografía Multimodal\n(TC multimodal)",
+        "guid": "bPMoG2ckSt9UQjGMvcRrSg",
+        "children": [
+          {
+            "id": "108",
+            "parent": "107",
+            "text": "→ Permite caracterizar más el evento cerebrovascular (isquémico/hemorrágico)",
+            "guid": "wP4nsk_oRkd1y_HV1xFwMA",
+            "children": []
+          },
+          {
+            "id": "109",
+            "parent": "107",
+            "text": "→ No retrasar trombólisis IV en pacientes elegibles por realizar perfusión u otras técnicas multimodales",
+            "guid": "98zDTmQU-OoalJI4tQmY8A",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "110",
+        "parent": "0",
+        "text": "TC para Determinar\nPronóstico",
+        "guid": "lcPHLIwBLFthJQ32K7BX4w",
+        "children": [
+          {
+            "id": "111",
+            "parent": "110",
+            "text": "→ Hallazgos adversos en TC simple y hallazgos favorables en\nperfusión pueden asociarse a menor mortalidad vs. hallazgos inversos",
+            "guid": "w90_C73QocqP0cB4Z2kWTg",
+            "children": []
+          },
+          {
+            "id": "112",
+            "parent": "110",
+            "text": "→ Volumen grande de core isquémico (CTP) → menor probabilidad de independencia funcional a 90 días",
+            "guid": "txy1i61O7Jvz3O5_hb6aDQ",
+            "children": []
+          },
+          {
+            "id": "113",
+            "parent": "110",
+            "text": "→ ASPECTS ≤ 7 → predicción de muerte o dependencia a 3 meses tras ACV en territorio de ACM",
+            "guid": "SyXS7ZNKPP8eGZQCIZRTuQ",
+            "children": []
+          },
+          {
+            "id": "114",
+            "parent": "110",
+            "text": "→ CTA con escala BASIS podría predecir desenlace adverso mejor que ASPECTS",
+            "guid": "EIqvGdnwAjTc4-FYdylKgg",
+            "children": []
+          },
+          {
+            "id": "115",
+            "parent": "110",
+            "text": "→ En hemorragia intracerebral espontánea (HIC), signos en TC sin contraste (ej. “island sign”, “black hole sign”)\n→ mayor riesgo de mal resultado funcional o muerte",
+            "guid": "8Gg4_1TswKFO99QLR1sfpw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "116",
+        "parent": "0",
+        "text": "Resonancia Magnética\n(RM) sin Contraste",
+        "guid": "mBRlzBy5gZgGKehccxbDXw",
+        "children": [
+          {
+            "id": "117",
+            "parent": "116",
+            "text": "→ Indicaciones",
+            "guid": "nZzzsEIPv6cxov93Xc2nKQ",
+            "children": [
+              {
+                "id": "118",
+                "parent": "117",
+                "text": "• Urgente p/ diagnóstico de ACV isquémico vs. hemorrágico",
+                "guid": "gek5-Qu7XOiyxSYkhSxwbw",
+                "children": []
+              },
+              {
+                "id": "119",
+                "parent": "117",
+                "text": "• TC sin contraste suele preferirse inicialmente (más disponible, rápida, sensible a hemorragia, menos contraindicaciones)",
+                "guid": "QZ3fZRqNUuqgkT1HZIjavQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "120",
+            "parent": "116",
+            "text": "→ ACV\nIsquémico",
+            "guid": "YO0CmOSiwrk2UQlQ6rW4aQ",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "• Signos:",
+                "guid": "aaQeyFDg1vhnoTh9KzKHyA",
+                "children": [
+                  {
+                    "id": "122",
+                    "parent": "121",
+                    "text": "– Ausencia de “flow void” arterial en T2",
+                    "guid": "KLeQVceg97_Bm7CI_mesEg",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "121",
+                    "text": "– Hiperintensidad en DWI → lesión isquémica (difusión restringida)",
+                    "guid": "7bnEi8wA9ECiGMZEx4Emog",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "121",
+                    "text": "– Arteria hipointensa en GRE (“blooming”) → trombo",
+                    "guid": "MtfiW_B2Wh1w9liV_UEJ3Q",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "121",
+                    "text": "– Hiperintensidad intravascular en FLAIR → flujo lento/colateral",
+                    "guid": "MQP1pVh3xczttiAPnbn6vw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "126",
+                "parent": "120",
+                "text": "• T1, T2 y FLAIR pueden tardar horas en mostrar cambios",
+                "guid": "-6jSwubNtVweWERC6Ag93Q",
+                "children": []
+              },
+              {
+                "id": "127",
+                "parent": "120",
+                "text": "• “HARM” (hyperintense acute reperfusion marker) en FLAIR postcontraste\n→ reperfusión + riesgo de transformación hemorrágica",
+                "guid": "ertg2oaIvpcNLuudJZzmuw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "128",
+            "parent": "116",
+            "text": "→ ACV\nHemorrágico",
+            "guid": "5sDxZPnfjAhlS6vWMHFiHA",
+            "children": [
+              {
+                "id": "129",
+                "parent": "128",
+                "text": "• Apariencia en RM varía\nsegún edad del hematoma",
+                "guid": "VNKvglLm-OQMcuopGKxsrg",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "– < 24 h (hiperagudo) → OxiHb; T1 isointenso, T2 brillante",
+                    "guid": "TXCm9O4oScF1YsgZ1WhKsQ",
+                    "children": []
+                  },
+                  {
+                    "id": "131",
+                    "parent": "129",
+                    "text": "– 1-3 d (agudo) → DeoxiHb; T1 isointenso, T2 oscuro",
+                    "guid": "igVURfBNPJA2JYTxftbB2g",
+                    "children": []
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "– > 3 d (subagudo temprano) → MetHb intracel.; T1 brillante, T2 oscuro",
+                    "guid": "eWc5Gnb2udfXS-i7YvTHIg",
+                    "children": []
+                  },
+                  {
+                    "id": "133",
+                    "parent": "129",
+                    "text": "– > 7 d (subagudo tardío) → MetHb extracel.; T1 brillante, T2 brillante",
+                    "guid": "6lUeVybJak2scC4jpnpA-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "129",
+                    "text": "– > 14 d (crónico) → Hemosiderina; T1 oscuro, T2 oscuro",
+                    "guid": "_zrKrOnGwRx_uggLpKyuSg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "135",
+                "parent": "128",
+                "text": "• FLAIR puede detectar hemorragias subaracnoideas o subdurales",
+                "guid": "6AUnSKQEA09s9Z_wH4_Wmw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "136",
+        "parent": "0",
+        "text": "Angiografía por\nRM (MRA)",
+        "guid": "ucJi_gcW4XiztERG676xrA",
+        "children": [
+          {
+            "id": "137",
+            "parent": "136",
+            "text": "→ Recomendaciones",
+            "guid": "_uuzrzwb6r1zfgxGtLJRXw",
+            "children": [
+              {
+                "id": "138",
+                "parent": "137",
+                "text": "• MRA o CTA inicial en candidatos a terapia endovascular o con HIC confirmada",
+                "guid": "ka6lEtF3-jlublUy0hY_uQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "139",
+            "parent": "136",
+            "text": "→ Utilidad",
+            "guid": "hiqq46vnA9jWWskbf3fybA",
+            "children": [
+              {
+                "id": "140",
+                "parent": "139",
+                "text": "• Detecta estenosis, oclusiones, disecciones",
+                "guid": "bBSfvnvV45FagmDJ_QRDug",
+                "children": []
+              },
+              {
+                "id": "141",
+                "parent": "139",
+                "text": "• Modalidades\nfrecuentes:",
+                "guid": "WMkBwOenvD-GgBYS7NjR3w",
+                "children": [
+                  {
+                    "id": "142",
+                    "parent": "141",
+                    "text": "– MRA con contraste\n(gadolinio)",
+                    "guid": "iBrdYONpTju303alzADadA",
+                    "children": [
+                      {
+                        "id": "143",
+                        "parent": "142",
+                        "text": "▸ Corto T1 (< 10 ms), vasos opacos hiperintensos",
+                        "guid": "fO9ZQFqken4KQMJTWDmqLA",
+                        "children": []
+                      },
+                      {
+                        "id": "144",
+                        "parent": "142",
+                        "text": "▸ Requiere coordinación exacta con la inyección",
+                        "guid": "LY_hvbFgjJDrdD-tqn2kcw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "145",
+                    "parent": "141",
+                    "text": "– MRA sin contraste\n(TOF, phase contrast)",
+                    "guid": "s_2WTrkOj6VRrDtnpkt_9Q",
+                    "children": [
+                      {
+                        "id": "146",
+                        "parent": "145",
+                        "text": "▸ TOF (time of flight)",
+                        "guid": "A5Lq_qm1zvwPgRnJUdTXzw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "147",
+                "parent": "139",
+                "text": "• Secuencia gradient echo",
+                "guid": "3EtCzIRc-k5kfNdJPpjIyQ",
+                "children": []
+              },
+              {
+                "id": "148",
+                "parent": "139",
+                "text": "• Mejor visualización de vasos cervicales vs. phase contrast",
+                "guid": "VQQLxUj54GXubJqx2O7MnA",
+                "children": []
+              },
+              {
+                "id": "149",
+                "parent": "139",
+                "text": "• Menor tiempo de adquisición",
+                "guid": "nSRIGFlJlkYcQ2E4fWQblw",
+                "children": []
+              },
+              {
+                "id": "150",
+                "parent": "139",
+                "text": "• 3D TOF: mejor resolución pero\nmás sensible a saturación",
+                "guid": "WTMYvD-7Oo0rvc2FgGtrZw",
+                "children": [
+                  {
+                    "id": "151",
+                    "parent": "150",
+                    "text": "▸ Phase contrast MRA",
+                    "guid": "3tu7dKiiqlhHyCpBsj8bEA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "152",
+                "parent": "139",
+                "text": "• Secuencia con alternancia de fase/refase",
+                "guid": "1HhZYGXW8jh1w_WJHFYbUQ",
+                "children": []
+              },
+              {
+                "id": "153",
+                "parent": "139",
+                "text": "• Mejor para flujos lentos o disección",
+                "guid": "5q02xx03r5q9AxZkKF5fqg",
+                "children": []
+              },
+              {
+                "id": "154",
+                "parent": "139",
+                "text": "• Útil incluso\ntras gadolinio",
+                "guid": "E9YcL2YAFQFk7cLWhJCXXw",
+                "children": [
+                  {
+                    "id": "155",
+                    "parent": "154",
+                    "text": "– “Black-blood” /\nsaturación espacial",
+                    "guid": "eeqaVw14fu_FKnIXI01Dyw",
+                    "children": [
+                      {
+                        "id": "156",
+                        "parent": "155",
+                        "text": "▸ Señal de lumen baja → más claridad de pared\n(depósitos lipídicos, fibrina, calcio, trombo)",
+                        "guid": "4eJ-ZW8-dFmgnOr0v7SIFQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "157",
+            "parent": "136",
+            "text": "→ MR\nVenografía",
+            "guid": "eFHQEE9UcScLlkDdEKEvbA",
+            "children": [
+              {
+                "id": "158",
+                "parent": "157",
+                "text": "• Sospecha de trombosis del seno sagital o venoso cerebral",
+                "guid": "fKCE3gRy8GAHzttgMDakYA",
+                "children": []
+              },
+              {
+                "id": "159",
+                "parent": "157",
+                "text": "• CTA o MRA pueden detectar malformaciones vasculares intracraneales en HIC",
+                "guid": "MzV53TFgzIwY8QPK-dCR3A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "160",
+        "parent": "0",
+        "text": "Resonancia Magnética\ncon Difusión (DWI)",
+        "guid": "D8bO9mvlqb1xt0g8wA7iWA",
+        "children": [
+          {
+            "id": "161",
+            "parent": "160",
+            "text": "→ Indicaciones",
+            "guid": "FI7_3sBUweFyyST8MzU-zQ",
+            "children": [
+              {
+                "id": "162",
+                "parent": "161",
+                "text": "• Ayuda a caracterizar ACV isquémico → elegibilidad p/ trombólisis o terapia endovascular",
+                "guid": "RL6vr4F5H6Xf8nyC-_k7Eg",
+                "children": []
+              },
+              {
+                "id": "163",
+                "parent": "161",
+                "text": "• No retrasar trombólisis IV si el paciente es candidato",
+                "guid": "-Ba-mB7Nk9Sj9OTB7dQ6cg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "164",
+            "parent": "160",
+            "text": "→ Hallazgos en\nACV Isquémico",
+            "guid": "J2Gxi4eyCMHIRoD1MI0ZvQ",
+            "children": [
+              {
+                "id": "165",
+                "parent": "164",
+                "text": "• Detección en minutos tras inicio → lesión hiperintensa (brillante) por restricción de difusión",
+                "guid": "OutrTLqCMPrg5aACR7OBSQ",
+                "children": []
+              },
+              {
+                "id": "166",
+                "parent": "164",
+                "text": "• Máxima intensidad ~40 h, retorna a normalidad en semanas",
+                "guid": "AdAsmqWXo-h5xG_aOLkg4Q",
+                "children": []
+              },
+              {
+                "id": "167",
+                "parent": "164",
+                "text": "• Sensibilidad 88%-100%, especificidad 95%-100%",
+                "guid": "-MsXC3o3i7XdMyUkt6YtIQ",
+                "children": []
+              },
+              {
+                "id": "168",
+                "parent": "164",
+                "text": "• ADC (apparent diffusion coefficient)\nayuda a distinguir:",
+                "guid": "TFGjLMML9QBzkAEc4iYUAw",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "– Restricción verdadera → brillante en DWI y T2, oscuro en ADC",
+                    "guid": "JrgB297Gtk98y_o2iQrU2A",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "– “T2 shine through” → brillante en DWI y T2, brillante en ADC",
+                    "guid": "3jy0hsB0GRKwHfChLZ4xxw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "171",
+        "parent": "0",
+        "text": "Resonancia Magnética\nde Perfusión (MRP)",
+        "guid": "ygcP_JrDBooA5Mwd1A4Q4g",
+        "children": [
+          {
+            "id": "172",
+            "parent": "171",
+            "text": "→ Utilidad",
+            "guid": "eNh_-C7Kwn3lDTcE0bFN5A",
+            "children": [
+              {
+                "id": "173",
+                "parent": "172",
+                "text": "• Profundiza caracterización de ACV isquémico → elegibilidad p/ trombólisis y terapia endovascular",
+                "guid": "0OikU273-kaW0s7ryLafgw",
+                "children": []
+              },
+              {
+                "id": "174",
+                "parent": "172",
+                "text": "• No retrasar trombólisis IV si el paciente es candidato",
+                "guid": "4LdUe27x_a_yV7kkNTAbMQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "175",
+            "parent": "171",
+            "text": "→ MRP / Perfusión\nPonderada (PWI)",
+            "guid": "5FMveaGsTw68tCO3hscXpw",
+            "children": [
+              {
+                "id": "176",
+                "parent": "175",
+                "text": "• Parámetros calculados\n(valores relativos en general):",
+                "guid": "hXZ4iUZtw-ZbsQq0CIka2Q",
+                "children": [
+                  {
+                    "id": "177",
+                    "parent": "176",
+                    "text": "– rCBF (flujo)",
+                    "guid": "dgJFa61722DrbxX-v4cIlg",
+                    "children": []
+                  },
+                  {
+                    "id": "178",
+                    "parent": "176",
+                    "text": "– rCBV (volumen)",
+                    "guid": "3ADCUJHeuzotf5_sNmrdmw",
+                    "children": []
+                  },
+                  {
+                    "id": "179",
+                    "parent": "176",
+                    "text": "– Tmax (tiempo hasta máx función de residuo)",
+                    "guid": "t4X4al79snpQAJxaz9xzxQ",
+                    "children": []
+                  },
+                  {
+                    "id": "180",
+                    "parent": "176",
+                    "text": "– MTT (tiempo medio de tránsito)",
+                    "guid": "cRV9zd2eejR68w2tjaXIaA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "181",
+                "parent": "175",
+                "text": "• MRP con contraste → bolo de gadolinio + secuencias T2 (susceptibilidad)",
+                "guid": "cxrMyNFo3y9qJeVj7crgtg",
+                "children": []
+              },
+              {
+                "id": "182",
+                "parent": "175",
+                "text": "• MRP sin contraste → “arterial spin labeling”",
+                "guid": "xkmGhqAe2qHnGpQe6tnKVA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "183",
+            "parent": "171",
+            "text": "→ Comparaciones",
+            "guid": "VQA-bT2FPmf__KyY2LUopw",
+            "children": [
+              {
+                "id": "184",
+                "parent": "183",
+                "text": "• CTP (perfusión por TC) más accesible pero con radiación",
+                "guid": "J7HAmJCpSIoBvrvjhO7fgg",
+                "children": []
+              },
+              {
+                "id": "185",
+                "parent": "183",
+                "text": "• MRP (ASL) y MRP (contraste) pueden correlacionar bien en evaluación de penumbra",
+                "guid": "m_-LogkvZU_NmyWJB-vGhw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "186",
+        "parent": "0",
+        "text": "Resonancia Magnética\npara Pronóstico",
+        "guid": "jN6kK5OxsOp9b2AoxtnHVQ",
+        "children": [
+          {
+            "id": "187",
+            "parent": "186",
+            "text": "→ Estudios\nprincipales:",
+            "guid": "_fRMGLIhd-vhBJ_77Ud3CA",
+            "children": [
+              {
+                "id": "188",
+                "parent": "187",
+                "text": "• ASPECTS en DWI → predice desenlaces en ACV",
+                "guid": "sb0MuDbHG_pBjOI_tdsczg",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "187",
+                "text": "• Mayor volumen de núcleo isquémico (en DWI) → menor probabilidad de independencia funcional a 90 días",
+                "guid": "5CQf9HY_03P5zBm1aoKgBA",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "187",
+                "text": "• En ACV no discapacitante, la presencia de lesión en DWI → riesgo de recurrencia (ACV o AIT) similar al de ausencia de lesión a 1 año",
+                "guid": "51K0xDR2Mh57M-J4l41s9w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "191",
+        "parent": "0",
+        "text": "Rendimiento Diagnóstico\nde RM vs. TC",
+        "guid": "jKGgzuhPMra5CxNGGrMqKQ",
+        "children": [
+          {
+            "id": "192",
+            "parent": "191",
+            "text": "→ Recomendación\ngeneral",
+            "guid": "eyuxXF9OYwr3hQoqVga7xQ",
+            "children": [
+              {
+                "id": "193",
+                "parent": "192",
+                "text": "• TC sin contraste o RM urgente p/ evaluar ACV (isquémico vs. hemorrágico)",
+                "guid": "ENbsUmYfZO90m13KUztGwQ",
+                "children": []
+              },
+              {
+                "id": "194",
+                "parent": "192",
+                "text": "• Frecuentemente se prefiere TC inicial por rapidez + disponibilidad",
+                "guid": "L_afXO9pdCmR-daFbn3tsQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "195",
+            "parent": "191",
+            "text": "→ Comparación\nRM vs. TC",
+            "guid": "2zemKcUWB1QENKkZJTWLkg",
+            "children": [
+              {
+                "id": "196",
+                "parent": "195",
+                "text": "• RM puede ser + sensible que TC p/ diagnosticar ACV isquémico",
+                "guid": "TqFgyt0n-tRapsjvEowR6A",
+                "children": []
+              },
+              {
+                "id": "197",
+                "parent": "195",
+                "text": "• RM puede ser tan precisa como TC para detectar hemorragia intracerebral aguda",
+                "guid": "c44qRVZcMhH0mbfgeBaFoQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "198",
+        "parent": "0",
+        "text": "Ultrasonografía",
+        "guid": "YM1xJjpi1AnEFwQSfXKZbw",
+        "children": [
+          {
+            "id": "199",
+            "parent": "198",
+            "text": "→ Ventajas",
+            "guid": "2cWsMJXBbpqSviF83Tf_sw",
+            "children": [
+              {
+                "id": "200",
+                "parent": "199",
+                "text": "• No invasiva, en tiempo real, sin radiación ni contraste",
+                "guid": "6JEEWbY72OQm_4yOjrw5jw",
+                "children": []
+              },
+              {
+                "id": "201",
+                "parent": "199",
+                "text": "• Tipos: Duplex y Doppler transcraneal (TCD)",
+                "guid": "miqxjOar20stOcgoK6TWmw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "202",
+            "parent": "198",
+            "text": "→ Usos",
+            "guid": "35Zhv7hchmUCGWt1Oqk__w",
+            "children": [
+              {
+                "id": "203",
+                "parent": "202",
+                "text": "• Evaluación de estenosis u oclusión (intracraneal/carótida) → potencial etiología de ACV isquémico",
+                "guid": "FQVSIcnlXdecEW_F6qPxwg",
+                "children": []
+              },
+              {
+                "id": "204",
+                "parent": "202",
+                "text": "• Seguimiento de progresión de enfermedad",
+                "guid": "KJSWllNVurHpfVOG7GmX3Q",
+                "children": []
+              },
+              {
+                "id": "205",
+                "parent": "202",
+                "text": "• Alta sensibilidad y especificidad para estenosis/oclusión intracraneal en ACV agudo (TCD o TCCD)",
+                "guid": "Ceg1eFWXjTUnmJb0RMKsmA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "206",
+        "parent": "0",
+        "text": "Otras Modalidades\nde Neuroimagen",
+        "guid": "1p44lYq8_Gzc5v5QE6RmZA",
+        "children": [
+          {
+            "id": "207",
+            "parent": "206",
+            "text": "→ Angiografía por\nSustracción Digital (DSA)",
+            "guid": "T_SUAankcJHgwp66E_Kb4w",
+            "children": [
+              {
+                "id": "208",
+                "parent": "207",
+                "text": "• Técnica de referencia p/ imagen luminal (alta resolución espacial y temporal)",
+                "guid": "RFl0ycmalCi9nAwOEcpdgg",
+                "children": []
+              },
+              {
+                "id": "209",
+                "parent": "207",
+                "text": "• Útil en dx y caracterización de lesiones → revascularización, angioplastía, stent, coil",
+                "guid": "cg3MQSw4nbBa5cD0sgMTOQ",
+                "children": []
+              },
+              {
+                "id": "210",
+                "parent": "207",
+                "text": "• Riesgos potenciales: ACV (~1%), disección, complicaciones en sitio de punción, nefropatía por yodo",
+                "guid": "SQEv6RzQhx5BGoaeyXIaNQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "211",
+            "parent": "206",
+            "text": "→ Tomografía de\nCoherencia Óptica (OCT)",
+            "guid": "7Jm27mtSYCICn_rds5M3uA",
+            "children": [
+              {
+                "id": "212",
+                "parent": "211",
+                "text": "• Visualiza características de vasos (aterosclerosis, disección, estenosis, trombosis, etc.)",
+                "guid": "TQvOA79_mARf1uAY2LaZtA",
+                "children": []
+              },
+              {
+                "id": "213",
+                "parent": "211",
+                "text": "• Mayor resolución que ultrasonido",
+                "guid": "GWznm71CUhA_es_7XLaSZg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "214",
+            "parent": "206",
+            "text": "→ PET y SPECT",
+            "guid": "DApWST_llKYzATDiiAWyaQ",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "• Herramientas de investigación",
+                "guid": "NCzpfaoKo3q9ekPBv8a5fA",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "214",
+                "text": "• Profundizan en fisiopatología de áreas isquémicas (tejido irreversible, aterosclerosis, inflamación post-ACV, reperfusión)",
+                "guid": "W0dPaBaYo8emopa9cfNloA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 217,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Neurología",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Neuroimagenes en Ictus-2025-1",
+  "id": "map_1590",
+  "resolved_references": []
+}

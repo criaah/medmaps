@@ -1,0 +1,77 @@
+{
+  "title": "TTM-2013",
+  "guid": "21173cf1-d9a7-4f9d-9e54-3ac4ca1ed1e4",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/TTM-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "TTM (2013)\nTargeted Temperature Management\n\\n33C vs 36C post paro cardiaco:\\nNO diferencia en mortalidad ni neurologico\\n36C es tan efectivo y mas seguro",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nNielsen N, et al.\\nN Engl J Med 2013;369:2197-206\nDOI: 10.1056/NEJMoa1310519\n\\nRCT multicentrico\\n36 UCIs, Europa y Australia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=950\\nAdultos post paro cardiaco extrahospitalario\\n\\nCriterios:\\n- Ritmo inicial cualquiera\\n- Coma al ingreso (GCS menor 8)\\n- Circulacion espontanea restaurada\\n\\nEdad media: 64 años\\n80% FV/TV inicial\\nSeguimiento: 180 dias",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\n33C (hipotermia) vs 36C (normotermia)\\npor 28 horas\\n\\nRecalentamiento gradual 0.5C/hora\\nEvitar fiebre hasta 72h",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nMortalidad 180 dias:\\n33C: 50%\\n36C: 48%\\nHR 1.06 (IC95% 0.89-1.28)\\np=0.51 - NO SIGNIFICATIVO\n\\nOutcome neurologico pobre (CPC 3-5):\\n33C: 54%\\n36C: 52%\\nRR 1.02 (IC95% 0.88-1.16)\\np=0.78 - NO SIGNIFICATIVO",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\n33C vs 36C:\\n- Hipokalemia: 19% vs 13%\\n- Bradicardia: frecuente en 33C\\n- Arritmias: similar\\n- Sangrado: similar\\n- Sepsis: similar\\n\\n36C mas facil de lograr y mantener",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Mayoria FV/TV (ritmo shockeable)\\n- No incluyo control sin enfriamiento\\n- Definicion outcome neurologico variable\\n- Centros con alta expertise\\n- Sesgo supervivencia",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Ancianos: mayor riesgo hipotermia profunda\\n- 36C es MAS seguro en fragiles\\n- Evitar fiebre es clave (si mayor 37.5C)\\n- Decisiones pronostico no antes de 72h\\n- Considerar comorbilidades previas\\n- Discutir metas con familia temprano",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. 33C NO es superior a 36C\\n2. Evitar fiebre es lo esencial\\n3. 36C mas facil de implementar\\n4. Menos complicaciones con 36C\\n5. Ambos requieren control activo temperatura\\n6. Pronostico neurologico NO antes de 72h\\n7. Ancianos: preferir 36C por seguridad\\n8. Recalentamiento lento (0.25-0.5C/h)\\n9. TTM2 posterior sugirio incluso normotermia\\n10. Control fiebre: meta universal post-paro",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "TTM-2026",
+  "id": "map_331",
+  "resolved_references": []
+}

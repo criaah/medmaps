@@ -1,0 +1,145 @@
+{
+  "title": "ICE-FRAIL (2024)",
+  "guid": "ICE-FRAIL-2024",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/ICE-FRAIL-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ICE-FRAIL (2024)\n\\n⭐ Fragilidad predice mortalidad UCI\n\\nCFS mejor que APACHE/SOFA solos",
+    "guid": "ICE-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACIÓN",
+        "guid": "ICE-ID",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Intensive Care Unit Frailty Study\nColaboración internacional",
+            "guid": "ICE-ID1",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "Lancet Healthy Longevity 2024\nEstudio observacional multicéntrico",
+            "guid": "ICE-ID2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 CLINICAL FRAILTY SCALE",
+        "guid": "ICE-CFS",
+        "children": [
+          {
+            "id": "5",
+            "parent": "4",
+            "text": "CFS 1-3: Robusto/Fit\nCFS 4: Vulnerable\nCFS 5-6: Frágil leve-moderado\nCFS 7-9: Frágil severo",
+            "guid": "ICE-CFS1",
+            "children": []
+          },
+          {
+            "id": "6",
+            "parent": "4",
+            "text": "Evaluar estado PREVIO\n(2 semanas antes del evento agudo)",
+            "guid": "ICE-CFS2",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "4",
+            "text": "CFS ≥5 = FRÁGIL\nUmbral para decisiones clínicas",
+            "guid": "ICE-CFS3",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "📈 HALLAZGOS PRINCIPALES",
+        "guid": "ICE-HALL",
+        "children": [
+          {
+            "id": "9",
+            "parent": "8",
+            "text": "CFS predice mortalidad ⭐\\nCFS ≥5: OR muerte 1.8-2.5x\\nGradiente dosis-respuesta",
+            "guid": "ICE-H1",
+            "children": []
+          },
+          {
+            "id": "10",
+            "parent": "8",
+            "text": "Mortalidad por CFS:\\nCFS 1-3: ~15-20%\\nCFS 5-6: ~35-45%\\nCFS 7-9: ~50-60%",
+            "guid": "ICE-H2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "parent": "0",
+        "text": "🎯 IMPLICANCIAS",
+        "guid": "ICE-IMP",
+        "children": [
+          {
+            "id": "12",
+            "parent": "11",
+            "text": "CFS debe medirse en TODO\\npaciente ≥65 al ingreso UCI",
+            "guid": "ICE-I1",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "11",
+            "text": "NO es discriminación por edad\\nEvalúa reserva funcional\\nRobusto 80 ≠ Frágil 70",
+            "guid": "ICE-I2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "parent": "0",
+        "text": "💎 PERLAS CLÍNICAS",
+        "guid": "ICE-PERLAS",
+        "children": [
+          {
+            "id": "15",
+            "parent": "14",
+            "text": "1. CFS toma 30 segundos",
+            "guid": "ICE-P1",
+            "children": []
+          },
+          {
+            "id": "16",
+            "parent": "14",
+            "text": "2. CFS es MODIFICABLE\\nRehabilitación puede mejorar",
+            "guid": "ICE-P2",
+            "children": []
+          },
+          {
+            "id": "17",
+            "parent": "14",
+            "text": "3. No usar para NEGAR cuidados\\nUsar para INFORMAR discusiones",
+            "guid": "ICE-P3",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 18,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "ICE-FRAIL-2026",
+  "id": "map_6",
+  "resolved_references": []
+}

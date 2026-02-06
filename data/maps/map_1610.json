@@ -1,0 +1,2214 @@
+{
+  "title": "Manejo HAND",
+  "guid": "AB164C658DD7CDE744F41F04",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Neurología/Manejo HAND-2025.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "Manejo\nHAND",
+    "guid": "xd-FcSmm-AnA0aK5k4QwVA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## 1. Definición y\nClasificación",
+        "guid": "",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "Los trastornos neurocognitivos asociados al VIH\n(HAND) constituyen un espectro de alteraciones\ncognitivas, motoras y conductuales causadas\ndirectamente por la infección por VIH. Se clasifican en\ntres categorías según su gravedad:",
+            "guid": "OMLP9DwmBTcn97YjL4-avw",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "### 1.1. Tipos de HAND",
+            "guid": "VmkEBYEKK5Ezch6aV1hAnA",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "- **Deterioro Neurocognitivo\nAsintomático (ANI)**:",
+                "guid": "_ZfMwgy2fw5y23rOEm0hRA",
+                "children": [
+                  {
+                    "id": "5",
+                    "parent": "4",
+                    "text": "- Alteración en ≥2\ndominios cognitivos",
+                    "guid": "hu9EcubMoDZzgFAqcbByeg",
+                    "children": []
+                  },
+                  {
+                    "id": "6",
+                    "parent": "4",
+                    "text": "- No interfiere con\nactividades diarias",
+                    "guid": "aD2V_E7GwlOFPnh3nHW1OA",
+                    "children": []
+                  },
+                  {
+                    "id": "7",
+                    "parent": "4",
+                    "text": "- Documentado por rendimiento ≥1\ndesviación estándar bajo la media en\npruebas estandarizadas",
+                    "guid": "vZUpC9AHgwnJDnggzqVI6g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "8",
+                "parent": "3",
+                "text": "- **Trastorno\nNeurocognitivo Leve\n(MND)**:",
+                "guid": "Spy60tPCasaAZKwaIgAodA",
+                "children": [
+                  {
+                    "id": "9",
+                    "parent": "8",
+                    "text": "- Alteración en ≥2\ndominios cognitivos",
+                    "guid": "hbcmGtDKWfTTooim5-MnpA",
+                    "children": []
+                  },
+                  {
+                    "id": "10",
+                    "parent": "8",
+                    "text": "- Interfiere levemente con\nactividades diarias",
+                    "guid": "OBpgiKS_vFBlPzpb88-XwQ",
+                    "children": []
+                  },
+                  {
+                    "id": "11",
+                    "parent": "8",
+                    "text": "- Documentado por rendimiento ≥1\ndesviación estándar bajo la media",
+                    "guid": "as9trNgdOZWf0EqY_lG7RQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "12",
+                "parent": "3",
+                "text": "- **Demencia Asociada\nal VIH (HAD)**:",
+                "guid": "fAzdsXkpSqsA1yF9cNq4hQ",
+                "children": [
+                  {
+                    "id": "13",
+                    "parent": "12",
+                    "text": "- Alteración severa en ≥2\ndominios cognitivos",
+                    "guid": "wOn8JpBXV2bIwjDWcSzrFw",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "12",
+                    "text": "- Interfiere marcadamente\ncon actividades diarias",
+                    "guid": "KaWDnsmp6TefU7Ma6OywFA",
+                    "children": []
+                  },
+                  {
+                    "id": "15",
+                    "parent": "12",
+                    "text": "- Documentado por rendimiento ≥2\ndesviaciones estándar bajo la media",
+                    "guid": "IXNOq-cw0erYV3Bcmdtk3A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "16",
+        "parent": "0",
+        "text": "## 2. Epidemiología y\nFactores de Riesgo",
+        "guid": "",
+        "children": [
+          {
+            "id": "17",
+            "parent": "16",
+            "text": "### 2.1. Prevalencia",
+            "guid": "ea8Aqmu1RUsuV6OOr77tBQ",
+            "children": [
+              {
+                "id": "18",
+                "parent": "17",
+                "text": "- 46.5% de personas con VIH\npresentan alguna forma de HAND",
+                "guid": "u4btczuG0i5UMEZ0LwB16Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "parent": "16",
+            "text": "- Distribución:",
+            "guid": "1aIna4V6vvuuiqN1rzdg8g",
+            "children": [
+              {
+                "id": "20",
+                "parent": "19",
+                "text": "- 69.7% ANI",
+                "guid": "0pfCLsLJeTgzMr3AlTtysw",
+                "children": []
+              },
+              {
+                "id": "21",
+                "parent": "19",
+                "text": "- 25.1% MND",
+                "guid": "zJpcfAhyPPAdi2iq1L2Wbg",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "19",
+                "text": "- 5.2% HAD",
+                "guid": "AB1zLxXD_fPYRARThbVUvw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "23",
+            "parent": "16",
+            "text": "### 2.2.\nFactores de\nRiesgo",
+            "guid": "XhnANKJZ2dpxsOWMTTuo7Q",
+            "children": [
+              {
+                "id": "24",
+                "parent": "23",
+                "text": "- **Relacionados\ncon VIH**:",
+                "guid": "b57msHAgUde72qFxBhnhGA",
+                "children": [
+                  {
+                    "id": "25",
+                    "parent": "24",
+                    "text": "- Nadir bajo de CD4+\n(<200 células/μL)",
+                    "guid": "lYIo6NGNonP42mKe9SbvTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "26",
+                    "parent": "24",
+                    "text": "- Carga viral alta en\nplasma o LCR",
+                    "guid": "_lNrGX4vfaATzpd5LobiKA",
+                    "children": []
+                  },
+                  {
+                    "id": "27",
+                    "parent": "24",
+                    "text": "- Historia de enfermedades\ndefinitorias de SIDA",
+                    "guid": "KD3qAF__dnm8v_rO9GnPyw",
+                    "children": []
+                  },
+                  {
+                    "id": "28",
+                    "parent": "24",
+                    "text": "- Mayor duración\nde la infección",
+                    "guid": "z1GIKXNYk7LUBPcxdbyBhA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "29",
+                "parent": "23",
+                "text": "- **Demográficos**:",
+                "guid": "sIdalmFqvYUPIDmVI6TCnA",
+                "children": [
+                  {
+                    "id": "30",
+                    "parent": "29",
+                    "text": "- Edad avanzada",
+                    "guid": "6WGW0yn5KFS0RMm0Ep6KUA",
+                    "children": []
+                  },
+                  {
+                    "id": "31",
+                    "parent": "29",
+                    "text": "- Menor nivel educativo",
+                    "guid": "oYqxBqKjg7VZDbQ0h4iiqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "32",
+                    "parent": "29",
+                    "text": "- Sexo femenino",
+                    "guid": "SpppbZ0GTAymnWJW-1jsDA",
+                    "children": []
+                  },
+                  {
+                    "id": "33",
+                    "parent": "29",
+                    "text": "- Pobreza o acceso limitado\na atención médica",
+                    "guid": "H34ZFCBykT1gbLrjDEDC2w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "34",
+                "parent": "23",
+                "text": "- **Comorbilidades**:",
+                "guid": "Yjp88rzp8bYJU96KXD597A",
+                "children": [
+                  {
+                    "id": "35",
+                    "parent": "34",
+                    "text": "- Factores de\nriesgo vascular",
+                    "guid": "TuDYHtTe_OJYBCJM0uMf7Q",
+                    "children": []
+                  },
+                  {
+                    "id": "36",
+                    "parent": "34",
+                    "text": "- Coinfección por\nhepatitis C",
+                    "guid": "EY7MfTJsNFtP09EgrUBjSQ",
+                    "children": []
+                  },
+                  {
+                    "id": "37",
+                    "parent": "34",
+                    "text": "- Trastornos del sueño",
+                    "guid": "lwKr8nnXw6xpiXpPoysXDw",
+                    "children": []
+                  },
+                  {
+                    "id": "38",
+                    "parent": "34",
+                    "text": "- Condiciones\npsiquiátricas",
+                    "guid": "Ug-qG6Zy7n1lUlYPWQvAWg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "39",
+        "parent": "0",
+        "text": "## 3. Diagnóstico",
+        "guid": "CIRhwXT70Sy2g3bvO4hJtg",
+        "children": [
+          {
+            "id": "40",
+            "parent": "39",
+            "text": "### 3.1. Evaluación\nClínica Integral",
+            "guid": "-DkyBPotGERTQ1f70Do5dg",
+            "children": [
+              {
+                "id": "41",
+                "parent": "40",
+                "text": "#### 3.1.1.\nHistoria Médica",
+                "guid": "IsvNA9yhQdOuATmwAANy_g",
+                "children": [
+                  {
+                    "id": "42",
+                    "parent": "41",
+                    "text": "- Evaluación de la\nseveridad de los síntomas",
+                    "guid": "zw2brljWSwW6_h4QnVnmQg",
+                    "children": []
+                  },
+                  {
+                    "id": "43",
+                    "parent": "41",
+                    "text": "- Momento de inicio\nde los síntomas",
+                    "guid": "n-TLnkKheEEO4zAmB8IfFw",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "41",
+                    "text": "- Valoración de\naspectos de seguridad",
+                    "guid": "OXCVOPz6dz9FlGciojCK2w",
+                    "children": []
+                  },
+                  {
+                    "id": "45",
+                    "parent": "41",
+                    "text": "- Obtención de información colateral\nde familiares/cuidadores",
+                    "guid": "UeWGOwb1NhlmB7ItTXAIAg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "46",
+                "parent": "40",
+                "text": "#### 3.1.2. Factores\nPrimarios y Contribuyentes",
+                "guid": "5HUyVJkUoo1JnPmNM_Zgqw",
+                "children": [
+                  {
+                    "id": "47",
+                    "parent": "46",
+                    "text": "- **Aspectos\nFarmacológicos**:",
+                    "guid": "FU5tA6E0Ei0PXZxE1O1y9Q",
+                    "children": [
+                      {
+                        "id": "48",
+                        "parent": "47",
+                        "text": "- Polifarmacia",
+                        "guid": "OVzJ_lf4zP1QJD6auuU3AQ",
+                        "children": []
+                      },
+                      {
+                        "id": "49",
+                        "parent": "47",
+                        "text": "- Historial de\nadherencia al TAR",
+                        "guid": "d8zxkG1biWQ1GyXdq9Q-kQ",
+                        "children": []
+                      },
+                      {
+                        "id": "50",
+                        "parent": "47",
+                        "text": "- Tipo de TAR y\nresistencias previas",
+                        "guid": "iqPdg03W9VAvvI3AbgbyNg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "51",
+                    "parent": "46",
+                    "text": "- **Condiciones\nMédicas**:",
+                    "guid": "pHFlr8CIDIwilmYEtdC95Q",
+                    "children": [
+                      {
+                        "id": "52",
+                        "parent": "51",
+                        "text": "- Historia de VIH (nadir CD4, HABI,\ninfecciones previas del SNC)",
+                        "guid": "hokeUQIur9dGFQv3G7ouWg",
+                        "children": []
+                      },
+                      {
+                        "id": "53",
+                        "parent": "51",
+                        "text": "- Factores de riesgo\ncardiovascular:",
+                        "guid": "IRCcfaLT--edv-lo_hWRww",
+                        "children": []
+                      },
+                      {
+                        "id": "54",
+                        "parent": "51",
+                        "text": "- Hipertensión",
+                        "guid": "B1NUPb-N3SqGQ3j1z7TOVQ",
+                        "children": []
+                      },
+                      {
+                        "id": "55",
+                        "parent": "51",
+                        "text": "- Hipercolesterolemia",
+                        "guid": "goCovs4UI9wOZBCilrklpQ",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "51",
+                        "text": "- Historia de tabaquismo",
+                        "guid": "yfU44w9dOaF2zefdCY6-QQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "57",
+                    "parent": "46",
+                    "text": "- **Salud Mental y\nConducta**:",
+                    "guid": "lsiKRn4GONldxkUtaYbLBA",
+                    "children": [
+                      {
+                        "id": "58",
+                        "parent": "57",
+                        "text": "- Evaluación de\nsalud mental",
+                        "guid": "uZGUDiwc1Zteb0SwU-Z4iA",
+                        "children": []
+                      },
+                      {
+                        "id": "59",
+                        "parent": "57",
+                        "text": "- Uso actual o\nhistórico de\nsustancias",
+                        "guid": "LHxGk8ZCyG7hoNq1g94vgw",
+                        "children": []
+                      },
+                      {
+                        "id": "60",
+                        "parent": "57",
+                        "text": "- Patrones de sueño",
+                        "guid": "mAcIai1pSgDxLx50Yba8nw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "61",
+                "parent": "40",
+                "text": "#### 3.1.3. Examen\nFísico General",
+                "guid": "mq-eezbmr1Vt5JodSvFetA",
+                "children": [
+                  {
+                    "id": "62",
+                    "parent": "61",
+                    "text": "- Identificación de déficits neurológicos\nindicativos de patología cerebral",
+                    "guid": "mdI0A4CpxqVFvY6caEKY0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "63",
+                    "parent": "61",
+                    "text": "- Evaluación de signos de demencia\nbasados en criterios diagnósticos",
+                    "guid": "CDNepScicrePpsLVtXVXYA",
+                    "children": []
+                  },
+                  {
+                    "id": "64",
+                    "parent": "61",
+                    "text": "- Severidad del\ndeterioro cognitivo",
+                    "guid": "JUqBFHbcrcSwLjds1yynQw",
+                    "children": []
+                  },
+                  {
+                    "id": "65",
+                    "parent": "61",
+                    "text": "- Valoración de\napnea del sueño",
+                    "guid": "o9xr5_4v3hVy5J50k4VgIA",
+                    "children": []
+                  },
+                  {
+                    "id": "66",
+                    "parent": "61",
+                    "text": "- Problemas visuales",
+                    "guid": "wbm_BCgP3OegaFBiZO0zmg",
+                    "children": []
+                  },
+                  {
+                    "id": "67",
+                    "parent": "61",
+                    "text": "- Otras condiciones clínicas que\npuedan exacerbar los síntomas",
+                    "guid": "SO7uidYISujGes-QVEASnQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "68",
+                "parent": "40",
+                "text": "#### 3.1.4.\nEvaluación\nCognitiva",
+                "guid": "6_0gBCYEs6E0OguD17oMYA",
+                "children": [
+                  {
+                    "id": "69",
+                    "parent": "68",
+                    "text": "- Evaluación de funciones\ncognitivas en ≥5 dominios:",
+                    "guid": "4do2YMSqw9bSxIbL3f69sA",
+                    "children": [
+                      {
+                        "id": "70",
+                        "parent": "69",
+                        "text": "- Función verbal\ny lenguaje",
+                        "guid": "foTL5E2Hi77LR97u0sMwJA",
+                        "children": []
+                      },
+                      {
+                        "id": "71",
+                        "parent": "69",
+                        "text": "- Atención y\nmemoria de\ntrabajo",
+                        "guid": "g5cB3ElRwZjUTeKGiegdeg",
+                        "children": []
+                      },
+                      {
+                        "id": "72",
+                        "parent": "69",
+                        "text": "- Abstracción y\nfunción ejecutiva",
+                        "guid": "dOArNjIwYQKV6N5rA29_7Q",
+                        "children": []
+                      },
+                      {
+                        "id": "73",
+                        "parent": "69",
+                        "text": "- Memoria\n(aprendizaje y\nrecuerdo)",
+                        "guid": "yUinD16wW3cbwCaXiKUeew",
+                        "children": []
+                      },
+                      {
+                        "id": "74",
+                        "parent": "69",
+                        "text": "- Velocidad de\nprocesamiento",
+                        "guid": "CO_3Py2EihJYXfvLxQPSZg",
+                        "children": []
+                      },
+                      {
+                        "id": "75",
+                        "parent": "69",
+                        "text": "- Función\nsensorio-perceptiva",
+                        "guid": "sB3FgQpHvz2FDMgIaTaUPA",
+                        "children": []
+                      },
+                      {
+                        "id": "76",
+                        "parent": "69",
+                        "text": "- Habilidades motoras",
+                        "guid": "EDOjctdytDlvVwbtam0s3A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "77",
+            "parent": "39",
+            "text": "### 3.2. Pruebas\nDiagnósticas",
+            "guid": "DhCGsPM1_ov_PVCIU5xwbg",
+            "children": [
+              {
+                "id": "78",
+                "parent": "77",
+                "text": "#### 3.2.1. Evaluación\nNeuropsicológica",
+                "guid": "XroJYu1AVxyFVOVRnFeddA",
+                "children": [
+                  {
+                    "id": "79",
+                    "parent": "78",
+                    "text": "- Evaluación comprehensiva de\nmúltiples dominios cognitivos",
+                    "guid": "IcL5npjlNjm64N1-CYBTEg",
+                    "children": []
+                  },
+                  {
+                    "id": "80",
+                    "parent": "78",
+                    "text": "- Herramientas estandarizadas\npara valoración específica:",
+                    "guid": "kVyiocokoCiL__NNbY5ZqQ",
+                    "children": [
+                      {
+                        "id": "81",
+                        "parent": "80",
+                        "text": "- Montreal Cognitive\nAssessment (MoCA)",
+                        "guid": "nFdRUKEdbhf2IfOfex2Wvw",
+                        "children": []
+                      },
+                      {
+                        "id": "82",
+                        "parent": "80",
+                        "text": "- Addenbrooke's Cognitive\nExamination III (ACE-III)",
+                        "guid": "eFCgRBmadtYcro6zzS9d4Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "83",
+                    "parent": "78",
+                    "text": "- Beneficios de la\nevaluación:",
+                    "guid": "BNlO1h7dQm-nZmhIS6K7Ow",
+                    "children": [
+                      {
+                        "id": "84",
+                        "parent": "83",
+                        "text": "- Detección de déficits\ncognitivos sutiles",
+                        "guid": "6BErYr0zfcMQ860hXQvcIg",
+                        "children": []
+                      },
+                      {
+                        "id": "85",
+                        "parent": "83",
+                        "text": "- Establecimiento\nde línea base",
+                        "guid": "0se70oBzoTLZpk05_hzxVA",
+                        "children": []
+                      },
+                      {
+                        "id": "86",
+                        "parent": "83",
+                        "text": "- Monitorización\nde progresión",
+                        "guid": "GupoC-kVARL7i07aSyBmdg",
+                        "children": []
+                      },
+                      {
+                        "id": "87",
+                        "parent": "83",
+                        "text": "- Evaluación de efectividad\nde intervenciones",
+                        "guid": "JMMPK9s5WKYcsEZezN0UpQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "88",
+                "parent": "77",
+                "text": "#### 3.2.2.\nPunción Lumbar",
+                "guid": "JoGUE780Agq4KLkfunlrmA",
+                "children": [
+                  {
+                    "id": "89",
+                    "parent": "88",
+                    "text": "- Objetivos principales:",
+                    "guid": "5gX_dl2tm5vQpAojSk4Mzw",
+                    "children": [
+                      {
+                        "id": "90",
+                        "parent": "89",
+                        "text": "- Evaluación de\nescape viral en LCR",
+                        "guid": "4O2-BNQOrF8xANfCAv5ubA",
+                        "children": []
+                      },
+                      {
+                        "id": "91",
+                        "parent": "89",
+                        "text": "- Detección de lesión cerebral\nactiva asociada al VIH",
+                        "guid": "i5Zt-2yeVpue8iiN_LqqMw",
+                        "children": []
+                      },
+                      {
+                        "id": "92",
+                        "parent": "89",
+                        "text": "- Genotipificación\ndel VIH en LCR",
+                        "guid": "SqYCbsAxdziztyIOvxjckQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "93",
+                    "parent": "88",
+                    "text": "- Biomarcadores\nimportantes:",
+                    "guid": "NCrQgyoemy8qbWkMS60SYg",
+                    "children": [
+                      {
+                        "id": "94",
+                        "parent": "93",
+                        "text": "- Cadena ligera de neurofilamentos (NFL)",
+                        "guid": "i107HZMGMz28Z8E_bYnuHg",
+                        "children": []
+                      },
+                      {
+                        "id": "95",
+                        "parent": "93",
+                        "text": "- Neopterina",
+                        "guid": "V_I-NUpRJMkCo2yjEb00IA",
+                        "children": []
+                      },
+                      {
+                        "id": "96",
+                        "parent": "93",
+                        "text": "- Beta-amiloide Aβ42-to-Aβ40",
+                        "guid": "_MyIkBJXeg0bPbnefXp1Xw",
+                        "children": []
+                      },
+                      {
+                        "id": "97",
+                        "parent": "93",
+                        "text": "- Tau fosforilada (p-tau)",
+                        "guid": "GZHeLvmVDZcM-s4Sr_ylqg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "98",
+                "parent": "77",
+                "text": "#### 3.2.3.\nAnálisis\nSanguíneos",
+                "guid": "SbdTZaZFLA82reINTNX3lg",
+                "children": [
+                  {
+                    "id": "99",
+                    "parent": "98",
+                    "text": "- Pruebas\nrutinarias\nesenciales:",
+                    "guid": "446FBOXppD2oj3sBs4014A",
+                    "children": [
+                      {
+                        "id": "100",
+                        "parent": "99",
+                        "text": "- Hemograma completo",
+                        "guid": "yzp1wby7ibFJt9HhdHb1Ww",
+                        "children": []
+                      },
+                      {
+                        "id": "101",
+                        "parent": "99",
+                        "text": "- Función renal y hepática",
+                        "guid": "_U3m5cJZMFbqw1RBP5IqqA",
+                        "children": []
+                      },
+                      {
+                        "id": "102",
+                        "parent": "99",
+                        "text": "- Hormonas tiroideas",
+                        "guid": "9JEpalTFpL08prQdCho7IQ",
+                        "children": []
+                      },
+                      {
+                        "id": "103",
+                        "parent": "99",
+                        "text": "- Vitamina B12",
+                        "guid": "mNCctOYdN08cC6-ErfsaxQ",
+                        "children": []
+                      },
+                      {
+                        "id": "104",
+                        "parent": "99",
+                        "text": "- Folato",
+                        "guid": "IiY20fxiAmCrHBbVBCl50A",
+                        "children": []
+                      },
+                      {
+                        "id": "105",
+                        "parent": "99",
+                        "text": "- Perfil lipídico",
+                        "guid": "wih7MIkqQW9cSrgFFD_gZg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "106",
+                    "parent": "98",
+                    "text": "- Evaluaciones\nespecíficas para:",
+                    "guid": "Shri5PKBU4_Dps9_ouJ4OQ",
+                    "children": [
+                      {
+                        "id": "107",
+                        "parent": "106",
+                        "text": "- Anemia",
+                        "guid": "ro2EHMJ20szE6VtabjuX1w",
+                        "children": []
+                      },
+                      {
+                        "id": "108",
+                        "parent": "106",
+                        "text": "- Disfunción orgánica",
+                        "guid": "YrMX6YiLTLdoCEcsv6ZXuw",
+                        "children": []
+                      },
+                      {
+                        "id": "109",
+                        "parent": "106",
+                        "text": "- Riesgo cardiovascular",
+                        "guid": "pmSBzjOnYuEcdM26yysGhg",
+                        "children": []
+                      },
+                      {
+                        "id": "110",
+                        "parent": "106",
+                        "text": "- Coinfecciones\n(sífilis, hepatitis C)",
+                        "guid": "n7OCN_WiO2wUzYs8wPalrQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "111",
+                "parent": "77",
+                "text": "#### 3.2.4.\nNeuroimagen",
+                "guid": "c81XRVuFrnl0kctZQX9X4A",
+                "children": [
+                  {
+                    "id": "112",
+                    "parent": "111",
+                    "text": "- RM cerebral\npreferentemente:",
+                    "guid": "oZiUsWD8oGepomlNspj0Bw",
+                    "children": [
+                      {
+                        "id": "113",
+                        "parent": "112",
+                        "text": "- Evaluación de atrofia",
+                        "guid": "UqmBdT7zNiRtikNQtMIRbg",
+                        "children": []
+                      },
+                      {
+                        "id": "114",
+                        "parent": "112",
+                        "text": "- Detección de lesiones",
+                        "guid": "tAHSYZ-A4asIcV3X60p81g",
+                        "children": []
+                      },
+                      {
+                        "id": "115",
+                        "parent": "112",
+                        "text": "- Exclusión de diagnósticos alternativos",
+                        "guid": "saTRdOOrPLC_RteH2XPOaw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "116",
+                    "parent": "111",
+                    "text": "- Utilidad para identificar:",
+                    "guid": "Mv2LxqqqtrsNpa4SydAiLA",
+                    "children": [
+                      {
+                        "id": "117",
+                        "parent": "116",
+                        "text": "- Infecciones oportunistas",
+                        "guid": "M9_OQ8nCSbfHkDX8DwVMBA",
+                        "children": []
+                      },
+                      {
+                        "id": "118",
+                        "parent": "116",
+                        "text": "- Lesiones\ncerebrovasculares",
+                        "guid": "2AzrQlb9CpLcxZp5RCOFsg",
+                        "children": []
+                      },
+                      {
+                        "id": "119",
+                        "parent": "116",
+                        "text": "- Cambios\nneurodegenerativos",
+                        "guid": "-cgHqOrzJSMe6rlzKvWJ0g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "120",
+        "parent": "0",
+        "text": "## 4. Tratamiento",
+        "guid": "",
+        "children": [
+          {
+            "id": "121",
+            "parent": "120",
+            "text": "### 4.1. Intervenciones\nFarmacológicas",
+            "guid": "0FUCEhKgBcFmeRLk2cIbCw",
+            "children": [
+              {
+                "id": "122",
+                "parent": "121",
+                "text": "#### 4.1.1. Terapia\nAntirretroviral (TAR)",
+                "guid": "TsEdP1E_34o5nHWIRCfHqg",
+                "children": [
+                  {
+                    "id": "123",
+                    "parent": "122",
+                    "text": "- Estrategia principal para alcanzar carga viral indetectable en plasma y LCR",
+                    "guid": "5-OTBDXxRlnHJ0gbc-qeGA",
+                    "children": []
+                  },
+                  {
+                    "id": "124",
+                    "parent": "122",
+                    "text": "- Consideraciones\nespecíficas:",
+                    "guid": "-r_JGan4ijBdMsNqZx77Ow",
+                    "children": [
+                      {
+                        "id": "125",
+                        "parent": "124",
+                        "text": "- Preferencia por TAR con mayor penetración en SNC",
+                        "guid": "REiu8ludpcg-ir0176bxnA",
+                        "children": []
+                      },
+                      {
+                        "id": "126",
+                        "parent": "124",
+                        "text": "- Optimización basada en genotipificación del LCR cuando hay escape viral",
+                        "guid": "ZudNgN1VBDrAMlBSPZz_Qw",
+                        "children": []
+                      },
+                      {
+                        "id": "127",
+                        "parent": "124",
+                        "text": "- Precaución con efavirenz por potencial neurotoxicidad (Evidencia Grado 1C)",
+                        "guid": "e7DaxtuPcN0jktNJrnTmYg",
+                        "children": []
+                      },
+                      {
+                        "id": "128",
+                        "parent": "124",
+                        "text": "- Evaluación cuidadosa antes de intensificación del TAR",
+                        "guid": "ASkJmYCkAbKlnRGTixdRHg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "129",
+                "parent": "121",
+                "text": "#### 4.1.2. Otras\nIntervenciones\nFarmacológicas",
+                "guid": "Y08-0zmqx-sq2t5voe_B2w",
+                "children": [
+                  {
+                    "id": "130",
+                    "parent": "129",
+                    "text": "- Estado actual:",
+                    "guid": "0Dkv2zhTkfFBuajuAhxY-g",
+                    "children": [
+                      {
+                        "id": "131",
+                        "parent": "130",
+                        "text": "- No hay tratamientos\nespecíficos aprobados para el\ndaño cerebral asociado al VIH",
+                        "guid": "FCCQUojzeCHEkaFdjpLzZg",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "132",
+                    "parent": "129",
+                    "text": "- Múltiples compuestos\nestudiados sin beneficio claro:",
+                    "guid": "4da8pCB40Zat7lNWjdErXw",
+                    "children": [
+                      {
+                        "id": "133",
+                        "parent": "132",
+                        "text": "- Agentes\nantiinflamatorios",
+                        "guid": "d_SjmZsdDJArCWUqck7A7Q",
+                        "children": []
+                      },
+                      {
+                        "id": "134",
+                        "parent": "132",
+                        "text": "- Neuroprotectores",
+                        "guid": "vHZqnchGVR0Fy7Ed5latkg",
+                        "children": []
+                      },
+                      {
+                        "id": "135",
+                        "parent": "132",
+                        "text": "- Antioxidantes",
+                        "guid": "j8F0x3k4SJCKG1cdYsDSWw",
+                        "children": []
+                      },
+                      {
+                        "id": "136",
+                        "parent": "132",
+                        "text": "- Psicoestimulantes",
+                        "guid": "YHXH4_JmdxWMsp6oQbme6w",
+                        "children": []
+                      },
+                      {
+                        "id": "137",
+                        "parent": "132",
+                        "text": "- Inhibidores de\ncolinesterasa",
+                        "guid": "BVg8MctlryHlJ7CzkhxUYQ",
+                        "children": []
+                      },
+                      {
+                        "id": "138",
+                        "parent": "132",
+                        "text": "- Memantina",
+                        "guid": "ldL7L33w0O4xVANwtHq37w",
+                        "children": []
+                      },
+                      {
+                        "id": "139",
+                        "parent": "132",
+                        "text": "- Selegilina",
+                        "guid": "ZBbwFQudoLafznHjx2DrOw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "140",
+                    "parent": "129",
+                    "text": "- Importancia de ensayos clínicos futuros\npara identificar terapias efectivas",
+                    "guid": "lc5LEWzvh33UcZ2cpmAZrg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "141",
+            "parent": "120",
+            "text": "### 4.2. Intervenciones\nNo Farmacológicas",
+            "guid": "SYXLu3Qoj_fJu-7NN71TYA",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "#### 4.2.1. Rehabilitación\nCognitiva Computarizada (CCT)",
+                "guid": "7Y2SeijxIKVARaOg_TDBdg",
+                "children": [
+                  {
+                    "id": "143",
+                    "parent": "142",
+                    "text": "- Enfoque en dominios\ncognitivos específicos:",
+                    "guid": "LbOPEP61DPmkgSToC089rQ",
+                    "children": []
+                  },
+                  {
+                    "id": "144",
+                    "parent": "142",
+                    "text": "- Velocidad de\nprocesamiento",
+                    "guid": "WhU2yYn8dypEzUnPSCYdrw",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "142",
+                    "text": "- Función ejecutiva",
+                    "guid": "8VwIIgTXPfaWoV9-DbbCxg",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "142",
+                    "text": "- Neuroplasticidad",
+                    "guid": "zL9mdsJXkltg27Icr9tE8Q",
+                    "children": []
+                  },
+                  {
+                    "id": "147",
+                    "parent": "142",
+                    "text": "- Beneficios\ndemostrados:",
+                    "guid": "C6tslM4Wga6Rmu2wdBbZhQ",
+                    "children": [
+                      {
+                        "id": "148",
+                        "parent": "147",
+                        "text": "- Mejora en\nfunción ejecutiva",
+                        "guid": "8JgGLrHt3hO6_pDsghnPng",
+                        "children": []
+                      },
+                      {
+                        "id": "149",
+                        "parent": "147",
+                        "text": "- Incremento en atención",
+                        "guid": "W3-Scw0qcbIrDJ7XTp0vBA",
+                        "children": []
+                      },
+                      {
+                        "id": "150",
+                        "parent": "147",
+                        "text": "- Optimización\nde memoria",
+                        "guid": "kAVPt8qdsr41FKxlZWxM0A",
+                        "children": []
+                      },
+                      {
+                        "id": "151",
+                        "parent": "147",
+                        "text": "- Mayor velocidad de\nprocesamiento",
+                        "guid": "SGoLuEL0zDuhehtlvArfXQ",
+                        "children": []
+                      },
+                      {
+                        "id": "152",
+                        "parent": "147",
+                        "text": "- Mejora en\nhabilidades\nmotoras",
+                        "guid": "Gii3o71iCyF1qK2hJxoVaw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "153",
+                    "parent": "142",
+                    "text": "- Limitaciones\nidentificadas:",
+                    "guid": "1i-mBWqFmIehQRipMZQnRA",
+                    "children": [
+                      {
+                        "id": "154",
+                        "parent": "153",
+                        "text": "- Efectos de entrenamiento no\nsiempre generalizables",
+                        "guid": "kjf6cDX1so7xf5ZJo-8XvQ",
+                        "children": []
+                      },
+                      {
+                        "id": "155",
+                        "parent": "153",
+                        "text": "- Duración de mejoras no\ncompletamente determinada",
+                        "guid": "dG8aOW_-N8SnJJDkvH_5Jg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "156",
+                "parent": "141",
+                "text": "#### 4.2.2. Programas de\nRehabilitación Multidisciplinar",
+                "guid": "ivhJhNsfsqInSUQtPZ_DKg",
+                "children": [
+                  {
+                    "id": "157",
+                    "parent": "156",
+                    "text": "- Entrenamiento en\nestrategias compensatorias",
+                    "guid": "27DFKdO0OfdOS0HU0_LNXg",
+                    "children": []
+                  },
+                  {
+                    "id": "158",
+                    "parent": "156",
+                    "text": "- Manejo de atención en\ntareas cotidianas",
+                    "guid": "W26qwhajx5vnTU2PHhLIOw",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "156",
+                    "text": "- Enfoque holístico para\ncondiciones neurológicas",
+                    "guid": "72pGtPinR9bM_1MeuFqLVA",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "156",
+                    "text": "- Evidencia limitada en\npoblación con VIH",
+                    "guid": "ImQQzIhVi3pLpS0p2xBbFw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "161",
+                "parent": "141",
+                "text": "#### 4.2.3.\nIntervenciones de\nEjercicio",
+                "guid": "eadiSzGeWP1I5sHnvcXoqQ",
+                "children": [
+                  {
+                    "id": "162",
+                    "parent": "161",
+                    "text": "- Beneficios\ndocumentados:",
+                    "guid": "zsdAx91XuAcOqizTAVjqUQ",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "161",
+                    "text": "- Correlación con mejor\nfunción cognitiva",
+                    "guid": "eAF_oEIfPzoKk1UwHMYtdw",
+                    "children": []
+                  },
+                  {
+                    "id": "164",
+                    "parent": "161",
+                    "text": "- Mejora en\ncalidad de vida",
+                    "guid": "XZStfUpjgrvnnPY-kjjZlQ",
+                    "children": []
+                  },
+                  {
+                    "id": "165",
+                    "parent": "161",
+                    "text": "- Reducción de\nsíntomas depresivos",
+                    "guid": "m0q-GdERBfxIC6NLTOSD4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "166",
+                    "parent": "161",
+                    "text": "- Programas\nestructurados\nmuestran:",
+                    "guid": "73sFF6gcberUWgGB5Hlynw",
+                    "children": []
+                  },
+                  {
+                    "id": "167",
+                    "parent": "161",
+                    "text": "- Mejoras significativas\nen calidad de vida",
+                    "guid": "NH19W4PD87EtD9xRAoY6gg",
+                    "children": []
+                  },
+                  {
+                    "id": "168",
+                    "parent": "161",
+                    "text": "- Reducción de\nsíntomas depresivos",
+                    "guid": "SQG1R9DCjHpIo2T6xCjcDQ",
+                    "children": []
+                  },
+                  {
+                    "id": "169",
+                    "parent": "161",
+                    "text": "- Potencial mediación en\ndeterioro cognitivo",
+                    "guid": "0RmV4TNTY6TD8hhyDwr7NA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "170",
+            "parent": "120",
+            "text": "### 4.3.\nMonitorización y\nSeguimiento",
+            "guid": "h2suZfd4cZVbHgRE8jaJwg",
+            "children": [
+              {
+                "id": "171",
+                "parent": "170",
+                "text": "#### 4.3.1.\nHerramientas de\nEvaluación",
+                "guid": "vCZ_qsVuwGF06eOmWF-ZYQ",
+                "children": [
+                  {
+                    "id": "172",
+                    "parent": "171",
+                    "text": "- Instrumentos validados:",
+                    "guid": "KfoPCFORbe8RArI21uwlmA",
+                    "children": []
+                  },
+                  {
+                    "id": "173",
+                    "parent": "171",
+                    "text": "- Montreal Cognitive\nAssessment (MoCA)",
+                    "guid": "cMBID447BQ9ZLPDEl9DKFg",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "171",
+                    "text": "- Addenbrooke's Cognitive\nExamination (ACE-III)",
+                    "guid": "kQnqEed0CCXYJ4qxLqimog",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "171",
+                    "text": "- HIV Dementia\nScale (HDS)",
+                    "guid": "mQHzzXwbjidxY7ahsHKn7w",
+                    "children": []
+                  },
+                  {
+                    "id": "176",
+                    "parent": "171",
+                    "text": "- International HIV\nDementia Scale (IHDS)",
+                    "guid": "J0dtviQcvLhqjRcjEJu7IQ",
+                    "children": []
+                  },
+                  {
+                    "id": "177",
+                    "parent": "171",
+                    "text": "- Consideraciones:",
+                    "guid": "pB2WiujNGNiCADpA4xxmRQ",
+                    "children": [
+                      {
+                        "id": "178",
+                        "parent": "177",
+                        "text": "- Formas\nparalelas\ndisponibles",
+                        "guid": "kTkZelB6nCTRk0fN6R3_pA",
+                        "children": []
+                      },
+                      {
+                        "id": "179",
+                        "parent": "177",
+                        "text": "- Sensibilidad variable",
+                        "guid": "Rhv8b3ETBt1EYHjmfFeOtA",
+                        "children": []
+                      },
+                      {
+                        "id": "180",
+                        "parent": "177",
+                        "text": "- Necesidad de\nvalidación adicional",
+                        "guid": "A0ii_0ERnHwvMOoavLnu1g",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "181",
+                "parent": "170",
+                "text": "#### 4.3.2. Frecuencia\nde Monitorización",
+                "guid": "Lz7rO6PxwBrmwFiyywsMrg",
+                "children": [
+                  {
+                    "id": "182",
+                    "parent": "181",
+                    "text": "- Seguimiento\npost-intervención",
+                    "guid": "5HsGrxIcS5J7VEkPjYMfDA",
+                    "children": []
+                  },
+                  {
+                    "id": "183",
+                    "parent": "181",
+                    "text": "- Evaluación de\nfactores contribuyentes",
+                    "guid": "ZpjOGWfcpZhsKMyJKa2NIw",
+                    "children": []
+                  },
+                  {
+                    "id": "184",
+                    "parent": "181",
+                    "text": "- Monitoreo más\nfrecuente en casos de:",
+                    "guid": "SUp_jJSIlbjdhiwhw8ju0A",
+                    "children": [
+                      {
+                        "id": "185",
+                        "parent": "184",
+                        "text": "- Escape viral en\nLCR sintomático",
+                        "guid": "xLHkQJM1yYGCYIt2CQXUuA",
+                        "children": []
+                      },
+                      {
+                        "id": "186",
+                        "parent": "184",
+                        "text": "- Deterioro\nobjetivo\nreportado",
+                        "guid": "uVKX-IVK4EmP5xToE4vCAw",
+                        "children": []
+                      },
+                      {
+                        "id": "187",
+                        "parent": "184",
+                        "text": "- Cambios en\nevidencia objetiva",
+                        "guid": "-6t7uwuadkgo1-Pi9Zwayw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "188",
+            "parent": "120",
+            "text": "### 4.4. Nuevos\nModelos de Atención",
+            "guid": "drgRTR6_aqiqQ_OO_7Uw8w",
+            "children": [
+              {
+                "id": "189",
+                "parent": "188",
+                "text": "#### 4.4.1. Clínicas\nIntegradas \"One-Stop\"",
+                "guid": "ROON8BNdMM0iowNLeuH6xg",
+                "children": [
+                  {
+                    "id": "190",
+                    "parent": "189",
+                    "text": "- Características\nprincipales:",
+                    "guid": "on63q5UR03enp1sYss-1VA",
+                    "children": [
+                      {
+                        "id": "191",
+                        "parent": "190",
+                        "text": "- Evaluación por múltiples\nespecialistas en una sesión",
+                        "guid": "hYnQ0u701kYF59PLFYLkEA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "192",
+                    "parent": "189",
+                    "text": "- Integración\nde servicios:",
+                    "guid": "XSYMVv8Ce7e0dw3B3pr8EQ",
+                    "children": [
+                      {
+                        "id": "193",
+                        "parent": "192",
+                        "text": "- Neurología",
+                        "guid": "CPHmOtmZjTOk0znjgCqe4Q",
+                        "children": []
+                      },
+                      {
+                        "id": "194",
+                        "parent": "192",
+                        "text": "- Salud mental",
+                        "guid": "ul7uz7DMFUyOaiKzgucFRw",
+                        "children": []
+                      },
+                      {
+                        "id": "195",
+                        "parent": "192",
+                        "text": "- Neuropsicología",
+                        "guid": "VQf-eWuj_1JG-aKiMbcH9A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "196",
+                    "parent": "189",
+                    "text": "- Revisión\ncomprehensiva\nde:",
+                    "guid": "UxnpvUZ9tJq5oIK_7SzYQQ",
+                    "children": [
+                      {
+                        "id": "197",
+                        "parent": "196",
+                        "text": "- Resultados\nneuropsicológicos",
+                        "guid": "hbyDW0HEujwuS68Va_vorw",
+                        "children": []
+                      },
+                      {
+                        "id": "198",
+                        "parent": "196",
+                        "text": "- Imágenes cerebrales",
+                        "guid": "8pKIwW_OAWpSmR46yIaSEA",
+                        "children": []
+                      },
+                      {
+                        "id": "199",
+                        "parent": "196",
+                        "text": "- Evaluaciones de\nsalud mental",
+                        "guid": "-5kgipqpox-L0vr0sNae_g",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "200",
+                    "parent": "189",
+                    "text": "- Beneficios:",
+                    "guid": "HYeJfmHgL30yaODTTg-9NQ",
+                    "children": [
+                      {
+                        "id": "201",
+                        "parent": "200",
+                        "text": "- Reducción de\ntiempo y complejidad",
+                        "guid": "m5qINX7QaPHSh1TZexHpHw",
+                        "children": []
+                      },
+                      {
+                        "id": "202",
+                        "parent": "200",
+                        "text": "- Atención más eficiente",
+                        "guid": "B7yUrvYx_Eav5Zf-RgtgGA",
+                        "children": []
+                      },
+                      {
+                        "id": "203",
+                        "parent": "200",
+                        "text": "- Mejor\ncoordinación de\ncuidados",
+                        "guid": "EmXUwCSNiVRC3YoB8xswdA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "204",
+                "parent": "188",
+                "text": "#### 4.4.2.\nImplementación y\nAcceso",
+                "guid": "NSnF9RTZC1TzvYlzkx1aeA",
+                "children": [
+                  {
+                    "id": "205",
+                    "parent": "204",
+                    "text": "- Barreras identificadas:",
+                    "guid": "1B6sHiljKEJ1rmfXmvlDKQ",
+                    "children": [
+                      {
+                        "id": "206",
+                        "parent": "205",
+                        "text": "- Recursos limitados",
+                        "guid": "YeSqGd7lOc2WEmUTKB5kZg",
+                        "children": []
+                      },
+                      {
+                        "id": "207",
+                        "parent": "205",
+                        "text": "- Falta de vías definidas",
+                        "guid": "1YuN7EpPeYzAFbESw4sShg",
+                        "children": []
+                      },
+                      {
+                        "id": "208",
+                        "parent": "205",
+                        "text": "- Disponibilidad\nde servicios",
+                        "guid": "vabViDb297py5znsbdvzYQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "209",
+                    "parent": "204",
+                    "text": "- Necesidades\nde desarrollo:",
+                    "guid": "mbRdqSHee6o22rqmtl_Cxg",
+                    "children": [
+                      {
+                        "id": "210",
+                        "parent": "209",
+                        "text": "- Estrategias de\nimplementación\nefectivas",
+                        "guid": "iBJUYok9wThzBsWPql2tsA",
+                        "children": []
+                      },
+                      {
+                        "id": "211",
+                        "parent": "209",
+                        "text": "- Adaptación a entornos con\nrecursos limitados",
+                        "guid": "7-MhmDQha4jSZNHaXknZnw",
+                        "children": []
+                      },
+                      {
+                        "id": "212",
+                        "parent": "209",
+                        "text": "- Promoción del\nbienestar general",
+                        "guid": "0pv8iwwxR-UHGSBnCsQGvA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "213",
+        "parent": "0",
+        "text": "## 5. Seguimiento",
+        "guid": "",
+        "children": [
+          {
+            "id": "214",
+            "parent": "213",
+            "text": "### 5.1. Monitorización",
+            "guid": "soru6fk9O4AKL5N8SFujyQ",
+            "children": [
+              {
+                "id": "215",
+                "parent": "214",
+                "text": "- Evaluación\ncognitiva periódica",
+                "guid": "5LsrF4pLTfPeQHh_XT9yVQ",
+                "children": []
+              },
+              {
+                "id": "216",
+                "parent": "214",
+                "text": "- Seguimiento cada 2 años\nen pacientes estables",
+                "guid": "0BMghJldfb9cLLyiXYvJQA",
+                "children": []
+              },
+              {
+                "id": "217",
+                "parent": "214",
+                "text": "- Monitorización más\nfrecuente en casos de:",
+                "guid": "U12KZr7YVvalvzNPqHH3iA",
+                "children": [
+                  {
+                    "id": "218",
+                    "parent": "217",
+                    "text": "- Empeoramiento clínico",
+                    "guid": "KPZuKJMqYGqxrmZ5wcq3-g",
+                    "children": []
+                  },
+                  {
+                    "id": "219",
+                    "parent": "217",
+                    "text": "- Historia de\nnadir CD4+ bajo",
+                    "guid": "hdmMdGPKSs08YjYPW8ictQ",
+                    "children": []
+                  },
+                  {
+                    "id": "220",
+                    "parent": "217",
+                    "text": "- Falta de supresión viral",
+                    "guid": "XQRBo_0Oq0YxrFxlCE8kpA",
+                    "children": []
+                  },
+                  {
+                    "id": "221",
+                    "parent": "217",
+                    "text": "- Nuevos síntomas\nneurológicos",
+                    "guid": "LP4EYBsgM0PMKA_13-YY5g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "222",
+            "parent": "213",
+            "text": "### 5.2. Indicadores\nde Progresión",
+            "guid": "0DC4g4o3m5ZPXFI3Kj6bdg",
+            "children": [
+              {
+                "id": "223",
+                "parent": "222",
+                "text": "- Cambios en\nrendimiento\ncognitivo",
+                "guid": "IfKs546OaOGK1CaYazhHlQ",
+                "children": []
+              },
+              {
+                "id": "224",
+                "parent": "222",
+                "text": "- Funcionalidad en\nactividades diarias",
+                "guid": "3Rp9zwY0obcJeMtMrELTDQ",
+                "children": []
+              },
+              {
+                "id": "225",
+                "parent": "222",
+                "text": "- Control virológico",
+                "guid": "9nOMVuQOAGnbO2u9sxuMWQ",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "222",
+                "text": "- Estado inmunológico",
+                "guid": "qAbY-qs8UHi025jw_-_IbA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "227",
+        "parent": "0",
+        "text": "## 6. Pronóstico",
+        "guid": "s_M38vwFggf5gWS4_Jm8KQ",
+        "children": [
+          {
+            "id": "228",
+            "parent": "227",
+            "text": "### 6.1. Factores\nPronósticos",
+            "guid": "26TKwTgdkXzBmyt4lRpnPg",
+            "children": [
+              {
+                "id": "229",
+                "parent": "228",
+                "text": "- Adherencia al\ntratamiento",
+                "guid": "a4Vbv6wMolY9R-t-mBH-sg",
+                "children": []
+              },
+              {
+                "id": "230",
+                "parent": "228",
+                "text": "- Inicio temprano de TAR",
+                "guid": "aTCogbODahhFD3IQ2Or03Q",
+                "children": []
+              },
+              {
+                "id": "231",
+                "parent": "228",
+                "text": "- Control de\ncomorbilidades",
+                "guid": "9h-JxuDR6HJdA4m9oces0A",
+                "children": []
+              },
+              {
+                "id": "232",
+                "parent": "228",
+                "text": "- Apoyo social y\nrecursos disponibles",
+                "guid": "pLeoyWprPkgP-wJmHbdeTw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "233",
+            "parent": "227",
+            "text": "### 6.2.\nResultados\nEsperados",
+            "guid": "LWn_jbDYVx81MN96iNs0oQ",
+            "children": [
+              {
+                "id": "234",
+                "parent": "233",
+                "text": "- Mejoría sintomática en\n4-8 meses post-TAR",
+                "guid": "omcxpCQdyHAQHN4WzRHRew",
+                "children": []
+              },
+              {
+                "id": "235",
+                "parent": "233",
+                "text": "- Estabilización en casos\ntratados tempranamente",
+                "guid": "AMDrwHJiegyBRcxgMa4bmQ",
+                "children": []
+              },
+              {
+                "id": "236",
+                "parent": "233",
+                "text": "- Riesgo de progresión en casos no\ntratados o con mala adherencia",
+                "guid": "YeOPIvrJGtkjNalDwdSucQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "237",
+        "parent": "0",
+        "text": "## 7. Prevención",
+        "guid": "",
+        "children": [
+          {
+            "id": "238",
+            "parent": "237",
+            "text": "### 7.1.\nEstrategias\nPreventivas",
+            "guid": "F4Ze63-og7cDc7VR_PxcPg",
+            "children": [
+              {
+                "id": "239",
+                "parent": "238",
+                "text": "- Inicio temprano de TAR",
+                "guid": "J7nka3Ngek5aCnE6tjFf0A",
+                "children": []
+              },
+              {
+                "id": "240",
+                "parent": "238",
+                "text": "- Control regular de\nfunción cognitiva",
+                "guid": "d6-YweTYOJgK_7XYPz_dZg",
+                "children": []
+              },
+              {
+                "id": "241",
+                "parent": "238",
+                "text": "- Manejo de factores de\nriesgo modificables",
+                "guid": "2QppgXx_2ra9yCtlOqxS-A",
+                "children": []
+              },
+              {
+                "id": "242",
+                "parent": "238",
+                "text": "- Educación sobre estilos\nde vida saludables",
+                "guid": "POrZ5c_KXyWnFLEcDNrWGQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "243",
+            "parent": "237",
+            "text": "### 7.2. Poblaciones\nde Alto Riesgo",
+            "guid": "xwymfP1cn9rOvJdrgymINQ",
+            "children": [
+              {
+                "id": "244",
+                "parent": "243",
+                "text": "- Identificación temprana",
+                "guid": "XUtBJ6dZm_kGIPtJSn0Bkw",
+                "children": []
+              },
+              {
+                "id": "245",
+                "parent": "243",
+                "text": "- Monitorización\nmás estrecha",
+                "guid": "tC28Dp2ok89QMTQfevRbEA",
+                "children": []
+              },
+              {
+                "id": "246",
+                "parent": "243",
+                "text": "- Intervenciones\npreventivas específicas",
+                "guid": "dQpT6f9PIGbwyJsD3vicpA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "247",
+        "parent": "0",
+        "text": "## 8. Modelos de Atención\ny Apoyo Psicosocial",
+        "guid": "Advol7-PjVX3lyPjwcHdag",
+        "children": [
+          {
+            "id": "248",
+            "parent": "247",
+            "text": "### 8.1. Nuevos Modelos de Atención\nCentrados en el Paciente",
+            "guid": "WpGRnkOpRVbgswDMr5zU3w",
+            "children": [
+              {
+                "id": "249",
+                "parent": "248",
+                "text": "- **Clínicas Integradas**:",
+                "guid": "TXc_VWEvXyyVeanmaH_I5w",
+                "children": []
+              },
+              {
+                "id": "250",
+                "parent": "248",
+                "text": "- Modelo \"ventanilla única\" para\nevaluación completa",
+                "guid": "KckGivmQ-XPbRhN520Ih2g",
+                "children": []
+              },
+              {
+                "id": "251",
+                "parent": "248",
+                "text": "- Evaluación por\nespecialistas en:",
+                "guid": "O8gKFRjROBdfDoStQMybOQ",
+                "children": [
+                  {
+                    "id": "252",
+                    "parent": "251",
+                    "text": "- Enfermedades\ninfecciosas",
+                    "guid": "zgpy5hI_PE7D0D-1bwPLJw",
+                    "children": []
+                  },
+                  {
+                    "id": "253",
+                    "parent": "251",
+                    "text": "- Neurología",
+                    "guid": "4pM4LvY4ZYF5PyuyHh16bQ",
+                    "children": []
+                  },
+                  {
+                    "id": "254",
+                    "parent": "251",
+                    "text": "- Salud mental",
+                    "guid": "bkQEnvK6qP4GkUOKsdkzpA",
+                    "children": []
+                  },
+                  {
+                    "id": "255",
+                    "parent": "251",
+                    "text": "- Neuropsicología",
+                    "guid": "IMK-Ai-51nT1aE6olT9UNQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "256",
+                "parent": "248",
+                "text": "- Beneficios:",
+                "guid": "kJqvyswJp2zqIGGnzQjSCA",
+                "children": [
+                  {
+                    "id": "257",
+                    "parent": "256",
+                    "text": "- Reducción de\ntiempo y complejidad",
+                    "guid": "OBAAqylSQlX2dsCFYUxktA",
+                    "children": []
+                  },
+                  {
+                    "id": "258",
+                    "parent": "256",
+                    "text": "- Evaluación integral en\nuna sola sesión",
+                    "guid": "mtLEuMos6rVklSgDu55CUA",
+                    "children": []
+                  },
+                  {
+                    "id": "259",
+                    "parent": "256",
+                    "text": "- Mejor coordinación\nentre especialidades",
+                    "guid": "q4A0BIMEYKmiRpccvGjm-g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "260",
+            "parent": "247",
+            "text": "### 8.2.\nBarreras y\nDesafíos",
+            "guid": "RvH0pukdoNe5bvp8zsBS8A",
+            "children": [
+              {
+                "id": "261",
+                "parent": "260",
+                "text": "- **Limitaciones\nOperativas**:",
+                "guid": "WD6id1s0yFAIDglR1DcW-g",
+                "children": [
+                  {
+                    "id": "262",
+                    "parent": "261",
+                    "text": "- Costos incrementados",
+                    "guid": "NYg9g9enmlIkLyURb0KZoA",
+                    "children": []
+                  },
+                  {
+                    "id": "263",
+                    "parent": "261",
+                    "text": "- Necesidad de\ncapacidad adicional",
+                    "guid": "Zx-RfAJOdTDjYhp10h2eqw",
+                    "children": []
+                  },
+                  {
+                    "id": "264",
+                    "parent": "261",
+                    "text": "- Desafíos en implementación en\nentornos de bajos recursos",
+                    "guid": "iCd2c4I-bs8l8sn5aGXprg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "265",
+                "parent": "260",
+                "text": "- **Barreras\nEstructurales**:",
+                "guid": "6z6Qn7c_O5GADASXqkRr5A",
+                "children": [
+                  {
+                    "id": "266",
+                    "parent": "265",
+                    "text": "- Estigma\nrelacionado con\nVIH",
+                    "guid": "t7OHfeHh6XMV7TYq0bpAGA",
+                    "children": []
+                  },
+                  {
+                    "id": "267",
+                    "parent": "265",
+                    "text": "- Fragmentación\nde servicios",
+                    "guid": "PxMx465vRZkM-F0Pz97J6Q",
+                    "children": []
+                  },
+                  {
+                    "id": "268",
+                    "parent": "265",
+                    "text": "- Retrasos en la atención",
+                    "guid": "_G7i6TTykJl0TUpamS0tJw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "269",
+            "parent": "247",
+            "text": "### 8.3. Apoyo\nPsicosocial",
+            "guid": "6MiuIjA0yevHnHkmAgET7Q",
+            "children": [
+              {
+                "id": "270",
+                "parent": "269",
+                "text": "- **Factores de Riesgo\nIdentificados**:",
+                "guid": "HGp5N87lc0WqO4yKBSgf7g",
+                "children": [
+                  {
+                    "id": "271",
+                    "parent": "270",
+                    "text": "- Salud mental deficiente",
+                    "guid": "ahktUanfP7OaOISqx8LY6A",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "270",
+                    "text": "- Compromiso\nsocial limitado",
+                    "guid": "zx5b2IK-XjB7_1IFmTOI0w",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "273",
+                "parent": "269",
+                "text": "- Niveles elevados de:",
+                "guid": "J2xIkmNKK1-KR1vljPqSYg",
+                "children": [
+                  {
+                    "id": "274",
+                    "parent": "273",
+                    "text": "- Depresión",
+                    "guid": "yskVQ0qHrdExAYz3FhOP2A",
+                    "children": []
+                  },
+                  {
+                    "id": "275",
+                    "parent": "273",
+                    "text": "- Ansiedad",
+                    "guid": "zHesdtr9OFnZ4zAYLCn5vA",
+                    "children": []
+                  },
+                  {
+                    "id": "276",
+                    "parent": "273",
+                    "text": "- Soledad",
+                    "guid": "WYUkhAC-ZaiXwVpvtpR1sg",
+                    "children": []
+                  },
+                  {
+                    "id": "277",
+                    "parent": "273",
+                    "text": "- Aislamiento social",
+                    "guid": "ma70U5BS2VFae1quYq2H5w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "278",
+            "parent": "247",
+            "text": "### 8.4.\nIntervenciones\nPsicosociales",
+            "guid": "xxe8tob6ftErnWD6pUEwWQ",
+            "children": [
+              {
+                "id": "279",
+                "parent": "278",
+                "text": "- **Estrategias\nde Apoyo**:",
+                "guid": "AVfFzvvSla3jQ-4ZtHG3ow",
+                "children": [
+                  {
+                    "id": "280",
+                    "parent": "279",
+                    "text": "- Prescripción social",
+                    "guid": "h4zE80FURpxV9jRm0NXUiw",
+                    "children": []
+                  },
+                  {
+                    "id": "281",
+                    "parent": "279",
+                    "text": "- Grupos de\napoyo entre pares",
+                    "guid": "Lem7r0QSUX9eL4i5O2bqIQ",
+                    "children": []
+                  },
+                  {
+                    "id": "282",
+                    "parent": "279",
+                    "text": "- Conexión con\nrecursos comunitarios",
+                    "guid": "UiO_c5j5lXmgDIeWMqLtWQ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "283",
+                "parent": "278",
+                "text": "- **Enfoque en\nPoblaciones\nEspecíficas**:",
+                "guid": "Q7rUnL_gB8PJwPNZIXjv9g",
+                "children": [
+                  {
+                    "id": "284",
+                    "parent": "283",
+                    "text": "- Atención especial a\nadultos mayores",
+                    "guid": "DvvPBV19gtRmMMTMFt6sjw",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "283",
+                    "text": "- Abordaje de niveles\nelevados de soledad",
+                    "guid": "KyDmb1v-f3y2I70tAv_jGQ",
+                    "children": []
+                  },
+                  {
+                    "id": "286",
+                    "parent": "283",
+                    "text": "- Intervenciones para\nmejorar la confianza social",
+                    "guid": "RyEcTv33JiWAchN_RQVySg",
+                    "children": []
+                  },
+                  {
+                    "id": "287",
+                    "parent": "283",
+                    "text": "- Manejo del\nauto-estigma",
+                    "guid": "1We9NadSSV3pRH9lSc-lJQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "288",
+            "parent": "247",
+            "text": "### 8.5. Prevención y\nModificación de Factores de\nRiesgo",
+            "guid": "Vu4lVxxixO3t-lhFQxe5iw",
+            "children": [
+              {
+                "id": "289",
+                "parent": "288",
+                "text": "- **Factores Clave\nIdentificados**:",
+                "guid": "1_W5-iRr7oT0n_w1-pW2yg",
+                "children": [
+                  {
+                    "id": "290",
+                    "parent": "289",
+                    "text": "- Depresión",
+                    "guid": "6MoqO4R3r9Ys9-VwsiFHTQ",
+                    "children": []
+                  },
+                  {
+                    "id": "291",
+                    "parent": "289",
+                    "text": "- Ansiedad",
+                    "guid": "g946dKhr4zqOJwqSFHfzjw",
+                    "children": []
+                  },
+                  {
+                    "id": "292",
+                    "parent": "289",
+                    "text": "- Apatía",
+                    "guid": "hM7i5ed8n7YU9Hl4_ydtkg",
+                    "children": []
+                  },
+                  {
+                    "id": "293",
+                    "parent": "289",
+                    "text": "- Diabetes",
+                    "guid": "BAZIqxL1XnSPIM7W-lMoxA",
+                    "children": []
+                  },
+                  {
+                    "id": "294",
+                    "parent": "289",
+                    "text": "- Fragilidad física",
+                    "guid": "ekizylWYuBa73wjkpHY2RQ",
+                    "children": []
+                  },
+                  {
+                    "id": "295",
+                    "parent": "289",
+                    "text": "- Comorbilidades\nmúltiples",
+                    "guid": "_zjO32zSbxpmhgEyFJbBzw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "296",
+                "parent": "288",
+                "text": "- **Estrategias\nPreventivas**:",
+                "guid": "UkXu43BQU9YTB29bFEAlYw",
+                "children": [
+                  {
+                    "id": "297",
+                    "parent": "296",
+                    "text": "- Promoción de estilos\nde vida saludables",
+                    "guid": "_vC0tJ4Xw5mIuSomoLXEZA",
+                    "children": []
+                  },
+                  {
+                    "id": "298",
+                    "parent": "296",
+                    "text": "- Educación sobre\nsalud cerebral",
+                    "guid": "9v7mvTDg7lHWbQ_HntoywA",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "parent": "296",
+                    "text": "- Manejo proactivo de\ncondiciones comórbidas",
+                    "guid": "7nEIbMzOMyI0QN89kV_xfw",
+                    "children": []
+                  },
+                  {
+                    "id": "300",
+                    "parent": "296",
+                    "text": "- Intervenciones tempranas en\nfactores de riesgo modificables",
+                    "guid": "XTVi_bsobmWcCtKHP3y97A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 301,
+  "relations": [],
+  "cross_references": [
+    {
+      "from_node": "266",
+      "reference": "VIH"
+    }
+  ],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Neurología",
+  "filename": "Manejo HAND-2025",
+  "id": "map_1610",
+  "resolved_references": []
+}

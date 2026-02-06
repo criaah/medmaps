@@ -1,0 +1,2352 @@
+{
+  "title": "INSUFICIENCIA SUPRARRENAL (ISR)",
+  "guid": "6307C35A70F3845C375FB1F0",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Endocrinología/Arteaga | INSUFICIENCIA SUPRARRENAL (ISR)-2024-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "INSUFICIENCIA\nSUPRARRENAL (ISR)",
+    "guid": "JikwPilnRVN9F57lev_shA",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "DEF → Incapacidad glándulas suprarrenales → ↓ producción cortisol (1)",
+        "guid": "UTwlklKyt1ZB6OYCXRHSvw",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "TIPOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "3",
+            "parent": "2",
+            "text": "ISR primaria",
+            "guid": "M9Miji-3jqVlqm2XCpecqA",
+            "children": [
+              {
+                "id": "4",
+                "parent": "3",
+                "text": "Origen → patología suprarrenal intrínseca",
+                "guid": "X37CTCLCpQAaS2qdInQ4yQ",
+                "children": []
+              },
+              {
+                "id": "5",
+                "parent": "3",
+                "text": "Afecta → cortisol + aldosterona + andrógenos",
+                "guid": "ZUqgZ3TduPJm_W_UckzyRA",
+                "children": []
+              },
+              {
+                "id": "6",
+                "parent": "3",
+                "text": "Preserva → hormonas médula SR",
+                "guid": "Rtr3YS4DqRFuhfljbaXbKA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "parent": "2",
+            "text": "ISR secundaria/terciaria",
+            "guid": "EQtsa195fb8lBY0YNzScqQ",
+            "children": [
+              {
+                "id": "8",
+                "parent": "7",
+                "text": "Origen → ↓ ACTH hipofisaria/CRH hipotalámica",
+                "guid": "CODDEiIdK_0yNIkubSk1ng",
+                "children": []
+              },
+              {
+                "id": "9",
+                "parent": "7",
+                "text": "Afecta → mineralocorticoides",
+                "guid": "E6jfqHyRDexkBjh_ZOUFOw",
+                "children": []
+              },
+              {
+                "id": "10",
+                "parent": "7",
+                "text": "Regulación → eje renina-angiotensina + K+ sérico",
+                "guid": "T0PFQiXvHoFB9tf6Axbn0A",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "parent": "0",
+        "text": "EPIDEMIOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "12",
+            "parent": "11",
+            "text": "ISR primaria → Prevalencia: 0.01-0.05% población → ≈ 5/10,000 habitantes\n→ Sin diferencias edad/sexo → ↑ mortalidad cardiovascular",
+            "guid": "VaatJiehRZINroR4NSVvcw",
+            "children": []
+          },
+          {
+            "id": "13",
+            "parent": "11",
+            "text": "ISR central → + frecuente → Causa principal: uso corticoides exógenos → ↓ ACTH",
+            "guid": "SmPqkif57xZXmag8L66K-Q",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "14",
+        "parent": "0",
+        "text": "MANIFESTACIONES CLÍNICAS\n(% frecuencia)",
+        "guid": "HNeoCD6XGBEh-30-Y7KfaQ",
+        "children": [
+          {
+            "id": "15",
+            "parent": "14",
+            "text": "Déficit\nGC",
+            "guid": "bJrBIhCBdqFRWHqRfaYtjg",
+            "children": [
+              {
+                "id": "16",
+                "parent": "15",
+                "text": "Debilidad/astenia (99)",
+                "guid": "b_r0YHZeB6k02so3eNu3cw",
+                "children": []
+              },
+              {
+                "id": "17",
+                "parent": "15",
+                "text": "Pérdida peso (97)",
+                "guid": "GHszpmcPU2VmBO0RLCQTTg",
+                "children": []
+              },
+              {
+                "id": "18",
+                "parent": "15",
+                "text": "Anorexia/náusea/vómito (90)",
+                "guid": "Y6BhUUoLJZARCRiJMuQmkw",
+                "children": []
+              },
+              {
+                "id": "19",
+                "parent": "15",
+                "text": "Dolor abdominal (34)",
+                "guid": "b_pEElL_8IQ1-w5kRaDxOA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "parent": "14",
+            "text": "Déficit\nMC",
+            "guid": "eqE2FkOpktx6xmCrRQUgqA",
+            "children": [
+              {
+                "id": "21",
+                "parent": "20",
+                "text": "Hipotensión arterial (87)",
+                "guid": "a6OB8lJgCOh0s6uhCHsp-g",
+                "children": []
+              },
+              {
+                "id": "22",
+                "parent": "20",
+                "text": "Apetencia sal (22)",
+                "guid": "EPcg-RavKN9sLcljfZHiGw",
+                "children": []
+              },
+              {
+                "id": "23",
+                "parent": "20",
+                "text": "Síncope (16)",
+                "guid": "JzCfgD2GQ_R7OA-pFyuT4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "parent": "14",
+            "text": "ISR primaria\n(↑ACTH)",
+            "guid": "M-RLnTAS2eEQB0tUTF9_Qw",
+            "children": [
+              {
+                "id": "25",
+                "parent": "24",
+                "text": "Hiperpigmentación piel (98)",
+                "guid": "FyItRnYMOGV4g5KSesKOmA",
+                "children": []
+              },
+              {
+                "id": "26",
+                "parent": "24",
+                "text": "Hiperpigmentación mucosas (82)",
+                "guid": "QBdd9gmMqxstprUrMBGiCA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "parent": "14",
+            "text": "Otros",
+            "guid": "XIybn2Ohw491spNAVy3RtQ",
+            "children": [
+              {
+                "id": "28",
+                "parent": "27",
+                "text": "Diarrea → déficit GC/MC (20)",
+                "guid": "J0tWbHB48-wcMvJdEu7YXg",
+                "children": []
+              },
+              {
+                "id": "29",
+                "parent": "27",
+                "text": "Vértigo → autoinmunidad asociada (9)",
+                "guid": "Qtj81BDmnf8bagJZU9AdzQ",
+                "children": []
+              },
+              {
+                "id": "30",
+                "parent": "27",
+                "text": "↓líbido/vello → déficit andrógenos (9)",
+                "guid": "J5XG3geXy7xRYf_oTsZmXw",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "parent": "0",
+        "text": "FISIOPATOLOGÍA",
+        "guid": "",
+        "children": [
+          {
+            "id": "32",
+            "parent": "31",
+            "text": "→ Destrucción >90% corteza suprarrenal",
+            "guid": "fKzpc3X5RZRFYdqSE88WuQ",
+            "children": []
+          },
+          {
+            "id": "33",
+            "parent": "31",
+            "text": "Evolución gradual → síntomas larvados/progresivos",
+            "guid": "bAV9-T3lbSQOkaVRLBzb7w",
+            "children": []
+          },
+          {
+            "id": "34",
+            "parent": "31",
+            "text": "25% casos → destrucción rápida → crisis addisoniana al dx",
+            "guid": "R3IYPzw4Wn1cLn33I_6z3w",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "ESTUDIO",
+        "guid": "",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "CRISIS SUPRARRENAL\nAGUDA",
+            "guid": "H9oeDFHhETh7LIWURyV0eA",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "Precipitantes:",
+                "guid": "QloFJBdfd_JaFEzXBTMB-A",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "Estrés",
+                    "guid": "KEYV8XV-TzBZAx_FT9vczw",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "Cirugía",
+                    "guid": "fRYa7CplH60eokMuQjQqnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "Trauma",
+                    "guid": "dv8vPwSUPW47NoXsc6wYsg",
+                    "children": []
+                  },
+                  {
+                    "id": "41",
+                    "parent": "37",
+                    "text": "Infección",
+                    "guid": "eo2DAgCYYH4Hey9sZpMA_A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "42",
+                "parent": "36",
+                "text": "→ ↑necesidad cortisol\n→ ISR crónica (2)",
+                "guid": "Pn3NohYM1L0Sr9zrBe_l4Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "43",
+            "parent": "35",
+            "text": "EVALUACIÓN BIOQUÍMICA\nISR PRIMARIA",
+            "guid": "UkUvOm7eWuMp7pnAch9NRw",
+            "children": [
+              {
+                "id": "44",
+                "parent": "43",
+                "text": "Test estímulo\nACTH",
+                "guid": "QL9sGyUbH1U5RMG_AxlxPw",
+                "children": [
+                  {
+                    "id": "45",
+                    "parent": "44",
+                    "text": "Procedimiento:",
+                    "guid": "",
+                    "children": [
+                      {
+                        "id": "46",
+                        "parent": "45",
+                        "text": "Reposo 30min",
+                        "guid": "PHqXRxNZDpYITHM3ZMCtOA",
+                        "children": []
+                      },
+                      {
+                        "id": "47",
+                        "parent": "45",
+                        "text": "9am, ayunas → muestra sangre (cortisol basal)",
+                        "guid": "CNddxmFPkvw0nIoHBe14sw",
+                        "children": []
+                      },
+                      {
+                        "id": "48",
+                        "parent": "45",
+                        "text": "Administrar 0. 25mg ACTH",
+                        "guid": "C7SyqVM-zTZIIaNQArPh6Q",
+                        "children": []
+                      },
+                      {
+                        "id": "49",
+                        "parent": "45",
+                        "text": "60min después → 2ª muestra",
+                        "guid": "V9MKpANYKTx2X_qbUmCNpw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "50",
+                    "parent": "44",
+                    "text": "Interpretación:",
+                    "guid": "A_CJun3bKgc4846jQm5XXA",
+                    "children": [
+                      {
+                        "id": "51",
+                        "parent": "50",
+                        "text": "Respuesta insuficiente: cortisol <15-18 μg/dL",
+                        "guid": "E-f-xUuja45IXj0-Zi0t_w",
+                        "children": []
+                      },
+                      {
+                        "id": "52",
+                        "parent": "50",
+                        "text": "Sensibilidad: 97.5%",
+                        "guid": "OoHGcXJM1v5YTHtGe0EyjA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "53",
+                    "parent": "44",
+                    "text": "Dosis 1μg ACTH → no superior en dx (3)",
+                    "guid": "F2f2UxGRPQZ-WqPLU-KNmg",
+                    "children": []
+                  },
+                  {
+                    "id": "54",
+                    "parent": "44",
+                    "text": "Consideraciones:",
+                    "guid": "JOpLnAanFwI4ozrSLcGpYw",
+                    "children": [
+                      {
+                        "id": "55",
+                        "parent": "54",
+                        "text": "Urgencia → obviar ayuno",
+                        "guid": "Z_ap_m0_xNozryIWc6tcqA",
+                        "children": []
+                      },
+                      {
+                        "id": "56",
+                        "parent": "54",
+                        "text": "No corticoides crónicos previos",
+                        "guid": "QH6SEHvQxWZ2Xz6RGFGctA",
+                        "children": []
+                      },
+                      {
+                        "id": "57",
+                        "parent": "54",
+                        "text": "Dexametasona aguda (48h) permitida",
+                        "guid": "fyjuo2y_OSxqsipbAxl4XQ",
+                        "children": []
+                      },
+                      {
+                        "id": "58",
+                        "parent": "54",
+                        "text": "ACO/terapia hormonal → ↑CBG → ↑cortisol total",
+                        "guid": "appjNCOluP5Fh8-6foJh-Q",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "59",
+                "parent": "43",
+                "text": "Cortisol plasmático\nmatinal",
+                "guid": "b0kkjQ3mDPhkr4_4Kcrq_g",
+                "children": [
+                  {
+                    "id": "60",
+                    "parent": "59",
+                    "text": "Muestra basal 9am",
+                    "guid": "ADLj9jz8Cz8lDB2LF5raSg",
+                    "children": []
+                  },
+                  {
+                    "id": "61",
+                    "parent": "59",
+                    "text": "ISR probable: cortisol <5 μg/dL + ACTH >100 pg/mL",
+                    "guid": "To1IRSNmwVZrfWfkc3eT4Q",
+                    "children": []
+                  },
+                  {
+                    "id": "62",
+                    "parent": "59",
+                    "text": "ISR descartada: cortisol >15 μg/dL",
+                    "guid": "Kg3YWSQgorchOT1EEgSCVw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "35",
+            "text": "ESTUDIOS\nADICIONALES",
+            "guid": "ULkkwXwPHZBqMJZVT-ITZA",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "↑ARP (actividad renina plasmática) → sugestivo ISR primaria",
+                "guid": "eIh5rxiDW3tR6xvqZ9GePA",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "DHEAS bajo → sugestivo ISR primaria/secundaria",
+                "guid": "Jmloczaaq-IRnIk7JpxMag",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "66",
+        "parent": "0",
+        "text": "CAUSAS",
+        "guid": "LXR9yl98ruJn4K4-Pyr8hg",
+        "children": [
+          {
+            "id": "67",
+            "parent": "66",
+            "text": "CAUSAS ISR\nPRIMARIA",
+            "guid": "HNQGoHL6sgFq_JZdAwFFmw",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "Autoinmunes (>80% desde 1950) → Desplazó TBC como causa principal",
+                "guid": "c5a3ITaopsY-Nya0QiP_Zg",
+                "children": []
+              },
+              {
+                "id": "69",
+                "parent": "67",
+                "text": "Quirúrgicas",
+                "guid": "Wg9oHCm0jpg1m5NIBB1AdQ",
+                "children": [
+                  {
+                    "id": "70",
+                    "parent": "69",
+                    "text": "Suprarrenalectomía bilateral",
+                    "guid": "TdUxT1bU0IwWIcLNXzWY4A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "71",
+                "parent": "67",
+                "text": "Infecciosas",
+                "guid": "K70v5xvRocwxFJKBfHZUqA",
+                "children": [
+                  {
+                    "id": "72",
+                    "parent": "71",
+                    "text": "TBC",
+                    "guid": "F-C_XRtFKNdMWGgMAK8WGg",
+                    "children": []
+                  },
+                  {
+                    "id": "73",
+                    "parent": "71",
+                    "text": "Micótica",
+                    "guid": "cCfpiB9T881UF9ALaLBjNw",
+                    "children": []
+                  },
+                  {
+                    "id": "74",
+                    "parent": "71",
+                    "text": "VIH",
+                    "guid": "N9dPSSYC6_VQggF0XkC3vA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "75",
+                "parent": "67",
+                "text": "Hemorrágicas",
+                "guid": "XJ2X12Ieiq8E3QQmUDRO-Q",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "67",
+                "text": "Sepsis",
+                "guid": "GMcxdUMUKtoSWE5fctaZkQ",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "67",
+                "text": "Coagulación intravascular diseminada",
+                "guid": "bMi5c0fz4ad289oHOp3qwg",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "67",
+                "text": "Meningococo",
+                "guid": "HsiyNA0VnNQZ04OjSoXiGw",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "67",
+                "text": "Anticoagulantes",
+                "guid": "KOc-oEroFiRG_DbDQMf9_Q",
+                "children": []
+              },
+              {
+                "id": "80",
+                "parent": "67",
+                "text": "Sd. antifosfolípidos",
+                "guid": "Zi0--xNUns9BdxQXVlUogw",
+                "children": []
+              },
+              {
+                "id": "81",
+                "parent": "67",
+                "text": "Otras",
+                "guid": "O5HQFw-HjS9IwJmiGC9n7w",
+                "children": [
+                  {
+                    "id": "82",
+                    "parent": "81",
+                    "text": "Metástasis\n(pulmón/mama/melanoma/colon)",
+                    "guid": "MqiSnBWO5CI_BYu7an_h5Q",
+                    "children": []
+                  },
+                  {
+                    "id": "83",
+                    "parent": "81",
+                    "text": "Hiperplasia suprarrenal congénita",
+                    "guid": "caYX3k2dnchoY7boCm1JUw",
+                    "children": []
+                  },
+                  {
+                    "id": "84",
+                    "parent": "81",
+                    "text": "Inhibidores: metirapona/ketoconazol/mitotano",
+                    "guid": "ELHIo3q8BUd9Q-LkfXqCFg",
+                    "children": []
+                  },
+                  {
+                    "id": "85",
+                    "parent": "81",
+                    "text": "Mutación receptor ACTH",
+                    "guid": "Qq_m73Q3vOs4GGzYYXiZIw",
+                    "children": []
+                  },
+                  {
+                    "id": "86",
+                    "parent": "81",
+                    "text": "Hipoplasia suprarrenal congénita",
+                    "guid": "AU1Zv1Hr8Hsr_ns-KjSYYA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "87",
+            "parent": "66",
+            "text": "CAUSAS ISR\nSECUNDARIA",
+            "guid": "J-OHCWw4XvQVw8aeGYme5w",
+            "children": [
+              {
+                "id": "88",
+                "parent": "87",
+                "text": "Hipopituitarismo → enfermedades hipotalámicas/hipofisarias",
+                "guid": "Bk9Q0CxzqnVZVm4fOPfjbA",
+                "children": []
+              },
+              {
+                "id": "89",
+                "parent": "87",
+                "text": "Supresión esteroidea eje hipotálamo-hipófisis",
+                "guid": "QgKOlxhb-dojd8VSfZRerw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "90",
+            "parent": "66",
+            "text": "ADRENOLEUCODISTROFIA",
+            "guid": "",
+            "children": [
+              {
+                "id": "91",
+                "parent": "90",
+                "text": "Afecta → hombres jóvenes",
+                "guid": "Xq5U7Rd8mvYw7JAbYLgvog",
+                "children": []
+              },
+              {
+                "id": "92",
+                "parent": "90",
+                "text": "Ligada → cromosoma X",
+                "guid": "EsG8DwGdovod9NZcG4Qltg",
+                "children": []
+              },
+              {
+                "id": "93",
+                "parent": "90",
+                "text": "Causa → ↑ácidos grasos cadena larga (VLCFA)",
+                "guid": "FB339EuvcJB24y9SbPIbVw",
+                "children": []
+              },
+              {
+                "id": "94",
+                "parent": "90",
+                "text": "Mecanismo → fallo peroxisomas → disfunción corteza SR/desmielinización (6)",
+                "guid": "Ya8qkXCrU-BTrRgKQ39YgA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "95",
+        "parent": "0",
+        "text": "SÍNDROMES AUTOINMUNES",
+        "guid": "OdX8vH4nfYYj9ug6SofFXw",
+        "children": [
+          {
+            "id": "96",
+            "parent": "95",
+            "text": "Poliglandular tipo I",
+            "guid": "eOOCzSE6yx5IAkd1O5NpvA",
+            "children": [
+              {
+                "id": "97",
+                "parent": "96",
+                "text": "Herencia: autosómica recesiva",
+                "guid": "FXKICgAatE4dDALfFr_hyQ",
+                "children": []
+              },
+              {
+                "id": "98",
+                "parent": "96",
+                "text": "Mutación gen AIRE",
+                "guid": "UgakyUkKfh1A9HopbtqraQ",
+                "children": []
+              },
+              {
+                "id": "99",
+                "parent": "96",
+                "text": "Inicio: infancia",
+                "guid": "PAUwHivxEIdx2_EFQlSA7g",
+                "children": []
+              },
+              {
+                "id": "100",
+                "parent": "96",
+                "text": "Asocia: hipoparatiroidismo + candidiasis mucocutánea",
+                "guid": "WGS6_EsyXyR7TGRbGmdJkw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "101",
+            "parent": "95",
+            "text": "Poliglandular tipo II",
+            "guid": "Y45Y_h7EKa0X-6hCC3HgBw",
+            "children": [
+              {
+                "id": "102",
+                "parent": "101",
+                "text": "Herencia: poligénica",
+                "guid": "CvyIoS2_buAk-37uRNKFXQ",
+                "children": []
+              },
+              {
+                "id": "103",
+                "parent": "101",
+                "text": "Inicio: adulto, secuencial",
+                "guid": "K-bsZkjyZygPWkq9JMpvNA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "104",
+            "parent": "95",
+            "text": "Asociaciones:",
+            "guid": "ai0yRldckjJgXdjwf5-6UA",
+            "children": [
+              {
+                "id": "105",
+                "parent": "104",
+                "text": "→ DM1",
+                "guid": "V3dGgH1p29AWX5waKX3rSg",
+                "children": []
+              },
+              {
+                "id": "106",
+                "parent": "104",
+                "text": "→ Enf. tiroidea autoinmune",
+                "guid": "RnRZ7VdUFkMYWJazAnmKDA",
+                "children": []
+              },
+              {
+                "id": "107",
+                "parent": "104",
+                "text": "→ Alopecia areata",
+                "guid": "A0Umygo0h7hEzgr6W6nhxg",
+                "children": []
+              },
+              {
+                "id": "108",
+                "parent": "104",
+                "text": "→ Vitíligo",
+                "guid": "VWbm3EAab1V2EStaOPU_2g",
+                "children": []
+              },
+              {
+                "id": "109",
+                "parent": "104",
+                "text": "→ Anemia perniciosa",
+                "guid": "Xt6ZAg4M05xEZx_hadshow",
+                "children": []
+              },
+              {
+                "id": "110",
+                "parent": "104",
+                "text": "→ Ooforitis autoinmune (10% mujeres)",
+                "guid": "MlUF9z4H8b4MfZ4XHII4Pg",
+                "children": []
+              },
+              {
+                "id": "111",
+                "parent": "104",
+                "text": "→ Enf. celíaca",
+                "guid": "O8xCfWlins8uracBZ7Mu4w",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "112",
+        "parent": "0",
+        "text": "ESTUDIO CAUSAS\nISR PRIMARIA",
+        "guid": "DM-2oyqsDe1zISiPPhOu7w",
+        "children": [
+          {
+            "id": "113",
+            "parent": "112",
+            "text": "Post-test ACTH\n+ ↑ACTH:",
+            "guid": "DOR30iZ68C4kZYUgH6Yz4Q",
+            "children": [
+              {
+                "id": "114",
+                "parent": "113",
+                "text": "TAC abdominal (7)",
+                "guid": "KBiTKEJaW307KlmXPDaLHA",
+                "children": [
+                  {
+                    "id": "115",
+                    "parent": "114",
+                    "text": "Hallazgos\nsugestivos:",
+                    "guid": "DgnMDTINiOopKKZzb7j2ng",
+                    "children": [
+                      {
+                        "id": "116",
+                        "parent": "115",
+                        "text": "Atrofia → autoinmune",
+                        "guid": "IrjcynzVvn4zOE8eL4iTbg",
+                        "children": []
+                      },
+                      {
+                        "id": "117",
+                        "parent": "115",
+                        "text": "Calcificaciones bilaterales → TBC",
+                        "guid": "J4HMayZZd65tnEJdeSoXhA",
+                        "children": []
+                      },
+                      {
+                        "id": "118",
+                        "parent": "115",
+                        "text": "Hemorragias + CID/anticoagulación → Sd. antifosfolípidos",
+                        "guid": "S_FeHiojWL0uNSkgVOBD4A",
+                        "children": []
+                      },
+                      {
+                        "id": "119",
+                        "parent": "115",
+                        "text": "Valorar metástasis si tumor primario",
+                        "guid": "L6Wqazu8V74LQ6dsFKSq_A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "120",
+                "parent": "113",
+                "text": "VLCFA",
+                "guid": "MSQ0mgDSB39YUgB6PgisbA",
+                "children": [
+                  {
+                    "id": "121",
+                    "parent": "120",
+                    "text": "Medir en ♂ <20 años",
+                    "guid": "J0z3rXy3hZpdruBOT2WK1Q",
+                    "children": []
+                  },
+                  {
+                    "id": "122",
+                    "parent": "120",
+                    "text": "10% adrenoleucodistrofia debuta con ISR",
+                    "guid": "PxHhFxjZOeULnBXxTRutJQ",
+                    "children": []
+                  },
+                  {
+                    "id": "123",
+                    "parent": "120",
+                    "text": "30% ISR en ♂ <8 años (1)",
+                    "guid": "SubCzzTEvGU81KPDbZ-fmg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "124",
+                "parent": "113",
+                "text": "Screening\nautoinmune",
+                "guid": "MZp643AM8uIdKDMIWRxHTg",
+                "children": [
+                  {
+                    "id": "125",
+                    "parent": "124",
+                    "text": "Búsqueda dirigida → 50% desarrollan otras patologías AI",
+                    "guid": "FmZqkArEdWVSRl7SYlfIrg",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "124",
+                    "text": "Valorar ciclos menstruales → riesgo insuf. ovárica 1ª",
+                    "guid": "NOfOIgB7h_M3OAyOZI14jQ",
+                    "children": []
+                  },
+                  {
+                    "id": "127",
+                    "parent": "124",
+                    "text": "Estudios básicos:",
+                    "guid": "PDffsUJ7s_p5MiOJbVwUTA",
+                    "children": [
+                      {
+                        "id": "128",
+                        "parent": "127",
+                        "text": "→ Anti-TPO",
+                        "guid": "Q027elGEJAMrZMC4apqzJw",
+                        "children": []
+                      },
+                      {
+                        "id": "129",
+                        "parent": "127",
+                        "text": "→ Glucemia",
+                        "guid": "TjupngkToQY6AD39DU2KtQ",
+                        "children": []
+                      },
+                      {
+                        "id": "130",
+                        "parent": "127",
+                        "text": "→ Anticuerpos antitransglutaminasa",
+                        "guid": "Ieza7EWcU-5aaTfabNOduw",
+                        "children": []
+                      },
+                      {
+                        "id": "131",
+                        "parent": "127",
+                        "text": "→ Vitamina B12",
+                        "guid": "emEQUxc9255acz1VK_uLNg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "132",
+                "parent": "113",
+                "text": "Anticuerpos\nantisuprarrenales",
+                "guid": "B0rOgHebcF0FF9KEHbE5EA",
+                "children": [
+                  {
+                    "id": "133",
+                    "parent": "132",
+                    "text": "Baja sensibilidad",
+                    "guid": "Al_lwldeMVcACQG-N0ez5A",
+                    "children": []
+                  },
+                  {
+                    "id": "134",
+                    "parent": "132",
+                    "text": "No recomendado uso rutinario",
+                    "guid": "V9m5SjdBDkwb1SxyFBGY-w",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "135",
+        "parent": "0",
+        "text": "TRATAMIENTO\nISR PRIMARIA",
+        "guid": "UahLGSWX5nA8hxZgNQsRnA",
+        "children": [
+          {
+            "id": "136",
+            "parent": "135",
+            "text": "OBJETIVO",
+            "guid": "J0HC0xx94C1EpoeuIaLTJw",
+            "children": [
+              {
+                "id": "137",
+                "parent": "136",
+                "text": "→ Reemplazo gluco/mineralocorticoides",
+                "guid": "ebzCRhUHT_sBba1HPQp9wA",
+                "children": []
+              },
+              {
+                "id": "138",
+                "parent": "136",
+                "text": "→ Dosis equivalentes a secreción normal",
+                "guid": "Zotz_yzSbgAnpTDoNMcdnQ",
+                "children": []
+              },
+              {
+                "id": "139",
+                "parent": "136",
+                "text": "→ Prevenir crisis SR aguda (↑morbimortalidad)",
+                "guid": "NeYPBmGlbuVCFKhSV9Lp8g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "140",
+        "parent": "0",
+        "text": "MEDICAMENTOS",
+        "guid": "",
+        "children": [
+          {
+            "id": "141",
+            "parent": "140",
+            "text": "1. HIDROCORTISONA (cortisol)",
+            "guid": "M7u7yx8ZxQNNnl5dOwaKSw",
+            "children": [
+              {
+                "id": "142",
+                "parent": "141",
+                "text": "Dosis: 15-20 mg/d (6-10 mg/m²)",
+                "guid": "FrU1YVK2MOJYt8NbGRUbIw",
+                "children": []
+              },
+              {
+                "id": "143",
+                "parent": "141",
+                "text": "Pauta:",
+                "guid": "KhRiOVjAxRlQXM8IAe4bgw",
+                "children": [
+                  {
+                    "id": "144",
+                    "parent": "143",
+                    "text": "- Adultos: 2 dosis (2/3 am + 1/3 17h) o",
+                    "guid": "EAHTZWwx-3oV_7R-Cb6Vqw",
+                    "children": []
+                  },
+                  {
+                    "id": "145",
+                    "parent": "143",
+                    "text": "- Niños: 3 dosis (1/2 am + 1/4 mediodía + 1/4 17h)",
+                    "guid": "ATlLdRdtYcZGyRNsZ8S_dA",
+                    "children": []
+                  },
+                  {
+                    "id": "146",
+                    "parent": "143",
+                    "text": "→ Imita ritmo circadiano (8)",
+                    "guid": "RD_Pxm5uRFQci90ReiXezA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "147",
+                "parent": "141",
+                "text": "Recomendaciones:",
+                "guid": "UBOzOV6ghWRR-Mi_d1V2DA",
+                "children": [
+                  {
+                    "id": "148",
+                    "parent": "147",
+                    "text": "- Tomar en ayunas",
+                    "guid": "ex5lkRafUG0Y-EkzLtohXA",
+                    "children": []
+                  },
+                  {
+                    "id": "149",
+                    "parent": "147",
+                    "text": "- Dosis vespertina antes 19:00h → evitar insomnio",
+                    "guid": "NbkVcGaWp5Fp4KunTG5K0Q",
+                    "children": []
+                  },
+                  {
+                    "id": "150",
+                    "parent": "147",
+                    "text": "- Control: peso + tolerancia + conocimiento enfermedad",
+                    "guid": "OUzYc0KYbwJlg2X1Y2E6rA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "151",
+                "parent": "141",
+                "text": "Signos suplementación\nsubóptima:",
+                "guid": "G1k0GzXgNP1lT1YvK1sHgA",
+                "children": [
+                  {
+                    "id": "152",
+                    "parent": "151",
+                    "text": "- ↓apetito",
+                    "guid": "IhIwd3tPCq01GZ0rI0t77A",
+                    "children": []
+                  },
+                  {
+                    "id": "153",
+                    "parent": "151",
+                    "text": "- Fatiga/debilidad",
+                    "guid": "Erxsc3visJcLEDthVvw8OQ",
+                    "children": []
+                  },
+                  {
+                    "id": "154",
+                    "parent": "151",
+                    "text": "- Náuseas",
+                    "guid": "alD06yecGHJRIhsGOmSoJA",
+                    "children": []
+                  },
+                  {
+                    "id": "155",
+                    "parent": "151",
+                    "text": "- ↓energía vespertina",
+                    "guid": "Bjyd1iMa48Uxuh4xAVsDZw",
+                    "children": []
+                  },
+                  {
+                    "id": "156",
+                    "parent": "151",
+                    "text": "- Ortostatismo",
+                    "guid": "Obo0MkqyZ2QwNSTDb3NJog",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "157",
+                "parent": "141",
+                "text": "Signos suplementación\nexcesiva:",
+                "guid": "MUkO9RoV0Go74ZR0apXnaA",
+                "children": [
+                  {
+                    "id": "158",
+                    "parent": "157",
+                    "text": "- ↑peso",
+                    "guid": "XK4_bCFk-mlN9yIUeAdzhw",
+                    "children": []
+                  },
+                  {
+                    "id": "159",
+                    "parent": "157",
+                    "text": "- Obesidad central",
+                    "guid": "V0UvZjNGeEMjYnsHeVdf3Q",
+                    "children": []
+                  },
+                  {
+                    "id": "160",
+                    "parent": "157",
+                    "text": "- Insomnio",
+                    "guid": "LpWC8Vh8GDMcotvJQVHvZA",
+                    "children": []
+                  },
+                  {
+                    "id": "161",
+                    "parent": "157",
+                    "text": "- Estrías cutáneas",
+                    "guid": "VF7IyiezFyoYTiuePq-9tg",
+                    "children": []
+                  },
+                  {
+                    "id": "162",
+                    "parent": "157",
+                    "text": "- Intolerancia glucosa",
+                    "guid": "T08vnWlwRqR5FGXaVYvNcw",
+                    "children": []
+                  },
+                  {
+                    "id": "163",
+                    "parent": "157",
+                    "text": "- Hipertensión",
+                    "guid": "DIsqaSrOhAtW5tDbRkVemw",
+                    "children": []
+                  },
+                  {
+                    "id": "164",
+                    "parent": "157",
+                    "text": "- Osteoporosis",
+                    "guid": "dYDrcAcb9Z41uKg9Jsn6ZQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "165",
+            "parent": "140",
+            "text": "2. FLUDROCORTISONA",
+            "guid": "ITHGCXGaPLERX-HOfeAFdQ",
+            "children": [
+              {
+                "id": "166",
+                "parent": "165",
+                "text": "Dosis: 0.1 mg/d (0. 05-0.2 mg/d)",
+                "guid": "Ev83Gl9XA-J153j9akRmgA",
+                "children": [
+                  {
+                    "id": "167",
+                    "parent": "166",
+                    "text": "- No necesaria si hidrocortisona >40 mg/d",
+                    "guid": "Ep18JhlJ9ARjm8ZdQTL_Fw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "168",
+                "parent": "165",
+                "text": "Indicaciones:",
+                "guid": "ccYMNwA-oicChO57RiTVAg",
+                "children": [
+                  {
+                    "id": "169",
+                    "parent": "168",
+                    "text": "- Fase estable ISR primaria",
+                    "guid": "J_G5URrTGhkE1JK4d0Do7g",
+                    "children": []
+                  },
+                  {
+                    "id": "170",
+                    "parent": "168",
+                    "text": "- Prevenir descompensaciones",
+                    "guid": "BENgvX3o-JJMzLZiEM6LJg",
+                    "children": []
+                  },
+                  {
+                    "id": "171",
+                    "parent": "168",
+                    "text": "- Mejorar síntomas déficit mineralocorticoides",
+                    "guid": "KLd8niOzhz1XE-nBHjhoDg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "172",
+                "parent": "165",
+                "text": "Consideraciones:",
+                "guid": "Ks982wzMkf9FAmJzTAFC5A",
+                "children": [
+                  {
+                    "id": "173",
+                    "parent": "172",
+                    "text": "- ↑ingesta sal en clima caluroso",
+                    "guid": "fmbOsFZiREFJ4UhaEWYFyw",
+                    "children": []
+                  },
+                  {
+                    "id": "174",
+                    "parent": "172",
+                    "text": "- ↑dosis si prednisona/dexametasona",
+                    "guid": "NblIJD_IwVd7qmxLSFbESg",
+                    "children": []
+                  },
+                  {
+                    "id": "175",
+                    "parent": "172",
+                    "text": "- Monitorizar: edema + hipotensión ortostática + apetencia sal",
+                    "guid": "WRK1W19GMqkJicNhStjBkw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "176",
+            "parent": "140",
+            "text": "3. DHEAS",
+            "guid": "X4TU0AwOsdwQ_ZaVB3aOIQ",
+            "children": [
+              {
+                "id": "177",
+                "parent": "176",
+                "text": "- Indicación: ♀ con ↓calidad vida pese tratamiento adecuado",
+                "guid": "JuHL9hXSKU1-t3cQKyUssw",
+                "children": []
+              },
+              {
+                "id": "178",
+                "parent": "176",
+                "text": "- Evidencia: leve mejoría calidad vida/ánimo",
+                "guid": "E7sh30uELXI787faPHKefQ",
+                "children": []
+              },
+              {
+                "id": "179",
+                "parent": "176",
+                "text": "- No mejora líbido (9)",
+                "guid": "bze0rxMHoZtaqwaLGgcxig",
+                "children": []
+              },
+              {
+                "id": "180",
+                "parent": "176",
+                "text": "- No indicado uso rutinario en ♀",
+                "guid": "H9Qzmh-taP9mCHRvHjsCSw",
+                "children": []
+              },
+              {
+                "id": "181",
+                "parent": "176",
+                "text": "- Contraindicado en ♂",
+                "guid": "dg-tQC_pvMkvoQgWK8j1ZA",
+                "children": []
+              },
+              {
+                "id": "182",
+                "parent": "176",
+                "text": "- Dosis: 25-50 mg/d (variable)",
+                "guid": "CpGnCn2pfQ8TnfUOahZ72g",
+                "children": []
+              },
+              {
+                "id": "183",
+                "parent": "176",
+                "text": "- Control previo: DHEAS + androstenediona plasmáticas",
+                "guid": "Cbgu7CSbi6NxjQn8MJn64g",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "184",
+        "parent": "0",
+        "text": "SEGUIMIENTO\nISR PRIMARIA",
+        "guid": "CO7lwgWCUa4Nhy6eNmNjjA",
+        "children": [
+          {
+            "id": "185",
+            "parent": "184",
+            "text": "FRECUENCIA\nCONTROL",
+            "guid": "Om208HBEgQxbvyeVTijW0A",
+            "children": [
+              {
+                "id": "186",
+                "parent": "185",
+                "text": "→ Cada 6 meses",
+                "guid": "O8iufhey328Km3VNKwBjLQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "187",
+            "parent": "184",
+            "text": "1. Anamnesis",
+            "guid": "KrqBC2VGe9lFB5S3So60pQ",
+            "children": [
+              {
+                "id": "188",
+                "parent": "187",
+                "text": "- ↓peso",
+                "guid": "BPPk2CsQCSZoybbwewOSGA",
+                "children": []
+              },
+              {
+                "id": "189",
+                "parent": "187",
+                "text": "- Anorexia",
+                "guid": "WvnF7xhqvwYmzId9SqxEDw",
+                "children": []
+              },
+              {
+                "id": "190",
+                "parent": "187",
+                "text": "- Astenia",
+                "guid": "Q7YzaBrsQSsTcXeLTkfacg",
+                "children": []
+              },
+              {
+                "id": "191",
+                "parent": "187",
+                "text": "- Ortostatismo",
+                "guid": "GJW-OycPbJk4XlZNIk3tJw",
+                "children": []
+              },
+              {
+                "id": "192",
+                "parent": "187",
+                "text": "- Líbido",
+                "guid": "S6r4PSnrYElS5-gJBhitLQ",
+                "children": []
+              },
+              {
+                "id": "193",
+                "parent": "187",
+                "text": "- Ciclos menstruales",
+                "guid": "Gi_hVS6nD55UQYP9VfiP0w",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "194",
+            "parent": "184",
+            "text": "2. Examen físico",
+            "guid": "RlnvDl7c-UsA-PMAcRRwGQ",
+            "children": [
+              {
+                "id": "195",
+                "parent": "194",
+                "text": "- Peso/IMC",
+                "guid": "RCN1JEYAh7c7oyS-SRdZ_A",
+                "children": []
+              },
+              {
+                "id": "196",
+                "parent": "194",
+                "text": "- Estigmas Cushing",
+                "guid": "cRCQ3iRs269EGuwUTApWzQ",
+                "children": []
+              },
+              {
+                "id": "197",
+                "parent": "194",
+                "text": "- PA pie/sentado",
+                "guid": "PNeatWrnc5EWtprdAI3OHQ",
+                "children": []
+              },
+              {
+                "id": "198",
+                "parent": "194",
+                "text": "- Edema",
+                "guid": "BdO0vSooEmhO1aiQHmly-A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "199",
+            "parent": "184",
+            "text": "3. Laboratorio básico",
+            "guid": "UTd_AQcz_t1At2AfHOJ3Pg",
+            "children": [
+              {
+                "id": "200",
+                "parent": "199",
+                "text": "- Sodio",
+                "guid": "MR9fJhOfSCgi-yRsS09Aew",
+                "children": []
+              },
+              {
+                "id": "201",
+                "parent": "199",
+                "text": "- Potasio",
+                "guid": "QkZXxnc8qGkhR9BOCKBG1A",
+                "children": []
+              },
+              {
+                "id": "202",
+                "parent": "199",
+                "text": "- Glucemia",
+                "guid": "VhmhtCJAw055tLbtGj0W2A",
+                "children": []
+              },
+              {
+                "id": "203",
+                "parent": "199",
+                "text": "- Perfil lipídico",
+                "guid": "aEFLBTVX26xjVHDUWVHb4w",
+                "children": []
+              },
+              {
+                "id": "204",
+                "parent": "199",
+                "text": "→ No útil: cortisol plasmático/urinario",
+                "guid": "WcS3WydvXOklXDKxFpxSEA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "205",
+            "parent": "184",
+            "text": "4. Exámenes\ncomplementarios",
+            "guid": "ElbQejwSzY4XKiAuGCqFNw",
+            "children": [
+              {
+                "id": "206",
+                "parent": "205",
+                "text": "- TSH + actividad renina plasmática",
+                "guid": "Zjrf9mX_yL42k_gvN3Je9w",
+                "children": []
+              },
+              {
+                "id": "207",
+                "parent": "205",
+                "text": "*Nota: TSH puede estar ↑ sin hipotiroidismo → falta supresión glucocorticoides",
+                "guid": "bTPHm3dLWE5UVNY2HlMmwQ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "208",
+            "parent": "184",
+            "text": "5. Screening\nautoinmune",
+            "guid": "CuqgdndP-qJpomc8TTD4PQ",
+            "children": [
+              {
+                "id": "209",
+                "parent": "208",
+                "text": "- Anti-TPO",
+                "guid": "boyjCwrqN4pV0T8RRKZEwA",
+                "children": []
+              },
+              {
+                "id": "210",
+                "parent": "208",
+                "text": "- Antitransglutaminasa",
+                "guid": "LSr62E-F9f9e41uYFWxF3Q",
+                "children": []
+              },
+              {
+                "id": "211",
+                "parent": "208",
+                "text": "- Vitamina B12",
+                "guid": "BN3Rq0I3zG1uviHBXqKJBg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "212",
+        "parent": "0",
+        "text": "EVALUACIÓN\nHORMONAL",
+        "guid": "",
+        "children": [
+          {
+            "id": "213",
+            "parent": "212",
+            "text": "- Gran variabilidad individual",
+            "guid": "aacpVhQaVHJ1PtsWe_350A",
+            "children": []
+          },
+          {
+            "id": "214",
+            "parent": "212",
+            "text": "- Falta métodos bioquímicos confiables",
+            "guid": "UC0iAAxo-0QUKH8INmgB9g",
+            "children": []
+          },
+          {
+            "id": "215",
+            "parent": "212",
+            "text": "- No consenso seguimiento endocrinológico",
+            "guid": "cmjEAkq8dzdt2mDtX5yLnQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "216",
+        "parent": "0",
+        "text": "CONSIDERACIONES",
+        "guid": "",
+        "children": [
+          {
+            "id": "217",
+            "parent": "216",
+            "text": "1. No normalizar\nACTH matinal",
+            "guid": "QgfPhkIvNyN977JeTPJv_A",
+            "children": [
+              {
+                "id": "218",
+                "parent": "217",
+                "text": "→ Riesgo sobredosificación hidrocortisona",
+                "guid": "OX8xxWeSGZoaI2g5KAvU0Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "219",
+            "parent": "216",
+            "text": "2. Métodos no\nútiles seguimiento:",
+            "guid": "cnxRJG_0p0tsshmRH6dL_A",
+            "children": [
+              {
+                "id": "220",
+                "parent": "219",
+                "text": "- Cortisol libre urinario 24h",
+                "guid": "P3qdSkuVdSk1E5HaRFhu9Q",
+                "children": []
+              },
+              {
+                "id": "221",
+                "parent": "219",
+                "text": "- Cortisol salival",
+                "guid": "Dc1BliPRs5si-vf7d3Rq7A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "222",
+            "parent": "216",
+            "text": "3. Cortisol en pelo",
+            "guid": "N-wIDRg50xFzcmS9CBkqDQ",
+            "children": [
+              {
+                "id": "223",
+                "parent": "222",
+                "text": "- Método nuevo no invasivo",
+                "guid": "JKLOVgea48U-gSwDFwuSWA",
+                "children": []
+              },
+              {
+                "id": "224",
+                "parent": "222",
+                "text": "- Refleja promedio 2-3 meses",
+                "guid": "Ulda_CxbjPB2qB32FF8qgg",
+                "children": []
+              },
+              {
+                "id": "225",
+                "parent": "222",
+                "text": "- Útil detectar dosis suprafisiológicas (10)",
+                "guid": "borEFHSX0FRhUZp_KAn12Q",
+                "children": []
+              },
+              {
+                "id": "226",
+                "parent": "222",
+                "text": "- No estandarizado adecuadamente",
+                "guid": "XCnp73t1ArhQFcqqTqY7Ew",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "227",
+            "parent": "216",
+            "text": "4. ISR secundaria",
+            "guid": "a2mqAzzH5DtuTYcQKuRHTQ",
+            "children": [
+              {
+                "id": "228",
+                "parent": "227",
+                "text": "- Ajuste cortisol similar a primaria",
+                "guid": "CF1ZZSNhGOpvPLZCFiqa-w",
+                "children": []
+              },
+              {
+                "id": "229",
+                "parent": "227",
+                "text": "- No requiere fludrocortisona",
+                "guid": "RzLMhRI3rj0NnwXofx7Ukg",
+                "children": []
+              },
+              {
+                "id": "230",
+                "parent": "227",
+                "text": "→ Secreción aldosterona preservada (renina + K)",
+                "guid": "KnGBTwERaqUHN_6fTxRPpQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "231",
+        "parent": "0",
+        "text": "PREVENCIÓN Y MANEJO\nCRISIS SUPRARRENAL",
+        "guid": "ZP8AkHVn3Nx1jmATQ61Vfg",
+        "children": [
+          {
+            "id": "232",
+            "parent": "231",
+            "text": "MEDIDAS\nPREVENTIVAS",
+            "guid": "CKxOakW5KqJmH-H9WwOpZg",
+            "children": [
+              {
+                "id": "233",
+                "parent": "232",
+                "text": "Identificación",
+                "guid": "chS3klzH__NvYtPpYJ97pg",
+                "children": [
+                  {
+                    "id": "234",
+                    "parent": "233",
+                    "text": "→ Medalla/pulsera grabada con:",
+                    "guid": "UV_QSFC0bmgIqXGALYm6Nw",
+                    "children": [
+                      {
+                        "id": "235",
+                        "parent": "234",
+                        "text": "Nombre paciente",
+                        "guid": "TClxIFi_PCp8L_VKN5MbJA",
+                        "children": []
+                      },
+                      {
+                        "id": "236",
+                        "parent": "234",
+                        "text": "Teléfono contacto",
+                        "guid": "FYcgZmp9fFpid2JxHeR5yw",
+                        "children": []
+                      },
+                      {
+                        "id": "237",
+                        "parent": "234",
+                        "text": "Diagnóstico (ISR 1ª/2ª)",
+                        "guid": "Dd6VRFG0GLQ0DxTGVRFhyQ",
+                        "children": []
+                      },
+                      {
+                        "id": "238",
+                        "parent": "234",
+                        "text": "Dosis hidrocortisona",
+                        "guid": "Y-vG8UGuGq5UMDZbDl1IQA",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "239",
+                "parent": "232",
+                "text": "Educación paciente/familia",
+                "guid": "Qr-FU1toNPpdcZflS2vTvQ",
+                "children": [
+                  {
+                    "id": "240",
+                    "parent": "239",
+                    "text": "Condición crónica → importancia adherencia",
+                    "guid": "ISFfnEOReeMmb30kEzYXLw",
+                    "children": []
+                  },
+                  {
+                    "id": "241",
+                    "parent": "239",
+                    "text": "Ajuste dosis en estrés",
+                    "guid": "IFl51hXSUQ1z1ZLVcblKHg",
+                    "children": []
+                  },
+                  {
+                    "id": "242",
+                    "parent": "239",
+                    "text": "Situaciones riesgo → contactar médico/urgencias",
+                    "guid": "Zoa_dXx_BFUfQwRVMrAwlQ",
+                    "children": []
+                  },
+                  {
+                    "id": "243",
+                    "parent": "239",
+                    "text": "Vómitos/diarrea → hidrocortisona parenteral",
+                    "guid": "VT5AgBty-aBqQ0u5asVg5g",
+                    "children": []
+                  },
+                  {
+                    "id": "244",
+                    "parent": "239",
+                    "text": "Reconocer signos/síntomas crisis suprarrenal",
+                    "guid": "BfB1-ky6risIqdqxE88LPw",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "245",
+            "parent": "231",
+            "text": "AJUSTE DE DOSIS EN\nSITUACIONES ESPECIALES",
+            "guid": "XvUCRBmalVFuBJHPY3derA",
+            "children": [
+              {
+                "id": "246",
+                "parent": "245",
+                "text": "CONDICIONES\nLEVES",
+                "guid": "PjQ7akqKRhcCGOuDVq0TyA",
+                "children": [
+                  {
+                    "id": "247",
+                    "parent": "246",
+                    "text": "1. Cuadro febril ambulatorio",
+                    "guid": "fmcKJj0Qo2QQt9YRQSaPeQ",
+                    "children": [
+                      {
+                        "id": "248",
+                        "parent": "247",
+                        "text": "→ Duplicar dosis habitual",
+                        "guid": "GHjYXm4pbfYMkmM3OZo3-w",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "249",
+                    "parent": "246",
+                    "text": "2. Cirugía menor/endoscopia",
+                    "guid": "Mbrn2TMB4FtM0E8qUhRhsA",
+                    "children": [
+                      {
+                        "id": "250",
+                        "parent": "249",
+                        "text": "→ Duplicar dosis habitual",
+                        "guid": "SNQxaECl4f9DzavOL1rw3Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "251",
+                    "parent": "246",
+                    "text": "3. Ejercicio",
+                    "guid": "foOpxExObSx9KIe7BHQfvg",
+                    "children": [
+                      {
+                        "id": "252",
+                        "parent": "251",
+                        "text": "→ ↑hidrocortisona 5-10mg si intenso",
+                        "guid": "PSTmVWMQsCRiCyFyEmMm1Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "253",
+                    "parent": "246",
+                    "text": "4. Embarazo",
+                    "guid": "QotR4wEjmAY50nAGQPJcCQ",
+                    "children": [
+                      {
+                        "id": "254",
+                        "parent": "253",
+                        "text": "→ ↑dosis en 3er trimestre",
+                        "guid": "GQkbVwXSYmwYQyr9N3fiNg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "255",
+                "parent": "245",
+                "text": "CONDICIONES\nMODERADAS/GRAVES",
+                "guid": "OLO0Dg6rTroQR0vDam6b5w",
+                "children": [
+                  {
+                    "id": "256",
+                    "parent": "255",
+                    "text": "1. Vómitos/diarrea importante",
+                    "guid": "Hb187QBQqWY53FFaWuJjQg",
+                    "children": [
+                      {
+                        "id": "257",
+                        "parent": "256",
+                        "text": "→ GC IV en urgencias",
+                        "guid": "Qa0vFV0Xmu08gv2XCoFgfQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "258",
+                    "parent": "255",
+                    "text": "2. Enfermedad grave",
+                    "guid": "cEB0Pn6cTgo4tt2FMsvGIQ",
+                    "children": [
+                      {
+                        "id": "259",
+                        "parent": "258",
+                        "text": "- IAM/sepsis",
+                        "guid": "Y2FZihvncsxtRYoXYeUDTg",
+                        "children": []
+                      },
+                      {
+                        "id": "260",
+                        "parent": "258",
+                        "text": "→ Hidrocortisona 50mg/8h IV",
+                        "guid": "aDXf-GpuEdJmWSMMAT77Tw",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "261",
+                    "parent": "255",
+                    "text": "3. Cirugía mayor",
+                    "guid": "BIJcaCTogQZgNeOZRi-LfQ",
+                    "children": [
+                      {
+                        "id": "262",
+                        "parent": "261",
+                        "text": "- Cardiotorácica",
+                        "guid": "f7_mEHKJTYxzviIrPfQheg",
+                        "children": []
+                      },
+                      {
+                        "id": "263",
+                        "parent": "261",
+                        "text": "→ Hidrocortisona 50mg/8h IV",
+                        "guid": "PROTo3XXDa4UoTVCdcdHsQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "264",
+                    "parent": "255",
+                    "text": "4. Parto",
+                    "guid": "HQmKlgqNPVR6n_wiAGrkIA",
+                    "children": [
+                      {
+                        "id": "265",
+                        "parent": "264",
+                        "text": "→ Duplicar dosis habitual",
+                        "guid": "AgAb8xy44TBQsOv6H72Y4A",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "266",
+                "parent": "245",
+                "text": "INTERACCIONES\nMEDICAMENTOSAS",
+                "guid": "Oym2emkd9JYE-WAPeD1KHQ",
+                "children": [
+                  {
+                    "id": "267",
+                    "parent": "266",
+                    "text": "- Fenofibrato/fenitoína inicio",
+                    "guid": "JnSwIGflhjliT-duDqqQGQ",
+                    "children": [
+                      {
+                        "id": "268",
+                        "parent": "267",
+                        "text": "→ ↑hidrocortisona 5-10mg/d",
+                        "guid": "UlOYC0ipCnsP6YtoQpQMSQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "269",
+            "parent": "231",
+            "text": "MANEJO CRISIS\nAGUDA",
+            "guid": "Hm7G3zy473do4G0IAlqN0A",
+            "children": [
+              {
+                "id": "270",
+                "parent": "269",
+                "text": "Inicio",
+                "guid": "PoMWV046dWgppuopQIMySw",
+                "children": [
+                  {
+                    "id": "271",
+                    "parent": "270",
+                    "text": "Inmediato ante sospecha",
+                    "guid": "avNWmHpX1iNgQMsrB_zhLw",
+                    "children": []
+                  },
+                  {
+                    "id": "272",
+                    "parent": "270",
+                    "text": "Paciente no conocido → tomar cortisol → iniciar tratamiento",
+                    "guid": "BOUTd1rgx04IZ8VPK1nDlw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "273",
+                "parent": "269",
+                "text": "Terapia",
+                "guid": "QsZNh2q3rL46BFOwFRnlkw",
+                "children": [
+                  {
+                    "id": "274",
+                    "parent": "273",
+                    "text": "Hidrocortisona 50mg/8h IV",
+                    "guid": "M2C3OUnt3xlXrfHceqYPvg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "275",
+                "parent": "269",
+                "text": "Corrección:",
+                "guid": "aEP5qgbaBNhyR1HqG6Sw4w",
+                "children": [
+                  {
+                    "id": "276",
+                    "parent": "275",
+                    "text": "→ Deshidratación",
+                    "guid": "Eo5IB00NxEdBq05TTbf-gQ",
+                    "children": []
+                  },
+                  {
+                    "id": "277",
+                    "parent": "275",
+                    "text": "→ Hipovolemia",
+                    "guid": "Niu43UakrmJF9UieFSC7IQ",
+                    "children": []
+                  },
+                  {
+                    "id": "278",
+                    "parent": "275",
+                    "text": "→ Alteraciones electrolíticas",
+                    "guid": "YD9DszP52m14mBnNHsJaCw",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "279",
+                "parent": "269",
+                "text": "Tratar patologías\nprecipitantes:",
+                "guid": "Gmcez32MTOxM1bEoXS1sVw",
+                "children": [
+                  {
+                    "id": "280",
+                    "parent": "279",
+                    "text": "→ Infección",
+                    "guid": "AjRP1SI_A_ZfRYxWbSembg",
+                    "children": []
+                  },
+                  {
+                    "id": "281",
+                    "parent": "279",
+                    "text": "→ IAM",
+                    "guid": "HJbaGT-GV4F1JIedIXvtkA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "282",
+            "parent": "231",
+            "text": "MANEJO HOSPITALARIO\nY HSC EN ADULTO",
+            "guid": "Kv1NhVrnldodnFsVLTGdWw",
+            "children": [
+              {
+                "id": "283",
+                "parent": "282",
+                "text": "TERAPIA MANTENCIÓN\nHOSPITALARIA",
+                "guid": "UMfj8Un1Q8YWSsChY1Yr-A",
+                "children": [
+                  {
+                    "id": "284",
+                    "parent": "283",
+                    "text": "- Hidrocortisona IV dosis decrecientes hasta estabilización",
+                    "guid": "FwMIDlf2DvQxDip5TS7A6w",
+                    "children": []
+                  },
+                  {
+                    "id": "285",
+                    "parent": "283",
+                    "text": "- ISR 1ª estable + cortisol <40mg/d → agregar fludrocortisona",
+                    "guid": "Hpq9VncDcxhiT3wNftoBCg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "286",
+        "parent": "0",
+        "text": "HIPERPLASIA SUPRARRENAL\nCONGÉNITA CLÁSICA (HSC)",
+        "guid": "",
+        "children": [
+          {
+            "id": "287",
+            "parent": "286",
+            "text": "INDICACIONES\nTRATAMIENTO (11)",
+            "guid": "fSaZ0Xzh52saWUPJGb1z6g",
+            "children": [
+              {
+                "id": "288",
+                "parent": "287",
+                "text": "1. Mujeres: déficit 21 hidroxilasa",
+                "guid": "PGg-7A99y2Y7OWF7Vs9dvA",
+                "children": []
+              },
+              {
+                "id": "289",
+                "parent": "287",
+                "text": "2. Hombres: fenotipo perdedor sal + virilizante simple + restos adrenales",
+                "guid": "DQoYUggPEqMz_MoTdU4R_Q",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "290",
+            "parent": "286",
+            "text": "ESQUEMAS\nTERAPÉUTICOS",
+            "guid": "DukXeyZEG_0Q8sLgX7D7bQ",
+            "children": [
+              {
+                "id": "291",
+                "parent": "290",
+                "text": "1. GC vida media\nlarga nocturno",
+                "guid": "cDlfwyc9g4JDBydlBzxn0Q",
+                "children": [
+                  {
+                    "id": "292",
+                    "parent": "291",
+                    "text": "Ventajas:",
+                    "guid": "fzOSdnQVUd9Uayi9Hc5PzQ",
+                    "children": [
+                      {
+                        "id": "293",
+                        "parent": "292",
+                        "text": "- Inhibe ACTH matinal",
+                        "guid": "axjE9za6pMocqFDXFhYSfA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "294",
+                    "parent": "291",
+                    "text": "Desventajas:",
+                    "guid": "EaI6pDpEq-xDR6_XDsjUdQ",
+                    "children": [
+                      {
+                        "id": "295",
+                        "parent": "294",
+                        "text": "- No imita secreción fisiológica",
+                        "guid": "NyaTV12g86Aohkhgc47SQw",
+                        "children": []
+                      },
+                      {
+                        "id": "296",
+                        "parent": "294",
+                        "text": "- Riesgo trastornos sueño/ánimo",
+                        "guid": "bR6_BmO_qdtKXi__eijXWQ",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "297",
+                "parent": "290",
+                "text": "2. Alternativas:",
+                "guid": "a868fn5a-hJvdulWerfT-Q",
+                "children": [
+                  {
+                    "id": "298",
+                    "parent": "297",
+                    "text": "- Dexametasona 0. 25-0.5mg/23h",
+                    "guid": "JJ8WDwBprDZaaM9mFNh10w",
+                    "children": []
+                  },
+                  {
+                    "id": "299",
+                    "parent": "297",
+                    "text": "- Prednisona 5-7.5mg/d",
+                    "guid": "J6cvuB1v9swcFN2kJtrCLw",
+                    "children": [
+                      {
+                        "id": "300",
+                        "parent": "299",
+                        "text": "→ 2 dosis o única nocturna si no altera sueño",
+                        "guid": "EYVIq3CABmFEqRH8fJ4Nog",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "301",
+                    "parent": "297",
+                    "text": "- Hidrocortisona 10-20mg",
+                    "guid": "JzqrK2FRYtMStCAeONzl0A",
+                    "children": [
+                      {
+                        "id": "302",
+                        "parent": "301",
+                        "text": "→ Niños/insomnio/embarazadas",
+                        "guid": "G5YOv1X7z_ZHpbpFUryiFg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "303",
+            "parent": "286",
+            "text": "SEGUIMIENTO\nGLUCOCORTICOIDES HSC",
+            "guid": "M5zDlnAsAqVGS3RZILuCnQ",
+            "children": [
+              {
+                "id": "304",
+                "parent": "303",
+                "text": "1. Control 17-OH progesterona (9am pre-GC)",
+                "guid": "U-usgBCppFka5Fn2P7po_g",
+                "children": [
+                  {
+                    "id": "305",
+                    "parent": "304",
+                    "text": "VN:",
+                    "guid": "MksDKmSRB_JZRuFqQ9BL1Q",
+                    "children": [
+                      {
+                        "id": "306",
+                        "parent": "305",
+                        "text": "- Fase folicular: <1.8 ng/mL",
+                        "guid": "DwSeawpbQ0w6cjz4M6O0ew",
+                        "children": []
+                      },
+                      {
+                        "id": "307",
+                        "parent": "305",
+                        "text": "- Varones: <3.4 ng/mL",
+                        "guid": "CsTvghTbDF5IfCpOMmwfOw",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "308",
+                "parent": "303",
+                "text": "2. Objetivos:",
+                "guid": "bPpcOjPfe2d9do-_QOYIuw",
+                "children": [
+                  {
+                    "id": "309",
+                    "parent": "308",
+                    "text": "- General: 4-12 ng/mL",
+                    "guid": "VREOVB3v82ZAbll3fEu5fw",
+                    "children": []
+                  },
+                  {
+                    "id": "310",
+                    "parent": "308",
+                    "text": "- Mujeres fertilidad: 4-8 ng/mL",
+                    "guid": "f0FWOVMieZY1KJ9PGtdk-A",
+                    "children": []
+                  },
+                  {
+                    "id": "311",
+                    "parent": "308",
+                    "text": "- Hombres sin restos adrenales: <25 ng/mL",
+                    "guid": "KR5JjHzOWZVtlAcOXLsNIg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "312",
+                "parent": "303",
+                "text": "3. Control andrógenos → niveles normal-alto",
+                "guid": "RIkfwBha6bUAoHG5U42-LA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "313",
+            "parent": "286",
+            "text": "CONTROL MINERALOCORTICOIDES\nHSC PERDEDORA SAL",
+            "guid": "ND6k5zkuHSlGCQoQCU-zOw",
+            "children": [
+              {
+                "id": "314",
+                "parent": "313",
+                "text": "Objetivos:",
+                "guid": "IrYtATsSrrEHMXKnLXschA",
+                "children": [
+                  {
+                    "id": "315",
+                    "parent": "314",
+                    "text": "1. PA normal",
+                    "guid": "T-27EE-tnPVf5zu_Aji-Og",
+                    "children": []
+                  },
+                  {
+                    "id": "316",
+                    "parent": "314",
+                    "text": "2. Sin ortostatismo/edema clínico",
+                    "guid": "Vx4QjwZ3Y4cFm2y7Vl9myA",
+                    "children": []
+                  },
+                  {
+                    "id": "317",
+                    "parent": "314",
+                    "text": "3. Actividad renina plasmática normal-alta",
+                    "guid": "WZndHTrEDApxNsvAArgmqQ",
+                    "children": []
+                  },
+                  {
+                    "id": "318",
+                    "parent": "314",
+                    "text": "4. K plasmático normal",
+                    "guid": "N5Jln17K0s5fczPMJIzB2g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 319,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Endocrinología",
+  "filename": "Arteaga | INSUFICIENCIA SUPRARRENAL (ISR)-2024-1",
+  "id": "map_1503",
+  "resolved_references": []
+}

@@ -1,0 +1,85 @@
+{
+  "title": "ELDERCARE-AF (2020)",
+  "guid": "ELDERCARE-2020-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Nefrología/ELDERCARE-AF-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "ELDERCARE-AF (2020)\nEdoxaban Low-Dose for\nEldeRly patiEnts with\nAtrial Fibrillation\n\\n⭐ Edoxaban 15mg reduce ACV 66%\\nvs placebo en muy ancianos\\nno candidatos a ACO estándar",
+    "guid": "ELDERCARE-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Okumura K et al.\nAño: 2020\nRevista: NEJM\nDOI: 10.1056/NEJMoa2012883\n\\nDiseño: RCT doble ciego\\nMulticéntrico: Japón\\nn = 984 pacientes\\nSeguimiento: event-driven",
+        "guid": "ELDERCARE-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Okumura K et al. NEJM 2020\\n   DOI: 10.1056/NEJMoa2012883\\n\\n2. ENGAGE AF-TIMI 48\\n   Edoxaban dosis estándar\\n\\n3. BAFTA Trial. Lancet 2007\\n   Warfarina en ancianos FA",
+            "guid": "ELDERCARE-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\\nCriterios Inclusión:\\n• Edad mayor o igual 80 años (muy ancianos)\\n• FA no valvular\\n• NO candidatos a ACO estándar:\\n  - ClCr 15-30 mL/min\\n  - Historial sangrado\\n  - Peso menor 45 kg\\n  - Uso crónico AINEs\\n  - Polifarmacia antitrombótica\\n\\nCaracterísticas:\\n• Edad media: 87 años (!)\\n• CHADS2 medio: 3.1\\n• Frágiles, alto riesgo",
+        "guid": "ELDERCARE-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nGrupo Edoxaban:\\n• 15 mg una vez al día\\n• Dosis reducida fija\\n• Sin ajuste adicional\\n• n = 492\\n\\nGrupo Placebo:\\n• Matching placebo\\n• n = 492\\n\\nDuración:\\n• Hasta evento o fin estudio\\n• Event-driven design",
+        "guid": "ELDERCARE-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nACV o embolismo sistémico (1rio):\\n• Edoxaban: 2.3%/año\\n• Placebo: 6.7%/año\\n• HR 0.34 (IC95% 0.19-0.61)\\n• p menor 0.001 ✓\\n• RRR: 66% (!)\n\\nSangrado mayor (seguridad):\\n• Edoxaban: 3.3%/año\\n• Placebo: 1.8%/año\\n• HR 1.87 (p = 0.09, NS)\n\\nMortalidad:\\n• Sin diferencia",
+        "guid": "ELDERCARE-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nSangrado mayor:\\n• Tendencia mayor con edoxaban\\n• No significativo (p=0.09)\\n\\nSangrado GI:\\n• Mayor en grupo edoxaban\\n• Vigilar síntomas\\n\\nSangrado intracraneal:\\n• Sin diferencia\\n\\nBalance riesgo-beneficio:\\n• Reducción ACV 66%\\n• Aumento sangrado NS\\n• Beneficio NETO positivo\\n• Especialmente si CHA2DS2 alto",
+        "guid": "ELDERCARE-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT doble ciego\\n✓ Población muy anciana (87 años)\\n✓ Pacientes NO candidatos ACO\\n✓ Primera evidencia esta población\\n\\nLimitaciones:\\n• Solo población japonesa\\n• Muestra pequeña (n=984)\\n• Event-driven (corto)\\n• No compara con dosis estándar\\n\\nÚnico estudio:\\n• No hay alternativas en\\n  ancianos frágiles no candidatos",
+        "guid": "ELDERCARE-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ FUNDAMENTAL\n\\nPoblación exacta:\\n• Muy ancianos (mayor 80 años)\\n• Frágiles\\n• Alto riesgo sangrado\\n• Sin opciones previas\\n\\nAplicación práctica:\\n• ClCr 15-30: edoxaban 15mg\\n• Peso menor 45 kg: edoxaban 15mg\\n• Polifarmacia: considerar\\n\\nPrecaución:\\n• Sangrado GI: vigilar\\n• No usar si alternativa viable\\n\\nCambia práctica:\\n• Antes: sin ACO posible\\n• Ahora: edoxaban 15mg opción",
+        "guid": "ELDERCARE-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. 87 años de edad media:\n   el estudio MÁS anciano en FA\n\\n2. 66% reducción ACV:\n   beneficio ENORME\n\\n3. NO candidatos a ACO estándar:\n   única opción para ellos\n\\n4. ClCr 15-30 mL/min:\n   edoxaban 15mg funciona\n\\n5. Sangrado mayor NS:\n   balance favorable\n\\n6. Solo Japón:\n   extrapolar con precaución\n\\n7. Dosis fija 15mg:\n   simple, sin ajustes\n\\n8. Cambia paradigma:\n   ya no hay muy anciano sin opción",
+        "guid": "ELDERCARE-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Nefrología",
+  "filename": "ELDERCARE-AF-2026",
+  "id": "map_942",
+  "resolved_references": []
+}

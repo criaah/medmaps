@@ -1,0 +1,85 @@
+{
+  "title": "AFFIRM (2002)",
+  "guid": "AFFIRM-2002-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/AFFIRM-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "AFFIRM (2002)\nAtrial Fibrillation Follow-up\nInvestigation of Rhythm\nManagement\n\n⭐ Control de frecuencia NO inferior\na control de ritmo en FA\n(Permite mantener FA + anticoagular)",
+    "guid": "AFFIRM-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: AFFIRM Investigators\\n(Wyse DG et al.)\nAño: 2002\nRevista: NEJM\nDOI: 10.1056/NEJMoa021328\n\\nDiseño: RCT abierto\\nMulticéntrico USA + Canadá\\nn = 4,060 pacientes\\nSeguimiento: Media 3.5 años",
+        "guid": "AFFIRM-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. AFFIRM Investigators. NEJM 2002\\n   DOI: 10.1056/NEJMoa021328\\n\\n2. RACE II Trial. NEJM 2010\\n   Lenient vs strict rate control\\n\\n3. ESC AF Guidelines 2024",
+            "guid": "AFFIRM-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• FA documentada (mayor 6 hrs)\\n• Edad mayor o igual 65 años O\\n  factor riesgo ACV\\n• Candidatos a ambas estrategias\\n\\nCaracterísticas:\\n• Edad media: 70 años\\n• 39% mujeres\\n• 71% HTA\\n• 38% cardiopatía coronaria\\n• 26% disfunción VI\\n\\nAlto riesgo embólico basal",
+        "guid": "AFFIRM-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nControl de RITMO:\\n• Cardioversión eléctrica/farmacológica\\n• Antiarrítmicos: amiodarona, sotalol,\\n  propafenona, flecainida, otros\\n• Meta: mantener ritmo sinusal\\n• Anticoagulación según criterio\\n\\nControl de FRECUENCIA:\\n• Beta-bloqueadores\\n• Calcioantagonistas (diltiazem)\\n• Digoxina\\n• Meta: FC menor 80 reposo,\\n  menor 110 ejercicio\\n• Anticoagulación MANDATORIA",
+        "guid": "AFFIRM-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nMortalidad total (primario):\\n• Ritmo: 23.8% (5 años)\\n• Frecuencia: 21.3%\\n• HR 1.15 (IC95% 0.99-1.34)\\n• p = 0.08\\n• Sin diferencia significativa\\n\\nTendencia NUMERICA:\\n• Mayor mortalidad en grupo ritmo\\n• Principalmente cardiovascular\\n\\nHospitalizaciones:\\n• Ritmo: mas hospitalizaciones\\n• Frecuencia: menos\\n\\nACV:\\n• Similar en ambos grupos\\n• Mayoría en sub-anticoagulados",
+        "guid": "AFFIRM-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEfectos adversos Control Ritmo:\\n• Proarritmia (torsades)\\n• Bradicardia\\n• Toxicidad amiodarona:\\n  - Pulmonar\\n  - Tiroidea\\n  - Hepática\\n• Mayor tasa hospitalizaciones\\n\\nEfectos adversos Control Frecuencia:\\n• Fatiga\\n• Bradicardia\\n• Menor tolerancia ejercicio\\n\\nACV en ambos:\\n• Mayoría cuando INR subterapéutico\\n• ANTICOAGULACION es clave",
+        "guid": "AFFIRM-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ Gran tamaño muestral\\n✓ Seguimiento prolongado\\n✓ Outcome duro (mortalidad)\\n✓ Población clínicamente relevante\\n\\nLimitaciones:\\n• Estudio abierto\\n• Era pre-DOACs\\n• Era pre-ablación moderna\\n• Antiarrítmicos antiguos\\n• Crossover significativo\\n\\nValidez actual:\\n• Principio sigue vigente\\n• Pero opciones de ritmo\\n  han mejorado (ablación)",
+        "guid": "AFFIRM-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Altamente relevante\n\\nPoblación anciana (media 70 años):\\n• Control frecuencia: estrategia\\n  razonable primera línea\\n• Menor exposición antiarrítmicos\\n• Menor hospitalizaciones\\n\\nImplicancias geriátricas:\\n• Aceptar FA crónica es válido\\n• Anticoagulación OBLIGATORIA\\n• Controlar síntomas, no ritmo\\n• Menos fármacos = menos RAM",
+        "guid": "AFFIRM-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. NO es obligatorio mantener\n   ritmo sinusal en FA\n\\n2. Lo CRUCIAL es anticoagulación\n   NO el ritmo\n\\n3. ACV ocurre al suspender ACO\n   incluso en ritmo sinusal\n\\n4. Control frecuencia:\n   Menos efectos adversos\n   Menos hospitalizaciones\n\\n5. Antiarrítmicos tienen RAM\n   significativas en ancianos\n\\n6. Ablación ha cambiado paradigma\n   pero en ancianos frágiles,\n   control frecuencia sigue vigente\n\\n7. Meta FC menor 110 lpm\n   es suficiente (RACE II)",
+        "guid": "AFFIRM-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Cardiología",
+  "folder": "- Estudios Pivotales",
+  "filename": "AFFIRM-2026",
+  "id": "map_13",
+  "resolved_references": []
+}

@@ -1,0 +1,982 @@
+{
+  "title": "GENERALIDADES DE LA HEMATOPOYESIS",
+  "guid": "0BE85E057FF2D7683C0D8276",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/Hematología/1. GENERALIDADES DE LA HEMATOPOYESIS-2025-1.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "GENERALIDADES DE\nLA HEMATOPOYESIS",
+    "guid": "U6DcHHmA2AxCdxLzHfqJww",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "## 1. GENERALIDADES",
+        "guid": "V37sWHtcR-kQ_qCdDPgp0A",
+        "children": [
+          {
+            "id": "2",
+            "parent": "1",
+            "text": "- Proceso de formación de células sanguíneas en médula ósea",
+            "guid": "J8q1XzoheRcx0GOsOUPjDQ",
+            "children": []
+          },
+          {
+            "id": "3",
+            "parent": "1",
+            "text": "- Células maduras poseen vida media corta → proceso continuo",
+            "guid": "Us4qEQ9tFdY1-h5aQjNSxA",
+            "children": []
+          },
+          {
+            "id": "4",
+            "parent": "1",
+            "text": "- Necesidad fisiológica prioritaria en homeostasis corporal",
+            "guid": "B8ny-hPHL9VCVdZzWvkTkw",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "## 2. MÉDULA ÓSEA",
+        "guid": "FI9HlHAj6pRmG9_1PFn88w",
+        "children": [
+          {
+            "id": "6",
+            "parent": "5",
+            "text": "- Principal sitio de hematopoyesis desde segunda mitad del embarazo",
+            "guid": "aEc7skPFFJEYYS-DZ1fXAw",
+            "children": []
+          },
+          {
+            "id": "7",
+            "parent": "5",
+            "text": "- En humanos adultos: esqueleto axial, costillas, vértebras y hueso ilíaco",
+            "guid": "O5kj7GiYHBAbG5gfcZ9VKw",
+            "children": []
+          },
+          {
+            "id": "8",
+            "parent": "5",
+            "text": "- Cavidad medular (huesos largos) y espacios entre trabéculas (huesos esponjosos)",
+            "guid": "dIB6FhsOb4ctrNehSCFWMg",
+            "children": []
+          },
+          {
+            "id": "9",
+            "parent": "5",
+            "text": "### 2.1. Histología",
+            "guid": "eOr0Y1YZJftfR6doUWi8Zg",
+            "children": [
+              {
+                "id": "10",
+                "parent": "9",
+                "text": "- Compartimiento vascular",
+                "guid": "KkVjqxfsQ6F1neAAAcRQBA",
+                "children": [
+                  {
+                    "id": "11",
+                    "parent": "10",
+                    "text": "- Vasos sanguíneos forman esqueleto estructural",
+                    "guid": "E0iLigacgJ4OvHnUZha1nA",
+                    "children": []
+                  },
+                  {
+                    "id": "12",
+                    "parent": "10",
+                    "text": "- Arterias nutricias → arteria longitudinal central → capilares → sinusoides",
+                    "guid": "FgmWdES2mC4oSghgHdOJbg",
+                    "children": []
+                  },
+                  {
+                    "id": "13",
+                    "parent": "10",
+                    "text": "- Sinusoides: pared de células endoteliales, lámina basal y células reticulares",
+                    "guid": "WH3IA2qf3tN4zJ0BQMUDtg",
+                    "children": []
+                  },
+                  {
+                    "id": "14",
+                    "parent": "10",
+                    "text": "- Migración celular a través de poros transendoteliales (<4 µm)",
+                    "guid": "LmTzZBEtzIQoHNq5af4XUA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "15",
+                "parent": "9",
+                "text": "- Compartimiento hematopoyético",
+                "guid": "ecXolUM4cthbnWx7bkZiqw",
+                "children": [
+                  {
+                    "id": "16",
+                    "parent": "15",
+                    "text": "- Islotes de células hematopoyéticas en diferentes estadios",
+                    "guid": "XkbiXwlKRB02Z7jdctYp8w",
+                    "children": []
+                  },
+                  {
+                    "id": "17",
+                    "parent": "15",
+                    "text": "- Estroma medular: macrófagos, células reticulares y adiposas",
+                    "guid": "eW4usRyDmNMvMCbnI7OSXQ",
+                    "children": [
+                      {
+                        "id": "18",
+                        "parent": "17",
+                        "text": "- Regulan hematopoyesis secretando citoquinas y factores de maduración",
+                        "guid": "NG_cdCTOBucld-JhR7hn_w",
+                        "children": []
+                      },
+                      {
+                        "id": "19",
+                        "parent": "17",
+                        "text": "- Macrófagos: fagocitan núcleos expulsados y células alteradas/muertas",
+                        "guid": "K2qHhTQ0XDUtzx2bQXQd-Q",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "20",
+                    "parent": "15",
+                    "text": "#### a) Compartimiento de células madre",
+                    "guid": "QLkEzlgURGkSLcAcbx34Mg",
+                    "children": [
+                      {
+                        "id": "21",
+                        "parent": "20",
+                        "text": "- CPHs: <1% de células de médula ósea",
+                        "guid": "aUIQ7jpKmtVZHA-CYwf5gw",
+                        "children": []
+                      },
+                      {
+                        "id": "22",
+                        "parent": "20",
+                        "text": "- Inmunofenotipo: CD34+, CD38-, CD90+, CD117+, HLA-DR-",
+                        "guid": "fYMNrTS5e_5RTlwuW8nwDQ",
+                        "children": []
+                      },
+                      {
+                        "id": "23",
+                        "parent": "20",
+                        "text": "- CFU-ML (Unidad formadora de colonias mieloides y linfoides)",
+                        "guid": "PgPAGwe2FQtOoBoAN3HuzA",
+                        "children": []
+                      },
+                      {
+                        "id": "24",
+                        "parent": "20",
+                        "text": "- Origina líneas mieloide y linfoide",
+                        "guid": "JDmt3n3QQOdbJYEpWKmKUw",
+                        "children": []
+                      },
+                      {
+                        "id": "25",
+                        "parent": "20",
+                        "text": "- Línea mieloide: CFUGEMM → CFU-GM, CFU-MegE → CFU-G, CFU-M, CFU-E, CFU-Meg",
+                        "guid": "Ip5HzwCdY4ogYfJSTgjPVA",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "26",
+                    "parent": "15",
+                    "text": "#### b) Compartimiento mitótico",
+                    "guid": "NNG_v04xD-0PfO1OLby0Ig",
+                    "children": [
+                      {
+                        "id": "27",
+                        "parent": "26",
+                        "text": "- Primeras células morfológicamente reconocibles",
+                        "guid": "JEo16G7ElLZ_JXCJZQM6tg",
+                        "children": []
+                      },
+                      {
+                        "id": "28",
+                        "parent": "26",
+                        "text": "- Mieloblasto → promielocito → mielocito (diferenciación de granulocitos)",
+                        "guid": "RtjZHxFTMKVUITLoMBrqDQ",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "id": "29",
+                    "parent": "15",
+                    "text": "#### c) Compartimiento de maduración-almacenamiento",
+                    "guid": "S53Ley09QmoTIuOQSSDZKA",
+                    "children": [
+                      {
+                        "id": "30",
+                        "parent": "29",
+                        "text": "- Granulocitos: juveniles → baciliformes → segmentados",
+                        "guid": "Yfa-aGRxP74k6sk1H_p-gw",
+                        "children": []
+                      },
+                      {
+                        "id": "31",
+                        "parent": "29",
+                        "text": "- Monocitos: monoblasto → monocito",
+                        "guid": "bCdUynOK4zZXbG1QEGECqA",
+                        "children": []
+                      },
+                      {
+                        "id": "32",
+                        "parent": "29",
+                        "text": "- Megacariocitos: megacarioblasto → megacariocito → plaquetas",
+                        "guid": "cVskHTKR7nlpCoz7E_lr7A",
+                        "children": []
+                      },
+                      {
+                        "id": "33",
+                        "parent": "29",
+                        "text": "- Eritroblastos: proeritroblasto → eritroblasto basófilo → eritroblasto policromático → eritroblasto ortocromático → reticulocito → glóbulo rojo",
+                        "guid": "My9SBAlsf01iAjtBaAERww",
+                        "children": []
+                      },
+                      {
+                        "id": "34",
+                        "parent": "29",
+                        "text": "- Línea linfoide: CFU-L → linfocitos B y T (maduración adicional en Timo)",
+                        "guid": "V52POnF_KI8VvcXme-fFIg",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "35",
+        "parent": "0",
+        "text": "## 3. CÉLULAS\nPROGENITORAS\nHEMATOPOYÉTICAS",
+        "guid": "YEO9RRTjNm9g6v_YJxyWZA",
+        "children": [
+          {
+            "id": "36",
+            "parent": "35",
+            "text": "### 3.1. Definición de CPHs",
+            "guid": "Ykl1K2paZAI69Qu4REAzkw",
+            "children": [
+              {
+                "id": "37",
+                "parent": "36",
+                "text": "- Células clonogénicas\ncon capacidad de:",
+                "guid": "PcsHfDrBg24JaXGoFWiWtw",
+                "children": [
+                  {
+                    "id": "38",
+                    "parent": "37",
+                    "text": "- Autorenovación",
+                    "guid": "TsujwV_f1O1kOrIXOvL4iw",
+                    "children": []
+                  },
+                  {
+                    "id": "39",
+                    "parent": "37",
+                    "text": "- Proliferación",
+                    "guid": "U2q4IzunH2dLU_szRMXcQQ",
+                    "children": []
+                  },
+                  {
+                    "id": "40",
+                    "parent": "37",
+                    "text": "- Diferenciación a todos los tipos de células sanguíneas",
+                    "guid": "bjkN4DReiC9Yv0gtIWhf5A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "41",
+            "parent": "35",
+            "text": "### 3.2. Estudio de la célula\ntroncal hematopoyética",
+            "guid": "LECr_R8nN44RUFvZDIRpQg",
+            "children": [
+              {
+                "id": "42",
+                "parent": "41",
+                "text": "- Ensayos in vitro",
+                "guid": "NApt_XI7W7IzoP-nWkDVEQ",
+                "children": [
+                  {
+                    "id": "43",
+                    "parent": "42",
+                    "text": "- Independientes de estroma: CFU-C, HPP-CFC",
+                    "guid": "J0eOcgrYgBlMFQehCZEDnQ",
+                    "children": []
+                  },
+                  {
+                    "id": "44",
+                    "parent": "42",
+                    "text": "- Dependientes de estroma: LTC-IC",
+                    "guid": "dTLkGwcKE1lN0TcxQ_6H3A",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "45",
+                "parent": "41",
+                "text": "- Ensayos in vivo",
+                "guid": "ZunoRjIL6Uh-8YBnOlSgag",
+                "children": [
+                  {
+                    "id": "46",
+                    "parent": "45",
+                    "text": "- CFU-S (unidades formadoras de colonias en bazo)",
+                    "guid": "bbMIr0pFe5t_GnyrW-wWjw",
+                    "children": []
+                  },
+                  {
+                    "id": "47",
+                    "parent": "45",
+                    "text": "- LTRA (ensayo de repoblación por largos períodos)",
+                    "guid": "fqQDylfZxNh9VHZ0PG8LRg",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "48",
+            "parent": "35",
+            "text": "### 3.3. Identificación y\naislamiento de CPHs",
+            "guid": "EptIRwa96BxR16H9Ptv0RA",
+            "children": [
+              {
+                "id": "49",
+                "parent": "48",
+                "text": "- Técnicas iniciales: separación por densidad y tamaño",
+                "guid": "JeUfqmMn_ddLYF2HWe-Npw",
+                "children": []
+              },
+              {
+                "id": "50",
+                "parent": "48",
+                "text": "- Estrategias de enriquecimiento con drogas del ciclo celular",
+                "guid": "VWNZiX8BXS40MGK4fKrn-w",
+                "children": []
+              },
+              {
+                "id": "51",
+                "parent": "48",
+                "text": "- Citometría de flujo (FACS)\ncon marcadores específicos",
+                "guid": "CdndRwBFalkGO-uZfwzBYg",
+                "children": [
+                  {
+                    "id": "52",
+                    "parent": "51",
+                    "text": "- Marcadores humanos: CD34+, CD38-, HLA-DR-, Thy-1 bajo, Lin-",
+                    "guid": "B099slQNIspDC0k_bjll-Q",
+                    "children": []
+                  },
+                  {
+                    "id": "53",
+                    "parent": "51",
+                    "text": "- Otros marcadores: CD117 (c-kit), CD133 (AC133)",
+                    "guid": "BhkMEkH8yaYojgZjc8wUwQ",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "54",
+            "parent": "35",
+            "text": "### 3.4. Heterogeneidad\nde las CPHs",
+            "guid": "DEJFQSeogw5PuCtQCuZJCw",
+            "children": [
+              {
+                "id": "55",
+                "parent": "54",
+                "text": "- Compartimiento de células troncales con diferentes capacidades",
+                "guid": "f4JH5k0MocRHVVRSEh2QLQ",
+                "children": []
+              },
+              {
+                "id": "56",
+                "parent": "54",
+                "text": "- Rodamina-123 identifica CPHs con distintos grados de autorenovación",
+                "guid": "CBUEQ1SfIUQkQd3QD2SB9g",
+                "children": []
+              },
+              {
+                "id": "57",
+                "parent": "54",
+                "text": "- CPHs con capacidad de regeneración extensa: ~0.01% de células medulares",
+                "guid": "KKxEDmdNJw99nefvLsVQIA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "58",
+            "parent": "35",
+            "text": "### 3.5. División de las CPHs",
+            "guid": "KUnwtiYr7lIikWThNYw19w",
+            "children": [
+              {
+                "id": "59",
+                "parent": "58",
+                "text": "- División simétrica vs. asimétrica",
+                "guid": "TdRxYHJJkDFAcn8DTVa5Rg",
+                "children": []
+              },
+              {
+                "id": "60",
+                "parent": "58",
+                "text": "- División asimétrica: factores extrínsecos o intrínsecos",
+                "guid": "P1Yx9gfH01VfdEl0EyC71g",
+                "children": []
+              },
+              {
+                "id": "61",
+                "parent": "58",
+                "text": "- Genes \"notch\" cruciales en regulación de autorenovación vs. diferenciación",
+                "guid": "IPTJpDBtzeYM0GVhHUm9yw",
+                "children": []
+              },
+              {
+                "id": "62",
+                "parent": "58",
+                "text": "- Cinética de subdivisión: MyBi HSC, Ly-Bi CPHs, Bala CPHs",
+                "guid": "TMev32BvnJJvAgt6aCLvBg",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "63",
+            "parent": "35",
+            "text": "### 3.6. Ontogenia de la CPHs",
+            "guid": "aD82fD1lQSUNWAt0cFQ6wA",
+            "children": [
+              {
+                "id": "64",
+                "parent": "63",
+                "text": "- Células totipotentes → pluripotentes → multipotentes",
+                "guid": "EgRiaTGZ6UR_uLy2OrCmdw",
+                "children": []
+              },
+              {
+                "id": "65",
+                "parent": "63",
+                "text": "- Células hematopoyéticas y endoteliales comparten precursor (hemangioblasto)",
+                "guid": "GOcQVH1WpKVpdfaXQjEBCg",
+                "children": []
+              },
+              {
+                "id": "66",
+                "parent": "63",
+                "text": "- Señales moleculares: bmp-4, flk-1, tgfβ1, scl",
+                "guid": "I4KS9wwHW3h3vTcBcVcEVw",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "67",
+            "parent": "35",
+            "text": "### 3.7. Factores de crecimiento en decisión de linaje",
+            "guid": "flDrqjgvtgQ-rb2dPacdoA",
+            "children": [
+              {
+                "id": "68",
+                "parent": "67",
+                "text": "- Modelos de acción:",
+                "guid": "Kp1daRDSf1AWm0ymPKG_0g",
+                "children": [
+                  {
+                    "id": "69",
+                    "parent": "68",
+                    "text": "- Señales externas determinan linaje",
+                    "guid": "P_eJWR4iBxFQx9l2YOxS_g",
+                    "children": []
+                  },
+                  {
+                    "id": "70",
+                    "parent": "68",
+                    "text": "- Señales afectan células ya comprometidas",
+                    "guid": "To_U912YPtd-NhDJG1eE1g",
+                    "children": []
+                  },
+                  {
+                    "id": "71",
+                    "parent": "68",
+                    "text": "- Modelo combinado",
+                    "guid": "Pgfbam04HEMDenPcJkcR5g",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "72",
+                "parent": "67",
+                "text": "- Factores multilinaje/pleiotrópicos: SCF, IL-3, GM-CSF, IL-9, IL-11",
+                "guid": "QmxolRZUCVx3UmZKW1N46Q",
+                "children": []
+              },
+              {
+                "id": "73",
+                "parent": "67",
+                "text": "- Factores específicos de linaje: eritropoyetina, trombopoyetina, G-CSF",
+                "guid": "E6quAWDIXOEdhHnzNy1A-A",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "74",
+            "parent": "35",
+            "text": "### 3.8. Genes involucrados\nen decisión de linaje",
+            "guid": "WcNwXXK116k7dsdCBGDNxg",
+            "children": [
+              {
+                "id": "75",
+                "parent": "74",
+                "text": "- Familia HOX: HOXB (diferenciación mieloide), HOXC (linaje linfoide)",
+                "guid": "bM-4WhVBsPQohEVPayCkBA",
+                "children": []
+              },
+              {
+                "id": "76",
+                "parent": "74",
+                "text": "- Familia GATA: GATA-1 (eritropoyesis), GATA-2 (CPHs), GATA-3 (linfocitos T)",
+                "guid": "TXFm-WcyAu0ox8GkDWjwUg",
+                "children": []
+              },
+              {
+                "id": "77",
+                "parent": "74",
+                "text": "- Familia PAX: PAX-5 (linaje linfoide B)",
+                "guid": "BVQJ_nmPmxpuVUNQU-Pe9g",
+                "children": []
+              },
+              {
+                "id": "78",
+                "parent": "74",
+                "text": "- Proteínas morfogénicas óseas (BMPs): desarrollo tisular y homeostasis",
+                "guid": "VyfZ8myLVBlvO2PMFS-1XA",
+                "children": []
+              },
+              {
+                "id": "79",
+                "parent": "74",
+                "text": "- Genes de autorenovación: foxd3, oct4, fgf4, sox2",
+                "guid": "A4hW-VISE-lBAo2YRfS_jg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "80",
+        "parent": "0",
+        "text": "## 4. MICROAMBIENTE DE\nLA MÉDULA ÓSEA",
+        "guid": "",
+        "children": [
+          {
+            "id": "81",
+            "parent": "80",
+            "text": "- Células no hematopoyéticas que regulan la hematopoyesis",
+            "guid": "CclSFAtnoT1_vJkuY4zCcQ",
+            "children": []
+          },
+          {
+            "id": "82",
+            "parent": "80",
+            "text": "- Componentes:",
+            "guid": "M41MWQjhDl5WunUyMarFPw",
+            "children": [
+              {
+                "id": "83",
+                "parent": "82",
+                "text": "- Células derivadas de línea ósea: osteopontina, trombopoyetina, angiopoyetina",
+                "guid": "fh145jszYHFn7ZA3AaXP3w",
+                "children": []
+              },
+              {
+                "id": "84",
+                "parent": "82",
+                "text": "- Células perivasculares: expresan CXCL12, SCF, ANGPT1, OPN, IL-7, VWF, VCAM 1",
+                "guid": "DUV0WijwHdBHmo9udauRnw",
+                "children": []
+              },
+              {
+                "id": "85",
+                "parent": "82",
+                "text": "- Células adiposas: influyen en proliferación de CPHs",
+                "guid": "YUURsmjix-VxvFzmemJidg",
+                "children": []
+              },
+              {
+                "id": "86",
+                "parent": "82",
+                "text": "- Células endoteliales: expresan NOTCH, CXCL12, SCF, pleiotrofina",
+                "guid": "J696UCT6aSYAT2uUe73drw",
+                "children": []
+              },
+              {
+                "id": "87",
+                "parent": "82",
+                "text": "- Regulación neural: nervios simpáticos inervan médula profunda",
+                "guid": "ALy6tXFdGLYdPagHQ7EPMQ",
+                "children": []
+              },
+              {
+                "id": "88",
+                "parent": "82",
+                "text": "- Matriz extracelular: glicosamino-glicanos unen factores de crecimiento",
+                "guid": "CzKHfEwmYrEL-W2rHpeRXQ",
+                "children": []
+              },
+              {
+                "id": "89",
+                "parent": "82",
+                "text": "- Barrera hemato-medular: regula flujo de mediadores y migración celular",
+                "guid": "aWRgrCglqxwJJHUvcy2ywQ",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "90",
+        "parent": "0",
+        "text": "## 5. MADURACIÓN DE\nLINAJES CELULARES",
+        "guid": "",
+        "children": [
+          {
+            "id": "91",
+            "parent": "90",
+            "text": "### 5.1. Eritropoyesis",
+            "guid": "RBRuzz6oBWozUJUeUVnjKQ",
+            "children": [
+              {
+                "id": "92",
+                "parent": "91",
+                "text": "- Estadios: proeritroblasto → eritroblasto basófilo → eritroblasto policromático → eritroblasto ortocromático → reticulocito → glóbulo rojo",
+                "guid": "Z5gjOnrrJIxHBXTISN007A",
+                "children": [
+                  {
+                    "id": "93",
+                    "parent": "92",
+                    "text": "- Características: hemoglobinización progresiva, reducción tamaño nuclear",
+                    "guid": "Y83scjjB0a9DP5djC31mwg",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "94",
+                "parent": "91",
+                "text": "- Eritropoyetina (EPO): regulador humoral",
+                "guid": "Xbw61UOPAvcHO0RxXnj1ig",
+                "children": [
+                  {
+                    "id": "95",
+                    "parent": "94",
+                    "text": "- Producción: células peritubulares renales",
+                    "guid": "NOwbriR47HgiKgS7QB6jKg",
+                    "children": []
+                  },
+                  {
+                    "id": "96",
+                    "parent": "94",
+                    "text": "- Regulada por hipoxia tisular",
+                    "guid": "cJ9PKS4jcmZetjSHWgOv1g",
+                    "children": []
+                  },
+                  {
+                    "id": "97",
+                    "parent": "94",
+                    "text": "- Factor obligatorio desde CFU-E hasta eritroblasto basófilo",
+                    "guid": "VkkdgmfaqbdNMWKXCdZp2w",
+                    "children": []
+                  },
+                  {
+                    "id": "98",
+                    "parent": "94",
+                    "text": "- Regulación génica: promotor, enhancer 3', HIF-1",
+                    "guid": "cLu4FSPr18k7gS8aNNAm5A",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "99",
+            "parent": "90",
+            "text": "### 5.2. Granulomonopoyesis",
+            "guid": "YpPdM27RxDkGKgoNSiwAbQ",
+            "children": [
+              {
+                "id": "100",
+                "parent": "99",
+                "text": "- Estadios granulocitos: mieloblasto → promielocito → mielocito → metamielocito → baciforme → segmentado",
+                "guid": "abzoxU0vftUTCTVaTYrVNw",
+                "children": []
+              },
+              {
+                "id": "101",
+                "parent": "99",
+                "text": "- Estadios monocitos: monoblasto → promonocito → monocito → macrófago",
+                "guid": "BfFQhFZIzL1ZCDv5Y62LWQ",
+                "children": []
+              },
+              {
+                "id": "102",
+                "parent": "99",
+                "text": "- Factores de\nmaduración:",
+                "guid": "TljUpwBFuT1ULjCzVEolKw",
+                "children": [
+                  {
+                    "id": "103",
+                    "parent": "102",
+                    "text": "- GM-CSF: estimula neutrófilos, basófilos, eosinófilos y monocitos",
+                    "guid": "GdfPtGBDgGpCJoDjTsPrYg",
+                    "children": []
+                  },
+                  {
+                    "id": "104",
+                    "parent": "102",
+                    "text": "- G-CSF: estimula proliferación y diferenciación de neutrófilos",
+                    "guid": "BLxs4mRQhZ4O4o6NdVu8DA",
+                    "children": []
+                  },
+                  {
+                    "id": "105",
+                    "parent": "102",
+                    "text": "- M-CSF: específico para linaje monocito-macrófago",
+                    "guid": "EnP4BW2YwxRPX2viaL0Vhw",
+                    "children": []
+                  },
+                  {
+                    "id": "106",
+                    "parent": "102",
+                    "text": "- IL-3: estimula múltiples linajes",
+                    "guid": "VXNsyxyQznlyk39jRi8k4A",
+                    "children": []
+                  },
+                  {
+                    "id": "107",
+                    "parent": "102",
+                    "text": "- SCF: citoquina pleiotrópica",
+                    "guid": "QHymQi4Urn16_0vEIxCDdg",
+                    "children": []
+                  },
+                  {
+                    "id": "108",
+                    "parent": "102",
+                    "text": "- FIt-3 ligand: factor sinérgico para progenitores primitivos",
+                    "guid": "HOZytgEpVdFtPIPjBqNbfA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "109",
+            "parent": "90",
+            "text": "### 5.3. Linfopoyesis",
+            "guid": "Vo6F-i02bK0397CFcGZVrw",
+            "children": [
+              {
+                "id": "110",
+                "parent": "109",
+                "text": "- Células B:",
+                "guid": "ekfydFJHcCNXD3oZFy5lKg",
+                "children": [
+                  {
+                    "id": "111",
+                    "parent": "110",
+                    "text": "- Maduración antígeno-independiente en médula ósea",
+                    "guid": "DXntF3oeMWg_KkEREjZZ-g",
+                    "children": []
+                  },
+                  {
+                    "id": "112",
+                    "parent": "110",
+                    "text": "- Estadios: célula progenitora linfoide → pro-B → pre-B → B inmaduro → B maduro",
+                    "guid": "Xm63B04Mz54HkhYGcOKvDA",
+                    "children": []
+                  },
+                  {
+                    "id": "113",
+                    "parent": "110",
+                    "text": "- Recombinación de genes de inmunoglobulinas",
+                    "guid": "O6WSs1bxgehZn8STERj_fg",
+                    "children": []
+                  },
+                  {
+                    "id": "114",
+                    "parent": "110",
+                    "text": "- Expresión de marcadores: CD19, CD43, B220, IgM, IgD",
+                    "guid": "c4JQYUwzQ_ZXSCRfM_72ow",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "id": "115",
+                "parent": "109",
+                "text": "- Células T:",
+                "guid": "GL2jlEZ4ux53ewfIVGM2Rw",
+                "children": [
+                  {
+                    "id": "116",
+                    "parent": "115",
+                    "text": "- Maduración en timo",
+                    "guid": "U3DF9URL_f0d0cCmIcmanA",
+                    "children": []
+                  },
+                  {
+                    "id": "117",
+                    "parent": "115",
+                    "text": "- Migración corteza → médula",
+                    "guid": "RJG3OnH_8Vp2E7_HGyA9NQ",
+                    "children": []
+                  },
+                  {
+                    "id": "118",
+                    "parent": "115",
+                    "text": "- Factores clave: IL-7, GATA-3, E12, E47, HEB, NF-kB, Ikaros, Notch",
+                    "guid": "HzZeBy4LcEwLhpLkLLBLHg",
+                    "children": []
+                  },
+                  {
+                    "id": "119",
+                    "parent": "115",
+                    "text": "- Procesos de selección: negativa (autotolerancia) y positiva (restricción MHC)",
+                    "guid": "KCmhtUqw0_U-5qUYBphYvA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "120",
+            "parent": "90",
+            "text": "### 5.4. Megacariopoyesis",
+            "guid": "HWo9BlEazFtlfDXFEOyNZw",
+            "children": [
+              {
+                "id": "121",
+                "parent": "120",
+                "text": "- Estadios: precursores → BFU-MK/CFU-MK/LD-CFU-MK → megacarioblasto → promegacariocito → megacariocito granular → megacariocito maduro → plaquetas",
+                "guid": "HU4QUjzEWiRE64QLF5YCxg",
+                "children": []
+              },
+              {
+                "id": "122",
+                "parent": "120",
+                "text": "- Características: poliploidía, gigantismo nuclear, acidificación citoplasmática",
+                "guid": "DwvKSBv6_iQuxGfwYnyQPQ",
+                "children": []
+              },
+              {
+                "id": "123",
+                "parent": "120",
+                "text": "- Regulación por trombopoyetina\n(TPO):",
+                "guid": "YEb8IUyWKJcERirZJNizXA",
+                "children": [
+                  {
+                    "id": "124",
+                    "parent": "123",
+                    "text": "- Producida en hígado y riñones",
+                    "guid": "PpYZ8XpZ6qA_-PCRXcx3-A",
+                    "children": []
+                  },
+                  {
+                    "id": "125",
+                    "parent": "123",
+                    "text": "- Se une a receptor c-MPL",
+                    "guid": "KGVa7Ut_g3UKfMMWUI78og",
+                    "children": []
+                  },
+                  {
+                    "id": "126",
+                    "parent": "123",
+                    "text": "- Activa JAK2 y STAT para transcripción",
+                    "guid": "FjBXakljaC9XJ1VeLu36_g",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "127",
+        "parent": "0",
+        "text": "## 6. ESTUDIO DE LA\nHEMATOPOYESIS",
+        "guid": "",
+        "children": [
+          {
+            "id": "128",
+            "parent": "127",
+            "text": "- Hemograma: células en sangre periférica",
+            "guid": "D9wjTU6iXSYDUTFFLUZgVA",
+            "children": []
+          },
+          {
+            "id": "129",
+            "parent": "127",
+            "text": "- Mielograma: estudio citológico de aspirado medular",
+            "guid": "H70pgWjNZws-Mu27PQs50w",
+            "children": []
+          },
+          {
+            "id": "130",
+            "parent": "127",
+            "text": "- Biopsia de médula ósea: estudio histológico",
+            "guid": "JZHBLwMeccZUoTyZNJ2Ldw",
+            "children": []
+          },
+          {
+            "id": "131",
+            "parent": "127",
+            "text": "- Ferrocinética: administración Fe59-transferrina",
+            "guid": "Hxlv6wNlpIoXGhu0f2BsDA",
+            "children": []
+          },
+          {
+            "id": "132",
+            "parent": "127",
+            "text": "- Citometría de flujo: identificación por marcadores específicos",
+            "guid": "T_vNIRtgRo0kOR9oDpHnEg",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "node_count": 133,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/Hematología",
+  "filename": "1. GENERALIDADES DE LA HEMATOPOYESIS-2025-1",
+  "id": "map_1436",
+  "resolved_references": []
+}

@@ -1,0 +1,77 @@
+{
+  "title": "HIP-ATTACK-2020",
+  "guid": "1cdc3f2e-47b0-4f8d-a300-1256b2439db9",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/HIP-ATTACK-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "HIP ATTACK (2020)\nAccelerated surgery versus standard care\n\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nHIP ATTACK Investigators\\nLancet 2020;395:698-708\nDOI: 10.1016/S0140-6736(20)30058-1\n\\nRCT internacional, 69 hospitales\\n17 paises",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=2,970\\nEdad: mayor o igual 45 años con fractura cadera\\nMedia 79 años, 68% mujeres\\n\\nCriterios:\\n- Fractura cadera baja energia\\n- Candidato a cirugia\\n\\nExcluidos:\\n- Fractura periprotesica\\n- Politrauma\\n- No candidato quirurgico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nCirugia acelerada: meta menor 6 horas\\nvs\\nCuidado estandar (sin meta tiempo)\\n\\nTiempo mediano a cirugia:\\n- Acelerada: 6 horas\\n- Estandar: 24 horas\\n\\nSeguimiento: 90 dias",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (mortalidad 90d):\\nAcelerada: 9%\\nEstandar: 10%\\nHR 0.91 (IC95% 0.72-1.14)\\np=0.40 - NO SIGNIFICATIVO\n\\nOutcomes secundarios:\\n- Delirium: 17% vs 21% (HR 0.82, p=0.005)\\n- Neumonia: HR 0.62\\n- IAM: HR 0.67\\n- Infeccion sitio qx: HR 0.72\\n- UPP: HR 0.61",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nSin aumento complicaciones perioperatorias\\ncon cirugia acelerada\\n\\nMortalidad perioperatoria similar\\nSangrado similar\\nComplicaciones anestesicas similares",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- No ciego (imposible)\\n- Outcome primario no alcanzado\\n- Diferencia tiempo menor esperada\\n- Variabilidad practica entre centros\\n- Mayoria ya operados en 24-48h\\n- Poder insuficiente para mortalidad?",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Delirium es outcome clave en ancianos\\n- 4% reduccion absoluta delirium es significativo\\n- Cirugia menor 6h es factible\\n- Menos complicaciones medicas\\n- Guias recomiendan menor 24-48h\\n- Modelo comanejo ortogeriátrico",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Cirugia precoz NO reduce mortalidad significativamente\\n2. PERO reduce delirium 17% vs 21%\\n3. Menos neumonia, IAM, UPP con cirugia precoz\\n4. Meta razonable: menor 24 horas\\n5. Evitar demoras por evaluaciones innecesarias\\n6. Comanejo ortogeriátrico optimiza tiempos\\n7. Delirium como outcome relevante en ancianos\\n8. No demorar por anticoagulantes si es posible\\n9. Beneficio en calidad mas que mortalidad\\n10. Justifica protocolos fast-track",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Geriatría",
+  "folder": "- Estudios Pivotales",
+  "filename": "HIP-ATTACK-2026",
+  "id": "map_15",
+  "resolved_references": []
+}

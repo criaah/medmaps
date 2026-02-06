@@ -1,0 +1,77 @@
+{
+  "title": "CREDENCE-2019",
+  "guid": "f257f74e-2224-4455-9184-bcdfd44723eb",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Estudios Pivotales/CREDENCE-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "CREDENCE (2019)\nCanagliflozin and Renal Events in Diabetes\n\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal",
+    "guid": "ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "IDENTIFICACION\n\\nPerkovic V, et al.\\nN Engl J Med 2019;380:2295-306\nDOI: 10.1056/NEJMoa1811744\n\\nRCT doble ciego\\nDetenido precozmente por eficacia\\n34 paises",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "POBLACION\n\\nn=4,401\\nDM2 con nefropatia establecida\\n\\nCriterios:\\n- TFGe 30-90 mL/min/1.73m2\\n- Albuminuria 300-5000 mg/g\\n- En IECA o ARA2 dosis maxima tolerada\\n\\nEdad media: 63 años\\nTFGe media: 56 mL/min\\nSeguimiento: 2.6 años",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "INTERVENCION\n\\nCanagliflozina 100 mg/dia\\nvs\\nPlacebo\\n\\nAdicional a IECA/ARA2 optimizado",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "RESULTADOS\n\\nOutcome primario (ESKD, duplicar Cr, muerte renal/CV):\\nCanagliflozina: 43.2/1000 pac-año\\nPlacebo: 61.2/1000 pac-año\\nHR 0.70 (IC95% 0.59-0.82)\\np menor 0.00001\nNNTH 22\n\\nComponentes:\\n- ESKD: HR 0.68\\n- Duplicar creatinina: HR 0.60\\n- Muerte CV: HR 0.78\\n- Hospitalizacion IC: HR 0.61",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "SEGURIDAD\n\\nCanagliflozina vs placebo:\\n- Amputaciones: 12.3 vs 11.2/1000 pac-año (NS)\\n- Fracturas: similar\\n- Cetoacidosis: 2.2 vs 0.2/1000 pac-año\\n- Gangrena Fournier: muy rara\\n\\nCaida inicial TFG (fisiologica, reversible)",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "LIMITACIONES\n\\n- Solo DM2 (no DM1 ni no diabeticos)\\n- Requiere albuminuria significativa\\n- Excluidos TFGe menor 30\\n- Detenido precozmente\\n- Poblacion relativamente joven",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "APLICABILIDAD GERIATRICA\n\\n- Nefroproteccion en ancianos diabeticos\\n- Caida inicial TFG esperada (no suspender)\\n- Beneficio CV adicional\\n- Precaucion deplecion volumen\\n- Monitorizar TFG y electrolitos\\n- Puede usarse hasta TFG 20-25\\n- Menor riesgo hiperkalemia vs espironolactona",
+        "guid": "",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "PERLAS CLINICAS\n\\n1. Primer iSGLT2 con outcome renal primario\\n2. NNT 22 = altamente efectivo\\n3. Beneficio renal Y cardiovascular\\n4. Caida TFG inicial es ESPERADA y reversible\\n5. No suspender por caida TFG 10-15%\\n6. Complementa IECA/ARA2, no reemplaza\\n7. Pilar nefroproteccion en DM2\\n8. Extendido a ERC no diabetica (DAPA-CKD)\\n9. Reduce hospitalizaciones IC\\n10. Clase I en guias nefrologia",
+        "guid": "",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 9,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "Nefrología",
+  "folder": "- Estudios Pivotales",
+  "filename": "CREDENCE-2026",
+  "id": "map_9",
+  "resolved_references": []
+}

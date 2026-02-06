@@ -1,0 +1,85 @@
+{
+  "title": "CATIE-AD (2006)",
+  "guid": "CATIEAD-2006-STUDY",
+  "filepath": "/sessions/bold-jolly-cerf/mnt/Dropbox/- Esquemas/- Entidades clínicas/UCI-Medicina Crítica/CATIE-AD-2026.smmx",
+  "root": {
+    "id": "0",
+    "parent": "-1",
+    "text": "CATIE-AD (2006)\nClinical Antipsychotic Trials\nof Intervention Effectiveness\nAlzheimer Disease\n\\n⭐ Antipsicóticos atípicos\\nNO superiores a placebo\ny con efectos adversos serios",
+    "guid": "CATIEAD-ROOT",
+    "children": [
+      {
+        "id": "1",
+        "parent": "0",
+        "text": "📋 IDENTIFICACION\n\nAutor: Schneider LS et al.\nAño: 2006\nRevista: NEJM\nDOI: 10.1056/NEJMoa061240\n\\nDiseño: RCT doble ciego\\nMulticéntrico USA\\nn = 421 pacientes\\nSeguimiento: Hasta 36 semanas",
+        "guid": "CATIEAD-ID",
+        "children": [
+          {
+            "id": "9",
+            "parent": "1",
+            "text": "📚 REFERENCIAS\n\\n1. Schneider LS et al. NEJM 2006\\n   DOI: 10.1056/NEJMoa061240\\n\\n2. FDA Black Box Warning 2005\\n   Antipsychotics in dementia\\n\\n3. AGS Beers Criteria 2023\\n   Antipsicóticos potencialmente\\n   inapropiados en ancianos",
+            "guid": "CATIEAD-REFS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "parent": "0",
+        "text": "👥 POBLACION\n\nCriterios Inclusion:\\n• Alzheimer (NINCDS-ADRDA)\\n• MMSE 5-26\\n• Síntomas conductuales:\\n  - Agresión\\n  - Agitación\\n  - Psicosis\\n• Ambulatorios o residencias\\n\\nCriterios Exclusion:\\n• Delirium\\n• Otra demencia\\n• Condición médica inestable\\n\\nCaracterísticas:\\n• Edad media: 78 años\\n• 56% mujeres\\n• MMSE medio: 15\\n• 77% vivían en comunidad",
+        "guid": "CATIEAD-POP",
+        "children": []
+      },
+      {
+        "id": "3",
+        "parent": "0",
+        "text": "💊 INTERVENCION\n\\nBrazos de tratamiento:\\n\\n1. Olanzapina\\n   - Inicio 2.5 mg/día\\n   - Rango 2.5-10 mg/día\\n\\n2. Quetiapina\\n   - Inicio 25 mg/día\\n   - Rango 25-200 mg/día\\n\\n3. Risperidona\\n   - Inicio 0.5 mg/día\\n   - Rango 0.5-2 mg/día\\n\\n4. Placebo\\n\\nDiseño:\\n• Fase 1: 3 meses\\n• Si falla: cambio a otro brazo\\n• Ajuste dosis según respuesta",
+        "guid": "CATIEAD-INT",
+        "children": []
+      },
+      {
+        "id": "4",
+        "parent": "0",
+        "text": "📊 RESULTADOS\n\\nTiempo hasta descontinuar (primario):\\n• Olanzapina: 8.1 semanas\\n• Quetiapina: 5.3 semanas\\n• Risperidona: 7.4 semanas\\n• Placebo: 8.0 semanas\\n• p = 0.52 (NS)\n\\nMejora CGIC:\\n• Sin diferencia vs placebo\\n\\nRazones descontinuación:\\n• Falta eficacia: similar todos\\n• Efectos adversos: MAYOR con\\n  antipsicóticos\n\\nNingún antipsicótico superior\\na placebo en eficacia global",
+        "guid": "CATIEAD-OUT",
+        "children": []
+      },
+      {
+        "id": "5",
+        "parent": "0",
+        "text": "⚠️ SEGURIDAD\n\\nEfectos adversos (vs placebo):\\n\\nOlanzapina:\\n• Sedación, aumento peso\\n• Síndrome metabólico\\n\\nQuetiapina:\\n• Sedación\\n• Menor parkinsonismo\\n\\nRisperidona:\\n• Parkinsonismo\\n• Sedación\\n\\nMortalidad (meta-análisis FDA):\\n• 1.6-1.7x mayor vs placebo\\n• Black box warning 2005\\n\\nACV:\\n• Riesgo aumentado 2-3x\\n\\nDeclinación cognitiva:\\n• Mayor con antipsicóticos",
+        "guid": "CATIEAD-SAFE",
+        "children": []
+      },
+      {
+        "id": "6",
+        "parent": "0",
+        "text": "⚖️ SESGOS Y LIMITACIONES\n\\nFortalezas:\\n✓ RCT doble ciego\\n✓ Compara 3 antipsicóticos\\n✓ Financiado NIMH (sin conflicto)\\n✓ Outcome relevante\\n✓ Población realista\\n\\nLimitaciones:\\n• Alta tasa abandono\\n• Dosis flexibles\\n• Excluye demencia severa\\n• Solo 36 semanas\\n• Pre-era de alternativas\\n\\nImpacto:\\n• Cambió práctica clínica\\n• FDA black box warning",
+        "guid": "CATIEAD-BIAS",
+        "children": []
+      },
+      {
+        "id": "7",
+        "parent": "0",
+        "text": "👴 APLICABILIDAD GERIATRICA\n\\n⭐⭐⭐⭐⭐ Fundamental conocer\n\\nMensaje clave:\\n• Antipsicóticos en demencia:\\n  riesgo mayor que beneficio\\n• Usar solo si ESTRICTAMENTE\\n  necesario\\n\\nCuándo considerar:\\n• Peligro para sí mismo/otros\\n• Psicosis severa intratable\\n• Agresión física recurrente\\n\\nSIEMPRE antes:\\n• Descartar delirium/dolor\\n• Intervenciones no farmacológicas\\n• Revisar medicamentos\\n• Tratar comorbilidades",
+        "guid": "CATIEAD-GERI",
+        "children": []
+      },
+      {
+        "id": "8",
+        "parent": "0",
+        "text": "💎 PERLAS CLINICAS\n\\n1. Antipsicóticos NO son efectivos:\n   igual que placebo en demencia\n\\n2. Mortalidad AUMENTADA:\n   HR 1.6-1.7 vs placebo\n\\n3. ACV riesgo 2-3x mayor:\n   especialmente en ancianos\n\\n4. Síndrome metabólico:\n   olanzapina peor perfil\n\\n5. ANTES de prescribir:\n   agotar medidas no farmacológicas\n\\n6. Si se usa: dosis MÍNIMA\n   por tiempo MÍNIMO\n\\n7. Reevaluar cada 3 meses:\n   intento de suspensión\n\\n8. Black box FDA 2005:\n   aumento mortalidad demencia",
+        "guid": "CATIEAD-PEARLS",
+        "children": []
+      }
+    ]
+  },
+  "node_count": 10,
+  "relations": [],
+  "cross_references": [],
+  "specialty": "General",
+  "folder": "- Entidades clínicas/UCI-Medicina Crítica",
+  "filename": "CATIE-AD-2026",
+  "id": "map_317",
+  "resolved_references": []
+}
