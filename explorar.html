@@ -4,149 +4,941 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Explorar Mapas - MedMaps</title>
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --primary: #2563eb;
+      --primary-dark: #1d4ed8;
+      --primary-light: #3b82f6;
+      --secondary: #0891b2;
+      --accent: #8b5cf6;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --danger: #ef4444;
+      --gray-50: #f8fafc;
+      --gray-100: #f1f5f9;
+      --gray-200: #e2e8f0;
+      --gray-300: #cbd5e1;
+      --gray-400: #94a3b8;
+      --gray-500: #64748b;
+      --gray-600: #475569;
+      --gray-700: #334155;
+      --gray-800: #1e293b;
+      --gray-900: #0f172a;
+      --white: #ffffff;
+      --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+      --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+      --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+      --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+      --shadow-xl: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+      --radius: 12px;
+      --radius-sm: 8px;
+      --radius-lg: 16px;
+    }
+
+    [data-theme="dark"] {
+      --gray-50: #0f172a;
+      --gray-100: #1e293b;
+      --gray-200: #334155;
+      --gray-300: #475569;
+      --gray-400: #64748b;
+      --gray-500: #94a3b8;
+      --gray-600: #cbd5e1;
+      --gray-700: #e2e8f0;
+      --gray-800: #f1f5f9;
+      --gray-900: #f8fafc;
+      --white: #1e293b;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: var(--gray-50);
+      color: var(--gray-800);
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    /* Header */
+    header {
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      padding: 1rem 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-md);
+    }
+
+    .header-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 0 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: white;
+      text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    nav ul {
+      display: flex;
+      gap: 0.5rem;
+      list-style: none;
+    }
+
+    nav a {
+      color: rgba(255,255,255,0.9);
+      text-decoration: none;
+      padding: 0.5rem 1rem;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s;
+      font-weight: 500;
+    }
+
+    nav a:hover, nav a.active {
+      background: rgba(255,255,255,0.2);
+      color: white;
+    }
+
+    .theme-toggle {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      padding: 0.5rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      font-size: 1.2rem;
+      transition: all 0.2s;
+    }
+
+    .theme-toggle:hover {
+      background: rgba(255,255,255,0.3);
+    }
+
+    /* Main Content */
+    main {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+
+    .page-header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+
+    .page-title {
+      font-size: 2.5rem;
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 0.5rem;
+    }
+
+    .page-subtitle {
+      color: var(--gray-500);
+      font-size: 1.1rem;
+    }
+
+    /* Search & Filters */
+    .filters-container {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      padding: 1.5rem;
+      margin-bottom: 2rem;
+      box-shadow: var(--shadow);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+    }
+
+    .search-wrapper {
+      flex: 1;
+      min-width: 250px;
+      position: relative;
+    }
+
+    .search-wrapper input {
+      width: 100%;
+      padding: 0.875rem 1rem 0.875rem 3rem;
+      border: 2px solid var(--gray-200);
+      border-radius: var(--radius);
+      font-size: 1rem;
+      transition: all 0.2s;
+      background: var(--gray-50);
+    }
+
+    .search-wrapper input:focus {
+      outline: none;
+      border-color: var(--primary);
+      background: var(--white);
+      box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+    }
+
+    .search-wrapper::before {
+      content: '🔍';
+      position: absolute;
+      left: 1rem;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 1.1rem;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .filter-group label {
+      font-weight: 500;
+      color: var(--gray-600);
+      white-space: nowrap;
+    }
+
+    .filter-group select {
+      padding: 0.75rem 2.5rem 0.75rem 1rem;
+      border: 2px solid var(--gray-200);
+      border-radius: var(--radius-sm);
+      font-size: 0.95rem;
+      background: var(--gray-50);
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' stroke='%2364748b'%3E%3Cpath stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M19 9l-7 7-7-7'%3E%3C/path%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
+      background-size: 1rem;
+    }
+
+    .filter-group select:focus {
+      outline: none;
+      border-color: var(--primary);
+    }
+
+    /* Stats Bar */
+    .stats-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 1.5rem;
+      padding: 0 0.5rem;
+    }
+
+    .results-count {
+      font-weight: 600;
+      color: var(--gray-700);
+    }
+
+    .results-count span {
+      color: var(--primary);
+    }
+
+    /* Maps Grid */
+    .maps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+      gap: 1.25rem;
+    }
+
+    .map-card {
+      background: var(--white);
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      box-shadow: var(--shadow);
+      transition: all 0.3s ease;
+      cursor: pointer;
+      border: 2px solid transparent;
+    }
+
+    .map-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-xl);
+      border-color: var(--primary-light);
+    }
+
+    .map-card-header {
+      padding: 1.25rem 1.5rem;
+      background: linear-gradient(135deg, var(--gray-50) 0%, var(--gray-100) 100%);
+      border-bottom: 1px solid var(--gray-200);
+    }
+
+    .map-card-specialty {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.375rem;
+      padding: 0.25rem 0.75rem;
+      background: var(--white);
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--gray-600);
+      margin-bottom: 0.75rem;
+      box-shadow: var(--shadow-sm);
+    }
+
+    .map-card-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--gray-800);
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .map-card-body {
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .map-card-stats {
+      display: flex;
+      gap: 1rem;
+    }
+
+    .stat-item {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+      font-size: 0.875rem;
+      color: var(--gray-500);
+    }
+
+    .stat-item strong {
+      color: var(--gray-700);
+      font-weight: 600;
+    }
+
+    .map-card-action {
+      padding: 0.625rem 1.25rem;
+      background: var(--primary);
+      color: white;
+      border: none;
+      border-radius: var(--radius-sm);
+      font-weight: 600;
+      font-size: 0.875rem;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .map-card-action:hover {
+      background: var(--primary-dark);
+      transform: scale(1.05);
+    }
+
+    /* Pagination */
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 0.5rem;
+      margin-top: 2.5rem;
+      padding: 1rem;
+    }
+
+    .pagination button {
+      padding: 0.75rem 1.5rem;
+      background: var(--white);
+      border: 2px solid var(--gray-200);
+      border-radius: var(--radius-sm);
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .pagination button:hover:not(:disabled) {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .pagination button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    .pagination .page-info {
+      padding: 0.75rem 1.5rem;
+      background: var(--gray-100);
+      border-radius: var(--radius-sm);
+      font-weight: 500;
+      color: var(--gray-600);
+    }
+
+    /* ========================================
+       IMMERSIVE MAP VIEWER MODAL
+       ======================================== */
+    .map-viewer-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(15, 23, 42, 0.8);
+      backdrop-filter: blur(8px);
+      z-index: 1000;
+      opacity: 0;
+      visibility: hidden;
+      transition: all 0.3s ease;
+    }
+
+    .map-viewer-overlay.visible {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .map-viewer {
+      position: fixed;
+      top: 0;
+      right: 0;
+      width: 100%;
+      max-width: 900px;
+      height: 100vh;
+      background: var(--white);
+      transform: translateX(100%);
+      transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      display: flex;
+      flex-direction: column;
+      box-shadow: -20px 0 60px rgba(0,0,0,0.3);
+    }
+
+    .map-viewer-overlay.visible .map-viewer {
+      transform: translateX(0);
+    }
+
+    .map-viewer-header {
+      padding: 1.5rem 2rem;
+      background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+      color: white;
+      flex-shrink: 0;
+    }
+
+    .map-viewer-close {
+      position: absolute;
+      top: 1.25rem;
+      right: 1.5rem;
+      width: 40px;
+      height: 40px;
+      background: rgba(255,255,255,0.2);
+      border: none;
+      border-radius: 50%;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: all 0.2s;
+    }
+
+    .map-viewer-close:hover {
+      background: rgba(255,255,255,0.3);
+      transform: rotate(90deg);
+    }
+
+    .map-viewer-title {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      padding-right: 3rem;
+    }
+
+    .map-viewer-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.9rem;
+      opacity: 0.9;
+    }
+
+    .map-viewer-meta-item {
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    /* Map Viewer Toolbar */
+    .map-viewer-toolbar {
+      padding: 0.75rem 2rem;
+      background: var(--gray-50);
+      border-bottom: 1px solid var(--gray-200);
+      display: flex;
+      gap: 0.5rem;
+      flex-shrink: 0;
+    }
+
+    .toolbar-btn {
+      padding: 0.5rem 1rem;
+      background: var(--white);
+      border: 1px solid var(--gray-200);
+      border-radius: var(--radius-sm);
+      font-size: 0.85rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 0.375rem;
+    }
+
+    .toolbar-btn:hover {
+      background: var(--gray-100);
+      border-color: var(--gray-300);
+    }
+
+    .toolbar-btn.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    /* Map Content */
+    .map-viewer-content {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1.5rem 2rem 3rem;
+    }
+
+    /* Tree View Styles */
+    .tree-root {
+      font-family: 'Inter', sans-serif;
+    }
+
+    .tree-node {
+      margin-bottom: 0.25rem;
+    }
+
+    .tree-header {
+      display: flex;
+      align-items: flex-start;
+      padding: 0.625rem 0.875rem;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: all 0.15s ease;
+      gap: 0.5rem;
+    }
+
+    .tree-header:hover {
+      background: var(--gray-100);
+    }
+
+    .tree-header.expanded {
+      background: var(--gray-50);
+    }
+
+    .tree-toggle {
+      width: 20px;
+      height: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      font-size: 0.7rem;
+      color: var(--gray-400);
+      transition: transform 0.2s ease;
+      margin-top: 2px;
+    }
+
+    .tree-header.expanded .tree-toggle {
+      transform: rotate(90deg);
+      color: var(--primary);
+    }
+
+    .tree-header.leaf .tree-toggle {
+      color: var(--gray-300);
+    }
+
+    .tree-text {
+      flex: 1;
+      font-size: 0.95rem;
+      line-height: 1.5;
+      color: var(--gray-700);
+    }
+
+    .tree-text strong, .tree-text b {
+      font-weight: 600;
+      color: var(--gray-800);
+    }
+
+    /* Level-based styling */
+    .tree-node[data-level="0"] > .tree-header .tree-text {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    .tree-node[data-level="1"] > .tree-header {
+      margin-left: 0;
+    }
+
+    .tree-node[data-level="1"] > .tree-header .tree-text {
+      font-weight: 600;
+      color: var(--gray-800);
+    }
+
+    .tree-node[data-level="2"] > .tree-header {
+      margin-left: 1.25rem;
+    }
+
+    .tree-node[data-level="3"] > .tree-header {
+      margin-left: 2.5rem;
+    }
+
+    .tree-node[data-level="4"] > .tree-header {
+      margin-left: 3.75rem;
+    }
+
+    .tree-node[data-level="5"] > .tree-header {
+      margin-left: 5rem;
+    }
+
+    .tree-children {
+      display: none;
+      padding-left: 0.25rem;
+      border-left: 2px solid var(--gray-200);
+      margin-left: 0.75rem;
+    }
+
+    .tree-children.visible {
+      display: block;
+      animation: slideDown 0.2s ease;
+    }
+
+    @keyframes slideDown {
+      from {
+        opacity: 0;
+        transform: translateY(-8px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* Special text formatting */
+    .tree-text .highlight {
+      background: linear-gradient(120deg, #fef08a 0%, #fde047 100%);
+      padding: 0 0.25rem;
+      border-radius: 2px;
+    }
+
+    .tree-text .emoji {
+      font-size: 1rem;
+      margin-right: 0.25rem;
+    }
+
+    /* References Section */
+    .references-section {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 2px solid var(--gray-200);
+    }
+
+    .references-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--gray-700);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .reference-item {
+      font-size: 0.85rem;
+      color: var(--gray-600);
+      padding: 0.75rem;
+      background: var(--gray-50);
+      border-radius: var(--radius-sm);
+      margin-bottom: 0.5rem;
+      line-height: 1.5;
+      font-family: 'JetBrains Mono', monospace;
+    }
+
+    .reference-item .ref-number {
+      font-weight: 700;
+      color: var(--primary);
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 2rem;
+      color: var(--gray-500);
+      border-top: 1px solid var(--gray-200);
+      margin-top: 3rem;
+    }
+
+    footer a {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    /* Empty State */
+    .empty-state {
+      text-align: center;
+      padding: 4rem 2rem;
+      color: var(--gray-500);
+    }
+
+    .empty-state-icon {
+      font-size: 4rem;
+      margin-bottom: 1rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .maps-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .filters-container {
+        flex-direction: column;
+      }
+
+      .search-wrapper {
+        width: 100%;
+      }
+
+      .map-viewer {
+        max-width: 100%;
+      }
+
+      .map-viewer-content {
+        padding: 1rem;
+      }
+
+      .page-title {
+        font-size: 1.75rem;
+      }
+
+      nav ul {
+        display: none;
+      }
+    }
+
+    /* Loading State */
+    .loading {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 4rem;
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid var(--gray-200);
+      border-top-color: var(--primary);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+  </style>
 </head>
 <body>
 
 <header>
   <div class="header-container">
-    <a href="/" class="logo">🧠 MedMaps</a>
-    <button class="hamburger" aria-label="Menú">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
+    <a href="index.html" class="logo">🧠 MedMaps</a>
     <nav>
       <ul>
         <li><a href="index.html">Inicio</a></li>
         <li><a href="planes.html">Planes</a></li>
         <li><a href="explorar.html" class="active">Explorar</a></li>
-        <li><button id="themeToggle" class="theme-toggle">🌙</button></li>
       </ul>
     </nav>
+    <button class="theme-toggle" id="themeToggle">🌙</button>
   </div>
 </header>
 
 <main>
-  <section class="container section">
-    <h1 class="section-title">Explorar Mapas Mentales</h1>
+  <div class="page-header">
+    <h1 class="page-title">Explorar Mapas Mentales</h1>
+    <p class="page-subtitle">Navega por nuestra biblioteca de conocimiento médico estructurado</p>
+  </div>
 
-    <!-- Filtros -->
-    <div class="filters-container">
-      <div class="search-bar" style="max-width: 400px;">
-        <input type="search" id="searchInput" placeholder="Buscar mapas...">
-        <button id="searchBtn">🔍</button>
-      </div>
-
-      <div class="filter-group">
-        <label for="specialtyFilter">Especialidad:</label>
-        <select id="specialtyFilter">
-          <option value="">Todas</option>
-        </select>
-      </div>
-
-      <div class="filter-group">
-        <label for="sortBy">Ordenar:</label>
-        <select id="sortBy">
-          <option value="title">Alfabético</option>
-          <option value="nodes">Más contenido</option>
-          <option value="specialty">Especialidad</option>
-        </select>
-      </div>
+  <div class="filters-container">
+    <div class="search-wrapper">
+      <input type="search" id="searchInput" placeholder="Buscar por título, tema o palabra clave...">
     </div>
+    <div class="filter-group">
+      <label>Especialidad:</label>
+      <select id="specialtyFilter">
+        <option value="">Todas las especialidades</option>
+      </select>
+    </div>
+    <div class="filter-group">
+      <label>Ordenar:</label>
+      <select id="sortBy">
+        <option value="title">Alfabético (A-Z)</option>
+        <option value="nodes">Más contenido</option>
+        <option value="specialty">Por especialidad</option>
+      </select>
+    </div>
+  </div>
 
-    <!-- Estadísticas -->
-    <div class="results-info" id="resultsInfo">Cargando mapas...</div>
+  <div class="stats-bar">
+    <div class="results-count" id="resultsCount">Cargando...</div>
+  </div>
 
-    <!-- Lista de mapas -->
-    <div id="mapsList" class="maps-list"></div>
+  <div id="mapsContainer" class="maps-grid">
+    <div class="loading">
+      <div class="loading-spinner"></div>
+    </div>
+  </div>
 
-    <!-- Paginación -->
-    <div class="pagination" id="pagination"></div>
-  </section>
+  <div class="pagination" id="pagination"></div>
 </main>
 
-<!-- Modal para visualizar mapas -->
-<div id="mapModal" class="modal-overlay">
-  <div class="modal modal-large">
-    <div class="modal-header">
-      <div>
-        <h2 id="modalTitle">Mapa Mental</h2>
-        <p id="modalMeta" class="modal-meta"></p>
-      </div>
-      <button class="modal-close">&times;</button>
+<!-- Immersive Map Viewer -->
+<div class="map-viewer-overlay" id="mapViewerOverlay">
+  <div class="map-viewer">
+    <button class="map-viewer-close" onclick="closeMapViewer()">&times;</button>
+
+    <div class="map-viewer-header">
+      <h2 class="map-viewer-title" id="viewerTitle">Cargando...</h2>
+      <div class="map-viewer-meta" id="viewerMeta"></div>
     </div>
-    <div class="modal-body" id="modalBody"></div>
-    <div class="modal-footer">
-      <span id="modalLinks"></span>
-      <button class="btn btn-secondary btn-small" onclick="closeModal()">Cerrar</button>
+
+    <div class="map-viewer-toolbar">
+      <button class="toolbar-btn active" onclick="expandAll()">
+        <span>📂</span> Expandir todo
+      </button>
+      <button class="toolbar-btn" onclick="collapseAll()">
+        <span>📁</span> Colapsar todo
+      </button>
+      <button class="toolbar-btn" onclick="copyContent()">
+        <span>📋</span> Copiar
+      </button>
+    </div>
+
+    <div class="map-viewer-content" id="viewerContent">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+      </div>
     </div>
   </div>
 </div>
 
 <footer>
-  <p>&copy; 2026 MedMaps | <a href="https://github.com/criaah">GitHub</a></p>
+  <p>&copy; 2026 MedMaps | <a href="https://github.com/criaah/medmaps">GitHub</a></p>
 </footer>
 
-<script src="js/app.js"></script>
 <script>
-const SPECIALTY_EMOJIS = {
-  'Cardiología': '❤️',
-  'Geriatría': '👴',
-  'Neurología': '🧠',
-  'Nefrología': '🫘',
-  'Endocrinología': '🦋',
-  'General': '📚',
-  'Estudios Pivotales': '⭐',
-  'Continuum': '📖',
+// ========================================
+// CONFIGURATION
+// ========================================
+const SPECIALTY_CONFIG = {
+  'Cardiología': { emoji: '❤️', color: '#ef4444' },
+  'Geriatría': { emoji: '👴', color: '#8b5cf6' },
+  'Neurología': { emoji: '🧠', color: '#ec4899' },
+  'Nefrología': { emoji: '🫘', color: '#f97316' },
+  'Endocrinología': { emoji: '🦋', color: '#06b6d4' },
+  'General': { emoji: '📚', color: '#64748b' },
+  'Estudios Pivotales': { emoji: '⭐', color: '#eab308' },
+  'Continuum': { emoji: '📖', color: '#22c55e' },
 };
 
+const MAPS_PER_PAGE = 24;
 let mapsIndex = [];
 let filteredMaps = [];
 let currentPage = 1;
-const MAPS_PER_PAGE = 20;
 
+// ========================================
+// DATA LOADING
+// ========================================
 async function loadData() {
   try {
-    // Cargar índice de mapas
+    // Load maps index
     const mapsRes = await fetch('data/maps_index.json');
     mapsIndex = await mapsRes.json();
     filteredMaps = [...mapsIndex];
 
-    // Cargar especialidades para el filtro
+    // Load specialties for filter
     const specRes = await fetch('data/specialties.json');
     const specialties = await specRes.json();
 
     const select = document.getElementById('specialtyFilter');
     Object.keys(specialties).sort().forEach(name => {
+      const config = SPECIALTY_CONFIG[name] || { emoji: '📋' };
       const option = document.createElement('option');
       option.value = name;
-      option.textContent = `${SPECIALTY_EMOJIS[name] || '📋'} ${name} (${specialties[name].count})`;
+      option.textContent = `${config.emoji} ${name} (${specialties[name].count})`;
       select.appendChild(option);
     });
 
-    // Verificar parámetro de URL
+    // Check URL params
     const urlParams = new URLSearchParams(window.location.search);
     const specialty = urlParams.get('specialty');
     if (specialty) {
       document.getElementById('specialtyFilter').value = specialty;
-      applyFilters();
     }
 
-    renderMaps();
+    applyFilters();
     setupEventListeners();
   } catch (error) {
-    console.error('Error cargando datos:', error);
-    document.getElementById('resultsInfo').textContent = 'Error cargando datos';
+    console.error('Error loading data:', error);
+    document.getElementById('mapsContainer').innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">⚠️</div>
+        <h3>Error cargando datos</h3>
+        <p>Por favor, recarga la página</p>
+      </div>
+    `;
   }
 }
 
+// ========================================
+// EVENT LISTENERS
+// ========================================
 function setupEventListeners() {
   document.getElementById('searchInput').addEventListener('input', debounce(applyFilters, 300));
   document.getElementById('specialtyFilter').addEventListener('change', applyFilters);
   document.getElementById('sortBy').addEventListener('change', applyFilters);
+
+  // Close viewer on escape or overlay click
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') closeMapViewer();
+  });
+
+  document.getElementById('mapViewerOverlay').addEventListener('click', e => {
+    if (e.target.id === 'mapViewerOverlay') closeMapViewer();
+  });
+
+  // Theme toggle
+  document.getElementById('themeToggle').addEventListener('click', () => {
+    const isDark = document.body.getAttribute('data-theme') === 'dark';
+    document.body.setAttribute('data-theme', isDark ? '' : 'dark');
+    document.getElementById('themeToggle').textContent = isDark ? '🌙' : '☀️';
+  });
 }
 
+// ========================================
+// FILTERING & SORTING
+// ========================================
 function applyFilters() {
   const query = document.getElementById('searchInput').value.toLowerCase().trim();
   const specialty = document.getElementById('specialtyFilter').value;
@@ -155,20 +947,20 @@ function applyFilters() {
   filteredMaps = mapsIndex.filter(map => {
     const matchesSearch = !query ||
       map.title.toLowerCase().includes(query) ||
-      map.filename.toLowerCase().includes(query);
+      (map.specialty && map.specialty.toLowerCase().includes(query));
     const matchesSpecialty = !specialty || map.specialty === specialty;
     return matchesSearch && matchesSpecialty;
   });
 
-  // Ordenar
+  // Sort
   filteredMaps.sort((a, b) => {
     switch (sortBy) {
       case 'nodes':
-        return b.node_count - a.node_count;
+        return (b.node_count || 0) - (a.node_count || 0);
       case 'specialty':
-        return a.specialty.localeCompare(b.specialty);
+        return (a.specialty || '').localeCompare(b.specialty || '');
       default:
-        return a.title.localeCompare(b.title);
+        return (a.title || '').localeCompare(b.title || '');
     }
   });
 
@@ -176,30 +968,53 @@ function applyFilters() {
   renderMaps();
 }
 
+// ========================================
+// RENDERING
+// ========================================
 function renderMaps() {
-  const container = document.getElementById('mapsList');
+  const container = document.getElementById('mapsContainer');
   const start = (currentPage - 1) * MAPS_PER_PAGE;
   const end = start + MAPS_PER_PAGE;
   const pageMaps = filteredMaps.slice(start, end);
 
-  document.getElementById('resultsInfo').textContent =
-    `Mostrando ${Math.min(end, filteredMaps.length)} de ${filteredMaps.length} mapas`;
+  // Update count
+  document.getElementById('resultsCount').innerHTML =
+    `Mostrando <span>${Math.min(end, filteredMaps.length)}</span> de <span>${filteredMaps.length}</span> mapas`;
 
-  container.innerHTML = pageMaps.map(map => `
-    <div class="map-list-item" onclick="openMap('${map.id}')">
-      <div class="map-list-info">
-        <h3>${map.title}</h3>
-        <p class="map-list-meta">
-          ${SPECIALTY_EMOJIS[map.specialty] || '📋'} ${map.specialty}
-          • ${map.node_count} nodos
-          ${map.has_references ? '• 🔗 Con enlaces' : ''}
-        </p>
+  if (pageMaps.length === 0) {
+    container.innerHTML = `
+      <div class="empty-state" style="grid-column: 1/-1;">
+        <div class="empty-state-icon">🔍</div>
+        <h3>No se encontraron mapas</h3>
+        <p>Intenta con otros términos de búsqueda</p>
       </div>
-      <div class="map-list-action">
-        <span class="btn btn-small btn-secondary">Ver Mapa</span>
+    `;
+    return;
+  }
+
+  container.innerHTML = pageMaps.map(map => {
+    const config = SPECIALTY_CONFIG[map.specialty] || { emoji: '📋', color: '#64748b' };
+    return `
+      <div class="map-card" onclick="openMapViewer('${map.id}')">
+        <div class="map-card-header">
+          <div class="map-card-specialty">
+            <span>${config.emoji}</span>
+            <span>${map.specialty || 'General'}</span>
+          </div>
+          <h3 class="map-card-title">${escapeHtml(map.title)}</h3>
+        </div>
+        <div class="map-card-body">
+          <div class="map-card-stats">
+            <div class="stat-item">
+              <span>📊</span>
+              <strong>${map.node_count || 0}</strong> nodos
+            </div>
+          </div>
+          <button class="map-card-action">Ver Mapa →</button>
+        </div>
       </div>
-    </div>
-  `).join('');
+    `;
+  }).join('');
 
   renderPagination();
 }
@@ -213,18 +1028,11 @@ function renderPagination() {
     return;
   }
 
-  let html = '';
-  if (currentPage > 1) {
-    html += `<button onclick="goToPage(${currentPage - 1})">← Anterior</button>`;
-  }
-
-  html += `<span class="page-info">Página ${currentPage} de ${totalPages}</span>`;
-
-  if (currentPage < totalPages) {
-    html += `<button onclick="goToPage(${currentPage + 1})">Siguiente →</button>`;
-  }
-
-  container.innerHTML = html;
+  container.innerHTML = `
+    <button onclick="goToPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>← Anterior</button>
+    <span class="page-info">Página ${currentPage} de ${totalPages}</span>
+    <button onclick="goToPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Siguiente →</button>
+  `;
 }
 
 function goToPage(page) {
@@ -233,70 +1041,193 @@ function goToPage(page) {
   window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-async function openMap(mapId) {
+// ========================================
+// MAP VIEWER
+// ========================================
+async function openMapViewer(mapId) {
+  const overlay = document.getElementById('mapViewerOverlay');
+  const content = document.getElementById('viewerContent');
+
+  overlay.classList.add('visible');
+  document.body.style.overflow = 'hidden';
+
+  content.innerHTML = '<div class="loading"><div class="loading-spinner"></div></div>';
+
   try {
     const res = await fetch(`data/maps/${mapId}.json`);
+    if (!res.ok) throw new Error('Map not found');
+
     const mapData = await res.json();
 
-    document.getElementById('modalTitle').textContent = mapData.title;
-    document.getElementById('modalMeta').innerHTML =
-      `${SPECIALTY_EMOJIS[mapData.specialty] || '📋'} ${mapData.specialty} • ${mapData.node_count} nodos`;
+    // Update header
+    document.getElementById('viewerTitle').textContent = mapData.title || 'Sin título';
 
-    document.getElementById('modalBody').innerHTML = renderMapTree(mapData.root);
+    const config = SPECIALTY_CONFIG[mapData.specialty] || { emoji: '📋' };
+    document.getElementById('viewerMeta').innerHTML = `
+      <div class="map-viewer-meta-item">
+        <span>${config.emoji}</span>
+        <span>${mapData.specialty || 'General'}</span>
+      </div>
+      <div class="map-viewer-meta-item">
+        <span>📊</span>
+        <span>${mapData.node_count || 0} nodos</span>
+      </div>
+    `;
 
-    // Mostrar enlaces relacionados
-    const links = mapData.resolved_references || [];
-    if (links.length > 0) {
-      document.getElementById('modalLinks').innerHTML =
-        `<span style="font-size: 0.9rem; color: var(--gray);">🔗 Enlaces: ${links.map(l => l.reference_name).join(', ')}</span>`;
-    } else {
-      document.getElementById('modalLinks').innerHTML = '';
-    }
+    // Render tree
+    content.innerHTML = `
+      <div class="tree-root">
+        ${renderTree(mapData.root, 0)}
+      </div>
+      ${renderReferences(mapData)}
+    `;
 
-    document.getElementById('mapModal').classList.add('visible');
-    document.body.style.overflow = 'hidden';
+    // Initialize tree interactions
+    initializeTreeInteractions();
 
-    initializeToggleLists();
   } catch (error) {
-    console.error('Error:', error);
-    alert('Error al cargar el mapa');
+    console.error('Error loading map:', error);
+    content.innerHTML = `
+      <div class="empty-state">
+        <div class="empty-state-icon">⚠️</div>
+        <h3>Error cargando el mapa</h3>
+        <p>No se pudo cargar el contenido</p>
+      </div>
+    `;
   }
 }
 
-function renderMapTree(node, level = 0) {
-  if (!node) return '<p>Sin contenido</p>';
+function renderTree(node, level = 0) {
+  if (!node) return '';
 
-  const text = node.text?.replace(/\n/g, '<br>') || '(Sin texto)';
   const hasChildren = node.children && node.children.length > 0;
+  const text = formatText(node.text || '(Sin texto)');
+  const isExpanded = level < 2; // Auto-expand first 2 levels
 
-  let html = `<div class="toggle-item" data-level="${level}" style="margin-left: ${level * 16}px;">`;
-
-  if (hasChildren) {
-    html += `
-      <div class="toggle-header ${level === 0 ? 'expanded' : ''}">
-        <span class="toggle-icon">▶</span>
-        <span class="toggle-title">${text}</span>
+  return `
+    <div class="tree-node" data-level="${level}">
+      <div class="tree-header ${hasChildren ? (isExpanded ? 'expanded' : '') : 'leaf'}">
+        <span class="tree-toggle">${hasChildren ? '▶' : '•'}</span>
+        <span class="tree-text">${text}</span>
       </div>
-      <div class="toggle-children ${level === 0 ? 'visible' : ''}">
-        ${node.children.map(child => renderMapTree(child, level + 1)).join('')}
-      </div>
-    `;
-  } else {
-    html += `
-      <div class="toggle-header no-toggle">
-        <span class="toggle-icon">•</span>
-        <span class="toggle-title">${text}</span>
-      </div>
-    `;
-  }
-
-  html += '</div>';
-  return html;
+      ${hasChildren ? `
+        <div class="tree-children ${isExpanded ? 'visible' : ''}">
+          ${node.children.map(child => renderTree(child, level + 1)).join('')}
+        </div>
+      ` : ''}
+    </div>
+  `;
 }
 
-function closeModal() {
-  document.getElementById('mapModal').classList.remove('visible');
+function formatText(text) {
+  if (!text) return '';
+
+  // Replace newlines with <br>
+  let formatted = text.replace(/\n/g, '<br>');
+
+  // Highlight references like (1), (2), etc.
+  formatted = formatted.replace(/\((\d+)\)/g, '<sup class="ref-marker">($1)</sup>');
+
+  // Bold text between ** or __
+  formatted = formatted.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+  formatted = formatted.replace(/__(.*?)__/g, '<strong>$1</strong>');
+
+  // Highlight arrows and special chars
+  formatted = formatted.replace(/(→|➔|➜|⟶)/g, '<span style="color: var(--primary);">$1</span>');
+  formatted = formatted.replace(/(✓|✔)/g, '<span style="color: var(--success);">$1</span>');
+  formatted = formatted.replace(/(✗|✘|×)/g, '<span style="color: var(--danger);">$1</span>');
+
+  return formatted;
+}
+
+function renderReferences(mapData) {
+  // Extract references from text content
+  const refs = extractReferences(mapData.root);
+
+  if (refs.length === 0) return '';
+
+  return `
+    <div class="references-section">
+      <h3 class="references-title">
+        <span>📚</span> Referencias (Formato Vancouver)
+      </h3>
+      ${refs.map((ref, i) => `
+        <div class="reference-item">
+          <span class="ref-number">${i + 1}.</span> ${escapeHtml(ref)}
+        </div>
+      `).join('')}
+    </div>
+  `;
+}
+
+function extractReferences(node, refs = new Set()) {
+  if (!node) return Array.from(refs);
+
+  const text = node.text || '';
+
+  // Look for reference patterns
+  // Pattern: Author Year, or DOI, or PMID
+  const doiMatch = text.match(/DOI:\s*([^\s\n]+)/gi);
+  const pmidMatch = text.match(/PMID:\s*(\d+)/gi);
+  const refMatch = text.match(/Ref(?:erencia)?:\s*([^\n]+)/gi);
+
+  if (doiMatch) doiMatch.forEach(m => refs.add(m));
+  if (pmidMatch) pmidMatch.forEach(m => refs.add(m));
+  if (refMatch) refMatch.forEach(m => refs.add(m.replace(/^Ref(?:erencia)?:\s*/i, '')));
+
+  // Look for Vancouver-style references
+  const vancouverPattern = /([A-Z][a-záéíóú]+(?:\s[A-Z]{1,2})?(?:,\s*[A-Z][a-záéíóú]+(?:\s[A-Z]{1,2})?)*(?:\s+et\s+al\.?)?\.\s+[^.]+\.\s+[A-Z][^;]+;\s*\d{4}[^.]*\.)/g;
+  const vancouverMatch = text.match(vancouverPattern);
+  if (vancouverMatch) vancouverMatch.forEach(m => refs.add(m.trim()));
+
+  if (node.children) {
+    node.children.forEach(child => extractReferences(child, refs));
+  }
+
+  return Array.from(refs);
+}
+
+function initializeTreeInteractions() {
+  document.querySelectorAll('.tree-header:not(.leaf)').forEach(header => {
+    header.addEventListener('click', () => {
+      header.classList.toggle('expanded');
+      const children = header.nextElementSibling;
+      if (children) {
+        children.classList.toggle('visible');
+      }
+    });
+  });
+}
+
+function closeMapViewer() {
+  document.getElementById('mapViewerOverlay').classList.remove('visible');
   document.body.style.overflow = '';
+}
+
+function expandAll() {
+  document.querySelectorAll('.tree-header:not(.leaf)').forEach(h => h.classList.add('expanded'));
+  document.querySelectorAll('.tree-children').forEach(c => c.classList.add('visible'));
+}
+
+function collapseAll() {
+  document.querySelectorAll('.tree-header').forEach(h => h.classList.remove('expanded'));
+  document.querySelectorAll('.tree-children').forEach(c => c.classList.remove('visible'));
+}
+
+function copyContent() {
+  const content = document.getElementById('viewerContent').innerText;
+  navigator.clipboard.writeText(content).then(() => {
+    alert('Contenido copiado al portapapeles');
+  });
+}
+
+// ========================================
+// UTILITIES
+// ========================================
+function escapeHtml(text) {
+  const div = document.createElement('div');
+  div.textContent = text;
+  return div.innerHTML;
 }
 
 function debounce(func, wait) {
@@ -307,120 +1238,11 @@ function debounce(func, wait) {
   };
 }
 
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
-document.getElementById('mapModal').addEventListener('click', e => { if (e.target.id === 'mapModal') closeModal(); });
-
+// ========================================
+// INITIALIZE
+// ========================================
 document.addEventListener('DOMContentLoaded', loadData);
 </script>
-
-<style>
-.filters-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  align-items: center;
-  margin-bottom: 2rem;
-  padding: 1rem;
-  background: var(--gray-light);
-  border-radius: 8px;
-}
-.filter-group {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-.filter-group label {
-  font-weight: 500;
-  color: var(--gray);
-}
-.filter-group select {
-  padding: 0.5rem;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  background: var(--white);
-}
-.results-info {
-  margin-bottom: 1rem;
-  color: var(--gray);
-  font-size: 0.95rem;
-}
-.maps-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-}
-.map-list-item {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  cursor: pointer;
-  transition: all 0.2s;
-}
-.map-list-item:hover {
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  border-color: var(--primary);
-}
-.map-list-info h3 {
-  margin: 0 0 0.25rem 0;
-  font-size: 1rem;
-}
-.map-list-meta {
-  margin: 0;
-  font-size: 0.85rem;
-  color: var(--gray);
-}
-.pagination {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-  margin-top: 2rem;
-}
-.pagination button {
-  padding: 0.5rem 1rem;
-  background: var(--primary);
-  color: white;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-.pagination button:hover {
-  background: var(--secondary);
-}
-.page-info {
-  color: var(--gray);
-}
-.modal-large {
-  max-width: 900px;
-  max-height: 85vh;
-}
-.modal-meta {
-  color: var(--gray);
-  font-size: 0.9rem;
-  margin: 0.25rem 0 0 0;
-}
-@media (max-width: 768px) {
-  .filters-container {
-    flex-direction: column;
-    align-items: stretch;
-  }
-  .filter-group {
-    width: 100%;
-  }
-  .filter-group select {
-    flex: 1;
-  }
-  .map-list-item {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.5rem;
-  }
-}
-</style>
 
 </body>
 </html>
