@@ -679,6 +679,65 @@
       color: var(--primary);
     }
 
+    /* Related Maps Section */
+    .related-maps-section {
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 2px solid var(--gray-200);
+    }
+
+    .related-maps-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--gray-700);
+      margin-bottom: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .related-maps-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 0.75rem;
+    }
+
+    .related-map-card {
+      background: linear-gradient(135deg, var(--gray-50) 0%, var(--white) 100%);
+      border: 1px solid var(--gray-200);
+      border-radius: var(--radius-sm);
+      padding: 0.75rem 1rem;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      text-decoration: none;
+      color: inherit;
+    }
+
+    .related-map-card:hover {
+      border-color: var(--primary);
+      box-shadow: var(--shadow-md);
+      transform: translateY(-2px);
+    }
+
+    .related-map-title {
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--gray-800);
+      margin-bottom: 0.25rem;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .related-map-meta {
+      font-size: 0.75rem;
+      color: var(--gray-500);
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
     /* Footer */
     footer {
       text-align: center;
@@ -1091,11 +1150,12 @@ async function openMapViewer(mapId) {
       </div>
     `;
 
-    // Render tree
+    // Render tree with related maps
     content.innerHTML = `
       <div class="tree-root">
         ${renderTree(mapData.root, 0)}
       </div>
+      ${renderRelatedMaps(mapData)}
       ${renderReferences(mapData)}
     `;
 
@@ -1158,8 +1218,60 @@ function formatText(text) {
   return formatted;
 }
 
+function renderRelatedMaps(mapData) {
+  // Check if there are related maps
+  const relatedIds = mapData.related_maps || [];
+  if (relatedIds.length === 0) return '';
+
+  // Find related maps in the loaded data
+  const relatedMaps = relatedIds
+    .map(id => allMaps.find(m => m.id === id))
+    .filter(m => m);
+
+  if (relatedMaps.length === 0) return '';
+
+  return `
+    <div class="related-maps-section">
+      <h3 class="related-maps-title">
+        <span>🔗</span> Mapas Relacionados
+      </h3>
+      <div class="related-maps-grid">
+        ${relatedMaps.map(map => {
+          const config = SPECIALTY_CONFIG[map.specialty] || { emoji: '📋' };
+          return `
+            <div class="related-map-card" onclick="openMapViewer('${map.id}')">
+              <div class="related-map-title">${config.emoji} ${map.title}</div>
+              <div class="related-map-meta">
+                <span>${map.specialty || 'General'}</span>
+                <span>•</span>
+                <span>${map.node_count || 0} nodos</span>
+              </div>
+            </div>
+          `;
+        }).join('')}
+      </div>
+    </div>
+  `;
+}
+
 function renderReferences(mapData) {
-  // Extract references from text content
+  // First check if mapData has explicit references array
+  if (mapData.references && mapData.references.length > 0) {
+    return `
+      <div class="references-section">
+        <h3 class="references-title">
+          <span>📚</span> Referencias (Formato Vancouver)
+        </h3>
+        ${mapData.references.map((ref, i) => `
+          <div class="reference-item">
+            <span class="ref-number">${i + 1}.</span> ${escapeHtml(ref)}
+          </div>
+        `).join('')}
+      </div>
+    `;
+  }
+
+  // Fallback: Extract references from text content
   const refs = extractReferences(mapData.root);
 
   if (refs.length === 0) return '';
