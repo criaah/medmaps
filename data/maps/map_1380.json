@@ -3986,9 +3986,19 @@
   "node_count": 541,
   "relations": [],
   "cross_references": [],
-  "specialty": "General",
+  "specialty": "Infectología",
   "folder": "- Entidades clínicas/Infectología",
   "filename": "NEJM Dic 2024 | SEPSIS Y SHOCK SÉPTICO-2024-1",
   "id": "map_1380",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1833",
+      "title": "SEPSIS Y SHOCK SÉPTICO \\NDic 2024"
+    },
+    {
+      "id": "map_1701",
+      "title": "SAVE Score (2015)\\NSurvival After Veno-arterial ECMO\\N\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria"
+    }
+  ]
 }

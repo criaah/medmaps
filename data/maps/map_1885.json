@@ -1,0 +1,823 @@
+{
+  "id": "map_1885",
+  "title": "ACV: ESCALAS DE\\NUTILIDAD CLÍNICA",
+  "specialty": "Neurología",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 188,
+  "root": {
+    "text": "ACV: ESCALAS DE\\NUTILIDAD CLÍNICA",
+    "children": [
+      {
+        "text": "I. VALORACIÓN\\NINICIAL",
+        "children": [
+          {
+            "text": "A. NIHSS (National Institutes\\Nof Health Stroke Scale)",
+            "children": [
+              {
+                "text": "→ Gravedad del ACV.",
+                "children": [
+                  {
+                    "text": "0: Sin síntomas.",
+                    "children": []
+                  },
+                  {
+                    "text": "1-4: ACV menor.",
+                    "children": []
+                  },
+                  {
+                    "text": "5-15: ACV moderado.",
+                    "children": []
+                  },
+                  {
+                    "text": "16-20: ACV grave.",
+                    "children": []
+                  },
+                  {
+                    "text": "21-42: ACV muy grave.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Items:",
+                "children": [
+                  {
+                    "text": "1a. Nivel Conciencia.",
+                    "children": []
+                  },
+                  {
+                    "text": "1b. Preguntas (Mes/Edad).",
+                    "children": []
+                  },
+                  {
+                    "text": "1c. Órdenes (Ojos/Mano).",
+                    "children": []
+                  },
+                  {
+                    "text": "2. Mirada horizontal.",
+                    "children": []
+                  },
+                  {
+                    "text": "3. Campo visual.",
+                    "children": []
+                  },
+                  {
+                    "text": "4. Parálisis facial.",
+                    "children": []
+                  },
+                  {
+                    "text": "5. Motor Brazo (a:Der/b:Izq).",
+                    "children": []
+                  },
+                  {
+                    "text": "6. Motor Pierna (a:Der/b:Izq).",
+                    "children": []
+                  },
+                  {
+                    "text": "7. Ataxia extremidades.",
+                    "children": []
+                  },
+                  {
+                    "text": "8. Sensibilidad.",
+                    "children": []
+                  },
+                  {
+                    "text": "9. Lenguaje.",
+                    "children": []
+                  },
+                  {
+                    "text": "10. Disartria.",
+                    "children": []
+                  },
+                  {
+                    "text": "11. Extinción/Inatención.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "B. ASPECTOS (Alberta Stroke\\NProgram Early CT Score)",
+            "children": [
+              {
+                "text": "→ Extensión de la\\Nisquemia en TC.",
+                "children": [
+                  {
+                    "text": "10: Normal.",
+                    "children": []
+                  },
+                  {
+                    "text": "<7: Isquemia extensa (>1/3 territorio ACM).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Territorio ACM:",
+                "children": [
+                  {
+                    "text": "M1: Córtex Anterior.",
+                    "children": []
+                  },
+                  {
+                    "text": "M2: Córtex Lateral.",
+                    "children": []
+                  },
+                  {
+                    "text": "M3: Córtex Posterior.",
+                    "children": []
+                  },
+                  {
+                    "text": "M4: Anterior a M1.",
+                    "children": []
+                  },
+                  {
+                    "text": "M5: Lateral a M2.",
+                    "children": []
+                  },
+                  {
+                    "text": "M6: Posterior a M3.",
+                    "children": []
+                  },
+                  {
+                    "text": "C: Caudado.",
+                    "children": []
+                  },
+                  {
+                    "text": "L: Lenticular.",
+                    "children": []
+                  },
+                  {
+                    "text": "I: Ínsula.",
+                    "children": []
+                  },
+                  {
+                    "text": "IC: Cápsula Interna.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "C. Glasgow \\N(Glasgow Coma Scale)",
+            "children": [
+              {
+                "text": "→ Nivel de\\NConciencia.",
+                "children": [
+                  {
+                    "text": "15: Normal.",
+                    "children": []
+                  },
+                  {
+                    "text": "≤8: Coma (Intubación).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Apertura Ocular\\N(AO)",
+                "children": [
+                  {
+                    "text": "4: Espontánea.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: A la voz.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Al dolor.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: No.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Respuesta Verbal\\N(RV)",
+                "children": [
+                  {
+                    "text": "5: Orientada.",
+                    "children": []
+                  },
+                  {
+                    "text": "4: Confusa.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Inapropiada.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Incomprensible.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: No.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Respuesta Motora\\N(RM)",
+                "children": [
+                  {
+                    "text": "6: Obedece.",
+                    "children": []
+                  },
+                  {
+                    "text": "5: Localiza.",
+                    "children": []
+                  },
+                  {
+                    "text": "4: Retira.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Flexión (Decorticación).",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Extensión (Descerebración).",
+                    "children": []
+                  },
+                  {
+                    "text": "1: No.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "II. VALORACIÓN\\NFUNCIONAL",
+        "children": [
+          {
+            "text": "A. Rankin modificada\\N(mRS)",
+            "children": [
+              {
+                "text": "→ Discapacidad\\NPost-ACV.",
+                "children": [
+                  {
+                    "text": "0: Sin síntomas.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: Síntomas no incapacitantes.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Discapacidad leve.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Discapacidad moderada.",
+                    "children": []
+                  },
+                  {
+                    "text": "4: Discapacidad moderada-grave.",
+                    "children": []
+                  },
+                  {
+                    "text": "5: Discapacidad grave.",
+                    "children": []
+                  },
+                  {
+                    "text": "6: Muerte.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "B. Barthel → Actividades de\\Nla vida diaria (AVD).",
+            "children": [
+              {
+                "text": "100: Independiente.",
+                "children": []
+              },
+              {
+                "text": "≥60: Dependencia leve.",
+                "children": []
+              },
+              {
+                "text": "40-55: Dependencia moderada.",
+                "children": []
+              },
+              {
+                "text": "20-35: Dependencia grave.",
+                "children": []
+              },
+              {
+                "text": "<20: Dependencia total.",
+                "children": []
+              },
+              {
+                "text": "Items:",
+                "children": [
+                  {
+                    "text": "Comer",
+                    "children": []
+                  },
+                  {
+                    "text": "Lavarse/Bañarse",
+                    "children": []
+                  },
+                  {
+                    "text": "Vestirse",
+                    "children": []
+                  },
+                  {
+                    "text": "Arreglarse",
+                    "children": []
+                  },
+                  {
+                    "text": "Deposiciones",
+                    "children": []
+                  },
+                  {
+                    "text": "Micción",
+                    "children": []
+                  },
+                  {
+                    "text": "Retrete",
+                    "children": []
+                  },
+                  {
+                    "text": "Traslado Sillón/Cama",
+                    "children": []
+                  },
+                  {
+                    "text": "Deambulación",
+                    "children": []
+                  },
+                  {
+                    "text": "Escalones",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "III. OTRAS ESCALAS",
+        "children": [
+          {
+            "text": "A. ABCD2 → Riesgo\\Nde ACV tras AIT.",
+            "children": [
+              {
+                "text": "≥4: Alto Riesgo\\N(Ingreso hospitalario).",
+                "children": []
+              },
+              {
+                "text": "0-3: Bajo riesgo",
+                "children": []
+              },
+              {
+                "text": "A (Age): ≥60 años (+1).",
+                "children": []
+              },
+              {
+                "text": "B (Blood Pressure): ≥140/90 mmHg (+1).",
+                "children": []
+              },
+              {
+                "text": "C (Clinical Features):",
+                "children": [
+                  {
+                    "text": "Debilidad unilateral (+2).",
+                    "children": []
+                  },
+                  {
+                    "text": "Alteración del habla (+1).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "D (Duration):",
+                "children": [
+                  {
+                    "text": "≥60 min (+2).",
+                    "children": []
+                  },
+                  {
+                    "text": "10-59 min (+1).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "D (Diabetes):  (+1).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "B. CHADS2 / CHA2DS2-VASc →\\NRiesgo Embólico en Fibrilación Auricular\\N(FA).",
+            "children": [
+              {
+                "text": "CHADS2:",
+                "children": [
+                  {
+                    "text": "C (Congestive Heart Failure): (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "H (Hypertension): (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "A (Age): ≥75 años (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "D (Diabetes): (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "S (Stroke/TIA/Embolism): (+2).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "CHA2DS2-VASc:",
+                "children": [
+                  {
+                    "text": "C: Insuficiencia Cardíaca (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "H: Hipertensión (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "A2: Edad ≥75 años (+2).",
+                    "children": []
+                  },
+                  {
+                    "text": "D: Diabetes (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "S2: ACV/AIT/Embolismo previo (+2).",
+                    "children": []
+                  },
+                  {
+                    "text": "V: Vasculopatía (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "A: Edad 65-74 años (+1).",
+                    "children": []
+                  },
+                  {
+                    "text": "Sc: Sexo Femenino (+1).",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "C. HAS-BLED → Riesgo de Sangrado en\\NPacientes con FA Anticoagulados.",
+            "children": [
+              {
+                "text": "≥3: Alto riesgo.",
+                "children": []
+              },
+              {
+                "text": "H: Hipertensión no controlada (+1).",
+                "children": []
+              },
+              {
+                "text": "A: Función Renal/Hepática Anormal (Diálisis, Trasplante, Creatinina >2.26 mg/dL)\\N(+1) / (Cirrosis, Bilirrubina >2x límite superior, AST/ALT/FA >3x límite superior) (+1).",
+                "children": []
+              },
+              {
+                "text": "S: ACV Previo (+1).",
+                "children": []
+              },
+              {
+                "text": "B: Historia de Sangrado (+1).",
+                "children": []
+              },
+              {
+                "text": "L: INR Lábil (+1).",
+                "children": []
+              },
+              {
+                "text": "E: Edad >65 años (+1).",
+                "children": []
+              },
+              {
+                "text": "D: Fármacos (Antiagregantes, AINEs) (+1)/ Consumo de Alcohol (+1).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "D. FOUR Score (Full Outline of UnResponsiveness) -\\NDeterioro Neurológico.",
+            "children": [
+              {
+                "text": "E (Eye Response):",
+                "children": [
+                  {
+                    "text": "4: Párpados abiertos, rastreo o parpadeo a la orden.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Párpados abiertos pero sin rastreo.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Párpados cerrados, se abren a estímulo fuerte pero sin rastreo.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: Párpados cerrados, se abren al dolor pero sin rastreo.",
+                    "children": []
+                  },
+                  {
+                    "text": "0: Párpados permanecen cerrados con dolor.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "M (Motor Response):",
+                "children": [
+                  {
+                    "text": "4: Pulgar arriba, puño o signo de la paz.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Localiza al estímulo doloroso.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Respuesta flexora al dolor.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: Respuesta extensora al dolor.",
+                    "children": []
+                  },
+                  {
+                    "text": "0: Sin respuesta al dolor o estado mioclónico generalizado.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B (Brainstem Reflexes):",
+                "children": [
+                  {
+                    "text": "4: Reflejos pupilar y corneal presentes.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: Una pupila ancha y fija.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: Reflejos pupilar o\\Ncorneal ausentes.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: Reflejos pupilar y\\Ncorneal ausentes.",
+                    "children": []
+                  },
+                  {
+                    "text": "0: Ausentes reflejos pupilar,\\Ncorneal y tusígeno.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "R (Respiration):",
+                "children": [
+                  {
+                    "text": "4: No intubado, patrón\\Nrespiratorio regular.",
+                    "children": []
+                  },
+                  {
+                    "text": "3: No intubado, respiración\\Nde Cheyne-Stokes.",
+                    "children": []
+                  },
+                  {
+                    "text": "2: No intubado,\\Nrespiración irregular.",
+                    "children": []
+                  },
+                  {
+                    "text": "1: Respira por encima de la\\Nfrecuencia del ventilador.",
+                    "children": []
+                  },
+                  {
+                    "text": "0: Respira a la frecuencia del\\Nventilador o apnea.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ICH SCORE (Intracerebral Hemorrhage Score) → Gravedad\\Ny pronóstico de la Hemorragia Intracerebral (HIC).",
+        "children": [
+          {
+            "text": "Puntuación: 0-6.",
+            "children": []
+          },
+          {
+            "text": "Mortalidad a 30 días:",
+            "children": [
+              {
+                "text": "0: 0%",
+                "children": []
+              },
+              {
+                "text": "1: 13%",
+                "children": []
+              },
+              {
+                "text": "2: 26%",
+                "children": []
+              },
+              {
+                "text": "3: 72%",
+                "children": []
+              },
+              {
+                "text": "4: 97%",
+                "children": []
+              },
+              {
+                "text": "≥5: 100%",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Variables:",
+            "children": [
+              {
+                "text": "G (Glasgow\\NComa Scale):",
+                "children": [
+                  {
+                    "text": "3-4: +2",
+                    "children": []
+                  },
+                  {
+                    "text": "5-12: +1",
+                    "children": []
+                  },
+                  {
+                    "text": "13-15: +0",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "V (Volumen HIC):",
+                "children": [
+                  {
+                    "text": "≥30 cm3: +1",
+                    "children": []
+                  },
+                  {
+                    "text": "<30 cm3: +0",
+                    "children": []
+                  },
+                  {
+                    "text": "Calculo: (AxBxC)/2 en cm, donde A es el diámetro mayor de la hemorragia, B el diámetro perpendicular\\Na A y C el número de cortes donde se visualiza la hemorragia multiplicado por el grosor del corte.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "I (Hemorragia\\NIntraventricular):",
+                "children": [
+                  {
+                    "text": "Sí: +1",
+                    "children": []
+                  },
+                  {
+                    "text": "No: +0",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "L (Localización\\NInfratentorial):",
+                "children": [
+                  {
+                    "text": "Sí: +1",
+                    "children": []
+                  },
+                  {
+                    "text": "No: +0",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "E (Edad):",
+                "children": [
+                  {
+                    "text": "≥80 años: +1",
+                    "children": []
+                  },
+                  {
+                    "text": "<80 años: +0",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Referencias:",
+        "children": [
+          {
+            "text": "Hemphill, J. C., et al. \"The ICH score: a simple,\\Nreliable grading scale for intracerebral hemorrhage.\"\\NStroke 32.4 (2001): 891-897. (1)",
+            "children": []
+          },
+          {
+            "text": "Broderick, J. P., et al. \"Evolution of the NIH\\NStroke Scale and its use in clinical trials.\"\\NStroke 31.6 (2000): 1458-1463. (1)",
+            "children": []
+          },
+          {
+            "text": "Barber, P. A., et al. \"Validity and reliability of a quantitative\\Ncomputed tomography score in predicting outcome of\\Nhyperacute stroke before thrombolytic therapy.\" The Lancet\\N355.9216 (2000): 1670-1674. (2)",
+            "children": []
+          },
+          {
+            "text": "Teasdale, G., & Jennett, B. \"Assessment of coma and\\Nimpaired consciousness: a practical scale.\" The Lancet\\N304.7872 (1974): 81-84. (3)",
+            "children": []
+          },
+          {
+            "text": "Quinn, T. J., et al. \"Modified rankin\\Nscale: a systematic review.\" Stroke 40.\\N11 (2009): 3393-3398. (4)",
+            "children": []
+          },
+          {
+            "text": "Mahoney, F. I., & Barthel, D. W. \"Functional\\Nevaluation: the Barthel Index.\" Maryland state\\Nmedical journal 14 (1965): 61-65. (5)",
+            "children": []
+          },
+          {
+            "text": "Johnston, S. C., et al. \"Validation and refinement\\Nof scores to predict very early stroke risk after\\Ntransient ischaemic attack.\" The Lancet 369.9558\\N(2007): 283-292. (6)",
+            "children": []
+          },
+          {
+            "text": "Lip, G. Y., et al. \"Refining clinical risk stratification for\\Npredicting stroke and thromboembolism in atrial\\Nfibrillation using a novel risk factor-based approach:\\Nthe euro heart survey on atrial fibrillation.\" Chest 137.2\\N(2010): 263-272. (7)",
+            "children": []
+          },
+          {
+            "text": "Pisters, R., et al. \"A novel user-friendly score\\N(HAS-BLED) to assess 1-year risk of major bleeding in\\Npatients with atrial fibrillation: the Euro Heart Survey.\"\\NChest 138.5 (2010): 1093-1100. (8)",
+            "children": []
+          },
+          {
+            "text": "Wijdicks, E. F., et al. \"Validation of a new coma\\Nscale: The FOUR score.\" Annals of neurology\\N58.4 (2005): 585-593. (9)",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1677",
+      "title": "DAPA-HF (2019)\\NDapagliflozin in Heart Failure\\N\\nDapagliflozina reduce muerte CV y hospitalizacion IC\\nen IC-FEr CON y SIN diabetes\\NNNTH 21"
+    }
+  ],
+  "source_file": "ACV ESCALAS DE UTILIDAD CLÍNICA-2025-1.smmx",
+  "created": "2026-02-07T15:43:04.275534"
+}

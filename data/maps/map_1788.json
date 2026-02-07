@@ -1,0 +1,73 @@
+{
+  "id": "map_1788",
+  "title": "EWGSOP2 (2019)\\NEuropean Working Group on\\NSarcopenia in Older People 2\\N\\n⭐ Nueva definición sarcopenia:\\nFuerza muscular baja = clave\\nMasa baja = confirmación\\nRendimiento = severidad",
+  "specialty": "Geriatría",
+  "tag": "📋 Guía Clínica",
+  "node_count": 10,
+  "root": {
+    "text": "EWGSOP2 (2019)\\NEuropean Working Group on\\NSarcopenia in Older People 2\\N\\n⭐ Nueva definición sarcopenia:\\nFuerza muscular baja = clave\\nMasa baja = confirmación\\nRendimiento = severidad",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACION\\N\\NAutor: Cruz-Jentoft AJ et al.\\NAño: 2019\\NRevista: Age and Ageing\\NDOI: 10.1093/ageing/afy169\\N\\nDiseño: Consenso de expertos\\nActualización EWGSOP 2010\\nGrupo europeo multidisciplinario",
+        "children": [
+          {
+            "text": "📚 REFERENCIAS\\N\\n1. Cruz-Jentoft AJ et al. Age Ageing 2019\\n   DOI: 10.1093/ageing/afy169\\n\\n2. EWGSOP1. Age Ageing 2010\\n   Primera definición\\n\\n3. AWGS 2019\\n   Consenso asiático sarcopenia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "📋 DEFINICION OPERACIONAL\\N\\n1. SCREENING (SARC-F):\\n   - Cuestionario 5 preguntas\\n   - Score mayor o igual 4 = sospecha\\n\\n2. DIAGNÓSTICO:\\n   a) Fuerza muscular baja:\\n      - Dinamometría menor 27 kg (H)\\n      - Dinamometría menor 16 kg (M)\\n   b) Masa muscular baja (confirma):\\n      - DXA: ALMI menor 7.0 (H), menor 5.5 (M)\\n      - BIA: según referencias locales\\n\\n3. SEVERIDAD:\\n   - Rendimiento físico bajo:\\n   - SPPB menor o igual 8, TUG mayor o igual 20s\\n   - Velocidad marcha menor 0.8 m/s",
+        "children": []
+      },
+      {
+        "text": "🔄 ALGORITMO F-A-C-S\\N\\nF - Find cases (SARC-F)\\n    Score mayor o igual 4 = evaluar\\n\\nA - Assess strength (fuerza)\\n    Dinamometría de mano\\n    Bajo = sarcopenia probable\\n\\nC - Confirm (masa muscular)\\n    DXA o BIA\\n    Bajo = sarcopenia confirmada\\n\\nS - Severity (rendimiento)\\n    SPPB, TUG, vel marcha\\n    Bajo = sarcopenia severa",
+        "children": []
+      },
+      {
+        "text": "📊 PUNTOS DE CORTE\\N\\nFuerza (Dinamometría mano):\\n• Hombres: menor 27 kg\\n• Mujeres: menor 16 kg\\n\\nMasa muscular (ALMI por DXA):\\n• Hombres: menor 7.0 kg/m2\\n• Mujeres: menor 5.5 kg/m2\\n\\nRendimiento físico:\\n• SPPB: menor o igual 8 puntos\\n• Velocidad marcha: menor 0.8 m/s\\n• TUG: mayor o igual 20 segundos\\n• 400m walk: imposible o mayor 6 min\\n\\nSARC-F: mayor o igual 4 = sospecha",
+        "children": []
+      },
+      {
+        "text": "📋 CATEGORIAS\\N\\nSarcopenia PROBABLE:\\n• Fuerza baja\\n• Sin confirmación masa\\n• Iniciar intervención\\n\\nSarcopenia CONFIRMADA:\\n• Fuerza baja + Masa baja\\n• Diagnóstico establecido\\n\\nSarcopenia SEVERA:\\n• Fuerza + Masa + Rendimiento bajos\\n• Peor pronóstico\\n• Intervención intensiva\\n\\nPrimaria vs Secundaria:\\n• Primaria: edad\\n• Secundaria: enfermedad, inactividad",
+        "children": []
+      },
+      {
+        "text": "⚖️ CAMBIOS vs EWGSOP 2010\\N\\nPrincipal cambio:\\n• Antes: masa primero\\n• Ahora: FUERZA primero\\n\\nRazón:\\n• Fuerza predice mejor outcomes\\n• Más fácil de medir\\n• Dinamometría accesible\\n\\nNuevo screening:\\n• SARC-F añadido\\n• Más práctico en clínica\\n\\nCategorías nuevas:\\n• Probable/Confirmada/Severa\\n• Antes solo presente/ausente",
+        "children": []
+      },
+      {
+        "text": "👴 APLICABILIDAD GERIATRICA\\N\\n⭐⭐⭐⭐⭐ FUNDAMENTAL\\N\\nUso obligatorio:\\n• Evaluar todo anciano\\n• Especialmente: caídas, fracturas,\\n  hospitalización, deterioro funcional\\n\\nHerramientas mínimas:\\n• SARC-F (gratis, 30 seg)\\n• Dinamómetro (económico)\\n\\nImplementación:\\n• VGI debe incluir sarcopenia\\n• SPPB ya se hace = rendimiento\\n\\nDerivación:\\n• DXA si sospecha alta\\n• BIA como alternativa",
+        "children": []
+      },
+      {
+        "text": "💎 PERLAS CLINICAS\\N\\n1. FUERZA es la CLAVE:\\N   dinamometría obligatoria\\N\\n2. SARC-F en todo anciano:\\N   screening gratuito, 30 seg\\N\\n3. Dinamómetro menor 100 USD:\\N   inversión mínima, alto impacto\\N\\n4. Probable = ya tratar:\\N   no esperar DXA\\N\\n5. SPPB doble uso:\\N   fragilidad Y sarcopenia\\N\\n6. Velocidad marcha 0.8 m/s:\\N   punto corte universal\\N\\n7. Secundaria buscar causa:\\N   DM, EPOC, ICC, cáncer\\N\\n8. Intervención = ejercicio + proteína:\\N   siempre, no solo diagnosticar",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1063",
+      "title": "Fragilidad y sarcopenia Dra. Meneses 2024"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    }
+  ],
+  "source_file": "EWGSOP2-2026.smmx",
+  "created": "2026-02-07T15:42:56.453185"
+}

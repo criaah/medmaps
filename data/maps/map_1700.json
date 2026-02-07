@@ -1,0 +1,56 @@
+{
+  "id": "map_1700",
+  "title": "TEAM (2023)\\NTargeted Energy and Muscle Trial\\N\\nMeta proteica alta temprana NO mejora\\noutcomes en pacientes criticos\\nDosis moderada proteina es suficiente",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "TEAM (2023)\\NTargeted Energy and Muscle Trial\\N\\nMeta proteica alta temprana NO mejora\\noutcomes en pacientes criticos\\nDosis moderada proteina es suficiente",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nHeyland DK, et al.\\nN Engl J Med 2024;391:1395-1406\\NDOI: 10.1056/NEJMoa2309699\\N\\nRCT multicentrico, doble ciego\\n17 paises, 85 UCIs",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=1,301\\nAdultos criticos ventilacion mecanica\\n\\nCriterios:\\n- NUTRIC score mayor o igual 5 (alto riesgo)\\n- VM esperada mayor o igual 48h\\n- Tolerancia nutricion enteral\\n\\nEdad media: 58 años\\nApache II medio: 20\\nSeguimiento: 60 dias",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\nDosis alta proteina: 2.0 g/kg/dia\\nvs\\nDosis usual: 1.2 g/kg/dia\\n\\nInicio dentro de 96h ingreso UCI\\nCalorias: 1.3 x gasto energetico basal",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nOutcome primario (dias vivo sin VM a 60d):\\nDosis alta: 21.9 dias\\nDosis usual: 22.5 dias\\nDiferencia: -0.6 (IC95% -3.4 a 2.2)\\np=0.68 - NO SIGNIFICATIVO\\N\\nMortalidad 60 dias:\\nDosis alta: 32%\\nDosis usual: 29%\\nHR 1.11 (IC95% 0.91-1.37)\\np=0.31 (tendencia a daño)",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nDosis alta vs usual:\\n- Azotemia: mas frecuente\\n- Sobrecarga volumen: similar\\n- Diarrea: similar\\n- Intolerancia GI: similar\\n\\nSin beneficio funcional\\nSin preservacion masa muscular",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Solo alto riesgo nutricional\\n- Nutricion enteral (no parenteral)\\n- No evaluacion masa muscular directa\\n- Heterogeneidad poblacion UCI\\n- Efecto techo de proteina?",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Ancianos: mayor sarcopenia previa\\n- 1.2-1.5 g/kg/dia es suficiente\\n- Evitar exceso proteico (azotemia)\\n- Monitorizar funcion renal\\n- Inicio temprano enteral: prioritario\\n- Rehabilitacion precoz mas importante que proteina",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Mas proteina NO es mejor en UCI\\n2. 1.2 g/kg/dia es meta razonable\\n3. Ancianos: riesgo azotemia con exceso\\n4. Nutricion enteral temprana SI importa\\n5. NUTRIC score identifica alto riesgo\\n6. Movilizacion precoz es clave\\n7. Proteina alta no preserva musculo en critico\\n8. Individualizar segun funcion renal\\n9. Calorias adecuadas sin sobrealimentar\\n10. Fisioterapia mayor 30 primeras horas",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1063",
+      "title": "Fragilidad y sarcopenia Dra. Meneses 2024"
+    }
+  ],
+  "source_file": "TEAM-2026.smmx",
+  "created": "2026-02-07T15:42:53.497853"
+}

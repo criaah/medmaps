@@ -1,0 +1,677 @@
+{
+  "id": "map_1841",
+  "title": "UTD - Enfoque Diagnóstico de\\NTrombocitopenia en Adultos",
+  "specialty": "Hematología",
+  "tag": "🔬 Fisiopatología",
+  "node_count": 152,
+  "root": {
+    "text": "UTD - Enfoque Diagnóstico de\\NTrombocitopenia en Adultos",
+    "children": [
+      {
+        "text": "## DEFINICIONES Y ÁREAS\\NDE PREOCUPACIÓN",
+        "children": [
+          {
+            "text": "### Severidad de la\\NTrombocitopenia",
+            "children": [
+              {
+                "text": "- **Leve**: 100, 000-149,000/microL",
+                "children": []
+              },
+              {
+                "text": "- **Moderada**: 50, 000-99,000/microL",
+                "children": []
+              },
+              {
+                "text": "- **Severa**: <50,000/microL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Estabilidad\\Ny Variación",
+            "children": [
+              {
+                "text": "- Recuentos plaquetarios estables en individuos sanos",
+                "children": []
+              },
+              {
+                "text": "- Variación normal entre individuos",
+                "children": []
+              },
+              {
+                "text": "- Masa plaquetaria total regulada, no recuento",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Riesgo de\\NSangrado",
+            "children": [
+              {
+                "text": "- Correlación débil entre recuento y riesgo",
+                "children": []
+              },
+              {
+                "text": "- Factores predictivos: sangrados previos, púrpura húmeda, hematuria",
+                "children": []
+              },
+              {
+                "text": "- Umbral \"seguro\":",
+                "children": [
+                  {
+                    "text": "- Cirugías: >50,000/microL (>100,000/microL para neurocirugía/cardíaca)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Sangrado espontáneo severo: <20,000/microL, especialmente <10,000/microL",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Riesgo de\\NTrombosis",
+            "children": [
+              {
+                "text": "- Trombocitopenia inducida por heparina (HIT)",
+                "children": []
+              },
+              {
+                "text": "- Trombocitopenia trombótica inmune inducida por vacunas (VITT)",
+                "children": []
+              },
+              {
+                "text": "- Síndrome antifosfolípido (SAF)",
+                "children": []
+              },
+              {
+                "text": "- Coagulación intravascular diseminada (CID)",
+                "children": []
+              },
+              {
+                "text": "- Microangiopatía trombótica (MAT)",
+                "children": []
+              },
+              {
+                "text": "- Hemoglobinuria paroxística nocturna (HPN)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## CATEGORÍAS\\NDE CAUSAS",
+        "children": [
+          {
+            "text": "### Por Mecanismo",
+            "children": [
+              {
+                "text": "#### Disminución\\Nde Producción",
+                "children": [
+                  {
+                    "text": "- Trastornos plaquetarios hereditarios",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alteraciones de médula ósea",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pérdida de megacariocitos",
+                    "children": []
+                  },
+                  {
+                    "text": "- Enfermedad hepática (↓ trombopoyetina)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Aumento de Destrucción\\No Consumo",
+                "children": [
+                  {
+                    "text": "- Aumento de eliminación\\Nplaquetaria:",
+                    "children": [
+                      {
+                        "text": "- PTI (primaria o secundaria)",
+                        "children": []
+                      },
+                      {
+                        "text": "- PTI inducida por fármacos",
+                        "children": []
+                      },
+                      {
+                        "text": "- Púrpura postransfusional",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Consumo:",
+                    "children": [
+                      {
+                        "text": "- CID",
+                        "children": []
+                      },
+                      {
+                        "text": "- MAT (PTT, SUH, DTMI)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Dispositivos intravasculares",
+                        "children": []
+                      },
+                      {
+                        "text": "- Cirugía",
+                        "children": []
+                      },
+                      {
+                        "text": "- Trombosis extensa",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "#### Dilución",
+            "children": [
+              {
+                "text": "- Reanimación con líquidos",
+                "children": []
+              },
+              {
+                "text": "- Transfusión masiva",
+                "children": []
+              },
+              {
+                "text": "- Trombocitopenia gestacional",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "####\\NRedistribución/Hiperesplenismo",
+            "children": [
+              {
+                "text": "- Esplenomegalia",
+                "children": []
+              },
+              {
+                "text": "- Congestión esplénica por hipertensión portal",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "### Por Nivel\\Nde Urgencia",
+        "children": [
+          {
+            "text": "#### Emergencias\\NTrombocitopénicas",
+            "children": [
+              {
+                "text": "- Sangrado con trombocitopenia severa",
+                "children": []
+              },
+              {
+                "text": "- Procedimientos invasivos urgentes",
+                "children": []
+              },
+              {
+                "text": "- Embarazo con trombocitopenia severa",
+                "children": []
+              },
+              {
+                "text": "- HIT, VITT, PTT, SUH, CID, LMA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "#### Pacientes\\NCríticos/UCI",
+            "children": [
+              {
+                "text": "- Causas comunes: sepsis, CID, fármacos",
+                "children": []
+              },
+              {
+                "text": "- Causas menos comunes pero críticas: MAT, leucemias, aplasia medular, LHH",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "####\\NPosquirúrgicos/Hospitalizados",
+            "children": [
+              {
+                "text": "- Caída transitoria posquirúrgica (dilución/consumo)",
+                "children": []
+              },
+              {
+                "text": "- Múltiples causas en hospitalizados",
+                "children": []
+              },
+              {
+                "text": "- HIT: caso especial con riesgo de trombosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "#### Infección o Fiebre",
+            "children": [
+              {
+                "text": "- Viral: rubéola, paperas, varicela, parvovirus, hepatitis C, VEB, COVID-19",
+                "children": []
+              },
+              {
+                "text": "- VIH: mecanismos múltiples",
+                "children": []
+              },
+              {
+                "text": "- Bacteriana/sepsis: supresión medular directa, CID, consumo",
+                "children": []
+              },
+              {
+                "text": "- Parásitos intracelulares: malaria, babesiosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "#### Sangrado u\\NOtros Síntomas",
+            "children": [
+              {
+                "text": "- PTI primaria o inducida por fármacos",
+                "children": []
+              },
+              {
+                "text": "- Enfermedades\\Nsistémicas:",
+                "children": [
+                  {
+                    "text": "- Fiebre",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hepatoesplenomegalia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alteraciones neurológicas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfadenopatía",
+                    "children": []
+                  },
+                  {
+                    "text": "- Afectación articular",
+                    "children": []
+                  },
+                  {
+                    "text": "- Trombosis",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "#### Hallazgo Incidental",
+            "children": [
+              {
+                "text": "- Variación normal",
+                "children": []
+              },
+              {
+                "text": "- PTI",
+                "children": []
+              },
+              {
+                "text": "- Enfermedad hepática oculta",
+                "children": []
+              },
+              {
+                "text": "- Infección por VIH",
+                "children": []
+              },
+              {
+                "text": "- Neoplasia hematológica (SMD)",
+                "children": []
+              },
+              {
+                "text": "- Deficiencias nutricionales (B12, folato, cobre)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## ENFOQUE DE\\NEVALUACIÓN",
+        "children": [
+          {
+            "text": "### Evaluación Inicial",
+            "children": [
+              {
+                "text": "- Determinar si existe emergencia trombocitopénica",
+                "children": []
+              },
+              {
+                "text": "- Preguntas clave:",
+                "children": [
+                  {
+                    "text": "- ¿Es real la trombocitopenia?",
+                    "children": []
+                  },
+                  {
+                    "text": "- ¿Es nueva?",
+                    "children": []
+                  },
+                  {
+                    "text": "- ¿Hay otras anomalías hematológicas?",
+                    "children": []
+                  },
+                  {
+                    "text": "- ¿Hay consecuencias graves por no\\Niniciar tratamiento rápidamente?",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Historia Clínica",
+            "children": [
+              {
+                "text": "- Recuentos plaquetarios previos",
+                "children": []
+              },
+              {
+                "text": "- Antecedentes familiares",
+                "children": []
+              },
+              {
+                "text": "- Historia de sangrado",
+                "children": []
+              },
+              {
+                "text": "- Exposición a medicamentos",
+                "children": []
+              },
+              {
+                "text": "- Exposiciones infecciosas",
+                "children": []
+              },
+              {
+                "text": "- Prácticas dietéticas",
+                "children": []
+              },
+              {
+                "text": "- Condiciones médicas asociadas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Examen Físico",
+            "children": [
+              {
+                "text": "- Piel y sitios de\\Nsangrado:",
+                "children": [
+                  {
+                    "text": "- Petequias: lesiones puntiformes rojas planas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Púrpura: decoloración purpúrea por petequias confluentes",
+                    "children": []
+                  },
+                  {
+                    "text": "- Equimosis: áreas de sangrado en piel",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Hígado, bazo, ganglios linfáticos",
+                "children": []
+              },
+              {
+                "text": "- Signos de trombosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Pruebas de\\NLaboratorio",
+            "children": [
+              {
+                "text": "- Repetir hemograma completo",
+                "children": []
+              },
+              {
+                "text": "- Revisión de frotis sanguíneo periférico",
+                "children": []
+              },
+              {
+                "text": "- Pseudotrombocitopenia: agregación plaquetaria en EDTA",
+                "children": []
+              },
+              {
+                "text": "- Anomalías de\\NGR y GB:",
+                "children": [
+                  {
+                    "text": "- Esquistocitos → proceso microangiopático",
+                    "children": []
+                  },
+                  {
+                    "text": "- GR nucleados → asplenia/hipofunción esplénica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Esferocitos → anemia hemolítica o esferocitosis hereditaria",
+                    "children": []
+                  },
+                  {
+                    "text": "- Leucoeritroblastosis → proceso infiltrativo medular",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Panel metabólico y función hepática",
+                "children": []
+              },
+              {
+                "text": "- Pruebas para VIH y VHC",
+                "children": []
+              },
+              {
+                "text": "- Pruebas adicionales según hallazgos específicos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Diagnóstico Final",
+            "children": [
+              {
+                "text": "- PTI inducida por fármacos: suspender medicamentos implicados",
+                "children": []
+              },
+              {
+                "text": "- PTI: diagnóstico de exclusión",
+                "children": []
+              },
+              {
+                "text": "- Respuesta a terapias para PTI apoya diagnóstico",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Derivación a\\NHematología",
+            "children": [
+              {
+                "text": "- Confirmar cualquier diagnóstico hematológico nuevo",
+                "children": []
+              },
+              {
+                "text": "- Determinar causa de trombocitopenia inexplicada",
+                "children": []
+              },
+              {
+                "text": "- Urgencia según grado de trombocitopenia y estabilidad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Evaluación de\\NMédula Ósea",
+            "children": [
+              {
+                "text": "- No requerida en todos los pacientes",
+                "children": []
+              },
+              {
+                "text": "- Útil si causa poco clara o sospecha de trastorno medular primario",
+                "children": []
+              },
+              {
+                "text": "- Hallazgos relevantes:",
+                "children": [
+                  {
+                    "text": "- Megacariocitos normales o aumentados → destrucción plaquetaria",
+                    "children": []
+                  },
+                  {
+                    "text": "- Disminución de megacariocitos → menor producción",
+                    "children": []
+                  },
+                  {
+                    "text": "- Cambios megaloblásticos → deficiencia de B12, folato o cobre",
+                    "children": []
+                  },
+                  {
+                    "text": "- Cambios displásicos → SMD o deficiencia de cobre",
+                    "children": []
+                  },
+                  {
+                    "text": "- Fibrosis, granulomas, infiltración maligna → diagnóstico específico",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## PRINCIPIOS GENERALES\\NDE MANEJO",
+        "children": [
+          {
+            "text": "- Tratar causa subyacente",
+            "children": []
+          },
+          {
+            "text": "- Transfusiones plaquetarias como medida temporaria",
+            "children": []
+          },
+          {
+            "text": "- Restricciones de actividad según severidad",
+            "children": []
+          },
+          {
+            "text": "- Evaluación de anticoagulantes y antiplaquetarios",
+            "children": []
+          },
+          {
+            "text": "- Evitar remedios de venta libre que afecten función plaquetaria",
+            "children": []
+          },
+          {
+            "text": "- Recuento plaquetario seguro para procedimientos invasivos varía según tipo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## RESUMEN",
+        "children": [
+          {
+            "text": "- La trombocitopenia es común y puede tener múltiples causas",
+            "children": []
+          },
+          {
+            "text": "- El enfoque diagnóstico\\Ndebe basarse en:",
+            "children": [
+              {
+                "text": "- Severidad y estabilidad del recuento",
+                "children": []
+              },
+              {
+                "text": "- Presencia de sangrado o trombosis",
+                "children": []
+              },
+              {
+                "text": "- Hallazgos clínicos asociados",
+                "children": []
+              },
+              {
+                "text": "- Resultados de laboratorio complementarios",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- El manejo depende de la causa subyacente",
+            "children": []
+          },
+          {
+            "text": "- La consulta hematológica es apropiada para nuevos diagnósticos y casos inexplicados",
+            "children": []
+          },
+          {
+            "text": "- La evaluación de médula ósea es útil en casos seleccionados",
+            "children": []
+          },
+          {
+            "text": "- El riesgo de sangrado no correlaciona estrictamente con el recuento plaquetario",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1807",
+      "title": "ANEMIAS SIDEROBLÁSTICAS\\NHEREDITARIAS Y ADQUIRIDAS"
+    },
+    {
+      "id": "map_1808",
+      "title": "ANEMIA HEMOLÍTICA RELACIONADA CON\\NDEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS"
+    },
+    {
+      "id": "map_1812",
+      "title": "ANEMIA ORIGINADA POR OTRAS\\NDEFICIENCIAS NUTRICIONALES"
+    },
+    {
+      "id": "map_1820",
+      "title": "ANEMIA POR INFILTRACIÓN\\NDE LA MÉDULA ÓSEA"
+    },
+    {
+      "id": "map_1833",
+      "title": "SEPSIS Y SHOCK SÉPTICO \\NDic 2024"
+    }
+  ],
+  "source_file": "UTD - Enfoque Diagnóstico de Trombocitopenia en Adultos-2025.smmx",
+  "created": "2026-02-07T15:43:00.110270"
+}

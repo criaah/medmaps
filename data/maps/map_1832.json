@@ -1,0 +1,432 @@
+{
+  "id": "map_1832",
+  "title": "Flora Comensal\\NHumana",
+  "specialty": "Infectología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 93,
+  "root": {
+    "text": "Flora Comensal\\NHumana",
+    "children": [
+      {
+        "text": "- Introducción y\\NDefiniciones",
+        "children": [
+          {
+            "text": "› Composición: 90% células del cuerpo son microbios (10^{14} células totales) ",
+            "children": []
+          },
+          {
+            "text": "› Origen del término: \"Commensal\" (Latín 'mensa' - mesa), comparten nuestra \"mesa\"",
+            "children": []
+          },
+          {
+            "text": "› Adquisición inicial: Comienza al nacer (canal del parto, ambiente), continúa toda la vida",
+            "children": []
+          },
+          {
+            "text": "› Proceso de\\NColonización",
+            "children": [
+              {
+                "text": "◊ Adhesión al huésped",
+                "children": []
+              },
+              {
+                "text": "◊ Multiplicación",
+                "children": []
+              },
+              {
+                "text": "◊ Formación de comunidades complejas",
+                "children": []
+              },
+              {
+                "text": "◊ Interacción: Microbio-microbio y microbio-huésped",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Tipos\\Nde Flora",
+            "children": [
+              {
+                "text": "◊ Residente ★: Estable, largo plazo, adaptada al sitio, relaciones interdependientes ",
+                "children": []
+              },
+              {
+                "text": "◊ Transitoria ★: Temporal, no se establece permanentemente (competición, defensas del huésped) ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Relación con\\NPatógenos ★",
+            "children": [
+              {
+                "text": "◊ Patógenos: Causan daño/enfermedad (infección) ",
+                "children": []
+              },
+              {
+                "text": "◊ Límite\\NDifuso ⇄",
+                "children": [
+                  {
+                    "text": "• Comensales pueden volverse patógenos: Ej. *Staphylococcus saprophyticus* (flora piel)\\N→ Cistitis post-coito (\"honeymoon cystitis\")",
+                    "children": []
+                  },
+                  {
+                    "text": "• Patógenos pueden ser portados sin síntomas (Portadores ★): Ej. Portador de *Salmonella typhi*\\Nasintomático causó brote tifoidea (Croydon 1937)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Sitios Normalmente Estériles: Tejidos profundos, LCR, músculos, articulaciones, huesos,\\Ntejido conectivo, sangre, riñones, hígado, bazo, tracto urinario (mayor parte) ",
+            "children": []
+          },
+          {
+            "text": "› Variabilidad: Diferencias individuales y cambios a lo largo de la vida\\Nen tipo y número de microbios",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "- Flora Comensal por\\NLocalización Anatómica",
+        "children": [
+          {
+            "text": "› Piel",
+            "children": [
+              {
+                "text": "◊ Ambiente: Complejo, primera línea defensa, nichos ecológicos",
+                "children": []
+              },
+              {
+                "text": "◊ Defensas de la Piel: Sebo (inhibidor), Lisozima (daña pared bacteriana), pH bajo,\\NFlora residente (competición, producción antimicrobianos ej. *Propionibacteria* → ácidos grasos)",
+                "children": []
+              },
+              {
+                "text": "◊ Flora Residente Típica: Estafilococos coagulasa-negativos, micrococos, corinebacterias, propionibacterias, lactobacilos, levaduras\\N(*Candida* spp., *Malassezia furfur* [Pityrosporum]). Ácaros (*Demodex folliculorum*, *D. brevis*)",
+                "children": []
+              },
+              {
+                "text": "◊ Distribución: No uniforme, microcolonias. Mayor densidad: cabeza, axilas, ingle, manos, pies.\\NHombres > Mujeres",
+                "children": []
+              },
+              {
+                "text": "◊ Ojo: Piel especializada. Lavado por lágrimas. Flora escasa\\N(Residente: *Corynebacterium xerosis*; Transitoria: otros) ",
+                "children": []
+              },
+              {
+                "text": "◊ Olor Corporal: Interacción microbios-secreciones (axilas, ingle) → ácidos grasos volátiles .\\NDesodorantes (anti-Gram+) pueden alterar equilibrio → riesgo colonización Gram- ",
+                "children": []
+              },
+              {
+                "text": "◊ Olor Pies (\"queso\"): Causa compleja. *Brevibacteria*? (poca correlación). *Micrococcus sedentarius* (produce metanotiol)\\N(poca correlación). Mejor correlación: corineformes aerobios, estafilococos. Calzado cerrado contribuye.",
+                "children": []
+              },
+              {
+                "text": "◊ Dispersión y Riesgo Infección: Descamación piel dispersa flora. *Staphylococcus aureus* (portadores: 10-40% adultos, hasta 90% personal hospitalario)\\N→ importante causa infección herida quirúrgica, colonización neonatal hospitalaria",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Tracto\\NAlimentario",
+            "children": [
+              {
+                "text": "◊ Boca (Orofaringe): Entrada alimentos/microbios.\\NFlora extensa y diversa a pesar de defensas.",
+                "children": [
+                  {
+                    "text": "• Defensas: Lavado saliva (deglución ~30/hora), enzimas digestivas, agentes antimicrobianos saliva\\N(IgA secretora, lisozima, lactoferrina), higiene oral.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Flora por Sitio: Diferente en superficies distintas (lengua vs. dientes). Sup. epiteliales (*S. salivarius*). Dientes (*S. mutans*, *S. sanguis*).\\NSurcos gingivales (*Bacteroides*, *Fusobacterium*, espiroquetas). Saliva (Estreptococos α-hemolíticos, *S. salivarius*).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Estómago: Escasa colonización (pH ácido bactericida). Excepciones: Lactobacilos acidotolerantes,\\N*Helicobacter pylori* (ureasa), Micobacterias (pared cerosa). Flora transitoria (alimentos).",
+                "children": []
+              },
+              {
+                "text": "◊ Intestino\\NDelgado:",
+                "children": [
+                  {
+                    "text": "• Superior (duodeno, yeyuno, íleon sup.): Sin flora residente (ambiente hostil: secreciones, bilis, moco, Ac, peristalsis).\\NSobrecrecimiento si peristalsis alterada (ej. asa ciega).",
+                    "children": []
+                  },
+                  {
+                    "text": "• Inferior (íleon inf.): Flora abundante, transición hacia tipo fecal.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Intestino Grueso (Colon):\\NFlora muy numerosa",
+                "children": [
+                  {
+                    "text": "• Composición: Anaerobios estrictos (*Bacteroides* spp.) >>>> Facultativos (*E. coli*) (ratio >100:1)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Funciones Metabólicas (≈ Hígado [source: 111]): Degradación ácidos biliares [source: 112], Síntesis Vitamina K",
+                    "children": []
+                  },
+                  {
+                    "text": "• Efectos Negativos: Posible rol en cáncer colon (no definitivo). Flatulencia (metabolismo oligosacáridos no digeribles, ej. legumbres).",
+                    "children": []
+                  },
+                  {
+                    "text": "• Control Flatulencia: Microbios consumen gases producidos por otros (liberación ~1L/día vs producción ~24L/día).",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Tracto Respiratorio\\NSuperior ",
+            "children": [
+              {
+                "text": "◊ Exposición: Constante a microbios del aire.",
+                "children": []
+              },
+              {
+                "text": "◊ Mecanismos de Defensa: Atrapamiento (pelos nasales, moco turbinas), Escalador mucociliar\\N(moco atrapa → cilios mueven a faringe → deglución → estómago ácido).",
+                "children": []
+              },
+              {
+                "text": "◊ Flora Narinas: Similar a piel (estafilococos, micrococos, corinebacterias)",
+                "children": []
+              },
+              {
+                "text": "◊ Flora Tracto Superior (general): Ambiente cálido/húmedo → flora compleja Gram+/- (*Streptococcus*, *Moraxella*, *Neisseria*, *Haemophilus*).\\NPuede incluir portadores sanos de patógenos (*S. pyogenes*).",
+                "children": []
+              },
+              {
+                "text": "◊ Sitios Estériles: Senos paranasales, laringe, tracto respiratorio inferior (bronquios, pulmones).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Tracto\\NGenital",
+            "children": [
+              {
+                "text": "◊ Uretra: Mayormente\\Nestéril.",
+                "children": [
+                  {
+                    "text": "• Mecanismos Limpieza: Flujo orina, IgA secretora, secreciones prostáticas (hombres).",
+                    "children": []
+                  },
+                  {
+                    "text": "• Flora Distal (escasa): Estafilococos, cocos Gram-, corinebacterias, micoplasmas.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Genitales Externos: *Mycobacterium smegmatis* común (puede contaminar muestra orina → confundir diagnóstico TBC renal)",
+                "children": []
+              },
+              {
+                "text": "◊ Vagina: Flora varía con edad/hormonas ⇄\\N(ver Factores que Afectan)",
+                "children": [
+                  {
+                    "text": "• Pre-pubertad y Post-menopausia: Mixta (enterococos, estafilococos coag-, coliformes, corinebacterias)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Edad Reproductiva: Predominio Lactobacilos (bacilos Döderlein), ambiente ácido. También levaduras, corinebacterias, micoplasmas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Rol de la Flora\\NComensal ",
+        "children": [
+          {
+            "text": "› Perspectiva Histórica: Pasteur dudaba de vida sin flora . Animales gnotobióticos (sin gérmenes/flora conocida)\\Ndemuestran viabilidad pero con necesidades especiales",
+            "children": []
+          },
+          {
+            "text": "› Beneficios ★",
+            "children": [
+              {
+                "text": "◊ Nutrición: Síntesis vitaminas (Vit K: *Bacteroides*, *E. coli*; Vit B)\\NAyuda digestión (importante en coprófagos, ej. ciego conejo)",
+                "children": []
+              },
+              {
+                "text": "◊ Estimulación Sistema Inmune: Animales gnotobióticos tienen SI poco desarrollado",
+                "children": []
+              },
+              {
+                "text": "◊ Protección\\N(Exclusión\\NMicrobiana) ★:",
+                "children": [
+                  {
+                    "text": "• Mecanismos: Competición por sitios adhesión,\\Nproducción sustancias inhibidoras/bactericidas",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ejemplos:",
+                    "children": [
+                      {
+                        "text": "• Intestino: Previene colitis pseudomembranosa (*C. difficile*) post-antibióticos.\\NAumenta dosis infecciosa *Salmonella*.",
+                        "children": []
+                      },
+                      {
+                        "text": "• Vagina: Lactobacilos reducen susceptibilidad a Gonorrea (*N. gonorrhoeae*) [source: 169, 170].",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Riesgos /\\NDesventajas ★",
+            "children": [
+              {
+                "text": "◊ Fuente de Infecciones Endógenas ★ :\\NInfecciones causadas por la propia flora.",
+                "children": [
+                  {
+                    "text": "• Ejemplos Graves: Endocarditis bacteriana (estreptococos orales, estafilococos piel → sangre → corazón). Infecciones asociadas a dispositivos médicos (Estaf. coag- en shunts LCR, catéteres). \\NSepsis por Gram- (flora fecal → vía urinaria/catéter). Gangrena gaseosa (*Clostridium perfringens* piel piernas → tejido profundo).",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ejemplos Menos Graves: Forúnculos. Placa dental y Caries: Flora oral (*S. mutans*, *S. salivarius*, *S. mitior*) produce polisacáridos (glucanos, fructanos) de sacarosa →\\Nbiofilm (placa) con glicoproteínas salivares → adhesión dental → acumulación bacterias (estreptococos → filamentosos/anaerobios) → ácidos → caries.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Impacto en Longevidad: Animales gnotobióticos (con dieta suplementada) viven más que convencionales",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "- Factores que Afectan la\\NFlora Comensal",
+        "children": [
+          {
+            "text": "› Equilibrio Dinámico: Flora cambia constantemente, adaptándose al huésped y ambiente",
+            "children": []
+          },
+          {
+            "text": "› Cambios Hormonales\\N(Flora Vaginal) ⇄",
+            "children": [
+              {
+                "text": "◊ Nacimiento: Estéril → colonización → Lactobacilos predominan (glucógeno x hormonas maternas, pH ácido)",
+                "children": []
+              },
+              {
+                "text": "◊ Infancia: Declive hormonas maternas → flora mixta (enterococos, coliformes, corinebacterias), pH alcalino",
+                "children": []
+              },
+              {
+                "text": "◊ Pubertad: Hormonas propias → secreción glucógeno → Lactobacilos predominan, pH ácido",
+                "children": []
+              },
+              {
+                "text": "◊ Menopausia: Flora revierte a tipo pre-pubescente (pH alcalino, mixta)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Dieta (Flora\\NFecal Infantil)",
+            "children": [
+              {
+                "text": "◊ Lactancia Materna: Leche con Ac maternos y lactoferrina → inhiben coliformes (*E. coli*) → Heces pH bajo, flora sacarolítica (Bifidobacterias+, enterococos), pocos putrefactivos (Bacteroides, Clostridia, coliformes)",
+                "children": []
+              },
+              {
+                "text": "◊ Fórmula Artificial: Sin inhibidores → predominio flora putrefactiva (Bacteroides, Clostridia, coliformes) → heces diferente olor/apariencia",
+                "children": []
+              },
+              {
+                "text": "◊ Introducción Alimentos Sólidos: Bifidobacterias disminuyen → flora similar a fórmula/adulto",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Virus y Flora\\NComensal",
+        "children": [
+          {
+            "text": "› ¿Parte de la Flora?: Pueden albergarse en humanos sanos sin daño aparente",
+            "children": []
+          },
+          {
+            "text": "› Estados\\NVirales ★",
+            "children": [
+              {
+                "text": "◊ Latencia Verdadera: ADN viral persiste sin\\Nproducir viriones infecciosos, hasta reactivación",
+                "children": [
+                  {
+                    "text": "• Reactivación: Puede causar enfermedad clínica (ej. por inmunosupresión)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ejemplos: Herpesvirus (Varicela-Zóster [VZ]: Varicela → Latencia SNC → Herpes Zóster; Herpes Simplex [HSV]: Herpes labial/genital\\Nrecurrente; CMV, EBV: tejido linfoide). Papovavirus (BK → nefropatía post-trasplante; JC → LMP en inmunocomprometidos).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Persistencia (Infección Crónica): Producción\\Ncontinua de viriones infecciosos, con/sin clínica",
+                "children": [
+                  {
+                    "text": "• Portadores Infecciosos ★",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ejemplos: Hepatitis B, Hepatitis C, VIH",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Diferencia con Comensales Bacterianos/Superiores: Bacterias comensales causan infección oportunista al desplazarse,\\Nsin cambiar estructura. Virus latentes cambian de estado (no infeccioso a infeccioso)",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_360",
+      "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de discapacidad tras trombectomía mecánica difiere significativamente entre las oclusiones proximales y distales del segmento M1 de la arteria cerebral media"
+    },
+    {
+      "id": "map_1380",
+      "title": "SEPSIS Y SHOCK SÉPTICO  Dic 2024"
+    }
+  ],
+  "source_file": "02. Flora comensal-2025.smmx",
+  "created": "2026-02-07T15:42:59.422376"
+}

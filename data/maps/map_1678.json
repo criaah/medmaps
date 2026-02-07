@@ -1,0 +1,56 @@
+{
+  "id": "map_1678",
+  "title": "HIP ATTACK (2020)\\NAccelerated surgery versus standard care\\N\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones",
+  "specialty": "Estudios Pivotales",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "HIP ATTACK (2020)\\NAccelerated surgery versus standard care\\N\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nHIP ATTACK Investigators\\nLancet 2020;395:698-708\\NDOI: 10.1016/S0140-6736(20)30058-1\\N\\nRCT internacional, 69 hospitales\\n17 paises",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=2,970\\nEdad: mayor o igual 45 años con fractura cadera\\nMedia 79 años, 68% mujeres\\n\\nCriterios:\\n- Fractura cadera baja energia\\n- Candidato a cirugia\\n\\nExcluidos:\\n- Fractura periprotesica\\n- Politrauma\\n- No candidato quirurgico",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\nCirugia acelerada: meta menor 6 horas\\nvs\\nCuidado estandar (sin meta tiempo)\\n\\nTiempo mediano a cirugia:\\n- Acelerada: 6 horas\\n- Estandar: 24 horas\\n\\nSeguimiento: 90 dias",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nOutcome primario (mortalidad 90d):\\nAcelerada: 9%\\nEstandar: 10%\\nHR 0.91 (IC95% 0.72-1.14)\\np=0.40 - NO SIGNIFICATIVO\\N\\nOutcomes secundarios:\\n- Delirium: 17% vs 21% (HR 0.82, p=0.005)\\n- Neumonia: HR 0.62\\n- IAM: HR 0.67\\n- Infeccion sitio qx: HR 0.72\\n- UPP: HR 0.61",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nSin aumento complicaciones perioperatorias\\ncon cirugia acelerada\\n\\nMortalidad perioperatoria similar\\nSangrado similar\\nComplicaciones anestesicas similares",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- No ciego (imposible)\\n- Outcome primario no alcanzado\\n- Diferencia tiempo menor esperada\\n- Variabilidad practica entre centros\\n- Mayoria ya operados en 24-48h\\n- Poder insuficiente para mortalidad?",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Delirium es outcome clave en ancianos\\n- 4% reduccion absoluta delirium es significativo\\n- Cirugia menor 6h es factible\\n- Menos complicaciones medicas\\n- Guias recomiendan menor 24-48h\\n- Modelo comanejo ortogeriátrico",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Cirugia precoz NO reduce mortalidad significativamente\\n2. PERO reduce delirium 17% vs 21%\\n3. Menos neumonia, IAM, UPP con cirugia precoz\\n4. Meta razonable: menor 24 horas\\n5. Evitar demoras por evaluaciones innecesarias\\n6. Comanejo ortogeriátrico optimiza tiempos\\n7. Delirium como outcome relevante en ancianos\\n8. No demorar por anticoagulantes si es posible\\n9. Beneficio en calidad mas que mortalidad\\n10. Justifica protocolos fast-track",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1059",
+      "title": "Delirium en UCI"
+    }
+  ],
+  "source_file": "HIP-ATTACK-2026.smmx",
+  "created": "2026-02-07T15:42:53.187159"
+}

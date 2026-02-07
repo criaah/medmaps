@@ -1,0 +1,217 @@
+{
+  "id": "map_1732",
+  "title": "# Curvas ROC en\\NInvestigación Clínica",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 45,
+  "root": {
+    "text": "# Curvas ROC en\\NInvestigación Clínica",
+    "children": [
+      {
+        "text": "## Conceptos básicos",
+        "children": [
+          {
+            "text": "- ROC = Receiver Operating Characteristic curve",
+            "children": []
+          },
+          {
+            "text": "- Método estadístico para determinar exactitud diagnóstica de tests con escalas continuas",
+            "children": []
+          },
+          {
+            "text": "- Aplicable a tests que reportan resultados cuantitativos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Propósitos\\Nespecíficos",
+        "children": [
+          {
+            "text": "- Determinar punto de corte con mayor sensibilidad y especificidad",
+            "children": []
+          },
+          {
+            "text": "- Evaluar capacidad discriminativa del test",
+            "children": []
+          },
+          {
+            "text": "- Comparar capacidad discriminativa de dos o más tests",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Construcción\\Nde curva ROC",
+        "children": [
+          {
+            "text": "- Eje Y: Sensibilidad",
+            "children": []
+          },
+          {
+            "text": "- Eje X: 1-Especificidad",
+            "children": []
+          },
+          {
+            "text": "- Ambos ejes incluyen valores entre 0 y 1 (0% a 100%)",
+            "children": []
+          },
+          {
+            "text": "- Diagonal de referencia: línea desde punto 0,0 al punto 1,1 (línea de no-discriminación)",
+            "children": []
+          },
+          {
+            "text": "- Se construye uniendo puntos de corte de la escala continua",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Categorías\\Ndiagnósticas",
+        "children": [
+          {
+            "text": "- Verdaderos Positivos (VP): Estándar de oro positivo y test positivo",
+            "children": []
+          },
+          {
+            "text": "- Falsos Negativos (FN): Estándar de oro positivo y test negativo",
+            "children": []
+          },
+          {
+            "text": "- Verdaderos Negativos (VN): Estándar de oro negativo y test negativo",
+            "children": []
+          },
+          {
+            "text": "- Falsos Positivos (FP): Estándar de oro negativo y test positivo",
+            "children": []
+          },
+          {
+            "text": "- Sensibilidad = VP/(VP+FN)",
+            "children": []
+          },
+          {
+            "text": "- Especificidad = VN/(FP+VN)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Punto de\\Ncorte óptimo",
+        "children": [
+          {
+            "text": "- Mayor índice de Youden = (sensibilidad + especificidad - 1)",
+            "children": []
+          },
+          {
+            "text": "- Gráficamente: punto más cercano al ángulo superior-izquierdo (punto 0,1)",
+            "children": []
+          },
+          {
+            "text": "- Determina sensibilidad y especificidad más alta conjuntamente",
+            "children": []
+          },
+          {
+            "text": "- En algunos casos se prefiere maximizar solo sensibilidad (tamizaje) o especificidad (confirmación)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Capacidad\\Ndiscriminativa",
+        "children": []
+      },
+      {
+        "text": "- Medida a través del área\\Nbajo la curva ROC (AUC -\\NArea Under the Curve)",
+        "children": []
+      },
+      {
+        "text": "- AUC: parámetro independiente de la\\Nprevalencia de la enfermedad",
+        "children": []
+      },
+      {
+        "text": "- AUC = 0,50: test\\Nno-discriminativo (coincide\\Ncon línea de\\Nno-discriminación)",
+        "children": []
+      },
+      {
+        "text": "- AUC = 1,00: test\\Ndiagnóstico perfecto",
+        "children": []
+      },
+      {
+        "text": "- Mayor AUC = mayor\\Ncapacidad discriminativa",
+        "children": []
+      },
+      {
+        "text": "- AUC es un estimador muestral\\N→ necesario reportar intervalos de\\Nconfianza (IC 95%)",
+        "children": []
+      },
+      {
+        "text": "## Comparación de\\Ntests diagnósticos",
+        "children": []
+      },
+      {
+        "text": "- Prerrequisitos\\Nmetodológicos:",
+        "children": []
+      },
+      {
+        "text": "- Tests medidos\\Nsimultáneamente",
+        "children": []
+      },
+      {
+        "text": "- Aplicados sobre\\Nmismos sujetos",
+        "children": []
+      },
+      {
+        "text": "- Contrastados contra\\Nmismo estándar de oro",
+        "children": []
+      },
+      {
+        "text": "- Comparar AUC estadísticamente\\N(no solo numéricamente)",
+        "children": []
+      },
+      {
+        "text": "- Métodos de comparación: Hanley &\\NMcNeil o DeLong (preferido)",
+        "children": []
+      },
+      {
+        "text": "##\\NConsideraciones\\Nfinales",
+        "children": []
+      },
+      {
+        "text": "- Sensibilidad, especificidad y\\NAUC son estimadores\\Nmuestrales → reportar IC 95%",
+        "children": []
+      },
+      {
+        "text": "- Evaluar validez\\Nmetodológica del estudio\\Nbase",
+        "children": []
+      },
+      {
+        "text": "- Uso de curvas ROC trasciende\\Nárea de tests diagnósticos (modelos\\Nde regresión logística)",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "9.B2-2025.smmx",
+  "created": "2026-02-07T15:42:54.598412"
+}

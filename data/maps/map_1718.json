@@ -1,0 +1,223 @@
+{
+  "id": "map_1718",
+  "title": "Primer paso: la pregunta clinica en\\NMedicina Basada en Evidencia (MBE)",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 43,
+  "root": {
+    "text": "Primer paso: la pregunta clinica en\\NMedicina Basada en Evidencia (MBE)",
+    "children": [
+      {
+        "text": "1. Clasificación de\\Npreguntas clínicas:",
+        "children": [
+          {
+            "text": "• Preguntas de preparación (background) ⬅️ Conocimiento general de la condición.",
+            "children": [
+              {
+                "text": "• Ej: ¿Cuáles son las alternativas de tto para neumonía adquirida en comunidad?",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "• Preguntas de acción (foreground) ⬅️ Decisiones clínicas específicas.",
+            "children": [
+              {
+                "text": "• Ej: ¿Es útil la amoxicilina en rinosinusitis aguda en adultos?",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "2. Características de preguntas\\Nclínicas bien elaboradas:",
+        "children": [
+          {
+            "text": "• Definir claramente el problema.",
+            "children": []
+          },
+          {
+            "text": "• Facilitar estrategia de búsqueda.",
+            "children": []
+          },
+          {
+            "text": "• Delimitar tipo de evidencia y diseño de estudio.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "3. Proceso de la MBE:",
+        "children": [
+          {
+            "text": "1. Convertir el problema clínico en pregunta bien formulada.",
+            "children": []
+          },
+          {
+            "text": "2. Buscar mejor evidencia disponible.",
+            "children": []
+          },
+          {
+            "text": "3. Realizar análisis crítico.",
+            "children": []
+          },
+          {
+            "text": "4. Usar evidencia en toma de decisiones (Tabla 1) (1).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "4. Evolución de las\\Npreguntas clínicas:",
+        "children": [
+          {
+            "text": "• Inicio carrera ⬆️ Preguntas de preparación.",
+            "children": []
+          },
+          {
+            "text": "• A medida que aumenta experiencia ⬆️ Preguntas de acción (Figura 1) (2).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "5. Importancia de estructurar\\Npreguntas de acción:",
+        "children": [
+          {
+            "text": "• ⬆️ Frecuencia de preguntas clínicas.",
+            "children": []
+          },
+          {
+            "text": "• Transformar problema clínico en pregunta clínica → Primer paso en MBE (1).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Componentes de una pregunta de acción\\Nen Medicina Basada en Evidencia (MBE)",
+        "children": [
+          {
+            "text": "1. Población (P): Define a quién se aplica la información.\\NConsiderar características relevantes que influyan en la respuesta clínica.",
+            "children": [
+              {
+                "text": "• Ej: Pacientes con HTA.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Acción (A): Intervención o exposición que se evalúa. \\NEs el único componente imprescindible en una pregunta de acción.",
+            "children": [
+              {
+                "text": "• Ej: Uso de enalapril.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Comparación (C): Alternativa frente a la cual se compara la intervención.",
+            "children": [
+              {
+                "text": "• Ej: Placebo o tratamiento estándar.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "4. Objetivo (O): Desenlace esperado o efecto que se desea medir.",
+            "children": [
+              {
+                "text": "• Ej: Reducción de presión arterial.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Ámbitos de aplicación de las\\Npreguntas de acción:",
+        "children": [
+          {
+            "text": "1. Preguntas de terapia: Evaluan\\Nintervenciones terapéuticas o preventivas.",
+            "children": [
+              {
+                "text": "• Mejor diseño de estudio: ECR.",
+                "children": []
+              },
+              {
+                "text": "• Ej: ¿Es el enalapril más eficaz que el placebo para reducir la PA en pacientes con HTA?",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Preguntas de diagnóstico:",
+            "children": [
+              {
+                "text": "• a) Exactitud diagnóstica (accuracy): Compara un test con el gold standard.",
+                "children": [
+                  {
+                    "text": "• Ej: ¿La ecografía abdominal es precisa para identificar urolitiasis comparada con el PieloTAC?",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• b) Utilidad diagnóstica: Impacto de un test en resultados clínicos.",
+                "children": [
+                  {
+                    "text": "• Ej: ¿Disminuye la tasa de laparotomías en blanco el uso de TAC en abdomen agudo?",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. Preguntas de pronóstico: Evaluan el curso clínico o\\Nefecto de exposiciones en una condición preexistente.",
+            "children": [
+              {
+                "text": "• Ej: ¿Cuál es el riesgo de mortalidad en pacientes con hemorragia digestiva alta que vuelven a sangrar?",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "4. Preguntas de riesgo o daño: Evaluan la relación entre\\Nuna exposición y el desarrollo de una condición adversa.",
+            "children": [
+              {
+                "text": "• Ej: ¿Tienen los fumadores mayor riesgo de desarrollar cáncer bronquial?",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_360",
+      "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de discapacidad tras trombectomía mecánica difiere significativamente entre las oclusiones proximales y distales del segmento M1 de la arteria cerebral media"
+    },
+    {
+      "id": "map_1716",
+      "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de\\Ndiscapacidad tras trombectomía mecánica difiere\\Nsignificativamente entre las oclusiones proximales y\\Ndistales del segmento M1 de la arteria cerebral media"
+    }
+  ],
+  "source_file": "2.B Primer paso la pregunta clinica en Medicina Basada en Evidencia (M-2024.smmx",
+  "created": "2026-02-07T15:42:53.694768"
+}

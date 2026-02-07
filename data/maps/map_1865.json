@@ -1,0 +1,421 @@
+{
+  "id": "map_1865",
+  "title": "Ataque Cerebrovascular\\NIsquémico",
+  "specialty": "Neurología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 91,
+  "root": {
+    "text": "Ataque Cerebrovascular\\NIsquémico",
+    "children": [
+      {
+        "text": "Definición y\\NEpidemiología",
+        "children": [
+          {
+            "text": "Definición: Síndrome con síntomas y signos neurológicos focales, desarrollo rápido, perfil súbito\\No instalación brusca en minutos a horas, atribuible a oclusión parcial o total de arteria del SNC.",
+            "children": []
+          },
+          {
+            "text": "Criterio diagnóstico: Síntomas >24 h o lesión en neuroimagen.",
+            "children": []
+          },
+          {
+            "text": "AIT: Síntomas <24 h, sin lesión en neuroimagen, o <1 h con RM sin alteración en difusión.",
+            "children": []
+          },
+          {
+            "text": "Cobertura GES: ACV isquémico y AIT.",
+            "children": []
+          },
+          {
+            "text": "Epidemiología: 70-80% de los ACV, principal causa de muerte en Chile (8.437 muertes en 2016),\\Naltos niveles de discapacidad y deterioro de calidad de vida.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Fisiopatología",
+        "children": [
+          {
+            "text": "Oclusión de vaso sanguíneo cerebral → área de necrosis y área de isquemia reversible (penumbra).",
+            "children": []
+          },
+          {
+            "text": "Clasificación\\NTOAST:",
+            "children": [
+              {
+                "text": "Ateroesclerosis",
+                "children": []
+              },
+              {
+                "text": "Cardioembolia",
+                "children": []
+              },
+              {
+                "text": "Hipoperfusión sistémica",
+                "children": []
+              },
+              {
+                "text": "Otros: Disecciones\\Nvasculares, vasculitis, etc.",
+                "children": []
+              },
+              {
+                "text": "Indeterminado",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Clasificación\\Nde Oxfordshire:",
+            "children": [
+              {
+                "text": "LACI: Infarto\\NLacunar",
+                "children": [
+                  {
+                    "text": "Síntomas: Déficit motor o sensitivo puro, déficit sensitivo-motor,\\Nataxia-hemiparesia, disartria-mano torpe",
+                    "children": []
+                  },
+                  {
+                    "text": "Territorio: Ganglios basales o protuberancia",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "TACI: Infarto total de\\Nla circulación anterior",
+                "children": [
+                  {
+                    "text": "Síntomas: Hemianopsia homónima, disfunción cerebral cortical,\\Ndéficit motor y/o sensitivo de ≥2 regiones (cara, MS, MI)",
+                    "children": []
+                  },
+                  {
+                    "text": "Territorio: Superficial y profundo de ACM y ACA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "PACI: Infarto parcial\\Nde la circulación anterior",
+                "children": [
+                  {
+                    "text": "Síntomas: 2 o 3 componentes de TACI, disfunción cerebral cortical,\\Ndéficit sensitivo-motor más limitado que LACI",
+                    "children": []
+                  },
+                  {
+                    "text": "Territorio: Porción superior e inferior de ACM",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "POCI: Infarto de la\\Ncirculación posterior",
+                "children": [
+                  {
+                    "text": "Síntomas: Afectación ipsilateral de ≥1 PC + déficit motor y/o sensitivo contralateral, alteraciones de mirada conjugada,\\Nalteraciones oculares nucleares o internucleares, síndrome cerebeloso, hemianopsia homónima uni o bilateral",
+                    "children": []
+                  },
+                  {
+                    "text": "Territorio: Vertebrobasilar (cerebelo, tronco encefálico, lóbulos occipitales)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Factores\\Nde Riesgo",
+        "children": [
+          {
+            "text": "No Modificables: Edad, sexo masculino, antecedentes familiares de ACV isquémico <65 años,\\Nraza afroamericana, ACV isquémico previo",
+            "children": []
+          },
+          {
+            "text": "Modificables: PA elevada, colesterol elevado, obesidad, sedentarismo, dieta poco saludable, diabetes,\\Nconsumo de tabaco, fibrilación auricular, cardiopatías (Enfermedad Coronaria e ICC), anemia drepanocítica",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Manifestaciones\\NClínicas",
+        "children": [
+          {
+            "text": "Déficit neurológico focal de instalación brusca, generalmente unilateral",
+            "children": []
+          },
+          {
+            "text": "Disartria: Frecuente, pero poco específica (también en afectación metabólica, infecciosa, falta de piezas dentarias)",
+            "children": []
+          },
+          {
+            "text": "Considerar ACV si\\Ndisartria se asocia a:",
+            "children": [
+              {
+                "text": "Motor: Paresias (mono, di, hemi, para)",
+                "children": []
+              },
+              {
+                "text": "Sensitivo: Termoalgésica, propioceptiva, especial",
+                "children": []
+              },
+              {
+                "text": "Lenguaje: Afasia de expresión, comprensión, transcortical",
+                "children": []
+              },
+              {
+                "text": "Visual: Hemianopsias, cuadrantopsias",
+                "children": []
+              },
+              {
+                "text": "Cerebeloso: Dismetría, disdiadococinesia, disinergia, hipotonía",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Cefalea: 20% de los ACV isquémicos, más frecuente en infartos de territorio posterior o ACV hemorrágicos.\\NNo es síntoma orientador a menos que se asocie a focalidad",
+            "children": []
+          },
+          {
+            "text": "Compromiso de conciencia aislado: Rara vez se debe a ACV.\\NBuscar otras causas. Ubicaciones que podrían causarlo:",
+            "children": [
+              {
+                "text": "Compromiso bihemisférico o hemisférico unilateral con efecto de masa",
+                "children": []
+              },
+              {
+                "text": "Afectación bitalámica (Arteria de Percheron, oclusión venosa profunda)",
+                "children": []
+              },
+              {
+                "text": "Afectación del SARA en tronco",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Evaluación Clínica:\\NEl código ACV/Ictus/\\NCerebrovascular/Stroke",
+        "children": [
+          {
+            "text": "ABCDE del protocolo ATLS: Asegurar vía aérea,\\Nrespiración y estabilidad hemodinámica",
+            "children": [
+              {
+                "text": "Saturometría >94%, apoyo de oxígeno o ventilación mecánica si es necesario",
+                "children": []
+              },
+              {
+                "text": "HGT: Descartar hipoglicemia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Emergencia médica: Tiempo para\\Nterapias efectivas es abreviado",
+            "children": [
+              {
+                "text": "Establecer tiempo de inicio de síntomas: <4.5 h (trombolisis IV),  \\N<6 h (tratamiento endovascular sin estudios de perfusión validados)",
+                "children": []
+              },
+              {
+                "text": "Pesquisa inicial en triage: Escala de Cincinnati",
+                "children": []
+              },
+              {
+                "text": "Confirmación por médico: Anamnesis y examen neurológico rápido (escala de NIHSS)\\N(https://nihstrokescale.org/)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Interrogatorio\\Nfundamental:",
+            "children": [
+              {
+                "text": "Hora de inicio: Última hora visto sin síntomas",
+                "children": []
+              },
+              {
+                "text": "Historia de enfermedades \"imitadoras\" de ACV (stroke mimics)",
+                "children": []
+              },
+              {
+                "text": "Uso de fármacos: Anticoagulantes (tipo, dosis, última administración),\\Nsi procede, solicitar coagulación",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Exámenes:",
+            "children": [
+              {
+                "text": "Sin coagulopatía conocida: HGT (único necesario para tomar conducta)",
+                "children": []
+              },
+              {
+                "text": "Otros: Electrolitos, función renal (tomar posteriormente, no retrasan la toma de conducta)",
+                "children": []
+              },
+              {
+                "text": "TC de cerebro sin contraste: Descartar ACV hemorrágico",
+                "children": []
+              },
+              {
+                "text": "Angio TC cervical o polígono (si en ventana y clínica sugerente de gran vaso tapado):\\NDefinir necesidad de trombectomía y abordaje",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Traslado a UTIN o UTAC",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Condiciones que\\Npueden emular un ACV:",
+        "children": [
+          {
+            "text": "Tumores cerebrales, síndrome conversivo, hipoglicemia, epilepsia, intoxicación,\\Nsepsis, hematoma subdural, uremia, esclerosis múltiple, neuropatías compresivas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Trombolisis",
+        "children": [
+          {
+            "text": "Criterios de Inclusión\\Npara trombolisis intravenosa:",
+            "children": [
+              {
+                "text": "Déficit neurológico focal medible con NIHSS,\\N<4.5 h del inicio, ≥18 años",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Criterios de Exclusión relativos\\Npara trombolisis intravenosa:",
+            "children": [
+              {
+                "text": "Síntomas menores o que mejoran espontáneamente, embarazo, crisis convulsiva al inicio con déficit post ictal,\\NCx mayor o trauma en 14 días, hemorragia GI o urinaria en 21 días, IAM reciente",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Criterios de Exclusión absolutos\\Npara trombolisis intravenosa:",
+            "children": [
+              {
+                "text": "TEC o ACV en 3 meses, síntomas sugerentes de HSA, punción arterial en sitio no compresible en 7 días, historia de HIC, neoplasia intracraneal, MAV o aneurisma, Cx intracraneal\\No intraespinal reciente, PA >185/110 mmHg refractaria, sangrado interno activo, diátesis hemorrágica (plaquetas <100.000, heparina en 48 h con TTPA elevado, anticoagulantes con\\NINR >1.7 o TP >15s, inhibidores directos de trombina o factor Xa en 48 h), glicemia <50 mg/dL (salvo dg con RM cerebral), TC con infarto multilobar (>1/3 del hemisferio)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Trombolisis IV: Alteplase o Tenecteplase, supervisado por neurólogo, control estricto de PA <185/110,\\Ndiferir antiagregantes o tromboprofilaxis por 24 h hasta TC control",
+            "children": []
+          },
+          {
+            "text": "Complicaciones\\Nde la trombolisis IV:",
+            "children": [
+              {
+                "text": "Transformación hemorrágica: Sospechar con deterioro neurológico agudo (NIHSS >2 puntos), cefalea intensa, compromiso de conciencia, bradicardia, HTA aguda severa, vómitos.\\NSuspender trombolítico, TC de cerebro, revertir con plasma fresco o complejo protrombínico",
+                "children": []
+              },
+              {
+                "text": "Angioedema orolingual: Vía aérea permeable, suspender trombolítico, corticoides o antihistamínicos,\\Nadrenalina y manejo avanzado de vía aérea si no hay control",
+                "children": []
+              },
+              {
+                "text": "Otras: Edema pulmonar agudo, congestión pulmonar, rash alérgico, shock anafiláctico",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Medidas de\\NNeuroprotección",
+        "children": [
+          {
+            "text": "Reposo absoluto: Semisentado en 30°, cabeza en línea media, régimen cero",
+            "children": []
+          },
+          {
+            "text": "Oxígeno: Si Sat <94%",
+            "children": []
+          },
+          {
+            "text": "Agitación psicomotora: Evitar sedación profunda y mantenida, preferir neurolépticos o Dexmedetomidina",
+            "children": []
+          },
+          {
+            "text": "PA: No normotensar a menos que IAM,\\NICC, disección aórtica, edema pulmonar",
+            "children": [
+              {
+                "text": "Candidato a trombolisis: Meta <185/110 mmHg",
+                "children": []
+              },
+              {
+                "text": "No candidato a trombolisis: Meta 220/120 mmHg",
+                "children": []
+              },
+              {
+                "text": "Fármacos EV: Labetalol 10-20 mg IV, Captopril 25 mg SL. Evitar Nitratos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Glicemia: Evitar hiper o hipoglicemia, mantener 140-180 mg/dL",
+            "children": []
+          },
+          {
+            "text": "Ácido acetilsalicílico: 81-325 mg/día, inmediato si no hay trombolisis,\\Na las 24 h con TC sin hemorragia si hubo trombolisis",
+            "children": []
+          },
+          {
+            "text": "Atorvastatina: 40-80 mg/día desde el inicio",
+            "children": []
+          },
+          {
+            "text": "Omeprazol: Prevención de úlceras por estrés",
+            "children": []
+          },
+          {
+            "text": "Temperatura: Mantener <37.5°C, medidas físicas y/o paracetamol VO o EV, tratar la causa",
+            "children": []
+          },
+          {
+            "text": "Hidratación y electrolitos: Hidratar si deshidratación, corregir alteraciones hidroelectrolíticas, usar suero fisiológico 0.9%",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1785",
+      "title": "ELDERCARE-AF (2020)\\NEdoxaban Low-Dose for\\NEldeRly patiEnts with\\NAtrial Fibrillation\\N\\n⭐ Edoxaban 15mg reduce ACV 66%\\nvs placebo en muy ancianos\\nno candidatos a ACO estándar"
+    }
+  ],
+  "source_file": "Wiki. ACV-2025-1.smmx",
+  "created": "2026-02-07T15:43:01.871521"
+}

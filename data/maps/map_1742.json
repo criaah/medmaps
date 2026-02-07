@@ -1,0 +1,73 @@
+{
+  "id": "map_1742",
+  "title": "REDUCE (2018)\\NReducing Unnecessary\\NCerebral sedation\\NDepth in UCI\\N\\n⭐ Sedación ligera (RASS 0 a -2)\\nreduce días de ventilación\\ny delirium en UCI",
+  "specialty": "Geriatría",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 10,
+  "root": {
+    "text": "REDUCE (2018)\\NReducing Unnecessary\\NCerebral sedation\\NDepth in UCI\\N\\n⭐ Sedación ligera (RASS 0 a -2)\\nreduce días de ventilación\\ny delirium en UCI",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACION\\N\\nAutor: Olsen HT et al.\\NAño: 2020\\NRevista: NEJM\\NDOI: 10.1056/NEJMoa2024922\\N\\nDiseño: RCT multicéntrico\\nEscandinavia (8 UCIs)\\nn = 710 pacientes\\nSeguimiento: 90 días",
+        "children": [
+          {
+            "text": "📚 REFERENCIAS\\N\\n1. Olsen HT et al. NEJM 2020\\n   DOI: 10.1056/NEJMoa2024922\\n\\n2. PADIS Guidelines 2018\\n   Sedación ligera recomendada\\n\\n3. MENDS2 Trial. NEJM 2021\\n   Dexmed vs propofol",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "👥 POBLACION\\N\\nCriterios Inclusión:\\n• UCI con VM invasiva\\n• Expectativa VM mayor 24h\\n• Edad mayor o igual 18 años\\n\\nCaracterísticas:\\n• Edad media: 66 años\\n• Sepsis, neumonía, postQx\\n• APACHE II: ~22\\n\\nExclusión:\\n• Status epiléptico\\n• Lesión cerebral aguda\\n• RASS -5 por indicación",
+        "children": []
+      },
+      {
+        "text": "💊 INTERVENCION\\N\\nGrupo Sedación Ligera:\\n• Meta RASS: 0 a -2\\n• Despierto, cooperador\\n• Propofol bajo + analgesia\\n• n = 356\\n\\nGrupo Sedación Profunda:\\n• Meta RASS: -3 a -4\\n• Sedado, sin respuesta\\n• Propofol estándar\\n• n = 354\\n\\nAmbos grupos:\\n• Analgesia adecuada\\n• Despertar diario si profunda",
+        "children": []
+      },
+      {
+        "text": "📊 RESULTADOS\\N\\nDías sin VM 90 días (1rio):\\n• Ligera: mediana 13 días más\\n• p menor 0.001 ✓\\n\\nMortalidad 90 días:\\n• Ligera: 42%\\n• Profunda: 37%\\n• Sin diferencia (NS)\\n\\nDelirium (CAM-ICU):\\n• Ligera: menos días delirium\\n• Tendencia favorable\\n\\nExtubación accidental:\\n• Ligera: 8%\\n• Profunda: 4%\\n• Más frecuente pero manejable",
+        "children": []
+      },
+      {
+        "text": "⚠️ SEGURIDAD\\N\\nExtubación accidental:\\n• Mayor en sedación ligera\\n• Pero no aumentó mortalidad\\n• Reintubación exitosa\\n\\nAgitación:\\n• Más frecuente ligera\\n• Manejable con ajustes\\n\\nDolor:\\n• Similar entre grupos\\n• Analgesia adecuada clave\\n\\nAwareness:\\n• Sin diferencia\\n• No es problema con ligera",
+        "children": []
+      },
+      {
+        "text": "⚖️ SESGOS Y LIMITACIONES\\N\\nFortalezas:\\n✓ RCT bien diseñado\\n✓ Outcome objetivo (días VM)\\n✓ Protocolo estandarizado\\n✓ 8 UCIs escandinavas\\n\\nLimitaciones:\\n• Abierto (no ciego)\\n• Población específica\\n• No incluyó SDRA severo\\n\\nConsistente con:\\n• ABCDEF Bundle\\n• Guías PADIS 2018\\n• Práctica moderna UCI",
+        "children": []
+      },
+      {
+        "text": "👴 APLICABILIDAD GERIATRICA\\N\\n⭐⭐⭐⭐⭐ Muy relevante\\N\\nAncianos en UCI:\\n• Mayor riesgo delirium\\n• Más días VM = peor\\n• Sedación profunda = daño\\n\\nAplicación:\\n• Sedación ligera por defecto\\n• RASS 0 a -2 meta\\n• Evitar benzodiazepinas\\n• Dexmedetomidina preferida\\n\\nExcepciones:\\n• SDRA severo prono\\n• Bloqueo neuromuscular\\n• Agitación peligrosa",
+        "children": []
+      },
+      {
+        "text": "💎 PERLAS CLINICAS\\N\\n1. Sedación ligera = estándar:\\N   RASS 0 a -2 por defecto\\N\\n2. 13 días más sin VM:\\N   beneficio enorme\\N\\n3. Extubación accidental OK:\\N   preferible a sedación profunda\\N\\n4. Ancianos más beneficio:\\N   más susceptibles a sedantes\\N\\n5. Dexmed preferida:\\N   menos delirium que propofol\\N\\n6. EVITAR benzodiazepinas:\\N   aumentan delirium\\N\\n7. Despertar diario siempre:\\N   incluso si sedación profunda\\N\\n8. Analgesia antes sedación:\\N   dolor causa agitación",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1678",
+      "title": "HIP ATTACK (2020)\\NAccelerated surgery versus standard care\\N\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1693",
+      "title": "ABCDEF Bundle (2017)\\NAwaken and Breathe\\NCoordination, Delirium\\NEarly mobility, Family\\N\\n⭐ Reduce delirium 40%\\nMortalidad 68% menor\\nen pacientes UCI"
+    },
+    {
+      "id": "map_1697",
+      "title": "ARDSNet / ARMA (2000)\\N\\n⭐ Ventilación protectora SDRA\\N\\nVt 6 ml/kg peso predicho"
+    }
+  ],
+  "source_file": "REDUCE-2026.smmx",
+  "created": "2026-02-07T15:42:54.950593"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "map_1708",
+  "title": "TRICC (1999)\\NTransfusion Requirements\\Nin Critical Care\\N\\n⭐ Estrategia restrictiva\\N(Hb menor 7 g/dL para transfundir)\\Nno inferior a liberal en UCI",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 10,
+  "root": {
+    "text": "TRICC (1999)\\NTransfusion Requirements\\Nin Critical Care\\N\\n⭐ Estrategia restrictiva\\N(Hb menor 7 g/dL para transfundir)\\Nno inferior a liberal en UCI",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACION\\N\\NAutor: Hébert PC et al.\\NAño: 1999\\NRevista: NEJM\\NDOI: 10.1056/NEJM199902113400601\\N\\nDiseño: RCT multicéntrico\\nCanadá\\nn = 838 pacientes críticos\\nSeguimiento: 30 días",
+        "children": [
+          {
+            "text": "📚 REFERENCIAS\\N\\n1. Hébert PC et al. NEJM 1999\\n   DOI: 10.1056/NEJM199902113400601\\n\\n2. FOCUS Trial. NEJM 2011\\n   Hip fracture + cardiac risk\\n\\n3. Surviving Sepsis 2021\\n   Hb menor 7 en sepsis estable",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "👥 POBLACION\\N\\NCriterios Inclusion:\\n• Pacientes UCI\\n• Euvolémicos post-reanimación\\n• Hb menor 9 g/dL en 72 hrs\\n  de ingreso UCI\\n\\nCriterios Exclusion:\\n• Sangrado activo\\n• Hemorragia crónica\\n• Embarazo\\n\\nCaracterísticas:\\n• Edad media: 59 años\\n• APACHE II: 21\\n• 40% trauma\\n• 20% cirugía",
+        "children": []
+      },
+      {
+        "text": "💊 INTERVENCION\\N\\nEstrategia RESTRICTIVA:\\n• Transfundir si Hb menor 7 g/dL\\n• Mantener Hb 7-9 g/dL\\n• Promedio GR: 2.6 U\\n\\nEstrategia LIBERAL:\\n• Transfundir si Hb menor 10 g/dL\\n• Mantener Hb 10-12 g/dL\\n• Promedio GR: 5.6 U\\n\\nDiferencia:\\n• 54% menos transfusiones\\n  en grupo restrictivo",
+        "children": []
+      },
+      {
+        "text": "📊 RESULTADOS\\N\\nMortalidad 30 días (primario):\\n• Restrictivo: 18.7%\\n• Liberal: 23.3%\\n• p = 0.11 (NS)\\n\\nMortalidad hospitalaria:\\n• Restrictivo: 22.2%\\n• Liberal: 28.1%\\n• p = 0.05 ✓\\n\\nSubgrupo APACHE menor 20:\\n• Mortalidad significativamente\\n  MENOR con restrictiva ✓\\n\\nSubgrupo menor 55 años:\\n• También beneficio restrictivo ✓\\n\\nFalla orgánica múltiple:\\n• Tendencia menor en restrictivo",
+        "children": []
+      },
+      {
+        "text": "⚠️ SEGURIDAD\\N\\nEventos adversos:\\n• Sin diferencia en:\\n  - IAM\\n  - Edema pulmonar\\n  - ACV\\n  - Tromboembolismo\\n\\nTransfusiones:\\n• Liberal: más reacciones\\n  transfusionales (volumen)\\n\\nInmunomodulación:\\n• Hipótesis: menos transfusiones\\n  = menos inmunosupresión\\n  = menos infecciones?\\n\\nBaja Hb tolerada:\\n• Sin aumento eventos isquémicos\\n  en grupo restrictivo general",
+        "children": []
+      },
+      {
+        "text": "⚖️ SESGOS Y LIMITACIONES\\N\\nFortalezas:\\n✓ Primer RCT transfusión en UCI\\n✓ Cambió paradigma mundial\\n✓ Reducción costos y riesgos\\n\\nLimitaciones:\\n• Excluye sangrado activo\\n• Excluye cardiopatía isquémica\\n  (estudiado después: FOCUS)\\n• Era pre-leucodepleción\\n• Hb objetivo, no gatillo único\\n\\nConfirmado por:\\n• FOCUS (hip fracture)\\n• TRISS (sepsis)\\n• REALITY (edad mayor 65)",
+        "children": []
+      },
+      {
+        "text": "👴 APLICABILIDAD GERIATRICA\\N\\n⭐⭐⭐⭐ Muy relevante\\N\\nPrecauciones ancianos:\\n• Cardiopatía isquémica activa:\\n  Considerar Hb mayor 8 (FOCUS)\\n• Síntomas: guían decisión\\n• Reserva cardiopulmonar menor\\n\\nEn anciano estable UCI:\\n• Gatillo Hb menor 7 es seguro\\n• Reduce exposición transfusiones\\n• Menos TRALI, TACO\\n\\nExcepciones:\\n• SCA activo: considerar liberal\\n• Shock hemorrágico: reanimación\\n• Síntomas anemia severa",
+        "children": []
+      },
+      {
+        "text": "💎 PERLAS CLINICAS\\N\\n1. Gatillo Hb menor 7 g/dL\\N   es SEGURO en UCI general\\N\\n2. Más transfusiones NO es mejor:\\N   puede ser PEOR\\N\\n3. Síntomas mayor que número:\\N   Hb 7.5 sintomático = transfundir\\N   Hb 6.8 asintomático = vigilar\\N\\n4. Ahorro 50% unidades GR\\N   sin aumentar mortalidad\\N\\n5. En cardiopatía isquémica:\\N   Gatillo Hb 8 (FOCUS trial)\\N\\n6. Inmunomodulación transfusional:\\N   Menos es mejor para infecciones\\N\\n7. Base de medicina transfusional\\N   restrictiva moderna",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1380",
+      "title": "SEPSIS Y SHOCK SÉPTICO  Dic 2024"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1682",
+      "title": "ARISTOTLE (2011)\\NApixaban vs Warfarin in AF\\N\\nApixaban superior a warfarina en FA:\\nReduce ACV 21%, sangrado mayor 31%, mortalidad 11%\\nMejor perfil general vs warfarina"
+    }
+  ],
+  "source_file": "TRICC-2026.smmx",
+  "created": "2026-02-07T15:42:53.566859"
+}

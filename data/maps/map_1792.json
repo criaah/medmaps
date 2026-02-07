@@ -1,0 +1,73 @@
+{
+  "id": "map_1792",
+  "title": "MNA Validation (1994)\\NMini Nutritional Assessment\\N\\n⭐ Herramienta validada para\\ndetectar desnutrición y riesgo\\nen ancianos - Gold standard",
+  "specialty": "Geriatría",
+  "tag": "📋 Guía Clínica",
+  "node_count": 10,
+  "root": {
+    "text": "MNA Validation (1994)\\NMini Nutritional Assessment\\N\\n⭐ Herramienta validada para\\ndetectar desnutrición y riesgo\\nen ancianos - Gold standard",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACION\\N\\NAutor: Guigoz Y, Vellas B et al.\\NAño: 1994-1996\\NRevista: Nutrition Reviews\\NDOI: 10.1111/j.1753-4887.1996.tb03793.x\\N\\nDiseño: Validación de instrumento\\nMulticéntrico internacional\\nn mayor 600 validación\\nReferencia: evaluación nutricional completa",
+        "children": [
+          {
+            "text": "📚 REFERENCIAS\\N\\n1. Guigoz Y et al. Nutr Rev 1996\\n   DOI: 10.1111/j.1753-4887.1996.tb03793.x\\n\\n2. Vellas B et al. Nutrition 1999\\n   MNA-SF validación\\n\\n3. ESPEN Guidelines 2017\\n   Malnutrition en ancianos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "📋 COMPONENTES MNA\\N\\nMNA-SF (Short Form - screening):\\n• 6 preguntas\\n• 0-14 puntos\\n• menor 11 = riesgo\\n\\nMNA Completo (18 items):\\n• Antropometría (IMC, CB, CP)\\n• Evaluación global\\n• Ingesta dietética\\n• Autoevaluación\\n\\nPuntos de corte MNA completo:\\n• mayor o igual 24: Normal\\n• 17-23.5: Riesgo desnutrición\\n• menor 17: Desnutrición",
+        "children": []
+      },
+      {
+        "text": "📊 VALIDACION\\N\\nSensibilidad:\\n• 96% para desnutrición\\n\\nEspecificidad:\\n• 98% para bien nutridos\\n\\nCorrelación:\\n• Albúmina: r=0.6\\n• Evaluación clínica: r=0.7\\n• Ingesta calórica: r=0.5\\n\\nReproducibilidad:\\n• Inter-observador: excelente\\n• Test-retest: muy buena\\n\\nTiempo:\\n• MNA-SF: 3-5 minutos\\n• MNA completo: 10-15 min",
+        "children": []
+      },
+      {
+        "text": "🔧 USO CLINICO\\N\\nCuándo aplicar:\\n• Todo anciano hospitalizado\\n• Ingreso a residencia\\n• Consulta geriátrica\\n• Post-alta seguimiento\\n\\nMNA-SF primero:\\n• Si mayor o igual 12: normal, stop\\n• Si 8-11: riesgo, completar MNA\\n• Si menor o igual 7: desnutrición probable\\n\\nAcciones según resultado:\\n• Normal: reevaluar 3-6 meses\\n• Riesgo: intervención preventiva\\n• Desnutrición: tratamiento intensivo",
+        "children": []
+      },
+      {
+        "text": "📈 VALOR PRONOSTICO\\N\\nMNA predice:\\n• Mortalidad hospitalaria\\n• Estancia hospitalaria\\n• Complicaciones\\n• Readmisiones\\n• Institucionalización\\n• Deterioro funcional\\n\\nMeta-análisis:\\n• Desnutrición = OR 2.5 mortalidad\\n• Riesgo = OR 1.5 mortalidad\\n\\nCosto-efectividad:\\n• Detectar = intervenir = mejorar",
+        "children": []
+      },
+      {
+        "text": "⚖️ EVIDENCIA\\N\\nFortalezas:\\n✓ Validado en múltiples países\\n✓ Múltiples settings (hospital, comunidad)\\n✓ Gratuito, sin equipamiento\\n✓ Sensibilidad/especificidad alta\\n✓ Predice outcomes\\n\\nLimitaciones:\\n• Requiere colaboración paciente\\n• Difícil en demencia severa\\n• Subjetividad algunos items\\n\\nAlternativas:\\n• MUST (hospital)\\n• DETERMINE (comunidad)\\n• SNAQ (rápido)",
+        "children": []
+      },
+      {
+        "text": "👴 APLICABILIDAD GERIATRICA\\N\\n⭐⭐⭐⭐⭐ OBLIGATORIO en VGI\\N\\nIncorporar a VGI:\\n• MNA-SF mínimo\\n• MNA completo si riesgo\\n\\nSettings:\\n• Hospital: al ingreso\\n• Ambulatorio: anual\\n• Domicilio: visitas\\n\\nVersión reducida:\\n• MNA-SF = 6 preguntas\\n• 3 minutos\\n• Validada igual\\n\\nDisponible:\\n• www.mna-elderly.com\\n• Gratuito, múltiples idiomas",
+        "children": []
+      },
+      {
+        "text": "💎 PERLAS CLINICAS\\N\\n1. MNA-SF en TODO anciano:\\N   3 minutos, gratuito\\N\\n2. menor 17 = desnutrición:\\N   intervenir intensivamente\\N\\n3. 17-23.5 = riesgo:\\N   prevención, suplementar\\N\\n4. Predice mortalidad:\\N   no solo estado nutricional\\N\\n5. Circunferencia pantorrilla:\\N   menor 31 cm = sarcopenia probable\\N\\n6. IMC mayor 23 en anciano:\\N   punto corte diferente a adulto\\N\\n7. Pérdida peso 3 meses:\\N   pregunta clave del MNA\\N\\n8. mna-elderly.com:\\N   recurso gratuito oficial",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    },
+    {
+      "id": "map_1090",
+      "title": "CARGA DEL CUIDADOR Y SERVICIOS DE APOYO EN DEMENCIA"
+    },
+    {
+      "id": "map_1041",
+      "title": "Continuum. Demencia Frontotemporal (DFT)"
+    },
+    {
+      "id": "map_1030",
+      "title": "Demencia por cuerpos de Lewy"
+    },
+    {
+      "id": "map_1068",
+      "title": "Genética y neuropatología de las demencias neurodegenerativas"
+    }
+  ],
+  "source_file": "MNA-Validation-2026.smmx",
+  "created": "2026-02-07T15:42:56.762758"
+}

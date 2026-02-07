@@ -1,0 +1,5670 @@
+{
+  "id": "map_1850",
+  "title": "- Hipogonadismo\\NMasculino",
+  "specialty": "Endocrinología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 1345,
+  "root": {
+    "text": "- Hipogonadismo\\NMasculino",
+    "children": [
+      {
+        "text": "DESARROLLO\\NSEXUAL HUMANO",
+        "children": [
+          {
+            "text": "CONCEPTOS\\NBÁSICOS",
+            "children": [
+              {
+                "text": "→ Sexo: control genético ➔ desarrollo gonadal ➔ programación tejido-específica",
+                "children": []
+              },
+              {
+                "text": "→ Género: contexto social/cultural del desarrollo sexual",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ETAPAS SECUENCIALES\\N(Modelo Jost)(3)",
+            "children": [
+              {
+                "text": "SEXO CROMOSÓMICO\\N[Fertilización]",
+                "children": [
+                  {
+                    "text": "XY ➔ típico masculino",
+                    "children": []
+                  },
+                  {
+                    "text": "XX ➔ típico femenino",
+                    "children": []
+                  },
+                  {
+                    "text": "1-6 sem: desarrollo común no binario",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "SEXO GONADAL\\N[Sem 6+]",
+                "children": [
+                  {
+                    "text": "Gónada indiferente → testículo/ovario",
+                    "children": []
+                  },
+                  {
+                    "text": "Testículo: hormonalmente activo",
+                    "children": []
+                  },
+                  {
+                    "text": "Ovario: hormonalmente silente",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "FENOTIPO SEXUAL\\N[Sem 12+]",
+                "children": [
+                  {
+                    "text": "Estructuras urogenitales indiferentes → M/F",
+                    "children": []
+                  },
+                  {
+                    "text": "M: completo sem 12",
+                    "children": []
+                  },
+                  {
+                    "text": "F: desarrollo más tardío",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ANATOMÍA\\NUROGENITAL",
+            "children": [
+              {
+                "text": "TRACTO INTERNO",
+                "children": [
+                  {
+                    "text": "Origen: gónadas indiferentes + conductos:",
+                    "children": [
+                      {
+                        "text": "Wolff → M",
+                        "children": []
+                      },
+                      {
+                        "text": "Müller → F",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Desarrollo F:",
+                    "children": [
+                      {
+                        "text": "Ovarios",
+                        "children": []
+                      },
+                      {
+                        "text": "C.Müller → trompas/útero/vagina sup",
+                        "children": []
+                      },
+                      {
+                        "text": "C.Wolff → vestigial",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Desarrollo M:",
+                    "children": [
+                      {
+                        "text": "Testículos",
+                        "children": []
+                      },
+                      {
+                        "text": "C.Wolff → epidídimo/conductos/vesículas",
+                        "children": []
+                      },
+                      {
+                        "text": "C.Müller → regresión",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "GENITALES\\NEXTERNOS",
+        "children": [
+          {
+            "text": "Origen común:",
+            "children": [
+              {
+                "text": "Tubérculo genital",
+                "children": []
+              },
+              {
+                "text": "Pliegues genitales",
+                "children": []
+              },
+              {
+                "text": "Prominencias genitales",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "F →",
+            "children": [
+              {
+                "text": "Clítoris",
+                "children": []
+              },
+              {
+                "text": "Labios menores",
+                "children": []
+              },
+              {
+                "text": "Labios mayores",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "M →",
+            "children": [
+              {
+                "text": "Glande",
+                "children": []
+              },
+              {
+                "text": "Uretra peniana",
+                "children": []
+              },
+              {
+                "text": "Escroto",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "DESARROLLO\\NTESTICULAR",
+        "children": [
+          {
+            "text": "Determinación:",
+            "children": [
+              {
+                "text": "SRY\\N(cromosoma Y):",
+                "children": [
+                  {
+                    "text": "↓",
+                    "children": [
+                      {
+                        "text": "SOX9/WT1/DAX1/DHH",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "↓",
+                    "children": [
+                      {
+                        "text": "SF1(NR5A1)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "↓",
+                    "children": [
+                      {
+                        "text": "Células Sertoli/Leydig",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Hormonas\\Nfetales:",
+                "children": [
+                  {
+                    "text": "AMH (sem 6+)",
+                    "children": [
+                      {
+                        "text": "→ Regresión conductos Müller",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Testosterona (sem 8+)",
+                    "children": [
+                      {
+                        "text": "→ Diferenciación Wolff",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "DHT",
+                    "children": [
+                      {
+                        "text": "→ Genitales externos M",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "INSL3",
+                    "children": [
+                      {
+                        "text": "→ Descenso testicular",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Acción androgénica:",
+                    "children": [
+                      {
+                        "text": "Receptor andrógenos (AR)",
+                        "children": []
+                      },
+                      {
+                        "text": "T + DHT → mismo receptor",
+                        "children": [
+                          {
+                            "text": "DHT: mayor afinidad",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Efectos:",
+            "children": [
+              {
+                "text": "Virilización",
+                "children": []
+              },
+              {
+                "text": "Regulación LH",
+                "children": []
+              },
+              {
+                "text": "Espermatogénesis",
+                "children": []
+              },
+              {
+                "text": "Composición corporal",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPOGONADISMO 1º\\NEN VARONES (HPG-1)",
+        "children": [
+          {
+            "text": "DEFINICIÓN",
+            "children": [
+              {
+                "text": "↓ función\\Ntesticular:",
+                "children": [
+                  {
+                    "text": "↓ producción esperm. (PE)",
+                    "children": []
+                  },
+                  {
+                    "text": "↓ testosterona (T) (1)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN\\Nx ORIGEN",
+            "children": [
+              {
+                "text": "HPG-1: enferm. testicular",
+                "children": []
+              },
+              {
+                "text": "HPG-2: enferm. hipotálamo-hipofisaria (2)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "DX DIFERENCIAL\\NHPG-1 vs HPG-2",
+            "children": [
+              {
+                "text": "Valores séricos",
+                "children": [
+                  {
+                    "text": "HPG-1:",
+                    "children": [
+                      {
+                        "text": "T + PE: ↓",
+                        "children": []
+                      },
+                      {
+                        "text": "LH + FSH: ↑",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "HPG-2:",
+                    "children": [
+                      {
+                        "text": "T + PE: ↓",
+                        "children": []
+                      },
+                      {
+                        "text": "LH + FSH: normal/↓ (3)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CARACTERÍSTICAS\\NHPG-1",
+            "children": [
+              {
+                "text": "Afectación PE > T",
+                "children": [
+                  {
+                    "text": "Daño túbulos seminíferos > cél. Leydig",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "FSH: ↑",
+                "children": []
+              },
+              {
+                "text": "T: puede mantener normal (4)",
+                "children": []
+              },
+              {
+                "text": "Ginecomastia frecuente",
+                "children": []
+              },
+              {
+                "text": "FSH+LH: ↑ → ↑actividad aromatasa",
+                "children": []
+              },
+              {
+                "text": "↑conversión T→estradiol",
+                "children": []
+              },
+              {
+                "text": "↑secreción estradiol vs T (5)",
+                "children": []
+              },
+              {
+                "text": "ETIOLOGÍA",
+                "children": [
+                  {
+                    "text": "A. Congénitas",
+                    "children": [
+                      {
+                        "text": "Sind. Klinefelter",
+                        "children": []
+                      },
+                      {
+                        "text": "Alt. cromosómicas otras",
+                        "children": []
+                      },
+                      {
+                        "text": "Mutación genes FSH/LH",
+                        "children": []
+                      },
+                      {
+                        "text": "Criptorquidia",
+                        "children": []
+                      },
+                      {
+                        "text": "Alt. síntesis andrógenos",
+                        "children": []
+                      },
+                      {
+                        "text": "Distrofia miotónica",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. Adquiridas",
+                    "children": [
+                      {
+                        "text": "Infecciones (parotiditis)",
+                        "children": []
+                      },
+                      {
+                        "text": "Radiación",
+                        "children": []
+                      },
+                      {
+                        "text": "Agentes alquilantes",
+                        "children": []
+                      },
+                      {
+                        "text": "Suramina",
+                        "children": []
+                      },
+                      {
+                        "text": "Ketoconazol",
+                        "children": []
+                      },
+                      {
+                        "text": "Tóxicos ambientales",
+                        "children": []
+                      },
+                      {
+                        "text": "Trauma",
+                        "children": []
+                      },
+                      {
+                        "text": "Torsión testicular",
+                        "children": []
+                      },
+                      {
+                        "text": "Daño autoinmune",
+                        "children": []
+                      },
+                      {
+                        "text": "Enf. sistémicas:",
+                        "children": [
+                          {
+                            "text": "Cirrosis hepática",
+                            "children": []
+                          },
+                          {
+                            "text": "IRC",
+                            "children": []
+                          },
+                          {
+                            "text": "SIDA",
+                            "children": []
+                          },
+                          {
+                            "text": "Idiopática (6)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "MANIFESTACIONES\\NCLÍNICAS",
+            "children": [
+              {
+                "text": "Según ↓T y momento:",
+                "children": [
+                  {
+                    "text": "1er trimestre intrauterino:",
+                    "children": [
+                      {
+                        "text": "Virilización incompleta",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "3er trimestre intrauterino:",
+                    "children": [
+                      {
+                        "text": "Diferenciación sexual normal",
+                        "children": []
+                      },
+                      {
+                        "text": "Micropene",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Pre-puberal:",
+                    "children": [
+                      {
+                        "text": "Desarrollo puberal incompleto (1)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ETIOLOGÍA",
+            "children": [
+              {
+                "text": "1. Sind. Klinefelter",
+                "children": [
+                  {
+                    "text": "Más frecuente: 1/1000 ♂",
+                    "children": []
+                  },
+                  {
+                    "text": "Cariotipo:",
+                    "children": [
+                      {
+                        "text": "Típico: 47,XXY",
+                        "children": []
+                      },
+                      {
+                        "text": "Otros: 48,XXXY; 46, XY/47,XXY (2)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. Alt. cromosómicas\\Notras",
+                "children": [
+                  {
+                    "text": "A. 46,XY/XO:",
+                    "children": [
+                      {
+                        "text": "↓talla",
+                        "children": []
+                      },
+                      {
+                        "text": "Fenotipo Turner",
+                        "children": []
+                      },
+                      {
+                        "text": "Gónadas: estrías→normales",
+                        "children": []
+                      },
+                      {
+                        "text": "Fenotipo sexual: ♀→♂",
+                        "children": []
+                      },
+                      {
+                        "text": "Riesgo gonadoblastoma: 20%",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. Microdeleciones\\NYq:",
+                    "children": [
+                      {
+                        "text": "20% casos azoo/oligospermia",
+                        "children": []
+                      },
+                      {
+                        "text": "+/- criptorquidia (3)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "3. Mutaciones\\Nreceptores",
+                "children": [
+                  {
+                    "text": "A. FSH-R:",
+                    "children": [
+                      {
+                        "text": "↓recuento esperm.",
+                        "children": []
+                      },
+                      {
+                        "text": "↓inhibina B",
+                        "children": []
+                      },
+                      {
+                        "text": "FSH: ↑",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. LH-R:",
+                    "children": [
+                      {
+                        "text": "Hipoplasia cél. Leydig",
+                        "children": []
+                      },
+                      {
+                        "text": "↓T 1er trimestre",
+                        "children": []
+                      },
+                      {
+                        "text": "Genitales externos ♀",
+                        "children": []
+                      },
+                      {
+                        "text": "Sin útero/trompas (4)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "4. Criptorquidia",
+                "children": [
+                  {
+                    "text": "A. Unilateral:",
+                    "children": [
+                      {
+                        "text": "↓esperm: 25-33%",
+                        "children": []
+                      },
+                      {
+                        "text": "FSH: ↑leve",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. Bilateral:",
+                    "children": [
+                      {
+                        "text": "↓↓esperm",
+                        "children": []
+                      },
+                      {
+                        "text": "↓T posible",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "C. Riesgo CA\\Ntesticular ↑ (5)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "5. Alt. síntesis\\Nandrógenos",
+                "children": [
+                  {
+                    "text": "Mutaciones enzimas:",
+                    "children": [
+                      {
+                        "text": "Colesterol→T",
+                        "children": []
+                      },
+                      {
+                        "text": "Present. adrenal+testicular",
+                        "children": []
+                      },
+                      {
+                        "text": "↓T 1er trimestre",
+                        "children": []
+                      },
+                      {
+                        "text": "Virilización incompleta (6)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "6. Distrofia\\Nmiotónica",
+                "children": [
+                  {
+                    "text": "↓vol. testicular",
+                    "children": []
+                  },
+                  {
+                    "text": "↓producción esperm",
+                    "children": []
+                  },
+                  {
+                    "text": "FSH: ↑",
+                    "children": []
+                  },
+                  {
+                    "text": "50% casos:",
+                    "children": []
+                  },
+                  {
+                    "text": "↓T",
+                    "children": []
+                  },
+                  {
+                    "text": "LH: ↑ (7)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "7. Anorquia\\Ncongénita",
+                "children": [
+                  {
+                    "text": "Post-20sem gestación",
+                    "children": []
+                  },
+                  {
+                    "text": "Diferenciación ♂ normal",
+                    "children": []
+                  },
+                  {
+                    "text": "No testículos",
+                    "children": []
+                  },
+                  {
+                    "text": "HPG-1 severo (8)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ENFERMEDADES\\NADQUIRIDAS - HPG-1",
+        "children": [
+          {
+            "text": "MANIFESTACIONES",
+            "children": [
+              {
+                "text": "↓Esperm: infertilidad",
+                "children": []
+              },
+              {
+                "text": "↓T infancia: pubertad incompleta",
+                "children": []
+              },
+              {
+                "text": "↓T adulto:",
+                "children": [
+                  {
+                    "text": "↓energía",
+                    "children": []
+                  },
+                  {
+                    "text": "↓libido",
+                    "children": []
+                  },
+                  {
+                    "text": "↓vello sexual",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "↓masa muscular",
+                "children": []
+              },
+              {
+                "text": "↓densidad ósea (1)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ETIOLOGÍA",
+        "children": [
+          {
+            "text": "1. Infecciones",
+            "children": [
+              {
+                "text": "Parotiditis:",
+                "children": [
+                  {
+                    "text": "Edad media: 29a",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Orquitis:",
+                "children": [
+                  {
+                    "text": "Dolor/edema→atrofia",
+                    "children": []
+                  },
+                  {
+                    "text": "Daño tubular→infertilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "+/- daño cél.Leydig→↓T (2)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. Radiación",
+            "children": [
+              {
+                "text": "A. Directa/indirecta:",
+                "children": [
+                  {
+                    "text": "Daño proporcional dosis",
+                    "children": []
+                  },
+                  {
+                    "text": "tubular seminífero",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. I131 (Ca tiroides):",
+                "children": [
+                  {
+                    "text": "Dosis >100mCi",
+                    "children": []
+                  },
+                  {
+                    "text": "↓recuento esperm (3)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. Fármacos/Tóxicos",
+            "children": [
+              {
+                "text": "A. Alquilantes:",
+                "children": [
+                  {
+                    "text": "Daño tubular→azoospermia",
+                    "children": []
+                  },
+                  {
+                    "text": "FSH: ↑↑",
+                    "children": []
+                  },
+                  {
+                    "text": "+/- ↓T + LH↑",
+                    "children": []
+                  },
+                  {
+                    "text": "Recuperación posible",
+                    "children": []
+                  },
+                  {
+                    "text": "Protección: T concurrent",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. Platinos:",
+                "children": [
+                  {
+                    "text": "↓esperm transitoria",
+                    "children": []
+                  },
+                  {
+                    "text": "Recuperación:",
+                    "children": [
+                      {
+                        "text": "1a: 64%",
+                        "children": []
+                      },
+                      {
+                        "text": "5a: 80%",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "C. Ketoconazol:",
+                "children": [
+                  {
+                    "text": "Inhibe síntesis T→↓T",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "D. Glucocorticoides:",
+                "children": [
+                  {
+                    "text": "↓T ~33%",
+                    "children": []
+                  },
+                  {
+                    "text": "Mecanismo mixto",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "E. Tóxicos\\Nambientales:",
+                "children": [
+                  {
+                    "text": "Dibromocloropropano",
+                    "children": []
+                  },
+                  {
+                    "text": "Disruptores endocrinos (4)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "4. Trauma/Cirugía",
+            "children": [
+              {
+                "text": "A. Trauma testicular:",
+                "children": [
+                  {
+                    "text": "Daño tubular+Leydig",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. Torsión testicular:",
+                "children": [
+                  {
+                    "text": "Frecuente pre-puberal",
+                    "children": []
+                  },
+                  {
+                    "text": "8h: daño tubular→↓esperm",
+                    "children": []
+                  },
+                  {
+                    "text": "Daño bilateral posible",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "C. Orquiectomía bilateral:",
+                "children": [
+                  {
+                    "text": "Ca testicular (5)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "5. Autoinmune",
+            "children": [
+              {
+                "text": "A. Infertilidad idiopática:",
+                "children": [
+                  {
+                    "text": "Ac anti-esperm",
+                    "children": []
+                  },
+                  {
+                    "text": "¿causa/consecuencia?",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. Sind. poliglandular:",
+                "children": [
+                  {
+                    "text": "hipotiroidismo",
+                    "children": []
+                  },
+                  {
+                    "text": "insuf. suprarrenal (6)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "6. Enf. sistémicas",
+            "children": [
+              {
+                "text": "A. Cirrosis:",
+                "children": [
+                  {
+                    "text": "↓T",
+                    "children": []
+                  },
+                  {
+                    "text": "Mecanismo mixto:",
+                    "children": []
+                  },
+                  {
+                    "text": "HPG-1: FSH+LH↑",
+                    "children": []
+                  },
+                  {
+                    "text": "HPG-2: LH normal",
+                    "children": []
+                  },
+                  {
+                    "text": "Recupera post-trasplante",
+                    "children": []
+                  },
+                  {
+                    "text": "OH agudo: HPG-2",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. IRC:",
+                "children": [
+                  {
+                    "text": "T: ↓25%",
+                    "children": []
+                  },
+                  {
+                    "text": "HPG-1:",
+                    "children": []
+                  },
+                  {
+                    "text": "Alteración biopsia",
+                    "children": []
+                  },
+                  {
+                    "text": "↓esperm",
+                    "children": []
+                  },
+                  {
+                    "text": "FSH+LH↑",
+                    "children": []
+                  },
+                  {
+                    "text": "↓respuesta hCG",
+                    "children": []
+                  },
+                  {
+                    "text": "Mejora post-trasplante",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "C. VIH:",
+                "children": [
+                  {
+                    "text": "↓T variable",
+                    "children": []
+                  },
+                  {
+                    "text": "Mecanismo mixto",
+                    "children": []
+                  },
+                  {
+                    "text": "Mejor con TARV (7)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "7. Idiopática",
+            "children": [
+              {
+                "text": "Severidad variable:",
+                "children": [
+                  {
+                    "text": "Grave: ↓T + azoospermia",
+                    "children": []
+                  },
+                  {
+                    "text": "Leve: oligo/azoospermia + FSH↑ (8)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPOGONADISMO 2º\\N(HIPOGONADOTROPO)\\NMASCULINO",
+        "children": [
+          {
+            "text": "DEFINICIÓN",
+            "children": [
+              {
+                "text": "↓ Funciones testiculares:",
+                "children": [
+                  {
+                    "text": "Producción esperma",
+                    "children": []
+                  },
+                  {
+                    "text": "Producción testosterona (T)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "DX DIFERENCIAL vs\\NHIPOGONADISMO 1º",
+            "children": [
+              {
+                "text": "→ Medición sérica:",
+                "children": [
+                  {
+                    "text": "LH",
+                    "children": []
+                  },
+                  {
+                    "text": "FSH",
+                    "children": []
+                  },
+                  {
+                    "text": "T",
+                    "children": []
+                  },
+                  {
+                    "text": "Recuento espermático (RE)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "H1º (Hipergonadotropo):",
+                "children": [
+                  {
+                    "text": "↓T y/o ↓RE",
+                    "children": []
+                  },
+                  {
+                    "text": "↑LH/FSH",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "H2º (Hipogonadotropo):",
+                "children": [
+                  {
+                    "text": "↓T y/o ↓RE",
+                    "children": []
+                  },
+                  {
+                    "text": "LH/FSH no elevadas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CARACTERÍSTICAS\\NH2º",
+            "children": [
+              {
+                "text": "↓ Similar de:",
+                "children": []
+              },
+              {
+                "text": "Producción esperma",
+                "children": []
+              },
+              {
+                "text": "Producción T",
+                "children": []
+              },
+              {
+                "text": "Por: ↓LH → ↓T testicular → ↓estímulo espermático",
+                "children": []
+              },
+              {
+                "text": "Menor riesgo ginecomastia vs H1º",
+                "children": []
+              },
+              {
+                "text": "Por: No ↑FSH/LH → No ↑aromatasa testicular → No ↑conversión T→estradiol",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CARACTERÍSTICAS\\NH1º",
+            "children": [
+              {
+                "text": "↓ Asimétrica:",
+                "children": []
+              },
+              {
+                "text": "Mayor ↓producción esperma",
+                "children": []
+              },
+              {
+                "text": "Menor ↓producción T",
+                "children": []
+              },
+              {
+                "text": "Por: Mayor daño túbulos\\Nseminíferos vs células Leydig",
+                "children": []
+              },
+              {
+                "text": "Mayor riesgo ginecomastia",
+                "children": []
+              },
+              {
+                "text": "Por: ↑FSH/LH → ↑aromatasa testicular\\N→ ↑conversión T→estradiol",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ANOMALÍAS CONGÉNITAS\\N→ HIPOGONADISMO 2º",
+            "children": [
+              {
+                "text": "CARACTERÍSTICAS\\NGENERALES",
+                "children": [
+                  {
+                    "text": "Diferenciación sexual normal ♂",
+                    "children": []
+                  },
+                  {
+                    "text": "Por: T fetal 1ºtrimestre → hCG placentaria → receptores LH células Leydig",
+                    "children": []
+                  },
+                  {
+                    "text": "Micropene",
+                    "children": []
+                  },
+                  {
+                    "text": "Por: ↓desarrollo fálico 3ºtrimestre → ↓LH fetal → ↓T testicular",
+                    "children": []
+                  },
+                  {
+                    "text": "Crecimiento:",
+                    "children": [
+                      {
+                        "text": "Normal: Si déficit gonadotropinas aislado",
+                        "children": []
+                      },
+                      {
+                        "text": "Subnormal: Si hipopituitarismo generalizado",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Desarrollo\\Npuberal:",
+                "children": [
+                  {
+                    "text": "Incompleto/Ausente",
+                    "children": []
+                  },
+                  {
+                    "text": "Según grado déficit gonadotropinas",
+                    "children": []
+                  },
+                  {
+                    "text": "Proporciones eunucoides:",
+                    "children": []
+                  },
+                  {
+                    "text": "Envergadura > altura (>5cm)",
+                    "children": []
+                  },
+                  {
+                    "text": "Distancia pubis-suelo > pubis-corona",
+                    "children": []
+                  },
+                  {
+                    "text": "Por: Retraso cierre epifisario → ↓T → ↓estradiol",
+                    "children": []
+                  },
+                  {
+                    "text": "Excepción: Si ↓hormona crecimiento",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TIPOS",
+            "children": [
+              {
+                "text": "1. HIPOGONADISMO\\NHIPOGONADOTROPO\\NAISLADO",
+                "children": [
+                  {
+                    "text": "Déficit GnRH congénito",
+                    "children": []
+                  },
+                  {
+                    "text": "Mutaciones subunidad β FSH/LH",
+                    "children": []
+                  },
+                  {
+                    "text": "Causa indeterminada",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. MUTACIONES LEPTINA/RECEPTOR",
+                "children": [
+                  {
+                    "text": "H2º + Obesidad",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. SÍNDROMES +\\NRETRASO DESARROLLO",
+                "children": [
+                  {
+                    "text": "Ej: Prader-Willi",
+                    "children": []
+                  },
+                  {
+                    "text": "H2º",
+                    "children": [
+                      {
+                        "text": "Retraso desarrollo",
+                        "children": []
+                      },
+                      {
+                        "text": "Obesidad",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "4. MUTACIONES\\NSUBUNIDADES\\NGONADOTROPINAS",
+                "children": [
+                  {
+                    "text": "β-LH:",
+                    "children": [
+                      {
+                        "text": "↓pubertad",
+                        "children": []
+                      },
+                      {
+                        "text": "↓T",
+                        "children": []
+                      },
+                      {
+                        "text": "LH/FSH variable según mutación",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "β-FSH:",
+                    "children": [
+                      {
+                        "text": "↓pubertad",
+                        "children": []
+                      },
+                      {
+                        "text": "↓T",
+                        "children": []
+                      },
+                      {
+                        "text": "↓FSH",
+                        "children": []
+                      },
+                      {
+                        "text": "↑LH",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "5. H2º + OTROS DÉFICITS\\NHIPOFISARIOS",
+                "children": [
+                  {
+                    "text": "Por alteración factores\\Ntranscripción:",
+                    "children": [
+                      {
+                        "text": "LHX3",
+                        "children": []
+                      },
+                      {
+                        "text": "LHX4",
+                        "children": []
+                      },
+                      {
+                        "text": "HESX1",
+                        "children": []
+                      },
+                      {
+                        "text": "PROP-1",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ENFERMEDADES\\NADQUIRIDAS → H2º",
+        "children": [
+          {
+            "text": "MECANISMOS",
+            "children": [
+              {
+                "text": "Enfermedad/Supresión hipotálamo → ↓GnRH",
+                "children": []
+              },
+              {
+                "text": "Enfermedad tallo hipofisario → ↓llegada GnRH",
+                "children": []
+              },
+              {
+                "text": "Enfermedad/Supresión hipófisis → ↓LH/FSH",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SUPRESIÓN\\NGONADOTROPINAS",
+            "children": [
+              {
+                "text": "1. HIPERPROLACTINEMIA",
+                "children": [
+                  {
+                    "text": "Cualquier causa → ↓gonadotropinas → ↓función testicular",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. FÁRMACOS/SUSTANCIAS",
+                "children": [
+                  {
+                    "text": "Agonistas GnRH",
+                    "children": []
+                  },
+                  {
+                    "text": "Andrógenos",
+                    "children": []
+                  },
+                  {
+                    "text": "Estrógenos",
+                    "children": []
+                  },
+                  {
+                    "text": "Progestágenos",
+                    "children": []
+                  },
+                  {
+                    "text": "Glucocorticoides crónicos",
+                    "children": []
+                  },
+                  {
+                    "text": "Opioides (>metadona vs buprenorfina)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. ENFERMEDADES",
+                "children": [
+                  {
+                    "text": "Enfermedad crítica:",
+                    "children": [
+                      {
+                        "text": "↓43-58% T sérica",
+                        "children": []
+                      },
+                      {
+                        "text": "Correlación severidad-grado H2º",
+                        "children": []
+                      },
+                      {
+                        "text": "Reversible con recuperación",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "E. Sistémicas\\Ncrónicas:",
+                    "children": [
+                      {
+                        "text": "Cirrosis",
+                        "children": []
+                      },
+                      {
+                        "text": "IRC",
+                        "children": []
+                      },
+                      {
+                        "text": "EPOC",
+                        "children": []
+                      },
+                      {
+                        "text": "SIDA",
+                        "children": []
+                      },
+                      {
+                        "text": "Anorexia nerviosa",
+                        "children": []
+                      },
+                      {
+                        "text": "Alteraciones metabólicas:",
+                        "children": []
+                      },
+                      {
+                        "text": "DM2",
+                        "children": []
+                      },
+                      {
+                        "text": "Obesidad",
+                        "children": []
+                      },
+                      {
+                        "text": "SAOS",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "DAÑO CÉLULAS\\NGONADOTROPAS",
+            "children": [
+              {
+                "text": "1. TUMORES",
+                "children": [
+                  {
+                    "text": "Benignos:\\NAdenomas/quistes",
+                    "children": []
+                  },
+                  {
+                    "text": "Malignos:\\NMeningiomas/metástasis",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. ENF.\\NINFILTRATIVAS",
+                "children": [
+                  {
+                    "text": "Sarcoidosis",
+                    "children": []
+                  },
+                  {
+                    "text": "Histiocitosis células Langerhans",
+                    "children": []
+                  },
+                  {
+                    "text": "Hemocromatosis (<40a más reversible)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. OTROS",
+                "children": [
+                  {
+                    "text": "Infecciones (meningitis TB)",
+                    "children": []
+                  },
+                  {
+                    "text": "Apoplejía hipofisaria",
+                    "children": []
+                  },
+                  {
+                    "text": "Trauma base cráneo",
+                    "children": []
+                  },
+                  {
+                    "text": "Idiopático",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPOGONADISMO\\NMASCULINO (HM)",
+        "children": [
+          {
+            "text": "DEFINICIÓN",
+            "children": [
+              {
+                "text": "↓ func. testicular → ↓espermatogénesis y/o ↓testosterona\\N(T) (1)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN",
+            "children": [
+              {
+                "text": "1. H. PRIMARIO\\N(HP)",
+                "children": [
+                  {
+                    "text": "↓T/↓esperm + ↑LH/↑FSH",
+                    "children": []
+                  },
+                  {
+                    "text": "Daño testicular directo",
+                    "children": []
+                  },
+                  {
+                    "text": "↓espermatogénesis > ↓func. células Leydig",
+                    "children": []
+                  },
+                  {
+                    "text": "Tx fertilidad: extracción espermática + FIV-ICSI (2)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. H. SECUNDARIO\\N(HS)",
+                "children": [
+                  {
+                    "text": "↓T/↓esperm + LH/FSH nl/↓",
+                    "children": []
+                  },
+                  {
+                    "text": "Daño hipotálamo-hipofisario",
+                    "children": []
+                  },
+                  {
+                    "text": "↓espermatogénesis = ↓func. células Leydig",
+                    "children": []
+                  },
+                  {
+                    "text": "Tx fertilidad: gonadotropinas → restaura espermatogénesis (3)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "DX HORMONAL",
+            "children": [
+              {
+                "text": "T total sérica",
+                "children": []
+              },
+              {
+                "text": "LH/FSH",
+                "children": []
+              },
+              {
+                "text": "PRL si HS",
+                "children": []
+              },
+              {
+                "text": "Otros según caso:",
+                "children": []
+              },
+              {
+                "text": "E2",
+                "children": []
+              },
+              {
+                "text": "SHBG",
+                "children": []
+              },
+              {
+                "text": "T libre",
+                "children": []
+              },
+              {
+                "text": "INH-B (4)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CARACTERÍSTICAS\\NCLÍNICAS HM",
+        "children": [
+          {
+            "text": "FACTORES\\NDETERMINANTES",
+            "children": [
+              {
+                "text": "Edad inicio",
+                "children": []
+              },
+              {
+                "text": "Severidad ↓T",
+                "children": []
+              },
+              {
+                "text": "Afectación espermatogénica\\Ny/o androgénica (1)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MANIFESTACIONES\\NSEGÚN ETAPA INICIO",
+        "children": [
+          {
+            "text": "1. PRIMER TRIMESTRE",
+            "children": [
+              {
+                "text": "Genitales ambiguos →\\N↓T/↓acción androgénica",
+                "children": []
+              },
+              {
+                "text": "↓T severa → fenotipo ♀",
+                "children": []
+              },
+              {
+                "text": "↓T parcial → fusión labioescrotal +\\Nmicropene/hipospadias (2)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. TERCER TRIMESTRE",
+            "children": [
+              {
+                "text": "Micropene",
+                "children": []
+              },
+              {
+                "text": "Criptorquidia bilateral →\\N↓espermatogénesis ± ↓T adulto (3)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. PREPUBERAL",
+            "children": [
+              {
+                "text": "Fallo\\Ninicio/progresión\\Npuberal (4)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "4. ADULTO",
+            "children": [
+              {
+                "text": "Inmediatos\\N(días-sem):",
+                "children": [
+                  {
+                    "text": "↓energía",
+                    "children": []
+                  },
+                  {
+                    "text": "↓libido",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Tardíos\\N(años):",
+                "children": [
+                  {
+                    "text": "↓vello sexual",
+                    "children": []
+                  },
+                  {
+                    "text": "↓masa muscular",
+                    "children": []
+                  },
+                  {
+                    "text": "↓DMO",
+                    "children": []
+                  },
+                  {
+                    "text": "Infertilidad (5)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HALLAZGOS\\NFÍSICOS",
+        "children": [
+          {
+            "text": "PREPUBERAL\\NNO TRATADO",
+            "children": [
+              {
+                "text": "↓vello corporal/barba",
+                "children": []
+              },
+              {
+                "text": "No recesión temporal",
+                "children": []
+              },
+              {
+                "text": "↓musculatura masculina",
+                "children": []
+              },
+              {
+                "text": "Voz aguda",
+                "children": []
+              },
+              {
+                "text": "Testes <20mL",
+                "children": []
+              },
+              {
+                "text": "Falo <8cm",
+                "children": []
+              },
+              {
+                "text": "Proporciones eunucoides:",
+                "children": [
+                  {
+                    "text": "MMII > MMSS (+2cm)",
+                    "children": []
+                  },
+                  {
+                    "text": "Envergadura > talla (+5cm) (6)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "POSTPUBERAL",
+            "children": [
+              {
+                "text": "HP → ↓tamaño testicular",
+                "children": []
+              },
+              {
+                "text": "HS → tamaño testicular nl",
+                "children": []
+              },
+              {
+                "text": "Ginecomastia (+ frec. HP)",
+                "children": []
+              },
+              {
+                "text": "No ↓tamaño falo (7)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "DIAGNÓSTICO HM",
+        "children": [
+          {
+            "text": "CANDIDATOS\\NSCREENING",
+            "children": [
+              {
+                "text": "Patologías",
+                "children": [
+                  {
+                    "text": "Región selar",
+                    "children": []
+                  },
+                  {
+                    "text": "ERC/hemodiálisis",
+                    "children": []
+                  },
+                  {
+                    "text": "EPOC mod-sev",
+                    "children": []
+                  },
+                  {
+                    "text": "Infertilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "Osteoporosis/fx baja energía joven",
+                    "children": []
+                  },
+                  {
+                    "text": "DM2",
+                    "children": []
+                  },
+                  {
+                    "text": "VIH + pérdida peso (1)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Fármacos",
+                "children": [
+                  {
+                    "text": "GC alta dosis prolongada",
+                    "children": []
+                  },
+                  {
+                    "text": "Opioides liberación sostenida (2)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "EVALUACIÓN\\NINICIAL",
+            "children": [
+              {
+                "text": "T TOTAL SÉRICA",
+                "children": [
+                  {
+                    "text": "Rango nl: 300-800 ng/dL",
+                    "children": []
+                  },
+                  {
+                    "text": "Horario: 8-10AM",
+                    "children": []
+                  },
+                  {
+                    "text": "Ayunas",
+                    "children": []
+                  },
+                  {
+                    "text": "2 determinaciones si ↓/borderline",
+                    "children": []
+                  },
+                  {
+                    "text": "Variación diurna: máx 8AM, mín 8PM (-30%) (3)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "SHBG\\NALTERADA",
+                "children": [
+                  {
+                    "text": "↑SHBG",
+                    "children": [
+                      {
+                        "text": "Edad avanzada",
+                        "children": []
+                      },
+                      {
+                        "text": "Hipertiroidismo",
+                        "children": []
+                      },
+                      {
+                        "text": "Hiperestrogenismo",
+                        "children": []
+                      },
+                      {
+                        "text": "Hepatopatía",
+                        "children": []
+                      },
+                      {
+                        "text": "VIH",
+                        "children": []
+                      },
+                      {
+                        "text": "Antiepilépticos (4)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "↓SHBG",
+                    "children": [
+                      {
+                        "text": "Obesidad",
+                        "children": []
+                      },
+                      {
+                        "text": "RI/DM2",
+                        "children": []
+                      },
+                      {
+                        "text": "Hipotiroidismo",
+                        "children": []
+                      },
+                      {
+                        "text": "Exceso GH",
+                        "children": []
+                      },
+                      {
+                        "text": "Esteroides anabólicos",
+                        "children": []
+                      },
+                      {
+                        "text": "GC",
+                        "children": []
+                      },
+                      {
+                        "text": "Progestágenos",
+                        "children": []
+                      },
+                      {
+                        "text": "S. nefrótico (5)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "T LIBRE",
+                "children": [
+                  {
+                    "text": "Método:\\Nequilibrio diálisis",
+                    "children": [
+                      {
+                        "text": "Labs especializados",
+                        "children": []
+                      },
+                      {
+                        "text": "No usar método análogo",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Indicada si:",
+                    "children": [
+                      {
+                        "text": "Sospecha alteración SHBG",
+                        "children": []
+                      },
+                      {
+                        "text": "T total equívoca (6)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "LH/FSH",
+                "children": [
+                  {
+                    "text": "Distingue HP vs HS",
+                    "children": []
+                  },
+                  {
+                    "text": "Rango nl: 1-8 mIU/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "HP → ↑LH/FSH + ↓T",
+                    "children": []
+                  },
+                  {
+                    "text": "HS → LH/FSH nl/↓ + ↓T (7)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ESPERMOGRAMA",
+        "children": [
+          {
+            "text": "Indicado si:",
+            "children": [
+              {
+                "text": "Búsqueda fertilidad",
+                "children": []
+              },
+              {
+                "text": "Infertilidad conocida",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Valores nl:",
+            "children": [
+              {
+                "text": "15M/mL",
+                "children": []
+              },
+              {
+                "text": "39M/eyaculado",
+                "children": []
+              },
+              {
+                "text": "Motilidad >40%",
+                "children": []
+              },
+              {
+                "text": "Morfología nl >4% (8)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ESTUDIOS\\NADICIONALES",
+        "children": [
+          {
+            "text": "CAUSAS\\NPOSIBLES",
+            "children": [
+              {
+                "text": "HP",
+                "children": [
+                  {
+                    "text": "S. Klinefelter → ginecomastia + testes firmes\\Npequeños + alt. conducta/aprendizaje",
+                    "children": []
+                  },
+                  {
+                    "text": "QT/RT pélvica",
+                    "children": []
+                  },
+                  {
+                    "text": "OH excesivo",
+                    "children": []
+                  },
+                  {
+                    "text": "Torsión bilateral",
+                    "children": []
+                  },
+                  {
+                    "text": "Trauma testicular",
+                    "children": []
+                  },
+                  {
+                    "text": "Orquitis (1)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "HS",
+                "children": [
+                  {
+                    "text": "S. Kallmann → anosmia/hiposmia",
+                    "children": []
+                  },
+                  {
+                    "text": "Lesión hipotálamo-hipofisaria → alt. visión periférica + deficiencia hormonas hipofisarias",
+                    "children": []
+                  },
+                  {
+                    "text": "Fármacos:",
+                    "children": [
+                      {
+                        "text": "Ketoconazol → HP",
+                        "children": []
+                      },
+                      {
+                        "text": "Opioides → HS (2)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ESTUDIOS\\NESPECÍFICOS",
+        "children": [
+          {
+            "text": "HP",
+            "children": [
+              {
+                "text": "Cariotipo si:",
+                "children": [
+                  {
+                    "text": "HP no adquirido",
+                    "children": []
+                  },
+                  {
+                    "text": "Sospecha S. Klinefelter (3)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "HS",
+            "children": [
+              {
+                "text": "ESTUDIO\\NHIPOFISARIO",
+                "children": [
+                  {
+                    "text": "Cortisol 8AM",
+                    "children": []
+                  },
+                  {
+                    "text": "T4/T4L",
+                    "children": []
+                  },
+                  {
+                    "text": "PRL",
+                    "children": []
+                  },
+                  {
+                    "text": "Saturación hierro (4)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "RM\\NHIPOFISARIA",
+                "children": [
+                  {
+                    "text": "Indicaciones:",
+                    "children": [
+                      {
+                        "text": "Alt. hormonas hipofisarias",
+                        "children": []
+                      },
+                      {
+                        "text": "Alt. campo visual",
+                        "children": []
+                      },
+                      {
+                        "text": "Alt. neurológicas",
+                        "children": []
+                      },
+                      {
+                        "text": "Según edad + T:",
+                        "children": [
+                          {
+                            "text": "<40a → T<250 ng/dL",
+                            "children": []
+                          },
+                          {
+                            "text": "60a → T<150 ng/dL (5)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "ESTUDIO\\NGENÉTICO",
+                    "children": [
+                      {
+                        "text": "Si HH congénito aislado",
+                        "children": []
+                      },
+                      {
+                        "text": "Especialmente pre-inducción fertilidad (6)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPOGONADISMO DEL\\NVARÓN MAYOR",
+        "children": [
+          {
+            "text": "CAMBIOS\\NENDOCRINOS",
+            "children": [
+              {
+                "text": "T TOTAL",
+                "children": [
+                  {
+                    "text": "↓0.4%/año desde 40-79a",
+                    "children": []
+                  },
+                  {
+                    "text": "↓gradual post-35a",
+                    "children": []
+                  },
+                  {
+                    "text": "↓marcado post-80a",
+                    "children": []
+                  },
+                  {
+                    "text": "Percentiles\\Nsegún edad:",
+                    "children": [
+                      {
+                        "text": "P2.5: 19-39a→264 ng/dL, 70-79a→119 ng/dL",
+                        "children": []
+                      },
+                      {
+                        "text": "P50: 19-39a→507 ng/dL, 70-79a→446 ng/dL",
+                        "children": []
+                      },
+                      {
+                        "text": "P97.5: estable→902 ng/dL (1)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "RITMO\\NCIRCADIANO T",
+                "children": [
+                  {
+                    "text": "Jóvenes: pico 8AM marcado",
+                    "children": []
+                  },
+                  {
+                    "text": "Mayores: pico atenuado (2)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "SHBG",
+                "children": [
+                  {
+                    "text": "↑gradual con edad",
+                    "children": []
+                  },
+                  {
+                    "text": "↓↓T libre bioactiva",
+                    "children": []
+                  },
+                  {
+                    "text": "Obesidad → ↓SHBG todas edades (3)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "T LIBRE",
+                "children": [
+                  {
+                    "text": "↓30% entre 40-44a vs 75-79a",
+                    "children": []
+                  },
+                  {
+                    "text": "↓ > que T total (4)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "GONADOTROPINAS",
+                "children": [
+                  {
+                    "text": "↑FSH > ↑LH con edad",
+                    "children": []
+                  },
+                  {
+                    "text": "↑menor al esperado por ↓T",
+                    "children": []
+                  },
+                  {
+                    "text": "Sugiere HP + HS combinados (5)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "FACTORES\\NMODULADORES",
+            "children": [
+              {
+                "text": "OBESIDAD",
+                "children": [
+                  {
+                    "text": "↓T total → ↓SHBG",
+                    "children": []
+                  },
+                  {
+                    "text": "↓T libre + LH nl → HS (6)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "COMORBILIDADES",
+                "children": [
+                  {
+                    "text": "↓T total/libre",
+                    "children": []
+                  },
+                  {
+                    "text": "LH nl",
+                    "children": []
+                  },
+                  {
+                    "text": "Sugiere HS (7)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "ESPERMATOGÉNESIS",
+                "children": [
+                  {
+                    "text": "Vol\\Ntesticular:",
+                    "children": [
+                      {
+                        "text": "Jóvenes: 29.7mL",
+                        "children": []
+                      },
+                      {
+                        "text": "Mayores: 20.6mL",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Densidad\\Nespermática:",
+                    "children": [
+                      {
+                        "text": "Similar todas edades",
+                        "children": []
+                      },
+                      {
+                        "text": "↓motilidad en mayores",
+                        "children": []
+                      },
+                      {
+                        "text": "N° total espermatozoides\\Nmóviles conservado (8)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "PREVALENCIA",
+            "children": [
+              {
+                "text": "EMAS (40-79a):",
+                "children": [
+                  {
+                    "text": "T<317 ng/dL + 3 sínt. sexuales: 2.1%",
+                    "children": []
+                  },
+                  {
+                    "text": "T<230 ng/dL: 0.9% (1)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CONSECUENCIAS ↓T\\NASOCIADA EDAD",
+        "children": []
+      },
+      {
+        "text": "MANIFESTACIONES\\NCLÍNICAS",
+        "children": [
+          {
+            "text": "SIMILARES\\NA HM",
+            "children": [
+              {
+                "text": "↓líbido/actividad sexual",
+                "children": []
+              },
+              {
+                "text": "↓masa/fuerza muscular",
+                "children": []
+              },
+              {
+                "text": "Depresión",
+                "children": []
+              },
+              {
+                "text": "↓DMO",
+                "children": []
+              },
+              {
+                "text": "Anemia (2)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CASOS SEVEROS\\N(T<230)",
+            "children": [
+              {
+                "text": "edad",
+                "children": []
+              },
+              {
+                "text": "obesidad",
+                "children": []
+              },
+              {
+                "text": "↓Hb",
+                "children": []
+              },
+              {
+                "text": "↓DMO calcáneo",
+                "children": []
+              },
+              {
+                "text": "↓masa muscular",
+                "children": []
+              },
+              {
+                "text": "↓salud general",
+                "children": []
+              },
+              {
+                "text": "RI",
+                "children": []
+              },
+              {
+                "text": "S. metabólico (3)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EVALUACIÓN",
+        "children": [
+          {
+            "text": "CANDIDATOS",
+            "children": [
+              {
+                "text": "No screening rutinario",
+                "children": []
+              },
+              {
+                "text": "Evaluar si:",
+                "children": [
+                  {
+                    "text": "Síntomas: ↓líbido, depresión",
+                    "children": []
+                  },
+                  {
+                    "text": "Signos: ↓vello corporal",
+                    "children": []
+                  },
+                  {
+                    "text": "Labs: anemia, ↓DMO (4)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ESTUDIO\\NBIOQUÍMICO",
+            "children": [
+              {
+                "text": "T TOTAL",
+                "children": [
+                  {
+                    "text": "AM temprano",
+                    "children": []
+                  },
+                  {
+                    "text": "Ayunas",
+                    "children": []
+                  },
+                  {
+                    "text": "2-3 determinaciones si ↓",
+                    "children": []
+                  },
+                  {
+                    "text": "Labs: cromatografía líquida + espectrometría masas",
+                    "children": []
+                  },
+                  {
+                    "text": "Límite inf nl (P2.5) no obesos 19-39a: 264 ng/dL (5)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "LH/FSH",
+                "children": [
+                  {
+                    "text": "Si T ↓confirmada",
+                    "children": []
+                  },
+                  {
+                    "text": "Determinar HP vs HS",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Si HS:",
+                "children": [
+                  {
+                    "text": "Evaluar otras hormonas hipofisarias",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "RM silla turca si:",
+                "children": [
+                  {
+                    "text": "T<200 ng/dL",
+                    "children": []
+                  },
+                  {
+                    "text": "Otras deficiencias hormonales (6)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TERAPIA CON T\\NEN MAYORES",
+        "children": [
+          {
+            "text": "PRESCRIPCIÓN\\NACTUAL",
+            "children": [
+              {
+                "text": "↑↑uso inapropiado",
+                "children": []
+              },
+              {
+                "text": "Causas:",
+                "children": [
+                  {
+                    "text": "Publicidad directa consumidor",
+                    "children": []
+                  },
+                  {
+                    "text": "Síntomas inespecíficos",
+                    "children": []
+                  },
+                  {
+                    "text": "Edad/energía/líbido (1)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CANDIDATOS\\NTX",
+            "children": [
+              {
+                "text": "APROPIADOS",
+                "children": [
+                  {
+                    "text": "HM documentado por:",
+                    "children": []
+                  },
+                  {
+                    "text": "Enfermedad conocida hipotálamo-hipófisis-testículo",
+                    "children": []
+                  },
+                  {
+                    "text": "Síntomas + T↓↓confirmada (2)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CONTRAINDICACIONES",
+            "children": [
+              {
+                "text": "Nódulo prostático",
+                "children": []
+              },
+              {
+                "text": "PSA:",
+                "children": [
+                  {
+                    "text": "4 ng/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "3 ng/mL en alto riesgo",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Hto >48% (3)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EFECTOS\\NBENEFICIOSOS",
+        "children": [
+          {
+            "text": "FUNCIÓN SEXUAL",
+            "children": [
+              {
+                "text": "↑actividad sexual",
+                "children": []
+              },
+              {
+                "text": "↑líbido",
+                "children": []
+              },
+              {
+                "text": "↑función eréctil (menor grado) (4)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "FÍSICOS",
+            "children": [
+              {
+                "text": "↑distancia caminada",
+                "children": []
+              },
+              {
+                "text": "↑vitalidad leve",
+                "children": []
+              },
+              {
+                "text": "↑función ejecutiva",
+                "children": []
+              },
+              {
+                "text": "↑DMO trabecular/periférica:",
+                "children": [
+                  {
+                    "text": "Columna",
+                    "children": []
+                  },
+                  {
+                    "text": "Cadera (5)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "OTROS",
+            "children": [
+              {
+                "text": "↑estado ánimo",
+                "children": []
+              },
+              {
+                "text": "↓síntomas depresivos",
+                "children": []
+              },
+              {
+                "text": "↑Hb en anemia (6)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EFECTOS\\NADVERSOS",
+        "children": [
+          {
+            "text": "CARDIOVASCULARES",
+            "children": [
+              {
+                "text": "↑volumen placa coronaria no calcificada",
+                "children": []
+              },
+              {
+                "text": "↑volumen placa total (7)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "PROSTÁTICOS",
+            "children": [
+              {
+                "text": "↑PSA leve",
+                "children": []
+              },
+              {
+                "text": "PSA>4: 1.9% vs 0.3% placebo",
+                "children": []
+              },
+              {
+                "text": "Ca próstata: 3 vs 1 placebo (8)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "HEMATOLÓGICOS",
+            "children": [
+              {
+                "text": "Eritrocitosis (Hb≥17.5): 7 vs 0 placebo (9)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MONITORIZACIÓN",
+        "children": [
+          {
+            "text": "T TOTAL",
+            "children": [
+              {
+                "text": "Objetivo: 300-400 ng/dL",
+                "children": [
+                  {
+                    "text": "Rangos bajos-normales",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "PSA",
+            "children": [
+              {
+                "text": "3-6m post inicio",
+                "children": []
+              },
+              {
+                "text": "Derivar urología si:",
+                "children": [
+                  {
+                    "text": "↑>1.4 ng/mL basal",
+                    "children": []
+                  },
+                  {
+                    "text": "4 ng/mL",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "HEMATOCRITO",
+            "children": [
+              {
+                "text": "3-6m post inicio",
+                "children": []
+              },
+              {
+                "text": "Anual",
+                "children": [
+                  {
+                    "text": "Descartar causas 2arias si ↑ (10)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MECANISMOS ACCIÓN T",
+        "children": []
+      },
+      {
+        "text": "FORMAS ACTIVAS",
+        "children": [
+          {
+            "text": "1. T DIRECTA",
+            "children": [
+              {
+                "text": "Unión receptor androgénico (RA)",
+                "children": []
+              },
+              {
+                "text": "Acción muscular directa (1)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. DIHIDROTESTOSTERONA\\N(DHT)",
+            "children": [
+              {
+                "text": "Conversión por 5α-reductasa",
+                "children": []
+              },
+              {
+                "text": "Mayor afinidad RA vs T",
+                "children": []
+              },
+              {
+                "text": "Tejidos\\Ndiana:",
+                "children": [
+                  {
+                    "text": "Genitales externos",
+                    "children": []
+                  },
+                  {
+                    "text": "Próstata",
+                    "children": []
+                  },
+                  {
+                    "text": "Vello sexual",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Base Tx\\Nfinasterida:",
+                "children": [
+                  {
+                    "text": "HPB",
+                    "children": []
+                  },
+                  {
+                    "text": "Alopecia androgenética (2)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. ESTRADIOL\\N(E2)",
+            "children": [
+              {
+                "text": "Conversión por aromatasa",
+                "children": []
+              },
+              {
+                "text": "Unión receptor estrogénico",
+                "children": []
+              },
+              {
+                "text": "Tejidos diana:",
+                "children": [
+                  {
+                    "text": "Hueso",
+                    "children": []
+                  },
+                  {
+                    "text": "Función sexual",
+                    "children": []
+                  },
+                  {
+                    "text": "Grasa corporal (3)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "VÍAS ESPECÍFICAS",
+        "children": [
+          {
+            "text": "VÍA DHT",
+            "children": [
+              {
+                "text": "Órganos diana:",
+                "children": [
+                  {
+                    "text": "Próstata",
+                    "children": []
+                  },
+                  {
+                    "text": "Folículo piloso",
+                    "children": []
+                  },
+                  {
+                    "text": "Genitales externos (4)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "VÍA E2",
+            "children": [
+              {
+                "text": "NECESARIA",
+                "children": [
+                  {
+                    "text": "Cierre epifisario",
+                    "children": []
+                  },
+                  {
+                    "text": "Densidad ósea",
+                    "children": []
+                  },
+                  {
+                    "text": "Líbido",
+                    "children": []
+                  },
+                  {
+                    "text": "Función eréctil",
+                    "children": []
+                  },
+                  {
+                    "text": "Distribución grasa SC/visceral (5)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "NO NECESARIA",
+                "children": [
+                  {
+                    "text": "Masa muscular magra",
+                    "children": []
+                  },
+                  {
+                    "text": "Área muscular muslo",
+                    "children": []
+                  },
+                  {
+                    "text": "Fuerza prensa piernas (6)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "PRINCIPIOS\\NGENERALES TX T",
+        "children": [
+          {
+            "text": "INDICACIONES",
+            "children": [
+              {
+                "text": "CRITERIOS BÁSICOS",
+                "children": [
+                  {
+                    "text": "HM documentado:",
+                    "children": []
+                  },
+                  {
+                    "text": "Síntomas/signos deficiencia androgénica",
+                    "children": []
+                  },
+                  {
+                    "text": "T sérica ↓↓confirmada (1)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "SÍNTOMAS/SIGNOS",
+            "children": [
+              {
+                "text": "ESPECÍFICOS",
+                "children": [
+                  {
+                    "text": "↓líbido",
+                    "children": []
+                  },
+                  {
+                    "text": "↓erecciones matutinas",
+                    "children": []
+                  },
+                  {
+                    "text": "↓vello corporal",
+                    "children": []
+                  },
+                  {
+                    "text": "↓DMO",
+                    "children": []
+                  },
+                  {
+                    "text": "Ginecomastia",
+                    "children": []
+                  },
+                  {
+                    "text": "Testes pequeños (2)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "INESPECÍFICOS",
+                "children": [
+                  {
+                    "text": "Fatiga",
+                    "children": []
+                  },
+                  {
+                    "text": "Depresión",
+                    "children": []
+                  },
+                  {
+                    "text": "Anemia",
+                    "children": []
+                  },
+                  {
+                    "text": "↓fuerza muscular",
+                    "children": []
+                  },
+                  {
+                    "text": "↑masa grasa (3)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "OBJETIVOS",
+            "children": [
+              {
+                "text": "Normalizar T sérica",
+                "children": []
+              },
+              {
+                "text": "No recuperar ritmo circadiano (incierto)",
+                "children": []
+              },
+              {
+                "text": "No indicado para ↓espermatogénesis (4)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "BENEFICIOS\\NCLÍNICOS",
+        "children": [
+          {
+            "text": "FUNCIÓN\\NSEXUAL/VIRILIZACIÓN",
+            "children": [
+              {
+                "text": "Desarrollo/mantenimiento\\Ncaracteres 2arios",
+                "children": []
+              },
+              {
+                "text": "↑líbido (5)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "COMPOSICIÓN\\NCORPORAL",
+            "children": [
+              {
+                "text": "↑22% fuerza press banca",
+                "children": []
+              },
+              {
+                "text": "↑45% fuerza squat",
+                "children": []
+              },
+              {
+                "text": "↑5% masa libre grasa (6)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ÓSEOS",
+            "children": [
+              {
+                "text": "↑DMO 39% primer año",
+                "children": []
+              },
+              {
+                "text": "Mayor respuesta:",
+                "children": []
+              },
+              {
+                "text": "HM no tratado previo",
+                "children": []
+              },
+              {
+                "text": "DMO basal más baja (7)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "PSICOLÓGICOS",
+            "children": [
+              {
+                "text": "ESTADO ÁNIMO",
+                "children": [
+                  {
+                    "text": "Resultados inconsistentes",
+                    "children": []
+                  },
+                  {
+                    "text": "Posible beneficio depresión\\Nsubclínica mayores (8)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "COGNICIÓN",
+                "children": [
+                  {
+                    "text": "Sin cambios significativos (9)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CRONOLOGÍA\\NEFECTOS",
+        "children": [
+          {
+            "text": "PRECOCES (3-6m)",
+            "children": [
+              {
+                "text": "↑masa libre grasa",
+                "children": []
+              },
+              {
+                "text": "↑volumen prostático",
+                "children": []
+              },
+              {
+                "text": "↑eritropoyesis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "↑energía",
+            "children": []
+          },
+          {
+            "text": "↑función sexual (10)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "TARDÍOS",
+        "children": [
+          {
+            "text": "DMO: efecto máximo 24m (11)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ENFOQUE GENERAL\\NTRATAMIENTO",
+        "children": []
+      },
+      {
+        "text": "CANDIDATOS APROPIADOS",
+        "children": []
+      },
+      {
+        "text": "CRITERIOS DIAGNÓSTICOS",
+        "children": []
+      },
+      {
+        "text": "Síntomas/signos\\Ndeficiencia androgénica",
+        "children": []
+      },
+      {
+        "text": "T matutina (8-10AM) ↓ x3",
+        "children": []
+      },
+      {
+        "text": "Ayunas (glucosa oral ↓T) (1)",
+        "children": []
+      },
+      {
+        "text": "GRUPOS ESPECÍFICOS",
+        "children": []
+      },
+      {
+        "text": "INDICADO",
+        "children": []
+      },
+      {
+        "text": "HM documentado",
+        "children": []
+      },
+      {
+        "text": "Mayores\\Nsintomáticos +\\NT↓↓ (2)",
+        "children": []
+      },
+      {
+        "text": "NO INDICADO",
+        "children": []
+      },
+      {
+        "text": "Sanos mediana edad",
+        "children": []
+      },
+      {
+        "text": "Síntomas vagos + T↓ única",
+        "children": []
+      },
+      {
+        "text": "Uso \"prueba\" (3)",
+        "children": []
+      },
+      {
+        "text": "ELECCIÓN RÉGIMEN T",
+        "children": []
+      },
+      {
+        "text": "PREFERENCIA",
+        "children": []
+      },
+      {
+        "text": "Geles T → niveles estables",
+        "children": []
+      },
+      {
+        "text": "Considerar:",
+        "children": []
+      },
+      {
+        "text": "Preferencia paciente",
+        "children": []
+      },
+      {
+        "text": "Coste",
+        "children": []
+      },
+      {
+        "text": "Conveniencia",
+        "children": []
+      },
+      {
+        "text": "Cobertura seguro (4)",
+        "children": []
+      },
+      {
+        "text": "FORMULACIONES\\NDISPONIBLES",
+        "children": []
+      },
+      {
+        "text": "TÓPICAS/TRANSDÉRMICAS",
+        "children": []
+      },
+      {
+        "text": "GELES (1-2%)",
+        "children": []
+      },
+      {
+        "text": "AndroGel",
+        "children": []
+      },
+      {
+        "text": "Testim",
+        "children": []
+      },
+      {
+        "text": "Fortesta",
+        "children": []
+      },
+      {
+        "text": "Axiron (solución) (5)",
+        "children": []
+      },
+      {
+        "text": "PARCHES",
+        "children": []
+      },
+      {
+        "text": "Androderm (no UK)",
+        "children": []
+      },
+      {
+        "text": "Matriz transdérmica\\N(fuera USA) (6)",
+        "children": []
+      },
+      {
+        "text": "PARENTERALES",
+        "children": []
+      },
+      {
+        "text": "IM ACCIÓN LARGA",
+        "children": []
+      },
+      {
+        "text": "T enantato/cipionato",
+        "children": []
+      },
+      {
+        "text": "50-100mg/sem",
+        "children": []
+      },
+      {
+        "text": "100-200mg/2sem",
+        "children": []
+      },
+      {
+        "text": "Ventajas:",
+        "children": []
+      },
+      {
+        "text": "Eficacia biológica\\Ncomprobada",
+        "children": []
+      },
+      {
+        "text": "Administración espaciada",
+        "children": []
+      },
+      {
+        "text": "Desventajas:",
+        "children": []
+      },
+      {
+        "text": "Inyección IM profunda",
+        "children": []
+      },
+      {
+        "text": "Fluctuación niveles T (7)",
+        "children": []
+      },
+      {
+        "text": "IM ACCIÓN EXTRALARGA",
+        "children": []
+      },
+      {
+        "text": "T undecanoato",
+        "children": []
+      },
+      {
+        "text": "750-1000mg/10-14sem",
+        "children": []
+      },
+      {
+        "text": "Solo clínicas registradas",
+        "children": []
+      },
+      {
+        "text": "Monitorización 30min post",
+        "children": []
+      },
+      {
+        "text": "Riesgos:",
+        "children": []
+      },
+      {
+        "text": "Microembolismo pulmonar",
+        "children": []
+      },
+      {
+        "text": "Anafilaxia (8)",
+        "children": []
+      },
+      {
+        "text": "SC",
+        "children": []
+      },
+      {
+        "text": "T enantato autoinyector",
+        "children": []
+      },
+      {
+        "text": "Semanal",
+        "children": []
+      },
+      {
+        "text": "Experiencia limitada (9)",
+        "children": []
+      },
+      {
+        "text": "ORALES",
+        "children": []
+      },
+      {
+        "text": "Metiltestosterona (no\\Nrecomendada)",
+        "children": []
+      },
+      {
+        "text": "T undecanoato:",
+        "children": []
+      },
+      {
+        "text": "Absorción linfática",
+        "children": []
+      },
+      {
+        "text": "Riesgo CV",
+        "children": []
+      },
+      {
+        "text": "Evitar mayores (10)",
+        "children": []
+      },
+      {
+        "text": "ABREVIATURAS\\NADICIONALES",
+        "children": []
+      },
+      {
+        "text": "IM: intramuscular",
+        "children": []
+      },
+      {
+        "text": "SC: subcutánea",
+        "children": []
+      },
+      {
+        "text": "CV: cardiovascular",
+        "children": []
+      },
+      {
+        "text": "sem: semanas",
+        "children": []
+      },
+      {
+        "text": "min: minutos",
+        "children": []
+      },
+      {
+        "text": "UK: Reino Unido",
+        "children": []
+      },
+      {
+        "text": "USA: Estados Unidos",
+        "children": []
+      },
+      {
+        "text": "REFERENCIAS",
+        "children": []
+      },
+      {
+        "text": "(1-10) Testosterone treatment of male\\Nhypogonadism. 2024 CopyRetryOther",
+        "children": []
+      },
+      {
+        "text": "●A buccal tablet (Ѕtriаnt SR) is no longer\\Navailable in the United States (table 1).",
+        "children": []
+      },
+      {
+        "text": "●A subcutaneous testosterone pellet\\N(Τеѕtοреl) is available. The recommended\\Ndosing is two to six 75 mg tеѕtpastedC",
+        "children": []
+      },
+      {
+        "text": "OTRAS\\NFORMULACIONES/CONSIDERACIONES",
+        "children": []
+      },
+      {
+        "text": "OTRAS VÍAS\\NADMINISTRACIÓN",
+        "children": []
+      },
+      {
+        "text": "BUCAL",
+        "children": []
+      },
+      {
+        "text": "Striant SR",
+        "children": []
+      },
+      {
+        "text": "No disponible USA (1)",
+        "children": []
+      },
+      {
+        "text": "PELLETS SC",
+        "children": []
+      },
+      {
+        "text": "Testopel",
+        "children": []
+      },
+      {
+        "text": "2-6 pellets 75mg/3-6m",
+        "children": []
+      },
+      {
+        "text": "Zona:\\Nglúteos/abdomen/muslo",
+        "children": []
+      },
+      {
+        "text": "Complicaciones:",
+        "children": []
+      },
+      {
+        "text": "Extrusión",
+        "children": []
+      },
+      {
+        "text": "Infección",
+        "children": []
+      },
+      {
+        "text": "Fibrosis",
+        "children": []
+      },
+      {
+        "text": "No recomendado\\Nrutinariamente (2)",
+        "children": []
+      },
+      {
+        "text": "GEL NASAL",
+        "children": []
+      },
+      {
+        "text": "Natesto",
+        "children": []
+      },
+      {
+        "text": "11mg (2 puff) x3/día",
+        "children": []
+      },
+      {
+        "text": "Ventajas:",
+        "children": []
+      },
+      {
+        "text": "No transferencia",
+        "children": []
+      },
+      {
+        "text": "Desventajas:",
+        "children": []
+      },
+      {
+        "text": "Régimen TID",
+        "children": []
+      },
+      {
+        "text": "Problemas nasales/sinusales",
+        "children": []
+      },
+      {
+        "text": "T cerebral ↑↑ (datos ratón)",
+        "children": []
+      },
+      {
+        "text": "No recomendado\\Nrutinariamente (3)",
+        "children": []
+      },
+      {
+        "text": "hCG",
+        "children": []
+      },
+      {
+        "text": "No androgénico",
+        "children": []
+      },
+      {
+        "text": "Estimula\\Nproducción\\NT/esperma",
+        "children": []
+      },
+      {
+        "text": "SC/IM 2-3/sem (4)",
+        "children": []
+      },
+      {
+        "text": "EFECTOS FERTILIDAD",
+        "children": []
+      },
+      {
+        "text": "SUPRESIÓN\\NESPERMATOGÉNESIS",
+        "children": []
+      },
+      {
+        "text": "T exógena → ↓LH →\\N↓T intratesticular",
+        "children": []
+      },
+      {
+        "text": "Informar pre-Tx",
+        "children": []
+      },
+      {
+        "text": "Valorar deseo fertilidad",
+        "children": []
+      },
+      {
+        "text": "Alternativas si\\Nfertilidad deseada (5)",
+        "children": []
+      },
+      {
+        "text": "USO ANTICONCEPTIVO",
+        "children": []
+      },
+      {
+        "text": "T + progestágeno",
+        "children": []
+      },
+      {
+        "text": "T undecanoato 1000mg +\\Nnoretisterona 200mg/8sem",
+        "children": []
+      },
+      {
+        "text": "Eficacia 98.4%",
+        "children": []
+      },
+      {
+        "text": "RAM:",
+        "children": []
+      },
+      {
+        "text": "Cambios humor",
+        "children": []
+      },
+      {
+        "text": "Depresión",
+        "children": []
+      },
+      {
+        "text": "Dolor inyección",
+        "children": []
+      },
+      {
+        "text": "↑líbido (6)",
+        "children": []
+      },
+      {
+        "text": "CONTRAINDICACIONES",
+        "children": []
+      },
+      {
+        "text": "ABSOLUTAS",
+        "children": []
+      },
+      {
+        "text": "Ca próstata activo",
+        "children": []
+      },
+      {
+        "text": "Ca mama",
+        "children": []
+      },
+      {
+        "text": "Eritrocitosis (Hto >50%)",
+        "children": []
+      },
+      {
+        "text": "IC descompensada (7)",
+        "children": []
+      },
+      {
+        "text": "RELATIVAS (TRATAR PRE-T)",
+        "children": []
+      },
+      {
+        "text": "STUI severos (IPSS >19)",
+        "children": []
+      },
+      {
+        "text": "SAOS severo no tratado (8)",
+        "children": []
+      },
+      {
+        "text": "EVALUACIÓN PREVIA",
+        "children": []
+      },
+      {
+        "text": "50a o >40a alto riesgo:",
+        "children": []
+      },
+      {
+        "text": "TR",
+        "children": []
+      },
+      {
+        "text": "PSA",
+        "children": []
+      },
+      {
+        "text": "PSA >4 o >3 alto\\Nriesgo → urología",
+        "children": []
+      },
+      {
+        "text": "IPSS si síntomas",
+        "children": []
+      },
+      {
+        "text": "Flujo/residuo si indicado",
+        "children": []
+      },
+      {
+        "text": "Screening SAOS si\\Nsíntomas (9)",
+        "children": []
+      },
+      {
+        "text": "ABREVIATURAS\\NADICIONALES",
+        "children": []
+      },
+      {
+        "text": "STUI: síntomas tracto\\Nurinario inferior",
+        "children": []
+      },
+      {
+        "text": "SAOS: síndrome apnea\\Nobstructiva sueño",
+        "children": []
+      },
+      {
+        "text": "IPSS: International\\NProstate Symptom Score",
+        "children": []
+      },
+      {
+        "text": "TR: tacto rectal",
+        "children": []
+      },
+      {
+        "text": "IC: insuficiencia cardíaca",
+        "children": []
+      },
+      {
+        "text": "RAM: reacciones\\Nadversas\\Nmedicamentosas",
+        "children": []
+      },
+      {
+        "text": "Ca: cáncer",
+        "children": []
+      },
+      {
+        "text": "Hto: hematocrito",
+        "children": []
+      },
+      {
+        "text": "TID: tres veces al día",
+        "children": []
+      },
+      {
+        "text": "REFERENCIAS",
+        "children": []
+      },
+      {
+        "text": "(1-9) Testosterone treatment of male\\Nhypogonadism. 2024 CopyRetryMonitoring",
+        "children": []
+      },
+      {
+        "text": "Is the testosterone\\Ndose therapeutic?",
+        "children": []
+      },
+      {
+        "text": "Serum testosterone concentration — Patients who are treated\\Nwith testosterone should be monitored to determine that normal\\Nserum tеѕtοѕtеrοոe concentpastedC",
+        "children": []
+      },
+      {
+        "text": "MONITORIZACIÓN TX T",
+        "children": []
+      },
+      {
+        "text": "EFICACIA TERAPÉUTICA",
+        "children": []
+      },
+      {
+        "text": "T SÉRICA",
+        "children": []
+      },
+      {
+        "text": "INTERVALOS",
+        "children": []
+      },
+      {
+        "text": "Inicio: 2-3m",
+        "children": []
+      },
+      {
+        "text": "Cambio dosis: 2-3m",
+        "children": []
+      },
+      {
+        "text": "Estable: 6-12m (1)",
+        "children": []
+      },
+      {
+        "text": "TIMING SEGÚN\\NFORMULACIÓN",
+        "children": []
+      },
+      {
+        "text": "T IM: mitad intervalo\\N→ 500-600 ng/dL",
+        "children": []
+      },
+      {
+        "text": "Transdérmica:\\Ncualquier momento",
+        "children": []
+      },
+      {
+        "text": "Gel: 2\\Ndeterminaciones\\Npre-ajuste",
+        "children": []
+      },
+      {
+        "text": "HP: normalización LH (2)",
+        "children": []
+      },
+      {
+        "text": "DMO",
+        "children": []
+      },
+      {
+        "text": "Si fx/osteoporosis inicial",
+        "children": []
+      },
+      {
+        "text": "Cada 2 años hasta:",
+        "children": []
+      },
+      {
+        "text": "Normal",
+        "children": []
+      },
+      {
+        "text": "Estabilización",
+        "children": []
+      },
+      {
+        "text": "Si persiste ↓→ Tx\\Nespecífico (3)",
+        "children": []
+      },
+      {
+        "text": "EFECTOS ADVERSOS",
+        "children": []
+      },
+      {
+        "text": "PRÓSTATA",
+        "children": []
+      },
+      {
+        "text": "CA PRÓSTATA",
+        "children": []
+      },
+      {
+        "text": "↑volumen/PSA →\\Nvalores nl edad",
+        "children": []
+      },
+      {
+        "text": "Monitorizar\\N>50a/>40a alto\\Nriesgo:",
+        "children": []
+      },
+      {
+        "text": "3m post inicio",
+        "children": []
+      },
+      {
+        "text": "12m post inicio",
+        "children": []
+      },
+      {
+        "text": "Luego según protocolo",
+        "children": []
+      },
+      {
+        "text": "Derivar urología si:",
+        "children": []
+      },
+      {
+        "text": "Nódulo",
+        "children": []
+      },
+      {
+        "text": "↑PSA >1.4 ng/mL/año",
+        "children": []
+      },
+      {
+        "text": "PSA >4 ng/dL (4)",
+        "children": []
+      },
+      {
+        "text": "HPB",
+        "children": []
+      },
+      {
+        "text": "No ↑significativo STUI",
+        "children": []
+      },
+      {
+        "text": "TT no contraindicada (5)",
+        "children": []
+      },
+      {
+        "text": "HEMATOLÓGICOS",
+        "children": []
+      },
+      {
+        "text": "ERITROCITOSIS",
+        "children": []
+      },
+      {
+        "text": "Frecuente (esp. T IM)",
+        "children": []
+      },
+      {
+        "text": "Monitorizar:",
+        "children": []
+      },
+      {
+        "text": "3-6m inicio",
+        "children": []
+      },
+      {
+        "text": "Anual",
+        "children": []
+      },
+      {
+        "text": "Si Hto >54%:",
+        "children": []
+      },
+      {
+        "text": "Buscar causa",
+        "children": []
+      },
+      {
+        "text": "↓dosis/suspender",
+        "children": []
+      },
+      {
+        "text": "Control 2m",
+        "children": []
+      },
+      {
+        "text": "Evaluar hipoxia/SAOS",
+        "children": []
+      },
+      {
+        "text": "Considerar flebotomía (6)",
+        "children": []
+      },
+      {
+        "text": "TEV",
+        "children": []
+      },
+      {
+        "text": "Riesgo ↑ (esp. trombofilias)",
+        "children": []
+      },
+      {
+        "text": "Historia\\Npersonal/familiar\\Npre-Tx",
+        "children": []
+      },
+      {
+        "text": "No screening rutinario\\Ntrombofilias (7)",
+        "children": []
+      },
+      {
+        "text": "CARDIOVASCULARES",
+        "children": []
+      },
+      {
+        "text": "RIESGO CV",
+        "children": []
+      },
+      {
+        "text": "Datos contradictorios",
+        "children": []
+      },
+      {
+        "text": "↑riesgo posible en:",
+        "children": []
+      },
+      {
+        "text": "65a",
+        "children": []
+      },
+      {
+        "text": "Cardiopatía previa",
+        "children": []
+      },
+      {
+        "text": "T IM > T gel:",
+        "children": []
+      },
+      {
+        "text": "IM: ↑IM/ACV",
+        "children": []
+      },
+      {
+        "text": "Riesgo absoluto bajo (8)",
+        "children": []
+      },
+      {
+        "text": "CUTÁNEOS",
+        "children": []
+      },
+      {
+        "text": "Parches: rash frecuente",
+        "children": []
+      },
+      {
+        "text": "Geles: irritación\\Nleve ocasional (9)",
+        "children": []
+      },
+      {
+        "text": "EXPOSICIÓN 2ARIA",
+        "children": []
+      },
+      {
+        "text": "Riesgo bajo con\\Nprecauciones:",
+        "children": []
+      },
+      {
+        "text": "Lavado manos\\Npost aplicación",
+        "children": []
+      },
+      {
+        "text": "Evitar contacto hasta secado",
+        "children": []
+      },
+      {
+        "text": "No mojar 5h",
+        "children": []
+      },
+      {
+        "text": "Casos reportados niños:",
+        "children": []
+      },
+      {
+        "text": "Virilización",
+        "children": []
+      },
+      {
+        "text": "Pubertad precoz (10)",
+        "children": []
+      },
+      {
+        "text": "ABREVIATURAS\\NADICIONALES",
+        "children": []
+      },
+      {
+        "text": "TEV:\\Ntromboembolismo\\Nvenoso",
+        "children": []
+      },
+      {
+        "text": "fx: fractura",
+        "children": []
+      },
+      {
+        "text": "esp.: especialmente",
+        "children": []
+      },
+      {
+        "text": "CV: cardiovascular",
+        "children": []
+      },
+      {
+        "text": "ACV: accidente\\Ncerebrovascular",
+        "children": []
+      },
+      {
+        "text": "2aria: secundaria",
+        "children": []
+      },
+      {
+        "text": "INDUCCIÓN FERTILIDAD EN\\NHIPOGONADISMO SECUNDARIO\\NMASCULINO",
+        "children": []
+      },
+      {
+        "text": "Eval. pretratamiento:\\NPacientes respondedores",
+        "children": []
+      },
+      {
+        "text": "CONCEPTOS BÁSICOS",
+        "children": []
+      },
+      {
+        "text": "Hipogonadismo 1° (HG1) → daño tubular → NO\\Ninducción espermatogénesis (1)",
+        "children": []
+      },
+      {
+        "text": "Hipogonadismo 2° (HG2):",
+        "children": []
+      },
+      {
+        "text": "Causa hipofisaria → tto:\\Ngonadotropinas (2)",
+        "children": []
+      },
+      {
+        "text": "Causa hipotalámica → tto:\\Ngonadotropinas o GnRH pulsátil (2)",
+        "children": []
+      },
+      {
+        "text": "FACTORES\\NPRONÓSTICO\\NFAVORABLE",
+        "children": []
+      },
+      {
+        "text": "TEMPORALIDAD:",
+        "children": []
+      },
+      {
+        "text": "HG2 postpuberal ✓",
+        "children": []
+      },
+      {
+        "text": "→ recuento esperm.\\N>40M/eyac: 100% casos (3)",
+        "children": []
+      },
+      {
+        "text": "HG2 prepuberal ✗",
+        "children": []
+      },
+      {
+        "text": "→ recuento esperm.\\N>40M/eyac: 12.5% casos (3)",
+        "children": []
+      },
+      {
+        "text": "SEVERIDAD:",
+        "children": []
+      },
+      {
+        "text": "HG2 parcial ✓",
+        "children": []
+      },
+      {
+        "text": "→ Testículos: menos\\Npequeños (4,5,6,7)",
+        "children": []
+      },
+      {
+        "text": "→ FSH, inhibina B,\\Ntestosterona: menos bajas (8)",
+        "children": []
+      },
+      {
+        "text": "HG2 completo ✗",
+        "children": []
+      },
+      {
+        "text": "DESCENSO TESTICULAR:",
+        "children": []
+      },
+      {
+        "text": "Normal/1er año ✓",
+        "children": []
+      },
+      {
+        "text": "Criptorquidia ✗",
+        "children": []
+      },
+      {
+        "text": "→ éxito tto: 14.3% (9,10,11)",
+        "children": []
+      },
+      {
+        "text": "TTO PREVIO:",
+        "children": []
+      },
+      {
+        "text": "Sin testosterona previa ✓ →\\Nrespuesta más rápida (12)",
+        "children": []
+      },
+      {
+        "text": "Meta-análisis posterior:\\Nsin diferencias (13)",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS ESPERADOS",
+        "children": []
+      },
+      {
+        "text": "Aparición esperm:\\N90% casos (14)",
+        "children": []
+      },
+      {
+        "text": "Si no embarazo\\Nespontáneo →\\Nopciones:",
+        "children": []
+      },
+      {
+        "text": "Inseminación intrauterina",
+        "children": []
+      },
+      {
+        "text": "FIV +/- ICSI (15,16)",
+        "children": []
+      },
+      {
+        "text": "Referencias: (1-16) [números\\Ncorresponden a citas originales]\\NCopyRetryGONADOTROPIN THERAPY",
+        "children": []
+      },
+      {
+        "text": "Secondary hурοgοոadism is associated with decreased secretion of the\\Ngοոаԁοtrорins luteinizing hormone (ԼН) and follicle-stimulating hormone\\N(FSΗ), resulting in reductions in tеѕpastedC",
+        "children": []
+      },
+      {
+        "text": "TERAPIA CON\\NGONADOTROPINAS EN\\NHG2",
+        "children": []
+      },
+      {
+        "text": "BASES FISIOPATOLÓGICAS",
+        "children": []
+      },
+      {
+        "text": "HG2 → ↓LH + ↓FSH →\\N↓testosterona +\\N↓espermatogénesis",
+        "children": []
+      },
+      {
+        "text": "Reemplazo LH: restaura\\Ntestosterona 100%",
+        "children": []
+      },
+      {
+        "text": "Reemplazo LH ± FSH: restaura\\Nespermatogénesis >50%",
+        "children": []
+      },
+      {
+        "text": "PROTOCOLO\\NINICIAL: hCG (≈LH)",
+        "children": []
+      },
+      {
+        "text": "FUNDAMENTOS\\NPREFERENCIA hCG:",
+        "children": []
+      },
+      {
+        "text": "→ testosterona\\Nintratesticular x100 (1)",
+        "children": []
+      },
+      {
+        "text": "Suficiente monoterapia (2)",
+        "children": []
+      },
+      {
+        "text": "< costo vs FSH (3)",
+        "children": []
+      },
+      {
+        "text": "RÉGIMEN:",
+        "children": []
+      },
+      {
+        "text": "Vía: IM/SC muslo",
+        "children": []
+      },
+      {
+        "text": "Dosis: 2000UI x3/sem",
+        "children": []
+      },
+      {
+        "text": "Preparación:\\N5000-10000UI/2.\\N5-5mL",
+        "children": []
+      },
+      {
+        "text": "MONITOREO:",
+        "children": []
+      },
+      {
+        "text": "Testosterona c/1-2 meses",
+        "children": []
+      },
+      {
+        "text": "Meta: 400-800 ng/dL",
+        "children": []
+      },
+      {
+        "text": "Ajuste dosis:",
+        "children": []
+      },
+      {
+        "text": "→ ↑: si no alcanza meta",
+        "children": []
+      },
+      {
+        "text": "→ ↓: si supera meta",
+        "children": []
+      },
+      {
+        "text": "Recuento esperm.\\Nc/1-3 meses",
+        "children": []
+      },
+      {
+        "text": "ADICIÓN FSH",
+        "children": []
+      },
+      {
+        "text": "INDICACIÓN:",
+        "children": []
+      },
+      {
+        "text": "Esperm. <5-10M/mL tras 6m",
+        "children": []
+      },
+      {
+        "text": "No embarazo +\\Ntestosterona nl",
+        "children": []
+      },
+      {
+        "text": "OPCIONES:",
+        "children": []
+      },
+      {
+        "text": "hMG (FSH+LH) ✓",
+        "children": []
+      },
+      {
+        "text": "→ Dosis: 75UI x3/sem SC",
+        "children": []
+      },
+      {
+        "text": "→ ↑150UI si no\\Nrespuesta 6m",
+        "children": []
+      },
+      {
+        "text": "rhFSH ✗ (> costo, = eficacia)",
+        "children": []
+      },
+      {
+        "text": "Corifolitropina α\\N(experimental)",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS",
+        "children": []
+      },
+      {
+        "text": "TIEMPO RESPUESTA:",
+        "children": []
+      },
+      {
+        "text": "1° esperma: 7.1m\\N(IC95% 6.3-10.1)",
+        "children": []
+      },
+      {
+        "text": "Concepción: 28.2m\\N(IC95% 21.6-38.5)",
+        "children": []
+      },
+      {
+        "text": "SI NO EMBARAZO (12-24m):",
+        "children": []
+      },
+      {
+        "text": "IUI",
+        "children": []
+      },
+      {
+        "text": "FIV",
+        "children": []
+      },
+      {
+        "text": "ICSI",
+        "children": []
+      },
+      {
+        "text": "POST-EMBARAZO:",
+        "children": []
+      },
+      {
+        "text": "Suspender hMG 1° trimestre",
+        "children": []
+      },
+      {
+        "text": "Mantener hCG si\\Ndesea + hijos",
+        "children": []
+      },
+      {
+        "text": "Opción: criopreservación",
+        "children": []
+      },
+      {
+        "text": "Si no desea + hijos:",
+        "children": []
+      },
+      {
+        "text": "→ hCG o testosterona",
+        "children": []
+      },
+      {
+        "text": "GnRH PULSÁTIL EN HG2",
+        "children": []
+      },
+      {
+        "text": "INDICACIONES",
+        "children": []
+      },
+      {
+        "text": "HG2 origen hipotalámico ✓",
+        "children": []
+      },
+      {
+        "text": "HG2 origen hipofisario ✗",
+        "children": []
+      },
+      {
+        "text": "EVIDENCIA EFICACIA",
+        "children": []
+      },
+      {
+        "text": "vs GONADOTROPINAS:",
+        "children": []
+      },
+      {
+        "text": "Estudios iniciales:\\N= eficacia (1,2)",
+        "children": []
+      },
+      {
+        "text": "Estudios recientes:",
+        "children": []
+      },
+      {
+        "text": "→ > producción esperm.",
+        "children": []
+      },
+      {
+        "text": "→ < tiempo respuesta (3)",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES:",
+        "children": []
+      },
+      {
+        "text": "Bomba SC infusión",
+        "children": []
+      },
+      {
+        "text": "Alto costo",
+        "children": []
+      },
+      {
+        "text": "Disponibilidad ↓↓",
+        "children": []
+      },
+      {
+        "text": "No disponible USA",
+        "children": []
+      },
+      {
+        "text": "PROTOCOLO",
+        "children": []
+      },
+      {
+        "text": "BASE FISIOLÓGICA:",
+        "children": []
+      },
+      {
+        "text": "Pulsos c/2h →\\Nestimula hipófisis",
+        "children": []
+      },
+      {
+        "text": "Secreción LH/FSH →\\Ntestost + esperm.",
+        "children": []
+      },
+      {
+        "text": "ADMINISTRACIÓN:",
+        "children": []
+      },
+      {
+        "text": "Vía: SC continua",
+        "children": []
+      },
+      {
+        "text": "Dosis inicial: 25ng/kg",
+        "children": []
+      },
+      {
+        "text": "Ajuste: hasta 600ng/kg (4)",
+        "children": []
+      },
+      {
+        "text": "Duración: hasta embarazo",
+        "children": []
+      },
+      {
+        "text": "RESPUESTA:",
+        "children": []
+      },
+      {
+        "text": "Testosterona: 100% casos",
+        "children": []
+      },
+      {
+        "text": "Esperm.: 12m-3a",
+        "children": []
+      },
+      {
+        "text": "Ejemplo (n=23):",
+        "children": []
+      },
+      {
+        "text": "→ 87% respondedores",
+        "children": []
+      },
+      {
+        "text": "→ Media: 96M\\Nesperm/mL (5)",
+        "children": []
+      },
+      {
+        "text": "PRONÓSTICO FAVORABLE",
+        "children": []
+      },
+      {
+        "text": "Maduración sexual previa",
+        "children": []
+      },
+      {
+        "text": "Sin criptorquidia",
+        "children": []
+      },
+      {
+        "text": "Inhibina B >60 pg/mL (6)",
+        "children": []
+      },
+      {
+        "text": "CITRATO\\NCLOMIFENO (CC) EN\\NHG2",
+        "children": []
+      },
+      {
+        "text": "GENERALIDADES",
+        "children": []
+      },
+      {
+        "text": "Uso off-label",
+        "children": []
+      },
+      {
+        "text": "Antagonista débil\\Nreceptor estrógeno",
+        "children": []
+      },
+      {
+        "text": "Estimula secreción\\Ngonadotropinas",
+        "children": []
+      },
+      {
+        "text": "EFICACIA POR ETIOLOGÍA",
+        "children": []
+      },
+      {
+        "text": "HG2 HIPOTALÁMICO:",
+        "children": []
+      },
+      {
+        "text": "Resultados variables",
+        "children": []
+      },
+      {
+        "text": "Caso (n=3) HG2 idiopático:",
+        "children": []
+      },
+      {
+        "text": "→ Testosterona: ↑ nl/casi nl",
+        "children": []
+      },
+      {
+        "text": "→ Densidad esperm:\\N↑ nl/casi nl (1)",
+        "children": []
+      },
+      {
+        "text": "CONTRAINDICADO/INEFICAZ:",
+        "children": []
+      },
+      {
+        "text": "HG2 hipofisario",
+        "children": []
+      },
+      {
+        "text": "Infertilidad idiopática (2)",
+        "children": []
+      },
+      {
+        "text": "FISIOLOGÍA REPRODUCTIVA\\NMASCULINA: EJE H-H-T",
+        "children": []
+      },
+      {
+        "text": "ESTRUCTURA BÁSICA",
+        "children": []
+      },
+      {
+        "text": "HIPOTÁLAMO:",
+        "children": []
+      },
+      {
+        "text": "GnRH pulsátil →\\Nc/90-120min",
+        "children": []
+      },
+      {
+        "text": "Generador pulsos:\\Nn.arcuato (1)",
+        "children": []
+      },
+      {
+        "text": "HIPÓFISIS:",
+        "children": []
+      },
+      {
+        "text": "LH + FSH: glicoproteínas",
+        "children": []
+      },
+      {
+        "text": "Vida media: hCG >\\NFSH > LH (2)",
+        "children": []
+      },
+      {
+        "text": "TESTÍCULO:",
+        "children": []
+      },
+      {
+        "text": "Producción\\Ntestosterona:\\N5-7mg/día",
+        "children": []
+      },
+      {
+        "text": "LH → cél.Leydig\\N→ testosterona",
+        "children": []
+      },
+      {
+        "text": "FSH → cél.Sertoli →\\Nespermatogénesis",
+        "children": []
+      },
+      {
+        "text": "REGULADORES GnRH",
+        "children": []
+      },
+      {
+        "text": "ESTIMULADORES:",
+        "children": []
+      },
+      {
+        "text": "Kisspeptina +\\Nreceptor KISS1R",
+        "children": []
+      },
+      {
+        "text": "Sistema KNDy (3)",
+        "children": []
+      },
+      {
+        "text": "GABA",
+        "children": []
+      },
+      {
+        "text": "Glutamato",
+        "children": []
+      },
+      {
+        "text": "Leptina",
+        "children": []
+      },
+      {
+        "text": "INHIBIDORES:",
+        "children": []
+      },
+      {
+        "text": "Esteroides sexuales",
+        "children": []
+      },
+      {
+        "text": "Corticoides",
+        "children": []
+      },
+      {
+        "text": "Opioides",
+        "children": []
+      },
+      {
+        "text": "RETROALIMENTACIÓN\\NNEGATIVA",
+        "children": []
+      },
+      {
+        "text": "CONTROL LH:",
+        "children": []
+      },
+      {
+        "text": "Testosterona → hipófisis",
+        "children": []
+      },
+      {
+        "text": "Estradiol → hipotálamo",
+        "children": []
+      },
+      {
+        "text": "DHT → ambos niveles (4,5)",
+        "children": []
+      },
+      {
+        "text": "CONTROL FSH:",
+        "children": []
+      },
+      {
+        "text": "Inhibina B: principal (6,7,8)",
+        "children": []
+      },
+      {
+        "text": "Estradiol > testosterona (9)",
+        "children": []
+      },
+      {
+        "text": "MODULACIÓN EN ESTRÉS",
+        "children": []
+      },
+      {
+        "text": "FACTORES SUPRESORES:",
+        "children": []
+      },
+      {
+        "text": "CRH ↑",
+        "children": []
+      },
+      {
+        "text": "Citoquinas ↑",
+        "children": []
+      },
+      {
+        "text": "Dopamina ↑",
+        "children": []
+      },
+      {
+        "text": "Opioides ↑",
+        "children": []
+      },
+      {
+        "text": "OTRAS CAUSAS\\NSUPRESIÓN:",
+        "children": []
+      },
+      {
+        "text": "Ayuno/restricción calórica",
+        "children": []
+      },
+      {
+        "text": "Opioides exógenos",
+        "children": []
+      },
+      {
+        "text": "Corticoides",
+        "children": []
+      },
+      {
+        "text": "Hiperprolactinemia (10)",
+        "children": []
+      },
+      {
+        "text": "ESTRUCTURA TESTICULAR",
+        "children": []
+      },
+      {
+        "text": "COMPARTIMENTOS",
+        "children": []
+      },
+      {
+        "text": "INTERSTICIAL (10-20%):",
+        "children": []
+      },
+      {
+        "text": "Cél. Leydig: testosterona",
+        "children": []
+      },
+      {
+        "text": "Cél. mioides peritubulares",
+        "children": []
+      },
+      {
+        "text": "Fibroblastos",
+        "children": []
+      },
+      {
+        "text": "Cél. neurovasculares",
+        "children": []
+      },
+      {
+        "text": "Macrófagos",
+        "children": []
+      },
+      {
+        "text": "TUBULAR (80-90%):",
+        "children": []
+      },
+      {
+        "text": "Cél. Sertoli: inhibina B",
+        "children": []
+      },
+      {
+        "text": "Cél. germinales:",
+        "children": []
+      },
+      {
+        "text": "→ Espermatogonias",
+        "children": []
+      },
+      {
+        "text": "→ Espermatocitos",
+        "children": []
+      },
+      {
+        "text": "→ Espermátides",
+        "children": []
+      },
+      {
+        "text": "→ Espermatozoides",
+        "children": []
+      },
+      {
+        "text": "ARQUITECTURA",
+        "children": []
+      },
+      {
+        "text": "LÁMINA BASAL:",
+        "children": []
+      },
+      {
+        "text": "Matriz extracelular",
+        "children": []
+      },
+      {
+        "text": "Separa compartimentos",
+        "children": []
+      },
+      {
+        "text": "Soporte estructural",
+        "children": []
+      },
+      {
+        "text": "BARRERA\\NHEMATO-TESTICULAR:",
+        "children": []
+      },
+      {
+        "text": "Uniones estrechas Sertoli",
+        "children": []
+      },
+      {
+        "text": "Divide:",
+        "children": []
+      },
+      {
+        "text": "→ Zona basal:\\Nespermatogonias",
+        "children": []
+      },
+      {
+        "text": "→ Zona luminal: cél.\\Ndiferenciadas",
+        "children": []
+      },
+      {
+        "text": "ESPERMATOGÉNESIS",
+        "children": []
+      },
+      {
+        "text": "MIGRACIÓN CELULAR:",
+        "children": []
+      },
+      {
+        "text": "Espermatogonias → lumen",
+        "children": []
+      },
+      {
+        "text": "Atraviesan uniones Sertoli",
+        "children": []
+      },
+      {
+        "text": "Diferenciación secuencial:",
+        "children": []
+      },
+      {
+        "text": "Espermatogonia →",
+        "children": []
+      },
+      {
+        "text": "Espermatocito →",
+        "children": []
+      },
+      {
+        "text": "Espermátide →",
+        "children": []
+      },
+      {
+        "text": "Espermatozoide",
+        "children": []
+      },
+      {
+        "text": "CONDUCTOS SALIDA:",
+        "children": []
+      },
+      {
+        "text": "Rete testis",
+        "children": []
+      },
+      {
+        "text": "Epidídimo",
+        "children": []
+      },
+      {
+        "text": "Conducto deferente",
+        "children": []
+      },
+      {
+        "text": "Eyaculación",
+        "children": []
+      },
+      {
+        "text": "COMPARTIMENTO\\NINTERSTICIAL",
+        "children": []
+      },
+      {
+        "text": "SÍNTESIS TESTOSTERONA",
+        "children": []
+      },
+      {
+        "text": "ORIGEN COLESTEROL:",
+        "children": []
+      },
+      {
+        "text": "Síntesis Leydig",
+        "children": []
+      },
+      {
+        "text": "Circulante (LDL)",
+        "children": []
+      },
+      {
+        "text": "REGULACIÓN: LH\\N→ proteínas:",
+        "children": []
+      },
+      {
+        "text": "StAR: colesterol\\N→ mitocondria",
+        "children": []
+      },
+      {
+        "text": "CYP11A1: colesterol\\N→ pregnenolona",
+        "children": []
+      },
+      {
+        "text": "CYP17:\\Npregnenolona →\\NDHEA",
+        "children": []
+      },
+      {
+        "text": "PRODUCCIÓN:",
+        "children": []
+      },
+      {
+        "text": "5-7 mg/día",
+        "children": []
+      },
+      {
+        "text": "Pulsátil (control LH)",
+        "children": []
+      },
+      {
+        "text": "Pico: madrugada (1)",
+        "children": []
+      },
+      {
+        "text": "METABOLISMO",
+        "children": []
+      },
+      {
+        "text": "ESTRADIOL:",
+        "children": []
+      },
+      {
+        "text": "20% testicular",
+        "children": []
+      },
+      {
+        "text": "80% periférico:",
+        "children": []
+      },
+      {
+        "text": "→ Tejido adiposo",
+        "children": []
+      },
+      {
+        "text": "→ Cerebro",
+        "children": []
+      },
+      {
+        "text": "→ Piel",
+        "children": []
+      },
+      {
+        "text": "→ Hueso",
+        "children": []
+      },
+      {
+        "text": "Funciones:",
+        "children": []
+      },
+      {
+        "text": "→ Grasa corporal",
+        "children": []
+      },
+      {
+        "text": "→ Función sexual",
+        "children": []
+      },
+      {
+        "text": "→ Densidad ósea",
+        "children": []
+      },
+      {
+        "text": "→ Cierre epífisis",
+        "children": []
+      },
+      {
+        "text": "→ Control gonadotropinas",
+        "children": []
+      },
+      {
+        "text": "DHT:",
+        "children": []
+      },
+      {
+        "text": "Mayoría extratesticular",
+        "children": []
+      },
+      {
+        "text": "Ratio T:DHT = 10-15:1",
+        "children": []
+      },
+      {
+        "text": "Mayor potencia vs\\Ntestosterona",
+        "children": []
+      },
+      {
+        "text": "Funciones:",
+        "children": []
+      },
+      {
+        "text": "→ Próstata",
+        "children": []
+      },
+      {
+        "text": "→ Genitales externos",
+        "children": []
+      },
+      {
+        "text": "→ Calvicie androgenética",
+        "children": []
+      },
+      {
+        "text": "TRANSPORTE",
+        "children": []
+      },
+      {
+        "text": "DISTRIBUCIÓN:",
+        "children": []
+      },
+      {
+        "text": "Libre: 0.5-3%",
+        "children": []
+      },
+      {
+        "text": "SHBG: 30-44%",
+        "children": []
+      },
+      {
+        "text": "Albúmina: ~50%",
+        "children": []
+      },
+      {
+        "text": "Otros: CBG, orosomucoide",
+        "children": []
+      },
+      {
+        "text": "BIODISPONIBILIDAD:",
+        "children": []
+      },
+      {
+        "text": "Libre + unión albúmina",
+        "children": []
+      },
+      {
+        "text": "SHBG alterada por:",
+        "children": []
+      },
+      {
+        "text": "→ ↑: edad, estrógenos,\\Nhipertiroidismo",
+        "children": []
+      },
+      {
+        "text": "→ ↓: obesidad,\\Nandrógenos,\\Nhipotiroidismo",
+        "children": []
+      },
+      {
+        "text": "MECANISMO ACCIÓN",
+        "children": []
+      },
+      {
+        "text": "VÍA CLÁSICA:",
+        "children": []
+      },
+      {
+        "text": "Receptor androgénico (AR)",
+        "children": []
+      },
+      {
+        "text": "Homodimerización",
+        "children": []
+      },
+      {
+        "text": "Elementos\\Nrespuesta\\Nandrogénica",
+        "children": []
+      },
+      {
+        "text": "Transcripción genes diana",
+        "children": []
+      },
+      {
+        "text": "VÍAS NO CLÁSICAS:",
+        "children": []
+      },
+      {
+        "text": "Rápidas (segundos)",
+        "children": []
+      },
+      {
+        "text": "Mecanismos:",
+        "children": []
+      },
+      {
+        "text": "→ AR + coactivadores",
+        "children": []
+      },
+      {
+        "text": "→ Unión directa",
+        "children": []
+      },
+      {
+        "text": "→ Receptores membrana",
+        "children": []
+      },
+      {
+        "text": "→ Cambios permeabilidad",
+        "children": []
+      },
+      {
+        "text": "Sistemas: reproductivo, CV,\\Ninmune, músculo-esquelético",
+        "children": []
+      },
+      {
+        "text": "COMPARTIMENTO\\NTUBULAR",
+        "children": []
+      },
+      {
+        "text": "ESPERMATOGÉNESIS",
+        "children": []
+      },
+      {
+        "text": "FASE MITÓTICA:",
+        "children": []
+      },
+      {
+        "text": "Espermatogonias oscuras\\N→ células madre",
+        "children": []
+      },
+      {
+        "text": "Espermatogonias pálidas\\N→ diferenciación",
+        "children": []
+      },
+      {
+        "text": "Espermatogonias B\\N→ radiosensibles",
+        "children": []
+      },
+      {
+        "text": "FASE MEIÓTICA:",
+        "children": []
+      },
+      {
+        "text": "Esperm.B → 2\\Nespermatocitos 1°",
+        "children": []
+      },
+      {
+        "text": "División meiótica:",
+        "children": []
+      },
+      {
+        "text": "→ 2 espermatocitos 2°",
+        "children": []
+      },
+      {
+        "text": "→ 4 espermátides",
+        "children": []
+      },
+      {
+        "text": "ESPERMIOGÉNESIS:",
+        "children": []
+      },
+      {
+        "text": "Espermátide →\\Nespermatozoide",
+        "children": []
+      },
+      {
+        "text": "Producción: 100M/día",
+        "children": []
+      },
+      {
+        "text": "Cambios:",
+        "children": []
+      },
+      {
+        "text": "→ Reorganización núcleo",
+        "children": []
+      },
+      {
+        "text": "→ Formación flagelo",
+        "children": []
+      },
+      {
+        "text": "→ Acrosoma: enzimas",
+        "children": []
+      },
+      {
+        "text": "CRONOLOGÍA",
+        "children": []
+      },
+      {
+        "text": "FORMACIÓN:",
+        "children": []
+      },
+      {
+        "text": "Total: 74 días",
+        "children": []
+      },
+      {
+        "text": "Eyaculado: 64d (rango 42-76)",
+        "children": []
+      },
+      {
+        "text": "Tránsito epidídimo: 12-21d",
+        "children": []
+      },
+      {
+        "text": "MADURACIÓN:",
+        "children": []
+      },
+      {
+        "text": "Epidídimo: motilidad ↑",
+        "children": []
+      },
+      {
+        "text": "Capacitación:\\Npost-eyaculación",
+        "children": []
+      },
+      {
+        "text": "FACTORES:",
+        "children": []
+      },
+      {
+        "text": "Temperatura\\Nescrotal: 1-2°C <\\Nabd.",
+        "children": []
+      },
+      {
+        "text": "CONTROL HORMONAL",
+        "children": []
+      },
+      {
+        "text": "FSH:",
+        "children": []
+      },
+      {
+        "text": "Directo",
+        "children": []
+      },
+      {
+        "text": "Receptores:",
+        "children": []
+      },
+      {
+        "text": "→ Cél. Sertoli",
+        "children": []
+      },
+      {
+        "text": "→ Espermatogonias",
+        "children": []
+      },
+      {
+        "text": "LH:",
+        "children": []
+      },
+      {
+        "text": "Indirecto",
+        "children": []
+      },
+      {
+        "text": "→ Testosterona\\Nintratesticular:",
+        "children": []
+      },
+      {
+        "text": "60-100x > circulante (1)",
+        "children": []
+      },
+      {
+        "text": "INICIO:",
+        "children": []
+      },
+      {
+        "text": "Requiere FSH + LH",
+        "children": []
+      },
+      {
+        "text": "No espontáneo en\\NHH prepuberal",
+        "children": []
+      },
+      {
+        "text": "FACTORES PARACRINOS",
+        "children": []
+      },
+      {
+        "text": "BARRERA\\NHEMATO-TESTICULAR:",
+        "children": []
+      },
+      {
+        "text": "Uniones Sertoli",
+        "children": []
+      },
+      {
+        "text": "Permeable:\\Nglucosa,\\Ntestosterona",
+        "children": []
+      },
+      {
+        "text": "Impermeable:\\Nmoléculas grandes",
+        "children": []
+      },
+      {
+        "text": "OTROS FACTORES:",
+        "children": []
+      },
+      {
+        "text": "Existencia probable",
+        "children": []
+      },
+      {
+        "text": "No identificados\\Ndefinitivamente",
+        "children": []
+      },
+      {
+        "text": "FUNCIÓN TESTICULAR EN\\NETAPAS VITALES",
+        "children": []
+      },
+      {
+        "text": "FASE FETAL",
+        "children": []
+      },
+      {
+        "text": "TESTOSTERONA:",
+        "children": []
+      },
+      {
+        "text": "Inicio: 7° semana gestación",
+        "children": []
+      },
+      {
+        "text": "Concentración:\\N300-400 ng/dL",
+        "children": []
+      },
+      {
+        "text": "Duración: hasta 2° trimestre",
+        "children": []
+      },
+      {
+        "text": "Al nacer: ↓↓ (=\\Nnivel femenino)",
+        "children": []
+      },
+      {
+        "text": "FASE NEONATAL",
+        "children": []
+      },
+      {
+        "text": "\"MINIPUBERTAD\":",
+        "children": []
+      },
+      {
+        "text": "↑ LH → ↑ testosterona",
+        "children": []
+      },
+      {
+        "text": "Duración: 3-6 meses",
+        "children": []
+      },
+      {
+        "text": "Fin: niveles bajos (1 año)",
+        "children": []
+      },
+      {
+        "text": "IMPORTANCIA:",
+        "children": []
+      },
+      {
+        "text": "Crecimiento peneano",
+        "children": []
+      },
+      {
+        "text": "↑ células Sertoli",
+        "children": []
+      },
+      {
+        "text": "Espermatogénesis futura",
+        "children": []
+      },
+      {
+        "text": "FASE PUBERAL",
+        "children": []
+      },
+      {
+        "text": "CAMBIOS:",
+        "children": []
+      },
+      {
+        "text": "↑ gonadotropinas",
+        "children": []
+      },
+      {
+        "text": "↑ testosterona",
+        "children": []
+      },
+      {
+        "text": "Nivel adulto: ~17 años",
+        "children": []
+      },
+      {
+        "text": "→ 265-900 ng/dL",
+        "children": []
+      },
+      {
+        "text": "FUNCIONES:",
+        "children": []
+      },
+      {
+        "text": "Fenotipo masculino final",
+        "children": []
+      },
+      {
+        "text": "Maduración sexual",
+        "children": []
+      },
+      {
+        "text": "Inicio espermatogénesis",
+        "children": []
+      },
+      {
+        "text": "FASE ADULTA",
+        "children": []
+      },
+      {
+        "text": "HASTA 50 AÑOS:",
+        "children": []
+      },
+      {
+        "text": "Niveles estables",
+        "children": []
+      },
+      {
+        "text": "POST-50 AÑOS:",
+        "children": []
+      },
+      {
+        "text": "↓ 0.5-1%/año testosterona",
+        "children": []
+      },
+      {
+        "text": "↑ SHBG",
+        "children": []
+      },
+      {
+        "text": "↓↓ testosterona libre",
+        "children": []
+      },
+      {
+        "text": "Significado\\Nfisiopatológico: ?",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1785",
+      "title": "ELDERCARE-AF (2020)\\NEdoxaban Low-Dose for\\NEldeRly patiEnts with\\NAtrial Fibrillation\\N\\n⭐ Edoxaban 15mg reduce ACV 66%\\nvs placebo en muy ancianos\\nno candidatos a ACO estándar"
+    },
+    {
+      "id": "map_1836",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de\\NRescate en Anemia Hemolítica Autoinmune (AHAI) Grave\\Ndel Adulto: Estudio Observacional Multicéntrico Francés\\N**(Publicado 2024)**"
+    }
+  ],
+  "source_file": "Hipogonadismo Masculino-2024.smmx",
+  "created": "2026-02-07T15:43:01.017135"
+}

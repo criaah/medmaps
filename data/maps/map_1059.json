@@ -2880,9 +2880,31 @@
       "reference": "UCI"
     }
   ],
-  "specialty": "General",
+  "specialty": "Geriatría",
   "folder": "- Entidades clínicas/Geriatría",
   "filename": "Paper. Delirium en UCI-2025-1",
   "id": "map_1059",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1678",
+      "title": "HIP ATTACK (2020)\\NAccelerated surgery versus standard care\\N\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones"
+    },
+    {
+      "id": "map_1693",
+      "title": "ABCDEF Bundle (2017)\\NAwaken and Breathe\\NCoordination, Delirium\\NEarly mobility, Family\\N\\n⭐ Reduce delirium 40%\\nMortalidad 68% menor\\nen pacientes UCI"
+    },
+    {
+      "id": "map_1702",
+      "title": "PODCAST (2019)\\NPrevention of Delirium and\\NComplications Associated\\Nwith Surgical Treatments\\N\\n⭐ BIS guiado (40-60) NO reduce\\ndelirium postoperatorio vs\\nanestesia convencional"
+    },
+    {
+      "id": "map_1742",
+      "title": "REDUCE (2018)\\NReducing Unnecessary\\NCerebral sedation\\NDepth in UCI\\N\\n⭐ Sedación ligera (RASS 0 a -2)\\nreduce días de ventilación\\ny delirium en UCI"
+    },
+    {
+      "id": "map_1789",
+      "title": "HELP (1999)\\NHospital Elder Life Program\\NInouye SK et al.\\N\\n⭐ Intervención multicomponente\\NREDUCE incidencia delirium 40%\\Nen ancianos hospitalizados"
+    }
+  ]
 }

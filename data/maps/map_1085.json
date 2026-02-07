@@ -17749,9 +17749,31 @@
   "node_count": 2414,
   "relations": [],
   "cross_references": [],
-  "specialty": "General",
+  "specialty": "Geriatría",
   "folder": "- Entidades clínicas/Geriatría",
   "filename": "Cuadernillo para cuidadores de personas con demencia-2024-1",
   "id": "map_1085",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1074",
+      "title": "Antidemenciales"
+    },
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    },
+    {
+      "id": "map_1090",
+      "title": "CARGA DEL CUIDADOR Y SERVICIOS DE APOYO EN DEMENCIA"
+    },
+    {
+      "id": "map_1041",
+      "title": "Continuum. Demencia Frontotemporal (DFT)"
+    },
+    {
+      "id": "map_1030",
+      "title": "Demencia por cuerpos de Lewy"
+    }
+  ]
 }

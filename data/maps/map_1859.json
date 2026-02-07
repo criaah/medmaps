@@ -1,0 +1,1140 @@
+{
+  "id": "map_1859",
+  "title": "NÓDULOS\\NTIROIDEOS",
+  "specialty": "Endocrinología",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 252,
+  "root": {
+    "text": "NÓDULOS\\NTIROIDEOS",
+    "children": [
+      {
+        "text": "EPIDEMIOLOGÍA",
+        "children": [
+          {
+            "text": "• Prevalencia: 4-7% → palpables",
+            "children": []
+          },
+          {
+            "text": "• ↑ 60% → c/ecografía (1)",
+            "children": []
+          },
+          {
+            "text": "• ↑ frecuencia: mujeres + edad avanzada",
+            "children": []
+          },
+          {
+            "text": "• Cáncer tiroideo: 3-10% nódulos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "EVALUACIÓN",
+        "children": [
+          {
+            "text": "1. Laboratorio",
+            "children": [
+              {
+                "text": "→ TSH + T4/T4L",
+                "children": []
+              },
+              {
+                "text": "→ Calcitonina:\\NNO rutinaria",
+                "children": [
+                  {
+                    "text": "* Solo: antecedentes Ca medular/NEM2",
+                    "children": []
+                  },
+                  {
+                    "text": "* ⚠️ Alto costo + falsos (+)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. Imágenes",
+            "children": [
+              {
+                "text": "→ Ecografía tiroidea",
+                "children": [
+                  {
+                    "text": "* Obligatoria",
+                    "children": []
+                  },
+                  {
+                    "text": "* Define: tamaño + características + otros nódulos",
+                    "children": []
+                  },
+                  {
+                    "text": "* Limitación: no confirma benignidad/malignidad (4)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ Cintigrama tiroideo",
+                "children": [
+                  {
+                    "text": "* Solo si: nódulo palpable + TSH<0.5 mUI/mL",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ TAC/RM cuello",
+                "children": [
+                  {
+                    "text": "* Indicaciones:",
+                    "children": [
+                      {
+                        "text": "- Bocio intratorácico no visible x eco",
+                        "children": []
+                      },
+                      {
+                        "text": "- Masas cervicales origen incierto",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MANEJO\\NPOST-BIOPSIA",
+        "children": [
+          {
+            "text": "1. Benigno",
+            "children": [
+              {
+                "text": "→ Control c/6-12 meses",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Maligno",
+            "children": [
+              {
+                "text": "→ Tiroidectomía total",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Indeterminado/sospechoso*",
+            "children": [
+              {
+                "text": "→ Tiroidectomía total",
+                "children": [
+                  {
+                    "text": "*Incluye lesiones foliculares",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "4. Insuficiente",
+            "children": [
+              {
+                "text": "→ Nueva PAAF",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HALLAZGOS\\NFRECUENTES",
+        "children": [
+          {
+            "text": "PATOLOGÍA NODULAR BENIGNA",
+            "children": [
+              {
+                "text": "a. Quiste coloideo",
+                "children": [
+                  {
+                    "text": "→ Coloide espeso",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Focos ecogénicos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "b. Nódulo mixto\\Nsólido-quístico",
+                "children": [
+                  {
+                    "text": "→ Imagen vegetante adherida",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Tabiques internos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "c. Quiste coloideo anecogénico",
+                "children": [
+                  {
+                    "text": "→ Comparable c/cáncer papilar",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "PATOLOGÍA\\NNODULAR MALIGNA",
+            "children": [
+              {
+                "text": "1. Cáncer papilar",
+                "children": [
+                  {
+                    "text": "a. Hipoecogénico",
+                    "children": [
+                      {
+                        "text": "→ Microcalcificaciones puntiformes",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "b. Características:",
+                    "children": [
+                      {
+                        "text": "→ Cápsula hipoecogénica",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Calcificaciones centrales múltiples",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. Asociación c/linfoadenopatía",
+                "children": [
+                  {
+                    "text": "a. Bordes lobulados",
+                    "children": [
+                      {
+                        "text": "→ Calcificación central gruesa",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Microcalcificaciones múltiples",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "b. Adenopatía cervical\\Nhipoecogénica",
+                    "children": [
+                      {
+                        "text": "→ Elementos quísticos",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Microcalcificaciones",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "c. Adenopatía\\Npapilar redondeada",
+                    "children": [
+                      {
+                        "text": "→ Hipoecogénica",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Pérdida de hilio",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Cercana a:",
+                        "children": [
+                          {
+                            "text": "* Arteria carótida común",
+                            "children": []
+                          },
+                          {
+                            "text": "* Vena yugular interna",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "→ ⚠️ Signo asociación patológica",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "d. Corte sagital\\Nadenopatía lateral",
+                    "children": [
+                      {
+                        "text": "→ Doppler color (+)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "PUNCIÓN ASPIRATIVA CON\\NAGUJA FINA (PAAF)",
+        "children": [
+          {
+            "text": "CARACTERÍSTICAS",
+            "children": [
+              {
+                "text": "• Procedimiento ambulatorio + sencillo",
+                "children": []
+              },
+              {
+                "text": "• Mortalidad ↓",
+                "children": []
+              },
+              {
+                "text": "• Sensibilidad: 70-98%",
+                "children": []
+              },
+              {
+                "text": "• Especificidad: 72-100%",
+                "children": []
+              },
+              {
+                "text": "• Requisitos:",
+                "children": [
+                  {
+                    "text": "→ Profesional entrenado",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Ecógrafo alta resolución",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Ventaja: ↓ cirugías innecesarias",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "INDICACIONES",
+            "children": [
+              {
+                "text": "1. Nódulos sólidos >10mm",
+                "children": []
+              },
+              {
+                "text": "2. Nódulos 5-10mm\\N+ FR cáncer:",
+                "children": [
+                  {
+                    "text": "→ Radiación cervical previa",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Ca tiroideo familiar",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Crecimiento rápido c/levotiroxina",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Adenopatías regionales",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Metástasis distancia",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Nódulos 5-10mm + eco\\Nsugerente malignidad",
+                "children": [
+                  {
+                    "text": "• Microcalcificaciones:",
+                    "children": [
+                      {
+                        "text": "• OR: 6.6 | Sensib.: 52% | Especif.: 86% | LR: 3.7",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Hipoecogenicidad:",
+                    "children": [
+                      {
+                        "text": "• OR: 4.7 | Sensib.: 86% | Especif.: 43% | LR: 1.5",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Bordes irregulares:",
+                    "children": [
+                      {
+                        "text": "• OR: 4.3 | Sensib.: 39% | Especif.: 87% | LR: 3.0",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Linfonodo anormal:",
+                    "children": [
+                      {
+                        "text": "• OR: 6.1 | Sensib.: 7% | Especif.: 99% | LR: 5.8",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Contenido sólido:",
+                    "children": [
+                      {
+                        "text": "• OR: 3.4 | Sensib.: 89% | Especif.: 30% | LR: 1.3",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Ausencia de hilo ecogénico:",
+                    "children": [
+                      {
+                        "text": "• OR: 1.8 | Sensib.: 77% | Especif.: 35% | LR: 1.2",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Vascularidad central:",
+                    "children": [
+                      {
+                        "text": "• OR: 1.6 | Sensib.: 21% | Especif.: 86% | LR: 1.5",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "4. Crecimiento nódulo\\NPAAF benigna previa:",
+                "children": [
+                  {
+                    "text": "→ ≥2mm en 2 dimensiones",
+                    "children": []
+                  },
+                  {
+                    "text": "→ ↑volumen ≥20%",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CONTRAINDICACIONES",
+            "children": [
+              {
+                "text": "• Quistes simples pequeños",
+                "children": []
+              },
+              {
+                "text": "• Nódulos <10mm:",
+                "children": [
+                  {
+                    "text": "→ Sin eco sospechosa",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Sin FR específicos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Nódulos >10mm:",
+                "children": [
+                  {
+                    "text": "→ Patología grave asociada",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Paciente mayor",
+                    "children": []
+                  },
+                  {
+                    "text": "→ PAAF riesgosa",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Resultado no modifica tto",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "EXCEPCIONES\\NNO PAAF",
+            "children": [
+              {
+                "text": "1. Nódulos evolución >3 años:",
+                "children": [
+                  {
+                    "text": "→ Tamaño estable",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Sin eco sospechosa",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Según Endocrine\\NSociety:",
+                "children": [
+                  {
+                    "text": "→ Nódulos esponjiformes",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Aspecto coloideo",
+                    "children": []
+                  },
+                  {
+                    "text": "→ <20mm",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Solo observación",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CRITERIOS MUESTRA\\NSATISFACTORIA",
+            "children": [
+              {
+                "text": "→ Mínimo 6 grupos celulares",
+                "children": []
+              },
+              {
+                "text": "→ >10 células/grupo",
+                "children": []
+              },
+              {
+                "text": "→ Bien preservadas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SITUACIONES\\NESPECIALES",
+            "children": [
+              {
+                "text": "1. Nódulo\\Nhiperfuncionante",
+                "children": [
+                  {
+                    "text": "→ Riesgo Ca <4%",
+                    "children": []
+                  },
+                  {
+                    "text": "→ No PAAF rutinaria (5,6)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Bocio\\Nmultinodular",
+                "children": [
+                  {
+                    "text": "→ Riesgo Ca = bocio uninodular",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Criterios PAAF:",
+                    "children": [
+                      {
+                        "text": "* Nódulos >10mm: punción más sospechoso eco",
+                        "children": []
+                      },
+                      {
+                        "text": "* Sin eco sospechosa: punción mayor tamaño",
+                        "children": []
+                      },
+                      {
+                        "text": "* TSH <0.5mUI/mL: cintigrama + PAAF según criterios previos",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "SEGUIMIENTO",
+        "children": [
+          {
+            "text": "1. Crecimiento\\Nsignificativo:",
+            "children": [
+              {
+                "text": "→ ↑2mm en ≥2 dimensiones",
+                "children": []
+              },
+              {
+                "text": "→ ↑volumen >20%",
+                "children": []
+              },
+              {
+                "text": "→ No implica malignidad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. PAAF\\Nrepetición:",
+            "children": [
+              {
+                "text": "→ Eco sospechosa sin crecimiento",
+                "children": []
+              },
+              {
+                "text": "→ Esperar 3-6 meses post-PAAF previa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Evaluación\\Neco:",
+            "children": [
+              {
+                "text": "→ Alto riesgo: 6 meses",
+                "children": []
+              },
+              {
+                "text": "→ Bajo riesgo: 6-12 meses",
+                "children": []
+              },
+              {
+                "text": "→ Sin crecimiento: control c/12 meses",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ALTERNATIVAS TRATAMIENTO\\NNÓDULOS TIROIDEOS",
+        "children": [
+          {
+            "text": "1. LEVOTIROXINA",
+            "children": [
+              {
+                "text": "→ RCT: dosis supresivas",
+                "children": [
+                  {
+                    "text": "* ↓20% tamaño: 52% pacientes",
+                    "children": []
+                  },
+                  {
+                    "text": "* ↓50% tamaño: 25% pacientes",
+                    "children": []
+                  },
+                  {
+                    "text": "* Meta-análisis: sin significancia estadística",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "RECOMENDACIONES:",
+                "children": [
+                  {
+                    "text": "→ TSH meta: 0. 5-1 uUI/mL",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ Evaluación\\N1 año:",
+                "children": [
+                  {
+                    "text": "* Si ↓2mm o 20%: suspender",
+                    "children": []
+                  },
+                  {
+                    "text": "* No mantener TSH <0.5 uUI/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "- ⚠️Riesgo CV + óseo",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "CONTRAINDICACIONES:",
+                "children": [
+                  {
+                    "text": "→ Ancianos",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Comorbilidades agravables",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Posmenopáusicas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. CIRUGÍA",
+            "children": [
+              {
+                "text": "INDICACIONES:",
+                "children": [
+                  {
+                    "text": "→ Crecimiento significativo",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Síntomas compresivos",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Duda benignidad post-PAAF",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Molestias cosméticas",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Nódulos >4cm",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "TÉCNICA:",
+                "children": [
+                  {
+                    "text": "→ Preferir tiroidectomía total",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Hemitiroidectomía:",
+                    "children": [
+                      {
+                        "text": "* Solo si lóbulo contralateral normal",
+                        "children": []
+                      },
+                      {
+                        "text": "* Recurrencia contralateral: 10%",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. ETANOL",
+            "children": [
+              {
+                "text": "Solo casos muy seleccionados",
+                "children": []
+              },
+              {
+                "text": "CARACTERÍSTICAS:",
+                "children": [
+                  {
+                    "text": "→ Inyección intranodular 99%",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Necrosa tejido",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Evita crecimiento",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Indicación: nódulos quísticos importantes",
+                    "children": [
+                      {
+                        "text": "* Recurrencia post-vaciamiento",
+                        "children": []
+                      },
+                      {
+                        "text": "* No respuesta levotiroxina",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Éxito: 30-95%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "COMPLICACIONES:",
+                "children": [
+                  {
+                    "text": "→ Dolor",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Disfonía transitoria",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Riesgo infeccioso mínimo",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Post-etanol:",
+                    "children": [
+                      {
+                        "text": "* Cirugía más compleja",
+                        "children": []
+                      },
+                      {
+                        "text": "* Fibrosis periglandular",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Clasificación TIRADS \\N(Thyroid Imaging Reporting and Data System)",
+        "children": [
+          {
+            "text": "TIRADS 1: Normal",
+            "children": [
+              {
+                "text": "• Glándula tiroidea sin alteraciones ecográficas.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "TIRADS 2:\\NBenigno",
+            "children": [
+              {
+                "text": "• Nódulos con\\Ncaracterísticas benignas:",
+                "children": [
+                  {
+                    "text": "• Quistes simples",
+                    "children": []
+                  },
+                  {
+                    "text": "• Quistes coloides",
+                    "children": []
+                  },
+                  {
+                    "text": "• Halo completo, isoecoicos",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TIRADS 3:\\NProbablemente Benigno",
+            "children": [
+              {
+                "text": "• Nódulos con bajo riesgo\\Nde malignidad (<5%):",
+                "children": [
+                  {
+                    "text": "• Isoecoico o hipoecoico leve",
+                    "children": []
+                  },
+                  {
+                    "text": "• Bordes regulares",
+                    "children": []
+                  },
+                  {
+                    "text": "• Sin microcalcificaciones",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TIRADS 4:\\NSospechoso",
+            "children": [
+              {
+                "text": "• 4A (Riesgo bajo):\\N5-10%",
+                "children": [
+                  {
+                    "text": "• Hipoecogenicidad leve",
+                    "children": []
+                  },
+                  {
+                    "text": "• Bordes bien definidos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• 4B (Riesgo moderado):\\N10-50%",
+                "children": [
+                  {
+                    "text": "• Hipoecogenicidad marcada",
+                    "children": []
+                  },
+                  {
+                    "text": "• Bordes irregulares",
+                    "children": []
+                  },
+                  {
+                    "text": "• Microcalcificaciones aisladas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• 4C (Riesgo alto):\\N50-85%",
+                "children": [
+                  {
+                    "text": "• Todas las características previas + invasión extratiroidea",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TIRADS 5:\\NAltamente\\NSospechoso",
+            "children": [
+              {
+                "text": "• Riesgo de\\Nmalignidad >85%",
+                "children": [
+                  {
+                    "text": "• Hipoecogenicidad marcada",
+                    "children": []
+                  },
+                  {
+                    "text": "• Bordes irregulares",
+                    "children": []
+                  },
+                  {
+                    "text": "• Microcalcificaciones múltiples",
+                    "children": []
+                  },
+                  {
+                    "text": "• Forma más alta que ancha",
+                    "children": []
+                  },
+                  {
+                    "text": "• Invasión extratiroidea",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TIRADS 6:\\NMalignidad\\NConfirmada",
+            "children": [
+              {
+                "text": "• Diagnóstico confirmado de cáncer\\Ntiroideo por PAAF o histopatología.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Sistema Bethesda para\\NClasificación de Nódulos Tiroideos",
+        "children": [
+          {
+            "text": "I. No diagnóstico\\No Insuficiente",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 1-4%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Repetir PAAF con ecografía.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "II. Benigno",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 0-3%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Seguimiento clínico-ecográfico.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "III. Atipia de significado indeterminado\\N(AUS/FLUS)",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 5-15%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Repetir PAAF o pruebas moleculares.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "IV. Neoplasia folicular o sospecha de\\Nneoplasia folicular (FN/SFN)",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 15-30%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Lobectomía diagnóstica.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Calcitonina en todos los casos para descartar carcinoma medular.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "V. Sospechoso de malignidad\\N(SM)",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 60-75%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Tiroidectomía total/lobectomía según caso.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Calcitonina para excluir carcinoma medular.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "VI. Maligno",
+            "children": [
+              {
+                "text": "• Riesgo malignidad: 97-99%",
+                "children": []
+              },
+              {
+                "text": "• Conducta:",
+                "children": [
+                  {
+                    "text": "• Tiroidectomía total con evaluación linfática.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Medir calcitonina prequirúrgica si carcinoma medular.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1780",
+      "title": "Diagnóstico de Laboratorio\\Nde la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "Arteaga | NÓDULOS TIROIDEOS-2024.smmx",
+  "created": "2026-02-07T15:43:01.559715"
+}

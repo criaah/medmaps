@@ -1,0 +1,373 @@
+{
+  "id": "map_1738",
+  "title": "# Interpretación de Pruebas\\NDiagnósticas (PD)",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 79,
+  "root": {
+    "text": "# Interpretación de Pruebas\\NDiagnósticas (PD)",
+    "children": [
+      {
+        "text": "## Conceptos generales",
+        "children": [
+          {
+            "text": "- PD: Pruebas de diagnóstico, elemento\\Nfundamental en ejercicio médico",
+            "children": []
+          },
+          {
+            "text": "- Utilidad: Diagnóstico,\\Ntratamiento, pronóstico y\\Nscreening",
+            "children": []
+          },
+          {
+            "text": "- Interpretación: Requiere conocer\\Nconceptos abstractos (sensibilidad,\\Nespecificidad, etc.)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Criterios de\\Nevaluación\\Nmetodológica",
+        "children": [
+          {
+            "text": "- Espectro de pacientes",
+            "children": [
+              {
+                "text": "- Debe incluir individuos con síntomas\\Nsimilares pero patologías distintas",
+                "children": []
+              },
+              {
+                "text": "- Excluir extremos (\"sanos\"\\Ny \"muy enfermos\")",
+                "children": []
+              },
+              {
+                "text": "- Población de estudio similar a\\Npoblación clínica real",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Estándar de\\Nreferencia (gold\\Nstandard)",
+            "children": [
+              {
+                "text": "- Técnica que define presencia/ausencia de\\Ncondición con máxima certeza",
+                "children": []
+              },
+              {
+                "text": "- Aspectos a evaluar:",
+                "children": [
+                  {
+                    "text": "- Utilización del\\Nestándar más\\Nadecuado",
+                    "children": []
+                  },
+                  {
+                    "text": "- Evaluación independiente\\N(enmascarada) del estándar y la PD",
+                    "children": []
+                  },
+                  {
+                    "text": "- Influencia del resultado de PD\\Nen realización del estándar\\N(sesgo de verificación)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Interpretación\\Nde resultados",
+        "children": []
+      },
+      {
+        "text": "### Validez de una\\Nprueba diagnóstica",
+        "children": [
+          {
+            "text": "- Tabla de\\Ncontingencia\\N(2x2)",
+            "children": [
+              {
+                "text": "- Verdadero Positivo (VP):\\NEstándar(+) y PD(+)",
+                "children": []
+              },
+              {
+                "text": "- Verdadero Negativo (VN):\\NEstándar(-) y PD(-)",
+                "children": []
+              },
+              {
+                "text": "- Falso Positivo (FP):\\NEstándar(-) y PD(+)",
+                "children": []
+              },
+              {
+                "text": "- Falso Negativo (FN):\\NEstándar(+) y PD(-)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sensibilidad (S)",
+            "children": [
+              {
+                "text": "- Proporción de sujetos\\Nenfermos con prueba positiva",
+                "children": []
+              },
+              {
+                "text": "- S =\\NVP/(VP+FN) =\\Na/(a+c)",
+                "children": []
+              },
+              {
+                "text": "- Capacidad para\\Ndetectar enfermedad",
+                "children": []
+              },
+              {
+                "text": "- Útil cuando no\\Ndiagnosticar puede ser\\Nfatal",
+                "children": []
+              },
+              {
+                "text": "- Pruebas de tamizaje deben\\Nser de alta sensibilidad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Especificidad (E)",
+            "children": [
+              {
+                "text": "- Proporción de sujetos no\\Nenfermos con prueba negativa",
+                "children": []
+              },
+              {
+                "text": "- E =\\NVN/(FP+VN) =\\Nd/(b+d)",
+                "children": []
+              },
+              {
+                "text": "- Útil para confirmar diagnóstico\\N(evitar falsos positivos)",
+                "children": []
+              },
+              {
+                "text": "- Alta E necesaria en\\Nenfermedades graves sin\\Ntratamiento",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Valor Predictivo\\NPositivo (VPP)",
+            "children": [
+              {
+                "text": "- Probabilidad de padecer\\Nenfermedad si prueba positiva",
+                "children": []
+              },
+              {
+                "text": "- VPP =\\NVP/(VP+FP) =\\Na/(a+b)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Valor Predictivo\\NNegativo (VPN)",
+            "children": [
+              {
+                "text": "- Probabilidad de no padecer\\Nenfermedad si prueba negativa",
+                "children": []
+              },
+              {
+                "text": "- VPN =\\NVN/(FN+VN) =\\Nd/(c+d)",
+                "children": []
+              },
+              {
+                "text": "- Los VP varían con la\\Nprevalencia de la enfermedad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Razones de\\NProbabilidad (RP)",
+            "children": [
+              {
+                "text": "- Alternativa a\\Nlimitaciones de S, E y\\NVP",
+                "children": []
+              },
+              {
+                "text": "- No varía con prevalencia",
+                "children": []
+              },
+              {
+                "text": "- Útil para comparar\\Ndiferentes PD",
+                "children": []
+              },
+              {
+                "text": "- Razón de\\NProbabilidad Positiva\\N(RPP)",
+                "children": [
+                  {
+                    "text": "- RPP = S/(1-E)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Razón de Probabilidad\\NNegativa (RPN)",
+                "children": [
+                  {
+                    "text": "- RPN = (1-S)/E",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Relación con\\Nprobabilidades pre-test y\\Npost-test",
+                "children": [
+                  {
+                    "text": "- Probabilidad pre-test:\\Nprevalencia estimada antes de PD",
+                    "children": []
+                  },
+                  {
+                    "text": "- Probabilidad post-test:\\Nprobabilidad después de realizar PD",
+                    "children": []
+                  },
+                  {
+                    "text": "- Nomograma de Fagan: herramienta para\\Ndeterminar probabilidad post-test",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Curva ROC (Receiver\\NOperating Characteristic)",
+            "children": [
+              {
+                "text": "- Útil para PD con resultados\\Nen escala continua",
+                "children": []
+              },
+              {
+                "text": "- Representa S vs (1-E) para\\Ndiferentes valores de corte",
+                "children": []
+              },
+              {
+                "text": "- Exactitud aumenta cuando curva se desplaza\\Nhacia vértice superior izquierdo",
+                "children": []
+              },
+              {
+                "text": "- Área bajo la curva ROC (ABC):\\Níndice de exactitud global",
+                "children": [
+                  {
+                    "text": "- ABC=1:\\Nexactitud\\Nmáxima",
+                    "children": []
+                  },
+                  {
+                    "text": "- ABC=0,5:\\Nexactitud mínima",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Determinar punto\\Nde corte óptimo",
+                "children": [
+                  {
+                    "text": "- Requiere conocer\\Nriesgos/beneficios de decisiones\\Nmédicas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Coeficiente m = [Coste\\NFP/Coste FN] × [(1-P)/P]",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "##\\NAplicabilidad\\Nde la PD",
+        "children": [
+          {
+            "text": "- Consideraciones:",
+            "children": [
+              {
+                "text": "- Reproductibilidad\\Nde la prueba",
+                "children": []
+              },
+              {
+                "text": "- Similitud entre pacientes del\\Nestudio y nuestros pacientes",
+                "children": []
+              },
+              {
+                "text": "- Riesgos aceptables",
+                "children": []
+              },
+              {
+                "text": "- Consecuencias de no\\Ntratar la enfermedad",
+                "children": []
+              },
+              {
+                "text": "- Disponibilidad\\Nde tratamiento",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Reporte de\\Nresultados",
+        "children": [
+          {
+            "text": "- Iniciativas\\Nmetodológicas:",
+            "children": [
+              {
+                "text": "- STARD (Standards for Reporting\\Nof Diagnostic Accuracy)",
+                "children": [
+                  {
+                    "text": "- 25 ítems y\\Ndiagrama de flujo",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mejora calidad\\Ndel reporte",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- REMARK (REporting\\Nrecommendations for tumour\\NMARKer prognostic studies)",
+                "children": [
+                  {
+                    "text": "- 20 ítems para marcadores\\Ntumorales en oncología",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- QUADAS (Quality Assessment of\\NDiagnostic Accuracy Studies)",
+                "children": [
+                  {
+                    "text": "- 14 ítems para evaluar calidad en\\Nrevisiones sistemáticas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "9.B1-2025.smmx",
+  "created": "2026-02-07T15:42:54.860140"
+}

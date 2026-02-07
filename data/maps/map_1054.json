@@ -3208,9 +3208,31 @@
   "node_count": 437,
   "relations": [],
   "cross_references": [],
-  "specialty": "General",
+  "specialty": "Geriatría",
   "folder": "- Entidades clínicas/Geriatría",
   "filename": "Evaluación de la Demencia y el Deterioro Cognitivo  UTD-2025",
   "id": "map_1054",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1107",
+      "title": "Deterioro Cognitivo Vascular (DCV) y Demencia Vascular"
+    },
+    {
+      "id": "map_1793",
+      "title": "Evaluación de la Demencia y\\Nel Deterioro Cognitivo \\N\\\\*UTD 2025 \\\\*"
+    },
+    {
+      "id": "map_1805",
+      "title": "Deterioro Cognitivo Vascular (DCV)\\Ny Demencia Vascular"
+    },
+    {
+      "id": "map_1074",
+      "title": "Antidemenciales"
+    },
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    }
+  ]
 }

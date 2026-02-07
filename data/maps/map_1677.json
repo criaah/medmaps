@@ -1,0 +1,68 @@
+{
+  "id": "map_1677",
+  "title": "DAPA-HF (2019)\\NDapagliflozin in Heart Failure\\N\\nDapagliflozina reduce muerte CV y hospitalizacion IC\\nen IC-FEr CON y SIN diabetes\\NNNTH 21",
+  "specialty": "Estudios Pivotales",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "DAPA-HF (2019)\\NDapagliflozin in Heart Failure\\N\\nDapagliflozina reduce muerte CV y hospitalizacion IC\\nen IC-FEr CON y SIN diabetes\\NNNTH 21",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nMcMurray JJV, et al.\\nN Engl J Med 2019;381:1995-2008\\NDOI: 10.1056/NEJMoa1911303\\N\\nRCT multicentrico, doble ciego\\n20 paises",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=4,744\\nEdad media: 66 años\\n\\nCriterios:\\n- IC NYHA II-IV\\n- FEVI menor o igual 40%\\n- NT-proBNP elevado\\n- Con o sin diabetes (42% DM)\\n\\nSeguimiento: 18.2 meses (mediana)",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\nDapagliflozina 10 mg/dia\\nvs\\nPlacebo\\n\\nAdicional a terapia optima IC\\n(IECA/ARA2, betabloqueador, ARM)",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nOutcome primario (muerte CV + hosp IC + visita urgente IC):\\nDapagliflozina: 16.3%\\nPlacebo: 21.2%\\nHR 0.74 (IC95% 0.65-0.85)\\np menor 0.001\\NNNTH 21\\N\\nMuerte CV: HR 0.82\\nHospitalizacion IC: HR 0.70\\nMortalidad total: HR 0.83\\n\\nBeneficio SIMILAR con y sin DM\\nMejoria sintomas (KCCQ)",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nBien tolerada\\n\\nDapagliflozina vs placebo:\\n- Hipoglicemia (solo DM): similar\\n- Deplecion volumen: 7.5% vs 6.8%\\n- IRA: 6.5% vs 7.2% (menor!)\\n- Amputaciones: similar\\n- Gangrena Fournier: 0\\n- Cetoacidosis: rara",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Seguimiento relativamente corto\\n- Pocos muy ancianos\\n- Exclusion TFG menor 30\\n- No IC-FEp incluida\\n- Mayoria raza blanca",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Beneficio independiente de edad\\n- NO requiere diabetes\\n- Puede ayudar a reducir diureticos\\n- Precaucion deplecion volumen en ancianos\\n- Monitorizar TFG inicial\\n- Proteccion renal adicional\\n- Simplicidad: 1 tableta/dia, sin titulacion",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. iSGLT2 = pilar terapia IC-FEr\\n2. Beneficio SIN diabetes es igual\\n3. NNT 21 muy favorable\\n4. No requiere titulacion\\n5. Efecto rapido (semanas)\\n6. Reduce hospitalizaciones y mejora calidad vida\\n7. Seguro en ERC hasta TFG 25-30\\n8. Puede permitir reducir diuretico de asa\\n9. Pilar del cuadruple terapia IC\\n10. Indicacion Clase I en guias IC",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    },
+    {
+      "id": "map_942",
+      "title": "ELDERCARE-AF (2020)"
+    },
+    {
+      "id": "map_933",
+      "title": "Optima dosis y tipo de ejercicio para mejorar la velocidad de marcha en Párkinson"
+    }
+  ],
+  "source_file": "DAPA-HF-2026.smmx",
+  "created": "2026-02-07T15:42:53.181932"
+}

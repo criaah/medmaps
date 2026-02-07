@@ -1,0 +1,89 @@
+{
+  "id": "map_1687",
+  "title": "📚 ESTUDIOS PIVOTALES\\N\\NBiblioteca de Evidencia Clínica\\NCristian Acevedo H., MD\\NResidencia Geriatría USS\\N\\n40+ estudios indexados\\nÚltima actualización: Enero 2026",
+  "specialty": "Estudios Pivotales",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 14,
+  "root": {
+    "text": "📚 ESTUDIOS PIVOTALES\\N\\NBiblioteca de Evidencia Clínica\\NCristian Acevedo H., MD\\NResidencia Geriatría USS\\N\\n40+ estudios indexados\\nÚltima actualización: Enero 2026",
+    "children": [
+      {
+        "text": "👴 GERIATRIA (20 mapas)\\N\\nHTA Ancianos:\\n→ HYVET, SHEP, Syst-Eur\\n\\nFragilidad:\\n→ Fried Phenotype, ICE-FRAIL\\n→ VIP1/VIP2 (UCI)\\n\\nDelirium:\\n→ HELP, MENDS, MIND-USA\\n→ CATIE-AD, ABCDEF Bundle\\n\\nCognición:\\n→ FINGER, ASPREE\\n\\nCaídas/Función:\\n→ STRIDE, LIFE-Study\\n\\nPolifarmacia:\\n→ STOPP-START, OPERAM\\n\\nAnticoagulación:\\n→ BAFTA, ELDERCARE-AF\\n\\nOrtogeriatría:\\n→ FOCUS (transfusión)\\n\\n[Carpeta: Geriatría/]",
+        "children": [
+          {
+            "text": "HTA Ancianos:\\n• HYVET: PAS menor 150 mayor 80\\n• SHEP: tiazida reduce ACV 36%\\n• Syst-Eur: BCC efectivo",
+            "children": []
+          },
+          {
+            "text": "Fragilidad/UCI:\\n• Fried: 5 criterios fenotipo\\n• VIP1/2: CFS predice UCI\\n• ICE-FRAIL: CFS mayor APACHE",
+            "children": []
+          },
+          {
+            "text": "Delirium:\\n• HELP: previene 40%\\n• MENDS: Dex mejor que BZD\\n• MIND-USA: antipsic NO sirven\\n• ABCDEF: Bundle integral",
+            "children": []
+          },
+          {
+            "text": "Cognición:\\n• FINGER: multidominio previene\\n• CATIE-AD: antipsic NO eficaces\\n• ASPREE: AAS daña en sanos",
+            "children": []
+          },
+          {
+            "text": "Polifarmacia:\\n• STOPP-START: criterios\\n• OPERAM: reduce RAM hosp\\n• BAFTA: Warf mayor AAS en FA\\n• ELDERCARE: Edox 15mg muy anc",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "❤️ CARDIOLOGIA (5)\\N\\n→ PARADIGM-HF (Sacubitril IC)\\n→ DAPA-HF (Dapa IC)\\n→ SPRINT (PA menor 120)\\n→ AFFIRM (FA frec vs ritmo)\\n→ SELECT (Sema CV sin DM)\\n\\n[Carpetas: Cardiología/ + Endocrinología/]",
+        "children": []
+      },
+      {
+        "text": "🏥 UCI / CRITICOS (5)\\N\\n→ ARDSNet (Vt bajo SDRA)\\n→ PROSEVA (Prono SDRA)\\n→ RECOVERY (Dexa COVID-19)\\n→ CRASH-2 (ATX trauma)\\n→ TRICC (Transfusión restrictiva)\\n\\n[Carpeta: UCI/]",
+        "children": []
+      },
+      {
+        "text": "🫘 NEFROLOGIA (2)\\N\\n→ CREDENCE (Cana ERC-DM)\\n→ DAPA-CKD (Dapa ERC +/- DM)\\n\\n[Carpeta: Nefrología/]",
+        "children": []
+      },
+      {
+        "text": "🦴 ORTOGERIATRIA (2)\\N\\n→ HORIZON-RFT (Zol post-Fx)\\n→ FOCUS (Transfusión cadera)\\n\\n[Carpeta: Ortogeriatría/]",
+        "children": []
+      },
+      {
+        "text": "🧠 NEUROLOGIA (1)\\N\\n→ CLARITY-AD (Lecanemab EA)\\n\\n[Carpeta: Neurología/]",
+        "children": []
+      },
+      {
+        "text": "🕊️ PALIATIVOS (1)\\N\\n→ Temel 2010 (CP tempranos)\\n\\n[Carpeta: Paliativos/]",
+        "children": []
+      },
+      {
+        "text": "📋 ESTRUCTURA MAPAS\\N\\nCada estudio incluye:\\n• 📋 Identificación\\n• 👥 Población\\n• 💊 Intervención\\n• 📊 Resultados\\n• ⚠️ Seguridad\\n• ⚖️ Sesgos\\n• 👴 Aplicabilidad Geriátrica\\n• 💎 Perlas Clínicas\\n• 📚 Referencias",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    }
+  ],
+  "source_file": "00_INDICE_ESTUDIOS_PIVOTALES-2026.smmx",
+  "created": "2026-02-07T15:42:53.321567"
+}

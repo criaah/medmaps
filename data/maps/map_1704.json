@@ -1,0 +1,68 @@
+{
+  "id": "map_1704",
+  "title": "OXYGEN-ICU (2016)\\NOxygen Therapy in Critically Ill\\N\\nOxigeno conservador (SpO2 94-98%)\\nreduce mortalidad vs liberal\\nMeta PaO2 70-100 mmHg es segura",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "OXYGEN-ICU (2016)\\NOxygen Therapy in Critically Ill\\N\\nOxigeno conservador (SpO2 94-98%)\\nreduce mortalidad vs liberal\\nMeta PaO2 70-100 mmHg es segura",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nGirardis M, et al.\\nJAMA 2016;316:1583-89\\NDOI: 10.1001/jama.2016.11993\\N\\nRCT unicentrico\\nItalia\\nDetenido precozmente",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=480\\nAdultos UCI con estancia esperada mayor o igual 72h\\n\\nCriterios:\\n- Cualquier motivo ingreso UCI\\n- Expectativa estancia mayor 72h\\n\\nEdad media: 64 años\\nSeguimiento: hasta alta UCI o muerte",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\nConservador: PaO2 70-100 mmHg, SpO2 94-98%\\nvs\\nLiberal: PaO2 hasta 150 mmHg, SpO2 97-100%\\n\\nFiO2 minima: 40% en conservador\\nSin limite superior en liberal",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nMortalidad UCI:\\nConservador: 11.6%\\nLiberal: 20.2%\\np=0.01\\nRRR 43%\\N\\nShock nuevo: 6.0% vs 13.7% (p=0.006)\\nInsuficiencia hepatica: 2.5% vs 10.4% (p menor 0.001)\\nBacteriemia: 5.4% vs 15.6% (p menor 0.001)",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nGrupo conservador:\\n- Sin aumento isquemia miocardica\\n- Sin eventos hipoxemicos mayores\\n- Menos falla organica\\n\\nHiperoxia demostro ser dañina",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Unicentrico\\n- Detenido precoz (sesgo?)\\n- FiO2 minima 40% (no aplica a todos)\\n- Diferencia muy grande (cuestionada)\\n- ICU-ROX no replico resultado\\n- HOT-ICU: no confirmo",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Ancianos: mayor riesgo hiperoxia\\n- SpO2 94-98% es meta razonable\\n- Evitar FiO2 innecesariamente alta\\n- Considerar EPOC con hipercapnia\\n- Balance: evitar hipo e hiperoxia\\n- No necesariamente SpO2 100%",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Hiperoxia es potencialmente dañina\\n2. SpO2 94-98% es meta segura\\n3. No perseguir SpO2 100% en UCI\\n4. Ancianos con EPOC: meta 88-92%\\n5. Estudios posteriores menos conclusivos\\n6. Principio: evitar extremos\\n7. FiO2 alta genera radicales libres\\n8. Individualizar segun patologia\\n9. Titular O2 como cualquier farmaco\\n10. Menos es mas (dentro de limites)",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1701",
+      "title": "SAVE Score (2015)\\NSurvival After Veno-arterial ECMO\\N\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "OXYGEN-ICU-2026.smmx",
+  "created": "2026-02-07T15:42:53.530422"
+}

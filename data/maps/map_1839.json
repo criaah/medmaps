@@ -1,0 +1,802 @@
+{
+  "id": "map_1839",
+  "title": "UTD - Enfoque Diagnóstico de\\NNeutropenia en Adultos",
+  "specialty": "Hematología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 180,
+  "root": {
+    "text": "UTD - Enfoque Diagnóstico de\\NNeutropenia en Adultos",
+    "children": [
+      {
+        "text": "## DEFINICIONES Y\\NVALORES NORMALES",
+        "children": [
+          {
+            "text": "- **Neutropenia**: Recuento absoluto de neutrófilos (RAN) <1500 células/microL",
+            "children": []
+          },
+          {
+            "text": "- **Clasificación**:",
+            "children": [
+              {
+                "text": "- Leve: RAN ≥1000 y <1500 células/microL",
+                "children": []
+              },
+              {
+                "text": "- Moderada: RAN ≥500 y <1000 células/microL",
+                "children": []
+              },
+              {
+                "text": "- Severa: RAN <500 células/microL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- **Agranulocitosis**: RAN <200 células/microL",
+            "children": []
+          },
+          {
+            "text": "- **Neutropenia crónica**: Neutropenia durante >3 meses",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## EPIDEMIOLOGÍA",
+        "children": [
+          {
+            "text": "- Prevalencia variable\\Nsegún población:",
+            "children": [
+              {
+                "text": "- Población general: 0-10%",
+                "children": []
+              },
+              {
+                "text": "- Afroamericanos: 4.5%",
+                "children": []
+              },
+              {
+                "text": "- Caucásicos: 0.79%",
+                "children": []
+              },
+              {
+                "text": "- México-americanos: 0.38%",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Mayor prevalencia en trastornos reumatológicos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## MECANISMOS",
+        "children": [
+          {
+            "text": "- Disminución de producción/diferenciación en médula ósea",
+            "children": []
+          },
+          {
+            "text": "- Redistribución de neutrófilos circulantes (marginación)",
+            "children": []
+          },
+          {
+            "text": "- Destrucción inmune",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## CAUSAS DE\\NNEUTROPENIA",
+        "children": [
+          {
+            "text": "### Variantes normales",
+            "children": [
+              {
+                "text": "- Neutropenia asociada al fenotipo Duffy-null (DANC)",
+                "children": []
+              },
+              {
+                "text": "- Neutropenia familiar",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Congénitas",
+            "children": [
+              {
+                "text": "- Neutropenia congénita grave",
+                "children": []
+              },
+              {
+                "text": "- Síndrome de Shwachman-Diamond",
+                "children": []
+              },
+              {
+                "text": "- Neutropenia cíclica",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Infecciones",
+            "children": [
+              {
+                "text": "- Virales: Hepatitis, VIH, VEB, CMV",
+                "children": []
+              },
+              {
+                "text": "- Bacterianas: Especialmente en sepsis",
+                "children": []
+              },
+              {
+                "text": "- Parasitarias: Malaria, leishmaniasis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Medicamentos",
+            "children": [
+              {
+                "text": "- Predecibles y dosis-dependientes: Agentes citotóxicos",
+                "children": []
+              },
+              {
+                "text": "- Idiosincráticas: Múltiples fármacos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Nutricionales",
+            "children": [
+              {
+                "text": "- Déficit de vitamina B12",
+                "children": []
+              },
+              {
+                "text": "- Déficit de folato",
+                "children": []
+              },
+              {
+                "text": "- Déficit de cobre",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Neoplasias\\Nhematológicas",
+            "children": [
+              {
+                "text": "- Leucemia de linfocitos grandes granulares (LGL)",
+                "children": []
+              },
+              {
+                "text": "- Leucemia de células peludas",
+                "children": []
+              },
+              {
+                "text": "- Síndromes mielodisplásicos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Trastornos\\Nreumatológicos",
+            "children": [
+              {
+                "text": "- Artritis reumatoide",
+                "children": []
+              },
+              {
+                "text": "- Lupus eritematoso sistémico",
+                "children": []
+              },
+              {
+                "text": "- Síndrome de Felty",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Otras causas",
+            "children": [
+              {
+                "text": "- Neutropenia autoinmune",
+                "children": []
+              },
+              {
+                "text": "- Anemia aplásica",
+                "children": []
+              },
+              {
+                "text": "- Neutropenia idiopática crónica",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN\\NINICIAL",
+        "children": [
+          {
+            "text": "### Urgencia de\\Nevaluación",
+            "children": [
+              {
+                "text": "- **Inmediata**: Signos de sepsis, inestabilidad hemodinámica, RAN <500 células/microL",
+                "children": []
+              },
+              {
+                "text": "- **1-2 semanas**: Neutropenia moderada asintomática",
+                "children": []
+              },
+              {
+                "text": "- **2-6 semanas**: Neutropenia leve asintomática",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "###\\NHemograma\\Ncompleto",
+            "children": [
+              {
+                "text": "- Confirmar nivel de RAN",
+                "children": []
+              },
+              {
+                "text": "- Revisar hemogramas previos",
+                "children": []
+              },
+              {
+                "text": "- Evaluar otras citopenias\\Nacompañantes:",
+                "children": [
+                  {
+                    "text": "- Eosinofilia/basofilia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfocitosis/linfopenia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Anemia (macrocítica, aplásica, mieloftísica)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Trombocitopenia",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Historia clínica",
+            "children": [
+              {
+                "text": "- Infecciones activas o previas",
+                "children": []
+              },
+              {
+                "text": "- Úlceras aftosas episódicas",
+                "children": []
+              },
+              {
+                "text": "- Neoplasias hematológicas diagnosticadas",
+                "children": []
+              },
+              {
+                "text": "- Trastornos gastrointestinales",
+                "children": []
+              },
+              {
+                "text": "- Medicamentos (relación temporal)",
+                "children": []
+              },
+              {
+                "text": "- Exposiciones personales y ocupacionales",
+                "children": []
+              },
+              {
+                "text": "- Historia familiar de neutropenia",
+                "children": []
+              },
+              {
+                "text": "- Origen étnico",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Examen físico",
+            "children": [
+              {
+                "text": "- Signos de infección:",
+                "children": [
+                  {
+                    "text": "- Fiebre",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alteraciones cutáneas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Gingivitis, úlceras orales",
+                    "children": []
+                  },
+                  {
+                    "text": "- Examen respiratorio anormal",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Signos diagnósticos:",
+                "children": [
+                  {
+                    "text": "- Ictericia o estigmas de hepatopatía",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inflamación articular",
+                    "children": []
+                  },
+                  {
+                    "text": "- Erupciones cutáneas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfadenopatía o esplenomegalia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alteraciones neuropsiquiátricas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Frotis de\\Nsangre periférica",
+            "children": [
+              {
+                "text": "- Morfología\\Nneutrofílica:",
+                "children": [
+                  {
+                    "text": "- Granulaciones tóxicas o cuerpos de Dohle (sepsis)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Neutrófilos bilobulados o displásicos (SMD)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Neutrófilos hipersegmentados (déficit B12/folato)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Células mieloides inmaduras (leucemia)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Morfología\\Nlinfocitaria:",
+                "children": [
+                  {
+                    "text": "- Linfocitos atípicos (viral)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfocitos \"smudge\" (LLC)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Proyecciones \"pilosas\" (tricoleucemia)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfocitos con gránulos azurófilos (LGL)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Glóbulos\\Nrojos:",
+                "children": [
+                  {
+                    "text": "- Macro-ovalocitos (anemias megaloblásticas)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Células fragmentadas (microangiopatía)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Dacriocitos (procesos mieloftísicos)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Células espiculadas o en diana (hepatopatía)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Otras\\Npruebas iniciales",
+            "children": [
+              {
+                "text": "- Deficiencia\\Nnutricional:",
+                "children": [
+                  {
+                    "text": "- Niveles de vitamina B12, folato y cobre",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pruebas de función hepática",
+                    "children": []
+                  },
+                  {
+                    "text": "- Cribado para hepatitis viral y VIH",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Pacientes\\Nfebriles/inestables:",
+                "children": [
+                  {
+                    "text": "- Pruebas de coagulación",
+                    "children": []
+                  },
+                  {
+                    "text": "- LDH y creatinina sérica",
+                    "children": []
+                  },
+                  {
+                    "text": "- VSG y/o PCR en neutropenia moderada/severa",
+                    "children": []
+                  },
+                  {
+                    "text": "- Tipaje sanguíneo para antígeno Duffy en casos sugestivos",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN\\NPOSTERIOR Y MANEJO",
+        "children": [
+          {
+            "text": "### Diagnóstico\\Nestablecido",
+            "children": [
+              {
+                "text": "- **Deficiencia nutricional**: Suplementación apropiada",
+                "children": []
+              },
+              {
+                "text": "- **Infección viral**: Mejora en 1-2 semanas",
+                "children": []
+              },
+              {
+                "text": "- **Medicamentos**:",
+                "children": [
+                  {
+                    "text": "- RAN <1000: Suspender medicamentos asociados a reacciones idiosincráticas",
+                    "children": []
+                  },
+                  {
+                    "text": "- RAN ≥1000: Suspender citotóxicos/inmunosupresores",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Otros escenarios",
+            "children": [
+              {
+                "text": "#### Paciente\\Nhospitalizado",
+                "children": [
+                  {
+                    "text": "- Determinar si es previa o desarrollada durante hospitalización",
+                    "children": []
+                  },
+                  {
+                    "text": "- Correlacionar con medicamentos",
+                    "children": []
+                  },
+                  {
+                    "text": "- Considerar derivación a hematología si no hay mejoría",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Neutropenia\\Nincidental asintomática",
+                "children": [
+                  {
+                    "text": "- RAN ≥1000: Evaluación ambulatoria",
+                    "children": []
+                  },
+                  {
+                    "text": "- Si mejora: Probable síndrome viral o medicación mielosupresora",
+                    "children": []
+                  },
+                  {
+                    "text": "- Si es estable: Considerar DANC, neutropenia familiar, autoinmune",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Frotis anormal/Hemograma\\Nalterado",
+                "children": [
+                  {
+                    "text": "- Hallazgos sugestivos de leucemia: Hospitalización inmediata",
+                    "children": []
+                  },
+                  {
+                    "text": "- Esquistocitos: Hospitalización inmediata",
+                    "children": []
+                  },
+                  {
+                    "text": "- Granulaciones tóxicas: Evaluación urgente",
+                    "children": []
+                  },
+                  {
+                    "text": "- Células displásicas o atípicas: Derivación hematológica",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Infección/fiebre",
+                "children": [
+                  {
+                    "text": "- Temperatura ≥38.0°C: Tratamiento antibiótico inmediato",
+                    "children": []
+                  },
+                  {
+                    "text": "- Sepsis/inestabilidad: Hospitalización inmediata",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Trastornos\\Nreumatológicos/autoinmunes",
+                "children": [
+                  {
+                    "text": "- Evaluación de manifestaciones\\Nhematológicas específicas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Sospecha de\\Nneutropenia congénita",
+                "children": [
+                  {
+                    "text": "- Considerar en neutropenia severa inexplicada",
+                    "children": []
+                  },
+                  {
+                    "text": "- Buscar hallazgos somáticos o antecedentes familiares",
+                    "children": []
+                  },
+                  {
+                    "text": "- Derivar a hematólogo con experiencia en estos trastornos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Variantes normales <1500/microL",
+                "children": [
+                  {
+                    "text": "- DANC: Recuento estable, sin infecciones, asociado al fenotipo Duffy-null",
+                    "children": []
+                  },
+                  {
+                    "text": "- Neutropenia familiar: Similar pero en grupos étnicos no asociados a DANC",
+                    "children": []
+                  },
+                  {
+                    "text": "- Diagnóstico: RAN persistente <1500/microL sin historia de infecciones anormales",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN\\NADICIONAL",
+        "children": [
+          {
+            "text": "### Derivación a\\Nhematología",
+            "children": [
+              {
+                "text": "- **Inmediata (horas)**:",
+                "children": [
+                  {
+                    "text": "- Blastos leucémicos en frotis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Agranulocitosis (RAN <200/microL)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- **Pronta (días)**:",
+                "children": [
+                  {
+                    "text": "- Anomalías en frotis sugestivas de neoplasia hematológica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pancitopenia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hallazgos de síndrome de neutropenia congénita",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- **Oportuna\\N(días-semanas)**:",
+                "children": [
+                  {
+                    "text": "- Empeoramiento o persistencia de RAN <1000/microL no explicada",
+                    "children": []
+                  },
+                  {
+                    "text": "- Respuesta inadecuada a tratamiento nutricional",
+                    "children": []
+                  },
+                  {
+                    "text": "- Patrón de infecciones episódicas consistente con neutropenia cíclica",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Examen de\\Nmédula ósea",
+            "children": [
+              {
+                "text": "- **Esencial**: Sospecha de trastorno hematológico primario o síndrome de neutropenia congénita",
+                "children": []
+              },
+              {
+                "text": "- **Útil**: Sospecha de infección fúngica o tuberculosis",
+                "children": []
+              },
+              {
+                "text": "- **Puede ser engañoso**: Realizado muy pronto tras suspensión de medicamento",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## RIESGO DE\\NINFECCIÓN",
+        "children": [
+          {
+            "text": "- Influenciado por severidad y trayectoria del RAN",
+            "children": []
+          },
+          {
+            "text": "- Afectado por causa subyacente",
+            "children": []
+          },
+          {
+            "text": "- Mayor riesgo: Defectos de producción vs. redistribución/inmune",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## MONITORIZACIÓN",
+        "children": [
+          {
+            "text": "- **Neutropenia no\\Ncomplicada**:",
+            "children": [
+              {
+                "text": "- Hemogramas semanales durante 2-4 semanas",
+                "children": []
+              },
+              {
+                "text": "- Repetir a los 3 meses",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- **Si se resuelve**: No requiere seguimiento adicional",
+            "children": []
+          },
+          {
+            "text": "- **DANC**: No requiere monitorización adicional",
+            "children": []
+          },
+          {
+            "text": "- **Otras causas definidas**: Guiada por enfermedad subyacente",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## RESUMEN",
+        "children": [
+          {
+            "text": "- La neutropenia puede reflejar defectos de producción, redistribución o destrucción",
+            "children": []
+          },
+          {
+            "text": "- La evaluación inicial debe estratificar el riesgo según severidad, síntomas y hallazgos",
+            "children": []
+          },
+          {
+            "text": "- Los medicamentos y las infecciones son causas frecuentes y potencialmente reversibles",
+            "children": []
+          },
+          {
+            "text": "- Las variantes normales (DANC) son comunes en ciertos grupos étnicos",
+            "children": []
+          },
+          {
+            "text": "- El riesgo de infección se correlaciona principalmente con la severidad y causa de neutropenia",
+            "children": []
+          },
+          {
+            "text": "- La evaluación de médula ósea está indicada en casos seleccionados",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1836",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de\\NRescate en Anemia Hemolítica Autoinmune (AHAI) Grave\\Ndel Adulto: Estudio Observacional Multicéntrico Francés\\N**(Publicado 2024)**"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    }
+  ],
+  "source_file": "UTD - Enfoque Diagnóstico de Neutropenia en Adultos-2025.smmx",
+  "created": "2026-02-07T15:43:00.022292"
+}

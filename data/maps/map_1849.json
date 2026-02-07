@@ -1,0 +1,1413 @@
+{
+  "id": "map_1849",
+  "title": "INSUFICIENCIA\\NSUPRARRENAL (ISR)",
+  "specialty": "Endocrinología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 319,
+  "root": {
+    "text": "INSUFICIENCIA\\NSUPRARRENAL (ISR)",
+    "children": [
+      {
+        "text": "DEF → Incapacidad glándulas suprarrenales → ↓ producción cortisol (1)",
+        "children": []
+      },
+      {
+        "text": "TIPOS",
+        "children": [
+          {
+            "text": "ISR primaria",
+            "children": [
+              {
+                "text": "Origen → patología suprarrenal intrínseca",
+                "children": []
+              },
+              {
+                "text": "Afecta → cortisol + aldosterona + andrógenos",
+                "children": []
+              },
+              {
+                "text": "Preserva → hormonas médula SR",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ISR secundaria/terciaria",
+            "children": [
+              {
+                "text": "Origen → ↓ ACTH hipofisaria/CRH hipotalámica",
+                "children": []
+              },
+              {
+                "text": "Afecta → mineralocorticoides",
+                "children": []
+              },
+              {
+                "text": "Regulación → eje renina-angiotensina + K+ sérico",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EPIDEMIOLOGÍA",
+        "children": [
+          {
+            "text": "ISR primaria → Prevalencia: 0.01-0.05% población → ≈ 5/10,000 habitantes\\N→ Sin diferencias edad/sexo → ↑ mortalidad cardiovascular",
+            "children": []
+          },
+          {
+            "text": "ISR central → + frecuente → Causa principal: uso corticoides exógenos → ↓ ACTH",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "MANIFESTACIONES CLÍNICAS\\N(% frecuencia)",
+        "children": [
+          {
+            "text": "Déficit\\NGC",
+            "children": [
+              {
+                "text": "Debilidad/astenia (99)",
+                "children": []
+              },
+              {
+                "text": "Pérdida peso (97)",
+                "children": []
+              },
+              {
+                "text": "Anorexia/náusea/vómito (90)",
+                "children": []
+              },
+              {
+                "text": "Dolor abdominal (34)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Déficit\\NMC",
+            "children": [
+              {
+                "text": "Hipotensión arterial (87)",
+                "children": []
+              },
+              {
+                "text": "Apetencia sal (22)",
+                "children": []
+              },
+              {
+                "text": "Síncope (16)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ISR primaria\\N(↑ACTH)",
+            "children": [
+              {
+                "text": "Hiperpigmentación piel (98)",
+                "children": []
+              },
+              {
+                "text": "Hiperpigmentación mucosas (82)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Otros",
+            "children": [
+              {
+                "text": "Diarrea → déficit GC/MC (20)",
+                "children": []
+              },
+              {
+                "text": "Vértigo → autoinmunidad asociada (9)",
+                "children": []
+              },
+              {
+                "text": "↓líbido/vello → déficit andrógenos (9)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "FISIOPATOLOGÍA",
+        "children": [
+          {
+            "text": "→ Destrucción >90% corteza suprarrenal",
+            "children": []
+          },
+          {
+            "text": "Evolución gradual → síntomas larvados/progresivos",
+            "children": []
+          },
+          {
+            "text": "25% casos → destrucción rápida → crisis addisoniana al dx",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ESTUDIO",
+        "children": [
+          {
+            "text": "CRISIS SUPRARRENAL\\NAGUDA",
+            "children": [
+              {
+                "text": "Precipitantes:",
+                "children": [
+                  {
+                    "text": "Estrés",
+                    "children": []
+                  },
+                  {
+                    "text": "Cirugía",
+                    "children": []
+                  },
+                  {
+                    "text": "Trauma",
+                    "children": []
+                  },
+                  {
+                    "text": "Infección ",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ ↑necesidad cortisol\\N→ ISR crónica (2)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "EVALUACIÓN BIOQUÍMICA\\NISR PRIMARIA",
+            "children": [
+              {
+                "text": "Test estímulo\\NACTH",
+                "children": [
+                  {
+                    "text": "Procedimiento:",
+                    "children": [
+                      {
+                        "text": "Reposo 30min",
+                        "children": []
+                      },
+                      {
+                        "text": "9am, ayunas → muestra sangre (cortisol basal)",
+                        "children": []
+                      },
+                      {
+                        "text": "Administrar 0. 25mg ACTH",
+                        "children": []
+                      },
+                      {
+                        "text": "60min después → 2ª muestra",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Interpretación:",
+                    "children": [
+                      {
+                        "text": "Respuesta insuficiente: cortisol <15-18 μg/dL",
+                        "children": []
+                      },
+                      {
+                        "text": "Sensibilidad: 97.5%",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Dosis 1μg ACTH → no superior en dx (3)",
+                    "children": []
+                  },
+                  {
+                    "text": "Consideraciones:",
+                    "children": [
+                      {
+                        "text": "Urgencia → obviar ayuno",
+                        "children": []
+                      },
+                      {
+                        "text": "No corticoides crónicos previos",
+                        "children": []
+                      },
+                      {
+                        "text": "Dexametasona aguda (48h) permitida",
+                        "children": []
+                      },
+                      {
+                        "text": "ACO/terapia hormonal → ↑CBG → ↑cortisol total",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Cortisol plasmático\\Nmatinal",
+                "children": [
+                  {
+                    "text": "Muestra basal 9am",
+                    "children": []
+                  },
+                  {
+                    "text": "ISR probable: cortisol <5 μg/dL + ACTH >100 pg/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "ISR descartada: cortisol >15 μg/dL",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ESTUDIOS\\NADICIONALES",
+            "children": [
+              {
+                "text": "↑ARP (actividad renina plasmática) → sugestivo ISR primaria",
+                "children": []
+              },
+              {
+                "text": "DHEAS bajo → sugestivo ISR primaria/secundaria",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CAUSAS",
+        "children": [
+          {
+            "text": "CAUSAS ISR\\NPRIMARIA",
+            "children": [
+              {
+                "text": "Autoinmunes (>80% desde 1950) → Desplazó TBC como causa principal",
+                "children": []
+              },
+              {
+                "text": "Quirúrgicas",
+                "children": [
+                  {
+                    "text": "Suprarrenalectomía bilateral",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Infecciosas",
+                "children": [
+                  {
+                    "text": "TBC",
+                    "children": []
+                  },
+                  {
+                    "text": "Micótica",
+                    "children": []
+                  },
+                  {
+                    "text": "VIH",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Hemorrágicas",
+                "children": []
+              },
+              {
+                "text": "Sepsis",
+                "children": []
+              },
+              {
+                "text": "Coagulación intravascular diseminada",
+                "children": []
+              },
+              {
+                "text": "Meningococo",
+                "children": []
+              },
+              {
+                "text": "Anticoagulantes",
+                "children": []
+              },
+              {
+                "text": "Sd. antifosfolípidos",
+                "children": []
+              },
+              {
+                "text": "Otras",
+                "children": [
+                  {
+                    "text": "Metástasis\\N(pulmón/mama/melanoma/colon)",
+                    "children": []
+                  },
+                  {
+                    "text": "Hiperplasia suprarrenal congénita",
+                    "children": []
+                  },
+                  {
+                    "text": "Inhibidores: metirapona/ketoconazol/mitotano",
+                    "children": []
+                  },
+                  {
+                    "text": "Mutación receptor ACTH",
+                    "children": []
+                  },
+                  {
+                    "text": "Hipoplasia suprarrenal congénita",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CAUSAS ISR\\NSECUNDARIA",
+            "children": [
+              {
+                "text": "Hipopituitarismo → enfermedades hipotalámicas/hipofisarias",
+                "children": []
+              },
+              {
+                "text": "Supresión esteroidea eje hipotálamo-hipófisis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ADRENOLEUCODISTROFIA",
+            "children": [
+              {
+                "text": "Afecta → hombres jóvenes",
+                "children": []
+              },
+              {
+                "text": "Ligada → cromosoma X",
+                "children": []
+              },
+              {
+                "text": "Causa → ↑ácidos grasos cadena larga (VLCFA)",
+                "children": []
+              },
+              {
+                "text": "Mecanismo → fallo peroxisomas → disfunción corteza SR/desmielinización (6)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "SÍNDROMES AUTOINMUNES",
+        "children": [
+          {
+            "text": "Poliglandular tipo I",
+            "children": [
+              {
+                "text": "Herencia: autosómica recesiva",
+                "children": []
+              },
+              {
+                "text": "Mutación gen AIRE",
+                "children": []
+              },
+              {
+                "text": "Inicio: infancia",
+                "children": []
+              },
+              {
+                "text": "Asocia: hipoparatiroidismo + candidiasis mucocutánea",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Poliglandular tipo II",
+            "children": [
+              {
+                "text": "Herencia: poligénica",
+                "children": []
+              },
+              {
+                "text": "Inicio: adulto, secuencial",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Asociaciones: ",
+            "children": [
+              {
+                "text": "→ DM1 ",
+                "children": []
+              },
+              {
+                "text": "→ Enf. tiroidea autoinmune ",
+                "children": []
+              },
+              {
+                "text": "→ Alopecia areata",
+                "children": []
+              },
+              {
+                "text": "→ Vitíligo ",
+                "children": []
+              },
+              {
+                "text": "→ Anemia perniciosa ",
+                "children": []
+              },
+              {
+                "text": "→ Ooforitis autoinmune (10% mujeres)",
+                "children": []
+              },
+              {
+                "text": "→ Enf. celíaca",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ESTUDIO CAUSAS\\NISR PRIMARIA",
+        "children": [
+          {
+            "text": "Post-test ACTH\\N+ ↑ACTH:",
+            "children": [
+              {
+                "text": "TAC abdominal (7)",
+                "children": [
+                  {
+                    "text": "Hallazgos\\Nsugestivos:",
+                    "children": [
+                      {
+                        "text": "Atrofia → autoinmune",
+                        "children": []
+                      },
+                      {
+                        "text": "Calcificaciones bilaterales → TBC",
+                        "children": []
+                      },
+                      {
+                        "text": "Hemorragias + CID/anticoagulación → Sd. antifosfolípidos",
+                        "children": []
+                      },
+                      {
+                        "text": "Valorar metástasis si tumor primario",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "VLCFA",
+                "children": [
+                  {
+                    "text": "Medir en ♂ <20 años",
+                    "children": []
+                  },
+                  {
+                    "text": "10% adrenoleucodistrofia debuta con ISR",
+                    "children": []
+                  },
+                  {
+                    "text": "30% ISR en ♂ <8 años (1)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Screening\\Nautoinmune",
+                "children": [
+                  {
+                    "text": "Búsqueda dirigida → 50% desarrollan otras patologías AI",
+                    "children": []
+                  },
+                  {
+                    "text": "Valorar ciclos menstruales → riesgo insuf. ovárica 1ª",
+                    "children": []
+                  },
+                  {
+                    "text": "Estudios básicos:",
+                    "children": [
+                      {
+                        "text": "→ Anti-TPO",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Glucemia",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Anticuerpos antitransglutaminasa",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Vitamina B12",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Anticuerpos\\Nantisuprarrenales",
+                "children": [
+                  {
+                    "text": "Baja sensibilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "No recomendado uso rutinario",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TRATAMIENTO\\NISR PRIMARIA",
+        "children": [
+          {
+            "text": "OBJETIVO",
+            "children": [
+              {
+                "text": "→ Reemplazo gluco/mineralocorticoides",
+                "children": []
+              },
+              {
+                "text": "→ Dosis equivalentes a secreción normal",
+                "children": []
+              },
+              {
+                "text": "→ Prevenir crisis SR aguda (↑morbimortalidad)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MEDICAMENTOS",
+        "children": [
+          {
+            "text": "1. HIDROCORTISONA (cortisol)",
+            "children": [
+              {
+                "text": "Dosis: 15-20 mg/d (6-10 mg/m²)",
+                "children": []
+              },
+              {
+                "text": "Pauta:",
+                "children": [
+                  {
+                    "text": "- Adultos: 2 dosis (2/3 am + 1/3 17h) o",
+                    "children": []
+                  },
+                  {
+                    "text": "- Niños: 3 dosis (1/2 am + 1/4 mediodía + 1/4 17h)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Imita ritmo circadiano (8)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Recomendaciones:",
+                "children": [
+                  {
+                    "text": "- Tomar en ayunas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Dosis vespertina antes 19:00h → evitar insomnio",
+                    "children": []
+                  },
+                  {
+                    "text": "- Control: peso + tolerancia + conocimiento enfermedad",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Signos suplementación\\Nsubóptima:",
+                "children": [
+                  {
+                    "text": "- ↓apetito",
+                    "children": []
+                  },
+                  {
+                    "text": "- Fatiga/debilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "- Náuseas",
+                    "children": []
+                  },
+                  {
+                    "text": "- ↓energía vespertina",
+                    "children": []
+                  },
+                  {
+                    "text": "- Ortostatismo",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Signos suplementación\\Nexcesiva:",
+                "children": [
+                  {
+                    "text": "- ↑peso",
+                    "children": []
+                  },
+                  {
+                    "text": "- Obesidad central",
+                    "children": []
+                  },
+                  {
+                    "text": "- Insomnio",
+                    "children": []
+                  },
+                  {
+                    "text": "- Estrías cutáneas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Intolerancia glucosa",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hipertensión",
+                    "children": []
+                  },
+                  {
+                    "text": "- Osteoporosis",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. FLUDROCORTISONA",
+            "children": [
+              {
+                "text": "Dosis: 0.1 mg/d (0. 05-0.2 mg/d)",
+                "children": [
+                  {
+                    "text": "- No necesaria si hidrocortisona >40 mg/d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Indicaciones:",
+                "children": [
+                  {
+                    "text": "- Fase estable ISR primaria",
+                    "children": []
+                  },
+                  {
+                    "text": "- Prevenir descompensaciones",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mejorar síntomas déficit mineralocorticoides",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Consideraciones:",
+                "children": [
+                  {
+                    "text": "- ↑ingesta sal en clima caluroso",
+                    "children": []
+                  },
+                  {
+                    "text": "- ↑dosis si prednisona/dexametasona",
+                    "children": []
+                  },
+                  {
+                    "text": "- Monitorizar: edema + hipotensión ortostática + apetencia sal",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. DHEAS",
+            "children": [
+              {
+                "text": "- Indicación: ♀ con ↓calidad vida pese tratamiento adecuado",
+                "children": []
+              },
+              {
+                "text": "- Evidencia: leve mejoría calidad vida/ánimo",
+                "children": []
+              },
+              {
+                "text": "- No mejora líbido (9)",
+                "children": []
+              },
+              {
+                "text": "- No indicado uso rutinario en ♀",
+                "children": []
+              },
+              {
+                "text": "- Contraindicado en ♂",
+                "children": []
+              },
+              {
+                "text": "- Dosis: 25-50 mg/d (variable)",
+                "children": []
+              },
+              {
+                "text": "- Control previo: DHEAS + androstenediona plasmáticas",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "SEGUIMIENTO\\NISR PRIMARIA",
+        "children": [
+          {
+            "text": "FRECUENCIA\\NCONTROL",
+            "children": [
+              {
+                "text": "→ Cada 6 meses",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "1. Anamnesis",
+            "children": [
+              {
+                "text": "- ↓peso",
+                "children": []
+              },
+              {
+                "text": "- Anorexia",
+                "children": []
+              },
+              {
+                "text": "- Astenia",
+                "children": []
+              },
+              {
+                "text": "- Ortostatismo",
+                "children": []
+              },
+              {
+                "text": "- Líbido",
+                "children": []
+              },
+              {
+                "text": "- Ciclos menstruales",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Examen físico",
+            "children": [
+              {
+                "text": "- Peso/IMC",
+                "children": []
+              },
+              {
+                "text": "- Estigmas Cushing",
+                "children": []
+              },
+              {
+                "text": "- PA pie/sentado",
+                "children": []
+              },
+              {
+                "text": "- Edema",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Laboratorio básico",
+            "children": [
+              {
+                "text": "- Sodio",
+                "children": []
+              },
+              {
+                "text": "- Potasio",
+                "children": []
+              },
+              {
+                "text": "- Glucemia",
+                "children": []
+              },
+              {
+                "text": "- Perfil lipídico",
+                "children": []
+              },
+              {
+                "text": "→ No útil: cortisol plasmático/urinario",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "4. Exámenes\\Ncomplementarios",
+            "children": [
+              {
+                "text": "- TSH + actividad renina plasmática",
+                "children": []
+              },
+              {
+                "text": "*Nota: TSH puede estar ↑ sin hipotiroidismo → falta supresión glucocorticoides",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "5. Screening\\Nautoinmune",
+            "children": [
+              {
+                "text": "- Anti-TPO",
+                "children": []
+              },
+              {
+                "text": "- Antitransglutaminasa",
+                "children": []
+              },
+              {
+                "text": "- Vitamina B12",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EVALUACIÓN\\NHORMONAL",
+        "children": [
+          {
+            "text": "- Gran variabilidad individual",
+            "children": []
+          },
+          {
+            "text": "- Falta métodos bioquímicos confiables",
+            "children": []
+          },
+          {
+            "text": "- No consenso seguimiento endocrinológico",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "CONSIDERACIONES",
+        "children": [
+          {
+            "text": "1. No normalizar\\NACTH matinal",
+            "children": [
+              {
+                "text": "→ Riesgo sobredosificación hidrocortisona",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Métodos no\\Nútiles seguimiento:",
+            "children": [
+              {
+                "text": "- Cortisol libre urinario 24h",
+                "children": []
+              },
+              {
+                "text": "- Cortisol salival",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Cortisol en pelo",
+            "children": [
+              {
+                "text": "- Método nuevo no invasivo",
+                "children": []
+              },
+              {
+                "text": "- Refleja promedio 2-3 meses",
+                "children": []
+              },
+              {
+                "text": "- Útil detectar dosis suprafisiológicas (10)",
+                "children": []
+              },
+              {
+                "text": "- No estandarizado adecuadamente",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "4. ISR secundaria",
+            "children": [
+              {
+                "text": "- Ajuste cortisol similar a primaria",
+                "children": []
+              },
+              {
+                "text": "- No requiere fludrocortisona",
+                "children": []
+              },
+              {
+                "text": "→ Secreción aldosterona preservada (renina + K)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "PREVENCIÓN Y MANEJO\\NCRISIS SUPRARRENAL",
+        "children": [
+          {
+            "text": "MEDIDAS\\NPREVENTIVAS",
+            "children": [
+              {
+                "text": "Identificación",
+                "children": [
+                  {
+                    "text": "→ Medalla/pulsera grabada con:",
+                    "children": [
+                      {
+                        "text": "Nombre paciente",
+                        "children": []
+                      },
+                      {
+                        "text": "Teléfono contacto",
+                        "children": []
+                      },
+                      {
+                        "text": "Diagnóstico (ISR 1ª/2ª)",
+                        "children": []
+                      },
+                      {
+                        "text": "Dosis hidrocortisona",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "Educación paciente/familia",
+                "children": [
+                  {
+                    "text": "Condición crónica → importancia adherencia",
+                    "children": []
+                  },
+                  {
+                    "text": "Ajuste dosis en estrés",
+                    "children": []
+                  },
+                  {
+                    "text": "Situaciones riesgo → contactar médico/urgencias",
+                    "children": []
+                  },
+                  {
+                    "text": "Vómitos/diarrea → hidrocortisona parenteral",
+                    "children": []
+                  },
+                  {
+                    "text": "Reconocer signos/síntomas crisis suprarrenal",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "AJUSTE DE DOSIS EN\\NSITUACIONES ESPECIALES",
+            "children": [
+              {
+                "text": "CONDICIONES\\NLEVES",
+                "children": [
+                  {
+                    "text": "1. Cuadro febril ambulatorio",
+                    "children": [
+                      {
+                        "text": "→ Duplicar dosis habitual",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. Cirugía menor/endoscopia",
+                    "children": [
+                      {
+                        "text": "→ Duplicar dosis habitual",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "3. Ejercicio",
+                    "children": [
+                      {
+                        "text": "→ ↑hidrocortisona 5-10mg si intenso",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "4. Embarazo",
+                    "children": [
+                      {
+                        "text": "→ ↑dosis en 3er trimestre",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "CONDICIONES\\NMODERADAS/GRAVES",
+                "children": [
+                  {
+                    "text": "1. Vómitos/diarrea importante",
+                    "children": [
+                      {
+                        "text": "→ GC IV en urgencias",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. Enfermedad grave",
+                    "children": [
+                      {
+                        "text": "- IAM/sepsis",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Hidrocortisona 50mg/8h IV",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "3. Cirugía mayor",
+                    "children": [
+                      {
+                        "text": "- Cardiotorácica",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Hidrocortisona 50mg/8h IV",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "4. Parto",
+                    "children": [
+                      {
+                        "text": "→ Duplicar dosis habitual",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "INTERACCIONES\\NMEDICAMENTOSAS",
+                "children": [
+                  {
+                    "text": "- Fenofibrato/fenitoína inicio",
+                    "children": [
+                      {
+                        "text": "→ ↑hidrocortisona 5-10mg/d",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "MANEJO CRISIS\\NAGUDA",
+            "children": [
+              {
+                "text": "Inicio",
+                "children": [
+                  {
+                    "text": "Inmediato ante sospecha",
+                    "children": []
+                  },
+                  {
+                    "text": "Paciente no conocido → tomar cortisol → iniciar tratamiento",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Terapia",
+                "children": [
+                  {
+                    "text": "Hidrocortisona 50mg/8h IV",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Corrección:",
+                "children": [
+                  {
+                    "text": "→ Deshidratación",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Hipovolemia",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Alteraciones electrolíticas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Tratar patologías\\Nprecipitantes:",
+                "children": [
+                  {
+                    "text": "→ Infección",
+                    "children": []
+                  },
+                  {
+                    "text": "→ IAM",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "MANEJO HOSPITALARIO\\NY HSC EN ADULTO",
+            "children": [
+              {
+                "text": "TERAPIA MANTENCIÓN\\NHOSPITALARIA",
+                "children": [
+                  {
+                    "text": "- Hidrocortisona IV dosis decrecientes hasta estabilización",
+                    "children": []
+                  },
+                  {
+                    "text": "- ISR 1ª estable + cortisol <40mg/d → agregar fludrocortisona",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPERPLASIA SUPRARRENAL\\NCONGÉNITA CLÁSICA (HSC)",
+        "children": [
+          {
+            "text": "INDICACIONES\\NTRATAMIENTO (11)",
+            "children": [
+              {
+                "text": "1. Mujeres: déficit 21 hidroxilasa",
+                "children": []
+              },
+              {
+                "text": "2. Hombres: fenotipo perdedor sal + virilizante simple + restos adrenales",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "ESQUEMAS\\NTERAPÉUTICOS",
+            "children": [
+              {
+                "text": "1. GC vida media\\Nlarga nocturno",
+                "children": [
+                  {
+                    "text": "Ventajas:",
+                    "children": [
+                      {
+                        "text": "- Inhibe ACTH matinal",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Desventajas:",
+                    "children": [
+                      {
+                        "text": "- No imita secreción fisiológica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Riesgo trastornos sueño/ánimo",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. Alternativas:",
+                "children": [
+                  {
+                    "text": "- Dexametasona 0. 25-0.5mg/23h",
+                    "children": []
+                  },
+                  {
+                    "text": "- Prednisona 5-7.5mg/d",
+                    "children": [
+                      {
+                        "text": "→ 2 dosis o única nocturna si no altera sueño",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Hidrocortisona 10-20mg",
+                    "children": [
+                      {
+                        "text": "→ Niños/insomnio/embarazadas",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "SEGUIMIENTO\\NGLUCOCORTICOIDES HSC",
+            "children": [
+              {
+                "text": "1. Control 17-OH progesterona (9am pre-GC)",
+                "children": [
+                  {
+                    "text": "VN:",
+                    "children": [
+                      {
+                        "text": "- Fase folicular: <1.8 ng/mL",
+                        "children": []
+                      },
+                      {
+                        "text": "- Varones: <3.4 ng/mL",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. Objetivos:",
+                "children": [
+                  {
+                    "text": "- General: 4-12 ng/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mujeres fertilidad: 4-8 ng/mL",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hombres sin restos adrenales: <25 ng/mL",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Control andrógenos → niveles normal-alto",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CONTROL MINERALOCORTICOIDES\\NHSC PERDEDORA SAL",
+            "children": [
+              {
+                "text": "Objetivos:",
+                "children": [
+                  {
+                    "text": "1. PA normal",
+                    "children": []
+                  },
+                  {
+                    "text": "2. Sin ortostatismo/edema clínico",
+                    "children": []
+                  },
+                  {
+                    "text": "3. Actividad renina plasmática normal-alta",
+                    "children": []
+                  },
+                  {
+                    "text": "4. K plasmático normal",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1836",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de\\NRescate en Anemia Hemolítica Autoinmune (AHAI) Grave\\Ndel Adulto: Estudio Observacional Multicéntrico Francés\\N**(Publicado 2024)**"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    }
+  ],
+  "source_file": "Arteaga | INSUFICIENCIA SUPRARRENAL (ISR)-2024-1.smmx",
+  "created": "2026-02-07T15:43:00.834402"
+}

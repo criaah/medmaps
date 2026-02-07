@@ -1,0 +1,1757 @@
+{
+  "id": "map_1815",
+  "title": "HTA ORIGEN\\NENDOCRINO",
+  "specialty": "Cardiología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 403,
+  "root": {
+    "text": "HTA ORIGEN\\NENDOCRINO",
+    "children": [
+      {
+        "text": "EPIDEMIOLOGÍA",
+        "children": [
+          {
+            "text": "• Población adulta → 26% presenta HTA ",
+            "children": []
+          },
+          {
+            "text": "• HTA resistente →\\N2-35% hipertensos",
+            "children": [
+              {
+                "text": "→ PA>140/90 pob.general",
+                "children": []
+              },
+              {
+                "text": "→ PA>130/80 DM/IRC",
+                "children": []
+              },
+              {
+                "text": "→ ≥3 antihipertensivos + diurético",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "• Meta PA<140/90 → solo 45-81% alcanza",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "CAUSAS\\NPRINCIPALES",
+        "children": [
+          {
+            "text": "1. Hiperaldosteronismo 1º (HAP)",
+            "children": []
+          },
+          {
+            "text": "2. Exceso mineralocorticoides",
+            "children": []
+          },
+          {
+            "text": "3. Menos frecuentes:",
+            "children": [
+              {
+                "text": "→ S.Cushing",
+                "children": []
+              },
+              {
+                "text": "→ Acromegalia",
+                "children": []
+              },
+              {
+                "text": "→ Hiperparatiroidismo 1º",
+                "children": []
+              },
+              {
+                "text": "→ Hipertiroidismo",
+                "children": []
+              },
+              {
+                "text": "→ Hipotiroidismo",
+                "children": []
+              },
+              {
+                "text": "→ Feocromocitoma",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPERALDOSTERONISMO 1º\\N(HAP)",
+        "children": [
+          {
+            "text": "CARACTERÍSTICAS:",
+            "children": [
+              {
+                "text": "→ Dx precoz importante x > morbimortalidad CV vs HTA esencial",
+                "children": []
+              },
+              {
+                "text": "• Aldosterona ↑ autónoma",
+                "children": []
+              },
+              {
+                "text": "• No supresible x Na+",
+                "children": []
+              },
+              {
+                "text": "• Hipokalemia: 9-37% casos (7)",
+                "children": []
+              },
+              {
+                "text": "• Prevalencia: >10% hipertensos (7)",
+                "children": [
+                  {
+                    "text": "• Adenomas productores → 50% casos",
+                    "children": []
+                  },
+                  {
+                    "text": "• HAP idiopático → 17% casos",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ETIOLOGÍA\\NHAP (7):",
+            "children": [
+              {
+                "text": "1. APA (adenoma productor aldosterona) → 30-35%",
+                "children": []
+              },
+              {
+                "text": "2. IHA (hiperaldosteronismo idiopático) → 60-70%",
+                "children": []
+              },
+              {
+                "text": "3. HPU (hiperplasia suprarrenal uni/bilateral)",
+                "children": []
+              },
+              {
+                "text": "HIPERALDOSTERONISMO\\NFAMILIAR (HF)",
+                "children": [
+                  {
+                    "text": "• Tipo I → remediable x glucocorticoides (GRA)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Tipo II y III → recién descritos",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "EVALUACIÓN\\NBIOQUÍMICA HAP",
+            "children": [
+              {
+                "text": "INDICACIONES\\NTAMIZAJE:",
+                "children": [
+                  {
+                    "text": "1. HTA moderada-grave",
+                    "children": []
+                  },
+                  {
+                    "text": "2. HTA resistente → PA>140/90 + 3 antihipertensivos",
+                    "children": []
+                  },
+                  {
+                    "text": "3. HTA + hipokalemia (espontánea/x diuréticos)",
+                    "children": []
+                  },
+                  {
+                    "text": "4. HTA + incidentaloma suprarrenal",
+                    "children": []
+                  },
+                  {
+                    "text": "5. HTA familiar/AVE <40 años",
+                    "children": []
+                  },
+                  {
+                    "text": "6. Familiares 1º grado pacientes HAP",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "TEST\\NTAMIZAJE:",
+                "children": [
+                  {
+                    "text": "ARR (Aldosterone\\Nto Renin Ratio)",
+                    "children": [
+                      {
+                        "text": "• Condiciones:",
+                        "children": [
+                          {
+                            "text": "→ Ayuno + reposo 30min",
+                            "children": []
+                          },
+                          {
+                            "text": "→ 9am sentado",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "• Valores sospecha:",
+                        "children": [
+                          {
+                            "text": "→ ARR >25 + aldosterona >10 ng/dL",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Si ARP suprimida → usar 0.3 ng/mL/h",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "PREPARACIÓN\\NTEST:",
+                        "children": [
+                          {
+                            "text": "1. Corregir hipokalemia",
+                            "children": []
+                          },
+                          {
+                            "text": "2. Dieta libre Na+",
+                            "children": []
+                          },
+                          {
+                            "text": "3. Suspender fármacos interferentes (≥2sem)",
+                            "children": []
+                          },
+                          {
+                            "text": "4. Cambiar a antihipertensivos mínima interferencia",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "FÁRMACOS A\\NSUSPENDER:",
+                        "children": [
+                          {
+                            "text": "FALSOS NEGATIVOS\\NARR:",
+                            "children": [
+                              {
+                                "text": "• Ahorradores de K",
+                                "children": [
+                                  {
+                                    "text": "• Triamterene",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "• Amiloride",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "• Espironolactona",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "text": "• Diuréticos K+",
+                                "children": [
+                                  {
+                                    "text": "• Tiazidas",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "Furosemida",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "text": "• Anticonceptivos",
+                                "children": []
+                              },
+                              {
+                                "text": "• BCC dihidropiridínicos",
+                                "children": []
+                              },
+                              {
+                                "text": "• IECA",
+                                "children": []
+                              },
+                              {
+                                "text": "• ARA II",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "text": "FALSOS POSITIVOS\\NARR:",
+                            "children": [
+                              {
+                                "text": "• Clonidina",
+                                "children": []
+                              },
+                              {
+                                "text": "• Inhibidores renina",
+                                "children": [
+                                  {
+                                    "text": "• Aliskireno (cuando renina = actividad plasmática)",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "text": "• β-bloqueadores",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": "ANTIHIPERTENSIVOS\\NPERMITIDOS:",
+                        "children": [
+                          {
+                            "text": "1. Verapamilo LP → 90-120mg/12h",
+                            "children": []
+                          },
+                          {
+                            "text": "2. Hidralazina → 10-12.5mg/12h",
+                            "children": []
+                          },
+                          {
+                            "text": "3. Prazosina → 0.5-1mg/12h",
+                            "children": []
+                          },
+                          {
+                            "text": "4. Doxazosina → 1-2mg/24h",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "CONFIRMACIÓN\\NBIOQUÍMICA HAP",
+                "children": [
+                  {
+                    "text": "INDICACIÓN:",
+                    "children": [
+                      {
+                        "text": "→ Renina plasmática aumentada",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Evita exámenes riesgosos innecesarios",
+                        "children": []
+                      },
+                      {
+                        "text": "→ ARR >25 → test confirmatorio obligatorio",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "SELECCIÓN TEST:",
+                    "children": [
+                      {
+                        "text": "• Sin evidencia suficiente para recomendar uno específico",
+                        "children": []
+                      },
+                      {
+                        "text": "• Considerar:",
+                        "children": [
+                          {
+                            "text": "→ Costos",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Cumplimiento paciente",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Laboratorio disponible",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Experiencia local",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "TESTS\\NCONFIRMATORIOS:",
+                    "children": [
+                      {
+                        "text": "1. Sobrecarga salina IV:",
+                        "children": [
+                          {
+                            "text": "→ Simple + rápido",
+                            "children": []
+                          },
+                          {
+                            "text": "→ No requiere orina",
+                            "children": []
+                          },
+                          {
+                            "text": "→ 2L SF 0.9% en 4h",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Aldosterona: 9am pre/post",
+                            "children": []
+                          },
+                          {
+                            "text": "→ (+) si aldosterona post >5 ng/dL",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Más usado",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "2. Supresión\\Nfludrocortisona:",
+                        "children": [
+                          {
+                            "text": "→ 0.1mg/6h x 4 días",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Aldosterona día 5 a 9am",
+                            "children": []
+                          },
+                          {
+                            "text": "→ (+) si >5 ng/dL",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "3. Sobrecarga\\Noral Na+:",
+                        "children": [
+                          {
+                            "text": "→ Requiere orina",
+                            "children": []
+                          },
+                          {
+                            "text": "→ NaCl 6g/día x 3 días + K+",
+                            "children": []
+                          },
+                          {
+                            "text": "→ (+) si:",
+                            "children": [
+                              {
+                                "text": "• Aldosterona urinaria >12 µg/24h",
+                                "children": []
+                              },
+                              {
+                                "text": "• Na+ urinario >200 mEq/24h",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": "4. Test captopril:",
+                        "children": [
+                          {
+                            "text": "→ Posición sentada 60min",
+                            "children": []
+                          },
+                          {
+                            "text": "→ 25mg captopril oral 9am",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Medir a 2h:",
+                            "children": [
+                              {
+                                "text": "• Aldosterona plasmática",
+                                "children": []
+                              },
+                              {
+                                "text": "• ARP",
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "text": "→ (+) si:",
+                            "children": [
+                              {
+                                "text": "• ARR >30 o",
+                                "children": []
+                              },
+                              {
+                                "text": "• Aldosterona >8.5 ng/dL",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "PRECAUCIONES\\NTESTS:",
+                    "children": [
+                      {
+                        "text": "• Fludrocortisona/salina IV:",
+                        "children": [
+                          {
+                            "text": "→ Contraindicados: HTA no controlada/ICC",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "• Captopril:",
+                        "children": [
+                          {
+                            "text": "→ Preferible si riesgo sobrecarga volumen",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ALGORITMO\\NESTUDIO HAP:",
+            "children": [
+              {
+                "text": "1. HTA alta probabilidad HAP",
+                "children": []
+              },
+              {
+                "text": "2. Medir ARR",
+                "children": [
+                  {
+                    "text": "→ <25 → HAP improbable",
+                    "children": []
+                  },
+                  {
+                    "text": "→ >25 → Test confirmatorio",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Si (+) → TAC abdomen",
+                "children": []
+              },
+              {
+                "text": "4. Según hallazgos:",
+                "children": [
+                  {
+                    "text": "→ Unilateral → Suprarrenalectomía laparoscópica",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Bilateral → Antagonistas mineralocorticoides",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "5. Resultado → Determina subtipo",
+                "children": []
+              },
+              {
+                "text": "CLASIFICACIÓN\\NSUBTIPO HAP",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "EXÁMENES\\NFUNDAMENTALES:",
+            "children": [
+              {
+                "text": "1. TAC abdomen:",
+                "children": [
+                  {
+                    "text": "→ Obligatorio si HAP confirmado",
+                    "children": []
+                  },
+                  {
+                    "text": "→ APA: nódulo <2cm",
+                    "children": []
+                  },
+                  {
+                    "text": "→ IHA: glándulas normales/↑bilateral",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Carcinomas: >4cm",
+                    "children": []
+                  },
+                  {
+                    "text": "• Limitaciones (7):",
+                    "children": [
+                      {
+                        "text": "→ APA pequeños",
+                        "children": []
+                      },
+                      {
+                        "text": "→ IHA falso",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Adenomas no funcionantes",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Exactitud 53%",
+                        "children": []
+                      },
+                      {
+                        "text": "→ RM sin ventajas vs TAC",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. MVS (muestreo\\Nvenas suprarrenales):",
+                "children": [
+                  {
+                    "text": "→ Indicado pre-cirugía",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Gold standard lateralización",
+                    "children": []
+                  },
+                  {
+                    "text": "• Características (7):",
+                    "children": [
+                      {
+                        "text": "→ Sensibilidad 95%",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Especificidad 100%",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Complicaciones 2.5%",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Técnica:",
+                    "children": [
+                      {
+                        "text": "→ Mide aldosterona/cortisol bilateral",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Éxito: cortisol vena/cava >2",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Lateralización (+): ratio >4",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Bajo ACTH",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Dificultad canulación vena derecha",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Solo centros experimentados",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN\\NHAP FAMILIAR",
+            "children": [
+              {
+                "text": "HAP FAMILIAR (HF):",
+                "children": [
+                  {
+                    "text": "1. TIPO I (HF-I):",
+                    "children": [
+                      {
+                        "text": "→ Test genético: CYP11B1/CYP11B2 (XL-PCR)",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Indicaciones:",
+                        "children": [
+                          {
+                            "text": "• Pacientes HF-I",
+                            "children": []
+                          },
+                          {
+                            "text": "• HTA temprana",
+                            "children": []
+                          },
+                          {
+                            "text": "• Historia familiar HTA + ACV",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. TIPO II:",
+                    "children": [
+                      {
+                        "text": "→ HAP confirmado ≥2 familiares",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Excluir HF-I (test genético -)",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Genética no aclarada",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO\\NSEGÚN SUBTIPO",
+            "children": [
+              {
+                "text": "1. APA + HP:",
+                "children": [
+                  {
+                    "text": "→ Suprarrenalectomía laparoscópica (8)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Control electrolitos 15 días post-cx",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. IHA:",
+                "children": [
+                  {
+                    "text": "→ Espironolactona 25-200mg/día",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Alternativa: eplerenona 25-100mg/día",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. HF tipo I:",
+                "children": [
+                  {
+                    "text": "→ Dexametasona 0. 125-0.5mg nocturna",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Dosis mínima efectiva",
+                    "children": []
+                  },
+                  {
+                    "text": "→ ± espironolactona según respuesta",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "SEAM (S.Exceso Aparente\\NMineralocorticoide)",
+        "children": [
+          {
+            "text": "CARACTERÍSTICAS:",
+            "children": [
+              {
+                "text": "• Genética: autosómica recesiva",
+                "children": []
+              },
+              {
+                "text": "• Déficit 11β-HSD2",
+                "children": []
+              },
+              {
+                "text": "• Cortisol → cortisona (riñón)",
+                "children": []
+              },
+              {
+                "text": "• Déficit → cortisol activa receptor mineralocorticoide",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "EPIDEMIOLOGÍA:",
+            "children": [
+              {
+                "text": "• 15.7% hipertensos esenciales (9)",
+                "children": []
+              },
+              {
+                "text": "• Presentación:",
+                "children": [
+                  {
+                    "text": "→ Niñez: grave",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Adultez: leve",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Gravedad ∝ actividad 11β-HSD2",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLÍNICA:",
+            "children": [
+              {
+                "text": "• Hipokalemia",
+                "children": []
+              },
+              {
+                "text": "• Diabetes insípida",
+                "children": []
+              },
+              {
+                "text": "• Nefrocalcinosis",
+                "children": []
+              },
+              {
+                "text": "• HTA",
+                "children": []
+              },
+              {
+                "text": "• Retraso crecimiento (niños)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "DIAGNÓSTICO:",
+            "children": [
+              {
+                "text": "• ARP <1 ng/mL/h",
+                "children": []
+              },
+              {
+                "text": "• Aldosterona <5 ng/dL",
+                "children": []
+              },
+              {
+                "text": "• Ratio cortisol/cortisona urinaria ↑",
+                "children": [
+                  {
+                    "text": "→ Normal: 0.2-0.5",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "FÁRMACOS:",
+            "children": [
+              {
+                "text": "1. Espironolactona y/o\\Ndexametasona",
+                "children": [
+                  {
+                    "text": "→ Suprime cortisol endógeno",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Sin efecto mineralocorticoide propio",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Alternativas:",
+                "children": [
+                  {
+                    "text": "→ Amiloride",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Tiazidas",
+                    "children": []
+                  },
+                  {
+                    "text": "• Beneficio adicional: ↓hipercalciuria",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "S.LIDDLE",
+        "children": [
+          {
+            "text": "FISIOPATOLOGÍA:",
+            "children": [
+              {
+                "text": "• Autosómico dominante",
+                "children": []
+              },
+              {
+                "text": "• Mutación ENaC túbulo colector renal",
+                "children": []
+              },
+              {
+                "text": "• ↑canales Na+ funcionantes",
+                "children": []
+              },
+              {
+                "text": "• ↑reabsorción Na+/H2O → HTA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLÍNICA:",
+            "children": [
+              {
+                "text": "• HTA grave",
+                "children": []
+              },
+              {
+                "text": "• Hipokalemia + alcalosis metabólica",
+                "children": []
+              },
+              {
+                "text": "• ARP/aldosterona ↓",
+                "children": []
+              },
+              {
+                "text": "• No responde espironolactona\\N(actúa receptor, no ENaC)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO:",
+            "children": [
+              {
+                "text": "• Dieta Na+ <2g/día",
+                "children": []
+              },
+              {
+                "text": "• Inhibidores ENaC:",
+                "children": [
+                  {
+                    "text": "→ Amiloride",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Triamterene",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "FEOCROMOCITOMA",
+        "children": [
+          {
+            "text": "CARACTERÍSTICAS:",
+            "children": [
+              {
+                "text": "• Neoplasia productora catecolaminas",
+                "children": []
+              },
+              {
+                "text": "• Origen:",
+                "children": [
+                  {
+                    "text": "→ Médula suprarrenal (85%)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Ganglios SNS (15%)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Epidemiología:",
+                "children": [
+                  {
+                    "text": "→ Incidencia: 1-2/100.000/año",
+                    "children": []
+                  },
+                  {
+                    "text": "→ 0.2% hipertensos",
+                    "children": []
+                  },
+                  {
+                    "text": "→ 10% hallazgo incidental TAC/RM (10)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ 15-20% familiares",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "SOSPECHA DX:",
+            "children": [
+              {
+                "text": "1. Clínica + síntomas",
+                "children": []
+              },
+              {
+                "text": "2. Masa suprarrenal incidental",
+                "children": []
+              },
+              {
+                "text": "3. Historia familiar/síndrome genético",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLÍNICA:",
+            "children": [
+              {
+                "text": "• Tríada clásica:",
+                "children": [
+                  {
+                    "text": "→ Cefalea",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Sudoración",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Taquicardia",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Otros:",
+                "children": [
+                  {
+                    "text": "→ HTA paroxística (48%)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ HTA sostenida (29%)",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Ansiedad",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Temblor",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Parestesias",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• 8% asintomáticos",
+                "children": []
+              },
+              {
+                "text": "• 13% normotensos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "DIAGNÓSTICO:",
+            "children": [
+              {
+                "text": "Metanefrinas:",
+                "children": [
+                  {
+                    "text": "→ Plasma: sensibilidad 99%",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Orina 24h fraccionada: sensibilidad 97%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "LOCALIZACIÓN:",
+                "children": [
+                  {
+                    "text": "• Tumores:",
+                    "children": [
+                      {
+                        "text": "→ 95% abdominopélvicos",
+                        "children": []
+                      },
+                      {
+                        "text": "→ 85% suprarrenales",
+                        "children": []
+                      },
+                      {
+                        "text": "→ 15% extrasuprarrenales",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Extrasuprarrenales:",
+                    "children": [
+                      {
+                        "text": "→ 75% paraórticos abdominales",
+                        "children": []
+                      },
+                      {
+                        "text": "→ 10% vejiga",
+                        "children": []
+                      },
+                      {
+                        "text": "→ 10% tórax",
+                        "children": []
+                      },
+                      {
+                        "text": "→ 5% cabeza/cuello/pelvis",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "ESTUDIOS\\NIMAGEN:",
+                    "children": [
+                      {
+                        "text": "1. TAC/RM abdomen-pelvis:",
+                        "children": [
+                          {
+                            "text": "→ Sensibilidad: 98-100%",
+                            "children": []
+                          },
+                          {
+                            "text": "→ Especificidad: 70-80%",
+                            "children": []
+                          },
+                          {
+                            "text": "→ RM: tumor hiperintenso T2",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "2. Cintigrama MIBG:",
+                        "children": [
+                          {
+                            "text": "→ Sensibilidad: 90-95%",
+                            "children": []
+                          },
+                          {
+                            "text": "• Especificidad: 99%",
+                            "children": []
+                          },
+                          {
+                            "text": "• Indicaciones:",
+                            "children": [
+                              {
+                                "text": "→ Tumores >5cm",
+                                "children": []
+                              },
+                              {
+                                "text": "→ Paragangliomas",
+                                "children": []
+                              },
+                              {
+                                "text": "→ Sospecha enfermedad multifocal",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "CRITERIOS ESTUDIO\\NGENÉTICO:",
+                "children": [
+                  {
+                    "text": "1. Paragangliomas",
+                    "children": []
+                  },
+                  {
+                    "text": "2. Feocromocitoma suprarrenal bilateral",
+                    "children": []
+                  },
+                  {
+                    "text": "3. Feocromocitoma unilateral + historia familiar",
+                    "children": []
+                  },
+                  {
+                    "text": "4. Feocromocitoma unilateral <40 años\\N+ clínica sugerente:",
+                    "children": [
+                      {
+                        "text": "→ NEM2",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Von Hippel-Lindau",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Neurofibromatosis-1",
+                        "children": []
+                      },
+                      {
+                        "text": "→ S.paragangliomas",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "INTERFERENCIAS\\NMETANEFRINAS:",
+            "children": [
+              {
+                "text": "ALIMENTOS:",
+                "children": [
+                  {
+                    "text": "• Café/descafeinado/té/mate",
+                    "children": []
+                  },
+                  {
+                    "text": "• Alcohol",
+                    "children": []
+                  },
+                  {
+                    "text": "• Bebidas cola",
+                    "children": []
+                  },
+                  {
+                    "text": "• Chocolate",
+                    "children": []
+                  },
+                  {
+                    "text": "• Tomates",
+                    "children": []
+                  },
+                  {
+                    "text": "• Palta",
+                    "children": []
+                  },
+                  {
+                    "text": "• Berenjenas",
+                    "children": []
+                  },
+                  {
+                    "text": "• Nueces",
+                    "children": []
+                  },
+                  {
+                    "text": "• Plátanos",
+                    "children": []
+                  },
+                  {
+                    "text": "• Queso",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "MEDICAMENTOS:",
+                "children": [
+                  {
+                    "text": "• Labetalol",
+                    "children": []
+                  },
+                  {
+                    "text": "• Sotalol",
+                    "children": []
+                  },
+                  {
+                    "text": "• Paracetamol",
+                    "children": []
+                  },
+                  {
+                    "text": "• Levodopa",
+                    "children": []
+                  },
+                  {
+                    "text": "• Metildopa",
+                    "children": []
+                  },
+                  {
+                    "text": "• Anfetaminas",
+                    "children": []
+                  },
+                  {
+                    "text": "• Efedrina",
+                    "children": []
+                  },
+                  {
+                    "text": "• ADT",
+                    "children": []
+                  },
+                  {
+                    "text": "• IMAO",
+                    "children": []
+                  },
+                  {
+                    "text": "• Teofilina",
+                    "children": []
+                  },
+                  {
+                    "text": "• Hidralazina monoterapia",
+                    "children": []
+                  },
+                  {
+                    "text": "• Minoxidil monoterapia",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO\\NPRE-QUIRÚRGICO:",
+            "children": [
+              {
+                "text": "1. EVALUACIÓN INICIAL:",
+                "children": [
+                  {
+                    "text": "→ Capacidad funcional",
+                    "children": []
+                  },
+                  {
+                    "text": "→ ECG",
+                    "children": []
+                  },
+                  {
+                    "text": "→ ± Ecocardiograma",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. PROTOCOLO\\NFARMACOLÓGICO:",
+                "children": [
+                  {
+                    "text": "a) Bloqueo α-adrenérgico:",
+                    "children": [
+                      {
+                        "text": "→ Inicio ≥1 semana pre-cx",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Objetivo: normalizar PA/FC",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "b) Si no control:",
+                    "children": [
+                      {
+                        "text": "→ Añadir BCC → PA",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Añadir β-bloqueador → FC",
+                        "children": []
+                      },
+                      {
+                        "text": "(post bloqueo α)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "c) Día 3 bloqueo α:",
+                    "children": [
+                      {
+                        "text": "→ Dieta Na+ >5g/día",
+                        "children": []
+                      },
+                      {
+                        "text": "→ Prevenir shock hipovolémico post-cx",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "3. PRECAUCIONES:",
+                "children": [
+                  {
+                    "text": "→ ICC",
+                    "children": []
+                  },
+                  {
+                    "text": "→ IRC",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "FÁRMACOS (11,12):",
+            "children": [
+              {
+                "text": "1. Doxazosina: 1-16mg/día",
+                "children": []
+              },
+              {
+                "text": "2. Post bloqueo α:",
+                "children": [
+                  {
+                    "text": "→ Propanolol 40mg/8h o",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Atenolol 25-50mg/día",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Amlodipino 5-20mg/día si HTA persistente",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CONTRAINDICADOS:",
+            "children": [
+              {
+                "text": "• Labetalol",
+                "children": []
+              },
+              {
+                "text": "• Carvedilol",
+                "children": []
+              },
+              {
+                "text": "(α+β → crisis paradójica/HTA grave)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TABLA RESUMEN HTA\\NMINERALOCORTICOIDE",
+        "children": [
+          {
+            "text": "APA (Adenoma\\NProductor Aldosterona):",
+            "children": [
+              {
+                "text": "→ Aldosterona: ↑↑",
+                "children": []
+              },
+              {
+                "text": "→ ARP: ↓↓",
+                "children": []
+              },
+              {
+                "text": "→ ARR: >25",
+                "children": []
+              },
+              {
+                "text": "→ F/E: Normal",
+                "children": []
+              },
+              {
+                "text": "→ TAC: Nódulo <2cm",
+                "children": []
+              },
+              {
+                "text": "→ Bilateral: NO",
+                "children": []
+              },
+              {
+                "text": "→ Tratamiento: Suprarrenalectomía",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "IHA\\N(Hiperaldosteronismo\\NIdiopático):",
+            "children": [
+              {
+                "text": "→ Aldosterona: ↑",
+                "children": []
+              },
+              {
+                "text": "→ ARP: ↓",
+                "children": []
+              },
+              {
+                "text": "→ ARR: >25",
+                "children": []
+              },
+              {
+                "text": "→ F/E: Normal",
+                "children": []
+              },
+              {
+                "text": "→ TAC: Normal/nódulos bilaterales",
+                "children": []
+              },
+              {
+                "text": "→ Bilateral: SÍ",
+                "children": []
+              },
+              {
+                "text": "→ Tratamiento: Espironolactona",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "HP\\N(Hiperplasia\\NPrimaria):",
+            "children": [
+              {
+                "text": "→ Aldosterona: ↑",
+                "children": []
+              },
+              {
+                "text": "→ ARP: ↓",
+                "children": []
+              },
+              {
+                "text": "→ ARR: >25",
+                "children": []
+              },
+              {
+                "text": "→ F/E: Normal",
+                "children": []
+              },
+              {
+                "text": "→ TAC: Normal/hiperplasia unilateral",
+                "children": []
+              },
+              {
+                "text": "→ Bilateral: NO",
+                "children": []
+              },
+              {
+                "text": "→ Tratamiento: Suprarrenalectomía",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "HF tipo I:",
+            "children": [
+              {
+                "text": "→ Aldosterona: ↑",
+                "children": []
+              },
+              {
+                "text": "→ ARP: ↓",
+                "children": []
+              },
+              {
+                "text": "→ ARR: >25",
+                "children": []
+              },
+              {
+                "text": "→ F/E: Normal",
+                "children": []
+              },
+              {
+                "text": "→ TAC: Normal",
+                "children": []
+              },
+              {
+                "text": "→ Bilateral: SÍ",
+                "children": []
+              },
+              {
+                "text": "→ Tratamiento: Dexametasona",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SEAM:",
+            "children": [
+              {
+                "text": "• Aldosterona: ↓",
+                "children": []
+              },
+              {
+                "text": "• ARP: ↓",
+                "children": []
+              },
+              {
+                "text": "• ARR: <25",
+                "children": []
+              },
+              {
+                "text": "• F/E: ↑",
+                "children": []
+              },
+              {
+                "text": "• TAC: normal",
+                "children": []
+              },
+              {
+                "text": "• Bilateral: N/A",
+                "children": []
+              },
+              {
+                "text": "• Tratamiento: espironolactona ± dexametasona",
+                "children": []
+              },
+              {
+                "text": "• Alternativas: amiloride/tiazidas (↓hipercalciuria)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "S.LIDDLE:",
+            "children": [
+              {
+                "text": "• Aldosterona: ↓",
+                "children": []
+              },
+              {
+                "text": "• ARP: ↓",
+                "children": []
+              },
+              {
+                "text": "• ARR: <25",
+                "children": []
+              },
+              {
+                "text": "• F/E: normal",
+                "children": []
+              },
+              {
+                "text": "• TAC: normal",
+                "children": []
+              },
+              {
+                "text": "• Bilateral: N/A",
+                "children": []
+              },
+              {
+                "text": "• Tratamiento: amiloride/triamterene",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "S.CUSHING",
+        "children": [
+          {
+            "text": "CARACTERÍSTICAS:",
+            "children": [
+              {
+                "text": "• Síntomas/signos exposición excesiva glucocorticoides",
+                "children": []
+              },
+              {
+                "text": "• HTA en 76% pacientes (13)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "• Mecanismo:",
+            "children": [
+              {
+                "text": "→ Alta afinidad cortisol-receptor mineralocorticoide",
+                "children": []
+              },
+              {
+                "text": "→ [Cortisol] ↑ → HTA",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1785",
+      "title": "ELDERCARE-AF (2020)\\NEdoxaban Low-Dose for\\NEldeRly patiEnts with\\NAtrial Fibrillation\\N\\n⭐ Edoxaban 15mg reduce ACV 66%\\nvs placebo en muy ancianos\\nno candidatos a ACO estándar"
+    }
+  ],
+  "source_file": "Arteaga | Hipertension Endrocrina-2024.smmx",
+  "created": "2026-02-07T15:42:58.331107"
+}

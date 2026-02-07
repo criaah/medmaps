@@ -1,0 +1,383 @@
+{
+  "id": "map_1817",
+  "title": "Manejo del tromboembolismo venoso (TEV)\\N- Tratamiento de Trombosis Venosa\\NProfunda (TVP) y Embolia Pulmonar (EP)",
+  "specialty": "Cardiología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 80,
+  "root": {
+    "text": "Manejo del tromboembolismo venoso (TEV)\\N- Tratamiento de Trombosis Venosa\\NProfunda (TVP) y Embolia Pulmonar (EP)",
+    "children": [
+      {
+        "text": "- Introducción y Métodos",
+        "children": [
+          {
+            "text": "› Objetivo: Apoyar decisiones sobre tratamiento de TEV para pacientes, clínicos y otros",
+            "children": []
+          },
+          {
+            "text": "› Problema: TEV (TVP y EP) afecta 1-2/1000 personas/año\\N(~300k-600k eventos/año en EEUU)",
+            "children": [
+              {
+                "text": "◊ Complicaciones: Síndrome Postrombótico (**SPT**) (20-50% post-TVP),\\NHipertensión pulmonar tromboembólica crónica (hasta 5% post-EP)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Métodos: Panel multidisciplinario **ASH**, **McMaster University GRADE Centre**,\\Nenfoque **GRADE** para evaluar evidencia y hacer recomendaciones",
+            "children": [
+              {
+                "text": "◊ Priorización de preguntas clínicas y resultados",
+                "children": []
+              },
+              {
+                "text": "◊ 28 recomendaciones acordadas",
+                "children": []
+              },
+              {
+                "text": "◊ Marco temporal de decisiones: (Ver Figura 1)",
+                "children": []
+              },
+              {
+                "text": "◊ Manejo Inicial (primeros 5-21 días)",
+                "children": []
+              },
+              {
+                "text": "◊ Tratamiento Primario (mínimo 3-6 meses)",
+                "children": []
+              },
+              {
+                "text": "◊ Prevención Secundaria (duración indefinida planificada)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Manejo Inicial\\N(Recomendaciones 1-11) ★",
+        "children": [
+          {
+            "text": "› Tratamiento ambulatorio\\Nvs hospitalario",
+            "children": [
+              {
+                "text": "◊ Rec. 1: TVP no complicada → Sugiere tto. domiciliario sobre hospitalario\\N(Condicional, baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ No aplica si requiere hospitalización por otras causas, soporte domiciliario limitado, incapacidad económica,\\Nmala adherencia, TVP con amenaza de extremidad, alto riesgo sangrado, necesidad de analgésicos IV",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 2: EP de bajo riesgo → Sugiere tto. domiciliario sobre hospitalario\\N(Condicional, muy baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ Escalas pronósticas (**PESI**, **PESI** simplificado)\\Nayudan pero no reemplazan juicio clínico",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ No aplica si requiere hospitalización por otras causas, soporte domiciliario limitado, incapacidad económica,\\Nmala adherencia, EP submasiva/masiva, alto riesgo sangrado, necesidad de analgésicos IV",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Elección de\\Nanticoagulante",
+            "children": [
+              {
+                "text": "◊ Rec. 3: TVP y/o EP → Sugiere Anticoagulantes Orales Directos (**DOACs**)\\Nsobre Antagonistas Vitamina K (**VKAs**) (Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ No aplica en insuficiencia renal (CrCl <30 mL/min),\\Nenf. hepática moderada-severa, síndrome antifosfolípido",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Considerar interacciones (P-glicoproteína, CYP3A4), costo, preferencia dosis",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 4: TVP y/o EP → No sugiere un **DOAC** sobre otro\\N(Condicional, muy baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ Factores elección: necesidad \"lead-in\" parenteral, dosis única vs doble,\\Ncosto, función renal, medicación concomitante, cáncer",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Uso de terapia\\Ntrombolítica",
+            "children": [
+              {
+                "text": "◊ Rec. 5: Mayoría TVP proximal → Sugiere anticoagulación sola\\Nsobre trombolisis + anticoagulación (Condicional, baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ Considerar trombolisis en TVP amenazante (flegmasia cerulea dolens),\\Npacientes jóvenes bajo riesgo sangrado con TVP iliofemoral sintomática",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Raro usar trombolisis si TVP limitada a venas bajo vena femoral común",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 6: EP con **compromiso hemodinámico** → Recomienda trombolisis +\\Nanticoagulación sobre anticoagulación sola (Fuerte, baja certeza) ★",
+                "children": [
+                  {
+                    "text": "◊ Justificación: Alta mortalidad y potencial\\Nefecto salvavidas de trombolíticos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 7: EP sin **compromiso hemodinámico** pero con disfunción VD (EP **submasiva**)\\N→ Sugiere anticoagulación sola sobre uso rutinario de trombolisis + anticoagulación\\N(Condicional, baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ Considerar trombolisis en pacientes jóvenes seleccionados\\Nbajo riesgo sangrado o alto riesgo descompensación",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Monitorizar de cerca por **compromiso hemodinámico**",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 8: TVP extensa (si trombolisis apropiada) → Sugiere **trombolisis dirigida por catéter** sobre trombolisis sistémica\\N(Condicional, muy baja certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 9: EP (si trombolisis apropiada) → Sugiere **trombolisis sistémica** sobre **trombolisis dirigida por catéter**\\N(Condicional, muy baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ **Trombolisis dirigida por catéter** puede ser alternativa en centros\\Ncon experiencia/infraestructura, esp. si riesgo sangrado intermedio-alto",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Uso de filtros de Vena\\NCava Inferior (**VCI**)",
+            "children": [
+              {
+                "text": "◊ Rec. 10: TVP proximal + enf. cardiopulmonar preexistente significativa → Sugiere anticoagulación sola sobre anticoagulación + **filtro VCI**\\N(Condicional, baja certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 11: EP con **compromiso hemodinámico** → Sugiere anticoagulación sola sobre anticoagulación + **filtro VCI**\\N(Condicional, baja certeza)",
+                "children": [
+                  {
+                    "text": "◊ Aplica si paciente elegible\\Npara anticoagulación",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Si contraindicación a anticoagulación, puede indicarse **filtro VCI** recuperable\\N(retirar ASAP)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Tratamiento Primario\\N(Recomendaciones 12-14) ★",
+        "children": [
+          {
+            "text": "› Duración del tratamiento primario\\N(mínimo 3-6 meses) (Ver Figura 2)",
+            "children": [
+              {
+                "text": "◊ Rec. 12: TVP/EP provocada por factor de riesgo transitorio → Sugiere curso corto (3-6 meses) sobre curso largo (6-12 meses)\\N(Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ Mayoría discontinuará\\Nanticoagulación después",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 13: TVP/EP provocada por factor de riesgo crónico → Sugiere curso corto (3-6 meses)\\Nsobre curso largo (6-12 meses) (Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ Si se decide parar anticoagulación, no prolongar tto. primario",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Puede justificarse curso más largo (6-12m) si se espera mejoría del factor crónico (ej. rehabilitación)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 14: TVP/EP no provocada → Sugiere curso corto (3-6 meses) sobre curso largo (6-12 meses)\\N(Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ Si se decide parar anticoagulación, no prolongar tto. primario",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Prevención Secundaria\\N(Recomendaciones 15-22) ★ (Ver Figura 2)",
+        "children": [
+          {
+            "text": "› Decisión de continuar\\Nvs discontinuar",
+            "children": [
+              {
+                "text": "◊ Rec. 15: TVP/EP no provocada → Sugiere contra uso rutinario de escalas pronósticas\\N(**HERDOO2**, **Vienna**, **DASH**) para guiar duración (Condicional, muy baja certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 16: TVP/EP no provocada → Sugiere contra uso rutinario de\\Ntest dímero-D para guiar duración (Condicional, muy baja certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 17: TVP/EP no provocada → Sugiere contra uso rutinario de ultrasonido\\N(trombosis residual) para guiar duración (Condicional, muy baja certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Observaciones (Rec. 15-17): Mayoría con TEV no provocado probablemente requiere anticoagulación indefinida.\\NHerramientas pueden usarse si paciente/clínico indecisos o balance riesgo/beneficio incierto",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 18: TVP/EP provocada por factor riesgo crónico → Sugiere terapia antitrombótica indefinida\\Nsobre parar anticoagulación tras tto. primario (Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ No aplica si alto riesgo sangrado",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 19: TVP/EP no provocada → Sugiere terapia antitrombótica indefinida\\Nsobre parar anticoagulación tras tto. primario (Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ No aplica si alto riesgo sangrado",
+                    "children": []
+                  },
+                  {
+                    "text": "› Elección de terapia para prevención secundaria",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rec. 20: Continuación prevención secundaria → Sugiere anticoagulación\\Nsobre **aspirina** (Condicional, moderada certeza)",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 21: Continuación con **VKA** → Recomienda rango **INR** 2.0-3.0\\Nsobre rango **INR** bajo (ej. 1.5-1. 9) (Fuerte, moderada certeza) ★",
+                "children": []
+              },
+              {
+                "text": "◊ Rec. 22: Continuación con **DOAC** → Sugiere **DOAC** dosis estándar o dosis baja\\N(**rivaroxaban** 10mg/día, **apixaban** 2.5mg BID) (Condicional, moderada certeza)",
+                "children": [
+                  {
+                    "text": "◊ Dosis bajas consideradas: **rivaroxaban** 10 mg/día, **apixaban** 2.5 mg BID",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Tratamiento de Eventos Recurrentes\\N(Recomendaciones 23-25) ★",
+        "children": [
+          {
+            "text": "› Rec. 23: TEV recurrente durante tto. terapéutico con **VKA** → Sugiere Heparina Bajo Peso Molecular\\N(**LMWH**) sobre **DOAC** (Condicional, muy baja certeza)",
+            "children": [
+              {
+                "text": "◊ Investigar causas subyacentes",
+                "children": []
+              },
+              {
+                "text": "◊ No aplica si recurrencia por mal control **INR** (DOAC razonable)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Rec. 24a: TEV provocado por factor transitorio + historia TEV previo no provocado o provocado por factor crónico\\N→ Sugiere terapia antitrombótica indefinida sobre parar tras tto. primario (Condicional, moderada certeza)",
+            "children": []
+          },
+          {
+            "text": "› Rec. 24b: TEV provocado por factor transitorio + historia TEV previo también provocado por factor transitorio\\N→ Sugiere parar anticoagulación tras tto. primario sobre terapia indefinida (Condicional, moderada certeza)",
+            "children": []
+          },
+          {
+            "text": "› Rec. 25: TEV recurrente no provocado → Recomienda terapia antitrombótica\\Nindefinida sobre parar tras tto. primario (Fuerte, moderada certeza) ★",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "- Otros Aspectos del Manejo\\N(Recomendaciones 26-28) ★",
+        "children": [
+          {
+            "text": "› Rec. 26: Pacientes con TEV y enf. cardiovascular (ECV) estable que inician anticoagulación y tomaban **aspirina**\\N→ Sugiere suspender **aspirina** sobre continuarla durante anticoagulación (Condicional, muy baja certeza)",
+            "children": [
+              {
+                "text": "◊ Revisar indicación de **aspirina** (riesgo sangrado vs beneficio cardiovascular)",
+                "children": []
+              },
+              {
+                "text": "◊ No aplica a evento coronario agudo reciente o intervención coronaria",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Rec. 27: Pacientes con TVP con riesgo aumentado de **SPT** → Sugiere\\Ncontra uso rutinario de medias de compresión (Condicional, muy baja certeza)",
+            "children": []
+          },
+          {
+            "text": "› Rec. 28: Pacientes con TVP sin riesgo aumentado de **SPT** → Sugiere\\Ncontra uso rutinario de medias de compresión (Condicional, muy baja certeza)",
+            "children": []
+          },
+          {
+            "text": "◊ Observaciones (Rec. 27-28): Medias pueden ayudar a reducir edema y dolor agudo en pacientes seleccionados",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1780",
+      "title": "Diagnóstico de Laboratorio\\Nde la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "Paper. Manejo del tromboembolismo venoso (TEV) - Tratamiento de Trombosis Venosa Profunda (TVP) y Embolia Pulmonar (EP)-2025-1.smmx",
+  "created": "2026-02-07T15:42:58.390971"
+}

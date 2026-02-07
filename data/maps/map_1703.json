@@ -1,0 +1,56 @@
+{
+  "id": "map_1703",
+  "title": "TTM (2013)\\NTargeted Temperature Management\\N\\n33C vs 36C post paro cardiaco:\\nNO diferencia en mortalidad ni neurologico\\n36C es tan efectivo y mas seguro",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "TTM (2013)\\NTargeted Temperature Management\\N\\n33C vs 36C post paro cardiaco:\\nNO diferencia en mortalidad ni neurologico\\n36C es tan efectivo y mas seguro",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nNielsen N, et al.\\nN Engl J Med 2013;369:2197-206\\NDOI: 10.1056/NEJMoa1310519\\N\\nRCT multicentrico\\n36 UCIs, Europa y Australia",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=950\\nAdultos post paro cardiaco extrahospitalario\\n\\nCriterios:\\n- Ritmo inicial cualquiera\\n- Coma al ingreso (GCS menor 8)\\n- Circulacion espontanea restaurada\\n\\nEdad media: 64 años\\n80% FV/TV inicial\\nSeguimiento: 180 dias",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\n33C (hipotermia) vs 36C (normotermia)\\npor 28 horas\\n\\nRecalentamiento gradual 0.5C/hora\\nEvitar fiebre hasta 72h",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nMortalidad 180 dias:\\n33C: 50%\\n36C: 48%\\nHR 1.06 (IC95% 0.89-1.28)\\np=0.51 - NO SIGNIFICATIVO\\N\\nOutcome neurologico pobre (CPC 3-5):\\n33C: 54%\\n36C: 52%\\nRR 1.02 (IC95% 0.88-1.16)\\np=0.78 - NO SIGNIFICATIVO",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\n33C vs 36C:\\n- Hipokalemia: 19% vs 13%\\n- Bradicardia: frecuente en 33C\\n- Arritmias: similar\\n- Sangrado: similar\\n- Sepsis: similar\\n\\n36C mas facil de lograr y mantener",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Mayoria FV/TV (ritmo shockeable)\\n- No incluyo control sin enfriamiento\\n- Definicion outcome neurologico variable\\n- Centros con alta expertise\\n- Sesgo supervivencia",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Ancianos: mayor riesgo hipotermia profunda\\n- 36C es MAS seguro en fragiles\\n- Evitar fiebre es clave (si mayor 37.5C)\\n- Decisiones pronostico no antes de 72h\\n- Considerar comorbilidades previas\\n- Discutir metas con familia temprano",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. 33C NO es superior a 36C\\n2. Evitar fiebre es lo esencial\\n3. 36C mas facil de implementar\\n4. Menos complicaciones con 36C\\n5. Ambos requieren control activo temperatura\\n6. Pronostico neurologico NO antes de 72h\\n7. Ancianos: preferir 36C por seguridad\\n8. Recalentamiento lento (0.25-0.5C/h)\\n9. TTM2 posterior sugirio incluso normotermia\\n10. Control fiebre: meta universal post-paro",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1380",
+      "title": "SEPSIS Y SHOCK SÉPTICO  Dic 2024"
+    },
+    {
+      "id": "map_1701",
+      "title": "SAVE Score (2015)\\NSurvival After Veno-arterial ECMO\\N\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria"
+    }
+  ],
+  "source_file": "TTM-2026.smmx",
+  "created": "2026-02-07T15:42:53.525099"
+}

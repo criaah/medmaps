@@ -1,0 +1,1427 @@
+{
+  "id": "map_1861",
+  "title": "GLUCOCORTICOIDES\\N(GC)",
+  "specialty": "Endocrinología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 317,
+  "root": {
+    "text": "GLUCOCORTICOIDES\\N(GC)",
+    "children": [
+      {
+        "text": "├─ DEFINICIÓN",
+        "children": [
+          {
+            "text": "│ └─ Esteroide → unión receptor nuclear específico (1)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "├─ SÍNTESIS",
+        "children": [
+          {
+            "text": "│ └─ Biosíntesis cortisol",
+            "children": [
+              {
+                "text": "│    └─ Corteza suprarrenal → colesterol + enzimas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "├─ TIPOS",
+            "children": [
+              {
+                "text": "│ ├─ GC Naturales",
+                "children": []
+              },
+              {
+                "text": "│ └─ GC Sintéticos",
+                "children": [
+                  {
+                    "text": "│    ├─ ↑ potencia glucocorticoidea",
+                    "children": [
+                      {
+                        "text": "│    │ └─ Causas: ↑vida media + ↑afinidad receptor + ↓depuración plasmática",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│    └─ Activación",
+                    "children": [
+                      {
+                        "text": "│        └─ Hidroxilación hepática → cortisol/prednisolona",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "├─ FISIOLOGÍA",
+        "children": [
+          {
+            "text": "│ ├─ Regulación\\Nsecreción cortisol",
+            "children": [
+              {
+                "text": "│ │ ├─ Ritmo circadiano (CRH hipotalámico)",
+                "children": []
+              },
+              {
+                "text": "│ │ ├─ Feedback (-) ACTH y CRH",
+                "children": []
+              },
+              {
+                "text": "│ │ └─ Respuesta estrés/dolor",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "│ ├─ Metabolismo",
+            "children": [
+              {
+                "text": "│ │ ├─ Lugar: hígado",
+                "children": []
+              },
+              {
+                "text": "│ │ └─ Excreción: renal (2)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "│ ├─ Unión proteínas",
+            "children": [
+              {
+                "text": "│ │ ├─ 90% → CBG",
+                "children": []
+              },
+              {
+                "text": "│ │ ├─ 10% → albúmina",
+                "children": []
+              },
+              {
+                "text": "│ │ └─ Fracción libre = biológicamente activa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "│ └─ Receptores",
+            "children": [
+              {
+                "text": "│     ├─ GR (receptor GC)",
+                "children": []
+              },
+              {
+                "text": "│     └─ MR (receptor mineralocorticoide)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "└─ USO CLÍNICO",
+        "children": [
+          {
+            "text": "├─ Indicación → antiinflamatorios potentes",
+            "children": []
+          },
+          {
+            "text": "└─ Efectos adversos",
+            "children": [
+              {
+                "text": "└─ Tto prolongado/dosis ↑ → supresión eje HHS",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "├─ REGULACIÓN\\NRECEPTOR MR",
+        "children": [
+          {
+            "text": "│ ├─ 11βHSD2 → inactiva cortisol a cortisona",
+            "children": []
+          },
+          {
+            "text": "│ └─ Exceso cortisol (endógeno/exógeno) → sobrepasa capacidad enzimática → activa MR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "├─ CLASIFICACIÓN GC",
+        "children": [
+          {
+            "text": "│ ├─ Origen: naturales/sintéticos",
+            "children": []
+          },
+          {
+            "text": "│ ├─ Vida media",
+            "children": []
+          },
+          {
+            "text": "│ ├─ Tiempo acción: corto/intermedio/prolongado",
+            "children": []
+          },
+          {
+            "text": "│ └─ Potencia: gluco/mineralocorticoide",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "├─ EFECTOS",
+        "children": [
+          {
+            "text": "│ ├─ Metabólicos",
+            "children": [
+              {
+                "text": "│ │ ├─ ↑ gluconeogénesis",
+                "children": []
+              },
+              {
+                "text": "│ │ └─ ↓ secreción insulina",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "│ ├─ Catabólicos",
+            "children": [
+              {
+                "text": "│ │ ├─ Lípidos",
+                "children": []
+              },
+              {
+                "text": "│ │ ├─ Músculos",
+                "children": []
+              },
+              {
+                "text": "│ │ └─ Huesos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "│ └─ Sistema inmune (3)",
+            "children": [
+              {
+                "text": "│     ├─ ↓ migración células inflamatorias",
+                "children": []
+              },
+              {
+                "text": "│     ├─ ↓ producción linfocitos",
+                "children": []
+              },
+              {
+                "text": "│     └─ ↓ síntesis: prostaglandinas + IL-6 + TNF-α",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "└─ TERAPIA CRÓNICA",
+        "children": [
+          {
+            "text": "├─ Factores riesgo\\Ncomplicaciones",
+            "children": [
+              {
+                "text": "│ ├─ Dosis",
+                "children": []
+              },
+              {
+                "text": "│ ├─ Vía administración (oral = ↑riesgo)",
+                "children": []
+              },
+              {
+                "text": "│ ├─ Duración tratamiento",
+                "children": []
+              },
+              {
+                "text": "│ ├─ Condición paciente",
+                "children": []
+              },
+              {
+                "text": "│ └─ Interacciones farmacológicas",
+                "children": []
+              },
+              {
+                "text": "└─ Esquema días alternos (4-8)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "├─ Ventaja: ↓supresión eje H-H-S",
+            "children": []
+          },
+          {
+            "text": "└─ Desventaja: ↓eficacia algunas patologías",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "CLASIFICACIÓN Y\\NEFECTOS GC",
+        "children": [
+          {
+            "text": "├─ TIPOS GC\\N(según duración)",
+            "children": [
+              {
+                "text": "│ ├─ Acción corta",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Cortisol: 20mg = potencia 1 (GC/MC) → VM 80min → Acción 8-12h",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Cortisona: 25mg = potencia 0.8 (GC/MC) → VM 80min → Acción 6-12h",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Acción intermedia",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Prednisona/prednisolona: 5mg = potencia GC 4/MC 0.25 → VM 60min → Acción 12-36h",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Metilprednisolona: 4mg = potencia GC 4 → VM 200min → Acción 12-36h",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Acción prolongada",
+                "children": [
+                  {
+                    "text": "│   ├─ Betametasona: 0.6mg = potencia GC 25 → VM 300min → Acción 36-72h",
+                    "children": []
+                  },
+                  {
+                    "text": "│   └─ Dexametasona: 0.5mg = potencia GC 30 → VM 300min → Acción 36-72h",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "└─ EFECTOS\\NPOR SISTEMAS",
+            "children": [
+              {
+                "text": "├─ Metabolismo glúcido",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal: mantiene glicemia ayuno/estrés",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Exceso: resistencia insulina → DM",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Páncreas",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal: ↓secreción insulina",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Exceso: disfunción células β → hipoinsulinemia",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Hígado",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal: ↑enzimas gluconeogénicas",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Exceso: ↑glucosa + glucógeno + hígado graso",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Tejido\\Ngraso/muscular",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal: ↑ácidos grasos/aminoácidos → gluconeogénesis",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Exceso: obesidad central\\N+ debilidad muscular",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Sistema inmune",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal",
+                    "children": [
+                      {
+                        "text": "│ │ ├─ ↓proliferación monocitos",
+                        "children": []
+                      },
+                      {
+                        "text": "│ │ ├─ ↓IL-1/IL-6/TNF-α",
+                        "children": []
+                      },
+                      {
+                        "text": "│ │ └─ ↓inflamación",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│ └─ Exceso: inmunosupresión + linfopenia",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Eje HHS",
+                "children": [
+                  {
+                    "text": "│ ├─ Normal: ↓opioides\\N+ ↓FSH/LH/GnRH",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Exceso: alteraciones menstruales",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "└─ Otros sistemas",
+                "children": [
+                  {
+                    "text": "├─ Renal: ↓Ca++ → hiperparatiroidismo 2º",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ Cardiovascular: ↑contractilidad → HTA",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ Psiquiátrico: euforia/depresión + insomnio",
+                    "children": []
+                  },
+                  {
+                    "text": "└─ Óseo: ↓colágeno → osteoporosis",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ COMPROMISO\\NÓSEO (5)",
+            "children": [
+              {
+                "text": "│ ├─ Epidemiología",
+                "children": [
+                  {
+                    "text": "│ │ ├─ EA más frecuente",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ 50% pacientes crónicos → osteoporosis (columna lumbar)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Factor riesgo",
+                "children": [
+                  {
+                    "text": "│ │ └─ Dosis >7.5 mg/d prednisona → ↑riesgo fracturas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Prevención (9)",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Ca++ 1000-1500 mg/d + VitD >800 UI/d",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Actividad física máxima posible",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ No tabaco/alcohol",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Dosis GC mínima efectiva",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Diuréticos tiazídicos si hipercalciuria",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Densitometría anual",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Bisfosfonatos (9,10)",
+                "children": [
+                  {
+                    "text": "│     ├─ Riesgo bajo (<10%)",
+                    "children": [
+                      {
+                        "text": "│     │ └─ Indicación: prednisona >7.5mg/d >3 meses",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│     ├─ Riesgo medio (10-20%)",
+                    "children": [
+                      {
+                        "text": "│     │ └─ Indicación: GC >3 meses (cualquier dosis)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│     ├─ Riesgo alto (>20%)",
+                    "children": [
+                      {
+                        "text": "│     │ ├─ Indicación: siempre",
+                        "children": []
+                      },
+                      {
+                        "text": "│     │ └─ Alternativa: teriparatide (↑costo)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│     └─ Mujeres premenopáusicas",
+                    "children": [
+                      {
+                        "text": "│         └─ Indicación: pérdida ósea >4%/año + prednisona >7.5mg/d >3 meses",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ NECROSIS ÓSEA\\NAVASCULAR CADERA (11)",
+            "children": [
+              {
+                "text": "│ ├─ Población: jóvenes + dosis altas",
+                "children": []
+              },
+              {
+                "text": "│ └─ Diagnóstico: RNM precoz",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "└─ MIOPATÍA (12,13)",
+            "children": [
+              {
+                "text": "├─ Clínica",
+                "children": [
+                  {
+                    "text": "│ └─ Debilidad simétrica proximal (EESS/EEII)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Laboratorio",
+                "children": [
+                  {
+                    "text": "│ ├─ Enzimas musculares normales",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ EMG: patrón miopático",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "└─ Tratamiento",
+                "children": [
+                  {
+                    "text": "├─ ↓dosis GC",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ Ejercicios preventivos",
+                    "children": []
+                  },
+                  {
+                    "text": "└─ Cambio a GC no fluorados\\N(prednisona/hidrocortisona)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "OTROS EFECTOS\\NADVERSOS GC",
+        "children": [
+          {
+            "text": "├─ INFECCIONES",
+            "children": [
+              {
+                "text": "│ ├─ Factores riesgo",
+                "children": [
+                  {
+                    "text": "│ │ ├─ ↓inmunidad celular",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ ↓función fagocitos/neutrófilos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Neumonía\\NPneumocystis",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Riesgo: prednisona >10mg/d",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Profilaxis: TMP/SMX\\N800/160mg 3x/sem",
+                    "children": [
+                      {
+                        "text": "│ │     └─ Indicaciones (14)",
+                        "children": [
+                          {
+                            "text": "│ │         ├─ Trasplante órganos sólidos/hematológicos",
+                            "children": []
+                          },
+                          {
+                            "text": "│ │         ├─ Enfermedades neurológicas asociadas",
+                            "children": []
+                          },
+                          {
+                            "text": "│ │         └─ Enfermedad Wegener",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ GASTROINTESTINALES (8,15)",
+            "children": [
+              {
+                "text": "│ ├─ ↑Riesgo úlcera péptica",
+                "children": [
+                  {
+                    "text": "│ │ └─ Factores: +AINE/antecedente sangrado/anticoagulantes",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Prevención: IBP si GC+AINE/factores riesgo",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "├─ CARDIOVASCULARES (16,17)",
+            "children": [
+              {
+                "text": "│ ├─ ↑Riesgo proporcional a dosis (RR 4.5 dosis altas)",
+                "children": []
+              },
+              {
+                "text": "│ ├─ Mecanismo: receptores GC+MC",
+                "children": []
+              },
+              {
+                "text": "│ └─ ↓Riesgo: días alternos/dosis bajas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "├─ DERMATOLÓGICOS (17)",
+            "children": [
+              {
+                "text": "│ ├─ Dosis >5mg/d prednisona",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Adelgazamiento piel",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Estrías",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Acné",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Rosácea",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Telangiectasias",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Facies cushingoide",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ ↑Riesgo cáncer piel no melanoma",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "├─ OCULARES",
+            "children": [
+              {
+                "text": "│ ├─ Catarata subcapsular posterior",
+                "children": [
+                  {
+                    "text": "│ │ └─ No relacionada dosis/vía administración",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Glaucoma",
+                "children": [
+                  {
+                    "text": "│     └─ Riesgo ∝ dosis + susceptibilidad genética",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ SNC (18-20)",
+            "children": [
+              {
+                "text": "│ ├─ Dosis >5mg/d prednisona >1mes",
+                "children": [
+                  {
+                    "text": "│ │ └─ Alteración hipocampo → deterioro memoria",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Inicio: euforia",
+                "children": []
+              },
+              {
+                "text": "│ └─ Crónico",
+                "children": [
+                  {
+                    "text": "│     ├─ Depresión (10%)",
+                    "children": []
+                  },
+                  {
+                    "text": "│     ├─ Hipomanía (30%)",
+                    "children": []
+                  },
+                  {
+                    "text": "│     └─ Psicosis (también pulsos agudos altas dosis)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "└─ EJE HHS (21)",
+            "children": [
+              {
+                "text": "├─ Supresión: prednisona >5mg/d >2sem",
+                "children": []
+              },
+              {
+                "text": "└─ Mecanismo",
+                "children": [
+                  {
+                    "text": "├─ ↓CRH hipotalámico",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ ↓ACTH hipofisaria",
+                    "children": []
+                  },
+                  {
+                    "text": "└─ Atrofia corteza suprarrenal (zonas fascicular/reticular)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ALTERACIONES METABÓLICAS Y\\NSUPRESIÓN EJE HHS",
+        "children": [
+          {
+            "text": "├─ METABOLISMO\\NGLUCOSA (3,17,22-25)",
+            "children": [
+              {
+                "text": "│ ├─ Mecanismos\\Nhiperglicemia",
+                "children": [
+                  {
+                    "text": "│ │ ├─ ↑gluconeogénesis hepática",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ ↑respuesta hepática glucagón",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ ↓ingreso glucosa músculo/adiposo",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Daño célula β (lipotoxicidad)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Riesgo\\NDM esteroidal",
+                "children": [
+                  {
+                    "text": "│ │ ├─ RR 8.9: prednisona <10mg/d",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ RR 10.3: prednisona >30mg/d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Factores riesgo",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Edad avanzada",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Obesidad",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Manejo: similar DM/hiperglicemia no esteroidal",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "└─ SUPRESIÓN\\NEJE HHS (26)",
+            "children": [
+              {
+                "text": "├─ Consideraciones suspensión GC",
+                "children": [
+                  {
+                    "text": "│ ├─ Riesgo reactivación enfermedad base",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Riesgo insuficiencia suprarrenal 2ª",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Recuperación eje",
+                "children": [
+                  {
+                    "text": "│ ├─ Mayoría: semanas-meses",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Algunos: hasta 1 año",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "└─ Grupos riesgo",
+                "children": [
+                  {
+                    "text": "├─ ALTO",
+                    "children": [
+                      {
+                        "text": "│ └─ Criterios",
+                        "children": [
+                          {
+                            "text": "│     ├─ Prednisona >20mg/d >2sem",
+                            "children": []
+                          },
+                          {
+                            "text": "│     ├─ GC vespertinos/noche >1sem",
+                            "children": []
+                          },
+                          {
+                            "text": "│     └─ Fenotipo cushingoideo",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "├─ INTERMEDIO",
+                    "children": [
+                      {
+                        "text": "│ └─ Criterios",
+                        "children": [
+                          {
+                            "text": "│     ├─ Prednisona 7. 5-20mg/d >2-3sem",
+                            "children": []
+                          },
+                          {
+                            "text": "│     └─ Riesgo alto ISR aguda (ej: cirugía)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "└─ BAJO",
+                    "children": [
+                      {
+                        "text": "└─ Criterios",
+                        "children": [
+                          {
+                            "text": "├─ GC <2-3sem (cualquier dosis)",
+                            "children": []
+                          },
+                          {
+                            "text": "└─ GC días alternos",
+                            "children": [
+                              {
+                                "text": "└─ Suspensión segura 72h",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EVALUACIÓN FUNCIÓN EJE\\NHHS Y SUSPENSIÓN GC",
+        "children": [
+          {
+            "text": "├─ CORTISOL MATINAL\\N(21,26)",
+            "children": [
+              {
+                "text": "│ ├─ Indicaciones",
+                "children": [
+                  {
+                    "text": "│ │ └─ Riesgo intermedio + GC bajas dosis <2sem + ↓gradual hasta 5-7.5mg/d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Interpretación",
+                "children": [
+                  {
+                    "text": "│     ├─ <5 µg/dL → insuficiencia suprarrenal",
+                    "children": []
+                  },
+                  {
+                    "text": "│     └─ >15 µg/dL → recuperación eje",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ TEST\\NESTÍMULO ACTH",
+            "children": [
+              {
+                "text": "│ ├─ Indicaciones",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Alto riesgo insuficiencia suprarrenal",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Riesgo incierto + cortisol matinal dudoso",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ ├─ Contraindicaciones",
+                "children": [
+                  {
+                    "text": "│ │ └─ ACO/THR menopausia",
+                    "children": [
+                      {
+                        "text": "│ │     └─ Estrógenos → ↑CBG → alteración cortisol",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│ └─ Técnica",
+                    "children": [
+                      {
+                        "text": "│     ├─ Suspender GC 24h antes",
+                        "children": []
+                      },
+                      {
+                        "text": "│     ├─ ACTH (Synacthen) 250µg IM 09:00h",
+                        "children": []
+                      },
+                      {
+                        "text": "│     └─ Cortisol 60min post-ACTH",
+                        "children": [
+                          {
+                            "text": "│         └─ ISR si <15-18 µg/dL (S:97.5%)",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "└─ SUSPENSIÓN\\NTRATAMIENTO",
+            "children": [
+              {
+                "text": "└─ Indicaciones",
+                "children": [
+                  {
+                    "text": "├─ No beneficio terapéutico esperado",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ EA graves/incontrolables",
+                    "children": [
+                      {
+                        "text": "│ ├─ Osteoporosis lumbar",
+                        "children": []
+                      },
+                      {
+                        "text": "│ └─ Hipertensión",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "└─ Complicaciones graves",
+                    "children": [
+                      {
+                        "text": "├─ Psicosis aguda resistente",
+                        "children": []
+                      },
+                      {
+                        "text": "└─ Úlcera corneal herpética → riesgo perforación/ceguera",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ COMPLICACIONES\\NSUSPENSIÓN (21)",
+            "children": [
+              {
+                "text": "│ ├─ ISR 2ª",
+                "children": []
+              },
+              {
+                "text": "│ ├─ Recaída enfermedad base",
+                "children": []
+              },
+              {
+                "text": "│ └─ Síndrome privación",
+                "children": [
+                  {
+                    "text": "│     ├─ Cansancio",
+                    "children": []
+                  },
+                  {
+                    "text": "│     ├─ Fatigabilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "│     ├─ Anorexia",
+                    "children": []
+                  },
+                  {
+                    "text": "│     └─ Trastornos ánimo",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "├─ CONSIDERACIONES\\NRETIRO (21,27)",
+            "children": [
+              {
+                "text": "│ ├─ Factores\\Nindividuales",
+                "children": [
+                  {
+                    "text": "│ │ ├─ Edad",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Fragilidad",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Comorbilidades",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Riesgo recurrencia",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ ├─ Factores psicológicos",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │ └─ Duración previa GC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ Dosis segura suspensión",
+                "children": [
+                  {
+                    "text": "│     └─ Prednisona <5mg/d → baja probabilidad supresión HHS",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "└─\\NRECOMENDACIONES\\NESPECÍFICAS",
+            "children": [
+              {
+                "text": "├─ GC >2-3sem",
+                "children": [
+                  {
+                    "text": "│ └─ Reducir hasta prednisona 5mg/d (=20mg/d hidrocortisona)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Esquema reducción\\Nsegún dosis inicial",
+                "children": [
+                  {
+                    "text": "│ ├─ >60mg/d → ↓10mg/sem",
+                    "children": []
+                  },
+                  {
+                    "text": "│ ├─ 20-60mg/d → ↓5mg/sem",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ 5-20mg/d → ↓2.5mg/sem",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Monitorización 1\\Nmes con 5mg/d",
+                "children": [
+                  {
+                    "text": "│ ├─ Si cortisol <5µg/dL → mantener GC",
+                    "children": []
+                  },
+                  {
+                    "text": "│ ├─ Si cortisol >15µg/dL → suspender",
+                    "children": []
+                  },
+                  {
+                    "text": "│ └─ Si cortisol 5-15µg/dL → test ACTH",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "├─ Alternativa:\\Ndías alternos",
+                "children": [
+                  {
+                    "text": "│ └─ Útil si estables\\N+ ya en 5mg/d",
+                    "children": []
+                  },
+                  {
+                    "text": "└─ Sin test ACTH disponible",
+                    "children": [
+                      {
+                        "text": "└─ Considerar eje suprimido 1 año post-suspensión",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "└─ Suplementar\\Nhidrocortisona si:",
+                "children": [
+                  {
+                    "text": "├─ Cirugía",
+                    "children": []
+                  },
+                  {
+                    "text": "└─ Infección",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ALGORITMO SUSPENSIÓN GC Y\\NEDUCACIÓN PACIENTE",
+        "children": [
+          {
+            "text": "├─ ALGORITMO\\NSUSPENSIÓN GC",
+            "children": [
+              {
+                "text": "│ ├─ GC <2sem",
+                "children": [
+                  {
+                    "text": "│ │ └─\\NSuspensión\\Ndirecta",
+                    "children": []
+                  },
+                  {
+                    "text": "│ │     └─ Riesgo bajo\\Nsupresión HHS",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "│ └─ GC >3sem",
+                "children": [
+                  {
+                    "text": "│     ├─\\NPrednisona 5-7.\\N5mg/d",
+                    "children": [
+                      {
+                        "text": "│     │ └─ Riesgo\\Nintermedio/incierto",
+                        "children": []
+                      },
+                      {
+                        "text": "│     │     └─ Evaluar:\\Ncortisol basal matinal",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│     ├─\\NPrednisona\\N>10mg/d",
+                    "children": [
+                      {
+                        "text": "│     │ └─ Riesgo alto",
+                        "children": []
+                      },
+                      {
+                        "text": "│     │     └─\\NEvaluar: test ACTH",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "│     └─ Decisión\\Nsegún cortisol",
+                    "children": [
+                      {
+                        "text": "│         ├─ <5µg/dL",
+                        "children": [
+                          {
+                            "text": "│         │ └─ Mantener\\NGC + control 1 mes",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "│         ├─ 5-15µg/dL",
+                        "children": [
+                          {
+                            "text": "│         │ └─ Test\\NACTH o días alternos",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "│         └─ >15µg/dL",
+                        "children": [
+                          {
+                            "text": "│             └─\\NSuspender GC",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "└─ EDUCACIÓN\\NPACIENTE CRÓNICO",
+            "children": [
+              {
+                "text": "├─ Identificación",
+                "children": [
+                  {
+                    "text": "│ └─\\NMedalla/pulsera\\Nusuario GC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "└─ Educación\\Npaciente/familia",
+                "children": [
+                  {
+                    "text": "├─ Importancia\\Nadherencia",
+                    "children": []
+                  },
+                  {
+                    "text": "├─ Ajuste dosis",
+                    "children": [
+                      {
+                        "text": "│ └─ Situaciones estrés",
+                        "children": []
+                      },
+                      {
+                        "text": "│     ├─ Fiebre",
+                        "children": []
+                      },
+                      {
+                        "text": "│     ├─ Cirugía",
+                        "children": []
+                      },
+                      {
+                        "text": "│     └─ Trauma",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "└─ Síntomas alarma",
+                    "children": [
+                      {
+                        "text": "├─ Vómitos",
+                        "children": []
+                      },
+                      {
+                        "text": "└─ Diarrea",
+                        "children": [
+                          {
+                            "text": "└─ Consulta urgencia\\N→ GC parenteral",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1740",
+      "title": "FOCUS (2011)\\NFunctional Outcomes in\\NCardiovascular patients\\nUndergoing Surgical\\nhip fracture repair\\N\\n⭐ Transfusión restrictiva (Hb menor 8)\\Nno inferior a liberal (Hb menor 10)\\Nen fractura cadera con riesgo CV"
+    },
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    }
+  ],
+  "source_file": "Arteaga | Glucocorticoides-2024.smmx",
+  "created": "2026-02-07T15:43:01.655387"
+}

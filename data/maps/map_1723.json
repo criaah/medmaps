@@ -1,0 +1,333 @@
+{
+  "id": "map_1723",
+  "title": "Diagnóstico\\NInicial de MAT",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 69,
+  "root": {
+    "text": "Diagnóstico\\NInicial de MAT",
+    "children": [
+      {
+        "text": "\\\\*Alto Índice de Sospecha\\\\*",
+        "children": [
+          {
+            "text": "Laboratorio Esencial\\N(\\\\*Panel Inicial\\\\*):",
+            "children": [
+              {
+                "text": "\\\\*Hemograma Completo\\\\*: \\NAnemia, Trombocitopenia (\\\\*<30.000/µL\\\\* en \\\\*PTT\\\\*).",
+                "children": []
+              },
+              {
+                "text": "\\\\*Frotis\\\\* de Sangre Periférica: \\N\\\\*ESQUISTOCITOS\\\\* (≥1-2% o ≥2 por campo de alta potencia).",
+                "children": []
+              },
+              {
+                "text": "Marcadores de \\\\*Hemólisis\\\\*: \\N\\\\*LDH\\\\* ↑↑, \\\\*Bilirrubina Indirecta\\\\* ↑, \\\\*Haptoglobina\\\\* ↓↓ (o indetectable), \\\\*Reticulocitos\\\\* ↑.",
+                "children": []
+              },
+              {
+                "text": "Prueba de \\\\*Coombs Directa\\\\* \\\\*Negativa\\\\* (Diferencia de AHAI).",
+                "children": []
+              },
+              {
+                "text": "Estudios de \\\\*Coagulación\\\\*:  \\\\*TP\\\\*, \\\\*TTPa\\\\*, \\\\*Fibrinógeno\\\\*, \\\\*Dímero-D\\\\*.\\N(Normales PTT/SHU vs. MUY alterados en \\\\*CID\\\\*).",
+                "children": []
+              },
+              {
+                "text": "\\\\*Función Renal\\\\*:  BUN, Creatinina.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "\\\\*Actividad\\NADAMTS13\\\\*",
+            "children": [
+              {
+                "text": "\\\\*< 10%: Confirma PTT\\\\*.",
+                "children": [
+                  {
+                    "text": "\\\\*Ac anti-ADAMTS13 positivo\\\\*",
+                    "children": [
+                      {
+                        "text": "\\\\* PTT Adquirida.\\\\*",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "≥ 10%: \\\\*PTT Improbable\\\\*.",
+                "children": [
+                  {
+                    "text": "Investigar \\\\*otras causas\\\\* de MAT \\N(SHU, CID, HTA Maligna, fármacos, neoplasia, etc.).",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MAT en >60a \\NBúsqueda de Causas Secundarias",
+        "children": [
+          {
+            "text": "1. Malignidad",
+            "children": [
+              {
+                "text": "Adenocarcinomas (GI, pulmón, mama, próstata), neoplasias hematológicas.\\NA menudo ocultas.",
+                "children": []
+              },
+              {
+                "text": "Evaluación:",
+                "children": [
+                  {
+                    "text": "Anamnesis dirigida \\N(Síntomas B, baja de peso, cambios hábito intestinal, etc.).",
+                    "children": []
+                  },
+                  {
+                    "text": "Examen físico completo \\N(adenopatías, masas, tacto rectal).",
+                    "children": []
+                  },
+                  {
+                    "text": "Estudios de Imagen: TAC Tórax-Abdomen-Pelvis c/cte.",
+                    "children": []
+                  },
+                  {
+                    "text": "Endoscopías / Marcadores Tumorales: Según sospecha clínica.",
+                    "children": []
+                  },
+                  {
+                    "text": "Biopsia Médula Ósea: Si citopenias adicionales, hallazgos en frotis o sospecha.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. Infecciones",
+            "children": [
+              {
+                "text": "Presentaciones atípicas/oligosintomáticas.\\NSepsis puede gatillar CID con HAMA.",
+                "children": []
+              },
+              {
+                "text": "Evaluación:",
+                "children": [
+                  {
+                    "text": "Hemocultivos seriados.",
+                    "children": []
+                  },
+                  {
+                    "text": "Serología VIH.",
+                    "children": []
+                  },
+                  {
+                    "text": "Otras según contexto: CMV, VHB, VHC, Influenza, urocultivo.\\NNeumococo asociado a SHU.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MAT en >60a \\NBúsqueda de Causas Secundarias",
+        "children": [
+          {
+            "text": "1. Malignidad\\N(Neoplasias)",
+            "children": [
+              {
+                "text": "Adenocarcinomas (GI, pulmón, mama, próstata), neoplasias hematológicas.\\NA menudo ocultas.",
+                "children": []
+              },
+              {
+                "text": "Evaluación:",
+                "children": [
+                  {
+                    "text": "Anamnesis dirigida (Síntomas B, baja de peso, cambios hábito intestinal, etc.).",
+                    "children": []
+                  },
+                  {
+                    "text": "Examen físico completo (adenopatías, masas, tacto rectal).",
+                    "children": []
+                  },
+                  {
+                    "text": "Estudios de Imagen: TAC Tórax-Abdomen-Pelvis c/cte.",
+                    "children": []
+                  },
+                  {
+                    "text": "Endoscopías / Marcadores Tumorales: Según sospecha clínica.",
+                    "children": []
+                  },
+                  {
+                    "text": "Biopsia Médula Ósea: Si citopenias adicionales, hallazgos en frotis o sospecha.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "2. Infecciones",
+            "children": [
+              {
+                "text": "Presentaciones atípicas/oligosintomáticas.\\NSepsis puede gatillar CID con HAMA.",
+                "children": []
+              },
+              {
+                "text": "Evaluación:",
+                "children": [
+                  {
+                    "text": "Hemocultivos seriados.",
+                    "children": []
+                  },
+                  {
+                    "text": "Serología VIH.",
+                    "children": []
+                  },
+                  {
+                    "text": "Otras según contexto: CMV, VHB, VHC, Influenza, urocultivo.\\NNeumococo asociado a SHU.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "3. Enfermedades\\NAutoinmunes:",
+            "children": [
+              {
+                "text": "Debut tardío de LES, SAF, Esclerosis Sistémica.",
+                "children": []
+              },
+              {
+                "text": "Evaluación",
+                "children": [
+                  {
+                    "text": "ANA, Anti-DNA, ENA.",
+                    "children": []
+                  },
+                  {
+                    "text": "Complemento (C3, C4): Bajos en LES activo.",
+                    "children": []
+                  },
+                  {
+                    "text": "Anticoagulante Lúpico, Anti-Cardiolipinas (IgG/IgM),\\NAnti-Beta2 Glicoproteína I (IgG/IgM).",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "4. Fármacos",
+            "children": [
+              {
+                "text": "Revisión\\Nexhaustiva",
+                "children": [
+                  {
+                    "text": "Prescritos, OTC, suplementos, herbales\\NInicio reciente y uso crónico.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Fármacos Comunes\\NAsociados a MAT:",
+                "children": [
+                  {
+                    "text": "Quimioterápicos (Mitomicina C, Gemcitabina, Cisplatino).",
+                    "children": []
+                  },
+                  {
+                    "text": "Inmunosupresores / Biológicos (Ciclosporina, Tacrolimus, Interferón, Bevacizumab).",
+                    "children": []
+                  },
+                  {
+                    "text": "Antiagregantes (Clopidogrel, Ticlopidina).",
+                    "children": []
+                  },
+                  {
+                    "text": "Antibióticos (Quinina, Penicilinas).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Suspender fármacos sospechosos y monitorizar evolución clínica y de laboratorio.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "5. Hipertensión Arterial Maligna /\\NEmergencia Hipertensiva",
+            "children": [
+              {
+                "text": "PA >180/120 mmHg + Daño agudo órgano blanco\\N(LRA, encefalopatía, IC, retinopatía grado III/IV).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "6. Estudios Dirigidos a SHU \\N(si ADAMTS13 ≥10% y LRA prominente)",
+            "children": [
+              {
+                "text": "SHU",
+                "children": [
+                  {
+                    "text": "Diarrea (sanguinolenta) reciente, brote comunitario, contacto con ganado.",
+                    "children": []
+                  },
+                  {
+                    "text": "Detección de Toxina Shiga en deposiciones (ELISA/PCR) y/o cultivo\\Npara E. coli O157:H7 / productora de Shiga.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "aSHU",
+                "children": [
+                  {
+                    "text": "Puede haber historia familiar o personal de eventos trombóticos/renales.",
+                    "children": []
+                  },
+                  {
+                    "text": "Niveles C3, C4, CH50 (Normalidad no lo descarta).\\NEstudios genéticos / Ac anti-FH",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1128",
+      "title": "ANEMIA HEMOLÍTICA RELACIONADA CON DEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS"
+    },
+    {
+      "id": "map_1151",
+      "title": "ANEMIA ORIGINADA POR OTRAS DEFICIENCIAS NUTRICIONALES"
+    }
+  ],
+  "source_file": "MAT-2025-1.smmx",
+  "created": "2026-02-07T15:42:54.092307"
+}

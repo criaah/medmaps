@@ -1,0 +1,453 @@
+{
+  "id": "map_1878",
+  "title": "Trastornos Neurocognitivos Asociados al VIH\\N(HAND)",
+  "specialty": "Neurología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 98,
+  "root": {
+    "text": "Trastornos Neurocognitivos Asociados al VIH\\N(HAND)",
+    "children": [
+      {
+        "text": "Definición y\\NClasificación",
+        "children": [
+          {
+            "text": "HAND: Espectro de\\Nalteraciones en:",
+            "children": [
+              {
+                "text": "* Función cognitiva",
+                "children": []
+              },
+              {
+                "text": "* Comportamiento",
+                "children": []
+              },
+              {
+                "text": "* Función motora",
+                "children": []
+              },
+              {
+                "text": "* Función autonómica",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Causadas por infección VIH.",
+            "children": []
+          },
+          {
+            "text": "* Terminología en desuso: Encefalopatía VIH, Encefalitis VIH,\\NComplejo demencia-SIDA, Deterioro cognitivo asociado al VIH.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Clasificación:",
+        "children": [
+          {
+            "text": "* ANI (Deterioro\\NNeurocognitivo Asintomático):",
+            "children": [
+              {
+                "text": "* Alteración ≥2 dominios cognitivos\\N(DE ≥1 bajo la media).",
+                "children": []
+              },
+              {
+                "text": "* Sin interferencia funcional diaria.",
+                "children": []
+              },
+              {
+                "text": "* Predictivo de deterioro futuro.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* MND (Trastorno\\NNeurocognitivo Leve):",
+            "children": [
+              {
+                "text": "* Criterios similares a ANI.",
+                "children": []
+              },
+              {
+                "text": "* Interferencia leve en actividades diarias.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* HAD (Demencia\\NAsociada al VIH):",
+            "children": [
+              {
+                "text": "* Deterioro grave en ≥2 dominios.",
+                "children": []
+              },
+              {
+                "text": "* Interferencia marcada en funcionamiento diario.",
+                "children": []
+              },
+              {
+                "text": "* Poco común en países de altos ingresos (TAR generalizado).",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Epidemiología",
+        "children": [
+          {
+            "text": "* Prevalencia Global HAND: 15-55% en personas con VIH; 42.6% (global).",
+            "children": []
+          },
+          {
+            "text": "* Distribución\\NRegional:",
+            "children": [
+              {
+                "text": "* América Latina/Caribe: 59%",
+                "children": []
+              },
+              {
+                "text": "* África Subsahariana: 45%\\N(~70% casos HAND)",
+                "children": []
+              },
+              {
+                "text": "* Europa/Norteamérica: 41%",
+                "children": []
+              },
+              {
+                "text": "* Asia/Pacífico: 39%",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Prevalencia por\\NSubtipo:",
+            "children": [
+              {
+                "text": "* ANI: 23.5% (~70% casos HAND)",
+                "children": []
+              },
+              {
+                "text": "* MND: 13.3%",
+                "children": []
+              },
+              {
+                "text": "* HAD: 5% (Uganda: 33%, Sudáfrica: 25%)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Factores de Riesgo:",
+            "children": [
+              {
+                "text": "Demográficos: Edad↑, nivel educativo↓, sexo femenino, pobreza/acceso limitado a atención.",
+                "children": []
+              },
+              {
+                "text": "* VIH: CD4+ nadir <200 células/mcL, CD4+ actual↓, enf. definitorias SIDA, ARN VIH↑ (plasma/LCR), duración infección VIH↑.",
+                "children": []
+              },
+              {
+                "text": "* Tratamiento: Adherencia TAR↓, interrupciones TAR, régimen TAR no óptimo, penetración TAR en LCR↓.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Comorbilidades:",
+            "children": [
+              {
+                "text": "* Riesgo vascular: Obesidad, diabetes, hipertensión, coinfección VHC, trastornos del sueño.",
+                "children": []
+              },
+              {
+                "text": "Neurológicas/psiquiátricas: Depresión, ansiedad, uso de sustancias, traumatismo craneal.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Tendencias:",
+            "children": [
+              {
+                "text": "* Post-TAR: HAND persistente (mortalidad↓), HAD↓, formas leves estables.",
+                "children": []
+              },
+              {
+                "text": "* Largo plazo: HAND↑ (global), TAR↑ (recursos limitados), edad VIH↑, interacción envejecimiento.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Fisiopatología",
+        "children": [
+          {
+            "text": "* Mecanismos\\NPrimarios:",
+            "children": [
+              {
+                "text": "* Entrada VIH temprana al SNC.",
+                "children": []
+              },
+              {
+                "text": "* Células diana: macrófagos/microglía (SNC).",
+                "children": []
+              },
+              {
+                "text": "* Replicación viral persistente + inflamación crónica cerebral.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Mecanismos\\NSecundarios:",
+            "children": [
+              {
+                "text": "* Inflamación: Proteínas virales (gp120, Tat) → citocinas\\Nproinflamatorias/quimiocinas → neuroinflamación →\\Nactivación inmune (microglía/astrocitos).",
+                "children": []
+              },
+              {
+                "text": "* Neurotoxicidad: Proteínas virales → disfunción sináptica; neurotransmisión\\Nglutamatérgica alterada; glutamato↑; estrés oxidativo/daño neuronal.",
+                "children": []
+              },
+              {
+                "text": "* BBB (Barrera Hematoencefálica): Integridad↓ → permeabilidad↑\\N→ entrada virus/inflamación.",
+                "children": []
+              },
+              {
+                "text": "* Factores Contribuyentes: Disfunción mitocondrial, ATP↓,\\Nmetabolismo energético alterado, genética (ej. APOE ε4).",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Diagnóstico",
+        "children": [
+          {
+            "text": "Sospecha/Evaluación:",
+            "children": [
+              {
+                "text": "* Síntomas cognitivos nuevos/progresivos (memoria, atención, tareas).",
+                "children": []
+              },
+              {
+                "text": "* Evaluación neurocognitiva (≥5 dominios).",
+                "children": []
+              },
+              {
+                "text": "* Historia médica.",
+                "children": []
+              },
+              {
+                "text": "* Factores contribuyentes (farmacológicos, estilo de vida, riesgo cardiovascular).",
+                "children": []
+              },
+              {
+                "text": "* Examen físico (general/neurológico).",
+                "children": []
+              },
+              {
+                "text": "* Historia VIH (HABI previo, infecciones SNC).",
+                "children": []
+              },
+              {
+                "text": "* Comorbilidades.",
+                "children": []
+              },
+              {
+                "text": "* Edad/comorbilidad.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Pruebas\\NDiagnósticas:",
+            "children": [
+              {
+                "text": "* LCR: Carga viral SNC, infecciones oportunistas, biomarcadores\\N(NFL, neopterina, Aβ42-43, tau fosforilada).",
+                "children": []
+              },
+              {
+                "text": "* RM: Enf. oportunistas SNC, infartos/hemorragias, leucoencefalopatía, lesiones previas.\\NRM con contraste (inflamación, infecciones, ruptura BBB). PET-FDG, PET amiloide.",
+                "children": []
+              },
+              {
+                "text": "* Laboratorio: Estadificación VIH (CD4+, ARN VIH), infecciones comórbidas, metabólico, endocrino.\\NHemograma, función renal/hepática, TSH, B12, folato, lípidos.",
+                "children": []
+              },
+              {
+                "text": "* Examen Neurológico: Déficits neurológicos, demencia, deterioro cognitivo, problemas visuales.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Consideraciones:",
+            "children": [
+              {
+                "text": "* Diagnóstico diferencial (adultos mayores): HAND vs. deterioro cognitivo edad/otras demencias.",
+                "children": []
+              },
+              {
+                "text": "* Recursos limitados: Información colateral, cuestionarios, cribado, evaluaciones funcionales, pruebas neuropsicológicas limitadas.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Tratamiento",
+        "children": [
+          {
+            "text": "* No farmacológico:",
+            "children": [
+              {
+                "text": "* Rehabilitación cognitiva: Entrenamiento cognitivo, funcionamiento diario↑,\\Nresolución de problemas, memoria/atención.",
+                "children": []
+              },
+              {
+                "text": "* Manejo comorbilidades: Depresión/ansiedad, apoyo\\Npsicosocial, calidad de vida↑, riesgo cardiovascular↓.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Farmacológico:",
+            "children": [
+              {
+                "text": "* TAR (fundamental): Optimización, penetración SNC, monitorización.\\NModificaciones (antirretrovirales con penetración SNC↑, genotipos, exposición, adherencia↑).",
+                "children": []
+              },
+              {
+                "text": "* Psicoestimulantes: Metilfenidato (atención/concentración),\\NModafinil (alerta/cognición).",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Implicaciones\\NPsicosociales",
+        "children": [
+          {
+            "text": "* Salud Mental:",
+            "children": [
+              {
+                "text": "* Depresión/ansiedad (frecuente, deterioro cognitivo contribuye).",
+                "children": []
+              },
+              {
+                "text": "* Impacto: Funcionamiento social/calidad de vida↓, autoeficacia↓.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Cuidado/Apoyo:",
+            "children": [
+              {
+                "text": "* Intervenciones: Consejería, terapia ocupacional, apoyo social, rehabilitación cognitiva personalizada.",
+                "children": []
+              },
+              {
+                "text": "* Adherencia TAR: Recordatorios, sistemas de apoyo, estrategias para esquemas complejos.",
+                "children": []
+              },
+              {
+                "text": "* Factores de Riesgo Psicosociales: Aislamiento social, estigma/discriminación, acceso tratamiento↓, recursos↓.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Manejo y\\NSeguimiento",
+        "children": [
+          {
+            "text": "* TAR (Continuación): Supresión replicación VIH (principal), optimización (síntomas persistentes).",
+            "children": []
+          },
+          {
+            "text": "* Comorbilidades (Continuación): Tratar VHC, riesgo cardiovascular, depresión.\\NEvaluación sistemática, tratamiento coordinado, interacciones medicamentosas.",
+            "children": []
+          },
+          {
+            "text": "* Seguimiento\\NNeurocognitivo:",
+            "children": [
+              {
+                "text": "* Protocolo estándar: Evaluación neurocognitiva cada 2 años (estables).",
+                "children": []
+              },
+              {
+                "text": "* Monitorización intensificada: Empeoramiento VIH, deterioro\\Ncognitivo progresivo, TAR inadecuado/ausente, CD4+ nadir↓.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "* Implementación:",
+            "children": [
+              {
+                "text": "* Evaluación respuesta: Función cognitiva,\\Nefectividad tratamiento, ajustes.",
+                "children": []
+              },
+              {
+                "text": "* Optimización tratamiento:\\NPersonalización, barreras, recursos.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Conclusiones/Necesidades\\NFuturas",
+        "children": [
+          {
+            "text": "* Conclusiones: HAND: desafío significativo (VIH), afecta cognitivo, mental, bienestar. Abordaje integral\\N(médico-psicológico-social). Inflamación crónica SNC, daño neuronal, replicación viral.",
+            "children": []
+          },
+          {
+            "text": "* Recomendaciones: Evaluación comprehensiva, pruebas neuropsicológicas, diagnóstico\\Ntemprano. Enfoque multidisciplinario, optimización TAR, manejo comorbilidades.",
+            "children": []
+          },
+          {
+            "text": "* Necesidades: Investigación (mecanismos, terapias, biomarcadores). Atención clínica (detección temprana↑, intervenciones\\Nefectivas, calidad de vida↑). Atención integral continua, apoyo psicosocial, adherencia tratamiento, soporte familiar/comunitario.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1805",
+      "title": "Deterioro Cognitivo Vascular (DCV)\\Ny Demencia Vascular"
+    },
+    {
+      "id": "map_1107",
+      "title": "Deterioro Cognitivo Vascular (DCV) y Demencia Vascular"
+    },
+    {
+      "id": "map_1054",
+      "title": "Evaluación de la Demencia y el Deterioro Cognitivo  UTD 2025"
+    },
+    {
+      "id": "map_1793",
+      "title": "Evaluación de la Demencia y\\Nel Deterioro Cognitivo \\N\\\\*UTD 2025 \\\\*"
+    },
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    }
+  ],
+  "source_file": "HAND-2025.smmx",
+  "created": "2026-02-07T15:43:03.251200"
+}

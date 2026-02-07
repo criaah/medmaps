@@ -1,0 +1,68 @@
+{
+  "id": "map_1692",
+  "title": "SPRINT (2015)\\NSystolic Blood Pressure Intervention Trial\\N\\nControl intensivo PA menor 120 mmHg\\nreduce eventos CV y mortalidad en mayores 75a\\NNNTH 27 a 3 años",
+  "specialty": "Estudios Pivotales",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "SPRINT (2015)\\NSystolic Blood Pressure Intervention Trial\\N\\nControl intensivo PA menor 120 mmHg\\nreduce eventos CV y mortalidad en mayores 75a\\NNNTH 27 a 3 años",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nSPRINT Research Group\\nN Engl J Med 2015;373:2103-16\\NDOI: 10.1056/NEJMoa1511939\\N\\nRCT multicentrico, abierto\\nEEUU, Puerto Rico\\nDetenido precozmente por beneficio",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=9,361 (2,636 mayores 75a)\\NEdad: mayor o igual 50 años\\nPAS 130-180 mmHg\\n\\nAlto riesgo CV:\\n- ECV clinica o subclinica\\n- ERC (TFG 20-60)\\n- Framingham mayor 15%\\n- Edad mayor 75a\\n\\nExcluidos: DM, ACV previo, IC sintomatica",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\nControl intensivo: PAS menor 120 mmHg\\nvs\\nControl estandar: PAS menor 140 mmHg\\n\\nPAS lograda:\\n- Intensivo: 121 mmHg\\n- Estandar: 136 mmHg\\n\\nSeguimiento medio: 3.26 años",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nOutcome primario (IAM, SCA, ACV, IC, muerte CV):\\nIntensivo: 5.2%\\nEstandar: 6.8%\\nHR 0.75 (IC95% 0.64-0.89)\\NNNTH 61 general, 27 en mayores 75a\\N\\nMortalidad total:\\nHR 0.73 (IC95% 0.60-0.90)\\NNNTH 90\\N\\nSubgrupo mayor 75a:\\nHR 0.66 para outcome primario\\nBeneficio MAYOR que jovenes",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nMayor en grupo intensivo:\\n- Hipotension: 2.4% vs 1.4%\\n- Sincope: 2.3% vs 1.7%\\n- IRA: 4.1% vs 2.5%\\n- Alteraciones electroliticas: 3.1% vs 2.3%\\n\\nSin diferencia en caidas ni fracturas\\nEn mayores 75a: eventos adversos similares",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Exclusion de diabeticos\\n- Exclusion de ACV previo\\n- Medicion PA automatizada sin observador\\n- PA real probablemente mayor que en consultorio\\n- Detenido precozmente\\n- Poblacion seleccionada (excluye fragiles institucionalizados)",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Beneficio MAYOR en mayores 75a\\n- NNT 27 muy favorable\\n- Sin aumento de caidas\\n- Considerar PA automatizada vs consultorio\\n- Individualizar en muy fragiles\\n- Velocidad de marcha predictor de beneficio",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Mayor 75a = MAYOR beneficio (no menor)\\n2. Meta PAS menor 120 segura en ancianos seleccionados\\n3. NNT 27 a 3 años = excelente\\n4. Sin aumento caidas en analisis\\n5. PA SPRINT equivale a 130-140 en consultorio\\n6. Fragilidad severa fue criterio exclusion\\n7. Velocidad marcha mayor 0.8 m/s predice beneficio\\n8. Individualizar: expectativa de vida, tolerancia\\n9. Monitorizar funcion renal y electrolitos\\n10. Cambio de paradigma en HTA del anciano",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    }
+  ],
+  "source_file": "SPRINT-2026.smmx",
+  "created": "2026-02-07T15:42:53.362517"
+}

@@ -1,0 +1,1657 @@
+{
+  "id": "map_1695",
+  "title": "TRASTORNOS DE\\NLA CALCEMIA",
+  "specialty": "Psiquiatría",
+  "tag": "💊 Farmacología",
+  "node_count": 376,
+  "root": {
+    "text": "TRASTORNOS DE\\NLA CALCEMIA",
+    "children": [
+      {
+        "text": "Ca PLASMÁTICO →\\NDISTRIBUCIÓN NORMAL:",
+        "children": [
+          {
+            "text": "- Ca iónico/biológicamente activo: 50%",
+            "children": []
+          },
+          {
+            "text": "- Unido a proteínas: 40%",
+            "children": []
+          },
+          {
+            "text": "- Unido a aniones: 10%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "CALCEMIA\\NCORREGIDA:",
+        "children": [
+          {
+            "text": "→ Fórmula: mg/dL = calcemia medida + 0,8 x (4 - albuminemia) (1)",
+            "children": []
+          },
+          {
+            "text": "→ Usar solo en hipoalbuminemia",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "FACTORES\\NINTERFERENCIA\\NMEDICIÓN:",
+        "children": [
+          {
+            "text": "- Hiperlipemia",
+            "children": []
+          },
+          {
+            "text": "- Hemólisis",
+            "children": []
+          },
+          {
+            "text": "- Estasis venoso (lactato)",
+            "children": []
+          },
+          {
+            "text": "- Anticoagulantes (heparina)",
+            "children": []
+          },
+          {
+            "text": "- Gadolinio:",
+            "children": [
+              {
+                "text": "* ↑ valores hasta 6 mg/dL (24h post-RM)",
+                "children": []
+              },
+              {
+                "text": "* Reversible → excreción urinaria",
+                "children": []
+              },
+              {
+                "text": "* Excepto: IR (2,3)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "INDICACIONES\\NMEDICIÓN Ca IÓNICO:",
+        "children": [
+          {
+            "text": "- UCI",
+            "children": []
+          },
+          {
+            "text": "- Hemodiálisis",
+            "children": []
+          },
+          {
+            "text": "- Circulación extracorpórea",
+            "children": []
+          },
+          {
+            "text": "- Transfusiones repetitivas",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "HIPERCALCEMIA:",
+        "children": [
+          {
+            "text": "→ Definición:",
+            "children": [
+              {
+                "text": "* Ca total > 10,5 mg/dL",
+                "children": []
+              },
+              {
+                "text": "* Ca iónico > 5,2 mg/dL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Epidemiología:",
+            "children": [
+              {
+                "text": "* Población general: 1/1.000",
+                "children": []
+              },
+              {
+                "text": "* Hospitalizados: 0,5-1%",
+                "children": []
+              },
+              {
+                "text": "- ♀ > ♂ en HPT 1° (3,1)",
+                "children": []
+              },
+              {
+                "text": "- ↑ incidencia con edad",
+                "children": []
+              },
+              {
+                "text": "- 90% casos → HPT 1° (ambulatorios) + hipercalcemia tumoral (hospitalizados)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN:",
+            "children": [
+              {
+                "text": "1. DEPENDIENTE PTH:",
+                "children": [
+                  {
+                    "text": "→ HPT 1°",
+                    "children": []
+                  },
+                  {
+                    "text": "→ HPT familiar:",
+                    "children": [
+                      {
+                        "text": "* NEM I y IIA",
+                        "children": []
+                      },
+                      {
+                        "text": "* Hipercalcemia hipocalciúrica familiar",
+                        "children": []
+                      },
+                      {
+                        "text": "* HPT familiar aislado",
+                        "children": []
+                      },
+                      {
+                        "text": "* HPT + tumor mandibular",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ HPT terciario",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. INDEPENDIENTE\\NPTH:",
+                "children": [
+                  {
+                    "text": "→ Tumoral:",
+                    "children": [
+                      {
+                        "text": "* Péptido PTH-rP",
+                        "children": []
+                      },
+                      {
+                        "text": "* Metástasis óseas líticas",
+                        "children": []
+                      },
+                      {
+                        "text": "* Activación 1α-hidroxilasa",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Mediada vitamina D:",
+                    "children": [
+                      {
+                        "text": "* Granulomatosis",
+                        "children": []
+                      },
+                      {
+                        "text": "* Intoxicación vit D",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Fármacos:",
+                    "children": [
+                      {
+                        "text": "* Tiazidas",
+                        "children": []
+                      },
+                      {
+                        "text": "* Litio",
+                        "children": []
+                      },
+                      {
+                        "text": "* Intoxicación vit A",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Miscelánea:",
+                    "children": [
+                      {
+                        "text": "* Inmovilización",
+                        "children": []
+                      },
+                      {
+                        "text": "* Nutrición parenteral",
+                        "children": []
+                      },
+                      {
+                        "text": "* Hipertiroidismo",
+                        "children": []
+                      },
+                      {
+                        "text": "* Infrecuentes (4)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN HIPERCALCEMIA\\NINDEPENDIENTE PTH:",
+            "children": [
+              {
+                "text": "1. Humoral (80%):",
+                "children": [
+                  {
+                    "text": "- Sin metástasis",
+                    "children": []
+                  },
+                  {
+                    "text": "- PTHrP",
+                    "children": []
+                  },
+                  {
+                    "text": "- Ca: pulmón, mama, renal, ovario",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Osteolítica (20%):",
+                "children": [
+                  {
+                    "text": "- Con metástasis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Citoquinas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Ca: mieloma, mama",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Vit D ectópica (<1%):",
+                "children": [
+                  {
+                    "text": "- Variable",
+                    "children": []
+                  },
+                  {
+                    "text": "- 1,25 OH2D3",
+                    "children": []
+                  },
+                  {
+                    "text": "- Linfomas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "4. HPT ectópico (0,1%):",
+                "children": [
+                  {
+                    "text": "- Variable",
+                    "children": []
+                  },
+                  {
+                    "text": "- PTH",
+                    "children": []
+                  },
+                  {
+                    "text": "- Casos aislados",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ESTUDIO\\NHIPERCALCEMIA",
+            "children": [
+              {
+                "text": "EVALUACIÓN INICIAL:",
+                "children": [
+                  {
+                    "text": "1. Cuadro clínico",
+                    "children": []
+                  },
+                  {
+                    "text": "2. Medicamentos",
+                    "children": []
+                  },
+                  {
+                    "text": "3. Etiologías posibles",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "ESTUDIO BÁSICO:",
+                "children": [
+                  {
+                    "text": "→ Confirmar\\Nhipercalcemia:",
+                    "children": [
+                      {
+                        "text": "- Ca plasmático (total/iónico)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Albuminemia",
+                        "children": []
+                      },
+                      {
+                        "text": "- Creatininemia",
+                        "children": []
+                      },
+                      {
+                        "text": "- PTH",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Casos seleccionados:\\Nvit D",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "SI PTH ↑ O NORMAL +\\NHIPERCALCEMIA:",
+                "children": [
+                  {
+                    "text": "→ Medir:",
+                    "children": [
+                      {
+                        "text": "- Ca sangre/orina 24h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Creatinina sangre/orina 24h",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Calcular: clearance Ca/clearance creatinina",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Calciuria 24h:",
+                    "children": [
+                      {
+                        "text": "* Normal/baja → estudio\\Ncausas no frecuentes",
+                        "children": [
+                          {
+                            "text": "HHF (Hipercalcemia\\NHipocalciúrica Familiar):",
+                            "children": [
+                              {
+                                "text": "- Mutación gen sensor Ca (paratiroides+riñón)",
+                                "children": []
+                              },
+                              {
+                                "text": "- Características:",
+                                "children": [
+                                  {
+                                    "text": "* Hipercalcemia leve asintomática",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "* Hipermagnesemia",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "* PTH normal/alta",
+                                    "children": []
+                                  },
+                                  {
+                                    "text": "* Clearance Ca/creatinina < 0, 01",
+                                    "children": []
+                                  }
+                                ]
+                              },
+                              {
+                                "text": "- Dx: calciuria 24h (menor valor) (5)",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "text": "* Elevada → HPT 1° → tto específico",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "PTH baja/suprimida:",
+                "children": [
+                  {
+                    "text": "→ Confirmar cáncer",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Si (+): tto específico",
+                    "children": []
+                  },
+                  {
+                    "text": "→ Si (-): estudio causas no frecuentes",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TRATAMIENTO\\NHIPERCALCEMIA",
+        "children": [
+          {
+            "text": "CLASIFICACIÓN POR\\NCALCEMIA TOTAL:",
+            "children": [
+              {
+                "text": "- Normocalcemia: ≤ 8.5 mg/dL",
+                "children": []
+              },
+              {
+                "text": "- Hipercalcemia leve: 10.5-12 mg/dL",
+                "children": []
+              },
+              {
+                "text": "- Hipercalcemia moderada: 12-14 mg/dL",
+                "children": []
+              },
+              {
+                "text": "- Hipercalcemia grave: > 14 mg/dL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "HIPERCALCEMIA\\NLEVE:",
+            "children": [
+              {
+                "text": "→ Principal causa: HPT 1° asintomático",
+                "children": []
+              },
+              {
+                "text": "→ Medidas\\Ngenerales:",
+                "children": [
+                  {
+                    "text": "- Evitar reposo",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hidratación adecuada",
+                    "children": []
+                  },
+                  {
+                    "text": "- Dieta normocálcica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Evitar diuréticos",
+                    "children": []
+                  },
+                  {
+                    "text": "- Suspender fármacos hipercalcemiantes",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "HIPERCALCEMIA\\NMODERADA:",
+            "children": [
+              {
+                "text": "→ Asintomático: = tto hipercalcemia leve",
+                "children": []
+              },
+              {
+                "text": "→ Sintomático:",
+                "children": [
+                  {
+                    "text": "- Compromiso conciencia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alteraciones ECG",
+                    "children": []
+                  },
+                  {
+                    "text": "- Compromiso renal",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ Tratar como hipercalcemia grave",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "HIPERCALCEMIA\\NGRAVE:",
+            "children": [
+              {
+                "text": "→ Base tto:",
+                "children": [
+                  {
+                    "text": "1. Hidratación",
+                    "children": []
+                  },
+                  {
+                    "text": "2. Fármacos:",
+                    "children": [
+                      {
+                        "text": "- Bifosfonatos",
+                        "children": []
+                      },
+                      {
+                        "text": "- Calcitonina",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "3. Diálisis (si necesario)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "INDICACIONES\\NDIÁLISIS:",
+            "children": [
+              {
+                "text": "- Ca > 18 mg/dL",
+                "children": []
+              },
+              {
+                "text": "- IRA anúrica",
+                "children": []
+              },
+              {
+                "text": "- ICC",
+                "children": []
+              },
+              {
+                "text": "- Fracaso tto",
+                "children": []
+              },
+              {
+                "text": "- Arritmias malignas",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TRATAMIENTO\\NHIPERCALCEMIA GRAVE",
+        "children": [
+          {
+            "text": "MANEJO AGUDO:",
+            "children": [
+              {
+                "text": "1. Hospitalización UCI",
+                "children": []
+              },
+              {
+                "text": "2. Hidratación:",
+                "children": [
+                  {
+                    "text": "→ Sol. salina → diuresis 200 mL/h*",
+                    "children": [
+                      {
+                        "text": "(*40 mg Ca excretados/100 mEq Na)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "3. Bifosfonatos IV:",
+                "children": [
+                  {
+                    "text": "→ 1ª elección:\\NZoledronato",
+                    "children": [
+                      {
+                        "text": "- 4 mg/15 min",
+                        "children": []
+                      },
+                      {
+                        "text": "- Latencia: 24-48h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Eficacia: 88%",
+                        "children": []
+                      },
+                      {
+                        "text": "- Duración: 32d",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Ibandronato",
+                    "children": [
+                      {
+                        "text": "- 2-6 mg/2h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Latencia: 48h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Eficacia: 76%",
+                        "children": []
+                      },
+                      {
+                        "text": "- Duración: 14d",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Pamidronato",
+                    "children": [
+                      {
+                        "text": "- 60-90 mg/4-6h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Latencia: 48-72h",
+                        "children": []
+                      },
+                      {
+                        "text": "- Eficacia: 70%",
+                        "children": []
+                      },
+                      {
+                        "text": "- Duración: 18d",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "4. Calcitonina: 4\\NUI/kg sc-im/12h",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CONSIDERACIONES\\NERC:",
+            "children": [
+              {
+                "text": "- Ibandronato seguro (6,7)",
+                "children": []
+              },
+              {
+                "text": "- Si ClCr < 30 mL/min → dosis 2-3 meses",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SI HIPERCALCEMIA\\NPERSISTENTE (72h):",
+            "children": [
+              {
+                "text": "→ Considerar:",
+                "children": [
+                  {
+                    "text": "- Etiología vitamina D → Prednisona 40-100 mg/d",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Fracaso tto → Planificar diálisis",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "TRATAMIENTO\\NHIPERCALCEMIA CRÓNICA:",
+        "children": [
+          {
+            "text": "1. Alendronato:",
+            "children": [
+              {
+                "text": "→ HPT 1° crónico (alternativa cirugía)",
+                "children": []
+              },
+              {
+                "text": "→ ↓Ca esperado: 0.3-0.5 mg/dL",
+                "children": []
+              },
+              {
+                "text": "→ Protección ósea",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "2. Calcitonina:",
+            "children": [
+              {
+                "text": "→ Uso histórico",
+                "children": []
+              },
+              {
+                "text": "→ Efecto modesto",
+                "children": []
+              },
+              {
+                "text": "→ En desuso",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "3. Raloxifeno:",
+            "children": [
+              {
+                "text": "→ Similar a alendronato en HPT 1°",
+                "children": []
+              },
+              {
+                "text": "→ Menor evidencia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CINACALCET:",
+            "children": [
+              {
+                "text": "→ Calcimimético agonista sensor Ca (célula paratiroidea)",
+                "children": []
+              },
+              {
+                "text": "→ Indicaciones/dosis:",
+                "children": [
+                  {
+                    "text": "1. HPT en ERC:",
+                    "children": [
+                      {
+                        "text": "- Inicio: 30 mg/d",
+                        "children": []
+                      },
+                      {
+                        "text": "- Ajuste: c/2-4 sem",
+                        "children": []
+                      },
+                      {
+                        "text": "- Máx: 180 mg/d",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. Ca paratiroideo:",
+                    "children": [
+                      {
+                        "text": "- 30 mg/12h",
+                        "children": []
+                      },
+                      {
+                        "text": "- ↑ según respuesta",
+                        "children": []
+                      },
+                      {
+                        "text": "- Máx: 360 mg/d",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "→ Efectos: ↓Ca y PTH (normalización)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CIRUGÍA HPT 1°\\NASINTOMÁTICO (8):",
+            "children": [
+              {
+                "text": "- Ca plasmático > 1 mg/dL sobre límite normal",
+                "children": []
+              },
+              {
+                "text": "- ClCr < 60 mL/min",
+                "children": []
+              },
+              {
+                "text": "- DMO: score T < -2,5 o fractura previa",
+                "children": []
+              },
+              {
+                "text": "- Edad < 50 años",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPOCALCEMIA:",
+        "children": [
+          {
+            "text": "→ Definición:",
+            "children": [
+              {
+                "text": "- Ca total corregido < 8,5 mg/dL",
+                "children": []
+              },
+              {
+                "text": "- Ca iónico < 4,68 mg/dL (pH 7,4)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "EPIDEMIOLOGÍA\\NUCI (9,10):",
+            "children": [
+              {
+                "text": "- Frecuencia: 18-85%",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Causas:",
+            "children": [
+              {
+                "text": "* Hipoalbuminemia",
+                "children": []
+              },
+              {
+                "text": "* Quelantes (citrato/lactato/bicarbonato/fosfato)",
+                "children": []
+              },
+              {
+                "text": "* Medios contraste",
+                "children": []
+              },
+              {
+                "text": "* Transfusiones repetidas",
+                "children": []
+              },
+              {
+                "text": "* Anticoagulantes",
+                "children": []
+              },
+              {
+                "text": "* Hipovitaminosis D",
+                "children": []
+              },
+              {
+                "text": "* Resistencia PTH (sepsis)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "DX EN UCI:",
+            "children": [
+              {
+                "text": "→ Ca corregido:",
+                "children": [
+                  {
+                    "text": "- Sensibilidad: 53%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Especificidad: 85%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ Recomendación: medir Ca iónico",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CLASIFICACIÓN\\NCLÍNICA:",
+            "children": [
+              {
+                "text": "1. PTH ↓: hipoparatiroidismo",
+                "children": []
+              },
+              {
+                "text": "2. PTH ↑: hiperparatiroidismo 2°",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CAUSAS DE\\NHIPOCALCEMIA",
+            "children": [
+              {
+                "text": "1. HIPOPARATIROIDISMO:",
+                "children": [
+                  {
+                    "text": "→ Destructivas:",
+                    "children": [
+                      {
+                        "text": "- Cirugía* (*más frecuente)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Radioterapia",
+                        "children": []
+                      },
+                      {
+                        "text": "- Infiltración metastásica/sistémica",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Autoinmune:",
+                    "children": [
+                      {
+                        "text": "- Sd. poliglandular autoinmune I°",
+                        "children": []
+                      },
+                      {
+                        "text": "- Autoinmune aislada",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ ↓Secreción PTH:",
+                    "children": [
+                      {
+                        "text": "- Hipomagnesemia* (1)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hipocalcemia autosómica dominante",
+                        "children": []
+                      },
+                      {
+                        "text": "- Defectos genéticos:",
+                        "children": [
+                          {
+                            "text": "* Aislada",
+                            "children": []
+                          },
+                          {
+                            "text": "* Sd. Di George",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "2. HIPERPARATIROIDISMO\\N2°:",
+                "children": [
+                  {
+                    "text": "→ Déficit vit D:",
+                    "children": [
+                      {
+                        "text": "- ERC*",
+                        "children": []
+                      },
+                      {
+                        "text": "- Malabsorción/enf. hepática",
+                        "children": []
+                      },
+                      {
+                        "text": "- ↓exposición solar",
+                        "children": []
+                      },
+                      {
+                        "text": "- Osteomalacia hipocalcémica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Raquitismo vit D resistente I",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Resistencia\\NPTH:",
+                    "children": [
+                      {
+                        "text": "- Pseudohipoparatiroidismo",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hipomagnesemia*",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Fármacos:",
+                    "children": [
+                      {
+                        "text": "- Quelantes Ca (citrato/fosfatos)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enemas fosfosoda",
+                        "children": []
+                      },
+                      {
+                        "text": "- Fenitoína",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Misceláneas:",
+                    "children": [
+                      {
+                        "text": "- UTI*",
+                        "children": []
+                      },
+                      {
+                        "text": "- Pancreatitis aguda",
+                        "children": []
+                      },
+                      {
+                        "text": "- Rabdomiólisis aguda",
+                        "children": []
+                      },
+                      {
+                        "text": "- Alcalosis respiratoria",
+                        "children": []
+                      },
+                      {
+                        "text": "- Tumoral (lisis/metástasis)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Resistencia vit D:",
+                    "children": [
+                      {
+                        "text": "- Raquitismo vit D resistente II",
+                        "children": []
+                      },
+                      {
+                        "text": "*Causas más frecuentes",
+                        "children": [
+                          {
+                            "text": "(1) Mg < 0.8-1 mg/L → ↓secreción/resistencia PTH",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "ESTUDIO HIPOCALCEMIA\\N(9,11,12, 13,14):",
+            "children": [
+              {
+                "text": "1. Evaluación:",
+                "children": [
+                  {
+                    "text": "- Clínica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Etiologías",
+                    "children": []
+                  },
+                  {
+                    "text": "- Medicamentos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Confirmar:",
+                "children": [
+                  {
+                    "text": "- Ca total/iónico",
+                    "children": []
+                  },
+                  {
+                    "text": "- Perfil bioquímico",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mg",
+                    "children": []
+                  },
+                  {
+                    "text": "- Creatinina",
+                    "children": []
+                  },
+                  {
+                    "text": "- PTH (simultánea con Ca)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Vit D (opcional)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Continuar según PTH",
+                "children": [
+                  {
+                    "text": "A. PTH\\N\"NORMAL\"/BAJA:",
+                    "children": [
+                      {
+                        "text": "→ Evaluar Mg:",
+                        "children": [
+                          {
+                            "text": "- Normal → Hipoparatiroidismo",
+                            "children": []
+                          },
+                          {
+                            "text": "- Bajo → Hipomagnesemia",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. PTH ALTA:",
+                    "children": [
+                      {
+                        "text": "→ Evaluar función renal:",
+                        "children": [
+                          {
+                            "text": "- ERC → Insuficiencia renal",
+                            "children": []
+                          },
+                          {
+                            "text": "- Normal →\\NMedir 25OHD:",
+                            "children": [
+                              {
+                                "text": "* < 20 ng/mL: deficiencia",
+                                "children": []
+                              },
+                              {
+                                "text": "* > 20 ng/mL: causas raras",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "MANIFESTACIONES\\NCLÍNICAS:",
+            "children": [
+              {
+                "text": "- Parestesias",
+                "children": []
+              },
+              {
+                "text": "- Espasmo carpopedal",
+                "children": []
+              },
+              {
+                "text": "- Tetania",
+                "children": []
+              },
+              {
+                "text": "- Convulsiones",
+                "children": []
+              },
+              {
+                "text": "- Chvostek:",
+                "children": [
+                  {
+                    "text": "* Normal: 10%",
+                    "children": []
+                  },
+                  {
+                    "text": "* Hipocalcemia: ausente 29%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Trousseau:",
+                "children": [
+                  {
+                    "text": "* Normal: 1%",
+                    "children": []
+                  },
+                  {
+                    "text": "* Hipocalcemia: ausente 6%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- ECG: bradicardia, QT prolongado",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "INDICACIONES\\NCa IV (15):",
+            "children": [
+              {
+                "text": "1. Hipocalcemia sintomática",
+                "children": []
+              },
+              {
+                "text": "2. Asintomática + Ca:",
+                "children": [
+                  {
+                    "text": "- Total < 7 mg/dL",
+                    "children": []
+                  },
+                  {
+                    "text": "- Iónico < 2,8 mg/dL",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "3. Asintomática +\\NECG alterado:",
+                "children": [
+                  {
+                    "text": "- Ca total: 7-7,5 mg/dL",
+                    "children": []
+                  },
+                  {
+                    "text": "- Ca iónico: 2,8-3 mg/dL",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO\\NHIPOCALCEMIA\\NAGUDA",
+            "children": [
+              {
+                "text": "ALGORITMO\\NTRATAMIENTO:",
+                "children": [
+                  {
+                    "text": "1. SINTOMÁTICA:",
+                    "children": [
+                      {
+                        "text": "→ Ca IV",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. ASINTOMÁTICA:",
+                    "children": [
+                      {
+                        "text": "→ Ca total < 7 mg/dL o Ca iónico < 2,8 mg/dL:",
+                        "children": [
+                          {
+                            "text": "* Ca IV",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "→ Ca total 7-7,5 mg/dL o Ca\\Niónico 2,8-3 mg/dL:",
+                        "children": [
+                          {
+                            "text": "* ECG → si alterado → Ca IV",
+                            "children": []
+                          },
+                          {
+                            "text": "* ECG normal → tto oral",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "→ Ca total 7, 5-8,5 mg/dL:",
+                        "children": [
+                          {
+                            "text": "* Tto oral",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "DOSIS INICIAL\\NCa IV:",
+                "children": [
+                  {
+                    "text": "- Traslado UCI/intermedio",
+                    "children": []
+                  },
+                  {
+                    "text": "- Monitorización ECG",
+                    "children": []
+                  },
+                  {
+                    "text": "- Gluconato Ca 10%:",
+                    "children": [
+                      {
+                        "text": "* 10-20 mL (9,3 mg/mL)",
+                        "children": []
+                      },
+                      {
+                        "text": "* Diluir: SG 5% 50-100 mL",
+                        "children": []
+                      },
+                      {
+                        "text": "* Infusión: 10-20 min",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- CaCl2:",
+                    "children": [
+                      {
+                        "text": "* Requiere CVC",
+                        "children": []
+                      },
+                      {
+                        "text": "* Riesgo necrosis",
+                        "children": []
+                      },
+                      {
+                        "text": "* Solo UCI/pabellón",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Vía exclusiva (no bicarbonato/fosfato)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Efecto: 2-3h",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "DOSIS MANTENCIÓN\\NCa IV:",
+                "children": [
+                  {
+                    "text": "- Dosis: 0,5-1,5 mg Ca elemental/kg/h",
+                    "children": []
+                  },
+                  {
+                    "text": "- Preparación:",
+                    "children": [
+                      {
+                        "text": "* 6 amp gluconato Ca 10% (558 mg Ca elemental)",
+                        "children": []
+                      },
+                      {
+                        "text": "* Diluir 500 mL SG 5%",
+                        "children": []
+                      },
+                      {
+                        "text": "* 1 mL = 1 mg Ca elemental",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Inicio: 1 mg/kg/h",
+                    "children": []
+                  },
+                  {
+                    "text": "- Control Ca: c/4-6h",
+                    "children": []
+                  },
+                  {
+                    "text": "- Objetivo: Ca total > 7,5 mg/dL",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO\\NORAL:",
+            "children": [
+              {
+                "text": "- Dosis: 500-1000 mg Ca elemental c/4-6h",
+                "children": []
+              },
+              {
+                "text": "TIPOS Ca ORAL:",
+                "children": [
+                  {
+                    "text": "1. CARBONATO Ca:",
+                    "children": [
+                      {
+                        "text": "- < 50 años",
+                        "children": []
+                      },
+                      {
+                        "text": "- Acidez gástrica normal",
+                        "children": []
+                      },
+                      {
+                        "text": "- No IBP",
+                        "children": []
+                      },
+                      {
+                        "text": "- FR normal/alterada",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "2. CITRATO Ca:",
+                    "children": [
+                      {
+                        "text": "- > 50 años",
+                        "children": []
+                      },
+                      {
+                        "text": "- ↓acidez gástrica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Patologías gástricas",
+                        "children": []
+                      },
+                      {
+                        "text": "- IBP",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "3. ACETATO Ca:",
+                    "children": [
+                      {
+                        "text": "- IRC",
+                        "children": []
+                      },
+                      {
+                        "text": "- Mayor quelación P",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "SUPLEMENTACIÓN\\NVIT D:",
+                "children": [
+                  {
+                    "text": "→ Indicación:",
+                    "children": [
+                      {
+                        "text": "- Déficit vit D",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hipoparatiroidismo",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "→ Según PTH:",
+                    "children": [
+                      {
+                        "text": "1. PTH alta:",
+                        "children": [
+                          {
+                            "text": "- Colecalciferol/ergocalciferol",
+                            "children": []
+                          },
+                          {
+                            "text": "- Carga: 50. 000U/sem x 6 sem",
+                            "children": []
+                          },
+                          {
+                            "text": "- Mantención: 800-2000 UI/d",
+                            "children": []
+                          },
+                          {
+                            "text": "- En IRC: 1α-hidroxilados",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "text": "2. PTH baja:",
+                        "children": [
+                          {
+                            "text": "- Calcitriol (0,25-0,5 μg)",
+                            "children": []
+                          },
+                          {
+                            "text": "- Alfacalcidiol (0,25-1 μg)",
+                            "children": []
+                          },
+                          {
+                            "text": "- Inicio: 0,5-1 μg/d",
+                            "children": []
+                          },
+                          {
+                            "text": "- ↑dosis c/4-7d según respuesta",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "SEGUIMIENTO:",
+            "children": [
+              {
+                "text": "1. Control 2 sem:",
+                "children": [
+                  {
+                    "text": "- Ca plasma",
+                    "children": []
+                  },
+                  {
+                    "text": "- Ca orina 24h",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "2. Control c/3-6 meses hasta dosis estable",
+                "children": []
+              },
+              {
+                "text": "3. Luego control anual",
+                "children": []
+              },
+              {
+                "text": "4. Si hipercalciuria: evaluar tiazidas",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1668",
+      "title": "HORIZON-RFT (2007)\\NHealth Outcomes and Reduced\\NIncidence with Zoledronic Acid\\NOnce Yearly - Recurrent Fracture Trial\\N\\N⭐ Zoledronato post fractura cadera\\Nreduce refracturas Y mortalidad"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "Arteaga | TRASTORNOS DE LA CALCEMIA-2024.smmx",
+  "created": "2026-02-07T15:42:53.438844"
+}

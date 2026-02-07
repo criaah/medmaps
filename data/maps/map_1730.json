@@ -1,0 +1,835 @@
+{
+  "id": "map_1730",
+  "title": "Diagnóstico\\NSerológico de la\\NSífilis",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 188,
+  "root": {
+    "text": "Diagnóstico\\NSerológico de la\\NSífilis",
+    "children": [
+      {
+        "text": "## Sífilis: Enfermedad\\Ny Agente Causal",
+        "children": [
+          {
+            "text": "- Definición: Enfermedad infecciosa aguda o crónica",
+            "children": []
+          },
+          {
+            "text": "- Agente Causal:\\NTreponema pallidum",
+            "children": [
+              {
+                "text": "- Familia: Treponemataceae",
+                "children": []
+              },
+              {
+                "text": "- Características\\NMorfológicas",
+                "children": [
+                  {
+                    "text": "- Dimensiones: 5-15 µm largo x 0.2 µm diámetro (límite resolución óptica)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Visualización: No tinciones normales; sí Contraste de fases o Tinciones de plata",
+                    "children": []
+                  },
+                  {
+                    "text": "- Movilidad: Positiva (10 flagelos periplásmicos)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Características\\NBiológicas",
+                "children": [
+                  {
+                    "text": "- Cultivo: No cultivable tradicionalmente",
+                    "children": []
+                  },
+                  {
+                    "text": "- Multiplicación: Lenta (tiempo generación ~8 horas en tejidos humanos)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Epidemiología y\\NTransmisión",
+            "children": [
+              {
+                "text": "- Clasificación: Enfermedad venérea, Declaración obligatoria",
+                "children": []
+              },
+              {
+                "text": "- Transmisión: Contacto directo con lesión productiva",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Evolución de la Sífilis No\\NTratada (Estadíos)",
+        "children": [
+          {
+            "text": "- Periodo de Incubación: 12-90 días (media 21 días)",
+            "children": []
+          },
+          {
+            "text": "- Sífilis Primaria (Duración:\\N3 sem - 3 meses)",
+            "children": [
+              {
+                "text": "- Lesión Característica: Chancro (en sitio inoculación, rico en treponemas, desaparece espontáneamente)",
+                "children": []
+              },
+              {
+                "text": "- Diseminación: Linfáticos regionales -> Sangre -> Órganos (Infección sistémica)",
+                "children": []
+              },
+              {
+                "text": "- Síntomas: Chancro, Linfadenopatía regional, Posible alteración LCR (40%)",
+                "children": []
+              },
+              {
+                "text": "- Serología: Positiva generalmente 3-4 semanas post-infección (Variable)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Secundaria\\N(Duración: 6 sem - 6 meses)",
+            "children": [
+              {
+                "text": "- Manifestaciones\\NSistémicas:",
+                "children": [
+                  {
+                    "text": "- Lesiones Cutáneas: Roseola sifilítica (erupción piel, palmas, plantas)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Otras Lesiones: Condilomas genitales (muy contagiosas)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Síntomas Asociados: Generales, Alopecia, Lesiones musculares",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Serología: Positiva (100%)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Latente",
+            "children": [
+              {
+                "text": "- Latencia Precoz (1-2 años): Periodos asintomáticos con posibles brotes tipo secundario (menor intensidad, recaídas 25%). Serología positiva/variable.",
+                "children": []
+              },
+              {
+                "text": "- Latencia Tardía (2-20 años): Asintomático. Serología positiva/variable. Posible curación espontánea (33%).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Terciaria\\N(Duración: 10-20 años)",
+            "children": [
+              {
+                "text": "- Frecuencia: Solo en algunos pacientes (~33%)",
+                "children": []
+              },
+              {
+                "text": "- Lesiones Característica: Gummas (granulomatosas destructivas, escasa carga treponémica)",
+                "children": []
+              },
+              {
+                "text": "- Manifestaciones Focales: Neurosífilis (8%), Sífilis cardiovascular (8%), Sífilis tardía benigna (17%)",
+                "children": []
+              },
+              {
+                "text": "- Serología: Variable",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Congénita",
+            "children": [
+              {
+                "text": "- Transmisión: Vertical (transplacentaria) a partir 3er/4to mes gestación",
+                "children": []
+              },
+              {
+                "text": "- Consecuencia: Enfermedad fetal",
+                "children": []
+              },
+              {
+                "text": "- Prevención: Estudio serológico en embarazadas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Evolución Natural\\NGeneral (Resumen)",
+            "children": [
+              {
+                "text": "- ~33% Curación espontánea (negativización pruebas reagínicas)",
+                "children": []
+              },
+              {
+                "text": "- ~33% Latencia sin progresión (pruebas no treponémicas positivas)",
+                "children": []
+              },
+              {
+                "text": "- ~33% Enfermedad tardía (benigna, neurosífilis, cardiovascular)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Diagnóstico Directo",
+        "children": [
+          {
+            "text": "- Métodos: Examen exudado lesión\\Npara identificar T. pallidum",
+            "children": [
+              {
+                "text": "- Campo Oscuro",
+                "children": []
+              },
+              {
+                "text": "- Inmunofluorescencia Directa (DFA-TP)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Valor: Prueba definitiva de diagnóstico",
+            "children": []
+          },
+          {
+            "text": "- Ventajas: Inmediatez, Bajo costo, Posible antes de seroconversión",
+            "children": []
+          },
+          {
+            "text": "- Mayor Rendimiento: Sífilis primaria, secundaria, recaídas, congénita (lesiones ricas en treponemas)",
+            "children": []
+          },
+          {
+            "text": "- Limitaciones:",
+            "children": [
+              {
+                "text": "- Resultado negativo no descarta enfermedad (pocos treponemas, evolución, tratamiento previo)",
+                "children": []
+              },
+              {
+                "text": "- Sensibilidad: 75-80%",
+                "children": []
+              },
+              {
+                "text": "- Precaución: No usar en lesiones orales (riesgo confusión con espiroquetas saprofitas)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Diagnóstico Indirecto\\N(Serológico)",
+        "children": [
+          {
+            "text": "- Uso: Procedimiento más frecuente (alternativa a diagnóstico directo)",
+            "children": []
+          },
+          {
+            "text": "- Seroconversión: Marcadores reactivos aprox. 14-20 días post-infección",
+            "children": []
+          },
+          {
+            "text": "- Tipos de Pruebas\\NSerológicas",
+            "children": [
+              {
+                "text": "- Pruebas No Treponémicas (Reagínicas)",
+                "children": []
+              },
+              {
+                "text": "- Pruebas Treponémicas",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Características de las\\NPruebas Serológicas",
+        "children": [
+          {
+            "text": "- Pruebas No\\NTreponémicas\\N(Reagínicas)",
+            "children": [
+              {
+                "text": "- Base Antigénica: Cardiolipina, Colesterol, Lecitina (solución alcohólica)",
+                "children": []
+              },
+              {
+                "text": "- Detectan: Anticuerpos (IgG e IgM) contra lípidos tisulares dañados (no específicos de T. pallidum)",
+                "children": []
+              },
+              {
+                "text": "- Interpretación Básica: Positividad no confirma sífilis por sí sola",
+                "children": []
+              },
+              {
+                "text": "- Reacción: Floculación",
+                "children": []
+              },
+              {
+                "text": "- Tipos Específicos:",
+                "children": [
+                  {
+                    "text": "- VDRL (Venereal Disease\\NResearch Laboratory)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero",
+                        "children": []
+                      },
+                      {
+                        "text": "- Lectura: Microscópica (100x)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: No particulado, inestable (requiere preparación frecuente)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Uso Especial: Única validada para LCR (diagnóstico neurosífilis)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- RPR (Rapid\\NPlasma Reagin)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero, Plasma",
+                        "children": []
+                      },
+                      {
+                        "text": "- Lectura: Macroscópica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: Con partículas de carbón",
+                        "children": []
+                      },
+                      {
+                        "text": "- Característica: Tiende a dar títulos > VDRL",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- TRUST (Toluidine Red\\NUnheated Serum Test)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero, Plasma",
+                        "children": []
+                      },
+                      {
+                        "text": "- Lectura: Macroscópica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: VDRL + partículas rojo toluidina",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- USR (Unheated\\NSerum Reagin)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero",
+                        "children": []
+                      },
+                      {
+                        "text": "- Lectura: Microscópica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: VDRL estabilizado (EDTA + colina), más estable",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- ELISA No Treponémico",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: Tipo VDRL en fase sólida",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "- Fenómeno Prozona: Falsos negativos con títulos muy altos (importancia de titular)",
+                "children": []
+              },
+              {
+                "text": "- Falsos Negativos: Posibles en fases muy tempranas (primaria)",
+                "children": []
+              },
+              {
+                "text": "- Falsos\\NPositivos:",
+                "children": [
+                  {
+                    "text": "- Títulos: Generalmente bajos (≤ 1/4)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Duración: Transitorios (< 6 meses) o Permanentes (> 6 meses)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Causas: Otras enfermedades, muestras hemolizadas/lipémicas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Manejo: Requieren confirmación con prueba treponémica",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Sensibilidad\\N(Variable por estadío):",
+                "children": [
+                  {
+                    "text": "- Primaria: ~78-86%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Secundaria: 100%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Latente: ~95-98%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Tardía: ~71-73%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Utilidad en Seguimiento\\NTratamiento:",
+                "children": [
+                  {
+                    "text": "- Indicador Fundamental de eficacia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Respuesta Esperada: Disminución significativa títulos (≥4 diluciones / 8 veces) en 6-12 meses",
+                    "children": []
+                  },
+                  {
+                    "text": "- Persistencia: Posible reactividad a títulos bajos o no diluido, no indica fracaso (especialmente en tto. tardío)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Pruebas\\NTreponémicas",
+            "children": [
+              {
+                "text": "- Uso Principal: Confirmación de pruebas reagínicas positivas",
+                "children": []
+              },
+              {
+                "text": "- Especificidad: Alta\\N(pocos falsos positivos)",
+                "children": [
+                  {
+                    "text": "- FTA-ABS ~1% FP; TPHA muy pocos FP",
+                    "children": []
+                  },
+                  {
+                    "text": "- Causas FP: Mononucleosis, lepra, colagenopatías, borreliosis, otras treponematosis, ADVP",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Absorción Suero: Necesaria para eliminar reactividad cruzada con treponemas no patógenos",
+                "children": []
+              },
+              {
+                "text": "- Utilidad en Seguimiento Tratamiento: NO ÚTILES (permanecen positivas 85-90% post-tratamiento)",
+                "children": []
+              },
+              {
+                "text": "- Tipos\\NEspecíficos:",
+                "children": [
+                  {
+                    "text": "- FTA-ABS (Fluorescent\\NTreponemal Antibody Absorption)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero, LCR",
+                        "children": []
+                      },
+                      {
+                        "text": "- Método: Inmunofluorescencia indirecta",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: T. pallidum (Nichols)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Absorbente: Cultivo cepa Reiter",
+                        "children": []
+                      },
+                      {
+                        "text": "- Limitaciones: Compleja, subjetiva, requiere estandarización",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- FTA-ABS DS (Doble Tinción): Variante de FTA-ABS con doble marcaje fluorescente",
+                    "children": []
+                  },
+                  {
+                    "text": "- TPHA (Treponema Pallidum\\NHemagglutination Assay)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero (NO LCR)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Método: Microhemaglutinación",
+                        "children": []
+                      },
+                      {
+                        "text": "- Antígeno: Eritrocitos sensibilizados (Ag Nichols)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Absorbente: Cepa Reiter",
+                        "children": []
+                      },
+                      {
+                        "text": "- Ventajas: Sencilla, menos FP que FTA-ABS, posible uso screening",
+                        "children": []
+                      },
+                      {
+                        "text": "- Limitación: Cuantificación no útil",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- ELISA IgG Treponémico",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero",
+                        "children": []
+                      },
+                      {
+                        "text": "- Ventajas: Alta sensibilidad/especificidad, automatización, lectura objetiva",
+                        "children": []
+                      },
+                      {
+                        "text": "- Uso: Alternativa a TPHA/FTA-ABS",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- ELISA Captura IgM (Ej:\\NCaptia Syphilis M)",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero",
+                        "children": []
+                      },
+                      {
+                        "text": "- Uso Principal: Diagnóstico Sífilis Congénita (mayor sensibilidad en sintomática temprana)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Limitación: Baja sensibilidad en asintomática (Negativo no descarta)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- FTA-ABS 19S IgM",
+                    "children": [
+                      {
+                        "text": "- Muestra: Suero (requiere fraccionamiento)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Limitaciones: Poca sensibilidad y especificidad, no aconsejada (Positivo confirma, Negativo no descarta)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Western Blot (IgM)",
+                    "children": [
+                      {
+                        "text": "- Uso: Prueba confirmatoria (especialmente sífilis congénita)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Rendimiento: Sensibilidad ~90%, Especificidad ~83%",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "- Sensibilidad\\N(Variable por\\Nestadío):",
+                "children": [
+                  {
+                    "text": "- Primaria: ~76-80%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Secundaria: 100%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Latente: ~97-100%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Tardía: ~94-96%",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Uso en LCR: FTA-ABS negativa descarta neurosífilis (VDRL es la validada)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Uso Clínico de\\Nlas Pruebas",
+        "children": [
+          {
+            "text": "- Estrategia según\\NPrevalencia:",
+            "children": [
+              {
+                "text": "- Baja Prevalencia (Ej: Donantes sangre): Reagínica (Screening) -> Treponémica (Confirmación)",
+                "children": []
+              },
+              {
+                "text": "- Pacientes Riesgo / Clínica Compatible: REALIZAR AMBOS TIPOS\\N(Reagínica + Treponémica)",
+                "children": [
+                  {
+                    "text": "- Justificación: Evitar Falsos Negativos (FN reagínica en tardía; FN treponémica en primaria),\\NAumentar Valor Predictivo Positivo (VPP)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Diagnóstico de Estadío: Requiere información clínica adicional a la serología",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Observaciones para la\\NInterpretación Serológica",
+        "children": [
+          {
+            "text": "- Sífilis Primaria",
+            "children": [
+              {
+                "text": "- Recordar: Diagnóstico directo posible. Serología puede ser negativa inicialmente (1-4 sem post-chancro).\\NSensibilidad: RPR/VDRL > FTA-ABS > TPHA.",
+                "children": []
+              },
+              {
+                "text": "- Patrones Posibles: Directo+/Serol-, Directo+/Reag+/Trep-, Directo-/Serol+.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Secundaria",
+            "children": [
+              {
+                "text": "- Diagnóstico Sencillo: Directo posible. Ambas pruebas (Reagínica y Treponémica) 100% positivas.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Latente\\NPrecoz (< 1 año)",
+            "children": [
+              {
+                "text": "- Diagnóstico Directo: No posible.",
+                "children": []
+              },
+              {
+                "text": "- Serología: Reagínica (+) y Treponémica (+). Títulos reagínicos descienden lentamente.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Latente\\NTardía (> 1 año)",
+            "children": [
+              {
+                "text": "- Clínica: Asintomático.",
+                "children": []
+              },
+              {
+                "text": "- Serología: Treponémica (+), Reagínica (+ o -).",
+                "children": []
+              },
+              {
+                "text": "- Evaluación Adicional: Considerar estudio LCR para neurosífilis.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis Terciaria",
+            "children": [
+              {
+                "text": "- Diagnóstico: Difícil, requiere clínica/historia.",
+                "children": []
+              },
+              {
+                "text": "- Serología: Treponémica (+) (95%), Reagínica (-) (≥30%).",
+                "children": []
+              },
+              {
+                "text": "- Evaluación Adicional: Buscar signos (gumas, cardiovascular, neurosífilis).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Neurosífilis\\N(Criterios\\NDiagnóstico)",
+            "children": [
+              {
+                "text": "- Requisito: Prueba treponémica positiva en SUERO.",
+                "children": []
+              },
+              {
+                "text": "- Hallazgos LCR:",
+                "children": [
+                  {
+                    "text": "- VDRL positivo (75%) (Prueba validada).",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pleocitosis (> 5-10 mononucleares/mm³).",
+                    "children": []
+                  },
+                  {
+                    "text": "- Proteinorraquia (> 40-100 mg/dl) (30-40%).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Descarte: FTA-ABS negativa en LCR descarta neurosífilis.",
+                "children": []
+              },
+              {
+                "text": "- Nota: Alteraciones LCR transitorias posibles en sífilis temprana (40%).",
+                "children": []
+              },
+              {
+                "text": "- Seguimiento Tratamiento: Normalización celularidad -> proteínas. Título VDRL LCR no siempre desciende.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis en\\NEmbarazadas y\\NCongénita",
+            "children": [
+              {
+                "text": "- Screening Embarazo: Recomendado universalmente.",
+                "children": []
+              },
+              {
+                "text": "- Falsos Positivos Gestación: Posibles (ambos tipos prueba).",
+                "children": []
+              },
+              {
+                "text": "- Elevación Títulos Reagínicos (Sífilis Pasada): No implica reinfección/recaída (evaluar clínicamente).",
+                "children": []
+              },
+              {
+                "text": "- Muestra Fetal: Suero materno es la mejor referencia (> que cordón o RN).",
+                "children": []
+              },
+              {
+                "text": "- Títulos RN: < madre no descarta infección. VDRL RN puede ser negativo si infección 3er trimestre.",
+                "children": []
+              },
+              {
+                "text": "- Seguimiento RN (IgG Materna): Negativización en meses. Incremento/persistencia títulos reagínicos indica infección (tratar).",
+                "children": []
+              },
+              {
+                "text": "- Confirmación Congénita: Detección IgM (ELISA Captura, WB).",
+                "children": []
+              },
+              {
+                "text": "- Evaluación Niño Asintomático: Estudio LCR (celularidad, bioquímica, VDRL, FTA-ABS).",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1699",
+      "title": "STRIDE (2020)\\NStrategies to Reduce Injuries\\Nand Develop Confidence in Elders\\N\\n⭐ Intervención multifactorial\\NNO redujo caídas con lesiones\\Nserias en mayores alto riesgo"
+    }
+  ],
+  "source_file": "03. Diagnóstico Serológico de la Sífilis-2025.smmx",
+  "created": "2026-02-07T15:42:54.579333"
+}

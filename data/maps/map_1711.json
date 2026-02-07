@@ -1,0 +1,135 @@
+{
+  "id": "map_1711",
+  "title": "PROSEVA (2013)\\N\\n⭐ Prono en SDRA severo\\nreduce mortalidad 50%\\N\\nNNT = 6",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 24,
+  "root": {
+    "text": "PROSEVA (2013)\\N\\n⭐ Prono en SDRA severo\\nreduce mortalidad 50%\\N\\nNNT = 6",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACIÓN",
+        "children": [
+          {
+            "text": "NEJM 2013;368:2159-68\\nFrancia, 26 UCIs",
+            "children": []
+          },
+          {
+            "text": "RCT multicéntrico\\nOpen-label (inevitable)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "👥 POBLACIÓN",
+        "children": [
+          {
+            "text": "n = 466\\n237 prono\\n229 supino",
+            "children": []
+          },
+          {
+            "text": "SDRA SEVERO: P/F menor 150\\ncon FiO2 ≥60%, PEEP ≥5\\nMenor 36h desde intubación",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "💊 INTERVENCIÓN",
+        "children": [
+          {
+            "text": "PRONO ⭐\\nSesiones ≥16 horas consecutivas\\nRepetir hasta mejoría\\nPromedio: 4 sesiones/paciente",
+            "children": []
+          },
+          {
+            "text": "SUPINO\\nVentilación estándar ARDSNet\\nVt 6 ml/kg",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "📊 OUTCOMES",
+        "children": [
+          {
+            "text": "Mortalidad 28 días ⭐⭐⭐\\nProno: 16.0%\\nSupino: 32.8%\\nHR 0.39 p menor 0.001",
+            "children": []
+          },
+          {
+            "text": "Reducción RELATIVA: 51%\\nNNT = 6\\nUna de las intervenciones\\nmás efectivas en UCI",
+            "children": []
+          },
+          {
+            "text": "Mortalidad 90 días:\\nProno: 23.6%\\nSupino: 41.0%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "⚠️ SEGURIDAD",
+        "children": [
+          {
+            "text": "Paro cardíaco: 8% vs 14%\\n(MENOR en prono)",
+            "children": []
+          },
+          {
+            "text": "UPP: sin diferencia\\nExtubación accidental: 1.3% vs 0.4%",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "🏥 ANCIANOS",
+        "children": [
+          {
+            "text": "Edad NO es contraindicación\\nBeneficio consistente subgrupos",
+            "children": []
+          },
+          {
+            "text": "Precauciones:\\n• Fragilidad cutánea (UPP)\\n• Cifosis/artrosis cervical\\n• Osteoporosis",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "💎 PERLAS CLÍNICAS",
+        "children": [
+          {
+            "text": "1. SDRA SEVERO (P/F menor 150)\\nNo aplica a leve/moderado",
+            "children": []
+          },
+          {
+            "text": "2. Mínimo 16 HORAS por sesión\\nSesiones cortas no funcionan",
+            "children": []
+          },
+          {
+            "text": "3. Implementar TEMPRANO\\nMenor 36h desde intubación",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1697",
+      "title": "ARDSNet / ARMA (2000)\\N\\n⭐ Ventilación protectora SDRA\\N\\nVt 6 ml/kg peso predicho"
+    },
+    {
+      "id": "map_1089",
+      "title": "Fragilidad UTD 2024"
+    },
+    {
+      "id": "map_1063",
+      "title": "Fragilidad y sarcopenia Dra. Meneses 2024"
+    }
+  ],
+  "source_file": "PROSEVA-2026.smmx",
+  "created": "2026-02-07T15:42:53.585573"
+}

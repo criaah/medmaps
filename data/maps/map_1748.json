@@ -1,0 +1,865 @@
+{
+  "id": "map_1748",
+  "title": "Inmunizaciones en Adultos Mayores y Poblaciones Especiales\\N(**M. Paz Iturrieta M.**, H. Sótero del Río)",
+  "specialty": "Infectología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 196,
+  "root": {
+    "text": "Inmunizaciones en Adultos Mayores y Poblaciones Especiales\\N(**M. Paz Iturrieta M.**, H. Sótero del Río)",
+    "children": [
+      {
+        "text": "- Importancia de\\Nla Vacunación",
+        "children": [
+          {
+            "text": "› Intervención de alto\\Nimpacto en salud mundial",
+            "children": [
+              {
+                "text": "◊ >150 millones de vidas salvadas [URL: www. who. int/es/news/item/24-04-2024-global-immunization-efforts-have-saved-at-least-154-million-lives-over-the-past-50-years]",
+                "children": []
+              },
+              {
+                "text": "◊ Evitación de >20 millones secuelados de polio [URL: www.who. int/es/news/item/24-04-2024-global-immunization-efforts-have-saved-at-least-154-million-lives-over-the-past-50-years]",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Erradicación y control\\Nde enfermedades",
+            "children": [
+              {
+                "text": "◊ Viruela humana, polio, coqueluche,\\Nneumococo, Hib, **SARS-CoV-2**",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› ★ Pérdida de oportunidad de vacunación en población adulta",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "- Generalidades\\Nen Vacunas",
+        "children": [
+          {
+            "text": "› Tipos de Vacunas\\NBacterianas",
+            "children": [
+              {
+                "text": "◊ Vivas atenuadas: BCG, Fiebre tifoidea oral, Cólera oral",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Células enteras: Pertussis, Fiebre tifoidea parenteral, Cólera parenteral",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Subunidades: Pertussis acelular",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Toxoides: Difteria, Tétanos",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Polisacáridos: Meningococo, ★**Neumococo 23 valente**",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Conjugadas: ★**Neumococo (7, 10, 13, 20 valente)**, Hib, Meningococo",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Tipos de Vacunas\\NVirales",
+            "children": [
+              {
+                "text": "◊ Vivas atenuadas: Polio oral, Influenza intranasal, Sarampión, Rubeola, Parotiditis, Varicela, Zoster (★**Zostavax**), Fiebre amarilla",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Virus enteros: Polio parenteral, Influenza, ★**Hepatitis A**, Rabia, Encefalitis japonesa",
+                "children": []
+              },
+              {
+                "text": "◊ Inactivadas Subunidades: Influenza, ★**Hepatitis B**, Virus Papiloma Humano (VPH)",
+                "children": []
+              },
+              {
+                "text": "◊ mRNA: ★**SARS-CoV-2**",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Contraindicaciones\\N(Pocas)",
+            "children": [
+              {
+                "text": "◊ Fiebre (transitoria): Todas las vacunas",
+                "children": []
+              },
+              {
+                "text": "◊ Anafilaxia a dosis previa: Vacuna específica",
+                "children": []
+              },
+              {
+                "text": "◊ Vacunas Vivas\\NAtenuadas:",
+                "children": [
+                  {
+                    "text": "• Contraindicadas en: Inmunosuprimidos (o previo a IS), Embarazo, >65 años (algunas)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ejemplos Vivas: BCG, Cólera oral, Polio oral, SRP, VVZ (Varicela-Zoster), Fiebre Amarilla",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Vacunas en\\NSituaciones Especiales",
+        "children": [
+          {
+            "text": "› ★ Diabetes Mellitus (DM)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual (Observación: 30% hospitalizados Flu son DM [**CDC 2024**])",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses) (Observación: Mayor riesgo neumonía complicada [**Kornum JB 2007**])",
+                "children": []
+              },
+              {
+                "text": "◊ H. influenzae tipo b (Hib): 1 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ Meningo ACWY (Nimenrix): 1 dosis (Observación: DM como factor riesgo meningitis [**Asori M 2022**])",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 0-1-6 meses (si posible Hemodiálisis - HD)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Enfermedades Cardíacas\\N(Falla cardíaca,\\NMiocardiopatía, HTA en tto)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Enfermedad Hepática Crónica\\N(Daño hepático crónico)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis A**: 0-6 meses",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 0-1-6 meses",
+                "children": []
+              },
+              {
+                "text": "◊ Meningo ACWY (Nimenrix): 1 dosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Enfermedades Renales\\N(ERC, Síndrome Nefrótico)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses + refuerzo Neumo23 a los 5 años)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**:",
+                "children": [
+                  {
+                    "text": "• ERC: Dosis doble (20 ug) 0-1-6 meses",
+                    "children": []
+                  },
+                  {
+                    "text": "• HD: Dosis x4 (40 ug) 0-1-2-6 meses (refuerzo si vacunado previo)",
+                    "children": []
+                  },
+                  {
+                    "text": "• *No requiere formulario especial*",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Meningo ACWY (Nimenrix): 1 dosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Enfermedades Respiratorias\\N(EPOC, Asma persistente,\\NBronquiectasias, etc.)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses)",
+                "children": []
+              },
+              {
+                "text": "◊ Haemophilus influenzae tipo b (Hib): 1 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis A**: 0-6 meses (Sólo Fibrosis Quística - FQ)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 0-1-6 meses (Sólo FQ)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Enfermedades Neurológicas (Parálisis cerebral, ACV\\Nsecuelado, Postración, Fístula LCR, Implante coclear)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses)",
+                "children": []
+              },
+              {
+                "text": "◊ H. influenzae tipo b (Hib): 1 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ Meningo ACWY (Nimenrix): 1 dosis (Sólo Fístula LCR / Implante coclear)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Usuarios de Corticoides\\N(Prednisona ≥20 mg/día x ≥7 días)",
+            "children": [
+              {
+                "text": "◊ Vacunas Inactivadas (DTPa, Neumo 13v+23v, Hib, Hep A, Hep B, VPH, Influenza): Posponer 1 mes post-corticoterapia",
+                "children": []
+              },
+              {
+                "text": "◊ Vacunas Atenuadas (Varicela): Posponer 1-3 meses post-corticoterapia (si sin antecedente enfermedad)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Terapias Biológicas\\N(Inmunosupresión farmacológica)",
+            "children": [
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v",
+                "children": []
+              },
+              {
+                "text": "◊ Meningo ACWY: 2 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ H. influenzae b (Hib): 1 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ VHA (Hep A): 0-6 meses (regiones alta endemia / viajeros)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**VHB (Hep B)**: 0-1-6 meses",
+                "children": []
+              },
+              {
+                "text": "◊ VPH: 0-2-6 meses",
+                "children": []
+              },
+              {
+                "text": "◊ DTPa",
+                "children": []
+              },
+              {
+                "text": "◊ *Administrar ≥3 semanas ANTES de iniciar terapia IS*",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Vacunas por ★**GES**\\N(*No requieren formulario\\Nespecial*)",
+            "children": [
+              {
+                "text": "◊ Infección crónica Hep B: ★**Hepatitis A** (0-6 m)",
+                "children": []
+              },
+              {
+                "text": "◊ Leucemia >15 años: ★**Neumo 13v+23v** (0-2 m)",
+                "children": []
+              },
+              {
+                "text": "◊ Linfoma >15 años: ★**Neumo 13v+23v** (0-2 m)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Vacunas por ★**Ley Ricarte Soto**\\N(*No requieren formulario especial*)",
+            "children": [
+              {
+                "text": "◊ AR refractaria, AP: ★**Neumo 13v+23v** (0-2 m), Influenza",
+                "children": []
+              },
+              {
+                "text": "◊ Colitis Ulcerosa: ★**Neumo 13v+23v** (0-2 m), ★**Hep B** (0-1-6 m), Influenza",
+                "children": []
+              },
+              {
+                "text": "◊ Enf. Crohn grave: ★**Neumo 13v+23v** (0-2 m), VPH (<26a, 0-2-6 m), Influenza",
+                "children": []
+              },
+              {
+                "text": "◊ Hipoacusia sensorineural postlocutiva: ★**Neumo 13v+23v** (0-2 m)",
+                "children": []
+              },
+              {
+                "text": "◊ Esclerosis Múltiple: ★**Neumo 13v+23v** (0-2 m), ★**Hep B** (0-1-6 m), Influenza",
+                "children": []
+              },
+              {
+                "text": "◊ Lupus: ★**Neumo 13v+23v** (0-2 m), Influenza",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Candidatos a\\NEsplenectomía",
+            "children": [
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses, iniciar 2 sem pre-qx). Refuerzo Neumo23 a 5 años.",
+                "children": []
+              },
+              {
+                "text": "◊ Haemophilus influenzae tipo b (Hib): 1 dosis",
+                "children": []
+              },
+              {
+                "text": "◊ Meningo ACWY (Nimenrix): 2 dosis (Esquema: 0-2 meses). Revacunar 3-5 años.",
+                "children": []
+              },
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ *Si no vacunado pre-qx: vacunar ≥3 semanas post-qx*",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Personas Viviendo con VIH\\N(PVVIH)",
+            "children": [
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses). Refuerzo Neumo23 en 5 años (1 vez).",
+                "children": []
+              },
+              {
+                "text": "◊ N. meningitidis ACWY (Nimenrix): 2 dosis (Esquema: 0-2 meses). Repetir en 3-5 años.",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis A**: 2 dosis (0-6 meses). Hasta 40 años (orden ministerial).",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 3 dosis (0-1-6 meses). Sólo seronegativos. (*No requiere formulario especial*)",
+                "children": []
+              },
+              {
+                "text": "◊ VPH: 3 dosis (0-2-6 meses). Hasta 25 años 11 meses (o >26a VPH refractario).",
+                "children": []
+              },
+              {
+                "text": "◊ Anti-zoster (Recomendada): 1 dosis. >50 años y CD4>500 (No disponible PNI).",
+                "children": []
+              },
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              },
+              {
+                "text": "◊ Ofrecer Mpox: 2 dosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Pacientes con Cáncer\\N(Hemato-oncológico o Sólido)",
+            "children": [
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v + 23v (Esquema: 0-2 meses). En fase de remisión.",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 3 dosis (0-1-6 meses). En fase de remisión.",
+                "children": []
+              },
+              {
+                "text": "◊ Anti-zoster (Recomendada): 1 dosis. A 6 meses de finalizada QT (No disponible PNI).",
+                "children": []
+              },
+              {
+                "text": "◊ Influenza y COVID: Anual",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Candidatos a Trasplante Órgano Sólido\\N(Pre-Trasplante)",
+            "children": [
+              {
+                "text": "◊ ★**Hepatitis A**: ≥1 mes pre-Tx. Esquema 0-6m / acelerado 0-4m. (No si antecedente Hep A).",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: ≥1 mes pre-Tx. Esquema 0-1-6m / acelerado 0-7-21d o 0-14-60d + refuerzo al año. (Requiere HBsAg (-)).",
+                "children": []
+              },
+              {
+                "text": "◊ ★**S. pneumoniae**: 13v+23v: Máx 2 sem pre-Tx. Esquema 0 (13v) y 2m (23v).",
+                "children": []
+              },
+              {
+                "text": "◊ Meningocócica ACWY (Nimenrix): Máx 2 sem pre-Tx. 1 dosis.",
+                "children": []
+              },
+              {
+                "text": "◊ Hib: Máx 2 sem pre-Tx. 1 dosis.",
+                "children": []
+              },
+              {
+                "text": "◊ Influenza y COVID: Anual.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Vacunas Post-Trasplante\\NÓrgano Sólido",
+            "children": [
+              {
+                "text": "◊ 6 meses post-Tx:",
+                "children": [
+                  {
+                    "text": "• Influenza: Anual",
+                    "children": []
+                  },
+                  {
+                    "text": "• ★**S. pneumoniae 13v+23v**: 0-2 meses (si no recibió pre-Tx)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ 12 meses post-Tx:",
+                "children": [
+                  {
+                    "text": "• ★**Hepatitis B**: 1 dosis refuerzo (con HBsAg negativo)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ General:",
+                "children": [
+                  {
+                    "text": "• Influenza y COVID: Anual",
+                    "children": []
+                  },
+                  {
+                    "text": "• Actualizar ★**RNI** (Registro Nacional Inmunizaciones): según estado IS (cuidado vacunas vivas)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Vacunas Post Trasplante\\NHematopoyético (TPH)",
+            "children": [
+              {
+                "text": "◊ Neumocócica conjugada 13v: 3 dosis (Mes 6, 8, 10 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ Neumocócica polisacárida 23v: 1 dosis (Mes 12 post-TPH, ≥2m post 13v)",
+                "children": []
+              },
+              {
+                "text": "◊ dTPa: 3 dosis (Mes 6, 8, 10 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis B**: 3 dosis (Mes 6, 7, 12 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ Polio inactivada: 3 dosis (Mes 6, 8, 10 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ Haemophilus influenzae b (Hib): 3 dosis (Mes 6, 7, 8 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ N. meningitidis ACWY: 2 dosis (Mes 12, 14 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Hepatitis A**: 2 dosis (Mes 6, 12 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ VPH (<26 años): 3 dosis (Mes 12, 14, 18 post-TPH)",
+                "children": []
+              },
+              {
+                "text": "◊ Influenza: Anual (Estacional)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Vacunas en\\NAdulto Mayor (AM)",
+        "children": [
+          {
+            "text": "› Situación Epidemiológica\\NChile",
+            "children": [
+              {
+                "text": "◊ Envejecimiento poblacional avanzado",
+                "children": []
+              },
+              {
+                "text": "◊ Esperanza de vida: **2019** (H: 77.9, M: 83.4) → Proyección **2035** (H: 80.9, M: 86.0)",
+                "children": []
+              },
+              {
+                "text": "◊ Población ≥65 años: **2019** (11.9%) → Proyección **2035** (18.9%)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Particularidades y\\NDesafíos",
+            "children": [
+              {
+                "text": "◊ ★**Inmunosenescencia**",
+                "children": []
+              },
+              {
+                "text": "◊ ★**Inflammaging**\\N(Inflamación crónica)",
+                "children": [
+                  {
+                    "text": "◊ < Respuesta a vacunación (diseñadas para jóvenes)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Opinión personal: Poca cultura de indicación en médicos de adulto",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Vacunas Disponibles/Recomendadas\\Nen Chile (PNI **2024**)",
+            "children": [
+              {
+                "text": "◊ ≥ 60 años: ★**Influenza**, ★**COVID-19** (Anual)",
+                "children": []
+              },
+              {
+                "text": "◊ ≥ 65 años: ★**Neumocócica 23 valente** (Única dosis PNI)",
+                "children": []
+              },
+              {
+                "text": "◊ *Verificar calendario completo PNI **2024***",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Varicela Zóster\\N(VVZ)",
+            "children": [
+              {
+                "text": "◊ Reactivación VVZ: 25-35% a lo largo de la vida, > incidencia en >80 años",
+                "children": []
+              },
+              {
+                "text": "◊ Complicaciones: Neuralgia post-herpética (NPH), sobreinfección, neumonía, encefalitis",
+                "children": []
+              },
+              {
+                "text": "◊ Vacunas\\Ndisponibles:",
+                "children": [
+                  {
+                    "text": "• ★**Zostavax**: Viva atenuada, 1 dosis SC. Disponible privado Chile (~$114.000). (Contraindicada IS/embarazo).",
+                    "children": []
+                  },
+                  {
+                    "text": "• ★**Shingrix**: Inactivada recombinante, 2 dosis IM (0, 2-6 meses). No disponible Chile (momento de la presentación). (Costo ~200 USD/dosis).",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Virus Respiratorio Sincicial\\N(VRS)",
+            "children": [
+              {
+                "text": "◊ Afecta > a IS y AM (principal causa viral NAC)",
+                "children": []
+              },
+              {
+                "text": "◊ Vacunas aprobadas FDA\\N(>60 años, 1 dosis):",
+                "children": [
+                  {
+                    "text": "• ★**Arexvy**: Inactivada adyuvantada. Eficacia 82%. Protección 2 años. Ingresando a Chile.",
+                    "children": []
+                  },
+                  {
+                    "text": "• ★**Abrysvo**: Inactivada adyuvantada. Eficacia 86%. Protección 2 años. Aprobada embarazadas.",
+                    "children": []
+                  },
+                  {
+                    "text": "• mResvia: mRNA. Eficacia 50%. Protección 1 año.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Datos Prácticos y\\NProceso Administrativo",
+        "children": [
+          {
+            "text": "› Recomendaciones\\NMinisteriales (**MINSAL**)",
+            "children": [
+              {
+                "text": "◊ Guía \"Vacunación de pacientes con necesidades especiales\" (**2018**)",
+                "children": []
+              },
+              {
+                "text": "◊ Posible actualización **2024**",
+                "children": []
+              },
+              {
+                "text": "◊ Refuerzo indicaciones ORD B27/N° 2000 (**29 SEP 2023**)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Solicitud Vacunas Especiales\\N(No GES/LRS/PNI directo)",
+            "children": [
+              {
+                "text": "◊ Indicación médica según **MINSAL**",
+                "children": []
+              },
+              {
+                "text": "◊ Proceso:",
+                "children": [
+                  {
+                    "text": "• 1. Receta médica (Dx, meds IS, dosis vacunas)",
+                    "children": []
+                  },
+                  {
+                    "text": "• 2. ★**Formulario Vacunas Especiales** (Buscar en Google)",
+                    "children": []
+                  },
+                  {
+                    "text": "• 3. Posible epicrisis/informe médico",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Flujo: Solicitud (vacunatorio) → Aprobación (**SEREMI**)\\N→ Envío vacuna (puede tardar meses)",
+                "children": []
+              },
+              {
+                "text": "◊ Incluye pacientes sistema público y privado",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› ★**Registro Nacional de\\NInmunizaciones (RNI)**",
+            "children": [
+              {
+                "text": "◊ Accesible en vacunatorios para verificar historial",
+                "children": []
+              },
+              {
+                "text": "◊ *En caso de duda, mejor indicar*",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Orden Neumococo:",
+            "children": [
+              {
+                "text": "◊ Ideal: Prevenar 13 (13v) → esperar 8 semanas (2 meses) → Neumo 23 (23v)",
+                "children": []
+              },
+              {
+                "text": "◊ Si Neumo23 primero → esperar 1 año → Prevenar 13",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Proceso en Hospital Sótero del Río (HSR)",
+            "children": [
+              {
+                "text": "◊ Indicación en ★**RCE**\\N(Registro Clínico Electrónico)",
+                "children": [
+                  {
+                    "text": "• Pestaña \"Procedimientos\" → \"Vacunas Especiales\"",
+                    "children": []
+                  },
+                  {
+                    "text": "• Indicar diagnósticos (puede ser en \"observaciones anexas\")",
+                    "children": []
+                  },
+                  {
+                    "text": "• Imprimir solicitud",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Paciente debe ir a Vacunatorio\\N(Infectología Pediátrica, CDT) con la orden",
+                "children": []
+              },
+              {
+                "text": "◊ Administración: Inmediata (si disponible) o\\Nesperar llamado post-autorización **SEREMI**",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Seguridad y\\NComunicación",
+            "children": [
+              {
+                "text": "◊ Vacunas seguras (usadas en niños PNI Chile)",
+                "children": []
+              },
+              {
+                "text": "◊ Oportunidad: Alto costo, previenen hospitalización/muerte",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› ★**ESAVI** (Eventos Supuestamente\\NAtribuibles a Vacunación e Inmunización)",
+            "children": [
+              {
+                "text": "◊ Notificación obligatoria (investigación)",
+                "children": []
+              },
+              {
+                "text": "◊ Dónde notificar: https://svi.ispch.gob. cl/isp/index o esavi@ispch.cl",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Mensajes Finales",
+        "children": [
+          {
+            "text": "› Alto impacto vacunas en salud pública e individual (esp. AM)",
+            "children": []
+          },
+          {
+            "text": "› ★No perder oportunidad de vacunación",
+            "children": []
+          },
+          {
+            "text": "› Información sobre vacunas especiales accesible",
+            "children": []
+          },
+          {
+            "text": "› ★Coordinar estrategias de vacunación con equipo (médico, enfermería, vacunatorios)",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    }
+  ],
+  "source_file": "Presentacion. Inmunizaciones en Adultos Mayores y Poblaciones Especiales-2025.smmx",
+  "created": "2026-02-07T15:42:55.115133"
+}

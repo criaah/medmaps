@@ -1,0 +1,130 @@
+{
+  "id": "map_1697",
+  "title": "ARDSNet / ARMA (2000)\\N\\n⭐ Ventilación protectora SDRA\\N\\nVt 6 ml/kg peso predicho",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "📚 Revisión",
+  "node_count": 23,
+  "root": {
+    "text": "ARDSNet / ARMA (2000)\\N\\n⭐ Ventilación protectora SDRA\\N\\nVt 6 ml/kg peso predicho",
+    "children": [
+      {
+        "text": "📋 IDENTIFICACIÓN",
+        "children": [
+          {
+            "text": "NEJM 2000;342:1301-8\\nNHLBI ARDS Network",
+            "children": []
+          },
+          {
+            "text": "10 universidades EE.UU.\\nTerminado precozmente",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "👥 POBLACIÓN",
+        "children": [
+          {
+            "text": "n = 861 pacientes\\nSDRA criterios AECC\\nPaO2/FiO2 ≤300",
+            "children": []
+          },
+          {
+            "text": "Edad media: 51 años\\nEtiología: sepsis, aspiración, trauma",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "💊 INTERVENCIÓN",
+        "children": [
+          {
+            "text": "Vt BAJO (protector) ⭐\\nVt 6 mL/kg peso predicho\\nMeta Pplat ≤30 cmH2O\\nReducir hasta 4 ml/kg si necesario",
+            "children": []
+          },
+          {
+            "text": "Vt TRADICIONAL\\nVt 12 mL/kg peso predicho\\nPplat hasta 50 cmH2O",
+            "children": []
+          },
+          {
+            "text": "Peso predicho (IBW):\\nH: 50 + 0.91(alt cm - 152.4)\\nM: 45.5 + 0.91(alt cm - 152.4)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "📊 OUTCOMES",
+        "children": [
+          {
+            "text": "Mortalidad hospitalaria ⭐\\nVt bajo: 31.0%\\nVt trad: 39.8%\\np = 0.007",
+            "children": []
+          },
+          {
+            "text": "Reducción absoluta: 8.8%\\nNNT = 11.4",
+            "children": []
+          },
+          {
+            "text": "Días sin VM: 12 vs 10\\nMenos falla orgánica",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "🏥 UCI GERIÁTRICA",
+        "children": [
+          {
+            "text": "Mismo principio en ancianos\\n6 ml/kg IBW siempre\\nMayor riesgo VILI en ancianos",
+            "children": []
+          },
+          {
+            "text": "Consideraciones:\\n• Cifosis afecta IBW\\n• Menor compliance torácica\\n• Riesgo delirium sedación",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "💎 PERLAS CLÍNICAS",
+        "children": [
+          {
+            "text": "1. Usar PESO PREDICHO (IBW)\\nNO peso real - error frecuente",
+            "children": []
+          },
+          {
+            "text": "2. Meta Pplat ≤30 cmH2O\\nReducir Vt si necesario",
+            "children": []
+          },
+          {
+            "text": "3. Hipercapnia permisiva\\npH mayor 7.15 aceptable",
+            "children": []
+          },
+          {
+            "text": "4. ESTÁNDAR DE CUIDADO\\nNo hay indicación Vt alto",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1678",
+      "title": "HIP ATTACK (2020)\\NAccelerated surgery versus standard care\\N\\nCirugia menor 6h vs cuidado estandar\\nNO reduce mortalidad\\npero SI reduce delirium y otras complicaciones"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1693",
+      "title": "ABCDEF Bundle (2017)\\NAwaken and Breathe\\NCoordination, Delirium\\NEarly mobility, Family\\N\\n⭐ Reduce delirium 40%\\nMortalidad 68% menor\\nen pacientes UCI"
+    }
+  ],
+  "source_file": "ARDSNet-2026.smmx",
+  "created": "2026-02-07T15:42:53.472903"
+}

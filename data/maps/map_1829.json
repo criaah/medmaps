@@ -1,0 +1,883 @@
+{
+  "id": "map_1829",
+  "title": "Guía para la Identificación de Cultivos\\NBacterianos e Interpretación de Resultados",
+  "specialty": "Infectología",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 199,
+  "root": {
+    "text": "Guía para la Identificación de Cultivos\\NBacterianos e Interpretación de Resultados",
+    "children": [
+      {
+        "text": "- Obtención e Interpretación\\NInicial de Cultivos",
+        "children": [
+          {
+            "text": "› Momento de la\\NObtención",
+            "children": [
+              {
+                "text": "◊ Obtener rápidamente para guiar terapia",
+                "children": []
+              },
+              {
+                "text": "◊ No retrasar antibióticos > 45 min (Guías Sepsis 2016)",
+                "children": []
+              },
+              {
+                "text": "◊ Administrar antibióticos < 1 hr (Guías Sepsis 2016)",
+                "children": []
+              },
+              {
+                "text": "◊ Cultivos PRE-antibióticos → Mejoran rendimiento, permiten desescalada ★",
+                "children": []
+              },
+              {
+                "text": "◊ Cultivos POST-antibióticos → Disminuyen rendimiento, aumentan costo y estancia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Sitios de Cultivo y\\NContaminación ★",
+            "children": [
+              {
+                "text": "◊ Sitios Colonizados\\Nvs. Estériles",
+                "children": [
+                  {
+                    "text": "• Estériles (ej: LCR, sangre, fluido pericárdico)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Colonizados (ej: esputo, fosas nasales) → Riesgo de contaminación por flora normal ★",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Técnica de recolección deficiente → Aumenta riesgo de contaminación ⇄ Técnica de Recolección / Sitio de Muestra",
+                "children": []
+              },
+              {
+                "text": "◊ Contaminación → Introducción de bacterias externas en la muestra",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "› Tipos de Cultivo y\\NConsideraciones Específicas",
+        "children": [
+          {
+            "text": "◊ Hemocultivos\\N(Sangre)",
+            "children": [
+              {
+                "text": "• Diferenciar Bacteriemia vs. Contaminación ★",
+                "children": []
+              },
+              {
+                "text": "• Evaluar presentación clínica del paciente (signos/síntomas de bacteriemia)",
+                "children": []
+              },
+              {
+                "text": "• Tomar ≥ 2 muestras de sitios distintos (ej: venopunción + CVC si existe)",
+                "children": []
+              },
+              {
+                "text": "• CVC asociado a > tasas de contaminación que venopunción",
+                "children": []
+              },
+              {
+                "text": "• Interpretación:",
+                "children": [
+                  {
+                    "text": "◊ 1 cultivo (+) con posible contaminante → Repetir cultivos",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Múltiples cultivos (+) con mismo organismo → Usualmente bacteriemia verdadera",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ 1 cultivo (+) suficiente si: Bacteria Gram-negativa ★ / Ciertos Gram-positivos (S. aureus ★, S. pneumoniae ★)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Contaminantes Comunes: S. epidermidis (94%), Corynebacterium spp. (79%) ★ (pueden ser infección verdadera en inmunosuprimidos)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Repetir cultivos para asegurar resolución de bacteriemia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "◊ Cultivos\\NRespiratorios",
+            "children": [
+              {
+                "text": "• Muestras: Esputo, Aspirado Endotraqueal (AET), Lavado Broncoalveolar (LBA)",
+                "children": []
+              },
+              {
+                "text": "• Diagnóstico de Neumonía → Evaluar junto a signos/síntomas y radiografía de tórax",
+                "children": []
+              },
+              {
+                "text": "• Cultivo\\Nde Esputo:",
+                "children": [
+                  {
+                    "text": "◊ Difícil interpretación (tracto superior colonizado vs. inferior estéril)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Sensibilidad/Especificidad variables",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Criterio de calidad: < 10 células epiteliales / campo de bajo poder ★ → Evitar contaminación",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Evitar en exacerbaciones de EPOC (usar síntomas: producción esputo, purulencia, disnea - Guías GOLD 2017/2019)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Pacientes\\NVentilados:",
+                "children": [
+                  {
+                    "text": "◊ AET: Menor especificidad, menos complicaciones, menor costo → Puede llevar a > uso de antibióticos",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ LBA: Mayor especificidad, más complicaciones, mayor costo",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Elección AET vs LBA → Depende de estándares institucionales / enfoque (desescalada vs costos/complicaciones)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "◊ Urocultivos\\N(Orina)",
+            "children": [
+              {
+                "text": "• Tomar SOLO si hay sospecha\\Nde ITU + síntomas ★",
+                "children": [
+                  {
+                    "text": "◊ Síntomas típicos: Disuria, frecuencia, urgencia",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Síntomas no específicos (ej: demencia, cateterizados): Fatiga, cambios estado mental, fiebre, debilidad",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Evaluar junto a síntomas y análisis de orina (≥ 10 leucocitos/µL apoya ITU, no es único criterio)",
+                "children": []
+              },
+              {
+                "text": "• Recolección: Chorro medio (no cateterizados) para evitar contaminación ★",
+                "children": []
+              },
+              {
+                "text": "• Interpretación:",
+                "children": [
+                  {
+                    "text": "◊ > 10^3 UFC/mL asociado a infección ★",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Infección verdadera posible con < 10^3 UFC/mL si hay síntomas + leucocitos (ej: ITU asociada a catéter)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Recuentos altos posibles por contaminación / recolección incorrecta",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Bacterias no típicas de ITU pueden ser contaminación (salvo factores de riesgo + recolección adecuada)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Bacterias comunes en ITU no complicada: E. coli ★, Klebsiella spp., Proteus spp., S. saprophyticus ★",
+                "children": []
+              },
+              {
+                "text": "• Cribado de bacteriuria asintomática: SOLO en embarazadas o previo a procedimientos urológicos ★",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "◊ Cultivos de Piel\\Ny Tejidos Blandos\\N(SSTI)",
+            "children": [
+              {
+                "text": "• Recomendado para abscesos y carbuncos (tratamiento empírico sin cultivo es razonable - IDSA)",
+                "children": []
+              },
+              {
+                "text": "• Hemocultivos: SOLO si factores específicos ★ (inmunosupresión, malignidad, mordeduras animales, lesiones por inmersión)",
+                "children": []
+              },
+              {
+                "text": "• Cultivos superficiales: SOLO si hay drenaje purulento ★",
+                "children": [
+                  {
+                    "text": "◊ Cultivos sin drenaje → Identifican polimicrobianos no causales → Tratamiento excesivamente amplio",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Diagnóstico basado también en historia y examen físico",
+                "children": []
+              },
+              {
+                "text": "• Asociación\\NClínica-Bacteria:",
+                "children": [
+                  {
+                    "text": "◊ Drenaje purulento → S. aureus más probable ★",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Celulitis no purulenta → Estreptococos Grupo A más probables ★",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "◊ Cultivos de Hueso\\Ny Articulación",
+            "children": [
+              {
+                "text": "• Origen Infección: Hematógena, prótesis, trauma, extensión de infección cutánea (ayuda a predecir bacteria)",
+                "children": []
+              },
+              {
+                "text": "• Infección Articular\\N(Artritis Séptica):",
+                "children": [
+                  {
+                    "text": "◊ Síntomas: Fiebre, dolor/hinchazón articular, sensibilidad, rango de movimiento disminuido",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Factores de riesgo: Prótesis articulares, cirugía articular reciente (<3 meses)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Diagnóstico: Cultivo de líquido sinovial (obtenido en cirugía o por aspiración) ★",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Líquido\\Nsinovial:",
+                    "children": [
+                      {
+                        "text": "• Leucocitos > 50,000/mm^3 → Alta especificidad (90%), baja sensibilidad (56%)",
+                        "children": []
+                      },
+                      {
+                        "text": "• Tinción Gram → Baja sensibilidad (45-71%)",
+                        "children": []
+                      },
+                      {
+                        "text": "• Proteína / Glucosa → No útiles para diagnóstico",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "• Osteomielitis:",
+                "children": [
+                  {
+                    "text": "◊ Síntomas: Fiebre, letargia, inflamación, eritema, hinchazón",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Diagnóstico: Cultivo de biopsia ósea ★ + Radiografías",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Hemocultivos útiles si origen hematógeno",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Marcadores inflamatorios (Leucocitos, VSG, PCR) elevados apoyan, pero no diagnostican sin cultivo ★",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "◊ Cultivos de Líquido\\NCefalorraquídeo (LCR)",
+            "children": [
+              {
+                "text": "• Rol principal en diagnóstico de Meningitis ★",
+                "children": []
+              },
+              {
+                "text": "• Meningitis Bacteriana no tratada\\N(hallazgos típicos):",
+                "children": [
+                  {
+                    "text": "◊ Leucocitos elevados (> 1, 000/mm^3, aunque pueden ser <)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Neutrófilos > 80% (generalmente; 10% pueden tener >50% linfocitos)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Proteínas elevadas (> 0.9 g/L) (por > permeabilidad meníngea)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Glucosa baja (< 40 mg/dL) o Ratio LCR/Suero ≤ 40% (consumo bacteriano) ★",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Presión de apertura elevada (> 200 mm H2O)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Punción Traumática: Corrige 1 Leucocito por cada 1000 Hematíes en LCR",
+                "children": []
+              },
+              {
+                "text": "• Tinción Gram: Útil (especificidad hasta 97%), especialmente con alta carga bacteriana ★",
+                "children": []
+              },
+              {
+                "text": "• PCR: Alta sensibilidad y especificidad; puede descartar meningitis bacteriana si Gram y cultivo son negativos ★",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "◊ Coprocultivos\\N(Heces)",
+            "children": [
+              {
+                "text": "• Considerar en: Diarrea persistente, diarrea sanguinolenta, viaje reciente a zonas con saneamiento deficiente ★",
+                "children": []
+              },
+              {
+                "text": "• 1 sola muestra suficiente (detecta patógeno 87-94% de las veces)",
+                "children": []
+              },
+              {
+                "text": "• Cribado de rutina: Salmonella, Shigella, E. coli, Campylobacter ★",
+                "children": []
+              },
+              {
+                "text": "• Test de Clostridium\\Ndifficile: ★",
+                "children": [
+                  {
+                    "text": "◊ Considerar si factores de riesgo: Antibióticos < 2 meses, > 2 deposiciones no formadas/24h, ↑ Leucocitos, empeoramiento función renal, ↓ Albúmina",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Pruebas disponibles: EIA toxina A y B, Inmunoensayo GDH, Ensayo molecular (PCR)",
+                    "children": []
+                  },
+                  {
+                    "text": "◊ Algoritmo común: EIA Toxina + GDH primero → Alta especificidad (>97%), sensibilidad variable (41-92%)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Si ambos (+) → Probable C. difficile",
+                "children": []
+              },
+              {
+                "text": "• Si discordantes → Test Molecular (mejora sensibilidad/especificidad)",
+                "children": []
+              },
+              {
+                "text": "◊ Test post-tratamiento NO útil (heces permanecen positivas semanas)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Identificación\\NBacteriana Temprana ★",
+        "children": [
+          {
+            "text": "› Tinción de\\NGram ★",
+            "children": [
+              {
+                "text": "◊ Diferenciación inicial: Gram-positivas (púrpura) vs. Gram-negativas (rosa) ★",
+                "children": []
+              },
+              {
+                "text": "◊ Información adicional: Forma (cocos, bacilos, cocobacilos), Agrupación (racimos, cadenas), Tamaño (menos reportado)",
+                "children": []
+              },
+              {
+                "text": "◊ Proceso: Fijación → Cristal Violeta → Lugol (Yodo) → Decoloración (Acetona) → Contratinción (Safranina)",
+                "children": []
+              },
+              {
+                "text": "◊ Base: Pared gruesa peptidoglicano (Gram +) retiene cristal violeta; pared fina (Gram -) pierde colorante, capta safranina",
+                "children": []
+              },
+              {
+                "text": "◊ Pruebas\\Ncomplementarias:",
+                "children": [
+                  {
+                    "text": "• Agar MacConkey → Diferencia Gram-negativos fermentadores de lactosa",
+                    "children": []
+                  },
+                  {
+                    "text": "• Prueba de Coagulasa → Diferencia S. aureus (+) de otros Staphylococcus (-) (S. epidermidis, S. saprophyticus) ★",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Utilidad: Guía terapia empírica ★; Sensibilidad/Especificidad variables; requiere confirmación microbiológica. (Ver Figura 1 para clasificación)",
+                "children": []
+              },
+              {
+                "text": "◊ ⇄ Selección de kit PNA-FISH",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Pruebas de\\NDiagnóstico Rápido\\N(PDR) ★",
+            "children": [
+              {
+                "text": "◊ Objetivo: Identificación más rápida → Desescalada de antibióticos temprana ★",
+                "children": []
+              },
+              {
+                "text": "◊ Rol crítico del farmacéutico en recomendaciones basadas en PDR",
+                "children": []
+              },
+              {
+                "text": "◊ Tecnologías:",
+                "children": [
+                  {
+                    "text": "• MALDI-TOF\\N(Matrix-Assisted Laser\\NDesorption/Ionization\\NTime-Of-Flight) ★",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Muestra en placa → Matriz → Láser (calor) → Desorción/Ionización → Vuelo en tubo (separación por masa/carga)\\N→ Espectro → Comparación con librería → Puntuación de probabilidad",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Ventajas: Identificación muy rápida (< 5 horas)",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: No da información de susceptibilidad (PSA), No detecta heterorresistencia ★\\N(subpoblación con > resistencia)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• PCR (Reacción en Cadena\\Nde la Polimerasa) ★",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Amplifica segmentos específicos de ADN bacteriano para identificación",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Ventajas: Identificación rápida (< 1 hora), Detecta bacterias incluso bajo tratamiento antibiótico",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: Puede detectar ADN no viable post-tratamiento, Precisión disminuye en infecciones polimicrobianas",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ PCR Múltiplex: Usa múltiples cebadores → Identifica múltiples bacterias y genes de resistencia ★",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• Tecnología de\\NSonda Nanopartícula",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Nanogrids ADN (portaobjetos) → Unen ADN bacteriano (Gram+/-) → Nanopartículas Oro → Solución Plata (une oro) → Luz dispersada detecta plata",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Aplicación: SOLO para hemocultivos positivos ★",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Ventajas: Identificación rápida (< 3 horas), Amplio número de bacterias y mecanismos de resistencia",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: Requiere hemocultivo positivo, No identifica todos los patógenos potenciales",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• PNA-FISH (Hibridación In Situ Fluorescente\\Ncon Ácido Nucleico Peptídico) ★",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Sondas PNA fluorescentes → Unen (hibridan) a ARNr bacteriano → Visualización microscopio fluorescencia",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Ventajas: Detección rápida (< 1 hora), Identifica bacterias difíciles de cultivar (anaerobios, Mycoplasma), Menor costo que PCR",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: Necesita anticipar bacteria probable (kits específicos por bacteria) ★, Detecta resistencia solo si asociada a mutación ARNr",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Identificación Convencional\\Ny Pruebas de Susceptibilidad\\Na Antibióticos (PSA) ★",
+        "children": [
+          {
+            "text": "› Proceso\\NConvencional",
+            "children": [
+              {
+                "text": "◊ Pasos: Tinción Gram → Identificación bacteriana → PSA",
+                "children": []
+              },
+              {
+                "text": "◊ Duración: Hasta 5 días → Retraso en desescalada antibiótica",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Estándares y\\NDefiniciones de PSA",
+            "children": [
+              {
+                "text": "◊ Organismos Reguladores: FDA (USA), CLSI (referencia principal USA) ★, EUCAST (Europa)",
+                "children": []
+              },
+              {
+                "text": "◊ Normalización: USCAST trabaja con EUCAST para armonizar estándares internacionales",
+                "children": []
+              },
+              {
+                "text": "◊ Interpretación Cuantitativa: CIM\\N(Concentración Mínima Inhibitoria) ★",
+                "children": [
+                  {
+                    "text": "• Definición: Menor concentración de antibiótico que inhibe crecimiento visible",
+                    "children": []
+                  },
+                  {
+                    "text": "• Importante: CIM más baja NO siempre es el tratamiento más efectivo (depende de concentración en sitio de infección) ★",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Puntos de Corte\\N(Breakpoints) ★",
+                "children": [
+                  {
+                    "text": "• Definición: Valores específicos de CIM definidos por CLSI/EUCAST",
+                    "children": []
+                  },
+                  {
+                    "text": "• Base: Datos PK/PD, mecanismos de resistencia, datos clínicos",
+                    "children": []
+                  },
+                  {
+                    "text": "• Propósito: Clasificar bacterias en categorías cualitativas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Categorías Cualitativas\\Nde Susceptibilidad ★",
+                "children": [
+                  {
+                    "text": "• Susceptible (S): Inhibido por concentraciones alcanzables con dosis estándar",
+                    "children": []
+                  },
+                  {
+                    "text": "• Susceptible Dosis-Dependiente (SDD): Requiere régimen de dosificación con > exposición para eficacia",
+                    "children": []
+                  },
+                  {
+                    "text": "• Intermedio (I): CIM cercana a niveles alcanzables; tasas de respuesta menores que S",
+                    "children": []
+                  },
+                  {
+                    "text": "• Resistente (R): No inhibido por concentraciones usuales / mecanismos de resistencia presentes / eficacia clínica no demostrada",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Métodos de PSA\\NConvencionales",
+            "children": [
+              {
+                "text": "◊ Difusión en Disco (Kirby-Bauer) ★\\N(Ver Figura 2)",
+                "children": [
+                  {
+                    "text": "• Proceso: Disco con antibiótico sobre agar inoculado → Incubación (18-24h) → Difusión antibiótico → Zona de inhibición → Medir diámetro → Comparar con estándares CLSI",
+                    "children": []
+                  },
+                  {
+                    "text": "• Interpretación: Zona grande = más susceptible; Zona pequeña = menos susceptible; Sin zona = resistente",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Dilución ★",
+                "children": [
+                  {
+                    "text": "• En Caldo (Broth Dilution)\\N(Microdilución en pocillos /\\NMacrodilución en tubos)\\N(Ver Figura 3)",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Diluciones seriadas de antibiótico en medio líquido → Inocular bacteria → Incubar → Observar crecimiento → CIM = menor concentración sin crecimiento",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Ventajas: Prueba múltiples antibióticos simultáneamente",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: Laborioso, consume tiempo, posible error (error de +/- una dilución es común) ★",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "• En Agar\\N(Agar Dilution)\\N(Ver Figura 4)",
+                    "children": [
+                      {
+                        "text": "◊ Proceso: Diluciones seriadas de antibiótico en placas de agar → Inocular cantidad estándar de bacteria → Incubar → CIM = placa con menor concentración sin crecimiento",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Uso principal: Probar múltiples bacterias contra un antibiótico específico",
+                        "children": []
+                      },
+                      {
+                        "text": "◊ Desventajas: Laborioso, consume tiempo, un solo antibiótico por placa",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "◊ Método Combinado: E-test ★\\N(Difusión + Dilución) (Ver Figura 5)",
+                "children": [
+                  {
+                    "text": "• Proceso: Tira plástica con gradiente de concentración de antibiótico sobre agar inoculado → Incubar (24h) → Zona de inhibición elíptica → Intersección elipse/tira = CIM ★",
+                    "children": []
+                  },
+                  {
+                    "text": "• Ventajas: Gradiente estable, mayor inóculo → CIM más precisa (valores intermedios a diluciones dobles)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Desventajas: Una tira por antibiótico, costoso, laborioso",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Sistemas\\NAutomatizados de\\NPSA ★",
+            "children": [
+              {
+                "text": "◊ Ventajas: Menos laboriosos, reporte más rápido de resultados ★",
+                "children": []
+              },
+              {
+                "text": "◊ Principio: Mayormente basados en principios de microdilución ⇄ Principios de Dilución",
+                "children": []
+              },
+              {
+                "text": "◊ Funcionamiento: Introducción de bacteria a panel → Incubación → Lectura e interpretación automática de susceptibilidad (usan algoritmos)",
+                "children": []
+              },
+              {
+                "text": "◊ Capacidades: Predicen resistencia a otros antibióticos (reglas expertas), Almacenan datos para antibiogramas ★",
+                "children": []
+              },
+              {
+                "text": "◊ Estándares FDA para aprobación: Tasas de error específicas (<3% Falsa R, <1.5%-7.5% Falsa S), Concordancia >90% con método de referencia (+/- 1 dilución)",
+                "children": []
+              },
+              {
+                "text": "◊ Ejemplos: VITEK 2, Microscan Walkaway plus, Phoenix, Sensititre",
+                "children": []
+              },
+              {
+                "text": "◊ Limitaciones: Errores pueden ocurrir para combinaciones específicas fármaco-bacteria ★ (confirmar con método manual si se sospecha)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Consideraciones Adicionales e\\NInterpretación Clínica",
+        "children": [
+          {
+            "text": "› Resultados In Vitro vs. In Vivo ★\\N⇄ Interpretación Clínica",
+            "children": [
+              {
+                "text": "◊ Discrepancia: Susceptibilidad in vitro NO garantiza cura in vivo ★",
+                "children": []
+              },
+              {
+                "text": "◊ Razones: Mecanismos de resistencia no detectados, Producción de toxinas, Propiedades Farmacocinéticas/Farmacodinámicas (PK/PD) inadecuadas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Desarrollo de Resistencia\\NDurante Terapia",
+            "children": [
+              {
+                "text": "◊ Ejemplo Clásico: Clindamicina (resistencia inducible)",
+                "children": []
+              },
+              {
+                "text": "◊ D-test ★: Detecta resistencia inducible a clindamicina\\Nen S. aureus y Estreptococos beta-hemolíticos",
+                "children": [
+                  {
+                    "text": "• Proceso: Discos de Eritromicina y Clindamicina cercanos en placa → Incubar",
+                    "children": []
+                  },
+                  {
+                    "text": "• Interpretación: Zona de inhibición circular = no inducible; Zona achatada (\"D\") hacia eritromicina = resistencia inducible presente ★",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Detección de Mecanismos de\\NResistencia Específicos ★",
+            "children": [
+              {
+                "text": "◊ BLEE (Beta-Lactamasas de\\NEspectro Extendido / ESBL) ★",
+                "children": [
+                  {
+                    "text": "• Función: Enzimas que hidrolizan muchas penicilinas y cefalosporinas",
+                    "children": []
+                  },
+                  {
+                    "text": "• Prevalencia: Más comunes en Gram-negativos asociados a infecciones nosocomiales",
+                    "children": []
+                  },
+                  {
+                    "text": "• Detección: Cribado (ej: cefotaxima) → Confirmación con inhibidor (ácido clavulánico)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Microdilución: Disminución ≥ 3 diluciones (8 veces) en CIM al añadir clavulánico → BLEE positivo ★",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ AmpC\\NBeta-Lactamasas\\N★",
+                "children": [
+                  {
+                    "text": "• Relevancia: Pueden enmascarar BLEE (falsos negativos en screening) ⇄ ESBL",
+                    "children": []
+                  },
+                  {
+                    "text": "• Detección: Pueden detectarse con pruebas específicas (ej: E-test)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Nuevos mecanismos de resistencia → Emergen continuamente → Nuevos desafíos diagnósticos y terapéuticos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Relevancia Clínica y Rol\\Ndel Farmacéutico ★",
+            "children": [
+              {
+                "text": "◊ Propósito de la Guía: Asistir a farmacéuticos y clínicos en interpretación → Mejorar seguridad del paciente",
+                "children": []
+              },
+              {
+                "text": "◊ Contexto de Uso\\Nde Antibióticos:",
+                "children": [
+                  {
+                    "text": "• 50% pacientes hospitalizados reciben ≥ 1 antibiótico; 30% de estos son de amplio espectro",
+                    "children": []
+                  },
+                  {
+                    "text": "• Uso inapropiado reportado hasta 50% ★ → Consecuencias: Efectos adversos, infecciones secundarias,\\Ninteracciones, > costos, > estancia hospitalaria, re-admisiones, desarrollo de resistencia bacteriana ★",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Rol del Farmacéutico en Stewardship Antimicrobiano: Esencial, especialmente ante escasez de especialistas en enfermedades infecciosas ★",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    },
+    {
+      "id": "map_1090",
+      "title": "CARGA DEL CUIDADOR Y SERVICIOS DE APOYO EN DEMENCIA"
+    },
+    {
+      "id": "map_1041",
+      "title": "Continuum. Demencia Frontotemporal (DFT)"
+    }
+  ],
+  "source_file": "03. Id. Cultivos-2025.smmx",
+  "created": "2026-02-07T15:42:59.270377"
+}

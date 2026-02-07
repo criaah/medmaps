@@ -1,0 +1,686 @@
+{
+  "id": "map_1842",
+  "title": "UTD - Enfoque Diagnóstico de\\NPancitopenia en Adultos",
+  "specialty": "Hematología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 154,
+  "root": {
+    "text": "UTD - Enfoque Diagnóstico de\\NPancitopenia en Adultos",
+    "children": [
+      {
+        "text": "## DEFINICIÓN",
+        "children": [
+          {
+            "text": "- Disminución en las tres líneas\\Ncelulares sanguíneas:",
+            "children": [
+              {
+                "text": "- Glóbulos rojos: Hemoglobina <12 g/dL (mujeres) o <13 g/dL (hombres)",
+                "children": []
+              },
+              {
+                "text": "- Glóbulos blancos: Recuento absoluto de neutrófilos <1800/microL",
+                "children": []
+              },
+              {
+                "text": "- Plaquetas: <150,000/microL",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## MECANISMOS DE\\NPANCITOPENIA",
+        "children": [
+          {
+            "text": "- **Infiltración/reemplazo medular**: Neoplasias hematológicas, cáncer metastásico, mielofibrosis, enfermedades infecciosas",
+            "children": []
+          },
+          {
+            "text": "- **Aplasia medular**: Deficiencias nutricionales, anemia aplásica, enfermedades infecciosas, destrucción inmune, medicamentos",
+            "children": []
+          },
+          {
+            "text": "- **Destrucción o secuestro celular**: Coagulación intravascular diseminada, púrpura trombocitopénica trombótica, hiperesplenismo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## CAUSAS DE\\NPANCITOPENIA",
+        "children": [
+          {
+            "text": "### Aplasia/Hipoplasia\\NMedular",
+            "children": [
+              {
+                "text": "- Deficiencias nutricionales (B12, folato, cobre)",
+                "children": []
+              },
+              {
+                "text": "- Anemia aplásica",
+                "children": []
+              },
+              {
+                "text": "- Exposición a drogas y toxinas",
+                "children": []
+              },
+              {
+                "text": "- Infecciones virales (hepatitis, VIH, parvovirus B19)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Infiltración\\NMedular",
+            "children": [
+              {
+                "text": "- Leucemias agudas",
+                "children": []
+              },
+              {
+                "text": "- Síndromes mielodisplásicos",
+                "children": []
+              },
+              {
+                "text": "- Linfomas",
+                "children": []
+              },
+              {
+                "text": "- Mieloma múltiple",
+                "children": []
+              },
+              {
+                "text": "- Mielofibrosis primaria",
+                "children": []
+              },
+              {
+                "text": "- Cáncer metastásico",
+                "children": []
+              },
+              {
+                "text": "- Infecciones (tuberculosis, hongos)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Hiperesplenismo",
+            "children": [
+              {
+                "text": "- Cirrosis hepática/hipertensión portal",
+                "children": []
+              },
+              {
+                "text": "- Enfermedades hematológicas (linfomas, leucemias)",
+                "children": []
+              },
+              {
+                "text": "- Enfermedades infecciosas",
+                "children": []
+              },
+              {
+                "text": "- Enfermedades de almacenamiento",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Destrucción\\NCelular",
+            "children": [
+              {
+                "text": "- Coagulación intravascular diseminada (CID)",
+                "children": []
+              },
+              {
+                "text": "- Microangiopatías trombóticas",
+                "children": []
+              },
+              {
+                "text": "- Destrucción inmune (LES, artritis reumatoide)",
+                "children": []
+              },
+              {
+                "text": "- Hemoglobinuria paroxística nocturna (HPN)",
+                "children": []
+              },
+              {
+                "text": "- Linfohistiocitosis hemofagocítica (LHH)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EMERGENCIAS",
+        "children": [
+          {
+            "text": "### Requieren Hospitalización\\NInmediata",
+            "children": [
+              {
+                "text": "- Neutropenia con fiebre (RAN <1000/microL)",
+                "children": []
+              },
+              {
+                "text": "- Anemia sintomática (isquemia miocárdica, hipotensión)",
+                "children": []
+              },
+              {
+                "text": "- Trombocitopenia <10,000/microL o sangrado con <50,000/microL",
+                "children": []
+              },
+              {
+                "text": "- Sospecha de CID, PTT, SUH u otra microangiopatía trombótica",
+                "children": []
+              },
+              {
+                "text": "- Sospecha de leucemia aguda",
+                "children": []
+              },
+              {
+                "text": "- Sospecha de anemia aplásica severa",
+                "children": []
+              },
+              {
+                "text": "- Sospecha de linfohistiocitosis hemofagocítica",
+                "children": []
+              },
+              {
+                "text": "- Emergencias metabólicas (hipercalcemia, insuficiencia renal, síndrome de lisis tumoral)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "##\\NEVALUACIÓN\\NINICIAL",
+        "children": [
+          {
+            "text": "### Historia Clínica",
+            "children": [
+              {
+                "text": "- Evolución temporal y severidad clínica",
+                "children": []
+              },
+              {
+                "text": "- Síntomas asociados a citopenias (infecciones, fatiga, sangrado)",
+                "children": []
+              },
+              {
+                "text": "- Tratamientos previos",
+                "children": []
+              },
+              {
+                "text": "- Condiciones médicas preexistentes",
+                "children": []
+              },
+              {
+                "text": "- Medicamentos potencialmente causales",
+                "children": []
+              },
+              {
+                "text": "- Exposiciones personales y ocupacionales",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Examen Físico",
+            "children": [
+              {
+                "text": "- Erupciones cutáneas",
+                "children": []
+              },
+              {
+                "text": "- Lesiones orales",
+                "children": []
+              },
+              {
+                "text": "- Linfadenopatía y/o esplenomegalia",
+                "children": []
+              },
+              {
+                "text": "- Ictericia y estigmas de enfermedad hepática",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Estudios de\\NLaboratorio",
+            "children": [
+              {
+                "text": "- Hemograma completo con diferencial",
+                "children": []
+              },
+              {
+                "text": "- Recuento de reticulocitos",
+                "children": []
+              },
+              {
+                "text": "- Examen del frotis de sangre periférica",
+                "children": []
+              },
+              {
+                "text": "- Tiempo de protrombina (TP) y tiempo parcial de tromboplastina (TPT)",
+                "children": []
+              },
+              {
+                "text": "- Química sanguínea completa",
+                "children": []
+              },
+              {
+                "text": "- Grupo sanguíneo y pruebas de compatibilidad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Derivación a\\NHematología",
+            "children": [
+              {
+                "text": "- Casi siempre apropiada, excepto cuando se identifica rápidamente una etiología tratable",
+                "children": []
+              },
+              {
+                "text": "- Urgencia según severidad, trayectoria de citopenias y estabilidad clínica",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN\\NPOSTERIOR",
+        "children": [
+          {
+            "text": "### Examen de\\NMédula Ósea",
+            "children": [
+              {
+                "text": "- Útil en la mayoría de pacientes con pancitopenia",
+                "children": []
+              },
+              {
+                "text": "- Esencial cuando se sospecha trastorno hematológico primario",
+                "children": []
+              },
+              {
+                "text": "- Puede ser engañoso si se realiza poco después de suspender medicamentos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Escenarios\\NClínicos Específicos",
+            "children": [
+              {
+                "text": "#### Coagulopatía",
+                "children": [
+                  {
+                    "text": "- Evaluación urgente del frotis sanguíneo para anemia hemolítica microangiopática",
+                    "children": []
+                  },
+                  {
+                    "text": "- Descartar CID por sepsis, leucemia promielocítica aguda u otras causas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Células Anormales\\Nen Frotis Sanguíneo",
+                "children": [
+                  {
+                    "text": "- **Células malignas**:",
+                    "children": [
+                      {
+                        "text": "- Blastos circulantes (leucemia)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Leucocitos displásicos (síndromes mielodisplásicos)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Células mieloides inmaduras (neoplasia mieloproliferativa)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hallazgos leucoeritroblásticos (mielofibrosis)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- **Células no\\Nmalignas**:",
+                    "children": [
+                      {
+                        "text": "- Neutrófilos hipersegmentados y ovalomacrocitos (trastorno megaloblástico)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Linfocitos atípicos (infecciones virales)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Aspecto leucoeritroblástico con dacriocitos (mielofibrosis, cáncer metastásico)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Esquistocitos (CID)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Condiciones\\NHipoproliferativas",
+                "children": [
+                  {
+                    "text": "- Reticulocitopenia (<20,000 reticulocitos/microL)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Evaluar:",
+                    "children": [
+                      {
+                        "text": "- Deficiencias vitamínicas/minerales",
+                        "children": []
+                      },
+                      {
+                        "text": "- Medicamentos",
+                        "children": []
+                      },
+                      {
+                        "text": "- Supresión medular",
+                        "children": []
+                      },
+                      {
+                        "text": "- Anemia aplásica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hematopoyesis ineficaz",
+                        "children": []
+                      },
+                      {
+                        "text": "- Infiltración/reemplazo medular",
+                        "children": []
+                      },
+                      {
+                        "text": "- Neoplasias con inmunosupresión",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Esplenomegalia y/o\\NEnfermedad Hepática",
+                "children": [
+                  {
+                    "text": "- Sugiere hiperesplenismo (secuestro/destrucción celular)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Evaluar:",
+                    "children": [
+                      {
+                        "text": "- Enfermedad hepática/cirrosis",
+                        "children": []
+                      },
+                      {
+                        "text": "- Infecciones",
+                        "children": []
+                      },
+                      {
+                        "text": "- Neoplasias hematológicas",
+                        "children": []
+                      },
+                      {
+                        "text": "- Hematopoyesis extramedular",
+                        "children": []
+                      },
+                      {
+                        "text": "- Congestión (insuficiencia cardíaca)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Inflamación (artritis reumatoide, síndrome de Felty)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enfermedad esplénica primaria",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enfermedades de almacenamiento",
+                        "children": []
+                      },
+                      {
+                        "text": "- Linfohistiocitosis hemofagocítica",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Linfadenopatía",
+                "children": [
+                  {
+                    "text": "- Posibles causas:",
+                    "children": [
+                      {
+                        "text": "- Neoplasias hematológicas",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enfermedades autoinmunes",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enfermedades infecciosas",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Evaluar con:",
+                    "children": [
+                      {
+                        "text": "- Estudios de imagen",
+                        "children": []
+                      },
+                      {
+                        "text": "- Biopsia de ganglio linfático",
+                        "children": []
+                      },
+                      {
+                        "text": "- Citometría de flujo",
+                        "children": []
+                      },
+                      {
+                        "text": "- Estudios serológicos",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Condiciones\\NAutoinmunes",
+                "children": [
+                  {
+                    "text": "- Enfermedades comunes: artritis reumatoide/síndrome de Felty, LES, sarcoidosis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Evaluar:",
+                    "children": [
+                      {
+                        "text": "- Trastornos asociados (anemia perniciosa, enfermedad tiroidea)",
+                        "children": []
+                      },
+                      {
+                        "text": "- Considerar agentes terapéuticos alternativos",
+                        "children": []
+                      },
+                      {
+                        "text": "- Evaluar esplenectomía en casos seleccionados",
+                        "children": []
+                      },
+                      {
+                        "text": "- Descartar leucemia de linfocitos grandes granulares",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Síntomas\\NConstitucionales",
+                "children": [
+                  {
+                    "text": "- Fiebre, sudores nocturnos, pérdida de peso",
+                    "children": []
+                  },
+                  {
+                    "text": "- Posibles causas:",
+                    "children": [
+                      {
+                        "text": "- Infecciones",
+                        "children": []
+                      },
+                      {
+                        "text": "- Linfohistiocitosis hemofagocítica",
+                        "children": []
+                      },
+                      {
+                        "text": "- Neoplasias hematológicas",
+                        "children": []
+                      },
+                      {
+                        "text": "- Enfermedades autoinmunes",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "#### Anomalías\\NMetabólicas",
+                "children": [
+                  {
+                    "text": "- Hipercalcemia, síndrome de lisis tumoral, insuficiencia renal, hiperuricemia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Asociadas a mieloma múltiple, leucemia, linfoma",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Medicamentos\\NSospechosos",
+                "children": [
+                  {
+                    "text": "- Considerar suspensión o reducción de dosis",
+                    "children": []
+                  },
+                  {
+                    "text": "- La recuperación puede tardar semanas",
+                    "children": []
+                  },
+                  {
+                    "text": "- La biopsia de médula ósea inmediata puede no ser útil",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "#### Causas\\NMultifactoriales",
+                "children": [
+                  {
+                    "text": "- Ejemplos:",
+                    "children": [
+                      {
+                        "text": "- Consumo de alcohol + deficiencia de folato + cirrosis + esplenomegalia",
+                        "children": []
+                      },
+                      {
+                        "text": "- Infección por VIH + múltiples medicamentos + linfoma asociado a SIDA",
+                        "children": []
+                      },
+                      {
+                        "text": "- Trastorno autoinmune + esplenomegalia + múltiples medicamentos",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "- Identificar causas reversibles o tratables",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## RESUMEN",
+        "children": [
+          {
+            "text": "- La pancitopenia es la disminución de todas las líneas celulares sanguíneas",
+            "children": []
+          },
+          {
+            "text": "- Puede ser causada por múltiples mecanismos: aplasia medular, infiltración/reemplazo, destrucción acelerada, secuestro",
+            "children": []
+          },
+          {
+            "text": "- La evaluación inicial debe identificar emergencias y orientar la búsqueda diagnóstica",
+            "children": []
+          },
+          {
+            "text": "- El frotis de sangre periférica es fundamental para detectar características diagnósticas",
+            "children": []
+          },
+          {
+            "text": "- El examen de médula ósea es útil en la mayoría de los casos, pero no en todos",
+            "children": []
+          },
+          {
+            "text": "- Las causas son a menudo multifactoriales y requieren un abordaje integral",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1836",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de\\NRescate en Anemia Hemolítica Autoinmune (AHAI) Grave\\Ndel Adulto: Estudio Observacional Multicéntrico Francés\\N**(Publicado 2024)**"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    }
+  ],
+  "source_file": "UTD - Enfoque Diagnóstico de Pancitopenia en Adultos-2025.smmx",
+  "created": "2026-02-07T15:43:00.153156"
+}

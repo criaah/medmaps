@@ -721,9 +721,31 @@
   "node_count": 98,
   "relations": [],
   "cross_references": [],
-  "specialty": "General",
+  "specialty": "Hematología",
   "folder": "- Entidades clínicas/Cardiología",
   "filename": "Williams. ANEMIA HEMOLÍTICA RELACIONADA CON DEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS-2025-1",
   "id": "map_1128",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1151",
+      "title": "ANEMIA ORIGINADA POR OTRAS DEFICIENCIAS NUTRICIONALES"
+    },
+    {
+      "id": "map_1177",
+      "title": "ANEMIA POR INFILTRACIÓN DE LA MÉDULA ÓSEA"
+    },
+    {
+      "id": "map_1124",
+      "title": "ANEMIAS SIDEROBLÁSTICAS HEREDITARIAS Y ADQUIRIDAS"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1462",
+      "title": "UTD - Enfoque Diagnóstico de Anemia en Adultos"
+    }
+  ]
 }

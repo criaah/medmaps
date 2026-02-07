@@ -1,0 +1,407 @@
+{
+  "id": "map_1889",
+  "title": "Aciclovir (ACV) versus\\NValaciclovir (VACV)",
+  "specialty": "Neurología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 89,
+  "root": {
+    "text": "Aciclovir (ACV) versus\\NValaciclovir (VACV)",
+    "children": [
+      {
+        "text": "## Aciclovir (ACV)",
+        "children": [
+          {
+            "text": "- Definición y Descubrimiento: Análogo guanosina (9-[(2-hidroxietoxi)metil]guanina). Primer antiviral específico vs HSV/VZV. Premio Nobel (G. Elion)",
+            "children": []
+          },
+          {
+            "text": "- Farmacocinética (PK)",
+            "children": [
+              {
+                "text": "- Formulaciones: Oral, Intravenosa (IV), Tópica",
+                "children": []
+              },
+              {
+                "text": "- Biodisponibilidad Oral: Baja (15-30%)",
+                "children": []
+              },
+              {
+                "text": "- Distribución: Amplia (LCR, vesículas, secreciones vaginales). Cruza placenta, secreta leche materna",
+                "children": []
+              },
+              {
+                "text": "- Excreción: Renal (85% sin metabolizar)",
+                "children": []
+              },
+              {
+                "text": "- Tópica: Baja penetración estrato córneo -> baja eficacia sistémica",
+                "children": []
+              },
+              {
+                "text": "- Intravenosa (IV): Para enf. graves / inmunocomprometidos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Mecanismo\\Nde Acción",
+            "children": [
+              {
+                "text": "- General: Inhibidor potente/selectivo replicación ADN herpesvirus",
+                "children": []
+              },
+              {
+                "text": "- Activación Selectiva\\N(Fosforilación):",
+                "children": [
+                  {
+                    "text": "- ACV --(Timidina Quinasa VIRAL)--> ACV Monofosfato",
+                    "children": []
+                  },
+                  {
+                    "text": "- ACV Monofosfato --(Quinasas CELULARES)--> ACV Trifosfato",
+                    "children": []
+                  },
+                  {
+                    "text": "- Resultado: Acumulación ACV Trifosfato en células infectadas (40-100x > no infectadas)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Acción ACV Trifosfato:",
+                "children": [
+                  {
+                    "text": "- Compite con dATP por ADN polimerasa VIRAL (mayor afinidad por viral)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inhibición irreversible ADN polimerasa viral",
+                    "children": []
+                  },
+                  {
+                    "text": "- Terminación cadena ADN viral",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Indicaciones\\NAprobadas FDA",
+            "children": [
+              {
+                "text": "- Infecciones Herpes Simple (HSV 1 y 2): Primarias, Recurrentes, Supresión",
+                "children": []
+              },
+              {
+                "text": "- Infecciones Varicela Zoster (VZV): Varicela, Herpes Zoster",
+                "children": []
+              },
+              {
+                "text": "- Infecciones HSV/VZV en Inmunocomprometidos (VIH)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Otros Usos\\NDermatológicos",
+            "children": [
+              {
+                "text": "- Variantes HSV: Gingivoestomatitis, Herpes labial recurrente, Eczema herpeticum, Panadizo herpético",
+                "children": []
+              },
+              {
+                "text": "- Profilaxis HSV (resurfacing facial)",
+                "children": []
+              },
+              {
+                "text": "- Eritema Multiforme recurrente (asociado HSV), Sd. Stevens-Johnson (asociado HSV)",
+                "children": []
+              },
+              {
+                "text": "- Parálisis de Bell (con corticoides)",
+                "children": []
+              },
+              {
+                "text": "- Leucoplaquia oral vellosa (VEB)",
+                "children": []
+              },
+              {
+                "text": "- Profilaxis Varicela (contactos)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Inicio Terapia",
+            "children": [
+              {
+                "text": "- HSV mucocutáneo: Lo antes posible",
+                "children": []
+              },
+              {
+                "text": "- Recurrencias HSV: Iniciar en pródromo",
+                "children": []
+              },
+              {
+                "text": "- Varicela: Iniciar < 24h",
+                "children": []
+              },
+              {
+                "text": "- Herpes Zoster (inmunocompetente): Iniciar < 3 días",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Indicaciones ACV IV: Casos\\Ngraves/inmunocomprometidos",
+            "children": [
+              {
+                "text": "- HSV diseminado/neonatal/encefalitis/refractario oral. Eczema herpeticum",
+                "children": []
+              },
+              {
+                "text": "- Varicela gestante con neumonía",
+                "children": []
+              },
+              {
+                "text": "- H. Zoster oftálmico grave, H. Zoster inmunocomprometido",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Indicaciones\\NACV Tópico",
+            "children": [
+              {
+                "text": "- Ungüento 5%: Herpes genital inicial, Lesiones mucocutáneas leves (inmunocomprometidos)",
+                "children": []
+              },
+              {
+                "text": "- Crema: Leve beneficio herpes labial recurrente (inmunocompetentes)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Eficacia Clínica",
+            "children": [
+              {
+                "text": "- Profilaxis Herpes Labial (VO): Efectiva",
+                "children": []
+              },
+              {
+                "text": "- VIH (dosis altas): Modesto beneficio supervivencia",
+                "children": []
+              },
+              {
+                "text": "- H. Zoster / Varicela: Reduce síntomas agudos, previene diseminación (inmunocomprometidos).\\NNO afecta latencia/recurrencia/Neuralgia Post-Herpética (NPH)",
+                "children": []
+              },
+              {
+                "text": "- ACV Tópico: Efecto limitado (principalmente inmunocomprometidos)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Efectos Adversos (EA)",
+            "children": [
+              {
+                "text": "- Nefrotoxicidad IV: Cristaluria, nefropatía obstructiva, nefritis intersticial (5%). IRA (raro).\\NRiesgo: dosis altas, deshidratación, infusión rápida",
+                "children": []
+              },
+              {
+                "text": "- Toxicidad SNC IV (1%): Letargia, confusión, temblor, alucinaciones, convulsiones, coma.\\NAsociado a niveles altos/enf SNC base",
+                "children": []
+              },
+              {
+                "text": "- Reacciones Infusión IV: Flebitis, inflamación",
+                "children": []
+              },
+              {
+                "text": "- Otros (VO/IV): GI (náuseas, vómito, diarrea), Cefalea, Malestar.\\NRaros: Cutáneos, Aumento transaminasas, Citopenias",
+                "children": []
+              },
+              {
+                "text": "- Tópico: Irritación local",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Precauciones",
+            "children": [
+              {
+                "text": "- Ajuste Dosis Renal: Requerido si ClCr < 50 ml/min (VO/IV). Dar dosis post-hemodiálisis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Interacciones: Pocas (no metabolismo CYP450)",
+            "children": []
+          },
+          {
+            "text": "- Contraindicaciones: Hipersensibilidad",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Valaciclovir (VACV)",
+        "children": [
+          {
+            "text": "- Definición: Profármaco de ACV (Éster L-valina)",
+            "children": []
+          },
+          {
+            "text": "- Desarrollo: Para aumentar biodisponibilidad oral ACV",
+            "children": []
+          },
+          {
+            "text": "- Farmacocinética (PK)",
+            "children": [
+              {
+                "text": "- Absorción: Mejor que ACV (transportador activo intestinal)",
+                "children": []
+              },
+              {
+                "text": "- Conversión: Rápida y casi completa a ACV (metabolismo 1er paso intestinal/hepático)",
+                "children": []
+              },
+              {
+                "text": "- Biodisponibilidad ACV post-VACV: ~70% (3-5 veces > ACV oral)",
+                "children": []
+              },
+              {
+                "text": "- Ventaja PK: Permite menor frecuencia administración",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Mecanismo Acción / Espectro Actividad: Idénticos a ACV",
+            "children": []
+          },
+          {
+            "text": "- Indicaciones Aprobadas FDA: Similares a ACV oral (HSV primario/recurrente/supresión, Herpes Zoster, HSV/VZV en VIH)",
+            "children": []
+          },
+          {
+            "text": "- Otros Usos Dermatológicos: Similares a ACV (Eritema Multiforme R ACV, profilaxis resurfacing, etc.)",
+            "children": []
+          },
+          {
+            "text": "- Inicio Terapia: Similar a ACV (<72h HZV). Ver Tablas 2 y 3 del documento original",
+            "children": []
+          },
+          {
+            "text": "- Efectos Adversos (EA):\\NGeneralmente similares a ACV",
+            "children": [
+              {
+                "text": "- TTP/HUS (Púrpura Trombótica Trombocitopénica / Sd Hemolítico Urémico):\\NReportado raro/fatal con DOSIS ALTAS en SIDA/trasplantados",
+                "children": []
+              },
+              {
+                "text": "- SDRIFE: Reportado",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Interacciones: Cimetidina/Probenecid reducen tasa conversión (no magnitud)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Comparación VACV vs ACV",
+        "children": [
+          {
+            "text": "- Ventajas Generales VACV: Mejor biodisponibilidad oral, dosificación más conveniente (mejor cumplimiento)",
+            "children": []
+          },
+          {
+            "text": "- Herpes Labial: VACV 2g BID x 1d (episódico); VACV 500mg OD (supresión)",
+            "children": []
+          },
+          {
+            "text": "- Herpes Genital:",
+            "children": [
+              {
+                "text": "- 1er Episodio: VACV 1g BID x 10d = eficacia ACV 5x/día",
+                "children": []
+              },
+              {
+                "text": "- Supresión: VACV 500mg OD (<9 ep/año)",
+                "children": []
+              },
+              {
+                "text": "- Reducción Transmisión: VACV 500mg OD reduce transmisión a pareja (-50%). No demostrado con ACV OD",
+                "children": []
+              },
+              {
+                "text": "- Lesiones Abortivas: VACV aumenta probabilidad abortar lesión si tto precoz (<6h). No descrito con ACV",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Costo-Efectividad: VACV 500mg OD ventajoso (EEUU)",
+            "children": []
+          },
+          {
+            "text": "- Uso en VIH+: VACV 500mg BID > eficaz supresión vs VACV 1g OD o ACV 400mg BID. VACV reduce carga viral VIH rectal/plasma (coinfectados VIH/HSV-2)",
+            "children": []
+          },
+          {
+            "text": "- Herpes Zoster:",
+            "children": [
+              {
+                "text": "- Eficacia Similar: En síntomas agudos/curación rash",
+                "children": []
+              },
+              {
+                "text": "- Ventaja VACV: Reduce significativamente incidencia y severidad Neuralgia Post-Herpética (NPH).\\NDolor post-lesión más corto (40d vs 60d). Beneficio global ~25% sobre ACV",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Profilaxis HSV (Resurfacing): VACV efectivo",
+            "children": []
+          },
+          {
+            "text": "- Eritema Multiforme Recurrente: VACV opción si ACV falla",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1682",
+      "title": "ARISTOTLE (2011)\\NApixaban vs Warfarin in AF\\N\\nApixaban superior a warfarina en FA:\\nReduce ACV 21%, sangrado mayor 31%, mortalidad 11%\\nMejor perfil general vs warfarina"
+    },
+    {
+      "id": "map_1707",
+      "title": "SHEP (1991)\\NSystolic Hypertension in\\nthe Elderly Program\\N\\n⭐ Tratar HTA sistólica aislada\\Nen mayores de 60 años\\NREDUCE ACV 36%"
+    },
+    {
+      "id": "map_1712",
+      "title": "BAFTA (2007)\\NBirmingham Atrial Fibrillation\\NTreatment of the Aged\\N\\n⭐ Warfarina SUPERIOR a aspirina\\Nen prevención ACV en FA\\Nmayores de 75 años"
+    }
+  ],
+  "source_file": "08. Aciclovir (ACV) versus Valaciclovir (VACV)-2025.smmx",
+  "created": "2026-02-07T15:43:04.472813"
+}

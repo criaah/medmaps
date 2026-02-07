@@ -1,0 +1,745 @@
+{
+  "id": "map_1845",
+  "title": "UTD - Enfoque Diagnóstico de\\NAnemia en Adultos",
+  "specialty": "Hematología",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 168,
+  "root": {
+    "text": "UTD - Enfoque Diagnóstico de\\NAnemia en Adultos",
+    "children": [
+      {
+        "text": "##\\NPRINCIPIOS\\NBÁSICOS",
+        "children": [
+          {
+            "text": "### Definiciones\\Nde Anemia",
+            "children": [
+              {
+                "text": "- Hemoglobina (Hb)",
+                "children": [
+                  {
+                    "text": "- Mujeres: <11.5 g/dL",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hombres: <13.5 g/dL",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Hematocrito (HCT)",
+                "children": [
+                  {
+                    "text": "- Mujeres: <35%",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hombres: <40%",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Consideraciones\\NEspeciales",
+            "children": [
+              {
+                "text": "- Actividad física intensa → valores más bajos",
+                "children": []
+              },
+              {
+                "text": "- Embarazo → anemia fisiológica/dilucional",
+                "children": []
+              },
+              {
+                "text": "- Edad avanzada → valores generalmente más bajos",
+                "children": []
+              },
+              {
+                "text": "- Tabaquismo → valores más altos",
+                "children": []
+              },
+              {
+                "text": "- Medicamentos (andrógenos, inhibidores SGLT2) → valores más altos",
+                "children": []
+              },
+              {
+                "text": "- Hemoconcentración → valores más altos",
+                "children": []
+              },
+              {
+                "text": "- Altitud elevada → valores más altos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Índices\\NEritrocitarios",
+            "children": [
+              {
+                "text": "- VCM (Volumen Corpuscular Medio): tamaño promedio de GR",
+                "children": []
+              },
+              {
+                "text": "- HCM (Hemoglobina Corpuscular Media): contenido promedio de Hb",
+                "children": []
+              },
+              {
+                "text": "- CHCM (Concentración de Hemoglobina Corpuscular Media): concentración promedio de Hb",
+                "children": []
+              },
+              {
+                "text": "- RDW (Amplitud de Distribución Eritrocitaria): variación en tamaño de GR",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Producción\\Nde Reticulocitos",
+            "children": [
+              {
+                "text": "- Normal: 0.5-2% de GR totales (25,000-100,000/microL)",
+                "children": []
+              },
+              {
+                "text": "- En anemia: aumento hasta 4-5% (350,000/microL)",
+                "children": []
+              },
+              {
+                "text": "- Indicador clave de respuesta medular a la anemia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Correlación\\Ncon Síntomas",
+            "children": [
+              {
+                "text": "- Depende de:",
+                "children": [
+                  {
+                    "text": "- Contenido y liberación de oxígeno",
+                    "children": []
+                  },
+                  {
+                    "text": "- Volumen sanguíneo y perfusión tisular",
+                    "children": []
+                  },
+                  {
+                    "text": "- Velocidad de disminución de masa eritrocitaria",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mecanismos compensatorios",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## ENFOQUES\\NDIAGNÓSTICOS",
+        "children": [
+          {
+            "text": "### Categorías a\\NConsiderar",
+            "children": [
+              {
+                "text": "- Características clínicas evidentes",
+                "children": []
+              },
+              {
+                "text": "- Medicamentos y condiciones subyacentes",
+                "children": []
+              },
+              {
+                "text": "- Hallazgos en CBC inicial",
+                "children": []
+              },
+              {
+                "text": "- Tamaño de GR (microcíticos/macrocíticos)",
+                "children": []
+              },
+              {
+                "text": "- Función medular (según recuento de reticulocitos)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Información\\Na Recopilar",
+            "children": [
+              {
+                "text": "- Antecedentes médicos y medicación actual",
+                "children": []
+              },
+              {
+                "text": "- Historia familiar de anemia específica",
+                "children": []
+              },
+              {
+                "text": "- Causas adquiridas (dieta, viajes, infecciones, sangrado)",
+                "children": []
+              },
+              {
+                "text": "- Cronicidad de la anemia",
+                "children": []
+              },
+              {
+                "text": "- Síntomas de hemólisis",
+                "children": []
+              },
+              {
+                "text": "- Rapidez de desarrollo de síntomas",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Pruebas de\\NLaboratorio",
+            "children": [
+              {
+                "text": "- CBC con índices eritrocitarios y diferencial leucocitario",
+                "children": []
+              },
+              {
+                "text": "- Recuento de reticulocitos",
+                "children": []
+              },
+              {
+                "text": "- Panel bioquímico (función renal y hepática)",
+                "children": []
+              },
+              {
+                "text": "- Pruebas de hemólisis (LDH, bilirrubina, haptoglobina)",
+                "children": []
+              },
+              {
+                "text": "- Frotis de sangre periférica",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Cuando Derivar\\Na Hematología",
+            "children": [
+              {
+                "text": "- Emergencias hematológicas",
+                "children": []
+              },
+              {
+                "text": "- Pancitopenia severa",
+                "children": []
+              },
+              {
+                "text": "- Blastos o formas inmaduras",
+                "children": []
+              },
+              {
+                "text": "- Pancitopenia con hemólisis/trombosis/sangrado",
+                "children": []
+              },
+              {
+                "text": "- Anemia hemolítica microangiopática",
+                "children": []
+              },
+              {
+                "text": "- Incertidumbre diagnóstica",
+                "children": []
+              },
+              {
+                "text": "- Necesidad de evaluación especializada",
+                "children": []
+              },
+              {
+                "text": "- Examen medular, citometría de flujo, pruebas genéticas",
+                "children": []
+              },
+              {
+                "text": "- Necesidad de tratamiento especializado",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN SEGÚN\\NPRESENTACIÓN CLÍNICA",
+        "children": [
+          {
+            "text": "### Pérdida Aguda\\Nde Sangre",
+            "children": [
+              {
+                "text": "- Identificar y manejar sitio de sangrado",
+                "children": []
+              },
+              {
+                "text": "- Mantener perfusión tisular y entrega de oxígeno",
+                "children": []
+              },
+              {
+                "text": "- Evaluar reservas de hierro posteriormente",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Anemia Congénita\\No Historia Familiar",
+            "children": [
+              {
+                "text": "- Identificar parientes específicos afectados",
+                "children": []
+              },
+              {
+                "text": "- Evaluar episodios de ictericia, cálculos biliares",
+                "children": []
+              },
+              {
+                "text": "- Considerar trastornos hemolíticos hereditarios (G6PD, talasemias)",
+                "children": []
+              },
+              {
+                "text": "- Evaluar morfología eritrocitaria en frotis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Mujeres\\NPremenopáusicas",
+            "children": [
+              {
+                "text": "- Deficiencia de hierro común por menstruación/embarazos",
+                "children": []
+              },
+              {
+                "text": "- GR pueden ser microcíticos o normocíticos",
+                "children": []
+              },
+              {
+                "text": "- Obtener estudios de hierro (hierro sérico, TIBC, ferritina, saturación)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Adultos Mayores",
+            "children": [
+              {
+                "text": "- Causas\\Nprincipales:",
+                "children": [
+                  {
+                    "text": "- Deficiencias nutricionales (~1/3)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Enfermedad renal o ACD/AI (~1/3)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inexplicada (~1/3) - posibles trastornos clonales",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Pruebas rutinarias: función renal, estudios de hierro, vitamina B12, folato",
+                "children": []
+              },
+              {
+                "text": "- Pruebas adicionales según contexto",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Malabsorción/Malnutrición",
+            "children": [
+              {
+                "text": "- Deficiencias de hierro, vitamina B12, folato, cobre",
+                "children": []
+              },
+              {
+                "text": "- Cirugía gástrica → malabsorción",
+                "children": []
+              },
+              {
+                "text": "- Suplementos de zinc → deficiencia de cobre",
+                "children": []
+              },
+              {
+                "text": "- Inanición/anorexia nerviosa → necrosis gelatinosa medular",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Enfermedad\\NSistémica Subyacente",
+            "children": [
+              {
+                "text": "- Anemia de enfermedad crónica/inflamación (ACD/AI)",
+                "children": []
+              },
+              {
+                "text": "- GR normocíticos, ocasionalmente microcíticos",
+                "children": []
+              },
+              {
+                "text": "- Estudios de hierro: hierro y saturación bajos, ferritina normal/elevada",
+                "children": []
+              },
+              {
+                "text": "- Condiciones asociadas: cáncer, ERC, enfermedades reumatológicas, hipotiroidismo, infecciones",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN SEGÚN\\NCBC/RECUENTO RETICULOCITARIO",
+        "children": [
+          {
+            "text": "### Pancitopenia",
+            "children": [
+              {
+                "text": "- Examinar frotis sanguíneo",
+                "children": []
+              },
+              {
+                "text": "- Considerar:",
+                "children": [
+                  {
+                    "text": "- Medicamentos, infecciones",
+                    "children": []
+                  },
+                  {
+                    "text": "- Fallo medular (anemia aplásica)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mielodisplasia, mielofibrosis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Trastornos clonales (HPN)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Neoplasias hematológicas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Hiperesplenismo, deficiencias vitamínicas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Citopenias autoinmunes, LHH, MAT",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Recuento de\\NReticulocitos",
+            "children": [
+              {
+                "text": "- Disminuido (o\\Ninapropiadamente bajo):",
+                "children": [
+                  {
+                    "text": "- Deficiencias (hierro, B12, folato, cobre)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Medicamentos supresores medulares",
+                    "children": []
+                  },
+                  {
+                    "text": "- Trastornos medulares primarios",
+                    "children": []
+                  },
+                  {
+                    "text": "- Sangrado muy reciente",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Aumentado:",
+                "children": [
+                  {
+                    "text": "- Hemólisis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Repleción de deficiencias",
+                    "children": []
+                  },
+                  {
+                    "text": "- Recuperación de sangrado",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Hemólisis",
+            "children": [
+              {
+                "text": "- Considerar con caída rápida de Hb + reticulocitos elevados",
+                "children": []
+              },
+              {
+                "text": "- Esquisocitos sugieren destrucción mecánica",
+                "children": []
+              },
+              {
+                "text": "- Esquisocitos + trombocitopenia → posible MAT",
+                "children": []
+              },
+              {
+                "text": "- Causas:",
+                "children": [
+                  {
+                    "text": "- Hereditarias no inmunes",
+                    "children": []
+                  },
+                  {
+                    "text": "- Adquiridas no inmunes",
+                    "children": []
+                  },
+                  {
+                    "text": "- Adquiridas inmunomediadas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## EVALUACIÓN\\NSEGÚN VCM",
+        "children": [
+          {
+            "text": "### Microcitosis\\N(VCM bajo)",
+            "children": [
+              {
+                "text": "- Causas:",
+                "children": [
+                  {
+                    "text": "- Deficiencia de hierro",
+                    "children": []
+                  },
+                  {
+                    "text": "- Talasemia",
+                    "children": []
+                  },
+                  {
+                    "text": "- Anemia de enfermedad crónica/inflamación",
+                    "children": []
+                  },
+                  {
+                    "text": "- Anemia sideroblástica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Intoxicación por plomo",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Evaluación:",
+                "children": [
+                  {
+                    "text": "- Estudios de hierro en todos los pacientes",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pruebas de talasemia si estudios de hierro normales",
+                    "children": []
+                  },
+                  {
+                    "text": "- Niveles de plomo si se observa punteado basófilo",
+                    "children": []
+                  },
+                  {
+                    "text": "- Examen medular para anemia sideroblástica",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Macrocitosis\\N(VCM alto)",
+            "children": [
+              {
+                "text": "- Causas:",
+                "children": [
+                  {
+                    "text": "- Anemia megaloblástica (deficiencias B12, folato, cobre)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Cambios en membrana (enfermedad hepática, alcohol)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Reticulocitosis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Espuria (proteínas/inmunoglobulinas elevadas)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Evaluación:",
+                "children": [
+                  {
+                    "text": "- Niveles de vitamina B12 y folato",
+                    "children": []
+                  },
+                  {
+                    "text": "- TSH, evaluación de consumo de alcohol",
+                    "children": []
+                  },
+                  {
+                    "text": "- Nivel de cobre si neutropenia/neuropatía",
+                    "children": []
+                  },
+                  {
+                    "text": "- Revisión de frotis sanguíneo",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "### Normocítica\\N(VCM normal)",
+            "children": [
+              {
+                "text": "- Causas:",
+                "children": [
+                  {
+                    "text": "- Deficiencias nutricionales tempranas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Múltiples causas combinadas",
+                    "children": []
+                  },
+                  {
+                    "text": "- ACD/AI, ERC, insuficiencia cardíaca",
+                    "children": []
+                  },
+                  {
+                    "text": "- Deficiencias endocrinas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Anemia asociada a cáncer",
+                    "children": []
+                  },
+                  {
+                    "text": "- Trastornos clonales hematopoyéticos",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pérdida sanguínea temprana",
+                    "children": []
+                  },
+                  {
+                    "text": "- Aplasia pura de células rojas",
+                    "children": []
+                  },
+                  {
+                    "text": "- Anemia parcialmente tratada",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Evaluación:",
+                "children": [
+                  {
+                    "text": "- Recuento reticulocitario y panel bioquímico",
+                    "children": []
+                  },
+                  {
+                    "text": "- Estudios de hierro y pruebas de hemólisis",
+                    "children": []
+                  },
+                  {
+                    "text": "- Pruebas adicionales según edad y condiciones médicas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## RESUMEN",
+        "children": [
+          {
+            "text": "- La anemia puede categorizarse según características clínicas, tamaño de GR o producción reticulocitaria",
+            "children": []
+          },
+          {
+            "text": "- La evaluación inicial debe incluir CBC, recuento reticulocitario y panel bioquímico",
+            "children": []
+          },
+          {
+            "text": "- El VCM es útil para dirigir la evaluación diagnóstica",
+            "children": []
+          },
+          {
+            "text": "- La anemia microcítica sugiere defectos en síntesis de hemoglobina",
+            "children": []
+          },
+          {
+            "text": "- La anemia macrocítica sugiere defectos en maduración nuclear",
+            "children": []
+          },
+          {
+            "text": "- La anemia normocítica representa el mayor desafío diagnóstico con múltiples causas potenciales",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1780",
+      "title": "Diagnóstico de Laboratorio\\Nde la Tuberculosis (TB)"
+    },
+    {
+      "id": "map_1783",
+      "title": "Optima dosis y tipo de ejercicio para\\Nmejorar la velocidad de marcha en Párkinson"
+    }
+  ],
+  "source_file": "UTD - Enfoque Diagnóstico de Anemia en Adultos-2025.smmx",
+  "created": "2026-02-07T15:43:00.362489"
+}

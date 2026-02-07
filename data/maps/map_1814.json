@@ -1,0 +1,328 @@
+{
+  "id": "map_1814",
+  "title": "HEMOGLOBINAS INESTABLES Y\\NHEMOGLOBINAS CON AFINIDAD ALTERADA\\NPOR EL OXÍGENO",
+  "specialty": "Cardiología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 70,
+  "root": {
+    "text": "HEMOGLOBINAS INESTABLES Y\\NHEMOGLOBINAS CON AFINIDAD ALTERADA\\NPOR EL OXÍGENO",
+    "children": [
+      {
+        "text": "##\\NHEMOGLOBINAS\\NINESTABLES",
+        "children": [
+          {
+            "text": "### Definición",
+            "children": [
+              {
+                "text": "- Producidas por mutaciones que cambian secuencia de aminoácidos → inestabilidad y precipitación",
+                "children": []
+              },
+              {
+                "text": "- Homotetrámeros de cadenas β (HbH) o γ (Hb Bart) también son inestables (presentes en α-talasemia)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "### Etiología y\\Npatogenia",
+            "children": [
+              {
+                "text": "- Interacciones no covalentes mantienen estructura del tetrámero de Hb",
+                "children": []
+              },
+              {
+                "text": "- Sustituciones o indeles debilitan interacciones → desnaturalización → precipitación → cuerpos de Heinz",
+                "children": []
+              },
+              {
+                "text": "- Cuerpos de Heinz alteran deformabilidad al unirse al citoesqueleto → dificultad para pasar por senos esplénicos",
+                "children": []
+              },
+              {
+                "text": "- \"Deshuesado\" de cuerpos de Heinz → pérdida de membrana → destrucción eritrocitaria → anemia hemolítica",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "### Herencia",
+        "children": [
+          {
+            "text": "- Autosómica dominante",
+            "children": []
+          },
+          {
+            "text": "- Individuos afectados: heterocigotos\\N(combinación de HbA y Hb inestable)",
+            "children": []
+          },
+          {
+            "text": "- No existen homocigotos ni heterocigotos\\Ncompuestos (probablemente letales)",
+            "children": []
+          },
+          {
+            "text": "- >80% de casos:\\Ndefectos en cadena β",
+            "children": []
+          },
+          {
+            "text": "- Defectos en cadena α menos\\Nproblemáticos (4 genes α disponibles)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "### Datos clínicos",
+        "children": [
+          {
+            "text": "- Hemólisis: reticulocitosis,\\Nbilirrubina indirecta alta, LDH alta,\\Nhaptoglobina baja o nula",
+            "children": []
+          },
+          {
+            "text": "- Hemólisis\\Ngeneralmente\\Ncompensada",
+            "children": []
+          },
+          {
+            "text": "- Fármacos oxidantes pueden\\Nprecipitar hemólisis",
+            "children": []
+          },
+          {
+            "text": "- Manifestación según\\Ncadena afectada:",
+            "children": [
+              {
+                "text": "- Mutaciones β: hemólisis post-periodo\\Nneonatal (tras reemplazo de HbF)",
+                "children": []
+              },
+              {
+                "text": "- Mutaciones α: hemólisis\\Ndesde nacimiento",
+                "children": []
+              },
+              {
+                "text": "- Mutaciones γ: hemólisis\\Ntransitoria neonatal",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Hallazgos físicos: palidez,\\Nictericia, esplenomegalia",
+            "children": []
+          },
+          {
+            "text": "- Orina oscura (catabolismo de grupos\\Nhem o cuerpos de Heinz)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "### Datos de laboratorio",
+        "children": [
+          {
+            "text": "- Concentración\\Nintracelular de Hb\\Nvariable",
+            "children": []
+          },
+          {
+            "text": "- Hb sérica normal\\No disminuida",
+            "children": []
+          },
+          {
+            "text": "- Frotis: hipocromía,\\Npoiquilocitosis, policromasia,\\Nanisocitosis, cuerpos de Heinz",
+            "children": []
+          },
+          {
+            "text": "- Cuerpos de Heinz\\Nfrecuentes tras\\Nesplenectomía",
+            "children": []
+          },
+          {
+            "text": "- Reticulocitosis desproporcionada\\Na gravedad de anemia",
+            "children": []
+          },
+          {
+            "text": "- Pruebas diagnósticas:",
+            "children": [
+              {
+                "text": "- Precipitación con isopropanol\\N(sensible pero no específica)",
+                "children": []
+              },
+              {
+                "text": "- Desnaturalización con\\Ncalor (específica)",
+                "children": []
+              },
+              {
+                "text": "- Detección de cuerpos de\\NHeinz (tinción supravital)",
+                "children": []
+              },
+              {
+                "text": "- Electroforesis\\N(utilidad limitada)",
+                "children": []
+              },
+              {
+                "text": "- HPLC fase inversa (para\\Nalgunas variantes)",
+                "children": []
+              },
+              {
+                "text": "- Determinación de afinidad\\Npor oxígeno (P₅₀O₂)",
+                "children": []
+              },
+              {
+                "text": "- Análisis de DNA para\\Nidentificar mutación específica",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "### Diagnóstico\\Ndiferencial",
+        "children": [
+          {
+            "text": "- Anemia hemolítica no\\Nesferocítica hereditaria",
+            "children": []
+          },
+          {
+            "text": "- Falsos positivos en prueba de\\Nisopropanol: HbS,\\Nmetahemoglobinemia, HbF alta",
+            "children": []
+          },
+          {
+            "text": "- HbH y Hb Bart (inestables, confirmables\\Npor pruebas de α-talasemia)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "### Tratamiento",
+        "children": [
+          {
+            "text": "- Evolución\\Ngeneralmente\\Nbenigna",
+            "children": []
+          },
+          {
+            "text": "- Cálculos biliares\\Nfrecuentes →\\Ncolecistectomía",
+            "children": []
+          },
+          {
+            "text": "- Episodios hemolíticos por\\Nfármacos oxidativos o infecciones",
+            "children": []
+          },
+          {
+            "text": "- Generalmente no requiere\\Ntratamiento específico",
+            "children": []
+          },
+          {
+            "text": "- Ácido fólico (beneficio\\Nno demostrado)",
+            "children": []
+          },
+          {
+            "text": "- Esplenectomía útil en algunos\\Ncasos (riesgo de infección por\\Nbacterias encapsuladas)",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## HEMOGLOBINAS CON AFINIDAD\\NALTERADA POR EL OXÍGENO",
+        "children": []
+      },
+      {
+        "text": "### Etiología y\\Npatogenia",
+        "children": [
+          {
+            "text": "- Mutaciones en áreas cruciales\\Nalteran afinidad por oxígeno:",
+            "children": [
+              {
+                "text": "- Estabilización estado T (tenso,\\Ndesoxi) → baja afinidad →\\Ncianosis/anemia leve",
+                "children": []
+              },
+              {
+                "text": "- Estabilización estado R (relajado, oxi)\\No desestabilización estado T → alta\\Nafinidad → eritrocitosis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Alteración unión 2,3-BPG a globinas\\N→ afinidad alta por oxígeno",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "###\\NCaracterísticas\\Nclínicas",
+        "children": [
+          {
+            "text": "- Trastornos\\Nautosómicos\\Ndominantes",
+            "children": []
+          },
+          {
+            "text": "- Asintomáticos si no reciben\\Ntratamiento inapropiado",
+            "children": []
+          },
+          {
+            "text": "- Variantes con\\Nbaja afinidad:",
+            "children": [
+              {
+                "text": "- Anemia compensada sin síntomas\\N(mayor liberación de O₂)",
+                "children": []
+              },
+              {
+                "text": "- Saturación Hb disminuida sin\\Ndefecto cardiopulmonar",
+                "children": []
+              },
+              {
+                "text": "- Eritropoyetina normal\\N(aporte O₂ tisular normal)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Variantes con\\Nalta afinidad:",
+            "children": [
+              {
+                "text": "- Asintomáticos excepto si reciben\\Nflebotomía inapropiada para eritrocitosis",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "### Diagnóstico",
+        "children": [
+          {
+            "text": "- Determinación del P₅₀ en curva\\Nde disociación Hb-O₂",
+            "children": []
+          },
+          {
+            "text": "- Solo 50% detectables\\Npor electroforesis",
+            "children": []
+          },
+          {
+            "text": "- Puede calcularse con sangre\\Nvenosa (pH, PO₂, saturación)",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1807",
+      "title": "ANEMIAS SIDEROBLÁSTICAS\\NHEREDITARIAS Y ADQUIRIDAS"
+    },
+    {
+      "id": "map_1808",
+      "title": "ANEMIA HEMOLÍTICA RELACIONADA CON\\NDEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS"
+    },
+    {
+      "id": "map_1812",
+      "title": "ANEMIA ORIGINADA POR OTRAS\\NDEFICIENCIAS NUTRICIONALES"
+    },
+    {
+      "id": "map_1128",
+      "title": "ANEMIA HEMOLÍTICA RELACIONADA CON DEFECTOS DE LAS ENZIMAS DE LOS ERITROCITOS"
+    },
+    {
+      "id": "map_1151",
+      "title": "ANEMIA ORIGINADA POR OTRAS DEFICIENCIAS NUTRICIONALES"
+    }
+  ],
+  "source_file": "Williams. HEMOGLOBINAS INESTABLES Y HEMOGLOBINAS CON AFINIDAD ALTERADA POR EL OXÍGENO-2025-1.smmx",
+  "created": "2026-02-07T15:42:58.274298"
+}

@@ -1868,9 +1868,31 @@
       "reference": "REGARDS"
     }
   ],
-  "specialty": "General",
+  "specialty": "Geriatría",
   "folder": "- Entidades clínicas/Neurología",
   "filename": "Deterioro Cognitivo Posterior al Ataque Isquémico Transitorio-2025",
   "id": "map_1599",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1107",
+      "title": "Deterioro Cognitivo Vascular (DCV) y Demencia Vascular"
+    },
+    {
+      "id": "map_1603",
+      "title": "Deterioro cognitivo vascular"
+    },
+    {
+      "id": "map_1054",
+      "title": "Evaluación de la Demencia y el Deterioro Cognitivo  UTD 2025"
+    },
+    {
+      "id": "map_1688",
+      "title": "CLARITY-AD (2022)\\NLecanemab in Early Alzheimers Disease\\N\\nLecanemab reduce deterioro cognitivo 27%\\nen EA temprana con amiloide confirmado\\nPrimer anti-amiloide con beneficio clinico claro"
+    },
+    {
+      "id": "map_1793",
+      "title": "Evaluación de la Demencia y\\Nel Deterioro Cognitivo \\N\\\\*UTD 2025 \\\\*"
+    }
+  ]
 }

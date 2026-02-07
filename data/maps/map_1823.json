@@ -1,0 +1,555 @@
+{
+  "id": "map_1823",
+  "title": "Diagnóstico y Tratamiento de Infecciones\\NOportunistas (IO) en Paciente Adulto VIH/SIDA\\N(Chile, Guía SOCHINF 2011)",
+  "specialty": "Infectología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 121,
+  "root": {
+    "text": "Diagnóstico y Tratamiento de Infecciones\\NOportunistas (IO) en Paciente Adulto VIH/SIDA\\N(Chile, Guía SOCHINF 2011)",
+    "children": [
+      {
+        "text": "## Introducción",
+        "children": [
+          {
+            "text": "- Objetivo: Estandarizar manejo IO en Chile, basado en evidencia y experiencia local",
+            "children": []
+          },
+          {
+            "text": "- Alcance: Adaptación guías norteamericanas, excluye fármacos no disponibles/costosos (2011), hepatitis viral, IO tropicales (salvo Chagas)",
+            "children": []
+          },
+          {
+            "text": "- Enfoque: Práctico, conciso, apoyo a médicos (especialmente no especialistas). Incluye nivel evidencia (Tablas 1 y 2)",
+            "children": []
+          },
+          {
+            "text": "- Dinamismo: Prevista actualización regular",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "## Infecciones\\NOportunistas Fúngicas",
+        "children": [
+          {
+            "text": "- Neumonía por\\NPneumocystis jiroveci\\N(PJP)",
+            "children": [
+              {
+                "text": "- Diagnóstico",
+                "children": [
+                  {
+                    "text": "- Clínica: Insuficiencia respiratoria subaguda, fiebre, tos seca. Examen físico anodino.\\NHipoxemia (desaturación esfuerzo). Neumotórax frecuente",
+                    "children": []
+                  },
+                  {
+                    "text": "- Laboratorio: LDH elevada (>3x). PCR baja (si no coinfección)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Imágenes: Rx tórax (infiltrado intersticial bilateral típico, variable). TAC tórax (vidrio esmerilado, árbol en brote)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Microbiología: Muestra respiratoria (esputo inducido, LBA). Tinciones (Giemsa, Gomori - operador dependiente).\\NIFD (más sensible). RPC (PCR) promisoria (considerar colonización)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Coinfección: Frecuente (Neumonía bacteriana, TBC, Sarcoma Kaposi)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento",
+                "children": [
+                  {
+                    "text": "- Inicio Precoz: No esperar confirmación microbiológica",
+                    "children": []
+                  },
+                  {
+                    "text": "- Elección: Cotrimoxazol (SMX/TMP) (AI). IV en graves",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alternativa (alergia): Desensibilización (Tabla 4) o Primaquina + Clindamicina (BII)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Casos Graves (PaO2 < 70): Corticosteroides (Prednisona o Metilprednisolona) x 21 días (AI)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inicio TARV: Precoz (leve/moderada); tras 2 sem tto PJP (grave/VM)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Profilaxis Secundaria: Cotrimoxazol (AI)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Criptococosis\\N(Meningitis/Meningoencefalitis)",
+            "children": [
+              {
+                "text": "- Diagnóstico",
+                "children": [
+                  {
+                    "text": "- Clínica: Principalmente meníngea. Fiebre, cefalea. Signos meníngeos clásicos infrecuentes.\\NHTE frecuente (>20 cmH2O). Posible diseminación (fungemia, piel, pulmón)",
+                    "children": []
+                  },
+                  {
+                    "text": "- LCR: Citoquímico variable (normal a inflamatorio). LCR poco inflamatorio -> riesgo SRI. Tinta china (+ ~70-80%).\\NAntígeno Cryptococcus (látex) muy sensible/específico (LCR/sangre). Cultivo (+) en 3-4 días",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento",
+                "children": [
+                  {
+                    "text": "- Inducción (14 días): Anfotericina B + Fluconazol IV (BI) (Elección Chile 2011: AmB solo - AI)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Consolidación (10 semanas): Fluconazol VO o Itraconazol VO",
+                    "children": []
+                  },
+                  {
+                    "text": "- Mantención (hasta CD4>200 sostenido con TARV): Fluconazol VO o Itraconazol VO",
+                    "children": []
+                  },
+                  {
+                    "text": "- Manejo HTE: PL evacuadora diaria o drenaje LCR",
+                    "children": []
+                  },
+                  {
+                    "text": "- Control LCR: A las 2 semanas para confirmar erradicación",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inicio TARV: Post inducción (2 sem), especialmente graves. Riesgo SRI (30%)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Screening (CD4<100): Antígeno criptocócico sérico (costo-efectivo)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Candidiasis (Orofaríngea / Esofágica)",
+            "children": [
+              {
+                "text": "- Diagnóstico",
+                "children": [
+                  {
+                    "text": "- Clínica: IO frecuente (CD4<200). Marcador respuesta TARV. Orofaríngea (muguet, eritema, queilitis).\\NEsofágica (disfagia, odinofagia) - tto empírico si sospecha, endoscopía si fracaso. Vulvovaginal recurrente",
+                    "children": []
+                  },
+                  {
+                    "text": "- Agentes: C. albicans (principal). C. glabrata / C. krusei (refractario Fluconazol)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Laboratorio: KOH, Cultivo Cromoagar (diferenciar especies)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento",
+                "children": [
+                  {
+                    "text": "- Elección: Fluconazol (AI). 7-14 días",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alternativa Tópica (orofaríngea): Miconazol gel",
+                    "children": []
+                  },
+                  {
+                    "text": "- Casos Refractarios (Candida no-albicans R): AmB, Voriconazol, Caspofungina (CII)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Aspergilosis (Invasora)",
+            "children": [
+              {
+                "text": "- Diagnóstico",
+                "children": [
+                  {
+                    "text": "- Clínica: Subdiagnosticada VIH (hallazgo autopsia 15-25%). CD4<100. Pulmonar (neumonía necrosante, traqueobronquitis) o Aspergiloma. Síntomas respiratorios graves.\\NPosible extrapulmonar (SNC, senos, hueso, piel)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Imágenes: Rx variable. TAC (signo halo, luna creciente)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Microbiología/Histología: Visión hifas septadas dicotómicas + cultivo (+) tejido. Histología confirma invasión",
+                    "children": []
+                  },
+                  {
+                    "text": "- Biomarcador: Galactomanano sérico/LBA",
+                    "children": []
+                  },
+                  {
+                    "text": "- Categorías Diagnósticas: Posible, Probable, Probada (Clínica/Imagen + Galactomanano + Cultivo/Histo)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento",
+                "children": [
+                  {
+                    "text": "- Elección: Voriconazol (BII)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Alternativas: AmB (liposomal), Caspofungina, Itraconazol, Posaconazol",
+                    "children": []
+                  },
+                  {
+                    "text": "- Duración: Hasta resolución + recuperación inmune (CD4>200)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Interacciones Vori-TARV: Contraindicado Ritonavir, Efavirenz",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Infecciones Causadas\\Npor Micobacterias",
+        "children": [
+          {
+            "text": "- Tuberculosis (TBC)",
+            "children": [
+              {
+                "text": "- Diagnóstico",
+                "children": [
+                  {
+                    "text": "- Clínica (VIH): Presentación variable según CD4. CD4>350 similar no VIH (pulmonar apical).\\NCD4 bajo: patrones atípicos, extrapulmonar frecuente (linfática, pleural, pericárdica, meníngea).\\NTBC como SRI posible",
+                    "children": []
+                  },
+                  {
+                    "text": "- LTBI (TBC Latente): PPD (>5mm en VIH) o IGRA (QuantiFERON/T-Spot. TB - más específico)",
+                    "children": []
+                  },
+                  {
+                    "text": "- TBC Activa: Baciloscopía (esputo x3 concentrado). Cultivo (automatizado/LJ - gold standard).\\NADA (extrapulmonar). RPC (PCR - útil si +, no descarta si -). Estudio susceptibilidad siempre",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento",
+                "children": [
+                  {
+                    "text": "- Principios VIH: Terapia más intensiva/prolongada (AI). Propuesta guía difiere norma Chile 2005\\N(4 drogas inducción, fase trisemanal, > duración)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Duración Total Propuesta: 6 meses (pulmonar CD4>100), 9 meses (pulmonar CD4<100, cavitada, extrapulm no grave),\\N12 meses (extrapulm grave SNC/pericardio/osteo)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Fármacos: HIN (con Piridoxina B6), RFP, PZ, ETB. Corticoides (SNC/pericardio)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Inicio TARV: Post fase inducción (especialmente TBC meníngea)",
+                    "children": []
+                  },
+                  {
+                    "text": "- Situaciones Especiales (Tabla 10): Interacciones (RFP vs IP),\\NManejo fracaso/resistencias (HIN-R, RFP-R, MR-TB, ER-TB)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "- Infecciones por Micobacterias\\NNo Tuberculosas (MNT)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Pulmonar (criterios ATS/IDSA 2007 - Tabla 12) o Diseminada (aislamiento sitio estéril). No transmisión persona-persona",
+                "children": []
+              },
+              {
+                "text": "- Mycobacterium avium Complex (MAC)",
+                "children": [
+                  {
+                    "text": "- Diagnóstico: Infección sistémica más frecuente (VIH inmunosupresión grave). Clínica (fiebre, sudoración, baja peso, diarrea, dolor abd).\\NLaboratorio (anemia, ↑FA/GGT). Aislamiento sangre, ganglio, médula ósea",
+                    "children": []
+                  },
+                  {
+                    "text": "- Tratamiento (Tabla 13): Claritromicina + Etambutol (AI) (+/- Rifabutina). Duración ≥ 12 meses. Azitromicina alternativa (AI).\\NInicio TARV tras 2 sem tto MAC",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Mycobacterium kansasii",
+                "children": [
+                  {
+                    "text": "- Diagnóstico: Hallazgo = infección activa VIH",
+                    "children": []
+                  },
+                  {
+                    "text": "- Resistencia Intrínseca: PZ (100%). Posible R HIN",
+                    "children": []
+                  },
+                  {
+                    "text": "- Tratamiento (Tabla 14): RFP + ETB + Claritromicina (o HIN+B6). Duración 18 meses",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Otras MNT (M. abscessus, fortuitum, chelonae, etc.)",
+                "children": [
+                  {
+                    "text": "- General: Inhabituales, desafío terapéutico.\\NTratamiento multi-fármaco prolongado según especie/antibiograma",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Infecciones Bacterianas /\\NSífilis / Bartonella sp",
+        "children": [
+          {
+            "text": "- Infecciones Bacterianas\\NRespiratorias (NAC)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Más frecuentes VIH. Mayor riesgo bacteriemia (S. pneumo), P. aeruginosa,\\NS. aureus. Atípicos inhabituales. DD TBC. Hemocultivos, cultivo esputo",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 16): B-lactámico + Macrólido (AI). Alternativa Quinolona respiratoria.\\NAjustar según agente/gravedad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Infecciones\\NBacterianas Entéricas",
+            "children": [
+              {
+                "text": "- Diagnóstico: Mayor incidencia VIH. Clínica variable (leve a disentería/bacteriemia/extraintestinal).\\NPeor pronóstico CD4<100. Coprocultivo, Hemocultivos",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 17): Fluoroquinolonas (Ciprofloxacino) elección (AIII).\\NAlternativas (Ceftriaxona, Azitromicina)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Sífilis y Neurolúes",
+            "children": [
+              {
+                "text": "- Diagnóstico: Clínica + Serología\\N(VDRL/RPR + Treponémica FTA-ABS/MHA-TP).",
+                "children": [
+                  {
+                    "text": "Etapas: Primaria (chancro), Secundaria (rash palmo-plantar), Latente (temprana/tardía), Terciaria (gomas, cardiovascular, neuro).\\NNeurolúes (cualquier etapa, clínica variable/asintomática, VDRL LCR+, LCR alterado/normal).",
+                    "children": []
+                  },
+                  {
+                    "text": "PL indicada sífilis tardía / VIH CD4<350+VDRL≥1:32",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "- Tratamiento (Tabla 18): Penicilina (elección, AII). Dosis/vía según etapa (PNC Benzatina IM vs PNC Cristalina IV para neurosífilis). Alternativas (Ceftriaxona, Doxiciclina).\\NSeguimiento VDRL",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Bartonelosis (B. quintana / B. henselae)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Sospecha epidemiológica. Clínica (Angiomatosis bacilar, Peliosis hepática, Endocarditis).\\NConfirmación (Histología, Serología IgG, RPC)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 19): Doxiciclina o Eritromicina/Claritromicina (AII). Ceftriaxona + Genta + Doxi (Endocarditis)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Infecciones\\NParasitarias",
+        "children": [
+          {
+            "text": "- Toxoplasmosis Cerebral (TC)",
+            "children": [
+              {
+                "text": "- Diagnóstico: CD4<50. Clínica (focalidad neurológica, cefalea, convulsiones).\\NImágenes (TAC/RM): lesiones múltiples (típico) o únicas, captación anillo regular.\\NDD Linfoma SNC. IgG Toxoplasma (+). RPC LCR (baja S). \\NPrueba terapéutica habitual. Biopsia si no respuesta",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 20): Elección clásica: Pirimetamina + Sulfadiazina + Ác. Folínico (AI). \\NElección alternativa igual eficacia: Cotrimoxazol (SMX/TMP) (AII) (disponible IV). Duración 6 sem -> mantención",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Infecciones Parasitarias Intestinales",
+            "children": [
+              {
+                "text": "- Diagnóstico: Diarrea crónica (CD4 bajo). Coproparasitológico directo. Tinción especial Microsporidium",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 21): TARV fundamental. Criptosporidium (sin tto específico). Isospora (Cotrimoxazol elección AI). Microsporidium (Albendazol)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Enfermedad de Chagas (Trypanosoma cruzi)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Reactivación (CD4<200). Clínica SNC (meningoencefalitis, masas) o Miocarditis.\\NIdentificación parásito (sangre/LCR/biopsia). RPC LCR monitoriza. Serología",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 22): Benznidazol (elección, BIII) (no Chile 2011). Alternativa Nifurtimox (CII)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "## Infecciones Virales",
+        "children": [
+          {
+            "text": "- Infección por Virus Herpes Simplex (VHS) 1 y 2",
+            "children": [
+              {
+                "text": "- Diagnóstico: Clínico (úlceras orales/genitales dolorosas, recurrentes). Complicaciones (queratitis, encefalitis).\\NEncefalitis Herpética (diagnóstico LCR RPC + imágenes)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 23): Aciclovir (elección, AII). Valaciclovir alternativa. Foscarnet (resistencia)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Herpes Zoster (Virus Varicela-Zoster - VZV)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Clínico (erupción dermatómica vesicular dolorosa). Complicaciones\\N(NPH, diseminación SNC, Necrosis Retinal Externa Progresiva - PORN en CD4<100)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 24): Aciclovir (elección, AII). Valaciclovir alternativa. Tto precoz crucial en complicaciones",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Infección por Citomegalovirus (CMV)",
+            "children": [
+              {
+                "text": "- Diagnóstico: CD4<100. Clínica: Retinitis (más frecuente, riesgo ceguera), Colitis, Esofagitis, Encefalitis, Polirradiculopatía.\\NDiagnóstico: Fondo ojo experto (retinitis), Biopsia (colitis/esofagitis), Antigenemia pp65, RPC CMV sangre/fluidos",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 25): Ganciclovir IV o Valganciclovir VO (AI). Inducción -> Mantención (retinitis)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Infecciones por Virus Herpes Humano 8 (VHH-8) y Sarcoma de Kaposi (SK)",
+            "children": [
+              {
+                "text": "- Diagnóstico: SK (lesiones cutáneas/mucosas/viscerales rojo-violáceas, diagnóstico biopsia piel).\\NAsociado a PEL, Enf. Castleman Multicéntrica (MCD)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 26): TARV pilar fundamental SK. Quimioterapia (SK extenso/visceral).\\NRol antivirales (Ganciclovir) discutido SK, más útil PEL/MCD (BII)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Leucoencefalopatía Multifocal Progresiva (LMP)\\Npor Virus JC",
+            "children": [
+              {
+                "text": "- Diagnóstico: Clínica (déficit neurológico progresivo asimétrico). RM cerebral (lesiones sustancia blanca hiperintensas T2/FLAIR).\\NRPC Virus JC en LCR (+ confirma)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento: No antiviral específico. Optimizar TARV (fármacos buena penetración SNC)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "- Infecciones por Virus Papiloma Humano (VPH)",
+            "children": [
+              {
+                "text": "- Diagnóstico: Clínico (verrugas/condilomas genitales/perianales). Riesgo oncológico (cáncer cérvix, etc.).\\NScreening ginecológico (Papanicolau)",
+                "children": []
+              },
+              {
+                "text": "- Tratamiento (Tabla 27): Tópico (Podofilina, Imiquimod - BII). Ablativo (Crioterapia, cauterización, cirugía)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    }
+  ],
+  "source_file": "09. Diagnóstico y Tratamiento de Infecciones Oportunistas (IO) en Paciente Adulto VIH:SIDA (Chile, Guía SOCHINF-2025-1.smmx",
+  "created": "2026-02-07T15:42:58.696694"
+}

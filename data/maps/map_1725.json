@@ -1,0 +1,894 @@
+{
+  "id": "map_1725",
+  "title": "HIPONATREMIA -\\NTRATAMIENTO ESTÁNDAR 2024",
+  "specialty": "Nefrología",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 198,
+  "root": {
+    "text": "HIPONATREMIA -\\NTRATAMIENTO ESTÁNDAR 2024",
+    "children": [
+      {
+        "text": "CONCEPTOS\\NBÁSICOS",
+        "children": [
+          {
+            "text": "Dx → eval continua Na sérico + volumen + toxicidad + factores predisponentes/agravantes",
+            "children": []
+          },
+          {
+            "text": "Tipo más común → alteración electrolitos hospital",
+            "children": []
+          },
+          {
+            "text": "↑ morbi-mortalidad + estancia + costes",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "CLASIFICACIÓN\\N& TRATAMIENTO",
+        "children": [
+          {
+            "text": "A. HIPONATREMIA SEVERA\\N→ Tto inmediato:",
+            "children": [
+              {
+                "text": "Sol. salina hipertónica 3%",
+                "children": [
+                  {
+                    "text": "Bolus/infusión continua",
+                    "children": []
+                  },
+                  {
+                    "text": "Duración/magnitud → según ↑Na necesario + mejoría síntomas",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "B. HIPONATREMIA\\NCRÓNICA",
+            "children": [
+              {
+                "text": "→ Síntomas leves",
+                "children": []
+              },
+              {
+                "text": "→ Clasificación: leve-moderada según Na",
+                "children": []
+              },
+              {
+                "text": "→ Tto basado vol final",
+                "children": [
+                  {
+                    "text": "Hipovolémica:\\Nreposición vol (iv/oral)",
+                    "children": [
+                      {
+                        "text": "Na + agua",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "C. HIPONATREMIA\\NHIPERVOLÉMICA",
+            "children": [
+              {
+                "text": "→ Causas: ICC + enf hepática + sínd nefrótico",
+                "children": []
+              },
+              {
+                "text": "→ ↑ vol extracelular → ↑ HAD",
+                "children": []
+              },
+              {
+                "text": "→ Tto:",
+                "children": [
+                  {
+                    "text": "1ª línea: restricción fluidos",
+                    "children": []
+                  },
+                  {
+                    "text": "2ª línea: diuréticos asa",
+                    "children": [
+                      {
+                        "text": "Tolvaptán = antag-V2 → elección",
+                        "children": []
+                      },
+                      {
+                        "text": "Riesgo sobrecorrección → monitorizar",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CONSIDERACIONES\\NESPECIALES",
+        "children": [
+          {
+            "text": "Infusión 3% →\\N100-150 ml/h",
+            "children": [
+              {
+                "text": "Ajuste FR según Na",
+                "children": []
+              },
+              {
+                "text": "No respuesta FR → eval SIADH",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Urea oral → opción efectiva/segura",
+            "children": []
+          },
+          {
+            "text": "Monitorización cercana → evitar sobrecorrección",
+            "children": []
+          },
+          {
+            "text": "FR inicial + ajuste Na → ingesta adecuada sol/prot",
+            "children": []
+          },
+          {
+            "text": "SIADH → Causa común hipona euvolémica leve-mod\\N→ Tto causal → Guías EU/USA:",
+            "children": [
+              {
+                "text": "1ª línea: restricción fluidos",
+                "children": []
+              },
+              {
+                "text": "2ª línea: diuréticos asa",
+                "children": [
+                  {
+                    "text": "Vaptanes: opción basada evidencia",
+                    "children": []
+                  },
+                  {
+                    "text": "No evidencia suplementos",
+                    "children": []
+                  },
+                  {
+                    "text": "Inhib SGLT2 → alternativa vs placebo",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "EPIDEMIOLOGÍA",
+        "children": [
+          {
+            "text": "↑ prevalencia: UCI (20-35%) → Ancianos → ↑ mortalidad x comorbilidades → ECV/HF (20%)",
+            "children": []
+          },
+          {
+            "text": "Causas frecuentes: → Hemorragia subaracnoidea → Prescripción inadecuada → ↓ conocimiento médicos riesgos",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "DURACIÓN &\\NCLASIFICACIÓN",
+        "children": [
+          {
+            "text": "A. AGUDA ",
+            "children": [
+              {
+                "text": "→ <48h → Post-op común → Intox H2O → Sintomática severa",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "B. CRÓNICA",
+            "children": [
+              {
+                "text": "→ ≥48h",
+                "children": []
+              },
+              {
+                "text": "→ Asintomática usual",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "GRADOS\\NSEVERIDAD",
+        "children": [
+          {
+            "text": "Severa: Na <120 mmol/l",
+            "children": []
+          },
+          {
+            "text": "Moderada: Na 120-129 mmol/l",
+            "children": []
+          },
+          {
+            "text": "Leve: Na 130-134 mmol/l",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "SINTOMATOLOGÍA ",
+        "children": [
+          {
+            "text": "A. SEVERA",
+            "children": [
+              {
+                "text": "→ Convulsiones → Coma → Parada respiratoria",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "B. LEVE-MODERADA",
+            "children": [
+              {
+                "text": "→ Cefalea",
+                "children": []
+              },
+              {
+                "text": "→ Letargia",
+                "children": []
+              },
+              {
+                "text": "→ Fatiga",
+                "children": []
+              },
+              {
+                "text": "→ Mareos",
+                "children": []
+              },
+              {
+                "text": "→ Náuseas",
+                "children": []
+              },
+              {
+                "text": "→ Vómitos",
+                "children": []
+              },
+              {
+                "text": "→ Confusión",
+                "children": []
+              },
+              {
+                "text": "→ Alt. marcha",
+                "children": []
+              },
+              {
+                "text": "→ Calambres",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "MONITORIZACIÓN",
+        "children": [
+          {
+            "text": "Hospitalización frecuente",
+            "children": [
+              {
+                "text": "Control: → Na sérico → Diuresis → Estado neurológico",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "Toxicidad: → Eval movimiento H2O\\N→ Osmolaridad:",
+            "children": [
+              {
+                "text": "Hipotónica: <275 mOsm/kg",
+                "children": []
+              },
+              {
+                "text": "Isotónica: 275-290 mOsm/kg",
+                "children": []
+              },
+              {
+                "text": "Hipertónica: >290 mOsm/kg",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPONATREMIA - ESTRATEGIAS\\NPERSONALIZACIÓN TRATAMIENTO (3)",
+        "children": [
+          {
+            "text": "DIAGNÓSTICO\\NINICIAL",
+            "children": [
+              {
+                "text": "→ Esencial\\Nconfirmar:",
+                "children": [
+                  {
+                    "text": "Hiponatremia aguda severa",
+                    "children": []
+                  },
+                  {
+                    "text": "Na <125 + síntomas",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "→ Evaluar:",
+                "children": [
+                  {
+                    "text": "Toxicidad",
+                    "children": []
+                  },
+                  {
+                    "text": "Estado volumen",
+                    "children": []
+                  },
+                  {
+                    "text": "Causa subyacente",
+                    "children": []
+                  },
+                  {
+                    "text": "Pronóstico",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO\\NESPECÍFICO",
+            "children": [
+              {
+                "text": "A. HIPONATREMIA\\NSEVERA",
+                "children": [
+                  {
+                    "text": "Bolus repetidos: → 100-150ml/2-4 ml/kg → SSH 3% en 20-40min → Hasta Na objetivo",
+                    "children": []
+                  },
+                  {
+                    "text": "Alt: Infusión continua → 0.5-1 ml/kg/h → Debate beneficio vs bolus",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "B. HIPONATREMIA\\NHIPOVOLÉMICA LEVE-MOD",
+                "children": [
+                  {
+                    "text": "Reposición volumen: → SF 0.9% IV: 25-30 ml/kg/d\\N→ Alt oral: Na 9g (≈1L SF) → + comidas/fluidos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "C. HIPONATREMIA\\NHIPERVOLÉMICA",
+                "children": [
+                  {
+                    "text": "1ª línea: → Restricción fluidos → Excepción: diuréticos sobredosis",
+                    "children": []
+                  },
+                  {
+                    "text": "2ª línea: → Diuréticos asa\\N→ Tolvaptán:",
+                    "children": [
+                      {
+                        "text": "Dosis inicial: 15mg",
+                        "children": []
+                      },
+                      {
+                        "text": "↑ lento Na",
+                        "children": []
+                      },
+                      {
+                        "text": "Monitorizar si + diuréticos",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "Opciones adicionales: → Albúmina: hepatopatía avanzada\\N→ Inhib-SGLT2: ICC (evidencia limitada)",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "SIADH",
+            "children": [
+              {
+                "text": "Pre-tto: excluir otras causas",
+                "children": []
+              },
+              {
+                "text": "FR = eficacia cuestionable",
+                "children": []
+              },
+              {
+                "text": "\"Beber solo si sed\" = efectivo",
+                "children": []
+              },
+              {
+                "text": "Corrección muy lenta Na",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPONATREMIA SEVERA -\\NALGORITMO TRATAMIENTO (4)",
+        "children": [
+          {
+            "text": "CRITERIO INICIO → Na sérico <125 mmol/l",
+            "children": []
+          },
+          {
+            "text": "PRIMERA LÍNEA\\N→ SSH 3%:",
+            "children": [
+              {
+                "text": "Bolus: 100-150 ml / 20-40 min",
+                "children": []
+              },
+              {
+                "text": "Alt: Infusión continua 0.5-1 ml/kg/h",
+                "children": []
+              },
+              {
+                "text": "MONITORIZACIÓN RESPUESTA\\N→ Medición ↑Na:",
+                "children": [
+                  {
+                    "text": "A. <4 mmol/l:",
+                    "children": [
+                      {
+                        "text": "Repetir bolus SSH 3%",
+                        "children": []
+                      },
+                      {
+                        "text": "Intervalos 20-40 min",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "B. 4-6 mmol/l:",
+                    "children": [
+                      {
+                        "text": "Suspender SSH 3%",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "C. >6 mmol/l:",
+                    "children": [
+                      {
+                        "text": "Suspender SSH 3%",
+                        "children": []
+                      },
+                      {
+                        "text": "Considerar: \\N→ Objetivo: ↓1mmol/l Na",
+                        "children": [
+                          {
+                            "text": "→ Desmopresina 1mcg sc/iv/8h\\N→ Glucosa sol 4 ml/kg",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "CONSIDERACIONES",
+            "children": [
+              {
+                "text": "Sobrecorrección = ↑Na >12-18 mmol/l en 24-48h",
+                "children": []
+              },
+              {
+                "text": "RIB vs SCI: → Similar eficacia\\N→ RIB:",
+                "children": [
+                  {
+                    "text": "↓ retratamientos",
+                    "children": []
+                  },
+                  {
+                    "text": "↑ eficacia Na 1ª hora",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Preferencia: → SSH 3% bolus/infusión\\N→ Hipokalemia: añadir KCl 20mmol/500ml",
+                "children": []
+              },
+              {
+                "text": "Monitorización: → c/2h inicial → K/Na post-corrección →\\NDiuresis → Riesgo ODS",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "OPCIONES FARMACOLÓGICAS HIPONATREMIA\\N- TABLA COMPARATIVA (5)",
+        "children": [
+          {
+            "text": "ISOTONICAS/SUERO\\NSALINO",
+            "children": [
+              {
+                "text": "Indicación: hiponatremia hipovolémica",
+                "children": []
+              },
+              {
+                "text": "Dosis: 25-50 ml/kg",
+                "children": []
+              },
+              {
+                "text": "TFG: sin límite",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: hiponatremia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SSH 3%",
+            "children": [
+              {
+                "text": "Indicación: hiponatremia severa",
+                "children": []
+              },
+              {
+                "text": "Dosis: 2-4 ml/kg + bolus",
+                "children": []
+              },
+              {
+                "text": "TFG: sin límite",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: hiponatremia",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "DIURÉTICOS ASA",
+            "children": [
+              {
+                "text": "Indicación: SIADH → Hipervolémica → Post-restricción fluidos",
+                "children": []
+              },
+              {
+                "text": "Dosis: 20-40mg/12h",
+                "children": []
+              },
+              {
+                "text": "TFG: >20-30 ml/min",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: 2-4 mmol/l/4h 1º día",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "VAPTANES",
+            "children": [
+              {
+                "text": "Indicación: SIADH → Hipovolémica/hipervolémica",
+                "children": []
+              },
+              {
+                "text": "Dosis: 15-60mg",
+                "children": []
+              },
+              {
+                "text": "TFG: >15 ml/min",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: → 4-6 mmol/l/24h → Progresivo SIADH",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "UREA",
+            "children": [
+              {
+                "text": "Indicación: SIADH",
+                "children": []
+              },
+              {
+                "text": "Dosis: 15-90 g",
+                "children": []
+              },
+              {
+                "text": "TFG: >30 ml/min",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: → 4-6 mmol/l/1-7 días → ICC eficacia desigual",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "INHIB-SGLT2",
+            "children": [
+              {
+                "text": "Indicación: SIADH",
+                "children": []
+              },
+              {
+                "text": "Dosis: 10-25 mg",
+                "children": []
+              },
+              {
+                "text": "TFG: >60 ml/min hasta 250 ml/min",
+                "children": []
+              },
+              {
+                "text": "Respuesta Na: hiponatremia",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "HIPONATREMIA LEVE-MODERADA -\\NALGORITMO TRATAMIENTO (6)",
+        "children": []
+      },
+      {
+        "text": "CLASIFICACIÓN\\NVOLUMEN",
+        "children": [
+          {
+            "text": "A. HIPOVOLEMIA",
+            "children": [
+              {
+                "text": "→ sNa <130 mmol/l:",
+                "children": [
+                  {
+                    "text": "Causas renales → sNa >130 mmol/l:",
+                    "children": []
+                  },
+                  {
+                    "text": "Causas no renales",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "B. EUVOLEMIA",
+            "children": [
+              {
+                "text": "→ SIADH:",
+                "children": [
+                  {
+                    "text": "Descartar: tiroides/suprarrenal",
+                    "children": []
+                  },
+                  {
+                    "text": "Medir: plasma/orina Osm",
+                    "children": []
+                  },
+                  {
+                    "text": "Evaluar: nutrición",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "C. HIPERVOLEMIA",
+            "children": [
+              {
+                "text": "→ sNa <130 mmol/l:",
+                "children": [
+                  {
+                    "text": "Causas renales",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "Diuréticos no renales\\N→ sNa >130 mmol/l:",
+                "children": [
+                  {
+                    "text": "ICC",
+                    "children": []
+                  },
+                  {
+                    "text": "Hepatopatía",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "INTERVENCIONES\\NSEGÚN VOLUMEN",
+        "children": [
+          {
+            "text": "A. HIPOVOLEMIA",
+            "children": [
+              {
+                "text": "Suspender diuréticos",
+                "children": []
+              },
+              {
+                "text": "Si K+ bajo: → Evaluar mineralocorticoides →\\NAntiinflamatorios si necesario → Tto causal",
+                "children": []
+              },
+              {
+                "text": "Suplementación volumen: → SF 0.9% →\\NAlt: Na oral + comidas 9g/día",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "B. EUVOLEMIA",
+            "children": [
+              {
+                "text": "Restricción fluidos si: → Diuresis <500ml o → Na urinario <30mmol/l",
+                "children": []
+              },
+              {
+                "text": "Terapia escalonada: → Diuréticos asa inicio → Tolvaptán 7.5-15mg/día\\N→ Monitorizar Na → SGLT2i 25mg/día → Control Na/K dieta",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "C. HIPERVOLEMIA",
+            "children": [
+              {
+                "text": "Restricción fluidos: → Solo si sed → Furosemida 25-40mg/12-24h →\\NNa/K c/2-4h → Sal 3-5g/día → ↑Na máx 2mmol/día → Urea 15-60mg/día",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "CONCLUSIONES\\NHIPONATREMIA 2024 (7)",
+        "children": [
+          {
+            "text": "EPIDEMIOLOGÍA",
+            "children": [
+              {
+                "text": "Alteración electrolítica + común hospital",
+                "children": []
+              },
+              {
+                "text": "↑ morbi-mortalidad corto/largo plazo",
+                "children": []
+              },
+              {
+                "text": "↑ estancia/costes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "TRATAMIENTO INICIAL",
+            "children": [
+              {
+                "text": "SSH 3%: → Bolus 100ml IV vs infusión continua → Según severidad/persistencia síntomas →\\NMonitorización bioquímica frecuente",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "PREFERENCIAS TTO",
+            "children": [
+              {
+                "text": "Hipertónico intermitente rápido → preferido sintomáticos",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "SIADH",
+            "children": [
+              {
+                "text": "50% no respuesta FR 1ª línea",
+                "children": []
+              },
+              {
+                "text": "Opciones 2ª línea efectivas: → Urea → Tolvaptán",
+                "children": []
+              },
+              {
+                "text": "Evidencia limitada secuencia tto",
+                "children": []
+              },
+              {
+                "text": "Empagliflozina: → RCT reciente (n=14) → ↑Na 131→134 mmol/l → Buena tolerancia → Pendiente confirmar beneficios",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CONSIDERACIONES\\NCLÍNICAS",
+            "children": [
+              {
+                "text": "Tto personalizado: → Hiponatremia leve-mod sintomática → Ingesta adecuada (sal/proteína) → FR inicial + ajuste Na",
+                "children": []
+              },
+              {
+                "text": "Evaluación paciente: → Estado volumen euvolémico/hipervolémico → Alta actividad ADH\\N→ Monitorización estrecha:",
+                "children": [
+                  {
+                    "text": "Fluidos hipotónicos",
+                    "children": []
+                  },
+                  {
+                    "text": "Desmopresina",
+                    "children": []
+                  },
+                  {
+                    "text": "Corrección gradual > rápida normalización Na",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    }
+  ],
+  "source_file": "Hiponatremia-2024.smmx",
+  "created": "2026-02-07T15:42:54.143798"
+}

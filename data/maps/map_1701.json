@@ -1,0 +1,68 @@
+{
+  "id": "map_1701",
+  "title": "SAVE Score (2015)\\NSurvival After Veno-arterial ECMO\\N\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "SAVE Score (2015)\\NSurvival After Veno-arterial ECMO\\N\\nScore pronostico para sobrevida\\nen VA-ECMO por shock cardiogenico\\nPredice mortalidad hospitalaria",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nSchmidt M, et al.\\nEur Heart J 2015;36:2246-56\\NDOI: 10.1093/eurheartj/ehv194\\N\\nRegistro ELSO internacional\\nDerivacion y validacion",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nDerivacion: n=3,846\\nValidacion: n=1,601\\n\\nAdultos con VA-ECMO por shock cardiogenico\\n(excluye ECPR)\\n\\nEdad media: 52 años\\nMortalidad global: 58%",
+        "children": []
+      },
+      {
+        "text": "VARIABLES SAVE\\N\\nSuman puntos:\\n+ Miocarditis: +3\\n+ Post trasplante/VAD: +3\\n+ Otros: segun causa\\n\\nRestan puntos:\\n- Edad (por decada desde 18a): -2\\n- Peso mayor 117kg: -2\\n- Falla hepatica: -3\\n- Disfuncion SNC: -3\\n- IRA pre-ECMO: -3\\n- VM mayor 10h: -2\\n- PAD baja pre-ECMO: -2\\n- HCO3 bajo: -3\\n- Lactato elevado: -2 a -7",
+        "children": []
+      },
+      {
+        "text": "INTERPRETACION\\N\\nScore y sobrevida:\\nClase I (mayor o igual 5): 75%\\nClase II (-4 a 4): 58%\\nClase III (-9 a -5): 42%\\nClase IV (-14 a -10): 30%\\nClase V (menor -14): 18%\\N\\nAUC: 0.68",
+        "children": []
+      },
+      {
+        "text": "UTILIDAD CLINICA\\N\\n- Seleccion candidatos ECMO\\n- Comunicacion pronostica\\n- Toma decisiones equipo\\n- Comparacion entre centros\\n- Investigacion y registros",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Datos de registro (no RCT)\\n- Pre-ECMO: no captura evolucion\\n- No incluye complicaciones ECMO\\n- AUC moderada\\n- Ancianos subrepresentados\\n- No validado especificamente mayor 75a",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Edad penaliza score (-2/decada)\\n- Mayor 70a: considerar cuidadosamente\\n- Fragilidad no incluida explicitamente\\n- Discusion ACP antes si electivo\\n- Sobrevida baja en muy ancianos\\n- Considerar metas del paciente",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Score clase V: sobrevida solo 18%\\n2. Edad avanzada penaliza significativamente\\n3. Lactato es predictor fuerte\\n4. Miocarditis: mejor pronostico\\n5. IRA pre-ECMO: mal pronostico\\n6. Usar para discusion equipo\\n7. No reemplaza juicio clinico\\n8. Fragilidad debe considerarse aparte\\n9. ECMO en muy ancianos: excepcional\\n10. Tomar decisiones con familia temprano",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1671",
+      "title": "ICE-FRAIL (2024)\\N\\n⭐ Fragilidad predice mortalidad UCI\\N\\nCFS mejor que APACHE/SOFA solos"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1089",
+      "title": "Fragilidad UTD 2024"
+    },
+    {
+      "id": "map_1063",
+      "title": "Fragilidad y sarcopenia Dra. Meneses 2024"
+    },
+    {
+      "id": "map_728",
+      "title": "Parte I. Fragilidad y conceptos relacionados: una visión general"
+    }
+  ],
+  "source_file": "SAVE-Score-2026.smmx",
+  "created": "2026-02-07T15:42:53.506589"
+}

@@ -652,5 +652,27 @@
   "folder": "- Entidades clínicas/Neurología",
   "filename": "08. Aciclovir (ACV) versus Valaciclovir (VACV)-2025",
   "id": "map_1640",
-  "resolved_references": []
+  "resolved_references": [],
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1682",
+      "title": "ARISTOTLE (2011)\\NApixaban vs Warfarin in AF\\N\\nApixaban superior a warfarina en FA:\\nReduce ACV 21%, sangrado mayor 31%, mortalidad 11%\\nMejor perfil general vs warfarina"
+    },
+    {
+      "id": "map_1707",
+      "title": "SHEP (1991)\\NSystolic Hypertension in\\nthe Elderly Program\\N\\n⭐ Tratar HTA sistólica aislada\\Nen mayores de 60 años\\NREDUCE ACV 36%"
+    },
+    {
+      "id": "map_1712",
+      "title": "BAFTA (2007)\\NBirmingham Atrial Fibrillation\\NTreatment of the Aged\\N\\n⭐ Warfarina SUPERIOR a aspirina\\Nen prevención ACV en FA\\Nmayores de 75 años"
+    },
+    {
+      "id": "map_1713",
+      "title": "Syst-Eur (1997)\\NSystolic Hypertension\\Nin Europe Trial\\N\\n⭐ Nitrendipino (BCC) reduce\\nACV 42% en HTA sistólica\\naislada en ancianos"
+    }
+  ]
 }

@@ -1,0 +1,523 @@
+{
+  "id": "map_1747",
+  "title": "Antifúngicos: De la Farmacocinética\\Na la Práctica Clínica",
+  "specialty": "General",
+  "tag": "📋 Guía Clínica",
+  "node_count": 116,
+  "root": {
+    "text": "Antifúngicos: De la Farmacocinética\\Na la Práctica Clínica",
+    "children": [
+      {
+        "text": "- Introducción",
+        "children": [
+          {
+            "text": "› Historia Antifúngicos: Inicio 1950s (Poliénos: Nistatina, Natamicina, Amfotericina B - AmB ★). AmB pilar tto. IFI sistémicas ★.",
+            "children": []
+          },
+          {
+            "text": "› Limitaciones Fármacos Existentes: EA AmB -> desarrollo nuevos (azoles, pirimidinas, etc.). ★ Nuevos fármacos también con limitaciones (EA, vía admón., resistencia). ★",
+            "children": []
+          },
+          {
+            "text": "› Contexto Actual: Aumento infecciones fúngicas (especialmente IFI sistémicas ★). Dificultad diagnóstico/tratamiento. ★",
+            "children": []
+          },
+          {
+            "text": "› Lista OMS Patógenos Fúngicos Prioritarios (2022) ★: Alerta incidencia/mortalidad IFI. Necesidad uso racional fármacos existentes y desarrollo nuevos. ★",
+            "children": []
+          },
+          {
+            "text": "› Objetivo Artículo: Revisión historia, clasificación, mecanismo acción, PK/PD, uso clínico antifúngicos. Resistencia fúngica. Rol TDM/Farmacogenómica. Nuevos antifúngicos. ★",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "- Los Hongos entre Nosotros\\Ny sus Características",
+        "children": [
+          {
+            "text": "› Definición y Tipos: Eucariotas. Levaduras ★, Mohos ★, Dimórficos ★.",
+            "children": []
+          },
+          {
+            "text": "› Clasificación: Compleja. Basada en fisiología, morfología, filogenética/secuenciación actual\\N(\"One fungus = One name\") ★.",
+            "children": []
+          },
+          {
+            "text": "› Hongos\\NImportancia Médica:",
+            "children": [
+              {
+                "text": "◊ Levaduras: Candida sp ★, Cryptococcus sp ★, Malassezia sp ★, Trichosporon sp ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Mohos: Aspergillus sp ★, Fusarium sp ★, Scedosporium sp ★, Zygomycetes (Mucorales) ★.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Estructura Célula Fúngica\\N(Dianas Terapéuticas) ★:\\N(Ver Figura 1)",
+            "children": [
+              {
+                "text": "◊ Pared Celular ★: Quitina ★, Glucanos (β-1,3-D-glucano ★ - Diana Equinocandinas ★), Mananos.",
+                "children": []
+              },
+              {
+                "text": "◊ Membrana Plasmática ★: Ergosterol ★\\N(principal esterol fúngico).",
+                "children": [
+                  {
+                    "text": "• Diana Polienos (AmB, Nistatina) ★: Se unen a Ergosterol -> alteran integridad.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Diana Inhibidores Síntesis Ergosterol:\\NVía biosintética compleja.",
+                    "children": [
+                      {
+                        "text": "▪ Escualeno epoxidasa -> Alilaminas (Terbinafina) ★.",
+                        "children": []
+                      },
+                      {
+                        "text": "▪ Lanosterol 14α-demetilasa (CYP51) -> Azoles ★.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Problemas Terapéuticos Actuales: Toxicidad (similaridad células huésped) ★, Huésped inmunocomprometido ★, Cambios epidemiología ★, Resistencia antifúngica ★.",
+            "children": []
+          },
+          {
+            "text": "› Epidemiología\\NRelevante:",
+            "children": [
+              {
+                "text": "◊ Candidemia ★: Alta incidencia/mortalidad (especialmente UCI). Asociada cuidados salud. Retraso tto empeora pronóstico ★.\\NAumento C. non-albicans y C. auris ★ (resistente/pan-resistente).",
+                "children": []
+              },
+              {
+                "text": "◊ Aspergilosis Invasiva ★: Alta mortalidad. Resistencia emergente (Aspergillus sp). ★",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Fármacos Antifúngicos y Uso Clínico\\N★ (Ver Figura 2 y Tabla 1)",
+        "children": [
+          {
+            "text": "› Polienos ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Unión Ergosterol -> poros membrana -> lisis (fungicida) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Fármacos: Nistatina ★ (tópica), Natamicina ★ (tópica), Amfotericina B (AmB) Desoxicolato ★ (histórica, tóxica), AmB Liposomal (L-AmB) ★ (reduce nefrotoxicidad).",
+                "children": []
+              },
+              {
+                "text": "◊ PK/PD (AmB): IV (pobre VO). Amplia distrib (pobre SNC). Metab hepático lento. Cmax/MIC ★. EPA largo ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Espectro (AmB): Amplio (Candida, Cryptococcus, Aspergillus, Mucorales, Dimórficos) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Resistencia (AmB): Rara ★. A. terreus intrínsecamente R ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Usos (L-AmB): IFI graves ★.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Flucitosina\\N(5-FC) ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Profármaco -> 5-FU ★ -> inhibe síntesis ARN/ADN ★.",
+                "children": []
+              },
+              {
+                "text": "◊ PK/PD: VO/IV. Concentración-independiente ★. Índice terapéutico estrecho ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Espectro: Levaduras (Candida ★, Cryptococcus ★).",
+                "children": []
+              },
+              {
+                "text": "◊ Usos: En combinación (AmB/Azoles) para criptococosis, candidiasis R ★.",
+                "children": []
+              },
+              {
+                "text": "◊ EA: Mielosupresión ★, hepatitis, GI.",
+                "children": []
+              },
+              {
+                "text": "◊ Resistencia: Rápida en monoterapia ★. Mutaciones FUR1/FCY1 ★.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Griseofulvina ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Inhibe microtúbulos (mitosis) ★. Fungistático ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Espectro: Dermatofitos (Trichophyton, Microsporum, Epidermophyton) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Usos: Dermatofitosis (tiña capitis, onicomicosis) ★ (mayormente reemplazada).",
+                "children": []
+              },
+              {
+                "text": "◊ EA: GI, fotosensibilidad. Interacciones ★.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Azoles ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Inhiben Lanosterol 14α-demetilasa (CYP51 fúngico) -> bloquean síntesis ergosterol ★. Fungistáticos ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Imidazoles ★: Clotrimazol, Miconazol, Econazol, Ketoconazol. Uso principalmente tópico actual ★. Ketoconazol oral retirado (hepatotoxicidad, toxicidad adrenal) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Triazoles\\N(1ª Gen) ★:",
+                "children": [
+                  {
+                    "text": "• Fluconazol ★: IV/VO. Buena penetración SNC ★. Excreción renal ★. Uso: Candidiasis, Meningitis criptocócica ★. Resistencia/actividad reducida vs C. krusei, C. glabrata. ★",
+                    "children": []
+                  },
+                  {
+                    "text": "• Itraconazol ★: Espectro más amplio (Aspergillus, dimórficos) ★. Pobre SNC ★. Absorción oral pH-dependiente ★. Uso: Blasto, Histo, Aspergilosis (2ª línea).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "◊ Triazoles\\N(2ª Gen) ★:",
+                "children": [
+                  {
+                    "text": "• Voriconazol ★: IV/VO. Buena biodisp VO. Metab CYP2C19 (polimorfismos) ★. Toxicidades (neuro, visual, hepática, cutánea) ★. Uso: Aspergilosis invasiva (1ª línea) ★, Candidemia, Scedosporium, Fusarium ★.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Posaconazol ★: IV/VO. Amplio espectro (incl Mucorales) ★. Absorción oral variable ★. Excreción fecal. Uso: Profilaxis IFI (alto riesgo) ★, Terapia rescate Aspergilosis ★.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Isavuconazol ★: Profármaco IV/VO. Larga vida media ★. Espectro similar Vori/Posa. Mejor perfil toxicidad/interacciones vs Vori ★. Uso: Aspergilosis invasiva ★, Mucormicosis ★.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "› Alilaminas\\N(Terbinafina) ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Inhibe escualeno epoxidasa ★. Fungicida ★.",
+                "children": []
+              },
+              {
+                "text": "◊ PK/PD: VO/Tópica. Concentra piel/uñas ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Espectro: Dermatofitos ★, C. albicans.",
+                "children": []
+              },
+              {
+                "text": "◊ Usos: Onicomicosis, dermatofitosis ★.",
+                "children": []
+              },
+              {
+                "text": "◊ EA: Bien tolerada. Inhibidor CYP2D6 ★.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "› Equinocandinas ★",
+            "children": [
+              {
+                "text": "◊ Mecanismo Acción: Inhiben β-1,3-D-glucano sintasa -> daño pared celular ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Fármacos: Caspofungina ★, Micafungina ★, Anidulafungina ★. Rezafungina (nueva) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ PK/PD: Solo IV. Concentración-dependiente ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Espectro: Candida sp ★, Aspergillus sp ★. No activas vs Cryptococcus, Fusarium, Mucorales ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Usos: Tto 1ª línea Candidiasis invasiva ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Resistencia: Emergente (C. glabrata, parapsilosis) ★. Mutaciones gen FKS1 ★.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Farmacogenómica (PGx) y\\NMonitorización Terapéutica Fármacos (TDM) ★",
+        "children": [
+          {
+            "text": "› Definiciones: PGx (impacto genes en PK/PD) ★, TDM (medir [fármaco] para optimizar dosis) ★.",
+            "children": []
+          },
+          {
+            "text": "› Objetivo: Medicina personalizada/precisión (mejorar eficacia, reducir toxicidad) ★.",
+            "children": []
+          },
+          {
+            "text": "› Herramientas: Guías PGx (CPIC) ★, Bases datos (PharmGKB) ★, Métodos TDM (HPLC, LC-MS ★). Control calidad externo TDM esencial ★.",
+            "children": []
+          },
+          {
+            "text": "› Recomendaciones por Clase\\NAntifúngico: (Ver Tabla 3)",
+            "children": [
+              {
+                "text": "◊ Polienos (AmB): PGx no relevante. TDM no recomendado ★. Monitorizar función renal/hepática, electrolitos, hemograma ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Azoles:",
+                "children": [
+                  {
+                    "text": "• Imidazoles: PGx/TDM no indicados. Monitorizar función hepática (Ketoconazol) ★.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Triazoles:",
+                    "children": [
+                      {
+                        "text": "▪ Fluconazol: TDM no rutina ★.",
+                        "children": []
+                      },
+                      {
+                        "text": "▪ Itraconazol: TDM recomendado ★ (variabilidad absorción). Objetivo Cmin 0.5-1 mg/L ★.",
+                        "children": []
+                      },
+                      {
+                        "text": "▪ Voriconazol: TDM recomendado ★ (variabilidad PK por PGx CYP2C19 ★, interacciones).\\NGenotipificación CYP2C19 útil ★. Objetivo Cmin >1-1.5 mg/L (eficacia), <4-6 mg/L (toxicidad) ★.",
+                        "children": []
+                      },
+                      {
+                        "text": "▪ Posaconazol: TDM recomendado ★ (variabilidad absorción). Objetivo Cmin >0. 7 (profilaxis), >1.0 (tto) ★.",
+                        "children": []
+                      },
+                      {
+                        "text": "▪ Isavuconazol: TDM no recomendado ★.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "◊ Terbinafina: PGx no relevante. TDM no necesario. ★ Precaución interacciones CYP2D6 ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Equinocandinas: TDM no rutina, debatido (considerar críticos, obesos, pediátricos) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Griseofulvina: PGx/TDM no necesarios ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Flucitosina: PGx relevante (gen DPYD ★ -> riesgo toxicidad 5-FU). TDM recomendado ★ (toxicidad dosis-dependiente). Objetivo Cpeak 30-80 mg/L (evitar >100) ★. Monitorizar hemograma, función hepática/renal ★.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Desarrollo de\\NResistencia a Antifúngicos\\N★",
+        "children": [
+          {
+            "text": "› Definición Resistencia: Cepa con MIC > punto corte clínico ★.",
+            "children": []
+          },
+          {
+            "text": "› Tipos: Intrínseca ★ vs Adquirida ★ (problema creciente).",
+            "children": []
+          },
+          {
+            "text": "› Causas Resistencia Adquirida: Uso extendido antifúngicos, dosis subóptimas, fungicidas agricultura ★.",
+            "children": []
+          },
+          {
+            "text": "› Hongos Problemáticos: Candida sp (non-albicans, C. auris ★), Aspergillus sp ★.",
+            "children": []
+          },
+          {
+            "text": "› Detección Resistencia: Métodos fenotípicos (Microdilución - gold standard ★, Etest, Disco) vs Moleculares (rápidos, detectan mutaciones). ★\\NLimitaciones fenotípicos (tiempo, puntos corte). ★",
+            "children": []
+          },
+          {
+            "text": "› Mecanismos\\NResistencia por Clase:",
+            "children": [
+              {
+                "text": "◊ Amfotericina B: Rara ★. Mutaciones genes vía ergosterol (ERG) ★. Aumento catalasa (Aspergillus) ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Flucitosina: Mutaciones FUR1, FCY1 ★. Defectos reparación ADN ★.",
+                "children": []
+              },
+              {
+                "text": "◊ Azoles ★:",
+                "children": [
+                  {
+                    "text": "• Alteraciones/Sobreexpresión CYP51 (gen cyp51A) ★: Mutaciones puntuales, Repeticiones Tándem (TR) promotor (A. fumigatus: TR34/L98H, TR46/Y121F/T289A ★).",
+                    "children": []
+                  },
+                  {
+                    "text": "• Sobreexpresión Bombas Eflujo (ABC - gen CDR1B; MFS - gen MDR1) ★.",
+                    "children": []
+                  },
+                  {
+                    "text": "• Mutaciones ERG3 ★.",
+                    "children": [
+                      {
+                        "text": "• Mutaciones HMG1 (emergente) ★.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "◊ Equinocandinas ★: Mutaciones gen FKS1 (hotspots S645 C. albicans ★, S639F C. auris ★). Resistencia cruzada. ★",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Desarrollo de Nuevos\\NAntifúngicos ★",
+        "children": [
+          {
+            "text": "› Necesidad: Aumento IFI, pacientes inmunocomprometidos, limitaciones fármacos actuales (EA, espectro, resistencia). ★",
+            "children": []
+          },
+          {
+            "text": "› Estrategias: Combinación fármacos (limitada/controversial) ★. Desarrollo nuevos agentes. ★",
+            "children": []
+          },
+          {
+            "text": "› Nuevos Fármacos (Pipeline\\Nreciente/aprobados): ★",
+            "children": [
+              {
+                "text": "◊ Rezafungina ★: Equinocandina larga acción (semanal IV). Aprobada 2023 (Candidemia/invasiva). ★",
+                "children": []
+              },
+              {
+                "text": "◊ Ibrexafungerp ★: Triterpenoide oral (inhibidor glucano sintasa). Aprobado (Candidiasis vulvovaginal). Activo vs C. auris/R Fluco. ★",
+                "children": []
+              },
+              {
+                "text": "◊ Olorofim ★: Orotomida (inhibidor síntesis pirimidinas). Fungicida. Fase 3. Activo vs Aspergillus R, Scedosporium. ★",
+                "children": []
+              },
+              {
+                "text": "◊ Fosmanogepix ★: Inhibidor Gwt1 (anclas GPI). Oral/IV. Fase 3. Amplio espectro (Candida, Crypto, Coccidioides, Aspergillus, Fusarium). ★",
+                "children": []
+              },
+              {
+                "text": "◊ Opelconazole ★: Triazol inhalado. ★ Alta [ ] pulmonar. Fase 2. Potencial Aspergilosis pulmonar. ★",
+                "children": []
+              },
+              {
+                "text": "◊ Oteseconazole ★: Tetrazol oral (inhibidor CYP51 selectivo). Aprobado 2022 (Candidiasis vulvovaginal recurrente). ★",
+                "children": []
+              },
+              {
+                "text": "◊ Quilseconazole ★: Tetrazol oral. Activo vs Cryptococcus ★.",
+                "children": []
+              },
+              {
+                "text": "◊ VT-1598 ★: Tetrazol oral/IV. Activo vs Coccidioides ★, C. auris, Aspergillus.",
+                "children": []
+              },
+              {
+                "text": "◊ Enfoque Desarrollo: Reducir EA, nuevos mecanismos, mejorar eficacia, evitar resistencia ★.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "- Conclusiones",
+        "children": [
+          {
+            "text": "› Síntesis: Aumento IFI requiere terapias efectivas. Conocimiento fármacos (PK/PD/PGx), epidemiología (resistencia) y huésped es crucial. ★",
+            "children": []
+          },
+          {
+            "text": "› Mensaje Clave: Medicina precisión (uso TDM/PGx) y desarrollo nuevos fármacos son necesarios para mejorar manejo IFI. ★ Integración conocimientos clínicos/laboratorio fundamental. ★",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1427",
+      "title": "Inmunoglobulina Intravenosa (IVIg) como Terapia de Rescate en Anemia Hemolítica Autoinmune (AHAI) Grave del Adulto: Estudio Observacional Multicéntrico Francés **(Publicado 2024)**"
+    },
+    {
+      "id": "map_360",
+      "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de discapacidad tras trombectomía mecánica difiere significativamente entre las oclusiones proximales y distales del segmento M1 de la arteria cerebral media"
+    },
+    {
+      "id": "map_1716",
+      "title": "M1 no es M1 en el ictus isquémico: la supervivencia libre de\\Ndiscapacidad tras trombectomía mecánica difiere\\Nsignificativamente entre las oclusiones proximales y\\Ndistales del segmento M1 de la arteria cerebral media"
+    }
+  ],
+  "source_file": "07. Antifúngicos: De la Farmacocinética a la Práctica Clínica-2025.smmx",
+  "created": "2026-02-07T15:42:55.061910"
+}

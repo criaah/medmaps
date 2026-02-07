@@ -1,0 +1,68 @@
+{
+  "id": "map_1709",
+  "title": "PROFUND (2011)\\NIndice Pronostico en Pluripatologia\\N\\nScore pronostico para mortalidad a 1 año\\nen pacientes pluripatologicos\\nValidado en poblacion española",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "📚 Revisión",
+  "node_count": 9,
+  "root": {
+    "text": "PROFUND (2011)\\NIndice Pronostico en Pluripatologia\\N\\nScore pronostico para mortalidad a 1 año\\nen pacientes pluripatologicos\\nValidado en poblacion española",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nBernabeu-Wittel M, et al.\\nArch Intern Med 2011;171:1277-84\\NDOI: 10.1001/archinternmed.2011.122\\N\\nCohorte prospectiva\\nEspaña, hospitales terciarios\\n\\nPluripat: 2+ categorias clinicas SEMI",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nDerivacion: n=1,632\\nValidacion: n=1,503\\n\\nCriterios:\\n- Adultos hospitalizados\\n- 2+ categorias clinicas SEMI\\n\\nEdad media: 77 años\\n60% varones\\nSeguimiento: 12 meses",
+        "children": []
+      },
+      {
+        "text": "VARIABLES PROFUND\\N\\nEdad mayor 85a: 3 puntos\\nNeoplasia activa: 6 puntos\\nDemencia: 3 puntos\\nClase NYHA III-IV: 3 puntos\\nDelirium al ingreso: 3 puntos\\nHb menor 10 g/dL: 3 puntos\\nBarthel menor 60: 4 puntos\\nCuidador no esposo: 2 puntos\\nHospitalizaciones ultimo año mayor o igual 4: 3 puntos\\N\\nTotal maximo: 30 puntos",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nMortalidad 1 año segun score:\\n0 puntos: 12%\\n1-2 puntos: 15%\\n3-6 puntos: 24%\\n7-10 puntos: 36%\\n11+ puntos: 61%\\N\\nAUC: 0.77 derivacion\\nAUC: 0.70 validacion\\n\\nEstratificacion riesgo efectiva",
+        "children": []
+      },
+      {
+        "text": "UTILIDAD CLINICA\\N\\n- Identificar pacientes alto riesgo\\n- Planificar cuidados paliativos\\n- Comunicacion pronostica con familia\\n- Toma decisiones compartidas\\n- Evitar futilidad terapeutica",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Poblacion española especifica\\n- Requiere validacion externa\\n- Definicion pluripatologia SEMI\\n- No incluye fragilidad directa\\n- Score estatico (no dinamico)\\n- No considera trayectoria",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Util en decision ACP\\n- Identificar candidatos paliativos\\n- Score mayor 7: alta mortalidad\\n- Complementa VGI\\n- Barthel es componente clave\\n- Integrar con preferencias paciente",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. Score mayor 11 = 61% mortalidad 1 año\\n2. Barthel bajo (4 pts) = mayor peso\\n3. Neoplasia activa = 6 pts (muy predictivo)\\n4. Delirium al ingreso es marcador pronostico\\n5. Hospitalizaciones recurrentes = mal pronostico\\n6. Util para planificar ACP\\n7. Validado en contexto hispanohablante\\n8. Complementa con PALIAR para necesidad paliativa\\n9. No reemplaza juicio clinico\\n10. Comunicar pronostico con sensibilidad",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1055",
+      "title": "Biomarcadores en demencia"
+    },
+    {
+      "id": "map_1090",
+      "title": "CARGA DEL CUIDADOR Y SERVICIOS DE APOYO EN DEMENCIA"
+    },
+    {
+      "id": "map_1041",
+      "title": "Continuum. Demencia Frontotemporal (DFT)"
+    },
+    {
+      "id": "map_1030",
+      "title": "Demencia por cuerpos de Lewy"
+    }
+  ],
+  "source_file": "PROFUND-2026.smmx",
+  "created": "2026-02-07T15:42:53.572528"
+}

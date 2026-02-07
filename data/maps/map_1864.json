@@ -1,0 +1,974 @@
+{
+  "id": "map_1864",
+  "title": "Neuroimagenes\\Nen Ictus",
+  "specialty": "Neurología",
+  "tag": "📋 Guía Clínica",
+  "node_count": 217,
+  "root": {
+    "text": "Neuroimagenes\\Nen Ictus",
+    "children": [
+      {
+        "text": "TC sin contraste\\N(NCCT)",
+        "children": [
+          {
+            "text": "→ Visión\\Ngeneral",
+            "children": [
+              {
+                "text": "• Útil para diferenciar ACV isquémico vs. hemorrágico",
+                "children": []
+              },
+              {
+                "text": "• Alta sensibilidad p/ hemorragias + Disponible + Rápida",
+                "children": []
+              },
+              {
+                "text": "• Debe descartarse hemorragia intracraneal antes de trombólisis",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ ACV Isquémico",
+            "children": [
+              {
+                "text": "• Lesiones isquémicas = hipoatenuadas (oscuras)",
+                "children": []
+              },
+              {
+                "text": "• Normal: diferenciación sustancia gris/blanca (SG > brillante que SB)",
+                "children": []
+              },
+              {
+                "text": "• En isquemia aguda: edema → SG se obscurece → ↓ diferenciación G-B",
+                "children": []
+              },
+              {
+                "text": "• Cambios isquémicos\\Ntempranos (EIC)",
+                "children": [
+                  {
+                    "text": "– Ocurren en pocas horas",
+                    "children": []
+                  },
+                  {
+                    "text": "– Signos:",
+                    "children": [
+                      {
+                        "text": "▸ Lentiforme borroso",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ “Insular ribbon sign” → mala diferenciación insular",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ “Cortical ribbon sign” → mala diferenciación cortical",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "– Extensión EIC\\Ninfluye en manejo",
+                    "children": [
+                      {
+                        "text": "▸ ASPECTS bajo → peor pronóstico + menor probabilidad de rescate tisular",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ ASPECTS = escala 10 puntos p/ territorio de A. cerebral media (ACM)",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ Se puntúa 0 = área afectada; 1 = área no afectada",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ Suma total (máx 10)",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "– Regla de 1/3 → si > 1/3 del territorio ACM afectado, ↑ riesgo vs. beneficio con trombolisis",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Cambios\\Nsubagudos",
+                "children": [
+                  {
+                    "text": "– SG puede verse aún más oscura que SB",
+                    "children": []
+                  },
+                  {
+                    "text": "– Implican mayor tiempo o gravedad de isquemia",
+                    "children": []
+                  },
+                  {
+                    "text": "– Asociados a ↑ riesgo de sangrado con trombolíticos",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• “Hyperdense artery sign”",
+                "children": [
+                  {
+                    "text": "– Hiperdensidad en arteria → trombo intracraneal",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• “Eye deviation sign”",
+                "children": [
+                  {
+                    "text": "– Ojos desviados hacia el lado de la isquemia en NCCT",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "→ ACV Hemorrágico\\N(Intracerebral y Subaracnoideo)",
+            "children": [
+              {
+                "text": "• Lesiones hemorrágicas = hiperatenuadas (brillantes)",
+                "children": []
+              },
+              {
+                "text": "• Sangre aguda ~60-80 HU (disminuye con el tiempo)",
+                "children": []
+              },
+              {
+                "text": "• Cerebro normal ~40-60 HU",
+                "children": []
+              },
+              {
+                "text": "• Clasificación\\Nsegún ubicación:",
+                "children": [
+                  {
+                    "text": "– Intracerebral (superficial/profunda), intraventricular, subaracnoidea, subdural, extradural",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Cálculo volumen\\N(hemorragia intracerebral)",
+                "children": [
+                  {
+                    "text": "– (A × B × C) / 2",
+                    "children": []
+                  },
+                  {
+                    "text": "– A = diámetro máx axial",
+                    "children": []
+                  },
+                  {
+                    "text": "– B = diámetro perpendicular a A",
+                    "children": []
+                  },
+                  {
+                    "text": "– C = altura (n° de cortes con sangrado × grosor corte)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Factores pronósticos\\Ndesfavorables",
+                "children": [
+                  {
+                    "text": "– Volumen > 60 mL",
+                    "children": []
+                  },
+                  {
+                    "text": "– “Blend sign” → áreas hiper e hipoatenuadas en el mismo hematoma",
+                    "children": []
+                  },
+                  {
+                    "text": "– “Black hole sign” → zona hipoatenuada rodeada de hiperatenuación sin continuidad con el parénquima",
+                    "children": []
+                  },
+                  {
+                    "text": "– “Island sign” → ≥ 3 focos hemorrágicos separados del mayor",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Hemorragia Subaracnoidea\\N(HSA)",
+                "children": [
+                  {
+                    "text": "– Hiperdensidad en surcos o cisternas",
+                    "children": []
+                  },
+                  {
+                    "text": "– Estudios muestran alta sensibilidad de TC ≤ 6 h del inicio",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Tomografía Computarizada Angiográfica\\N(CTA)",
+        "children": [
+          {
+            "text": "→ Recomendaciones\\Ngenerales",
+            "children": [
+              {
+                "text": "• No debe retrasar la terapia trombolítica en ACV isquémico",
+                "children": []
+              },
+              {
+                "text": "• Evalúa arterias extracraneales/intracraneales desde arco aórtico hasta vértice",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Contrastación",
+            "children": [
+              {
+                "text": "• Usa medio de contraste (cautela en insuf. renal grave no dializada)",
+                "children": []
+              },
+              {
+                "text": "• Riesgo bajo de nefropatía",
+                "children": []
+              },
+              {
+                "text": "• Metformina → suspender ≥ 48 h post-CTA",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Utilidad",
+            "children": [
+              {
+                "text": "• Diferencia obstrucción (isquémico) vs. fuga vascular (hemorrágico)",
+                "children": []
+              },
+              {
+                "text": "• Identifica patología aórtica (trombosis, placas, disección), ateroesclerosis extracraneal,\\Ndisecciones, “carotid webs”, estrechez intracraneal (vasculopatía/vasculitis)",
+                "children": []
+              },
+              {
+                "text": "• Aporta pronóstico (ver vascularización, colaterales, etc.)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "CTA\\Nmultipfase",
+            "children": [
+              {
+                "text": "• Varias adquisiciones en < 1 min (ej. 0, 8 y 16 s)",
+                "children": []
+              },
+              {
+                "text": "• Evita obtener imágenes antes de llegada de contraste",
+                "children": []
+              },
+              {
+                "text": "• Visualiza llenado arterial a lo largo del tiempo",
+                "children": []
+              },
+              {
+                "text": "→ ACV\\NIsquémico",
+                "children": [
+                  {
+                    "text": "• Muestra trombo (especialmente en oclusiones de grandes vasos)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Orienta a terapia endovascular si hay oclusión de arterias proximales",
+                    "children": []
+                  },
+                  {
+                    "text": "• Trombólisis menos efectiva si trombo en carótida interna o si gran carga trombótica",
+                    "children": []
+                  },
+                  {
+                    "text": "• CTA multipfase valora\\Nestado de colaterales",
+                    "children": [
+                      {
+                        "text": "– Flujo en zona isquémica, retraso en llenado y lavado",
+                        "children": []
+                      },
+                      {
+                        "text": "– Si colaterales presentes, más probabilidad de rescate tisular",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "→ ACV\\NHemorrágico",
+                "children": [
+                  {
+                    "text": "• Detecta aneurismas, malformaciones vasculares, trombosis venosa",
+                    "children": []
+                  },
+                  {
+                    "text": "• “Spot sign” (hiperdensidad focal de contraste filtrándose)",
+                    "children": [
+                      {
+                        "text": "– Se asocia a ↑ riesgo de expansión hemorrágica y peor pronóstico",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "→ Inteligencia\\Nartificial",
+                "children": [
+                  {
+                    "text": "• Software p/ detección automática de oclusiones de grandes vasos (ej. Viz. ai, RAPID, e-Stroke)",
+                    "children": []
+                  },
+                  {
+                    "text": "• Notifica a especialistas e identifica bloqueos grandes en CTA",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Tomografía de\\NPerfusión (CTP)",
+        "children": [
+          {
+            "text": "→ Utilidad en\\NACV Isquémico",
+            "children": [
+              {
+                "text": "• Ayuda a evaluar elegibilidad p/ terapia endovascular",
+                "children": []
+              },
+              {
+                "text": "• CTP estima flujo sanguíneo cerebral a lo largo del tiempo tras administración de contraste",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Parámetros\\Nhemodinámicos\\N(por vóxel)",
+            "children": [
+              {
+                "text": "• Tmax (delay time)",
+                "children": [
+                  {
+                    "text": "– Tiempo hasta intensidad máx de contraste (s)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• MTT \\N(mean transit time)",
+                "children": [
+                  {
+                    "text": "– Tiempo promedio de paso del bolo por el vóxel",
+                    "children": []
+                  },
+                  {
+                    "text": "– Inversamente proporcional a presión de perfusión",
+                    "children": []
+                  },
+                  {
+                    "text": "– Normal ~4-5 s",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• CBF \\N(cerebral blood flow)",
+                "children": [
+                  {
+                    "text": "– Volumen de sangre que fluye por 100 g de tejido/min",
+                    "children": []
+                  },
+                  {
+                    "text": "– SG normal ~80 mL/100 g/min",
+                    "children": []
+                  },
+                  {
+                    "text": "– SB normal ~20 mL/100 g/min",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• CBV (cerebral\\Nblood volume)",
+                "children": [
+                  {
+                    "text": "– Porción de la unidad de masa cerebral que contiene vasos",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "→ Core Isquémico\\Nvs. Penumbra",
+            "children": [
+              {
+                "text": "• Core (no\\Nrecuperable)",
+                "children": [
+                  {
+                    "text": "– Zonas con CBF y CBV bajas vs. lado contralateral",
+                    "children": []
+                  },
+                  {
+                    "text": "– Tejido con daño irreversible",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Penumbra\\N(potencialmente salvable)",
+                "children": [
+                  {
+                    "text": "– Zonas con ↑ MTT y Tmax vs. lado contralateral",
+                    "children": []
+                  },
+                  {
+                    "text": "– Puede recuperarse con reperfusión",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "→ Aspectos\\Nadicionales",
+            "children": [
+              {
+                "text": "• CTP más accesible que RM perfusión",
+                "children": []
+              },
+              {
+                "text": "• Distintas plataformas de software pueden arrojar estimaciones diferentes",
+                "children": []
+              },
+              {
+                "text": "• Exposición a radiación presente en TC",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Tomografía Multimodal\\N(TC multimodal)",
+        "children": [
+          {
+            "text": "→ Permite caracterizar más el evento cerebrovascular (isquémico/hemorrágico)",
+            "children": []
+          },
+          {
+            "text": "→ No retrasar trombólisis IV en pacientes elegibles por realizar perfusión u otras técnicas multimodales",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "TC para Determinar\\NPronóstico",
+        "children": [
+          {
+            "text": "→ Hallazgos adversos en TC simple y hallazgos favorables en\\Nperfusión pueden asociarse a menor mortalidad vs. hallazgos inversos",
+            "children": []
+          },
+          {
+            "text": "→ Volumen grande de core isquémico (CTP) → menor probabilidad de independencia funcional a 90 días",
+            "children": []
+          },
+          {
+            "text": "→ ASPECTS ≤ 7 → predicción de muerte o dependencia a 3 meses tras ACV en territorio de ACM",
+            "children": []
+          },
+          {
+            "text": "→ CTA con escala BASIS podría predecir desenlace adverso mejor que ASPECTS",
+            "children": []
+          },
+          {
+            "text": "→ En hemorragia intracerebral espontánea (HIC), signos en TC sin contraste (ej. “island sign”, “black hole sign”)\\N→ mayor riesgo de mal resultado funcional o muerte",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Resonancia Magnética\\N(RM) sin Contraste",
+        "children": [
+          {
+            "text": "→ Indicaciones",
+            "children": [
+              {
+                "text": "• Urgente p/ diagnóstico de ACV isquémico vs. hemorrágico",
+                "children": []
+              },
+              {
+                "text": "• TC sin contraste suele preferirse inicialmente (más disponible, rápida, sensible a hemorragia, menos contraindicaciones)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ ACV\\NIsquémico",
+            "children": [
+              {
+                "text": "• Signos:",
+                "children": [
+                  {
+                    "text": "– Ausencia de “flow void” arterial en T2",
+                    "children": []
+                  },
+                  {
+                    "text": "– Hiperintensidad en DWI → lesión isquémica (difusión restringida)",
+                    "children": []
+                  },
+                  {
+                    "text": "– Arteria hipointensa en GRE (“blooming”) → trombo",
+                    "children": []
+                  },
+                  {
+                    "text": "– Hiperintensidad intravascular en FLAIR → flujo lento/colateral",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• T1, T2 y FLAIR pueden tardar horas en mostrar cambios",
+                "children": []
+              },
+              {
+                "text": "• “HARM” (hyperintense acute reperfusion marker) en FLAIR postcontraste\\N→ reperfusión + riesgo de transformación hemorrágica",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ ACV\\NHemorrágico",
+            "children": [
+              {
+                "text": "• Apariencia en RM varía\\Nsegún edad del hematoma",
+                "children": [
+                  {
+                    "text": "– < 24 h (hiperagudo) → OxiHb; T1 isointenso, T2 brillante",
+                    "children": []
+                  },
+                  {
+                    "text": "– 1-3 d (agudo) → DeoxiHb; T1 isointenso, T2 oscuro",
+                    "children": []
+                  },
+                  {
+                    "text": "– > 3 d (subagudo temprano) → MetHb intracel.; T1 brillante, T2 oscuro",
+                    "children": []
+                  },
+                  {
+                    "text": "– > 7 d (subagudo tardío) → MetHb extracel.; T1 brillante, T2 brillante",
+                    "children": []
+                  },
+                  {
+                    "text": "– > 14 d (crónico) → Hemosiderina; T1 oscuro, T2 oscuro",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• FLAIR puede detectar hemorragias subaracnoideas o subdurales",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Angiografía por\\NRM (MRA)",
+        "children": [
+          {
+            "text": "→ Recomendaciones",
+            "children": [
+              {
+                "text": "• MRA o CTA inicial en candidatos a terapia endovascular o con HIC confirmada",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Utilidad",
+            "children": [
+              {
+                "text": "• Detecta estenosis, oclusiones, disecciones",
+                "children": []
+              },
+              {
+                "text": "• Modalidades\\Nfrecuentes:",
+                "children": [
+                  {
+                    "text": "– MRA con contraste\\N(gadolinio)",
+                    "children": [
+                      {
+                        "text": "▸ Corto T1 (< 10 ms), vasos opacos hiperintensos",
+                        "children": []
+                      },
+                      {
+                        "text": "▸ Requiere coordinación exacta con la inyección",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "text": "– MRA sin contraste\\N(TOF, phase contrast)",
+                    "children": [
+                      {
+                        "text": "▸ TOF (time of flight)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "text": "• Secuencia gradient echo",
+                "children": []
+              },
+              {
+                "text": "• Mejor visualización de vasos cervicales vs. phase contrast",
+                "children": []
+              },
+              {
+                "text": "• Menor tiempo de adquisición",
+                "children": []
+              },
+              {
+                "text": "• 3D TOF: mejor resolución pero\\Nmás sensible a saturación",
+                "children": [
+                  {
+                    "text": "▸ Phase contrast MRA",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• Secuencia con alternancia de fase/refase",
+                "children": []
+              },
+              {
+                "text": "• Mejor para flujos lentos o disección",
+                "children": []
+              },
+              {
+                "text": "• Útil incluso\\Ntras gadolinio",
+                "children": [
+                  {
+                    "text": "– “Black-blood” /\\Nsaturación espacial",
+                    "children": [
+                      {
+                        "text": "▸ Señal de lumen baja → más claridad de pared\\N(depósitos lipídicos, fibrina, calcio, trombo)",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "text": "→ MR\\NVenografía",
+            "children": [
+              {
+                "text": "• Sospecha de trombosis del seno sagital o venoso cerebral",
+                "children": []
+              },
+              {
+                "text": "• CTA o MRA pueden detectar malformaciones vasculares intracraneales en HIC",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Resonancia Magnética\\Ncon Difusión (DWI)",
+        "children": [
+          {
+            "text": "→ Indicaciones",
+            "children": [
+              {
+                "text": "• Ayuda a caracterizar ACV isquémico → elegibilidad p/ trombólisis o terapia endovascular",
+                "children": []
+              },
+              {
+                "text": "• No retrasar trombólisis IV si el paciente es candidato",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Hallazgos en\\NACV Isquémico",
+            "children": [
+              {
+                "text": "• Detección en minutos tras inicio → lesión hiperintensa (brillante) por restricción de difusión",
+                "children": []
+              },
+              {
+                "text": "• Máxima intensidad ~40 h, retorna a normalidad en semanas",
+                "children": []
+              },
+              {
+                "text": "• Sensibilidad 88%-100%, especificidad 95%-100%",
+                "children": []
+              },
+              {
+                "text": "• ADC (apparent diffusion coefficient)\\Nayuda a distinguir:",
+                "children": [
+                  {
+                    "text": "– Restricción verdadera → brillante en DWI y T2, oscuro en ADC",
+                    "children": []
+                  },
+                  {
+                    "text": "– “T2 shine through” → brillante en DWI y T2, brillante en ADC",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Resonancia Magnética\\Nde Perfusión (MRP)",
+        "children": [
+          {
+            "text": "→ Utilidad",
+            "children": [
+              {
+                "text": "• Profundiza caracterización de ACV isquémico → elegibilidad p/ trombólisis y terapia endovascular",
+                "children": []
+              },
+              {
+                "text": "• No retrasar trombólisis IV si el paciente es candidato",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ MRP / Perfusión\\NPonderada (PWI)",
+            "children": [
+              {
+                "text": "• Parámetros calculados\\N(valores relativos en general):",
+                "children": [
+                  {
+                    "text": "– rCBF (flujo)",
+                    "children": []
+                  },
+                  {
+                    "text": "– rCBV (volumen)",
+                    "children": []
+                  },
+                  {
+                    "text": "– Tmax (tiempo hasta máx función de residuo)",
+                    "children": []
+                  },
+                  {
+                    "text": "– MTT (tiempo medio de tránsito)",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "text": "• MRP con contraste → bolo de gadolinio + secuencias T2 (susceptibilidad)",
+                "children": []
+              },
+              {
+                "text": "• MRP sin contraste → “arterial spin labeling”",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Comparaciones",
+            "children": [
+              {
+                "text": "• CTP (perfusión por TC) más accesible pero con radiación",
+                "children": []
+              },
+              {
+                "text": "• MRP (ASL) y MRP (contraste) pueden correlacionar bien en evaluación de penumbra",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Resonancia Magnética\\Npara Pronóstico",
+        "children": [
+          {
+            "text": "→ Estudios\\Nprincipales:",
+            "children": [
+              {
+                "text": "• ASPECTS en DWI → predice desenlaces en ACV",
+                "children": []
+              },
+              {
+                "text": "• Mayor volumen de núcleo isquémico (en DWI) → menor probabilidad de independencia funcional a 90 días",
+                "children": []
+              },
+              {
+                "text": "• En ACV no discapacitante, la presencia de lesión en DWI → riesgo de recurrencia (ACV o AIT) similar al de ausencia de lesión a 1 año",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Rendimiento Diagnóstico\\Nde RM vs. TC",
+        "children": [
+          {
+            "text": "→ Recomendación\\Ngeneral",
+            "children": [
+              {
+                "text": "• TC sin contraste o RM urgente p/ evaluar ACV (isquémico vs. hemorrágico)",
+                "children": []
+              },
+              {
+                "text": "• Frecuentemente se prefiere TC inicial por rapidez + disponibilidad",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Comparación\\NRM vs. TC",
+            "children": [
+              {
+                "text": "• RM puede ser + sensible que TC p/ diagnosticar ACV isquémico",
+                "children": []
+              },
+              {
+                "text": "• RM puede ser tan precisa como TC para detectar hemorragia intracerebral aguda",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Ultrasonografía",
+        "children": [
+          {
+            "text": "→ Ventajas",
+            "children": [
+              {
+                "text": "• No invasiva, en tiempo real, sin radiación ni contraste",
+                "children": []
+              },
+              {
+                "text": "• Tipos: Duplex y Doppler transcraneal (TCD)",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Usos",
+            "children": [
+              {
+                "text": "• Evaluación de estenosis u oclusión (intracraneal/carótida) → potencial etiología de ACV isquémico",
+                "children": []
+              },
+              {
+                "text": "• Seguimiento de progresión de enfermedad",
+                "children": []
+              },
+              {
+                "text": "• Alta sensibilidad y especificidad para estenosis/oclusión intracraneal en ACV agudo (TCD o TCCD)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Otras Modalidades\\Nde Neuroimagen",
+        "children": [
+          {
+            "text": "→ Angiografía por\\NSustracción Digital (DSA)",
+            "children": [
+              {
+                "text": "• Técnica de referencia p/ imagen luminal (alta resolución espacial y temporal)",
+                "children": []
+              },
+              {
+                "text": "• Útil en dx y caracterización de lesiones → revascularización, angioplastía, stent, coil",
+                "children": []
+              },
+              {
+                "text": "• Riesgos potenciales: ACV (~1%), disección, complicaciones en sitio de punción, nefropatía por yodo",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ Tomografía de\\NCoherencia Óptica (OCT)",
+            "children": [
+              {
+                "text": "• Visualiza características de vasos (aterosclerosis, disección, estenosis, trombosis, etc.)",
+                "children": []
+              },
+              {
+                "text": "• Mayor resolución que ultrasonido",
+                "children": []
+              }
+            ]
+          },
+          {
+            "text": "→ PET y SPECT",
+            "children": [
+              {
+                "text": "• Herramientas de investigación",
+                "children": []
+              },
+              {
+                "text": "• Profundizan en fisiopatología de áreas isquémicas (tejido irreversible, aterosclerosis, inflamación post-ACV, reperfusión)",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1633",
+      "title": "ACV: ESCALAS DE UTILIDAD CLÍNICA"
+    },
+    {
+      "id": "map_1640",
+      "title": "Aciclovir (ACV) versus Valaciclovir (VACV)"
+    },
+    {
+      "id": "map_1682",
+      "title": "ARISTOTLE (2011)\\NApixaban vs Warfarin in AF\\N\\nApixaban superior a warfarina en FA:\\nReduce ACV 21%, sangrado mayor 31%, mortalidad 11%\\nMejor perfil general vs warfarina"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_1707",
+      "title": "SHEP (1991)\\NSystolic Hypertension in\\nthe Elderly Program\\N\\n⭐ Tratar HTA sistólica aislada\\Nen mayores de 60 años\\NREDUCE ACV 36%"
+    }
+  ],
+  "source_file": "Neuroimagenes en Ictus-2025-1.smmx",
+  "created": "2026-02-07T15:43:01.826018"
+}

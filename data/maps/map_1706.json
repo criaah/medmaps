@@ -1,0 +1,68 @@
+{
+  "id": "map_1706",
+  "title": "CHEST (2012)\\NCrystalloid vs Hydroxyethyl Starch Trial\\N\\nHES aumenta injuria renal y necesidad dialisis\\nvs cristaloides en pacientes criticos\\nHES contraindicado en UCI",
+  "specialty": "UCI-Medicina Crítica",
+  "tag": "⭐ Estudio Pivotal",
+  "node_count": 9,
+  "root": {
+    "text": "CHEST (2012)\\NCrystalloid vs Hydroxyethyl Starch Trial\\N\\nHES aumenta injuria renal y necesidad dialisis\\nvs cristaloides en pacientes criticos\\nHES contraindicado en UCI",
+    "children": [
+      {
+        "text": "IDENTIFICACION\\N\\nMyburgh JA, et al.\\nN Engl J Med 2012;367:1901-11\\NDOI: 10.1056/NEJMoa1209759\\N\\nRCT doble ciego\\n32 UCIs, Australia y Nueva Zelanda",
+        "children": []
+      },
+      {
+        "text": "POBLACION\\N\\nn=7,000\\nAdultos UCI que requieren fluidos\\n\\nCriterios:\\n- Cualquier indicacion de fluidos IV\\n- UCI medica o quirurgica\\n\\nEdad media: 63 años\\n29% sepsis\\nSeguimiento: 90 dias",
+        "children": []
+      },
+      {
+        "text": "INTERVENCION\\N\\n6% HES 130/0.4 (Voluven)\\nvs\\nSolucion salina 0.9%\\n\\nHasta 50 mL/kg/dia\\nPor toda estancia UCI",
+        "children": []
+      },
+      {
+        "text": "RESULTADOS\\N\\nMortalidad 90 dias:\\nHES: 18.0%\\nSalino: 17.0%\\nRR 1.06 (IC95% 0.96-1.18)\\np=0.26 - NO SIGNIFICATIVO\\N\\nTerapia reemplazo renal:\\nHES: 7.0%\\nSalino: 5.8%\\nRR 1.21 (IC95% 1.00-1.45)\\np=0.04 - SIGNIFICATIVO\\NNNTH para daño: 83",
+        "children": []
+      },
+      {
+        "text": "SEGURIDAD\\N\\nHES vs Salino:\\n- IRA: mas frecuente con HES\\n- Requerimiento dialisis: 7% vs 5.8%\\n- Coagulopatia: mas con HES\\n- Prurito: mas con HES\\n\\nEfectos persisten post-UCI",
+        "children": []
+      },
+      {
+        "text": "LIMITACIONES\\N\\n- Salino hipercloremico (no balanceado)\\n- Dosis alta HES permitida\\n- Heterogeneidad patologias\\n- No todos en sepsis\\n- HES mas moderno no probado",
+        "children": []
+      },
+      {
+        "text": "APLICABILIDAD GERIATRICA\\N\\n- Ancianos: mayor riesgo IRA\\n- EVITAR HES en cualquier circunstancia\\n- Cristaloides son primera linea\\n- Considerar balanceados vs salino\\n- Monitorizar cloremia y funcion renal\\n- Albumina en sepsis con hipoalbuminemia",
+        "children": []
+      },
+      {
+        "text": "PERLAS CLINICAS\\N\\n1. HES causa nefrotoxicidad\\n2. Cristaloides son primera linea SIEMPRE\\n3. HES contraindicado en sepsis (FDA, EMA)\\n4. Ancianos: especialmente vulnerables a IRA\\n5. Albumina es alternativa si coloide necesario\\n6. Soluciones balanceadas preferibles a salino\\n7. HES puede causar coagulopatia\\n8. Efecto nefrotóxico persiste semanas\\n9. Sin beneficio en expansion volemica\\n10. Evitar en quemados, sepsis, cirugia cardiaca",
+        "children": []
+      }
+    ]
+  },
+  "related_maps": [
+    {
+      "id": "map_1673",
+      "title": "DAPA-CKD (2020)\\NDapagliflozin And Prevention\\Nof Adverse outcomes in CKD\\N\\N⭐ iSGLT2 protege riñón\\NINCLUSO SIN DIABETES\\N(Extiende beneficio a ERC no-DM)"
+    },
+    {
+      "id": "map_1674",
+      "title": "CREDENCE (2019)\\NCanagliflozin and Renal Events in Diabetes\\N\\nCanagliflozina reduce progresion ERC\\ny eventos CV en DM2 con nefropatia\\nNNTH 22 para outcome renal"
+    },
+    {
+      "id": "map_1689",
+      "title": "SPRINTT (2021)\\NSarcopenia and Physical\\NFragility in Older People:\\NMulti-component Treatment\\N\\n⭐ Ejercicio + nutrición reduce\\ndiscapacidad en fragilidad física\\ncon sarcopenia"
+    },
+    {
+      "id": "map_924",
+      "title": "Diagnóstico de Laboratorio de la Tuberculosis (TB)"
+    },
+    {
+      "id": "map_942",
+      "title": "ELDERCARE-AF (2020)"
+    }
+  ],
+  "source_file": "CHEST-2026.smmx",
+  "created": "2026-02-07T15:42:53.545667"
+}
