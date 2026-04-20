@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MedMaps - Mapas mentales médicos interactivos para estudiantes y profesionales de la salud">
+  <title>MedMaps - Mapas Mentales Médicos</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <a href="/" class="logo">🧠 MedMaps</a>
+    <button class="hamburger" aria-label="Menú">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav>
+      <ul>
+        <li><a href="#especialidades">Especialidades</a></li>
+        <li><a href="planes.html">Planes</a></li>
+        <li><a href="explorar.html">Explorar Mapas</a></li>
+        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main>
+
+  <!-- HERO SECTION -->
+  <section class="hero">
+    <div class="hero-content">
+      <h1>🧠 MedMaps</h1>
+      <p>Mapas mentales médicos interactivos para estudiantes y profesionales de la salud</p>
+      <div class="hero-buttons">
+        <a href="explorar.html" class="btn btn-primary">Explorar Mapas</a>
+        <a href="planes.html" class="btn btn-outline">Ver Planes</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- SEARCH SECTION -->
+  <section class="container section">
+    <h2 class="section-title">Buscar Tema</h2>
+    <div class="search-container">
+      <div class="search-bar">
+        <input type="search" id="searchInput" placeholder="Busca por especialidad, tema o enfermedad...">
+        <button id="searchBtn">Buscar</button>
+      </div>
+    </div>
+    <div id="searchResults" class="search-results" style="display:none;"></div>
+  </section>
+
+  <!-- ESPECIALIDADES SECTION -->
+  <section class="container section" id="especialidades">
+    <h2 class="section-title">Especialidades Disponibles</h2>
+    <p class="section-subtitle" id="specialtiesSubtitle">Cargando especialidades...</p>
+    <div class="grid" id="especialidadesGrid"></div>
+  </section>
+
+  <!-- STATS SECTION -->
+  <section class="stats-section">
+    <div class="container">
+      <div class="stats-grid">
+        <div class="stat-item" data-reveal>
+          <h3 id="statMaps">--</h3>
+          <p>Mapas Mentales</p>
+        </div>
+        <div class="stat-item" data-reveal>
+          <h3 id="statNodes">--</h3>
+          <p>Nodos de Conocimiento</p>
+        </div>
+        <div class="stat-item" data-reveal>
+          <h3 id="statSpecialties">--</h3>
+          <p>Especialidades</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FEATURED MAP PREVIEW -->
+  <section class="container section" id="previewSection" style="display:none;">
+    <h2 class="section-title">Vista Previa</h2>
+    <div id="mapPreview" class="map-preview"></div>
+  </section>
+
+  <!-- CTA SECTION -->
+  <section class="container section" style="text-align: center;">
+    <h2 class="section-title">¿Listo para mejorar tu aprendizaje?</h2>
+    <p class="section-subtitle">Accede a todos los mapas mentales con una suscripción premium</p>
+    <a href="planes.html" class="btn btn-secondary">Ver Planes de Suscripción</a>
+  </section>
+
+</main>
+
+<footer>
+  <p>&copy; 2026 MedMaps - Mapas Mentales Médicos</p>
+  <p>Creado por Dr. Cristian Acevedo | <a href="https://github.com/criaah">GitHub</a></p>
+  <p style="font-size: 0.85rem; margin-top: 1rem;">Este sitio es una herramienta educativa.</p>
+</footer>
+
+<!-- Modal para visualizar mapas -->
+<div id="mapModal" class="modal-overlay">
+  <div class="modal">
+    <div class="modal-header">
+      <h2 id="modalTitle">Mapa Mental</h2>
+      <button class="modal-close">&times;</button>
+    </div>
+    <div class="modal-body" id="modalBody"></div>
+    <div class="modal-footer">
+      <button class="btn btn-secondary btn-small" onclick="closeModal()">Cerrar</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+<script>
+// Emojis por especialidad
+const SPECIALTY_EMOJIS = {
+  'Cardiología': '❤️',
+  'Geriatría': '👴',
+  'Neurología': '🧠',
+  'Nefrología': '🫘',
+  'Endocrinología': '🦋',
+  'General': '📚',
+  'Estudios Pivotales': '⭐',
+  'Continuum': '📖',
+  'Hematología': '🩸',
+  'Infectología': '🦠',
+  'Pediatría': '👶',
+  'Gastroenterología': '🫃',
+  'Neumología': '🫁',
+  'Dermatología': '🧴',
+  'Reumatología': '🤲',
+  'Traumatología': '🦴',
+  'Oncología': '🎗️',
+  'UCI': '🏥',
+  'Psiquiatría': '🧩',
+};
+
+let mapsIndex = [];
+let specialtiesData = {};
+let statsData = {};
+
+// Cargar datos al iniciar
+async function loadData() {
+  try {
+    // Cargar estadísticas
+    const statsRes = await fetch('data/stats.json');
+    statsData = await statsRes.json();
+
+    // Cargar especialidades
+    const specRes = await fetch('data/specialties.json');
+    specialtiesData = await specRes.json();
+
+    // Cargar índice de mapas
+    const mapsRes = await fetch('data/maps_index.json');
+    mapsIndex = await mapsRes.json();
+
+    // Actualizar UI
+    updateStats();
+    renderSpecialties();
+    setupSearch();
+  } catch (error) {
+    console.error('Error cargando datos:', error);
+    document.getElementById('specialtiesSubtitle').textContent =
+      'Error cargando datos. Verifica la conexión.';
+  }
+}
+
+function updateStats() {
+  document.getElementById('statMaps').textContent = statsData.total_maps?.toLocaleString() || '254';
+  document.getElementById('statNodes').textContent = statsData.total_nodes?.toLocaleString() || '74,069';
+  document.getElementById('statSpecialties').textContent = statsData.specialties_count || '8';
+  document.getElementById('specialtiesSubtitle').textContent =
+    `Accede a ${statsData.total_maps} mapas mentales de ${statsData.specialties_count} especialidades`;
+}
+
+function renderSpecialties() {
+  const grid = document.getElementById('especialidadesGrid');
+  grid.innerHTML = '';
+
+  // Ordenar por cantidad de mapas
+  const sortedSpecs = Object.entries(specialtiesData)
+    .sort((a, b) => b[1].count - a[1].count);
+
+  sortedSpecs.forEach(([name, data]) => {
+    const emoji = SPECIALTY_EMOJIS[name] || '📋';
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.setAttribute('data-searchable', name);
+    card.innerHTML = `
+      <div class="card-header">
+        <h3>${emoji} ${name}</h3>
+        <p class="specialty-count">${data.count} mapas disponibles</p>
+      </div>
+      <div class="card-body">
+        <p>Accede a mapas mentales comprensivos sobre ${name}.</p>
+      </div>
+      <div class="card-footer">
+        <a href="explorar.html?specialty=${encodeURIComponent(name)}" class="btn btn-secondary">Ver Mapas</a>
+      </div>
+    `;
+    grid.appendChild(card);
+  });
+}
+
+function setupSearch() {
+  const searchInput = document.getElementById('searchInput');
+  const searchResults = document.getElementById('searchResults');
+
+  searchInput.addEventListener('input', debounce(function() {
+    const query = this.value.toLowerCase().trim();
+
+    if (query.length < 2) {
+      searchResults.style.display = 'none';
+      return;
+    }
+
+    const results = mapsIndex.filter(map =>
+      map.title.toLowerCase().includes(query) ||
+      map.specialty.toLowerCase().includes(query) ||
+      map.filename.toLowerCase().includes(query)
+    ).slice(0, 10);
+
+    if (results.length > 0) {
+      searchResults.innerHTML = results.map(map => `
+        <div class="search-result-item" onclick="openMap('${map.id}')">
+          <strong>${map.title}</strong>
+          <span class="search-result-meta">${SPECIALTY_EMOJIS[map.specialty] || '📋'} ${map.specialty} • ${map.node_count} nodos</span>
+        </div>
+      `).join('');
+      searchResults.style.display = 'block';
+    } else {
+      searchResults.innerHTML = '<div class="search-result-item">No se encontraron resultados</div>';
+      searchResults.style.display = 'block';
+    }
+  }, 300));
+
+  // Cerrar resultados al hacer clic fuera
+  document.addEventListener('click', function(e) {
+    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+      searchResults.style.display = 'none';
+    }
+  });
+}
+
+async function openMap(mapId) {
+  try {
+    const res = await fetch(`data/maps/${mapId}.json`);
+    const mapData = await res.json();
+
+    document.getElementById('modalTitle').textContent = mapData.title;
+    document.getElementById('modalBody').innerHTML = renderMapTree(mapData.root);
+    document.getElementById('mapModal').classList.add('visible');
+    document.body.style.overflow = 'hidden';
+
+    // Inicializar toggle
+    initializeToggleLists();
+  } catch (error) {
+    console.error('Error abriendo mapa:', error);
+    alert('Error al cargar el mapa');
+  }
+}
+
+function renderMapTree(node, level = 0) {
+  if (!node) return '';
+
+  const text = node.text?.replace(/\n/g, '<br>') || '';
+  const hasChildren = node.children && node.children.length > 0;
+
+  let html = `<div class="toggle-item" data-level="${level}">`;
+
+  if (hasChildren) {
+    html += `
+      <div class="toggle-header">
+        <span class="toggle-icon">▶</span>
+        <span class="toggle-title">${text}</span>
+      </div>
+      <div class="toggle-children">
+        ${node.children.map(child => renderMapTree(child, level + 1)).join('')}
+      </div>
+    `;
+  } else {
+    html += `
+      <div class="toggle-header no-toggle">
+        <span class="toggle-icon">•</span>
+        <span class="toggle-title">${text}</span>
+      </div>
+    `;
+  }
+
+  html += '</div>';
+  return html;
+}
+
+function closeModal() {
+  document.getElementById('mapModal').classList.remove('visible');
+  document.body.style.overflow = '';
+}
+
+function debounce(func, wait) {
+  let timeout;
+  return function(...args) {
+    clearTimeout(timeout);
+    timeout = setTimeout(() => func.apply(this, args), wait);
+  };
+}
+
+// Cerrar modal con Escape
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeModal();
+});
+
+// Cerrar modal al hacer clic en overlay
+document.getElementById('mapModal').addEventListener('click', function(e) {
+  if (e.target === this) closeModal();
+});
+
+// Iniciar
+document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+<style>
+/* Estilos adicionales para búsqueda */
+.search-results {
+  max-width: 600px;
+  margin: 1rem auto;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  max-height: 400px;
+  overflow-y: auto;
+}
+.search-result-item {
+  padding: 1rem;
+  border-bottom: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.search-result-item:hover {
+  background: var(--gray-light);
+}
+.search-result-item:last-child {
+  border-bottom: none;
+}
+.search-result-meta {
+  display: block;
+  font-size: 0.85rem;
+  color: var(--gray);
+  margin-top: 0.25rem;
+}
+</style>
+
+</body>
+</html>

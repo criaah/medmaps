@@ -1,360 +1,625 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="MedMaps - Mapas mentales médicos interactivos para estudiantes y profesionales de la salud">
-  <title>MedMaps - Mapas Mentales Médicos</title>
-  <link rel="stylesheet" href="css/style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>MedMaps — Biblioteca de mapas clínicos</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/viewer.css?v=5">
+<style>
+  /* ========== LIBRARY HOMEPAGE ========== */
+  :root {
+    --bg: #fafaf7;
+    --card: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e8e6df;
+    --accent: #0072c6;
+    --accent-soft: #e6f1fb;
+  }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+  }
+  .lib-topbar {
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .lib-brand {
+    font-weight: 800;
+    font-size: 1.15rem;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .lib-brand::before {
+    content: '';
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .lib-search {
+    flex: 1;
+    max-width: 480px;
+    position: relative;
+  }
+  .lib-search input {
+    width: 100%;
+    padding: 0.6rem 1rem 0.6rem 2.5rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-family: inherit;
+    background: #fff;
+    box-sizing: border-box;
+  }
+  .lib-search input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  .lib-search::before {
+    content: '';
+    position: absolute;
+    left: 0.85rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%236b6b6b" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>') no-repeat center;
+    background-size: contain;
+  }
+  .lib-stats {
+    display: flex;
+    gap: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+  }
+  .lib-stats b { color: var(--ink); font-weight: 600; }
+
+  .lib-hero {
+    max-width: 1200px;
+    margin: 2.5rem auto 1.5rem;
+    padding: 0 2rem;
+  }
+  .lib-hero h1 {
+    font-family: 'Newsreader', serif;
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.02em;
+  }
+  .lib-hero p {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin: 0;
+  }
+
+  /* Filter pills */
+  .lib-filters {
+    max-width: 1200px;
+    margin: 1.5rem auto 0;
+    padding: 0 2rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .lib-pill {
+    border: 1px solid var(--line);
+    background: #fff;
+    padding: 0.4rem 0.95rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    font-family: inherit;
+    color: var(--ink);
+    transition: all .15s;
+  }
+  .lib-pill:hover { border-color: var(--accent); }
+  .lib-pill.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .lib-pill .count {
+    margin-left: 0.35rem;
+    opacity: 0.7;
+    font-size: 0.8rem;
+  }
+  .lib-pill.active .count { opacity: 0.9; }
+
+  /* Specialty grid */
+  .lib-grid {
+    max-width: 1200px;
+    margin: 2rem auto 4rem;
+    padding: 0 2rem;
+  }
+  .lib-specialty {
+    margin-bottom: 2.5rem;
+  }
+  .lib-specialty-head {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.9rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--line);
+  }
+  .lib-specialty-head h2 {
+    font-family: 'Newsreader', serif;
+    font-size: 1.4rem;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .lib-specialty-head .count {
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-variant-numeric: tabular-nums;
+  }
+  .lib-specialty-head .toggle {
+    margin-left: auto;
+    font-size: 0.8rem;
+    color: var(--accent);
+    cursor: pointer;
+    background: none;
+    border: none;
+    padding: 0;
+  }
+
+  .lib-maps {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 0.75rem;
+  }
+  .lib-map {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.9rem 1.1rem;
+    text-decoration: none;
+    color: var(--ink);
+    transition: all .15s;
+    display: block;
+  }
+  .lib-map:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  }
+  .lib-map-title {
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.35;
+    margin-bottom: 0.35rem;
+  }
+  .lib-map-meta {
+    font-size: 0.78rem;
+    color: var(--muted);
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  .lib-map-meta .badge {
+    background: var(--accent-soft);
+    color: var(--accent);
+    padding: 1px 8px;
+    border-radius: 4px;
+    font-size: 0.72rem;
+    font-weight: 500;
+  }
+  .lib-map.curated {
+    background: linear-gradient(180deg, #fff 70%, #fffbf0);
+    border-color: #e5d28f;
+  }
+  .lib-map.curated .lib-map-title::before {
+    content: '★ ';
+    color: #b48817;
+  }
+
+  .lib-loading, .lib-empty {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+  }
+  .lib-loading .spinner {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 3px solid var(--line);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+    margin-bottom: 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* Collapsed specialty */
+  .lib-specialty.collapsed .lib-maps { display: none; }
+  .lib-specialty.collapsed .toggle::after { content: ' ▾'; }
+  .lib-specialty .toggle::after { content: ' ▴'; }
+
+  /* ========== NOVEDADES (recent changes) ========== */
+  .lib-recent {
+    max-width: 1200px;
+    margin: 2rem auto 0;
+    padding: 0 2rem;
+  }
+  .lib-recent-head {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    margin-bottom: 0.9rem;
+  }
+  .lib-recent-head h2 {
+    font-family: 'Newsreader', serif;
+    font-size: 1.35rem;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -0.01em;
+  }
+  .lib-recent-head .sub {
+    color: var(--muted);
+    font-size: 0.85rem;
+  }
+  .lib-recent-tabs {
+    margin-left: auto;
+    display: flex;
+    gap: 0.3rem;
+  }
+  .lib-recent-tab {
+    border: 1px solid var(--line);
+    background: #fff;
+    padding: 0.3rem 0.75rem;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .lib-recent-tab.active {
+    background: var(--ink);
+    color: #fff;
+    border-color: var(--ink);
+  }
+  .lib-recent-track {
+    display: flex;
+    gap: 0.75rem;
+    overflow-x: auto;
+    padding-bottom: 0.5rem;
+    scroll-snap-type: x mandatory;
+  }
+  .lib-recent-track::-webkit-scrollbar { height: 6px; }
+  .lib-recent-track::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+  .lib-recent-card {
+    flex: 0 0 280px;
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 0.85rem 1rem;
+    text-decoration: none;
+    color: var(--ink);
+    scroll-snap-align: start;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    transition: all .15s;
+  }
+  .lib-recent-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0,0,0,.04);
+  }
+  .lib-recent-badges {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .lib-recent-badge {
+    font-size: 0.7rem;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  .lib-recent-badge.added   { background: #dcfce7; color: #15803d; }
+  .lib-recent-badge.updated { background: var(--accent-soft); color: var(--accent); }
+  .lib-recent-spec { font-size: 0.72rem; color: var(--muted); }
+  .lib-recent-title {
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.3;
+  }
+  .lib-recent-preview {
+    font-size: 0.8rem;
+    color: var(--muted);
+    line-height: 1.45;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .lib-recent-time {
+    font-size: 0.72rem;
+    color: var(--muted);
+    margin-top: auto;
+  }
+  .lib-recent-empty {
+    color: var(--muted);
+    font-size: 0.9rem;
+    padding: 1rem 0;
+  }
+
+  @media (max-width: 640px) {
+    .lib-topbar { padding: 0.75rem 1rem; flex-wrap: wrap; }
+    .lib-hero { padding: 0 1rem; margin-top: 1.5rem; }
+    .lib-hero h1 { font-size: 1.8rem; }
+    .lib-filters, .lib-grid, .lib-recent { padding: 0 1rem; }
+    .lib-maps { grid-template-columns: 1fr; }
+    .lib-stats { font-size: 0.75rem; gap: 0.5rem; }
+    .lib-recent-card { flex-basis: 260px; }
+  }
+</style>
 </head>
 <body>
 
-<header>
-  <div class="header-container">
-    <a href="/" class="logo">🧠 MedMaps</a>
-    <button class="hamburger" aria-label="Menú">
-      <span></span>
-      <span></span>
-      <span></span>
-    </button>
-    <nav>
-      <ul>
-        <li><a href="#especialidades">Especialidades</a></li>
-        <li><a href="planes.html">Planes</a></li>
-        <li><a href="explorar.html">Explorar Mapas</a></li>
-        <li><button id="themeToggle" class="theme-toggle" title="Cambiar tema">🌙</button></li>
-      </ul>
-    </nav>
+<header class="lib-topbar">
+  <a href="index.html" class="lib-brand">MedMaps</a>
+  <div class="lib-search">
+    <input type="search" id="libSearch" placeholder="Buscar en la biblioteca (nombre del mapa, tema…)" autocomplete="off">
+  </div>
+  <div class="lib-stats">
+    <span><b id="statMaps">—</b> mapas</span>
+    <span><b id="statSpecs">—</b> especialidades</span>
   </div>
 </header>
 
-<main>
+<section class="lib-hero">
+  <h1>Biblioteca de mapas clínicos</h1>
+  <p>Mapas mentales estructurados por especialidad. Curados (★) + auto-generados desde SimpleMind. Actualizado diariamente.</p>
+</section>
 
-  <!-- HERO SECTION -->
-  <section class="hero">
-    <div class="hero-content">
-      <h1>🧠 MedMaps</h1>
-      <p>Mapas mentales médicos interactivos para estudiantes y profesionales de la salud</p>
-      <div class="hero-buttons">
-        <a href="explorar.html" class="btn btn-primary">Explorar Mapas</a>
-        <a href="planes.html" class="btn btn-outline">Ver Planes</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- SEARCH SECTION -->
-  <section class="container section">
-    <h2 class="section-title">Buscar Tema</h2>
-    <div class="search-container">
-      <div class="search-bar">
-        <input type="search" id="searchInput" placeholder="Busca por especialidad, tema o enfermedad...">
-        <button id="searchBtn">Buscar</button>
-      </div>
-    </div>
-    <div id="searchResults" class="search-results" style="display:none;"></div>
-  </section>
-
-  <!-- ESPECIALIDADES SECTION -->
-  <section class="container section" id="especialidades">
-    <h2 class="section-title">Especialidades Disponibles</h2>
-    <p class="section-subtitle" id="specialtiesSubtitle">Cargando especialidades...</p>
-    <div class="grid" id="especialidadesGrid"></div>
-  </section>
-
-  <!-- STATS SECTION -->
-  <section class="stats-section">
-    <div class="container">
-      <div class="stats-grid">
-        <div class="stat-item" data-reveal>
-          <h3 id="statMaps">--</h3>
-          <p>Mapas Mentales</p>
-        </div>
-        <div class="stat-item" data-reveal>
-          <h3 id="statNodes">--</h3>
-          <p>Nodos de Conocimiento</p>
-        </div>
-        <div class="stat-item" data-reveal>
-          <h3 id="statSpecialties">--</h3>
-          <p>Especialidades</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- FEATURED MAP PREVIEW -->
-  <section class="container section" id="previewSection" style="display:none;">
-    <h2 class="section-title">Vista Previa</h2>
-    <div id="mapPreview" class="map-preview"></div>
-  </section>
-
-  <!-- CTA SECTION -->
-  <section class="container section" style="text-align: center;">
-    <h2 class="section-title">¿Listo para mejorar tu aprendizaje?</h2>
-    <p class="section-subtitle">Accede a todos los mapas mentales con una suscripción premium</p>
-    <a href="planes.html" class="btn btn-secondary">Ver Planes de Suscripción</a>
-  </section>
-
-</main>
-
-<footer>
-  <p>&copy; 2026 MedMaps - Mapas Mentales Médicos</p>
-  <p>Creado por Dr. Cristian Acevedo | <a href="https://github.com/criaah">GitHub</a></p>
-  <p style="font-size: 0.85rem; margin-top: 1rem;">Este sitio es una herramienta educativa.</p>
-</footer>
-
-<!-- Modal para visualizar mapas -->
-<div id="mapModal" class="modal-overlay">
-  <div class="modal">
-    <div class="modal-header">
-      <h2 id="modalTitle">Mapa Mental</h2>
-      <button class="modal-close">&times;</button>
-    </div>
-    <div class="modal-body" id="modalBody"></div>
-    <div class="modal-footer">
-      <button class="btn btn-secondary btn-small" onclick="closeModal()">Cerrar</button>
+<section class="lib-recent" id="libRecentSection" hidden>
+  <div class="lib-recent-head">
+    <h2>✨ Novedades</h2>
+    <span class="sub" id="libRecentSub">—</span>
+    <div class="lib-recent-tabs" id="libRecentTabs">
+      <button class="lib-recent-tab active" data-tab="all">Todos</button>
+      <button class="lib-recent-tab" data-tab="added">Nuevos</button>
+      <button class="lib-recent-tab" data-tab="updated">Actualizados</button>
     </div>
   </div>
-</div>
+  <div class="lib-recent-track" id="libRecentTrack"></div>
+</section>
 
-<script src="js/app.js"></script>
+<div class="lib-filters" id="libFilters"></div>
+
+<main class="lib-grid" id="libGrid">
+  <div class="lib-loading">
+    <div class="spinner"></div>
+    Cargando biblioteca desde el pipeline…
+  </div>
+</main>
+
+<script src="js/data-loader.js?v=1"></script>
 <script>
-// Emojis por especialidad
-const SPECIALTY_EMOJIS = {
-  'Cardiología': '❤️',
-  'Geriatría': '👴',
-  'Neurología': '🧠',
-  'Nefrología': '🫘',
-  'Endocrinología': '🦋',
-  'General': '📚',
-  'Estudios Pivotales': '⭐',
-  'Continuum': '📖',
-  'Hematología': '🩸',
-  'Infectología': '🦠',
-  'Pediatría': '👶',
-  'Gastroenterología': '🫃',
-  'Neumología': '🫁',
-  'Dermatología': '🧴',
-  'Reumatología': '🤲',
-  'Traumatología': '🦴',
-  'Oncología': '🎗️',
-  'UCI': '🏥',
-  'Psiquiatría': '🧩',
-};
+(function() {
+  'use strict';
 
-let mapsIndex = [];
-let specialtiesData = {};
-let statsData = {};
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
-// Cargar datos al iniciar
-async function loadData() {
-  try {
-    // Cargar estadísticas
-    const statsRes = await fetch('data/stats.json');
-    statsData = await statsRes.json();
+  // Mapas curados (legacy hardcoded) — destacados en la biblioteca
+  const CURATED = [
+    { id: 'fa', title: 'Fibrilación auricular', specialty: 'Cardiología', curated: true },
+    { id: 'inph', title: 'Hidrocefalia normotensiva', specialty: 'Neurología', curated: true }
+  ];
 
-    // Cargar especialidades
-    const specRes = await fetch('data/specialties.json');
-    specialtiesData = await specRes.json();
+  let allMaps = [];
+  let currentFilter = null;
+  let currentQuery = '';
+  let recentData = null;
+  let recentTab = 'all';
 
-    // Cargar índice de mapas
-    const mapsRes = await fetch('data/maps_index.json');
-    mapsIndex = await mapsRes.json();
-
-    // Actualizar UI
-    updateStats();
-    renderSpecialties();
-    setupSearch();
-  } catch (error) {
-    console.error('Error cargando datos:', error);
-    document.getElementById('specialtiesSubtitle').textContent =
-      'Error cargando datos. Verifica la conexión.';
+  async function init() {
+    try {
+      const idx = await window.MedMapsData.loadIndex();
+      allMaps = [
+        ...CURATED,
+        ...idx.map(m => ({
+          id: m.id,
+          title: m.title || '(sin título)',
+          specialty: m.specialty || 'General',
+          folder: m.folder,
+          nodeCount: m.node_count || 0,
+          curated: false
+        }))
+      ];
+      render();
+      // recent.json es opcional — si no existe, ocultamos la sección
+      try {
+        const r = await fetch('data/recent.json');
+        if (r.ok) {
+          recentData = await r.json();
+          renderRecent();
+        }
+      } catch (e) { /* noop */ }
+    } catch (e) {
+      $('#libGrid').innerHTML = `<div class="lib-empty">
+        <p><b>No se pudo cargar la biblioteca.</b></p>
+        <p style="font-size:.85rem">Verifica que existe <code>data/maps_index.json</code> o que el symlink <code>data-shared</code> apunta al repo medmaps.</p>
+        <p style="font-size:.85rem;color:#a00">Error: ${esc(e.message)}</p>
+      </div>`;
+    }
   }
-}
 
-function updateStats() {
-  document.getElementById('statMaps').textContent = statsData.total_maps?.toLocaleString() || '254';
-  document.getElementById('statNodes').textContent = statsData.total_nodes?.toLocaleString() || '74,069';
-  document.getElementById('statSpecialties').textContent = statsData.specialties_count || '8';
-  document.getElementById('specialtiesSubtitle').textContent =
-    `Accede a ${statsData.total_maps} mapas mentales de ${statsData.specialties_count} especialidades`;
-}
+  function humanAgo(days) {
+    if (days === 0) return 'hoy';
+    if (days === 1) return 'ayer';
+    if (days < 7)  return `hace ${days} días`;
+    if (days < 14) return 'hace 1 semana';
+    if (days < 30) return `hace ${Math.floor(days/7)} semanas`;
+    return `hace ${Math.floor(days/30)} mes${Math.floor(days/30) > 1 ? 'es' : ''}`;
+  }
 
-function renderSpecialties() {
-  const grid = document.getElementById('especialidadesGrid');
-  grid.innerHTML = '';
+  function renderRecent() {
+    if (!recentData || !recentData.items || !recentData.items.length) return;
+    document.getElementById('libRecentSection').hidden = false;
+    const filtered = recentTab === 'all'
+      ? recentData.items
+      : recentData.items.filter(it => it.change_type === recentTab);
+    const nAdded = recentData.items.filter(i => i.change_type === 'added').length;
+    const nUpd   = recentData.items.filter(i => i.change_type === 'updated').length;
+    document.getElementById('libRecentSub').textContent =
+      `${nAdded} nuevo${nAdded !== 1 ? 's' : ''} · ${nUpd} actualizado${nUpd !== 1 ? 's' : ''} (últimos 30 días)`;
+    const track = document.getElementById('libRecentTrack');
+    if (!filtered.length) {
+      track.innerHTML = '<div class="lib-recent-empty">Sin cambios en este segmento.</div>';
+      return;
+    }
+    track.innerHTML = filtered.map(it => `
+      <a class="lib-recent-card" href="viewer.html?id=${encodeURIComponent(it.id)}">
+        <div class="lib-recent-badges">
+          <span class="lib-recent-badge ${it.change_type}">${it.change_type === 'added' ? 'Nuevo' : 'Actualizado'}</span>
+          <span class="lib-recent-spec">${esc(it.specialty || 'General')}</span>
+        </div>
+        <div class="lib-recent-title">${esc(it.title)}</div>
+        ${it.preview ? `<div class="lib-recent-preview">${esc(it.preview)}</div>` : ''}
+        <div class="lib-recent-time">${humanAgo(it.updated_days_ago)}${it.node_count ? ` · ${it.node_count} nodos` : ''}</div>
+      </a>
+    `).join('');
+  }
 
-  // Ordenar por cantidad de mapas
-  const sortedSpecs = Object.entries(specialtiesData)
-    .sort((a, b) => b[1].count - a[1].count);
-
-  sortedSpecs.forEach(([name, data]) => {
-    const emoji = SPECIALTY_EMOJIS[name] || '📋';
-    const card = document.createElement('div');
-    card.className = 'card';
-    card.setAttribute('data-searchable', name);
-    card.innerHTML = `
-      <div class="card-header">
-        <h3>${emoji} ${name}</h3>
-        <p class="specialty-count">${data.count} mapas disponibles</p>
-      </div>
-      <div class="card-body">
-        <p>Accede a mapas mentales comprensivos sobre ${name}.</p>
-      </div>
-      <div class="card-footer">
-        <a href="explorar.html?specialty=${encodeURIComponent(name)}" class="btn btn-secondary">Ver Mapas</a>
-      </div>
-    `;
-    grid.appendChild(card);
+  document.getElementById('libRecentTabs').addEventListener('click', (e) => {
+    const btn = e.target.closest('.lib-recent-tab');
+    if (!btn) return;
+    recentTab = btn.dataset.tab;
+    document.querySelectorAll('.lib-recent-tab').forEach(b =>
+      b.classList.toggle('active', b.dataset.tab === recentTab)
+    );
+    renderRecent();
   });
-}
 
-function setupSearch() {
-  const searchInput = document.getElementById('searchInput');
-  const searchResults = document.getElementById('searchResults');
+  function getBySpecialty(maps) {
+    const out = {};
+    maps.forEach(m => {
+      (out[m.specialty] = out[m.specialty] || []).push(m);
+    });
+    return out;
+  }
 
-  searchInput.addEventListener('input', debounce(function() {
-    const query = this.value.toLowerCase().trim();
+  function filtered() {
+    let m = allMaps;
+    if (currentFilter) m = m.filter(x => x.specialty === currentFilter);
+    if (currentQuery) {
+      const q = currentQuery.toLowerCase();
+      m = m.filter(x => x.title.toLowerCase().includes(q));
+    }
+    return m;
+  }
 
-    if (query.length < 2) {
-      searchResults.style.display = 'none';
+  function render() {
+    const maps = filtered();
+    const bySpec = getBySpecialty(maps);
+    const allBySpec = getBySpecialty(allMaps);
+
+    // Stats
+    $('#statMaps').textContent = allMaps.length.toLocaleString('es-CL');
+    $('#statSpecs').textContent = Object.keys(allBySpec).length;
+
+    // Filters
+    const specs = Object.keys(allBySpec).sort((a, b) => allBySpec[b].length - allBySpec[a].length);
+    $('#libFilters').innerHTML = [
+      `<button class="lib-pill ${!currentFilter ? 'active' : ''}" data-spec="">Todos <span class="count">${allMaps.length}</span></button>`,
+      ...specs.map(s =>
+        `<button class="lib-pill ${currentFilter === s ? 'active' : ''}" data-spec="${esc(s)}">${esc(s)} <span class="count">${allBySpec[s].length}</span></button>`
+      )
+    ].join('');
+    document.querySelectorAll('.lib-pill').forEach(btn => {
+      btn.addEventListener('click', () => {
+        currentFilter = btn.dataset.spec || null;
+        render();
+      });
+    });
+
+    // Grid
+    if (!maps.length) {
+      $('#libGrid').innerHTML = `<div class="lib-empty">Sin resultados para "${esc(currentQuery)}"</div>`;
       return;
     }
 
-    const results = mapsIndex.filter(map =>
-      map.title.toLowerCase().includes(query) ||
-      map.specialty.toLowerCase().includes(query) ||
-      map.filename.toLowerCase().includes(query)
-    ).slice(0, 10);
+    // Ordenar especialidades: curados primero, luego por tamaño descendente
+    const renderSpecs = Object.keys(bySpec).sort((a, b) => {
+      const aHasCur = bySpec[a].some(m => m.curated);
+      const bHasCur = bySpec[b].some(m => m.curated);
+      if (aHasCur !== bHasCur) return bHasCur - aHasCur;
+      return bySpec[b].length - bySpec[a].length;
+    });
 
-    if (results.length > 0) {
-      searchResults.innerHTML = results.map(map => `
-        <div class="search-result-item" onclick="openMap('${map.id}')">
-          <strong>${map.title}</strong>
-          <span class="search-result-meta">${SPECIALTY_EMOJIS[map.specialty] || '📋'} ${map.specialty} • ${map.node_count} nodos</span>
-        </div>
-      `).join('');
-      searchResults.style.display = 'block';
-    } else {
-      searchResults.innerHTML = '<div class="search-result-item">No se encontraron resultados</div>';
-      searchResults.style.display = 'block';
-    }
-  }, 300));
+    $('#libGrid').innerHTML = renderSpecs.map(spec => {
+      const items = bySpec[spec];
+      // Curados primero dentro de cada especialidad
+      items.sort((a, b) => (b.curated - a.curated) || a.title.localeCompare(b.title, 'es'));
+      const cardsHTML = items.map(m =>
+        `<a class="lib-map ${m.curated ? 'curated' : ''}" href="viewer.html?id=${encodeURIComponent(m.id)}">
+          <div class="lib-map-title">${esc(m.title)}</div>
+          <div class="lib-map-meta">
+            ${m.curated ? '<span class="badge">Curado</span>' : ''}
+            ${m.nodeCount ? `<span>${m.nodeCount} nodos</span>` : ''}
+            ${m.folder && m.folder !== m.specialty ? `<span>· ${esc(m.folder)}</span>` : ''}
+          </div>
+        </a>`
+      ).join('');
+      return `<section class="lib-specialty" data-spec="${esc(spec)}">
+        <header class="lib-specialty-head">
+          <h2>${esc(spec)}</h2>
+          <span class="count">${items.length} mapa${items.length !== 1 ? 's' : ''}</span>
+          <button class="toggle" aria-label="Plegar/desplegar">Plegar</button>
+        </header>
+        <div class="lib-maps">${cardsHTML}</div>
+      </section>`;
+    }).join('');
 
-  // Cerrar resultados al hacer clic fuera
-  document.addEventListener('click', function(e) {
-    if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
-      searchResults.style.display = 'none';
-    }
+    // Toggle fold
+    document.querySelectorAll('.lib-specialty .toggle').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.preventDefault();
+        btn.closest('.lib-specialty').classList.toggle('collapsed');
+        btn.textContent = btn.closest('.lib-specialty').classList.contains('collapsed') ? 'Desplegar' : 'Plegar';
+      });
+    });
+  }
+
+  // Search input
+  let searchTimer;
+  document.getElementById('libSearch').addEventListener('input', (e) => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => {
+      currentQuery = e.target.value.trim();
+      render();
+    }, 150);
   });
-}
 
-async function openMap(mapId) {
-  try {
-    const res = await fetch(`data/maps/${mapId}.json`);
-    const mapData = await res.json();
-
-    document.getElementById('modalTitle').textContent = mapData.title;
-    document.getElementById('modalBody').innerHTML = renderMapTree(mapData.root);
-    document.getElementById('mapModal').classList.add('visible');
-    document.body.style.overflow = 'hidden';
-
-    // Inicializar toggle
-    initializeToggleLists();
-  } catch (error) {
-    console.error('Error abriendo mapa:', error);
-    alert('Error al cargar el mapa');
-  }
-}
-
-function renderMapTree(node, level = 0) {
-  if (!node) return '';
-
-  const text = node.text?.replace(/\n/g, '<br>') || '';
-  const hasChildren = node.children && node.children.length > 0;
-
-  let html = `<div class="toggle-item" data-level="${level}">`;
-
-  if (hasChildren) {
-    html += `
-      <div class="toggle-header">
-        <span class="toggle-icon">▶</span>
-        <span class="toggle-title">${text}</span>
-      </div>
-      <div class="toggle-children">
-        ${node.children.map(child => renderMapTree(child, level + 1)).join('')}
-      </div>
-    `;
-  } else {
-    html += `
-      <div class="toggle-header no-toggle">
-        <span class="toggle-icon">•</span>
-        <span class="toggle-title">${text}</span>
-      </div>
-    `;
-  }
-
-  html += '</div>';
-  return html;
-}
-
-function closeModal() {
-  document.getElementById('mapModal').classList.remove('visible');
-  document.body.style.overflow = '';
-}
-
-function debounce(func, wait) {
-  let timeout;
-  return function(...args) {
-    clearTimeout(timeout);
-    timeout = setTimeout(() => func.apply(this, args), wait);
-  };
-}
-
-// Cerrar modal con Escape
-document.addEventListener('keydown', function(e) {
-  if (e.key === 'Escape') closeModal();
-});
-
-// Cerrar modal al hacer clic en overlay
-document.getElementById('mapModal').addEventListener('click', function(e) {
-  if (e.target === this) closeModal();
-});
-
-// Iniciar
-document.addEventListener('DOMContentLoaded', loadData);
+  init();
+})();
 </script>
-
-<style>
-/* Estilos adicionales para búsqueda */
-.search-results {
-  max-width: 600px;
-  margin: 1rem auto;
-  background: var(--white);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  max-height: 400px;
-  overflow-y: auto;
-}
-.search-result-item {
-  padding: 1rem;
-  border-bottom: 1px solid var(--border);
-  cursor: pointer;
-  transition: background 0.2s;
-}
-.search-result-item:hover {
-  background: var(--gray-light);
-}
-.search-result-item:last-child {
-  border-bottom: none;
-}
-.search-result-meta {
-  display: block;
-  font-size: 0.85rem;
-  color: var(--gray);
-  margin-top: 0.25rem;
-}
-</style>
 
 </body>
 </html>
