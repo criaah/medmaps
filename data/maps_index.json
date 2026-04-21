@@ -1274,7 +1274,7 @@
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
     "filename": "Estimulación cardiaca ESC-2024",
-    "node_count": 776,
+    "node_count": 790,
     "has_references": false
   },
   {
@@ -7403,7 +7403,7 @@
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
     "filename": "Continuum. Síntomas neuropsiquiátricos en la demencia",
-    "node_count": 728,
+    "node_count": 742,
     "has_references": false
   },
   {
@@ -10049,7 +10049,7 @@
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
     "filename": "3. Enfermedad coronaria",
-    "node_count": 732,
+    "node_count": 746,
     "has_references": false
   },
   {
@@ -22083,6 +22083,33 @@
     "folder": "Estudios Pivotales",
     "filename": "SUPPORT-2026",
     "node_count": 10,
+    "has_references": true
+  },
+  {
+    "id": "map_2485",
+    "title": "IPPB Superficiales-1",
+    "specialty": "General",
+    "folder": "Imported",
+    "filename": "IPPB Superficiales-1",
+    "node_count": 533,
+    "has_references": true
+  },
+  {
+    "id": "map_2486",
+    "title": "IPPB Superficiales-2",
+    "specialty": "General",
+    "folder": "Imported",
+    "filename": "IPPB Superficiales-2",
+    "node_count": 803,
+    "has_references": true
+  },
+  {
+    "id": "map_2487",
+    "title": "IPPB Superficiales",
+    "specialty": "General",
+    "folder": "Imported",
+    "filename": "IPPB Superficiales",
+    "node_count": 281,
     "has_references": true
   },
   {
