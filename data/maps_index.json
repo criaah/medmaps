@@ -64,6 +64,15 @@
   },
   {
     "id": "map_7",
+    "title": "MUE_ACV_Stroke",
+    "specialty": "General",
+    "folder": "Apuntes-de-Clases/MUE-USS",
+    "filename": "MUE_ACV_Stroke",
+    "node_count": 199,
+    "has_references": true
+  },
+  {
+    "id": "map_8",
     "title": "MUE_Anafilaxia",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -72,7 +81,7 @@
     "has_references": false
   },
   {
-    "id": "map_8",
+    "id": "map_9",
     "title": "MUE_EPOC_Asma_Grave",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -81,7 +90,7 @@
     "has_references": true
   },
   {
-    "id": "map_9",
+    "id": "map_10",
     "title": "MUE_Emergencias_Diabeticas",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -90,7 +99,7 @@
     "has_references": false
   },
   {
-    "id": "map_10",
+    "id": "map_11",
     "title": "MUE_FA_Arritmias",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -99,7 +108,7 @@
     "has_references": false
   },
   {
-    "id": "map_11",
+    "id": "map_12",
     "title": "MUE_Hemorragia_Digestiva",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -108,7 +117,7 @@
     "has_references": true
   },
   {
-    "id": "map_12",
+    "id": "map_13",
     "title": "MUE_IC_Descompensada",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -117,7 +126,16 @@
     "has_references": true
   },
   {
-    "id": "map_13",
+    "id": "map_14",
+    "title": "MUE_SCA",
+    "specialty": "General",
+    "folder": "Apuntes-de-Clases/MUE-USS",
+    "filename": "MUE_SCA",
+    "node_count": 208,
+    "has_references": true
+  },
+  {
+    "id": "map_15",
     "title": "MUE_Sepsis_Shock_Septico",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -126,7 +144,7 @@
     "has_references": true
   },
   {
-    "id": "map_14",
+    "id": "map_16",
     "title": "MUE_Status_Epileptico",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -135,7 +153,7 @@
     "has_references": false
   },
   {
-    "id": "map_15",
+    "id": "map_17",
     "title": "MUE_TEP",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/MUE-USS",
@@ -144,7 +162,7 @@
     "has_references": true
   },
   {
-    "id": "map_16",
+    "id": "map_18",
     "title": "POCUS EcoTT Springer-2024",
     "specialty": "General",
     "folder": "Apuntes-de-Clases/POCUS-Curriculum",
@@ -153,7 +171,7 @@
     "has_references": true
   },
   {
-    "id": "map_17",
+    "id": "map_19",
     "title": "(P) - ICFEr-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -162,7 +180,7 @@
     "has_references": true
   },
   {
-    "id": "map_18",
+    "id": "map_20",
     "title": "3. Enfermedad coronaria-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -171,7 +189,7 @@
     "has_references": true
   },
   {
-    "id": "map_19",
+    "id": "map_21",
     "title": "Amiodarona-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -180,7 +198,7 @@
     "has_references": true
   },
   {
-    "id": "map_20",
+    "id": "map_22",
     "title": "Anomalía de Ebstein-2026",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -189,7 +207,7 @@
     "has_references": true
   },
   {
-    "id": "map_21",
+    "id": "map_23",
     "title": "Anomalía de Ebstein",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -198,7 +216,7 @@
     "has_references": true
   },
   {
-    "id": "map_22",
+    "id": "map_24",
     "title": "Antagonistas del receptor de Orexina-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -207,7 +225,7 @@
     "has_references": true
   },
   {
-    "id": "map_23",
+    "id": "map_25",
     "title": "Anticoagulación-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -216,7 +234,7 @@
     "has_references": true
   },
   {
-    "id": "map_24",
+    "id": "map_26",
     "title": "Arritmias-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -225,7 +243,7 @@
     "has_references": true
   },
   {
-    "id": "map_25",
+    "id": "map_27",
     "title": "Arteaga | Hipertensión Endocrina-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -234,7 +252,7 @@
     "has_references": true
   },
   {
-    "id": "map_26",
+    "id": "map_28",
     "title": "Bloque0 FundamentosCardiogeriatria iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -243,7 +261,7 @@
     "has_references": true
   },
   {
-    "id": "map_27",
+    "id": "map_29",
     "title": "BloqueoAV Completo iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -252,7 +270,7 @@
     "has_references": true
   },
   {
-    "id": "map_28",
+    "id": "map_30",
     "title": "Bradicardia-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -261,7 +279,7 @@
     "has_references": true
   },
   {
-    "id": "map_29",
+    "id": "map_31",
     "title": "Cardio Crisis HTA-2017",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -270,7 +288,7 @@
     "has_references": false
   },
   {
-    "id": "map_30",
+    "id": "map_32",
     "title": "Cardio Crisis HTA",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -279,7 +297,7 @@
     "has_references": true
   },
   {
-    "id": "map_31",
+    "id": "map_33",
     "title": "Cardio Electrocardiograma --2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -288,7 +306,7 @@
     "has_references": true
   },
   {
-    "id": "map_32",
+    "id": "map_34",
     "title": "Cardio Electrocardiograma -",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -297,7 +315,7 @@
     "has_references": true
   },
   {
-    "id": "map_33",
+    "id": "map_35",
     "title": "Cardio Enfermedades de la aorta",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -306,7 +324,7 @@
     "has_references": true
   },
   {
-    "id": "map_34",
+    "id": "map_36",
     "title": "Cardio Enfermedades del pericardio",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -315,7 +333,7 @@
     "has_references": true
   },
   {
-    "id": "map_35",
+    "id": "map_37",
     "title": "Cardio Factores de riesgo cardiovascular",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -324,7 +342,7 @@
     "has_references": true
   },
   {
-    "id": "map_36",
+    "id": "map_38",
     "title": "Cardio Fármacos antiHTA",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -333,7 +351,7 @@
     "has_references": true
   },
   {
-    "id": "map_37",
+    "id": "map_39",
     "title": "Cardio HTA 2º-2017",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -342,7 +360,7 @@
     "has_references": false
   },
   {
-    "id": "map_38",
+    "id": "map_40",
     "title": "Cardio HTA 2º",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -351,7 +369,7 @@
     "has_references": true
   },
   {
-    "id": "map_39",
+    "id": "map_41",
     "title": "Cardio Insuficiencia cardiaca descompensada",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -360,7 +378,7 @@
     "has_references": true
   },
   {
-    "id": "map_40",
+    "id": "map_42",
     "title": "Cardio Pericarditis aguda",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -369,7 +387,7 @@
     "has_references": true
   },
   {
-    "id": "map_41",
+    "id": "map_43",
     "title": "Cardio Shock cardiogenico",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -378,7 +396,7 @@
     "has_references": true
   },
   {
-    "id": "map_42",
+    "id": "map_44",
     "title": "Cardio Valvulopatías FALTA-2015",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -387,7 +405,7 @@
     "has_references": true
   },
   {
-    "id": "map_43",
+    "id": "map_45",
     "title": "Cardio Valvulopatías-2015",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -396,7 +414,7 @@
     "has_references": true
   },
   {
-    "id": "map_44",
+    "id": "map_46",
     "title": "Cardio Valvulopatías",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -405,7 +423,7 @@
     "has_references": true
   },
   {
-    "id": "map_45",
+    "id": "map_47",
     "title": "Cardiomiopatias-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -414,7 +432,7 @@
     "has_references": true
   },
   {
-    "id": "map_46",
+    "id": "map_48",
     "title": "Cateterismo cardiaco-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -423,7 +441,7 @@
     "has_references": true
   },
   {
-    "id": "map_47",
+    "id": "map_49",
     "title": "Cirugía de revascularización coronaria-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -432,7 +450,7 @@
     "has_references": true
   },
   {
-    "id": "map_48",
+    "id": "map_50",
     "title": "DAPA-HF",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -441,7 +459,7 @@
     "has_references": true
   },
   {
-    "id": "map_49",
+    "id": "map_51",
     "title": "Deterioro cognitivo Vascular-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -450,7 +468,7 @@
     "has_references": true
   },
   {
-    "id": "map_50",
+    "id": "map_52",
     "title": "ERA en Cardioquirurgico-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -459,7 +477,7 @@
     "has_references": true
   },
   {
-    "id": "map_51",
+    "id": "map_53",
     "title": "Ecocardio-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -468,7 +486,7 @@
     "has_references": true
   },
   {
-    "id": "map_52",
+    "id": "map_54",
     "title": "Ecocardiograma-realizacion-20260417",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -477,7 +495,7 @@
     "has_references": true
   },
   {
-    "id": "map_53",
+    "id": "map_55",
     "title": "Electrocardiograma-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -486,7 +504,7 @@
     "has_references": true
   },
   {
-    "id": "map_54",
+    "id": "map_56",
     "title": "Enfermedad de las arterias coronarias-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -495,7 +513,7 @@
     "has_references": true
   },
   {
-    "id": "map_55",
+    "id": "map_57",
     "title": "Estimulación cardiaca ESC-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -504,7 +522,7 @@
     "has_references": false
   },
   {
-    "id": "map_56",
+    "id": "map_58",
     "title": "Estudios_Pivotales_Cardiologia_DEMO",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -513,7 +531,7 @@
     "has_references": true
   },
   {
-    "id": "map_57",
+    "id": "map_59",
     "title": "Examen Cardiaco-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -522,7 +540,7 @@
     "has_references": false
   },
   {
-    "id": "map_58",
+    "id": "map_60",
     "title": "FA_GABA_Cardioversion_Mac",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -531,7 +549,7 @@
     "has_references": true
   },
   {
-    "id": "map_59",
+    "id": "map_61",
     "title": "Fibrilación auricular-2023",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -540,7 +558,7 @@
     "has_references": true
   },
   {
-    "id": "map_60",
+    "id": "map_62",
     "title": "Fisiatria. ACV y rehabilitación",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -549,7 +567,7 @@
     "has_references": true
   },
   {
-    "id": "map_61",
+    "id": "map_63",
     "title": "Fisiatria. Intervenciones rehabilitación ACV",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -558,7 +576,7 @@
     "has_references": true
   },
   {
-    "id": "map_62",
+    "id": "map_64",
     "title": "Fisiología Cardiaca-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -567,7 +585,7 @@
     "has_references": false
   },
   {
-    "id": "map_63",
+    "id": "map_65",
     "title": "Infarto de miocardio con arterias coronarias no obstructivas (MINOCA)-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -576,7 +594,7 @@
     "has_references": true
   },
   {
-    "id": "map_64",
+    "id": "map_66",
     "title": "Infarto renal-2023",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -585,7 +603,7 @@
     "has_references": true
   },
   {
-    "id": "map_65",
+    "id": "map_67",
     "title": "Insuficiencia cardiaca aguda-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -594,7 +612,7 @@
     "has_references": true
   },
   {
-    "id": "map_66",
+    "id": "map_68",
     "title": "Insuficiencia cardiaca crónica",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -603,7 +621,7 @@
     "has_references": true
   },
   {
-    "id": "map_67",
+    "id": "map_69",
     "title": "Intoxicacion Cocaina ACV iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -612,7 +630,7 @@
     "has_references": true
   },
   {
-    "id": "map_68",
+    "id": "map_70",
     "title": "Mapa01 PacienteGeriatricoECV iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -621,7 +639,7 @@
     "has_references": true
   },
   {
-    "id": "map_69",
+    "id": "map_71",
     "title": "Mapa02 SindromesGeriatricos iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -630,7 +648,7 @@
     "has_references": true
   },
   {
-    "id": "map_70",
+    "id": "map_72",
     "title": "Mapa04 FRCV iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -639,7 +657,7 @@
     "has_references": true
   },
   {
-    "id": "map_71",
+    "id": "map_73",
     "title": "Mapa05 Calculadoras iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -648,7 +666,7 @@
     "has_references": true
   },
   {
-    "id": "map_72",
+    "id": "map_74",
     "title": "Mapa06 PrevencionPrimaria iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -657,7 +675,7 @@
     "has_references": true
   },
   {
-    "id": "map_73",
+    "id": "map_75",
     "title": "Mapa07 PrevencionSecundaria iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -666,7 +684,7 @@
     "has_references": true
   },
   {
-    "id": "map_74",
+    "id": "map_76",
     "title": "Marcapasos ProblemasComunes iPad",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -675,7 +693,7 @@
     "has_references": true
   },
   {
-    "id": "map_75",
+    "id": "map_77",
     "title": "Miocardiopatías-2026",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -684,7 +702,7 @@
     "has_references": true
   },
   {
-    "id": "map_76",
+    "id": "map_78",
     "title": "Miocardiopatías",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -693,7 +711,7 @@
     "has_references": true
   },
   {
-    "id": "map_77",
+    "id": "map_79",
     "title": "Nitratos-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -702,7 +720,7 @@
     "has_references": true
   },
   {
-    "id": "map_78",
+    "id": "map_80",
     "title": "Oftalmopatía de la arteritis de células gigantes-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -711,7 +729,7 @@
     "has_references": true
   },
   {
-    "id": "map_79",
+    "id": "map_81",
     "title": "Pericarditis-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -720,7 +738,7 @@
     "has_references": true
   },
   {
-    "id": "map_80",
+    "id": "map_82",
     "title": "Reduccion del riesgo cardiovascular en Personas Mayores-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -729,7 +747,7 @@
     "has_references": true
   },
   {
-    "id": "map_81",
+    "id": "map_83",
     "title": "Síndromes vasculares de arterias intra y extracraniales-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -738,7 +756,7 @@
     "has_references": true
   },
   {
-    "id": "map_82",
+    "id": "map_84",
     "title": "Taquiarritmias-2023",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -747,7 +765,7 @@
     "has_references": true
   },
   {
-    "id": "map_83",
+    "id": "map_85",
     "title": "Taquiarritmias-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -756,7 +774,7 @@
     "has_references": true
   },
   {
-    "id": "map_84",
+    "id": "map_86",
     "title": "Taquicardias supraventriculares (TSV)-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -765,7 +783,7 @@
     "has_references": true
   },
   {
-    "id": "map_85",
+    "id": "map_87",
     "title": "Wiki. Trombosis Venosa Cerebral-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -774,7 +792,7 @@
     "has_references": true
   },
   {
-    "id": "map_86",
+    "id": "map_88",
     "title": "Williams. ANEMIA ORIGINADA POR OTRAS DEFICIENCIAS NUTRICIONALES-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -783,7 +801,7 @@
     "has_references": true
   },
   {
-    "id": "map_87",
+    "id": "map_89",
     "title": "Williams. APLASIA ERITROCITARIA PURA-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -792,7 +810,7 @@
     "has_references": true
   },
   {
-    "id": "map_88",
+    "id": "map_90",
     "title": "Williams. TRASTORNOS DE LA MEMBRANA DE LOS ERITROCITOS-2025",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
@@ -801,7 +819,7 @@
     "has_references": true
   },
   {
-    "id": "map_89",
+    "id": "map_91",
     "title": "Qx An Arritmias en anestesia-2018",
     "specialty": "Cirugía",
     "folder": "Entidades clínicas/Cirugía",
@@ -810,7 +828,7 @@
     "has_references": true
   },
   {
-    "id": "map_90",
+    "id": "map_92",
     "title": "2. Geriatria. Demografía Chile-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -819,7 +837,7 @@
     "has_references": true
   },
   {
-    "id": "map_91",
+    "id": "map_93",
     "title": "2. Geriatría. Demografía y políticas publicas-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -828,7 +846,7 @@
     "has_references": true
   },
   {
-    "id": "map_92",
+    "id": "map_94",
     "title": "AM Hospitalizado Dra. Meneses-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -837,7 +855,7 @@
     "has_references": true
   },
   {
-    "id": "map_93",
+    "id": "map_95",
     "title": "Bases Moleculares del Envejecimiento Dr. Rosson-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -846,7 +864,7 @@
     "has_references": true
   },
   {
-    "id": "map_94",
+    "id": "map_96",
     "title": "CFS Urgencia Chile iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -855,7 +873,7 @@
     "has_references": true
   },
   {
-    "id": "map_95",
+    "id": "map_97",
     "title": "Caidas-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -864,7 +882,7 @@
     "has_references": true
   },
   {
-    "id": "map_96",
+    "id": "map_98",
     "title": "Caídas Adulto Mayor NICE2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -873,7 +891,7 @@
     "has_references": true
   },
   {
-    "id": "map_97",
+    "id": "map_99",
     "title": "Charla. VIH, Envejecimiento y Cognición- Interacciones entre VIH y Enfermedad de Alzheimer-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -882,7 +900,16 @@
     "has_references": false
   },
   {
-    "id": "map_98",
+    "id": "map_100",
+    "title": "01-Cuidador-Bases",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría/Cuidados-Domicilio",
+    "filename": "01-Cuidador-Bases",
+    "node_count": 201,
+    "has_references": false
+  },
+  {
+    "id": "map_101",
     "title": "02-AVD-Cuidados-Basicos",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría/Cuidados-Domicilio",
@@ -891,7 +918,7 @@
     "has_references": false
   },
   {
-    "id": "map_99",
+    "id": "map_102",
     "title": "03-Sindromes-Geriatricos-Domicilio",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría/Cuidados-Domicilio",
@@ -900,7 +927,7 @@
     "has_references": true
   },
   {
-    "id": "map_100",
+    "id": "map_103",
     "title": "04-Cuidados-Especiales-Contexto-Social",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría/Cuidados-Domicilio",
@@ -909,7 +936,7 @@
     "has_references": false
   },
   {
-    "id": "map_101",
+    "id": "map_104",
     "title": "Dolor-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -918,7 +945,7 @@
     "has_references": false
   },
   {
-    "id": "map_102",
+    "id": "map_105",
     "title": "Evaluación de la Demencia y el Deterioro Cognitivo  UTD-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -927,7 +954,7 @@
     "has_references": true
   },
   {
-    "id": "map_103",
+    "id": "map_106",
     "title": "Fisiologia del envejecimiento Dr. Gallardo-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -936,7 +963,7 @@
     "has_references": true
   },
   {
-    "id": "map_104",
+    "id": "map_107",
     "title": "Fragilidad UTD-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -945,7 +972,7 @@
     "has_references": true
   },
   {
-    "id": "map_105",
+    "id": "map_108",
     "title": "Fragilidad y sarcopenia Dra. Meneses-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -954,7 +981,7 @@
     "has_references": true
   },
   {
-    "id": "map_106",
+    "id": "map_109",
     "title": "Geriatría. Alimentación enteral",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -963,7 +990,7 @@
     "has_references": false
   },
   {
-    "id": "map_107",
+    "id": "map_110",
     "title": "Geriatría. Criterios Beers STOPP START",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -972,7 +999,7 @@
     "has_references": true
   },
   {
-    "id": "map_108",
+    "id": "map_111",
     "title": "Geriatría. Demencia con cuerpos de Lewy (LBD)",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -981,7 +1008,7 @@
     "has_references": true
   },
   {
-    "id": "map_109",
+    "id": "map_112",
     "title": "Geriatría. Demencia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -990,7 +1017,7 @@
     "has_references": false
   },
   {
-    "id": "map_110",
+    "id": "map_113",
     "title": "Geriatría. Demencias rápidamente progresivas",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -999,7 +1026,7 @@
     "has_references": true
   },
   {
-    "id": "map_111",
+    "id": "map_114",
     "title": "Geriatría. Depresión en el anciano",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1008,7 +1035,7 @@
     "has_references": false
   },
   {
-    "id": "map_112",
+    "id": "map_115",
     "title": "Geriatría. Déficit vitamina D",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1017,7 +1044,7 @@
     "has_references": true
   },
   {
-    "id": "map_113",
+    "id": "map_116",
     "title": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1026,7 +1053,7 @@
     "has_references": false
   },
   {
-    "id": "map_114",
+    "id": "map_117",
     "title": "Geriatría. El anciano con enfermedad de Alzheimer",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1035,7 +1062,7 @@
     "has_references": false
   },
   {
-    "id": "map_115",
+    "id": "map_118",
     "title": "Geriatría. Farmacología e iateogenia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1044,7 +1071,7 @@
     "has_references": false
   },
   {
-    "id": "map_116",
+    "id": "map_119",
     "title": "Geriatría. Psicofarmacos en geriatría-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1053,7 +1080,7 @@
     "has_references": true
   },
   {
-    "id": "map_117",
+    "id": "map_120",
     "title": "Geriatría. Psicofarmacos en geriatría",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1062,7 +1089,7 @@
     "has_references": true
   },
   {
-    "id": "map_118",
+    "id": "map_121",
     "title": "Geriatría. Síndrome confusional agudo",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1071,7 +1098,7 @@
     "has_references": true
   },
   {
-    "id": "map_119",
+    "id": "map_122",
     "title": "Geriatría. Tratamiento quirúrgico de la osteoartritis en el adulto mayor",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1080,7 +1107,7 @@
     "has_references": true
   },
   {
-    "id": "map_120",
+    "id": "map_123",
     "title": "Geriatría. AKI en AM-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1089,7 +1116,7 @@
     "has_references": true
   },
   {
-    "id": "map_121",
+    "id": "map_124",
     "title": "Geriatría. Farmacología e Iatrogenia-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1098,7 +1125,7 @@
     "has_references": true
   },
   {
-    "id": "map_122",
+    "id": "map_125",
     "title": "Geriatría. Profilaxis tromboembólica-2017",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1107,7 +1134,7 @@
     "has_references": true
   },
   {
-    "id": "map_123",
+    "id": "map_126",
     "title": "Mapa03 VGI iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1116,7 +1143,7 @@
     "has_references": true
   },
   {
-    "id": "map_124",
+    "id": "map_127",
     "title": "Mod2 Oido AM Ipad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1125,7 +1152,7 @@
     "has_references": true
   },
   {
-    "id": "map_125",
+    "id": "map_128",
     "title": "Nature 2024. Recent advances in Alzheimer’s disease: mechanisms, clinical trials and new drug development strategies-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1134,7 +1161,7 @@
     "has_references": true
   },
   {
-    "id": "map_126",
+    "id": "map_129",
     "title": "Neuro Síndromes demenciales",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1143,7 +1170,7 @@
     "has_references": true
   },
   {
-    "id": "map_127",
+    "id": "map_130",
     "title": "Neuroimágenes Demencia-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1152,7 +1179,7 @@
     "has_references": true
   },
   {
-    "id": "map_128",
+    "id": "map_131",
     "title": "Peper. Tromboprofilaxis hospitalizado-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1161,7 +1188,7 @@
     "has_references": true
   },
   {
-    "id": "map_129",
+    "id": "map_132",
     "title": "Polifarmacia-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1170,7 +1197,7 @@
     "has_references": true
   },
   {
-    "id": "map_130",
+    "id": "map_133",
     "title": "Presentación. Vacunas en PM-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1179,7 +1206,7 @@
     "has_references": true
   },
   {
-    "id": "map_131",
+    "id": "map_134",
     "title": "Prevención de ECV en PM Springer-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1188,7 +1215,7 @@
     "has_references": true
   },
   {
-    "id": "map_132",
+    "id": "map_135",
     "title": "Pseudohipertensión AM iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1197,7 +1224,7 @@
     "has_references": true
   },
   {
-    "id": "map_133",
+    "id": "map_136",
     "title": "RinitisAM v2 iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1206,7 +1233,7 @@
     "has_references": true
   },
   {
-    "id": "map_134",
+    "id": "map_137",
     "title": "SAO PM-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1215,7 +1242,7 @@
     "has_references": true
   },
   {
-    "id": "map_135",
+    "id": "map_138",
     "title": "SindromeFebrilAM iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1224,7 +1251,7 @@
     "has_references": true
   },
   {
-    "id": "map_136",
+    "id": "map_139",
     "title": "TIROTOXICOSIS EN ANCIANOS-2025",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1233,7 +1260,7 @@
     "has_references": true
   },
   {
-    "id": "map_137",
+    "id": "map_140",
     "title": "The Hallmarks of Aging Cell-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1242,7 +1269,7 @@
     "has_references": false
   },
   {
-    "id": "map_138",
+    "id": "map_141",
     "title": "UTD Manejo Hospitalario de Adultos Mayores-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1251,7 +1278,7 @@
     "has_references": true
   },
   {
-    "id": "map_139",
+    "id": "map_142",
     "title": "UTD VGI-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1260,7 +1287,7 @@
     "has_references": true
   },
   {
-    "id": "map_140",
+    "id": "map_143",
     "title": "Vacunas en PM-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1269,7 +1296,7 @@
     "has_references": true
   },
   {
-    "id": "map_141",
+    "id": "map_144",
     "title": "Vertigo_Urgencias_Geriatria_iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -1278,7 +1305,7 @@
     "has_references": true
   },
   {
-    "id": "map_142",
+    "id": "map_145",
     "title": "Williams. Anemia hemolítica relacionada con defectos de las enzimas de los eritrocitos-2025",
     "specialty": "Hematología",
     "folder": "Entidades clínicas/Hematología",
@@ -1287,7 +1314,7 @@
     "has_references": true
   },
   {
-    "id": "map_143",
+    "id": "map_146",
     "title": "Williams. Anemias sideroblásticas hereditarias y adquiridas-2025",
     "specialty": "Hematología",
     "folder": "Entidades clínicas/Hematología",
@@ -1296,7 +1323,7 @@
     "has_references": true
   },
   {
-    "id": "map_144",
+    "id": "map_147",
     "title": "1. Factores de riesgo de enfermedad cardiovascular",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1305,7 +1332,7 @@
     "has_references": true
   },
   {
-    "id": "map_145",
+    "id": "map_148",
     "title": "10. Enfermedades de la aorta",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1314,7 +1341,7 @@
     "has_references": true
   },
   {
-    "id": "map_146",
+    "id": "map_149",
     "title": "11. Enfermedad arterial periférica",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1323,7 +1350,7 @@
     "has_references": true
   },
   {
-    "id": "map_147",
+    "id": "map_150",
     "title": "12. Enfermedad cardiovascular en sobrevivientes de cáncer",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1332,7 +1359,7 @@
     "has_references": true
   },
   {
-    "id": "map_148",
+    "id": "map_151",
     "title": "13. Embarazo y enfermedad cardiovascular",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1341,7 +1368,7 @@
     "has_references": true
   },
   {
-    "id": "map_149",
+    "id": "map_152",
     "title": "2. Evaluación diagnóstica en cardiología",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1350,7 +1377,7 @@
     "has_references": true
   },
   {
-    "id": "map_150",
+    "id": "map_153",
     "title": "3. Enfermedad coronaria",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1359,7 +1386,7 @@
     "has_references": false
   },
   {
-    "id": "map_151",
+    "id": "map_154",
     "title": "4. Insuficiencia cardíaca",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1368,7 +1395,7 @@
     "has_references": true
   },
   {
-    "id": "map_152",
+    "id": "map_155",
     "title": "5. Arritmias",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1377,7 +1404,7 @@
     "has_references": true
   },
   {
-    "id": "map_153",
+    "id": "map_156",
     "title": "6. Cardiopatía valvular",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1386,7 +1413,7 @@
     "has_references": true
   },
   {
-    "id": "map_154",
+    "id": "map_157",
     "title": "7. Enfermedades del miocardio",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1395,7 +1422,7 @@
     "has_references": true
   },
   {
-    "id": "map_155",
+    "id": "map_158",
     "title": "8. Enfermedades del pericardio",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1404,7 +1431,7 @@
     "has_references": true
   },
   {
-    "id": "map_156",
+    "id": "map_159",
     "title": "9. Cardiopatías congénitas en el adulto",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/MKSAP - 18/Cardiología",
@@ -1413,7 +1440,7 @@
     "has_references": true
   },
   {
-    "id": "map_157",
+    "id": "map_160",
     "title": "Neurología. ACV Isquémico Agudo",
     "specialty": "Neurología",
     "folder": "Entidades clínicas/Neurología",
@@ -1422,7 +1449,7 @@
     "has_references": true
   },
   {
-    "id": "map_158",
+    "id": "map_161",
     "title": "FracturaFacial PersonaMayor iPad",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1431,7 +1458,7 @@
     "has_references": true
   },
   {
-    "id": "map_159",
+    "id": "map_162",
     "title": "Orto Analgesia en Fractura de Cadera-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1440,7 +1467,7 @@
     "has_references": true
   },
   {
-    "id": "map_160",
+    "id": "map_163",
     "title": "Orto BCIS-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1449,7 +1476,7 @@
     "has_references": true
   },
   {
-    "id": "map_161",
+    "id": "map_164",
     "title": "Orto COMPLICACIONES URINARIAS EN FRACTURA DE CADERA-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1458,7 +1485,7 @@
     "has_references": true
   },
   {
-    "id": "map_162",
+    "id": "map_165",
     "title": "Orto Caidas-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1467,7 +1494,7 @@
     "has_references": true
   },
   {
-    "id": "map_163",
+    "id": "map_166",
     "title": "Orto Complicaciones-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1476,7 +1503,7 @@
     "has_references": true
   },
   {
-    "id": "map_164",
+    "id": "map_167",
     "title": "Orto Constipacion-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1485,7 +1512,7 @@
     "has_references": true
   },
   {
-    "id": "map_165",
+    "id": "map_168",
     "title": "Orto Delirium-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1494,7 +1521,7 @@
     "has_references": true
   },
   {
-    "id": "map_166",
+    "id": "map_169",
     "title": "Orto Dismovilismo-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1503,7 +1530,7 @@
     "has_references": true
   },
   {
-    "id": "map_167",
+    "id": "map_170",
     "title": "Orto Elección de prótesis-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1512,7 +1539,7 @@
     "has_references": true
   },
   {
-    "id": "map_168",
+    "id": "map_171",
     "title": "Orto Estenosis Aórtica y Fractura de Cadera-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1521,7 +1548,7 @@
     "has_references": true
   },
   {
-    "id": "map_169",
+    "id": "map_172",
     "title": "Orto FP Osteoporosis-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1530,7 +1557,7 @@
     "has_references": true
   },
   {
-    "id": "map_170",
+    "id": "map_173",
     "title": "Orto Generalidades-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1539,7 +1566,7 @@
     "has_references": true
   },
   {
-    "id": "map_171",
+    "id": "map_174",
     "title": "Orto Manejo paliativo de Fx. Cadera 2-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1548,7 +1575,7 @@
     "has_references": true
   },
   {
-    "id": "map_172",
+    "id": "map_175",
     "title": "Orto OSTEOSARCOPENIA-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1557,7 +1584,7 @@
     "has_references": true
   },
   {
-    "id": "map_173",
+    "id": "map_176",
     "title": "Orto Odontogeriatria-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1566,7 +1593,7 @@
     "has_references": true
   },
   {
-    "id": "map_174",
+    "id": "map_177",
     "title": "Orto PARKINSON Y FRACTURA DE CADERA-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1575,7 +1602,7 @@
     "has_references": true
   },
   {
-    "id": "map_175",
+    "id": "map_178",
     "title": "Orto Polifarmacia-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1584,7 +1611,7 @@
     "has_references": true
   },
   {
-    "id": "map_176",
+    "id": "map_179",
     "title": "Orto Protocolo STAR-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1593,7 +1620,7 @@
     "has_references": true
   },
   {
-    "id": "map_177",
+    "id": "map_180",
     "title": "Orto Rehabilitación-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1602,7 +1629,7 @@
     "has_references": true
   },
   {
-    "id": "map_178",
+    "id": "map_181",
     "title": "Orto Resumen-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1611,7 +1638,7 @@
     "has_references": true
   },
   {
-    "id": "map_179",
+    "id": "map_182",
     "title": "Orto Tramadol 2-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1620,7 +1647,7 @@
     "has_references": true
   },
   {
-    "id": "map_180",
+    "id": "map_183",
     "title": "Orto Tratamiento osteoporosis-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1629,7 +1656,7 @@
     "has_references": true
   },
   {
-    "id": "map_181",
+    "id": "map_184",
     "title": "Orto. EVALUACIÓN PREOPERATORIA EN FRACTURA DE CADERA-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1638,7 +1665,7 @@
     "has_references": true
   },
   {
-    "id": "map_182",
+    "id": "map_185",
     "title": "Orto. resumen-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1647,7 +1674,7 @@
     "has_references": true
   },
   {
-    "id": "map_183",
+    "id": "map_186",
     "title": "Orto_Osteosarcopenia_MapaMental_Unificado",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -1656,7 +1683,25 @@
     "has_references": true
   },
   {
-    "id": "map_184",
+    "id": "map_187",
+    "title": "Algoritmo_Paro_Cardiaco_ACLS_AHA2025_iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Algoritmo_Paro_Cardiaco_ACLS_AHA2025_iPad",
+    "node_count": 206,
+    "has_references": true
+  },
+  {
+    "id": "map_188",
+    "title": "AnalisisCriticoPapers iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "AnalisisCriticoPapers iPad",
+    "node_count": 206,
+    "has_references": true
+  },
+  {
+    "id": "map_189",
     "title": "CAD Cetoacidosis Diabetica iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1665,7 +1710,25 @@
     "has_references": true
   },
   {
-    "id": "map_185",
+    "id": "map_190",
+    "title": "Cap3 ABC Estabilizacion iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Cap3 ABC Estabilizacion iPad",
+    "node_count": 194,
+    "has_references": true
+  },
+  {
+    "id": "map_191",
+    "title": "Cap4 EvalSecundaria iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Cap4 EvalSecundaria iPad",
+    "node_count": 188,
+    "has_references": true
+  },
+  {
+    "id": "map_192",
     "title": "DMARDs-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1674,7 +1737,7 @@
     "has_references": false
   },
   {
-    "id": "map_186",
+    "id": "map_193",
     "title": "Daño hepático inducido por medicamentos (DILI)-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1683,7 +1746,16 @@
     "has_references": true
   },
   {
-    "id": "map_187",
+    "id": "map_194",
+    "title": "Fibrilación auricular con respuesta ventricular rápida-2024",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Fibrilación auricular con respuesta ventricular rápida-2024",
+    "node_count": 233,
+    "has_references": true
+  },
+  {
+    "id": "map_195",
     "title": "Manejo de final de vida-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1692,7 +1764,7 @@
     "has_references": true
   },
   {
-    "id": "map_188",
+    "id": "map_196",
     "title": "Manejo preoperatorio-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1701,7 +1773,7 @@
     "has_references": false
   },
   {
-    "id": "map_189",
+    "id": "map_197",
     "title": "Manejo_Ventilador_Mecanico_iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1710,7 +1782,7 @@
     "has_references": true
   },
   {
-    "id": "map_190",
+    "id": "map_198",
     "title": "Manejo_Ventilador_Mecanico_iPad_1",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1719,7 +1791,7 @@
     "has_references": true
   },
   {
-    "id": "map_191",
+    "id": "map_199",
     "title": "Mod2 Via Aerea Intubacion iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1728,7 +1800,7 @@
     "has_references": true
   },
   {
-    "id": "map_192",
+    "id": "map_200",
     "title": "Monitoreo de glucosa continuo-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1737,7 +1809,7 @@
     "has_references": true
   },
   {
-    "id": "map_193",
+    "id": "map_201",
     "title": "PCR Avanzado UCI iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1746,7 +1818,16 @@
     "has_references": true
   },
   {
-    "id": "map_194",
+    "id": "map_202",
+    "title": "Sobrecarga Volumen JAMA2026 iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Sobrecarga Volumen JAMA2026 iPad",
+    "node_count": 205,
+    "has_references": true
+  },
+  {
+    "id": "map_203",
     "title": "TEP Agudo Tratamiento iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1755,7 +1836,16 @@
     "has_references": true
   },
   {
-    "id": "map_195",
+    "id": "map_204",
+    "title": "Tectonica Intubacion iPad",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Tectonica Intubacion iPad",
+    "node_count": 198,
+    "has_references": true
+  },
+  {
+    "id": "map_205",
     "title": "Terapia Vasoactiva-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1764,7 +1854,7 @@
     "has_references": true
   },
   {
-    "id": "map_196",
+    "id": "map_206",
     "title": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1773,7 +1863,7 @@
     "has_references": false
   },
   {
-    "id": "map_197",
+    "id": "map_207",
     "title": "UPC. Cap. 1 Bugedo. Riesgos y Oportunidades en la UCI y el Paciente Crítico-2026",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1782,7 +1872,7 @@
     "has_references": true
   },
   {
-    "id": "map_198",
+    "id": "map_208",
     "title": "UPC. Cap. 1 Bugedo. Riesgos y Oportunidades en la UCI y el Paciente Crítico",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1791,7 +1881,7 @@
     "has_references": true
   },
   {
-    "id": "map_199",
+    "id": "map_209",
     "title": "UPC. Criterios de ingreso-2026",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1800,7 +1890,7 @@
     "has_references": true
   },
   {
-    "id": "map_200",
+    "id": "map_210",
     "title": "UPC. Objetivos Presión arterial-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -1809,7 +1899,7 @@
     "has_references": true
   },
   {
-    "id": "map_201",
+    "id": "map_211",
     "title": "Arritmias_Emergencias_iPad",
     "specialty": "General",
     "folder": "Entidades clínicas/Urgencias",
@@ -1818,7 +1908,7 @@
     "has_references": true
   },
   {
-    "id": "map_202",
+    "id": "map_212",
     "title": "BAFTA 2007",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1827,7 +1917,7 @@
     "has_references": true
   },
   {
-    "id": "map_203",
+    "id": "map_213",
     "title": "HTA-2024",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1836,7 +1926,7 @@
     "has_references": true
   },
   {
-    "id": "map_204",
+    "id": "map_214",
     "title": "IECA-2024",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1845,7 +1935,7 @@
     "has_references": true
   },
   {
-    "id": "map_205",
+    "id": "map_215",
     "title": "NEJM 2024 | Insuficiencia Venosa Crónica-2024",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1854,7 +1944,7 @@
     "has_references": true
   },
   {
-    "id": "map_206",
+    "id": "map_216",
     "title": "Paper. Delirium en UCI-2025",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1863,7 +1953,7 @@
     "has_references": true
   },
   {
-    "id": "map_207",
+    "id": "map_217",
     "title": "Paper. Manejo del tromboembolismo venoso (TEV) - Tratamiento de Trombosis Venosa Profunda (TVP) y Embolia Pulmonar (EP)-2025",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1872,7 +1962,7 @@
     "has_references": true
   },
   {
-    "id": "map_208",
+    "id": "map_218",
     "title": "STEP-2026",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1881,7 +1971,7 @@
     "has_references": true
   },
   {
-    "id": "map_209",
+    "id": "map_219",
     "title": "The Lancet→ Primer paper sobre el cuidado de personas mayores  copia-2024",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
@@ -1890,7 +1980,7 @@
     "has_references": true
   },
   {
-    "id": "map_210",
+    "id": "map_220",
     "title": "VGI-2025",
     "specialty": "Estudios Pivotales",
     "folder": "Estudios Pivotales",
