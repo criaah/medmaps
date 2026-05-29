@@ -55,6 +55,15 @@
   },
   {
     "id": "map_6",
+    "title": "Geriatría. Alimentación enteral",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Geriatría. Alimentación enteral",
+    "node_count": 190,
+    "has_references": true
+  },
+  {
+    "id": "map_7",
     "title": "Geriatría. Demencia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -63,7 +72,34 @@
     "has_references": true
   },
   {
-    "id": "map_7",
+    "id": "map_8",
+    "title": "Geriatría. Depresión en el anciano",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Geriatría. Depresión en el anciano",
+    "node_count": 210,
+    "has_references": true
+  },
+  {
+    "id": "map_9",
+    "title": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
+    "node_count": 209,
+    "has_references": true
+  },
+  {
+    "id": "map_10",
+    "title": "Geriatría. El anciano con enfermedad de Alzheimer",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Geriatría. El anciano con enfermedad de Alzheimer",
+    "node_count": 206,
+    "has_references": true
+  },
+  {
+    "id": "map_11",
     "title": "Geriatría. Farmacología e iatrogenia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -72,7 +108,16 @@
     "has_references": true
   },
   {
-    "id": "map_8",
+    "id": "map_12",
+    "title": "Mapa03 VGI iPad",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Mapa03 VGI iPad",
+    "node_count": 190,
+    "has_references": true
+  },
+  {
+    "id": "map_13",
     "title": "The Hallmarks of Aging Cell-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -81,7 +126,7 @@
     "has_references": true
   },
   {
-    "id": "map_9",
+    "id": "map_14",
     "title": "Orto Constipacion-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -90,7 +135,16 @@
     "has_references": true
   },
   {
-    "id": "map_10",
+    "id": "map_15",
+    "title": "Orto Dismovilismo-2026",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Ortogeriatría",
+    "filename": "Orto Dismovilismo-2026",
+    "node_count": 209,
+    "has_references": true
+  },
+  {
+    "id": "map_16",
     "title": "Orto Manejo paliativo de Fx. Cadera 2-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -99,7 +153,7 @@
     "has_references": true
   },
   {
-    "id": "map_11",
+    "id": "map_17",
     "title": "Orto OSTEOSARCOPENIA-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -108,7 +162,7 @@
     "has_references": true
   },
   {
-    "id": "map_12",
+    "id": "map_18",
     "title": "Orto Polifarmacia-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -117,7 +171,7 @@
     "has_references": true
   },
   {
-    "id": "map_13",
+    "id": "map_19",
     "title": "Orto Rehabilitación-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
@@ -126,12 +180,48 @@
     "has_references": true
   },
   {
-    "id": "map_14",
+    "id": "map_20",
     "title": "Orto Tramadol 2-2026",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Ortogeriatría",
     "filename": "Orto Tramadol 2-2026",
     "node_count": 455,
+    "has_references": true
+  },
+  {
+    "id": "map_21",
+    "title": "DMARDs-2024",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "DMARDs-2024",
+    "node_count": 462,
+    "has_references": true
+  },
+  {
+    "id": "map_22",
+    "title": "Manejo preoperatorio-2024",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Manejo preoperatorio-2024",
+    "node_count": 356,
+    "has_references": true
+  },
+  {
+    "id": "map_23",
+    "title": "Manejo_Ventilador_Mecanico_iPad_1",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Manejo_Ventilador_Mecanico_iPad_1",
+    "node_count": 453,
+    "has_references": true
+  },
+  {
+    "id": "map_24",
+    "title": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
+    "node_count": 421,
     "has_references": true
   }
 ]
