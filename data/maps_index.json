@@ -244,6 +244,15 @@
   },
   {
     "id": "map_27",
+    "title": "ARDSNet-2026",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "ARDSNet-2026",
+    "node_count": 25,
+    "has_references": false
+  },
+  {
+    "id": "map_28",
     "title": "Cap1 Prehospital iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -252,7 +261,7 @@
     "has_references": true
   },
   {
-    "id": "map_28",
+    "id": "map_29",
     "title": "Cap16 ITU iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -261,7 +270,7 @@
     "has_references": true
   },
   {
-    "id": "map_29",
+    "id": "map_30",
     "title": "Cap8 NSC iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -270,7 +279,7 @@
     "has_references": true
   },
   {
-    "id": "map_30",
+    "id": "map_31",
     "title": "Cap8 NSC v2 iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -279,7 +288,7 @@
     "has_references": true
   },
   {
-    "id": "map_31",
+    "id": "map_32",
     "title": "DMARDs-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -288,7 +297,7 @@
     "has_references": true
   },
   {
-    "id": "map_32",
+    "id": "map_33",
     "title": "Deficit Tiamina Paciente Critico",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -297,7 +306,7 @@
     "has_references": true
   },
   {
-    "id": "map_33",
+    "id": "map_34",
     "title": "Delirium_UCI-2026-TEST",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -306,7 +315,7 @@
     "has_references": false
   },
   {
-    "id": "map_34",
+    "id": "map_35",
     "title": "Formulas_Esenciales_UCI_iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -315,7 +324,7 @@
     "has_references": true
   },
   {
-    "id": "map_35",
+    "id": "map_36",
     "title": "M0 PKPD FarmacoUPC iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -324,7 +333,7 @@
     "has_references": true
   },
   {
-    "id": "map_36",
+    "id": "map_37",
     "title": "Manejo preoperatorio-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -333,7 +342,7 @@
     "has_references": true
   },
   {
-    "id": "map_37",
+    "id": "map_38",
     "title": "Manejo_Ventilador_Mecanico_iPad_1",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -342,7 +351,7 @@
     "has_references": true
   },
   {
-    "id": "map_38",
+    "id": "map_39",
     "title": "Marcapasos_Transcutaneo_Emergencia_iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -351,7 +360,16 @@
     "has_references": true
   },
   {
-    "id": "map_39",
+    "id": "map_40",
+    "title": "SAVE-Score-2026",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "SAVE-Score-2026",
+    "node_count": 10,
+    "has_references": true
+  },
+  {
+    "id": "map_41",
     "title": "Shock indiferenciado-2024",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -360,7 +378,7 @@
     "has_references": true
   },
   {
-    "id": "map_40",
+    "id": "map_42",
     "title": "Síndrome Constitucional-2023",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -369,7 +387,16 @@
     "has_references": true
   },
   {
-    "id": "map_41",
+    "id": "map_43",
+    "title": "Syst-Eur-2026",
+    "specialty": "UCI/Medicina Crítica",
+    "folder": "Entidades clínicas/UCI-Medicina Crítica",
+    "filename": "Syst-Eur-2026",
+    "node_count": 10,
+    "has_references": true
+  },
+  {
+    "id": "map_44",
     "title": "Trombocitopenia inducida por Heparina (HIT)-2023",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -378,7 +405,7 @@
     "has_references": true
   },
   {
-    "id": "map_42",
+    "id": "map_45",
     "title": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -387,7 +414,7 @@
     "has_references": true
   },
   {
-    "id": "map_43",
+    "id": "map_46",
     "title": "Urgencia. ACLS",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
@@ -396,7 +423,7 @@
     "has_references": true
   },
   {
-    "id": "map_44",
+    "id": "map_47",
     "title": "VM_Paro_Cardiaco_Six-dial_iPad",
     "specialty": "UCI/Medicina Crítica",
     "folder": "Entidades clínicas/UCI-Medicina Crítica",
