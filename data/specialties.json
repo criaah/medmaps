@@ -33,7 +33,7 @@
     ]
   },
   "Geriatría": {
-    "count": 17,
+    "count": 21,
     "maps": [
       {
         "id": "map_4",
@@ -107,48 +107,76 @@
       },
       {
         "id": "map_14",
+        "title": "Orto Anemia-2026",
+        "filename": "Orto Anemia-2026",
+        "node_count": 161,
+        "folder": "Entidades clínicas/Ortogeriatría"
+      },
+      {
+        "id": "map_15",
+        "title": "Orto Caidas-2026",
+        "filename": "Orto Caidas-2026",
+        "node_count": 273,
+        "folder": "Entidades clínicas/Ortogeriatría"
+      },
+      {
+        "id": "map_16",
         "title": "Orto Constipacion-2026",
         "filename": "Orto Constipacion-2026",
         "node_count": 222,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_15",
+        "id": "map_17",
         "title": "Orto Dismovilismo-2026",
         "filename": "Orto Dismovilismo-2026",
         "node_count": 209,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_16",
+        "id": "map_18",
+        "title": "Orto Fx Hueso patológico-2026",
+        "filename": "Orto Fx Hueso patológico-2026",
+        "node_count": 184,
+        "folder": "Entidades clínicas/Ortogeriatría"
+      },
+      {
+        "id": "map_19",
         "title": "Orto Manejo paliativo de Fx. Cadera 2-2026",
         "filename": "Orto Manejo paliativo de Fx. Cadera 2-2026",
         "node_count": 607,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_17",
+        "id": "map_20",
+        "title": "Orto Modelos-2026",
+        "filename": "Orto Modelos-2026",
+        "node_count": 168,
+        "folder": "Entidades clínicas/Ortogeriatría"
+      },
+      {
+        "id": "map_21",
         "title": "Orto OSTEOSARCOPENIA-2026",
         "filename": "Orto OSTEOSARCOPENIA-2026",
         "node_count": 505,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_18",
+        "id": "map_22",
         "title": "Orto Polifarmacia-2026",
         "filename": "Orto Polifarmacia-2026",
         "node_count": 224,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_19",
+        "id": "map_23",
         "title": "Orto Rehabilitación-2026",
         "filename": "Orto Rehabilitación-2026",
         "node_count": 229,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_20",
+        "id": "map_24",
         "title": "Orto Tramadol 2-2026",
         "filename": "Orto Tramadol 2-2026",
         "node_count": 455,
@@ -157,31 +185,73 @@
     ]
   },
   "UCI/Medicina Crítica": {
-    "count": 4,
+    "count": 10,
     "maps": [
       {
-        "id": "map_21",
+        "id": "map_25",
+        "title": "Cap16 ITU iPad",
+        "filename": "Cap16 ITU iPad",
+        "node_count": 144,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_26",
+        "title": "Cap8 NSC v2 iPad",
+        "filename": "Cap8 NSC v2 iPad",
+        "node_count": 136,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_27",
         "title": "DMARDs-2024",
         "filename": "DMARDs-2024",
         "node_count": 462,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_22",
+        "id": "map_28",
+        "title": "Formulas_Esenciales_UCI_iPad",
+        "filename": "Formulas_Esenciales_UCI_iPad",
+        "node_count": 138,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_29",
+        "title": "M0 PKPD FarmacoUPC iPad",
+        "filename": "M0 PKPD FarmacoUPC iPad",
+        "node_count": 123,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_30",
         "title": "Manejo preoperatorio-2024",
         "filename": "Manejo preoperatorio-2024",
         "node_count": 356,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_23",
+        "id": "map_31",
         "title": "Manejo_Ventilador_Mecanico_iPad_1",
         "filename": "Manejo_Ventilador_Mecanico_iPad_1",
         "node_count": 453,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_24",
+        "id": "map_32",
+        "title": "Marcapasos_Transcutaneo_Emergencia_iPad",
+        "filename": "Marcapasos_Transcutaneo_Emergencia_iPad",
+        "node_count": 138,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_33",
+        "title": "Shock indiferenciado-2024",
+        "filename": "Shock indiferenciado-2024",
+        "node_count": 184,
+        "folder": "Entidades clínicas/UCI-Medicina Crítica"
+      },
+      {
+        "id": "map_34",
         "title": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
         "filename": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
         "node_count": 421,
