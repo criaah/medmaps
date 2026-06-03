@@ -10,12 +10,12 @@
   },
   {
     "id": "map_1",
-    "title": "Anticoagulacion-2024",
+    "title": "Anticoagulación-2024",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
-    "filename": "Anticoagulacion-2024",
-    "node_count": 318,
-    "has_references": false
+    "filename": "Anticoagulación-2024",
+    "node_count": 336,
+    "has_references": true
   },
   {
     "id": "map_2",
@@ -41,8 +41,8 @@
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
     "filename": "Cardio Factores de riesgo cardiovascular-2024",
-    "node_count": 283,
-    "has_references": false
+    "node_count": 302,
+    "has_references": true
   },
   {
     "id": "map_5",
@@ -59,8 +59,8 @@
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
     "filename": "Cardio Pericarditis aguda-2023",
-    "node_count": 485,
-    "has_references": false
+    "node_count": 504,
+    "has_references": true
   },
   {
     "id": "map_7",
@@ -82,11 +82,11 @@
   },
   {
     "id": "map_9",
-    "title": "Fibrilacion auricular-2023",
+    "title": "Fibrilación auricular-2023",
     "specialty": "Cardiología",
     "folder": "Entidades clínicas/Cardiología",
-    "filename": "Fibrilacion auricular-2023",
-    "node_count": 473,
+    "filename": "Fibrilación auricular-2023",
+    "node_count": 492,
     "has_references": true
   },
   {
@@ -172,15 +172,6 @@
   },
   {
     "id": "map_19",
-    "title": "Geriatria. AKI en AM-2024",
-    "specialty": "Geriatría",
-    "folder": "Entidades clínicas/Geriatría",
-    "filename": "Geriatria. AKI en AM-2024",
-    "node_count": 152,
-    "has_references": false
-  },
-  {
-    "id": "map_20",
     "title": "Geriatría. Alimentación enteral",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -189,7 +180,7 @@
     "has_references": true
   },
   {
-    "id": "map_21",
+    "id": "map_20",
     "title": "Geriatría. Demencia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -198,7 +189,7 @@
     "has_references": true
   },
   {
-    "id": "map_22",
+    "id": "map_21",
     "title": "Geriatría. Depresión en el anciano",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -207,7 +198,7 @@
     "has_references": true
   },
   {
-    "id": "map_23",
+    "id": "map_22",
     "title": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -216,7 +207,7 @@
     "has_references": true
   },
   {
-    "id": "map_24",
+    "id": "map_23",
     "title": "Geriatría. El anciano con enfermedad de Alzheimer",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -225,7 +216,7 @@
     "has_references": true
   },
   {
-    "id": "map_25",
+    "id": "map_24",
     "title": "Geriatría. Farmacología e iateogenia-2024",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
@@ -234,12 +225,21 @@
     "has_references": true
   },
   {
-    "id": "map_26",
+    "id": "map_25",
     "title": "Geriatría. Farmacología e iateogenia",
     "specialty": "Geriatría",
     "folder": "Entidades clínicas/Geriatría",
     "filename": "Geriatría. Farmacología e iateogenia",
     "node_count": 222,
+    "has_references": true
+  },
+  {
+    "id": "map_26",
+    "title": "Geriatría. AKI en AM-2024",
+    "specialty": "Geriatría",
+    "folder": "Entidades clínicas/Geriatría",
+    "filename": "Geriatría. AKI en AM-2024",
+    "node_count": 170,
     "has_references": true
   },
   {
