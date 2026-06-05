@@ -1,6 +1,6 @@
 {
   "Cardiología": {
-    "count": 14,
+    "count": 16,
     "maps": [
       {
         "id": "map_0",
@@ -11,90 +11,104 @@
       },
       {
         "id": "map_1",
+        "title": "Amiodarona-2024_v2",
+        "filename": "Amiodarona-2024_v2",
+        "node_count": 127,
+        "folder": "Entidades clínicas/Cardiología"
+      },
+      {
+        "id": "map_2",
         "title": "Antagonstas del receptor de Orexina-2025",
         "filename": "Antagonstas del receptor de Orexina-2025",
         "node_count": 345,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_2",
+        "id": "map_3",
         "title": "Anticoagulación-2024",
         "filename": "Anticoagulación-2024",
         "node_count": 336,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_3",
+        "id": "map_4",
         "title": "Arteaga | Hipertension Endrocrina-2024",
         "filename": "Arteaga | Hipertension Endrocrina-2024",
         "node_count": 424,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_4",
+        "id": "map_5",
         "title": "Cardio Crisis HTA-2017",
         "filename": "Cardio Crisis HTA-2017",
         "node_count": 105,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_5",
+        "id": "map_6",
         "title": "Cardio Factores de riesgo cardiovascular-2024",
         "filename": "Cardio Factores de riesgo cardiovascular-2024",
         "node_count": 302,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_6",
+        "id": "map_7",
         "title": "Cardio HTA 2º-2017",
         "filename": "Cardio HTA 2º-2017",
         "node_count": 223,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_7",
+        "id": "map_8",
+        "title": "Cardio HTA 2º_v2",
+        "filename": "Cardio HTA 2º_v2",
+        "node_count": 227,
+        "folder": "Entidades clínicas/Cardiología"
+      },
+      {
+        "id": "map_9",
         "title": "Cardio Pericarditis aguda-2023",
         "filename": "Cardio Pericarditis aguda-2023",
         "node_count": 504,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_8",
+        "id": "map_10",
         "title": "Cardio Valvulopatias FALTA-2015",
         "filename": "Cardio Valvulopatias FALTA-2015",
         "node_count": 402,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_9",
+        "id": "map_11",
         "title": "Cardio hipertensión pulmonar-2015",
         "filename": "Cardio hipertensión pulmonar-2015",
         "node_count": 227,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_10",
+        "id": "map_12",
         "title": "Fibrilación auricular-2023",
         "filename": "Fibrilación auricular-2023",
         "node_count": 492,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_11",
+        "id": "map_13",
         "title": "Marcapasos-2024",
         "filename": "Marcapasos-2024",
         "node_count": 164,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_12",
+        "id": "map_14",
         "title": "Oftalmopatía de la arteritis de células gigantes-2024",
         "filename": "Oftalmopatía de la arteritis de células gigantes-2024",
         "node_count": 100,
         "folder": "Entidades clínicas/Cardiología"
       },
       {
-        "id": "map_13",
+        "id": "map_15",
         "title": "Reduccion del riesgo cardiovascular en Personas Mayores-2024",
         "filename": "Reduccion del riesgo cardiovascular en Personas Mayores-2024",
         "node_count": 132,
@@ -103,227 +117,248 @@
     ]
   },
   "Geriatría": {
-    "count": 32,
+    "count": 35,
     "maps": [
       {
-        "id": "map_14",
+        "id": "map_16",
         "title": "Antidemenciales Pro y Contras-2024",
         "filename": "Antidemenciales Pro y Contras-2024",
         "node_count": 246,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_15",
+        "id": "map_17",
         "title": "Cap9 Caídas iPad",
         "filename": "Cap9 Caídas iPad",
         "node_count": 173,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_16",
+        "id": "map_18",
         "title": "Caídas Adulto Mayor NICE2025",
         "filename": "Caídas Adulto Mayor NICE2025",
         "node_count": 247,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_17",
+        "id": "map_19",
         "title": "Charla. VIH, Envejecimiento y Cognición- Interacciones entre VIH y Enfermedad de Alzheimer-2025",
         "filename": "Charla. VIH, Envejecimiento y Cognición- Interacciones entre VIH y Enfermedad de Alzheimer-2025",
         "node_count": 240,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_18",
+        "id": "map_20",
         "title": "Clase VGI-2024",
         "filename": "Clase VGI-2024",
         "node_count": 241,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_19",
+        "id": "map_21",
+        "title": "Delirium-2024_v2",
+        "filename": "Delirium-2024_v2",
+        "node_count": 450,
+        "folder": "Entidades clínicas/Geriatría"
+      },
+      {
+        "id": "map_22",
         "title": "Dolor-2026",
         "filename": "Dolor-2026",
         "node_count": 209,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_20",
+        "id": "map_23",
+        "title": "Geriatria. AKI en AM-2024",
+        "filename": "Geriatria. AKI en AM-2024",
+        "node_count": 167,
+        "folder": "Entidades clínicas/Geriatría"
+      },
+      {
+        "id": "map_24",
         "title": "Geriatría. Alimentación enteral",
         "filename": "Geriatría. Alimentación enteral",
         "node_count": 190,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_21",
+        "id": "map_25",
+        "title": "Geriatría. Demencia con cuerpos de Lewy (LBD)-2024",
+        "filename": "Geriatría. Demencia con cuerpos de Lewy (LBD)-2024",
+        "node_count": 68,
+        "folder": "Entidades clínicas/Geriatría"
+      },
+      {
+        "id": "map_26",
         "title": "Geriatría. Demencia",
         "filename": "Geriatría. Demencia",
         "node_count": 221,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_22",
+        "id": "map_27",
         "title": "Geriatría. Depresión en el anciano",
         "filename": "Geriatría. Depresión en el anciano",
         "node_count": 210,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_23",
+        "id": "map_28",
         "title": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
         "filename": "Geriatría. El anciano con enfermedad de Alzheimer-2024",
         "node_count": 209,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_24",
+        "id": "map_29",
         "title": "Geriatría. El anciano con enfermedad de Alzheimer",
         "filename": "Geriatría. El anciano con enfermedad de Alzheimer",
         "node_count": 206,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_25",
+        "id": "map_30",
         "title": "Geriatría. Farmacología e iateogenia-2024",
         "filename": "Geriatría. Farmacología e iateogenia-2024",
         "node_count": 310,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_26",
+        "id": "map_31",
         "title": "Geriatría. Farmacología e iateogenia",
         "filename": "Geriatría. Farmacología e iateogenia",
         "node_count": 222,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_27",
+        "id": "map_32",
         "title": "Geriatría. AKI en AM-2024",
         "filename": "Geriatría. AKI en AM-2024",
         "node_count": 170,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_28",
+        "id": "map_33",
         "title": "Geriatría. Farmacología e iatrogenia",
         "filename": "Geriatría. Farmacología e iatrogenia",
         "node_count": 221,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_29",
+        "id": "map_34",
         "title": "Mapa03 VGI iPad",
         "filename": "Mapa03 VGI iPad",
         "node_count": 190,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_30",
+        "id": "map_35",
         "title": "Pallium-2024",
         "filename": "Pallium-2024",
         "node_count": 65,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_31",
+        "id": "map_36",
         "title": "Presentacion. Proquineticos en PM-2024",
         "filename": "Presentacion. Proquineticos en PM-2024",
         "node_count": 212,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_32",
+        "id": "map_37",
         "title": "Pseudohipertensión AM iPad",
         "filename": "Pseudohipertensión AM iPad",
         "node_count": 166,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_33",
+        "id": "map_38",
         "title": "Sarcopenia uremica-2024",
         "filename": "Sarcopenia uremica-2024",
         "node_count": 223,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_34",
+        "id": "map_39",
         "title": "The Hallmarks of Aging Cell-2024",
         "filename": "The Hallmarks of Aging Cell-2024",
         "node_count": 246,
         "folder": "Entidades clínicas/Geriatría"
       },
       {
-        "id": "map_35",
+        "id": "map_40",
         "title": "Orto Anemia-2026",
         "filename": "Orto Anemia-2026",
         "node_count": 161,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_36",
+        "id": "map_41",
         "title": "Orto Caidas-2026",
         "filename": "Orto Caidas-2026",
         "node_count": 273,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_37",
+        "id": "map_42",
         "title": "Orto Constipacion-2026",
         "filename": "Orto Constipacion-2026",
         "node_count": 222,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_38",
+        "id": "map_43",
         "title": "Orto Dismovilismo-2026",
         "filename": "Orto Dismovilismo-2026",
         "node_count": 209,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_39",
+        "id": "map_44",
         "title": "Orto Fx Hueso patológico-2026",
         "filename": "Orto Fx Hueso patológico-2026",
         "node_count": 184,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_40",
+        "id": "map_45",
         "title": "Orto Manejo paliativo de Fx. Cadera 2-2026",
         "filename": "Orto Manejo paliativo de Fx. Cadera 2-2026",
         "node_count": 607,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_41",
+        "id": "map_46",
         "title": "Orto Modelos-2026",
         "filename": "Orto Modelos-2026",
         "node_count": 168,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_42",
+        "id": "map_47",
         "title": "Orto OSTEOSARCOPENIA-2026",
         "filename": "Orto OSTEOSARCOPENIA-2026",
         "node_count": 505,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_43",
+        "id": "map_48",
         "title": "Orto Polifarmacia-2026",
         "filename": "Orto Polifarmacia-2026",
         "node_count": 224,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_44",
+        "id": "map_49",
         "title": "Orto Rehabilitación-2026",
         "filename": "Orto Rehabilitación-2026",
         "node_count": 229,
         "folder": "Entidades clínicas/Ortogeriatría"
       },
       {
-        "id": "map_45",
+        "id": "map_50",
         "title": "Orto Tramadol 2-2026",
         "filename": "Orto Tramadol 2-2026",
         "node_count": 455,
@@ -335,224 +370,224 @@
     "count": 32,
     "maps": [
       {
-        "id": "map_46",
+        "id": "map_51",
         "title": "1.B Por qué investigar y cómo conducir una investigación-2024",
         "filename": "1.B Por qué investigar y cómo conducir una investigación-2024",
         "node_count": 139,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_47",
+        "id": "map_52",
         "title": "ARDSNet-2026",
         "filename": "ARDSNet-2026",
         "node_count": 27,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_48",
+        "id": "map_53",
         "title": "Cap1 Prehospital iPad",
         "filename": "Cap1 Prehospital iPad",
         "node_count": 114,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_49",
+        "id": "map_54",
         "title": "Cap16 ITU iPad",
         "filename": "Cap16 ITU iPad",
         "node_count": 144,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_50",
+        "id": "map_55",
         "title": "Cap8 NSC iPad",
         "filename": "Cap8 NSC iPad",
         "node_count": 107,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_51",
+        "id": "map_56",
         "title": "Cap8 NSC v2 iPad",
         "filename": "Cap8 NSC v2 iPad",
         "node_count": 136,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_52",
+        "id": "map_57",
         "title": "DMARDs-2024",
         "filename": "DMARDs-2024",
         "node_count": 462,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_53",
+        "id": "map_58",
         "title": "Deficit Tiamina Paciente Critico",
         "filename": "Deficit Tiamina Paciente Critico",
         "node_count": 164,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_54",
+        "id": "map_59",
         "title": "Delirium_UCI-2026-TEST",
         "filename": "Delirium_UCI-2026-TEST",
         "node_count": 52,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_55",
+        "id": "map_60",
         "title": "Destete ventilatorio (weaning)-2026",
         "filename": "Destete ventilatorio (weaning)-2026",
         "node_count": 318,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_56",
+        "id": "map_61",
         "title": "Drogas vasoactivas - guia rapida-2026",
         "filename": "Drogas vasoactivas - guia rapida-2026",
         "node_count": 449,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_57",
+        "id": "map_62",
         "title": "Drogas vasoactivas e inotropos-2024",
         "filename": "Drogas vasoactivas e inotropos-2024",
         "node_count": 422,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_58",
+        "id": "map_63",
         "title": "Formulas_Esenciales_UCI_iPad",
         "filename": "Formulas_Esenciales_UCI_iPad",
         "node_count": 138,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_59",
+        "id": "map_64",
         "title": "M0 PKPD FarmacoUPC iPad",
         "filename": "M0 PKPD FarmacoUPC iPad",
         "node_count": 123,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_60",
+        "id": "map_65",
         "title": "Manejo preoperatorio-2024",
         "filename": "Manejo preoperatorio-2024",
         "node_count": 356,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_61",
+        "id": "map_66",
         "title": "Manejo_Ventilador_Mecanico_iPad_1",
         "filename": "Manejo_Ventilador_Mecanico_iPad_1",
         "node_count": 453,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_62",
+        "id": "map_67",
         "title": "Marcapasos_Transcutaneo_Emergencia_iPad",
         "filename": "Marcapasos_Transcutaneo_Emergencia_iPad",
         "node_count": 138,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_63",
+        "id": "map_68",
         "title": "SAVE-Score-2026",
         "filename": "SAVE-Score-2026",
         "node_count": 22,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_64",
+        "id": "map_69",
         "title": "Sedacion y analgesia en UCI-2026",
         "filename": "Sedacion y analgesia en UCI-2026",
         "node_count": 471,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_65",
+        "id": "map_70",
         "title": "Sepsis - Surviving Sepsis Campaign 2021-2026",
         "filename": "Sepsis - Surviving Sepsis Campaign 2021-2026",
         "node_count": 405,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_66",
+        "id": "map_71",
         "title": "Shock cardiogenico-2026",
         "filename": "Shock cardiogenico-2026",
         "node_count": 455,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_67",
+        "id": "map_72",
         "title": "Shock distributivo no septico-2026",
         "filename": "Shock distributivo no septico-2026",
         "node_count": 428,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_68",
+        "id": "map_73",
         "title": "Shock hipovolemico-2026",
         "filename": "Shock hipovolemico-2026",
         "node_count": 394,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_69",
+        "id": "map_74",
         "title": "Shock indiferenciado-2024",
         "filename": "Shock indiferenciado-2024",
         "node_count": 184,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_70",
+        "id": "map_75",
         "title": "Shock septico - manejo hemodinamico-2026",
         "filename": "Shock septico - manejo hemodinamico-2026",
         "node_count": 399,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_71",
+        "id": "map_76",
         "title": "Síndrome Constitucional-2023",
         "filename": "Síndrome Constitucional-2023",
         "node_count": 110,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_72",
+        "id": "map_77",
         "title": "Syst-Eur-2026",
         "filename": "Syst-Eur-2026",
         "node_count": 21,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_73",
+        "id": "map_78",
         "title": "Trombocitopenia inducida por Heparina (HIT)-2023",
         "filename": "Trombocitopenia inducida por Heparina (HIT)-2023",
         "node_count": 77,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_74",
+        "id": "map_79",
         "title": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
         "filename": "UPC GERIÁTRICA → MODELO ESPECÍFICO-2026",
         "node_count": 421,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_75",
+        "id": "map_80",
         "title": "Urgencia. ACLS",
         "filename": "Urgencia. ACLS",
         "node_count": 139,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_76",
+        "id": "map_81",
         "title": "VM_Paro_Cardiaco_Six-dial_iPad",
         "filename": "VM_Paro_Cardiaco_Six-dial_iPad",
         "node_count": 119,
         "folder": "Entidades clínicas/UCI-Medicina Crítica"
       },
       {
-        "id": "map_77",
+        "id": "map_82",
         "title": "Ventilacion mecanica no invasiva (VNI)-2026",
         "filename": "Ventilacion mecanica no invasiva (VNI)-2026",
         "node_count": 317,
@@ -564,161 +599,161 @@
     "count": 23,
     "maps": [
       {
-        "id": "map_78",
+        "id": "map_83",
         "title": "Cap2 Triage iPad",
         "filename": "Cap2 Triage iPad",
         "node_count": 163,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_79",
+        "id": "map_84",
         "title": "Cap6 CGA Urgencias iPad",
         "filename": "Cap6 CGA Urgencias iPad",
         "node_count": 134,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_80",
+        "id": "map_85",
         "title": "Intoxicacion Baclofeno iPad",
         "filename": "Intoxicacion Baclofeno iPad",
         "node_count": 219,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_81",
+        "id": "map_86",
         "title": "IntoxicacionParacetamol iPad",
         "filename": "IntoxicacionParacetamol iPad",
         "node_count": 275,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_82",
+        "id": "map_87",
         "title": "Intoxicaciones iPad",
         "filename": "Intoxicaciones iPad",
         "node_count": 195,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_83",
+        "id": "map_88",
         "title": "Intoxicación por opioides-2026",
         "filename": "Intoxicación por opioides-2026",
         "node_count": 330,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_84",
+        "id": "map_89",
         "title": "MareoUrgencias iPad",
         "filename": "MareoUrgencias iPad",
         "node_count": 175,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_85",
+        "id": "map_90",
         "title": "Urgencia. BLS",
         "filename": "Urgencia. BLS",
         "node_count": 199,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_86",
+        "id": "map_91",
         "title": "Urgencias oncológicas-2023",
         "filename": "Urgencias oncológicas-2023",
         "node_count": 384,
         "folder": "Entidades clínicas/Urgencias"
       },
       {
-        "id": "map_87",
+        "id": "map_92",
         "title": "AMDA-01-Pain-Management",
         "filename": "AMDA-01-Pain-Management",
         "node_count": 351,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_88",
+        "id": "map_93",
         "title": "AMDA-02-Diabetes-Management",
         "filename": "AMDA-02-Diabetes-Management",
         "node_count": 364,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_89",
+        "id": "map_94",
         "title": "AMDA-03-Delirium-Depression-Dementia",
         "filename": "AMDA-03-Delirium-Depression-Dementia",
         "node_count": 427,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_90",
+        "id": "map_95",
         "title": "AMDA-04-COPD",
         "filename": "AMDA-04-COPD",
         "node_count": 376,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_91",
+        "id": "map_96",
         "title": "AMDA-05-Falls",
         "filename": "AMDA-05-Falls",
         "node_count": 310,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_92",
+        "id": "map_97",
         "title": "AMDA-06-Osteoporosis-Fractura",
         "filename": "AMDA-06-Osteoporosis-Fractura",
         "node_count": 390,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_93",
+        "id": "map_98",
         "title": "AMDA-07-Deshidratacion",
         "filename": "AMDA-07-Deshidratacion",
         "node_count": 311,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_94",
+        "id": "map_99",
         "title": "AMDA-09-Trastornos-GI",
         "filename": "AMDA-09-Trastornos-GI",
         "node_count": 268,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_95",
+        "id": "map_100",
         "title": "AMDA-10-Health-Maintenance",
         "filename": "AMDA-10-Health-Maintenance",
         "node_count": 398,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_96",
+        "id": "map_101",
         "title": "AMDA-11-Inmunizacion-PALTC",
         "filename": "AMDA-11-Inmunizacion-PALTC",
         "node_count": 249,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_97",
+        "id": "map_102",
         "title": "AMDA-12-Medication-Management",
         "filename": "AMDA-12-Medication-Management",
         "node_count": 254,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_98",
+        "id": "map_103",
         "title": "AMDA-13-PALTC-Coding",
         "filename": "AMDA-13-PALTC-Coding",
         "node_count": 324,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_99",
+        "id": "map_104",
         "title": "AMDA-14-Heart-Failure",
         "filename": "AMDA-14-Heart-Failure",
         "node_count": 418,
         "folder": "Geriatria/AMDA"
       },
       {
-        "id": "map_100",
+        "id": "map_105",
         "title": "AMDA-15-UTI-Toolkit-IOU",
         "filename": "AMDA-15-UTI-Toolkit-IOU",
         "node_count": 280,
