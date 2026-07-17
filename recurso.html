@@ -249,6 +249,124 @@
   .md-body hr { border: none; border-top: 1px solid var(--line); margin: 1.5em 0; }
   .md-body a { color: var(--accent); }
 
+  /* ---- Visor sincronizado (slide + audio) ---- */
+  .sync-panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 1.25rem;
+  }
+  .sync-stage {
+    position: relative;
+    background: #0f1115;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 16 / 9;
+    width: 100%;
+    overflow: hidden;
+  }
+  .sync-stage img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    display: block;
+    user-select: none;
+  }
+  .sync-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0,0,0,.4);
+    color: #fff;
+    border: none;
+    width: 40px; height: 56px;
+    font-size: 1.4rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background .15s;
+  }
+  .sync-nav:hover { background: rgba(0,0,0,.65); }
+  .sync-nav.prev { left: 0; border-radius: 0 8px 8px 0; }
+  .sync-nav.next { right: 0; border-radius: 8px 0 0 8px; }
+  .sync-nav:disabled { opacity: 0.3; cursor: default; }
+  .sync-counter {
+    position: absolute;
+    bottom: 0.6rem;
+    right: 0.6rem;
+    background: rgba(0,0,0,.55);
+    color: #fff;
+    font-size: 0.78rem;
+    font-variant-numeric: tabular-nums;
+    padding: 2px 9px;
+    border-radius: 999px;
+  }
+  .sync-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.75rem 1rem 0.5rem;
+    flex-wrap: wrap;
+  }
+  .sync-bar audio { flex: 1; min-width: 220px; height: 38px; }
+  .sync-bar .sync-download {
+    font-size: 0.8rem;
+    color: var(--accent);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .sync-hint {
+    font-size: 0.75rem;
+    color: var(--muted);
+    padding: 0 1rem 0.4rem;
+  }
+  .sync-approx {
+    font-size: 0.78rem;
+    color: var(--doc);
+    background: var(--doc-soft);
+    padding: 0.35rem 1rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .sync-film {
+    display: flex;
+    gap: 0.4rem;
+    overflow-x: auto;
+    padding: 0.6rem 1rem 0.9rem;
+    scroll-snap-type: x proximity;
+  }
+  .sync-film::-webkit-scrollbar { height: 6px; }
+  .sync-film::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+  .sync-thumb {
+    flex: 0 0 auto;
+    border: 2px solid transparent;
+    border-radius: 6px;
+    padding: 0;
+    background: var(--bg);
+    cursor: pointer;
+    overflow: hidden;
+    line-height: 0;
+    position: relative;
+    scroll-snap-align: center;
+  }
+  .sync-thumb img { width: 104px; height: 58px; object-fit: cover; display: block; }
+  .sync-thumb .tn {
+    position: absolute;
+    top: 2px; left: 2px;
+    background: rgba(0,0,0,.6);
+    color: #fff;
+    font-size: 0.62rem;
+    padding: 0 4px;
+    border-radius: 3px;
+    line-height: 1.4;
+  }
+  .sync-thumb.active { border-color: var(--accent); }
+
   .pending-panel {
     background: var(--card);
     border: 1px dashed var(--line);
@@ -545,7 +663,8 @@
       </div>
     </header>`;
 
-    const hasFiles = !!(files.content || files.pdf || (files.audio && files.audio.length));
+    const hasSync = !!(files.slides && files.slides.length && files.audio && files.audio.length);
+    const hasFiles = hasSync || !!(files.content || files.pdf || (files.audio && files.audio.length));
     const isPending = resource.pending || !hasFiles;
 
     // Recurso pendiente: catálogo publicado, archivos aún no subidos
@@ -553,15 +672,41 @@
       html += `<section class="pending-panel">
         <div class="pending-icon">⏳</div>
         <h2>Pendiente de subir</h2>
-        <p>Esta presentación ya está en el catálogo, pero todavía no se han subido el PDF de las diapositivas ni el audio.</p>
-        <p class="pending-how">Para publicarla, desde el proyecto ejecuta:</p>
-        <pre class="pending-cmd">python process_resources.py fill ${esc(resource.id)} \\
-    presentacion.pdf --audio parte1.mp3 parte2.mp3</pre>
+        <p>Esta presentación ya está en el catálogo, pero todavía no se han subido las diapositivas ni el audio.</p>
+        <p class="pending-how">Para publicarla como presentación sincronizada, desde el proyecto ejecuta:</p>
+        <pre class="pending-cmd">python process_resources.py pack ${esc(resource.id)} \\
+    --pdf deck.pdf --audio narracion.mp3</pre>
       </section>`;
     }
 
-    // Audio (presentaciones con narración)
-    if (files.audio && files.audio.length) {
+    // Visor sincronizado: diapositivas (PNG) + audio con cues de tiempo
+    if (hasSync) {
+      const audioSrc = files.audio[0].src;
+      html += `<section class="sync-panel">
+        <div class="sync-stage">
+          <button class="sync-nav prev" id="syncPrev" aria-label="Diapositiva anterior">‹</button>
+          <img id="syncSlide" src="${esc(files.slides[0].img)}" alt="Diapositiva 1">
+          <button class="sync-nav next" id="syncNext" aria-label="Diapositiva siguiente">›</button>
+          <span class="sync-counter" id="syncCounter">1 / ${files.slides.length}</span>
+        </div>
+        <div class="sync-bar">
+          <audio id="player" controls preload="metadata" src="${esc(audioSrc)}"></audio>
+          ${files.pdf ? `<a class="sync-download" href="${esc(files.pdf)}" target="_blank" rel="noopener">⬇ PDF completo</a>` : ''}
+        </div>
+        ${resource.sync_approx ? `<div class="sync-approx">≈ Sincronía aproximada: los tiempos se estimaron proporcionalmente.</div>` : ''}
+        <div class="sync-hint">La diapositiva avanza sola con el audio. Haz clic en una miniatura para saltar a ese momento.</div>
+        <div class="sync-film" id="syncFilm">
+          ${files.slides.map((s, i) => `
+            <button class="sync-thumb ${i === 0 ? 'active' : ''}" data-idx="${i}" data-start="${s.start || 0}">
+              <img src="${esc(s.img)}" alt="Ir a diapositiva ${i + 1}" loading="lazy">
+              <span class="tn">${i + 1}</span>
+            </button>`).join('')}
+        </div>
+      </section>`;
+    }
+
+    // Audio suelto (presentaciones con narración, sin slides sincronizadas)
+    if (!hasSync && files.audio && files.audio.length) {
       html += `<section class="audio-panel">
         <h2>🎧 Audio de la presentación</h2>
         <audio id="player" controls preload="metadata" src="${esc(files.audio[0].src)}"></audio>
@@ -575,8 +720,8 @@
       </section>`;
     }
 
-    // PDF
-    if (files.pdf) {
+    // PDF (embebido) — solo si no hay visor sincronizado
+    if (!hasSync && files.pdf) {
       html += `<section class="pdf-panel">
         <div class="pdf-bar">
           <span>📄 ${esc(files.pdf.split('/').pop())}</span>
@@ -601,9 +746,56 @@
 
     $('#main').innerHTML = html;
 
-    // Playlist de audio
+    // Visor sincronizado (slide + audio)
+    if (hasSync) {
+      const slides = files.slides;
+      const img = $('#syncSlide');
+      const counter = $('#syncCounter');
+      const prevBtn = $('#syncPrev');
+      const nextBtn = $('#syncNext');
+      const player = $('#player');
+      const thumbs = Array.from(document.querySelectorAll('.sync-thumb'));
+      let cur = -1;
+
+      function indexForTime(t) {
+        let idx = 0;
+        for (let i = 0; i < slides.length; i++) {
+          if ((slides[i].start || 0) <= t + 0.001) idx = i; else break;
+        }
+        return idx;
+      }
+      function show(idx, { seek = false } = {}) {
+        idx = Math.max(0, Math.min(slides.length - 1, idx));
+        if (idx !== cur) {
+          cur = idx;
+          img.src = slides[idx].img;
+          img.alt = 'Diapositiva ' + (idx + 1);
+          counter.textContent = (idx + 1) + ' / ' + slides.length;
+          thumbs.forEach((tb, i) => tb.classList.toggle('active', i === idx));
+          const active = thumbs[idx];
+          if (active) active.scrollIntoView({ inline: 'center', block: 'nearest', behavior: 'smooth' });
+          prevBtn.disabled = idx === 0;
+          nextBtn.disabled = idx === slides.length - 1;
+        }
+        if (seek && player) { player.currentTime = slides[idx].start || 0; }
+      }
+      // Mientras suena, la diapositiva sigue al audio; en pausa manda la navegación manual
+      player.addEventListener('timeupdate', () => { if (!player.paused) show(indexForTime(player.currentTime)); });
+      player.addEventListener('seeked', () => { if (!player.paused) show(indexForTime(player.currentTime)); });
+      prevBtn.addEventListener('click', () => show(cur - 1, { seek: true }));
+      nextBtn.addEventListener('click', () => show(cur + 1, { seek: true }));
+      thumbs.forEach(tb => tb.addEventListener('click', () => show(+tb.dataset.idx, { seek: true })));
+      document.addEventListener('keydown', (e) => {
+        if (e.target.tagName === 'INPUT') return;
+        if (e.key === 'ArrowRight') { show(cur + 1, { seek: true }); e.preventDefault(); }
+        else if (e.key === 'ArrowLeft') { show(cur - 1, { seek: true }); e.preventDefault(); }
+      });
+      show(0);
+    }
+
+    // Playlist de audio (modo no sincronizado)
     const player = $('#player');
-    if (player) {
+    if (player && !hasSync) {
       document.querySelectorAll('.audio-track').forEach(btn => {
         btn.addEventListener('click', () => {
           document.querySelectorAll('.audio-track').forEach(b => b.classList.remove('active'));

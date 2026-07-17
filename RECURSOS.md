@@ -10,6 +10,7 @@ documentos, pensado para estudiar y compartir con compañeros.
 |------|-------------------|--------|------------|
 | `guia` | Markdown (`.md`, `.txt`) | — | Guía formateada y legible |
 | `presentacion` | PDF | Pistas de audio (`.mp3`, `.m4a`, `.wav`…) | PDF incrustado + reproductor con playlist |
+| `presentacion` (sincronizada) | Diapositivas PNG | Audio + cues de tiempo | **Visor sincronizado**: la diapositiva avanza sola con el audio |
 | `documento` | PDF | — | PDF incrustado |
 
 ## Cómo subir un recurso
@@ -104,6 +105,40 @@ git add -A && git commit -m "presentaciones Rotación UCI" && git push
 > remoto aislado y **no puede ver los archivos de tu Mac**. Los PDFs tienen que
 > pasar por el repositorio (git) para llegar al portal; por eso el emparejamiento
 > se corre localmente y luego se hace `push`.
+
+## Presentaciones sincronizadas (diapositiva + audio) — comando `pack`
+
+Es el formato "clase": cada diapositiva se muestra como imagen y **avanza sola a
+medida que corre el audio**, con miniaturas para saltar a cualquier momento. Es
+el equivalente al visor de Biblioteca Geriatría, reconstruido aquí.
+
+`pack` renderiza el PDF a PNG, copia el audio y calcula los tiempos (cues) de cada
+diapositiva:
+
+```bash
+# A partir de un PDF + audio; los tiempos se estiman proporcionalmente
+python process_resources.py pack res_uci_g24 --pdf G24.pdf --audio g24.mp3
+
+# Con tiempos exactos: un archivo de texto, un timestamp por línea (mm:ss)
+python process_resources.py pack res_uci_g24 --pdf G24.pdf --audio g24.mp3 --cues g24_cues.txt
+
+# Si ya tienes las diapositivas exportadas como PNG (sin PDF)
+python process_resources.py pack res_uci_g24 --slides-dir ./g24_slides --audio g24.mp3
+```
+
+- **Render PDF→PNG**: usa PyMuPDF (`pip install pymupdf`) o poppler
+  (`brew install poppler`). Si no tienes ninguno, exporta los PNG a mano y usa
+  `--slides-dir`.
+- **Cues**: con `--cues` pones los tiempos exactos (uno por diapositiva). Sin
+  `--cues`, se reparten proporcionalmente a lo largo del audio (para saber la
+  duración usa `ffmpeg`/`ffprobe`, o pásala con `--duration SEGUNDOS`); en ese
+  caso el visor muestra un aviso de "sincronía aproximada".
+- Funciona igual sobre un id del catálogo (`res_uci_g24`) o uno nuevo.
+- El PDF, si lo pasas, queda disponible como descarga ("⬇ PDF completo") dentro
+  del visor.
+
+> Este es el punto 1 del handoff de Biblioteca Geriatría (portal de clases con
+> diapositiva + audio sincronizado), pero para el portal público de medmaps.
 
 ## Cómo compartir con compañeros
 
