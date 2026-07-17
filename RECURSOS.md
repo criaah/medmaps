@@ -69,6 +69,42 @@ tags y URL), así que el enlace `recurso.html?id=res_uci_g05` es estable desde e
 primer momento: puedes compartirlo aunque el recurso todavía esté pendiente, y en
 cuanto lo rellenes empezará a mostrar el PDF y el audio.
 
+### Subir muchas presentaciones de una vez (desde tu computador)
+
+Si tienes los PDFs juntos en una carpeta (por ejemplo, el escritorio del Mac), el
+comando `import-folder` los empareja **automáticamente** con el catálogo por su
+código G en el nombre del archivo (`G05…`, `G24_…`, `g06a - …`, etc.):
+
+```bash
+# 1. En tu Mac: clona o actualiza el repo
+git clone https://github.com/criaah/medmaps.git   # (o git pull si ya lo tienes)
+cd medmaps
+
+# 2. Previsualiza el emparejamiento sin escribir nada
+python process_resources.py import-folder ~/Desktop/presentaciones --dry-run
+
+# 3. Si se ve bien, ejecútalo de verdad (con audios opcionales en otra carpeta)
+python process_resources.py import-folder ~/Desktop/presentaciones \
+    --audio-dir ~/Desktop/audios
+
+# 4. Publica
+git add -A && git commit -m "presentaciones Rotación UCI" && git push
+```
+
+- El nombre del PDF solo necesita contener el código G (`G05`, `G24`, `G06a`…);
+  el resto del nombre da igual.
+- Los audios se emparejan igual, por código G; varios audios del mismo código se
+  ordenan alfabéticamente y quedan como pistas 1, 2, 3…
+- Los PDFs sin código G reconocible se **reportan** (no se pierden) para que los
+  subas a mano con `add` o `fill`.
+- `--dry-run` muestra el plan sin tocar nada; `--force` sobrescribe recursos que
+  ya tuvieran archivos.
+
+> **Por qué en tu computador y no aquí:** este asistente corre en un entorno
+> remoto aislado y **no puede ver los archivos de tu Mac**. Los PDFs tienen que
+> pasar por el repositorio (git) para llegar al portal; por eso el emparejamiento
+> se corre localmente y luego se hace `push`.
+
 ## Cómo compartir con compañeros
 
 Cada recurso tiene URL propia y estable:

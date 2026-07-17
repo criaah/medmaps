@@ -19,8 +19,15 @@ Uso:
     # Documento suelto (PDF)
     python process_resources.py add paper.pdf --type documento --title "Paper X"
 
-    # Listar recursos existentes
-    python process_resources.py list
+    # Rellenar un recurso pendiente del catálogo (ej: Rotación UCI)
+    python process_resources.py fill res_uci_g05 clase.pdf --audio p1.mp3 p2.mp3
+
+    # Emparejar en lote una carpeta de PDFs con el catálogo (por código G)
+    python process_resources.py import-folder ~/Desktop/presentaciones \
+        --audio-dir ~/Desktop/audios
+
+    # Listar recursos existentes (o solo los pendientes)
+    python process_resources.py list [--pending]
 
     # Eliminar un recurso (borra la entrada del índice, no los archivos)
     python process_resources.py remove res_guia_epoc
@@ -207,6 +214,94 @@ def cmd_fill(args):
     print("   Recuerda hacer commit + push para publicarlo.")
 
 
+GCODE_RE = re.compile(r'[Gg]\s*0*(\d{1,2})\s*[-_ ]?\s*([ABab])?')
+
+
+def parse_gcode(name: str):
+    """Extrae (num, letra) de un nombre de archivo o id. Ej: 'G06a' -> (6, 'a')."""
+    m = GCODE_RE.search(name)
+    if not m:
+        return None
+    return (int(m.group(1)), (m.group(2) or "").lower())
+
+
+def cmd_import_folder(args):
+    """Empareja PDFs (y audios) de una carpeta con los recursos del catálogo por código G."""
+    pdf_dir = Path(args.dir).expanduser()
+    if not pdf_dir.is_dir():
+        sys.exit(f"❌ No es una carpeta: {pdf_dir}")
+    audio_dir = Path(args.audio_dir).expanduser() if args.audio_dir else None
+    if audio_dir and not audio_dir.is_dir():
+        sys.exit(f"❌ No es una carpeta de audio: {audio_dir}")
+
+    index = load_index()
+    # Mapa (num, letra) -> entrada del catálogo (solo recursos res_uci_*)
+    catalog = {}
+    for r in index:
+        if not r["id"].startswith("res_uci_"):
+            continue
+        gc = parse_gcode(r["id"].replace("res_uci_", ""))
+        if gc:
+            catalog[gc] = r
+
+    # Indexar audios disponibles por código G
+    audio_by_gc = {}
+    if audio_dir:
+        for a in sorted(audio_dir.iterdir()):
+            if a.is_file() and a.suffix.lower() in AUDIO_EXTS:
+                gc = parse_gcode(a.name)
+                if gc:
+                    audio_by_gc.setdefault(gc, []).append(a)
+
+    pdfs = sorted(p for p in pdf_dir.iterdir() if p.is_file() and p.suffix.lower() == ".pdf")
+    if not pdfs:
+        sys.exit(f"📭 No hay PDFs en {pdf_dir}")
+
+    filled, skipped, unmatched = [], [], []
+    for pdf in pdfs:
+        gc = parse_gcode(pdf.name)
+        if gc is None or gc not in catalog:
+            unmatched.append(pdf.name)
+            continue
+        entry = catalog[gc]
+        if entry.get("files") and not args.force:
+            skipped.append((entry["id"], pdf.name))
+            continue
+        audios = audio_by_gc.get(gc, [])
+        if args.dry_run:
+            filled.append((entry["id"], pdf.name, [a.name for a in audios]))
+            continue
+        entry["files"] = build_files(pdf, "presentacion", [str(a) for a in audios])
+        entry.pop("pending", None)
+        desc = entry.get("description", "")
+        if desc.endswith("Pendiente de subir los archivos."):
+            entry["description"] = desc.replace(" Pendiente de subir los archivos.", "").strip()
+        entry["date"] = datetime.now().strftime("%Y-%m-%d")
+        filled.append((entry["id"], pdf.name, [a.name for a in audios]))
+
+    if not args.dry_run and filled:
+        save_index(index)
+
+    tag = "[dry-run] " if args.dry_run else ""
+    print(f"\n{tag}✅ {len(filled)} presentación(es) {'se rellenarían' if args.dry_run else 'rellenadas'}:")
+    for rid, pdf, auds in filled:
+        extra = f"  +{len(auds)} audio(s)" if auds else "  (sin audio)"
+        print(f"   {rid}  ←  {pdf}{extra}")
+    if skipped:
+        print(f"\n⏭️  {len(skipped)} ya tenían archivos (usa --force para sobrescribir):")
+        for rid, pdf in skipped:
+            print(f"   {rid}  (venía con: {pdf})")
+    if unmatched:
+        print(f"\n⚠️  {len(unmatched)} PDF(s) sin código G reconocible — rellénalos a mano con 'fill':")
+        for name in unmatched:
+            print(f"   {name}")
+    still = [r["id"] for r in index if r["id"].startswith("res_uci_") and (r.get("pending") or not r.get("files"))]
+    if still and not args.dry_run:
+        print(f"\n📌 Quedan {len(still)} presentaciones del catálogo aún pendientes.")
+    if not args.dry_run and filled:
+        print("\n   Recuerda: git add -A && git commit -m 'presentaciones UCI' && git push")
+
+
 def cmd_list(args):
     index = load_index()
     if not index:
@@ -257,6 +352,14 @@ def main():
     p_fill.add_argument("--audio", nargs="+", help="Archivos de audio (en orden)")
     p_fill.add_argument("--description", "-d", default="", help="Descripción (opcional; reemplaza la del catálogo)")
     p_fill.set_defaults(func=cmd_fill)
+
+    p_imp = sub.add_parser("import-folder",
+                           help="Emparejar PDFs de una carpeta con el catálogo por código G (G05, G24…)")
+    p_imp.add_argument("dir", help="Carpeta con los PDFs (ej: ~/Desktop/presentaciones)")
+    p_imp.add_argument("--audio-dir", help="Carpeta con los audios (se emparejan por código G)")
+    p_imp.add_argument("--dry-run", action="store_true", help="Mostrar qué se rellenaría sin escribir nada")
+    p_imp.add_argument("--force", action="store_true", help="Sobrescribir recursos que ya tienen archivos")
+    p_imp.set_defaults(func=cmd_import_folder)
 
     p_list = sub.add_parser("list", help="Listar recursos")
     p_list.add_argument("--pending", "-p", action="store_true", help="Solo los pendientes de subir")
