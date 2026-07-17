@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Recursos de estudio — MedMaps</title>
+<meta name="description" content="Guías de estudio, presentaciones con audio y material complementario a los mapas mentales de MedMaps.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --card: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e8e6df;
+    --accent: #0072c6;
+    --accent-soft: #e6f1fb;
+    --guia: #15803d;
+    --guia-soft: #dcfce7;
+    --pres: #9333ea;
+    --pres-soft: #f3e8ff;
+    --doc: #b45309;
+    --doc-soft: #fef3c7;
+  }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    margin: 0;
+    min-height: 100vh;
+  }
+  .lib-topbar {
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .lib-brand {
+    font-weight: 800;
+    font-size: 1.15rem;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .lib-brand::before {
+    content: '';
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .lib-nav {
+    display: flex;
+    gap: 0.25rem;
+  }
+  .lib-nav a {
+    text-decoration: none;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.35rem 0.8rem;
+    border-radius: 6px;
+  }
+  .lib-nav a:hover { color: var(--ink); background: var(--bg); }
+  .lib-nav a.active { color: var(--accent); background: var(--accent-soft); font-weight: 600; }
+  .lib-search {
+    flex: 1;
+    max-width: 480px;
+    position: relative;
+  }
+  .lib-search input {
+    width: 100%;
+    padding: 0.6rem 1rem 0.6rem 2.5rem;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: 0.95rem;
+    font-family: inherit;
+    background: #fff;
+    box-sizing: border-box;
+  }
+  .lib-search input:focus {
+    outline: none;
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-soft);
+  }
+  .lib-search::before {
+    content: '';
+    position: absolute;
+    left: 0.85rem;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 16px;
+    height: 16px;
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="%236b6b6b" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>') no-repeat center;
+    background-size: contain;
+  }
+  .lib-hero {
+    max-width: 1200px;
+    margin: 2.5rem auto 1.5rem;
+    padding: 0 2rem;
+  }
+  .lib-hero h1 {
+    font-family: 'Newsreader', serif;
+    font-size: 2.4rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.02em;
+  }
+  .lib-hero p {
+    color: var(--muted);
+    font-size: 1.05rem;
+    margin: 0;
+    max-width: 70ch;
+  }
+  .lib-filters {
+    max-width: 1200px;
+    margin: 1.5rem auto 0;
+    padding: 0 2rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .lib-pill {
+    border: 1px solid var(--line);
+    background: #fff;
+    padding: 0.4rem 0.95rem;
+    border-radius: 999px;
+    font-size: 0.85rem;
+    cursor: pointer;
+    font-family: inherit;
+    color: var(--ink);
+    transition: all .15s;
+  }
+  .lib-pill:hover { border-color: var(--accent); }
+  .lib-pill.active {
+    background: var(--accent);
+    color: #fff;
+    border-color: var(--accent);
+  }
+  .lib-pill .count { margin-left: 0.35rem; opacity: 0.7; font-size: 0.8rem; }
+  .lib-filters + .lib-filters { margin-top: 0.5rem; }
+  .lib-filters .label {
+    font-size: 0.78rem;
+    color: var(--muted);
+    align-self: center;
+    margin-right: 0.25rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .res-grid {
+    max-width: 1200px;
+    margin: 2rem auto 4rem;
+    padding: 0 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1rem;
+  }
+  .res-card {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 1.1rem 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    transition: all .15s;
+    position: relative;
+  }
+  .res-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-1px);
+    box-shadow: 0 2px 10px rgba(0,0,0,.05);
+  }
+  .res-card a.res-link {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .res-badges {
+    display: flex;
+    gap: 0.4rem;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .res-type {
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 9px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .res-type.guia { background: var(--guia-soft); color: var(--guia); }
+  .res-type.presentacion { background: var(--pres-soft); color: var(--pres); }
+  .res-type.documento { background: var(--doc-soft); color: var(--doc); }
+  .res-spec { font-size: 0.74rem; color: var(--muted); }
+  .res-title {
+    font-weight: 600;
+    font-size: 1.02rem;
+    line-height: 1.35;
+  }
+  .res-desc {
+    font-size: 0.84rem;
+    color: var(--muted);
+    line-height: 1.5;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  .res-meta {
+    font-size: 0.75rem;
+    color: var(--muted);
+    display: flex;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .res-meta .audio-flag { color: var(--pres); font-weight: 600; }
+  .res-actions {
+    margin-top: 0.4rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--line);
+    display: flex;
+    gap: 0.4rem;
+  }
+  .res-actions button {
+    border: 1px solid var(--line);
+    background: #fff;
+    border-radius: 6px;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.78rem;
+    font-family: inherit;
+    cursor: pointer;
+    color: var(--muted);
+    transition: all .15s;
+  }
+  .res-actions button:hover { border-color: var(--accent); color: var(--accent); }
+
+  .lib-loading, .lib-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+  }
+  .lib-loading .spinner {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    border: 3px solid var(--line);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+    margin-bottom: 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .toast {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--ink);
+    color: #fff;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .25s;
+    z-index: 50;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  @media (max-width: 640px) {
+    .lib-topbar { padding: 0.75rem 1rem; flex-wrap: wrap; }
+    .lib-hero { padding: 0 1rem; margin-top: 1.5rem; }
+    .lib-hero h1 { font-size: 1.8rem; }
+    .lib-filters { padding: 0 1rem; }
+    .res-grid { padding: 0 1rem; grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header class="lib-topbar">
+  <a href="index.html" class="lib-brand">MedMaps</a>
+  <nav class="lib-nav">
+    <a href="index.html">Mapas</a>
+    <a href="recursos.html" class="active">Recursos</a>
+  </nav>
+  <div class="lib-search">
+    <input type="search" id="resSearch" placeholder="Buscar recursos (título, tema, especialidad…)" autocomplete="off">
+  </div>
+</header>
+
+<section class="lib-hero">
+  <h1>Recursos de estudio</h1>
+  <p>Guías de estudio, presentaciones con audio y documentos que complementan los mapas mentales. Comparte cualquier recurso con tus compañeros con un enlace directo.</p>
+</section>
+
+<div class="lib-filters" id="typeFilters"><span class="label">Tipo</span></div>
+<div class="lib-filters" id="specFilters"><span class="label">Especialidad</span></div>
+
+<main class="res-grid" id="resGrid">
+  <div class="lib-loading">
+    <div class="spinner"></div>
+    Cargando recursos…
+  </div>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function() {
+  'use strict';
+
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  const TYPE_LABELS = {
+    guia: { label: 'Guía de estudio', icon: '📖' },
+    presentacion: { label: 'Presentación', icon: '🎧' },
+    documento: { label: 'Documento', icon: '📄' }
+  };
+
+  let all = [];
+  let typeFilter = null;
+  let specFilter = null;
+  let query = '';
+
+  async function init() {
+    try {
+      const r = await fetch('data/resources_index.json');
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      all = await r.json();
+      render();
+    } catch (e) {
+      $('#resGrid').innerHTML = `<div class="lib-empty">
+        <p><b>No se pudieron cargar los recursos.</b></p>
+        <p style="font-size:.85rem">Verifica que existe <code>data/resources_index.json</code>.</p>
+        <p style="font-size:.85rem;color:#a00">Error: ${esc(e.message)}</p>
+      </div>`;
+    }
+  }
+
+  function filtered() {
+    let m = all;
+    if (typeFilter) m = m.filter(x => x.type === typeFilter);
+    if (specFilter) m = m.filter(x => (x.specialty || 'General') === specFilter);
+    if (query) {
+      const q = query.toLowerCase();
+      m = m.filter(x =>
+        (x.title || '').toLowerCase().includes(q) ||
+        (x.description || '').toLowerCase().includes(q) ||
+        (x.specialty || '').toLowerCase().includes(q) ||
+        (x.tags || []).some(t => t.toLowerCase().includes(q))
+      );
+    }
+    return m;
+  }
+
+  function countBy(arr, fn) {
+    const out = {};
+    arr.forEach(x => { const k = fn(x); out[k] = (out[k] || 0) + 1; });
+    return out;
+  }
+
+  function resourceURL(res) {
+    const u = new URL('recurso.html', location.href);
+    u.searchParams.set('id', res.id);
+    return u.href;
+  }
+
+  function shareText(res) {
+    const t = TYPE_LABELS[res.type] || TYPE_LABELS.documento;
+    return `${t.icon} ${res.title} — ${t.label} en MedMaps\n${resourceURL(res)}`;
+  }
+
+  function toast(msg) {
+    const el = $('#toast');
+    el.textContent = msg;
+    el.classList.add('show');
+    clearTimeout(el._t);
+    el._t = setTimeout(() => el.classList.remove('show'), 2200);
+  }
+
+  window.copyLink = async function(id) {
+    const res = all.find(r => r.id === id);
+    if (!res) return;
+    try {
+      await navigator.clipboard.writeText(resourceURL(res));
+      toast('Enlace copiado — pégalo donde quieras compartirlo');
+    } catch (e) {
+      prompt('Copia el enlace:', resourceURL(res));
+    }
+  };
+
+  window.shareRes = function(id) {
+    const res = all.find(r => r.id === id);
+    if (!res) return;
+    if (navigator.share) {
+      navigator.share({ title: res.title, text: shareText(res), url: resourceURL(res) }).catch(() => {});
+    } else {
+      window.open('https://wa.me/?text=' + encodeURIComponent(shareText(res)), '_blank');
+    }
+  };
+
+  function render() {
+    const items = filtered();
+    const byType = countBy(all, x => x.type);
+    const bySpec = countBy(all, x => x.specialty || 'General');
+
+    // Type filter pills
+    $('#typeFilters').innerHTML = '<span class="label">Tipo</span>' + [
+      `<button class="lib-pill ${!typeFilter ? 'active' : ''}" data-v="">Todos <span class="count">${all.length}</span></button>`,
+      ...Object.keys(TYPE_LABELS).filter(t => byType[t]).map(t =>
+        `<button class="lib-pill ${typeFilter === t ? 'active' : ''}" data-v="${t}">${TYPE_LABELS[t].icon} ${TYPE_LABELS[t].label} <span class="count">${byType[t]}</span></button>`)
+    ].join('');
+    $('#typeFilters').querySelectorAll('.lib-pill').forEach(b =>
+      b.addEventListener('click', () => { typeFilter = b.dataset.v || null; render(); }));
+
+    // Specialty filter pills
+    const specs = Object.keys(bySpec).sort((a, b) => bySpec[b] - bySpec[a]);
+    $('#specFilters').innerHTML = '<span class="label">Especialidad</span>' + [
+      `<button class="lib-pill ${!specFilter ? 'active' : ''}" data-v="">Todas</button>`,
+      ...specs.map(s =>
+        `<button class="lib-pill ${specFilter === s ? 'active' : ''}" data-v="${esc(s)}">${esc(s)} <span class="count">${bySpec[s]}</span></button>`)
+    ].join('');
+    $('#specFilters').querySelectorAll('.lib-pill').forEach(b =>
+      b.addEventListener('click', () => { specFilter = b.dataset.v || null; render(); }));
+
+    if (!items.length) {
+      $('#resGrid').innerHTML = `<div class="lib-empty">
+        <p>Sin resultados${query ? ` para "${esc(query)}"` : ''}.</p>
+        <p style="font-size:.85rem">Agrega recursos con <code>python process_resources.py add …</code> (ver RECURSOS.md)</p>
+      </div>`;
+      return;
+    }
+
+    $('#resGrid').innerHTML = items.map(res => {
+      const t = TYPE_LABELS[res.type] || TYPE_LABELS.documento;
+      const hasAudio = !!(res.files && res.files.audio && res.files.audio.length);
+      const hasPdf = !!(res.files && res.files.pdf);
+      return `<article class="res-card">
+        <a class="res-link" href="recurso.html?id=${encodeURIComponent(res.id)}">
+          <div class="res-badges">
+            <span class="res-type ${esc(res.type)}">${t.icon} ${t.label}</span>
+            <span class="res-spec">${esc(res.specialty || 'General')}</span>
+          </div>
+          <div class="res-title">${esc(res.title)}</div>
+          ${res.description ? `<div class="res-desc">${esc(res.description)}</div>` : ''}
+          <div class="res-meta">
+            ${res.date ? `<span>${esc(res.date)}</span>` : ''}
+            ${hasPdf ? '<span>PDF</span>' : ''}
+            ${hasAudio ? `<span class="audio-flag">▶ ${res.files.audio.length} pista${res.files.audio.length !== 1 ? 's' : ''} de audio</span>` : ''}
+            ${(res.tags || []).map(tag => `<span>#${esc(tag)}</span>`).join('')}
+          </div>
+        </a>
+        <div class="res-actions">
+          <button onclick="copyLink('${esc(res.id)}')">🔗 Copiar enlace</button>
+          <button onclick="shareRes('${esc(res.id)}')">📤 Compartir</button>
+        </div>
+      </article>`;
+    }).join('');
+  }
+
+  let timer;
+  $('#resSearch').addEventListener('input', (e) => {
+    clearTimeout(timer);
+    timer = setTimeout(() => { query = e.target.value.trim(); render(); }, 150);
+  });
+
+  init();
+})();
+</script>
+
+</body>
+</html>

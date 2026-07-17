@@ -1,0 +1,45 @@
+[
+  {
+    "id": "res_guia_demo_fa",
+    "type": "guia",
+    "title": "Guía de estudio: Fibrilación Auricular",
+    "specialty": "Cardiología",
+    "description": "Guía de ejemplo: clasificación, CHA₂DS₂-VASc, control de ritmo vs frecuencia y anticoagulación.",
+    "author": "Dr. Acevedo",
+    "date": "2026-07-17",
+    "tags": [
+      "arritmias",
+      "anticoagulación"
+    ],
+    "access": "free",
+    "files": {
+      "content": "resources/guias/guia_demo_fa.md"
+    },
+    "related_maps": [
+      "fa"
+    ]
+  },
+  {
+    "id": "res_presentacion_demo",
+    "type": "presentacion",
+    "title": "Presentación de ejemplo (PDF + audio)",
+    "specialty": "General",
+    "description": "Ejemplo del formato presentación: un PDF con pistas de audio para estudiar escuchando la explicación.",
+    "author": "Dr. Acevedo",
+    "date": "2026-07-17",
+    "tags": [
+      "demo"
+    ],
+    "access": "free",
+    "files": {
+      "pdf": "resources/presentaciones/presentacion_demo.pdf",
+      "audio": [
+        {
+          "title": "Parte 1 · Introducción",
+          "src": "resources/audio/presentacion_demo_parte1.wav"
+        }
+      ]
+    },
+    "related_maps": []
+  }
+]

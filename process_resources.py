@@ -1,0 +1,224 @@
+#!/usr/bin/env python3
+"""
+Procesador de Recursos - MedMaps
+
+Agrega guías de estudio, presentaciones (PDF + audio) y documentos al portal
+de recursos (recursos.html). Copia los archivos a resources/ y actualiza
+data/resources_index.json.
+
+Uso:
+    # Guía de estudio (markdown)
+    python process_resources.py add guia_epoc.md --type guia \
+        --title "Guía de estudio: EPOC" --specialty "Neumología"
+
+    # Presentación PDF con audio
+    python process_resources.py add clase_ic.pdf --type presentacion \
+        --title "Insuficiencia cardíaca" --specialty "Cardiología" \
+        --audio parte1.mp3 parte2.mp3
+
+    # Documento suelto (PDF)
+    python process_resources.py add paper.pdf --type documento --title "Paper X"
+
+    # Listar recursos existentes
+    python process_resources.py list
+
+    # Eliminar un recurso (borra la entrada del índice, no los archivos)
+    python process_resources.py remove res_guia_epoc
+"""
+
+import argparse
+import json
+import re
+import shutil
+import sys
+import unicodedata
+from datetime import datetime
+from pathlib import Path
+
+BASE_DIR = Path(__file__).resolve().parent
+INDEX_FILE = BASE_DIR / "data" / "resources_index.json"
+RESOURCES_DIR = BASE_DIR / "resources"
+
+TYPE_DIRS = {
+    "guia": RESOURCES_DIR / "guias",
+    "presentacion": RESOURCES_DIR / "presentaciones",
+    "documento": RESOURCES_DIR / "documentos",
+}
+AUDIO_DIR = RESOURCES_DIR / "audio"
+
+AUDIO_EXTS = {".mp3", ".m4a", ".wav", ".ogg", ".aac", ".opus"}
+
+
+def slugify(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text)
+    text = text.encode("ascii", "ignore").decode("ascii")
+    text = re.sub(r"[^a-zA-Z0-9]+", "_", text).strip("_").lower()
+    return text[:60] or "recurso"
+
+
+def load_index() -> list:
+    if INDEX_FILE.exists():
+        with open(INDEX_FILE, encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+
+def save_index(index: list):
+    INDEX_FILE.parent.mkdir(parents=True, exist_ok=True)
+    with open(INDEX_FILE, "w", encoding="utf-8") as f:
+        json.dump(index, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def unique_id(index: list, base: str) -> str:
+    existing = {r["id"] for r in index}
+    rid = f"res_{base}"
+    n = 2
+    while rid in existing:
+        rid = f"res_{base}_{n}"
+        n += 1
+    return rid
+
+
+def copy_into(src: Path, dest_dir: Path) -> Path:
+    """Copia src a dest_dir evitando sobrescribir; retorna la ruta destino."""
+    dest_dir.mkdir(parents=True, exist_ok=True)
+    dest = dest_dir / src.name
+    n = 2
+    while dest.exists() and dest.stat().st_size != src.stat().st_size:
+        dest = dest_dir / f"{src.stem}_{n}{src.suffix}"
+        n += 1
+    if not dest.exists():
+        shutil.copy2(src, dest)
+    return dest
+
+
+def guess_type(filepath: Path) -> str:
+    if filepath.suffix.lower() in (".md", ".markdown", ".txt"):
+        return "guia"
+    return "documento"
+
+
+def cmd_add(args):
+    src = Path(args.file).expanduser()
+    if not src.exists():
+        sys.exit(f"❌ Archivo no encontrado: {src}")
+
+    rtype = args.type or guess_type(src)
+    if rtype not in TYPE_DIRS:
+        sys.exit(f"❌ Tipo inválido: {rtype}. Usa: {', '.join(TYPE_DIRS)}")
+
+    title = args.title or src.stem.replace("_", " ").replace("-", " ").strip()
+    index = load_index()
+    rid = unique_id(index, slugify(args.id or title))
+
+    files = {}
+    is_markdown = src.suffix.lower() in (".md", ".markdown", ".txt")
+    dest = copy_into(src, TYPE_DIRS[rtype])
+    rel = dest.relative_to(BASE_DIR).as_posix()
+    if is_markdown:
+        files["content"] = rel
+    elif src.suffix.lower() == ".pdf":
+        files["pdf"] = rel
+    else:
+        files["pdf"] = rel  # el visor lo trata como archivo incrustable
+
+    # Pistas de audio
+    audio_entries = []
+    for i, a in enumerate(args.audio or [], 1):
+        apath = Path(a).expanduser()
+        if not apath.exists():
+            sys.exit(f"❌ Audio no encontrado: {apath}")
+        if apath.suffix.lower() not in AUDIO_EXTS:
+            print(f"⚠️  {apath.name}: extensión poco común para audio, se incluye igual")
+        adest = copy_into(apath, AUDIO_DIR)
+        audio_entries.append({
+            "title": f"Parte {i}",
+            "src": adest.relative_to(BASE_DIR).as_posix(),
+        })
+    if audio_entries:
+        files["audio"] = audio_entries
+
+    entry = {
+        "id": rid,
+        "type": rtype,
+        "title": title,
+        "specialty": args.specialty,
+        "description": args.description or "",
+        "author": args.author,
+        "date": datetime.now().strftime("%Y-%m-%d"),
+        "tags": args.tags or [],
+        "access": args.access,
+        "files": files,
+        "related_maps": args.related or [],
+    }
+    index.append(entry)
+    save_index(index)
+
+    print(f"\n✅ Recurso agregado: {rid}")
+    print(f"   Título: {title}")
+    print(f"   Tipo: {rtype} · Especialidad: {args.specialty}")
+    for k, v in files.items():
+        if k == "audio":
+            for a in v:
+                print(f"   Audio: {a['src']}")
+        else:
+            print(f"   {k}: {v}")
+    print(f"\n   URL: recurso.html?id={rid}")
+    print("   Recuerda hacer commit + push para publicarlo.")
+
+
+def cmd_list(_args):
+    index = load_index()
+    if not index:
+        print("📭 No hay recursos todavía.")
+        return
+    print(f"\n📚 {len(index)} recursos:\n")
+    for r in index:
+        icon = {"guia": "📖", "presentacion": "🎧", "documento": "📄"}.get(r["type"], "📄")
+        audio = r.get("files", {}).get("audio", [])
+        extra = f" · {len(audio)} pista(s) de audio" if audio else ""
+        print(f"  {icon} [{r['id']}] {r['title']} — {r.get('specialty', 'General')}{extra}")
+
+
+def cmd_remove(args):
+    index = load_index()
+    before = len(index)
+    index = [r for r in index if r["id"] != args.id]
+    if len(index) == before:
+        sys.exit(f"❌ No existe el recurso: {args.id}")
+    save_index(index)
+    print(f"✅ Recurso {args.id} eliminado del índice (los archivos quedan en resources/).")
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Procesar recursos de estudio de MedMaps")
+    sub = parser.add_subparsers(dest="cmd", required=True)
+
+    p_add = sub.add_parser("add", help="Agregar un recurso")
+    p_add.add_argument("file", help="Archivo principal (.md/.txt para guías, .pdf para presentaciones/documentos)")
+    p_add.add_argument("--type", "-t", choices=list(TYPE_DIRS), help="guia | presentacion | documento (se infiere si se omite)")
+    p_add.add_argument("--title", help="Título del recurso (por defecto, el nombre del archivo)")
+    p_add.add_argument("--specialty", "-s", default="General")
+    p_add.add_argument("--description", "-d", default="")
+    p_add.add_argument("--author", default="Dr. Acevedo")
+    p_add.add_argument("--audio", nargs="+", help="Archivos de audio (en orden) para presentaciones")
+    p_add.add_argument("--tags", nargs="+", help="Etiquetas")
+    p_add.add_argument("--related", nargs="+", help="IDs de mapas relacionados (ej: map_12 fa)")
+    p_add.add_argument("--access", "-a", default="free", choices=["free", "premium"])
+    p_add.add_argument("--id", help="Forzar un id específico (se slugifica)")
+    p_add.set_defaults(func=cmd_add)
+
+    p_list = sub.add_parser("list", help="Listar recursos")
+    p_list.set_defaults(func=cmd_list)
+
+    p_rm = sub.add_parser("remove", help="Quitar un recurso del índice")
+    p_rm.add_argument("id", help="ID del recurso (ej: res_guia_epoc)")
+    p_rm.set_defaults(func=cmd_remove)
+
+    args = parser.parse_args()
+    args.func(args)
+
+
+if __name__ == "__main__":
+    main()

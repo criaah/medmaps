@@ -54,6 +54,20 @@
     border-radius: 50%;
     background: var(--accent);
   }
+  .lib-nav {
+    display: flex;
+    gap: 0.25rem;
+  }
+  .lib-nav a {
+    text-decoration: none;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.35rem 0.8rem;
+    border-radius: 6px;
+  }
+  .lib-nav a:hover { color: var(--ink); background: var(--bg); }
+  .lib-nav a.active { color: var(--accent); background: var(--accent-soft); font-weight: 600; }
   .lib-search {
     flex: 1;
     max-width: 480px;
@@ -382,6 +396,10 @@
 
 <header class="lib-topbar">
   <a href="index.html" class="lib-brand">MedMaps</a>
+  <nav class="lib-nav">
+    <a href="index.html" class="active">Mapas</a>
+    <a href="recursos.html">Recursos</a>
+  </nav>
   <div class="lib-search">
     <input type="search" id="libSearch" placeholder="Buscar en la biblioteca (nombre del mapa, tema…)" autocomplete="off">
   </div>
