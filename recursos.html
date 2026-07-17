@@ -229,6 +229,17 @@
     align-items: center;
   }
   .res-meta .audio-flag { color: var(--pres); font-weight: 600; }
+  .res-card.is-pending { border-style: dashed; }
+  .res-pending {
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 4px;
+    background: #fef3c7;
+    color: #b45309;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
   .res-actions {
     margin-top: 0.4rem;
     padding-top: 0.6rem;
@@ -454,11 +465,14 @@
       const t = TYPE_LABELS[res.type] || TYPE_LABELS.documento;
       const hasAudio = !!(res.files && res.files.audio && res.files.audio.length);
       const hasPdf = !!(res.files && res.files.pdf);
-      return `<article class="res-card">
+      const hasContent = !!(res.files && res.files.content);
+      const isPending = res.pending || !(hasAudio || hasPdf || hasContent);
+      return `<article class="res-card ${isPending ? 'is-pending' : ''}">
         <a class="res-link" href="recurso.html?id=${encodeURIComponent(res.id)}">
           <div class="res-badges">
             <span class="res-type ${esc(res.type)}">${t.icon} ${t.label}</span>
             <span class="res-spec">${esc(res.specialty || 'General')}</span>
+            ${isPending ? '<span class="res-pending">⏳ Pendiente</span>' : ''}
           </div>
           <div class="res-title">${esc(res.title)}</div>
           ${res.description ? `<div class="res-desc">${esc(res.description)}</div>` : ''}
