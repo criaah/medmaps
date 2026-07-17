@@ -1,0 +1,603 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Recurso — MedMaps</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #fafaf7;
+    --card: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #e8e6df;
+    --accent: #0072c6;
+    --accent-soft: #e6f1fb;
+    --guia: #15803d;
+    --guia-soft: #dcfce7;
+    --pres: #9333ea;
+    --pres-soft: #f3e8ff;
+    --doc: #b45309;
+    --doc-soft: #fef3c7;
+  }
+  body {
+    font-family: 'Inter', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+    margin: 0;
+    min-height: 100vh;
+  }
+  .lib-topbar {
+    background: #fff;
+    border-bottom: 1px solid var(--line);
+    padding: 1rem 2rem;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .lib-brand {
+    font-weight: 800;
+    font-size: 1.15rem;
+    color: var(--ink);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .lib-brand::before {
+    content: '';
+    width: 10px; height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+  .lib-nav { display: flex; gap: 0.25rem; }
+  .lib-nav a {
+    text-decoration: none;
+    color: var(--muted);
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.35rem 0.8rem;
+    border-radius: 6px;
+  }
+  .lib-nav a:hover { color: var(--ink); background: var(--bg); }
+  .lib-nav a.active { color: var(--accent); background: var(--accent-soft); font-weight: 600; }
+  .topbar-actions { margin-left: auto; display: flex; gap: 0.4rem; }
+  .topbar-actions button {
+    border: 1px solid var(--line);
+    background: #fff;
+    border-radius: 6px;
+    padding: 0.4rem 0.8rem;
+    font-size: 0.82rem;
+    font-family: inherit;
+    cursor: pointer;
+    color: var(--muted);
+    transition: all .15s;
+  }
+  .topbar-actions button:hover { border-color: var(--accent); color: var(--accent); }
+
+  .res-wrap {
+    max-width: 900px;
+    margin: 2rem auto 4rem;
+    padding: 0 2rem;
+  }
+  .res-head { margin-bottom: 1.5rem; }
+  .res-badges { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; margin-bottom: 0.6rem; }
+  .res-type {
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .res-type.guia { background: var(--guia-soft); color: var(--guia); }
+  .res-type.presentacion { background: var(--pres-soft); color: var(--pres); }
+  .res-type.documento { background: var(--doc-soft); color: var(--doc); }
+  .res-spec { font-size: 0.8rem; color: var(--muted); }
+  .res-head h1 {
+    font-family: 'Newsreader', serif;
+    font-size: 2.1rem;
+    font-weight: 600;
+    margin: 0 0 0.5rem;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+  }
+  .res-head .desc { color: var(--muted); font-size: 1rem; margin: 0 0 0.5rem; max-width: 70ch; }
+  .res-head .meta { font-size: 0.8rem; color: var(--muted); display: flex; gap: 0.8rem; flex-wrap: wrap; }
+
+  /* ---- Audio player ---- */
+  .audio-panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 1.25rem;
+  }
+  .audio-panel h2 {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--pres);
+    margin: 0 0 0.7rem;
+  }
+  .audio-panel audio { width: 100%; margin-bottom: 0.6rem; }
+  .audio-tracks { display: flex; flex-direction: column; gap: 0.25rem; }
+  .audio-track {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.45rem 0.7rem;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    font-size: 0.88rem;
+    background: none;
+    font-family: inherit;
+    text-align: left;
+    color: var(--ink);
+    width: 100%;
+    box-sizing: border-box;
+  }
+  .audio-track:hover { background: var(--bg); }
+  .audio-track.active {
+    background: var(--pres-soft);
+    border-color: var(--pres);
+    font-weight: 600;
+  }
+  .audio-track .n {
+    width: 22px; height: 22px;
+    border-radius: 50%;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.72rem;
+    color: var(--muted);
+    flex-shrink: 0;
+  }
+  .audio-track.active .n { background: var(--pres); border-color: var(--pres); color: #fff; }
+
+  /* ---- PDF ---- */
+  .pdf-panel {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 1.25rem;
+  }
+  .pdf-panel .pdf-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid var(--line);
+    font-size: 0.82rem;
+    color: var(--muted);
+  }
+  .pdf-panel .pdf-bar a {
+    margin-left: auto;
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 500;
+  }
+  .pdf-panel iframe {
+    width: 100%;
+    height: 75vh;
+    border: none;
+    display: block;
+    background: #525659;
+  }
+
+  /* ---- Markdown (guías) ---- */
+  .md-body {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 2rem 2.5rem;
+    line-height: 1.7;
+    font-size: 0.97rem;
+  }
+  .md-body h1, .md-body h2, .md-body h3, .md-body h4 {
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    line-height: 1.25;
+    margin: 1.8em 0 0.6em;
+  }
+  .md-body h1 { font-size: 1.9rem; margin-top: 0; }
+  .md-body h2 { font-size: 1.45rem; border-bottom: 2px solid var(--line); padding-bottom: 0.3rem; }
+  .md-body h3 { font-size: 1.15rem; }
+  .md-body p { margin: 0.8em 0; }
+  .md-body ul, .md-body ol { padding-left: 1.5rem; margin: 0.8em 0; }
+  .md-body li { margin: 0.3em 0; }
+  .md-body blockquote {
+    border-left: 3px solid var(--accent);
+    background: var(--accent-soft);
+    margin: 1em 0;
+    padding: 0.6rem 1.1rem;
+    border-radius: 0 8px 8px 0;
+    color: #2c4a63;
+    font-size: 0.92rem;
+  }
+  .md-body blockquote p { margin: 0.3em 0; }
+  .md-body code {
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: 0.85em;
+  }
+  .md-body table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    width: 100%;
+    font-size: 0.9rem;
+  }
+  .md-body th, .md-body td {
+    border: 1px solid var(--line);
+    padding: 0.5rem 0.8rem;
+    text-align: left;
+  }
+  .md-body th { background: var(--bg); font-weight: 600; }
+  .md-body hr { border: none; border-top: 1px solid var(--line); margin: 1.5em 0; }
+  .md-body a { color: var(--accent); }
+
+  .related {
+    margin-top: 1.5rem;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .related .label { font-size: 0.8rem; color: var(--muted); }
+  .related a {
+    border: 1px solid var(--line);
+    background: #fff;
+    border-radius: 999px;
+    padding: 0.3rem 0.9rem;
+    font-size: 0.82rem;
+    text-decoration: none;
+    color: var(--accent);
+  }
+  .related a:hover { border-color: var(--accent); }
+
+  .lib-loading, .lib-empty {
+    text-align: center;
+    padding: 4rem 2rem;
+    color: var(--muted);
+  }
+  .lib-loading .spinner {
+    display: inline-block;
+    width: 24px; height: 24px;
+    border: 3px solid var(--line);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.9s linear infinite;
+    margin-bottom: 1rem;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  .toast {
+    position: fixed;
+    bottom: 1.5rem;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--ink);
+    color: #fff;
+    padding: 0.6rem 1.2rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: all .25s;
+    z-index: 50;
+  }
+  .toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
+
+  @media (max-width: 640px) {
+    .lib-topbar { padding: 0.75rem 1rem; flex-wrap: wrap; }
+    .res-wrap { padding: 0 1rem; margin-top: 1.25rem; }
+    .res-head h1 { font-size: 1.6rem; }
+    .md-body { padding: 1.25rem 1.1rem; }
+    .pdf-panel iframe { height: 60vh; }
+  }
+</style>
+</head>
+<body>
+
+<header class="lib-topbar">
+  <a href="index.html" class="lib-brand">MedMaps</a>
+  <nav class="lib-nav">
+    <a href="index.html">Mapas</a>
+    <a href="recursos.html" class="active">Recursos</a>
+  </nav>
+  <div class="topbar-actions">
+    <button id="btnCopy">🔗 Copiar enlace</button>
+    <button id="btnShare">📤 Compartir</button>
+  </div>
+</header>
+
+<main class="res-wrap" id="main">
+  <div class="lib-loading">
+    <div class="spinner"></div>
+    Cargando recurso…
+  </div>
+</main>
+
+<div class="toast" id="toast"></div>
+
+<script>
+(function() {
+  'use strict';
+
+  const $ = (s) => document.querySelector(s);
+  const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+
+  const TYPE_LABELS = {
+    guia: { label: 'Guía de estudio', icon: '📖' },
+    presentacion: { label: 'Presentación', icon: '🎧' },
+    documento: { label: 'Documento', icon: '📄' }
+  };
+
+  let resource = null;
+
+  /* ---------- Mini renderizador de Markdown (sin dependencias) ---------- */
+  function mdInline(s) {
+    s = esc(s);
+    s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
+    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+    s = s.replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>');
+    s = s.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, '<a href="$2" target="_blank" rel="noopener">$1</a>');
+    return s;
+  }
+
+  function mdRender(md) {
+    const lines = md.replace(/\r\n?/g, '\n').split('\n');
+    const out = [];
+    let i = 0;
+    let listStack = null; // 'ul' | 'ol'
+    let para = [];
+
+    function flushPara() {
+      if (para.length) {
+        out.push('<p>' + para.map(mdInline).join('<br>') + '</p>');
+        para = [];
+      }
+    }
+    function closeList() {
+      if (listStack) { out.push(`</${listStack}>`); listStack = null; }
+    }
+
+    while (i < lines.length) {
+      const line = lines[i];
+
+      // Tabla
+      if (/^\s*\|.*\|\s*$/.test(line) && i + 1 < lines.length && /^\s*\|[\s:|-]+\|\s*$/.test(lines[i + 1])) {
+        flushPara(); closeList();
+        const headCells = line.trim().slice(1, -1).split('|').map(c => c.trim());
+        i += 2;
+        const rows = [];
+        while (i < lines.length && /^\s*\|.*\|\s*$/.test(lines[i])) {
+          rows.push(lines[i].trim().slice(1, -1).split('|').map(c => c.trim()));
+          i++;
+        }
+        out.push('<table><thead><tr>' + headCells.map(c => `<th>${mdInline(c)}</th>`).join('') + '</tr></thead><tbody>' +
+          rows.map(r => '<tr>' + r.map(c => `<td>${mdInline(c)}</td>`).join('') + '</tr>').join('') + '</tbody></table>');
+        continue;
+      }
+
+      // Encabezados
+      const h = line.match(/^(#{1,4})\s+(.*)/);
+      if (h) {
+        flushPara(); closeList();
+        out.push(`<h${h[1].length}>${mdInline(h[2])}</h${h[1].length}>`);
+        i++; continue;
+      }
+
+      // Separador
+      if (/^\s*(-{3,}|\*{3,})\s*$/.test(line)) {
+        flushPara(); closeList();
+        out.push('<hr>');
+        i++; continue;
+      }
+
+      // Blockquote
+      if (/^\s*>\s?/.test(line)) {
+        flushPara(); closeList();
+        const quote = [];
+        while (i < lines.length && /^\s*>\s?/.test(lines[i])) {
+          quote.push(lines[i].replace(/^\s*>\s?/, ''));
+          i++;
+        }
+        out.push('<blockquote><p>' + quote.map(mdInline).join('<br>') + '</p></blockquote>');
+        continue;
+      }
+
+      // Listas
+      const ul = line.match(/^\s*[-*]\s+(.*)/);
+      const ol = line.match(/^\s*\d+\.\s+(.*)/);
+      if (ul || ol) {
+        flushPara();
+        const want = ul ? 'ul' : 'ol';
+        if (listStack !== want) { closeList(); out.push(`<${want}>`); listStack = want; }
+        // Continuaciones indentadas del mismo item
+        let item = (ul || ol)[1];
+        while (i + 1 < lines.length && /^\s{2,}\S/.test(lines[i + 1]) &&
+               !/^\s*[-*]\s+/.test(lines[i + 1]) && !/^\s*\d+\.\s+/.test(lines[i + 1])) {
+          i++;
+          item += ' ' + lines[i].trim();
+        }
+        out.push(`<li>${mdInline(item)}</li>`);
+        i++; continue;
+      }
+
+      // Línea vacía
+      if (!line.trim()) {
+        flushPara(); closeList();
+        i++; continue;
+      }
+
+      para.push(line.trim());
+      i++;
+    }
+    flushPara(); closeList();
+    return out.join('\n');
+  }
+
+  /* ---------- Compartir ---------- */
+  function shareText() {
+    const t = TYPE_LABELS[resource.type] || TYPE_LABELS.documento;
+    return `${t.icon} ${resource.title} — ${t.label} en MedMaps\n${location.href}`;
+  }
+  function toast(msg) {
+    const el = $('#toast');
+    el.textContent = msg;
+    el.classList.add('show');
+    clearTimeout(el._t);
+    el._t = setTimeout(() => el.classList.remove('show'), 2200);
+  }
+  $('#btnCopy').addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(location.href);
+      toast('Enlace copiado — pégalo donde quieras compartirlo');
+    } catch (e) {
+      prompt('Copia el enlace:', location.href);
+    }
+  });
+  $('#btnShare').addEventListener('click', () => {
+    if (!resource) return;
+    if (navigator.share) {
+      navigator.share({ title: resource.title, text: shareText(), url: location.href }).catch(() => {});
+    } else {
+      window.open('https://wa.me/?text=' + encodeURIComponent(shareText()), '_blank');
+    }
+  });
+
+  /* ---------- Render principal ---------- */
+  async function init() {
+    const id = new URLSearchParams(location.search).get('id');
+    if (!id) return fail('Falta el parámetro <code>?id=</code> en la URL.');
+
+    let index;
+    try {
+      const r = await fetch('data/resources_index.json');
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      index = await r.json();
+    } catch (e) {
+      return fail('No se pudo cargar el índice de recursos: ' + esc(e.message));
+    }
+
+    resource = index.find(x => x.id === id);
+    if (!resource) return fail(`Recurso no encontrado: <code>${esc(id)}</code>`);
+
+    document.title = resource.title + ' — MedMaps';
+    const t = TYPE_LABELS[resource.type] || TYPE_LABELS.documento;
+    const files = resource.files || {};
+
+    let html = `<header class="res-head">
+      <div class="res-badges">
+        <span class="res-type ${esc(resource.type)}">${t.icon} ${t.label}</span>
+        <span class="res-spec">${esc(resource.specialty || 'General')}</span>
+      </div>
+      <h1>${esc(resource.title)}</h1>
+      ${resource.description ? `<p class="desc">${esc(resource.description)}</p>` : ''}
+      <div class="meta">
+        ${resource.author ? `<span>${esc(resource.author)}</span>` : ''}
+        ${resource.date ? `<span>${esc(resource.date)}</span>` : ''}
+        ${(resource.tags || []).map(tag => `<span>#${esc(tag)}</span>`).join('')}
+      </div>
+    </header>`;
+
+    // Audio (presentaciones con narración)
+    if (files.audio && files.audio.length) {
+      html += `<section class="audio-panel">
+        <h2>🎧 Audio de la presentación</h2>
+        <audio id="player" controls preload="metadata" src="${esc(files.audio[0].src)}"></audio>
+        <div class="audio-tracks" id="tracks">
+          ${files.audio.map((a, idx) => `
+            <button class="audio-track ${idx === 0 ? 'active' : ''}" data-src="${esc(a.src)}" data-idx="${idx}">
+              <span class="n">${idx + 1}</span>
+              <span>${esc(a.title || 'Pista ' + (idx + 1))}</span>
+            </button>`).join('')}
+        </div>
+      </section>`;
+    }
+
+    // PDF
+    if (files.pdf) {
+      html += `<section class="pdf-panel">
+        <div class="pdf-bar">
+          <span>📄 ${esc(files.pdf.split('/').pop())}</span>
+          <a href="${esc(files.pdf)}" target="_blank" rel="noopener">Abrir en pestaña nueva ↗</a>
+        </div>
+        <iframe src="${esc(files.pdf)}" title="${esc(resource.title)}"></iframe>
+      </section>`;
+    }
+
+    // Contenido markdown (guías)
+    if (files.content) {
+      html += `<article class="md-body" id="mdBody"><div class="lib-loading"><div class="spinner"></div></div></article>`;
+    }
+
+    // Mapas relacionados
+    if (resource.related_maps && resource.related_maps.length) {
+      html += `<div class="related">
+        <span class="label">Mapas relacionados:</span>
+        ${resource.related_maps.map(m => `<a href="viewer.html?id=${encodeURIComponent(m)}">🧠 ${esc(m)}</a>`).join('')}
+      </div>`;
+    }
+
+    $('#main').innerHTML = html;
+
+    // Playlist de audio
+    const player = $('#player');
+    if (player) {
+      document.querySelectorAll('.audio-track').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.audio-track').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          player.src = btn.dataset.src;
+          player.play().catch(() => {});
+        });
+      });
+      // Auto-avance a la siguiente pista
+      player.addEventListener('ended', () => {
+        const active = $('.audio-track.active');
+        const next = active && document.querySelector(`.audio-track[data-idx="${+active.dataset.idx + 1}"]`);
+        if (next) next.click();
+      });
+    }
+
+    // Cargar markdown
+    if (files.content) {
+      try {
+        const r = await fetch(files.content);
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        $('#mdBody').innerHTML = mdRender(await r.text());
+      } catch (e) {
+        $('#mdBody').innerHTML = `<p style="color:#a00">No se pudo cargar el contenido: ${esc(e.message)}</p>`;
+      }
+    }
+  }
+
+  function fail(msg) {
+    $('#main').innerHTML = `<div class="lib-empty">
+      <p><b>No se pudo mostrar el recurso.</b></p>
+      <p style="font-size:.9rem">${msg}</p>
+      <p><a href="recursos.html">← Volver a recursos</a></p>
+    </div>`;
+  }
+
+  init();
+})();
+</script>
+
+</body>
+</html>
