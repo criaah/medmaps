@@ -46,6 +46,29 @@ git push
 
 En 1–2 minutos GitHub Pages lo publica.
 
+## Catálogo pre-cargado y recursos "pendientes"
+
+El portal ya trae pre-cargado el catálogo de la **Rotación UCI** (50 presentaciones,
+G00–G37) como recursos *pendientes*: aparecen en el listado con la etiqueta
+**⏳ Pendiente**, agrupados en la especialidad "Medicina Intensiva", pero todavía sin
+PDF ni audio. La estructura del curso ya está publicada; solo falta subir los archivos.
+
+Para completar un pendiente cuando tengas su PDF (y audio) a mano:
+
+```bash
+# Ver qué falta por subir
+python process_resources.py list --pending
+
+# Rellenar uno concreto (copia los archivos y quita el estado pendiente)
+python process_resources.py fill res_uci_g05 \
+    G05_shock_hemorragico.pdf --audio g05_parte1.mp3 g05_parte2.mp3
+```
+
+`fill` reutiliza la entrada existente del catálogo (mantiene título, especialidad,
+tags y URL), así que el enlace `recurso.html?id=res_uci_g05` es estable desde el
+primer momento: puedes compartirlo aunque el recurso todavía esté pendiente, y en
+cuanto lo rellenes empezará a mostrar el PDF y el audio.
+
 ## Cómo compartir con compañeros
 
 Cada recurso tiene URL propia y estable:

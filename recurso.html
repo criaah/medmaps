@@ -249,6 +249,36 @@
   .md-body hr { border: none; border-top: 1px solid var(--line); margin: 1.5em 0; }
   .md-body a { color: var(--accent); }
 
+  .pending-panel {
+    background: var(--card);
+    border: 1px dashed var(--line);
+    border-radius: 12px;
+    padding: 2.25rem 2rem;
+    text-align: center;
+    margin-bottom: 1.25rem;
+  }
+  .pending-panel .pending-icon { font-size: 2rem; margin-bottom: 0.5rem; }
+  .pending-panel h2 {
+    font-family: 'Newsreader', serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+    margin: 0 0 0.5rem;
+  }
+  .pending-panel p { color: var(--muted); margin: 0.3rem auto; max-width: 52ch; font-size: 0.92rem; }
+  .pending-panel .pending-how { margin-top: 1rem; font-weight: 500; color: var(--ink); }
+  .pending-panel .pending-cmd {
+    text-align: left;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.8rem 1rem;
+    font-size: 0.82rem;
+    overflow-x: auto;
+    margin: 0.6rem auto 0;
+    max-width: 40rem;
+    white-space: pre;
+  }
+
   .related {
     margin-top: 1.5rem;
     display: flex;
@@ -514,6 +544,21 @@
         ${(resource.tags || []).map(tag => `<span>#${esc(tag)}</span>`).join('')}
       </div>
     </header>`;
+
+    const hasFiles = !!(files.content || files.pdf || (files.audio && files.audio.length));
+    const isPending = resource.pending || !hasFiles;
+
+    // Recurso pendiente: catálogo publicado, archivos aún no subidos
+    if (isPending) {
+      html += `<section class="pending-panel">
+        <div class="pending-icon">⏳</div>
+        <h2>Pendiente de subir</h2>
+        <p>Esta presentación ya está en el catálogo, pero todavía no se han subido el PDF de las diapositivas ni el audio.</p>
+        <p class="pending-how">Para publicarla, desde el proyecto ejecuta:</p>
+        <pre class="pending-cmd">python process_resources.py fill ${esc(resource.id)} \\
+    presentacion.pdf --audio parte1.mp3 parte2.mp3</pre>
+      </section>`;
+    }
 
     // Audio (presentaciones con narración)
     if (files.audio && files.audio.length) {

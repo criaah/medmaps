@@ -99,6 +99,34 @@ def guess_type(filepath: Path) -> str:
     return "documento"
 
 
+def build_files(src: Path, rtype: str, audio: list) -> dict:
+    """Copia el archivo principal y las pistas de audio; retorna el dict `files`."""
+    files = {}
+    is_markdown = src.suffix.lower() in (".md", ".markdown", ".txt")
+    dest = copy_into(src, TYPE_DIRS[rtype])
+    rel = dest.relative_to(BASE_DIR).as_posix()
+    if is_markdown:
+        files["content"] = rel
+    else:
+        files["pdf"] = rel  # PDF u otro archivo incrustable
+
+    audio_entries = []
+    for i, a in enumerate(audio or [], 1):
+        apath = Path(a).expanduser()
+        if not apath.exists():
+            sys.exit(f"❌ Audio no encontrado: {apath}")
+        if apath.suffix.lower() not in AUDIO_EXTS:
+            print(f"⚠️  {apath.name}: extensión poco común para audio, se incluye igual")
+        adest = copy_into(apath, AUDIO_DIR)
+        audio_entries.append({
+            "title": f"Parte {i}",
+            "src": adest.relative_to(BASE_DIR).as_posix(),
+        })
+    if audio_entries:
+        files["audio"] = audio_entries
+    return files
+
+
 def cmd_add(args):
     src = Path(args.file).expanduser()
     if not src.exists():
@@ -112,32 +140,7 @@ def cmd_add(args):
     index = load_index()
     rid = unique_id(index, slugify(args.id or title))
 
-    files = {}
-    is_markdown = src.suffix.lower() in (".md", ".markdown", ".txt")
-    dest = copy_into(src, TYPE_DIRS[rtype])
-    rel = dest.relative_to(BASE_DIR).as_posix()
-    if is_markdown:
-        files["content"] = rel
-    elif src.suffix.lower() == ".pdf":
-        files["pdf"] = rel
-    else:
-        files["pdf"] = rel  # el visor lo trata como archivo incrustable
-
-    # Pistas de audio
-    audio_entries = []
-    for i, a in enumerate(args.audio or [], 1):
-        apath = Path(a).expanduser()
-        if not apath.exists():
-            sys.exit(f"❌ Audio no encontrado: {apath}")
-        if apath.suffix.lower() not in AUDIO_EXTS:
-            print(f"⚠️  {apath.name}: extensión poco común para audio, se incluye igual")
-        adest = copy_into(apath, AUDIO_DIR)
-        audio_entries.append({
-            "title": f"Parte {i}",
-            "src": adest.relative_to(BASE_DIR).as_posix(),
-        })
-    if audio_entries:
-        files["audio"] = audio_entries
+    files = build_files(src, rtype, args.audio)
 
     entry = {
         "id": rid,
@@ -168,16 +171,55 @@ def cmd_add(args):
     print("   Recuerda hacer commit + push para publicarlo.")
 
 
-def cmd_list(_args):
+def cmd_fill(args):
+    """Rellena un recurso pendiente (del catálogo) con sus archivos reales."""
+    src = Path(args.file).expanduser()
+    if not src.exists():
+        sys.exit(f"❌ Archivo no encontrado: {src}")
+
+    index = load_index()
+    entry = next((r for r in index if r["id"] == args.id), None)
+    if entry is None:
+        sys.exit(f"❌ No existe el recurso: {args.id}  (usa 'list' para ver los ids)")
+
+    rtype = entry.get("type", guess_type(src))
+    if rtype not in TYPE_DIRS:
+        rtype = guess_type(src)
+    entry["files"] = build_files(src, rtype, args.audio)
+    entry.pop("pending", None)
+    if args.description:
+        entry["description"] = args.description
+    elif entry.get("description", "").endswith("Pendiente de subir los archivos."):
+        entry["description"] = entry["description"].replace(
+            " Pendiente de subir los archivos.", "").strip()
+    entry["date"] = datetime.now().strftime("%Y-%m-%d")
+    save_index(index)
+
+    print(f"\n✅ Recurso completado: {entry['id']}")
+    print(f"   Título: {entry['title']}")
+    for k, v in entry["files"].items():
+        if k == "audio":
+            for a in v:
+                print(f"   Audio: {a['src']}")
+        else:
+            print(f"   {k}: {v}")
+    print(f"\n   URL: recurso.html?id={entry['id']}")
+    print("   Recuerda hacer commit + push para publicarlo.")
+
+
+def cmd_list(args):
     index = load_index()
     if not index:
         print("📭 No hay recursos todavía.")
         return
-    print(f"\n📚 {len(index)} recursos:\n")
+    if getattr(args, "pending", False):
+        index = [r for r in index if r.get("pending") or not r.get("files")]
+    print(f"\n📚 {len(index)} recursos{' pendientes' if getattr(args, 'pending', False) else ''}:\n")
     for r in index:
         icon = {"guia": "📖", "presentacion": "🎧", "documento": "📄"}.get(r["type"], "📄")
         audio = r.get("files", {}).get("audio", [])
-        extra = f" · {len(audio)} pista(s) de audio" if audio else ""
+        pending = r.get("pending") or not r.get("files")
+        extra = " · ⏳ pendiente" if pending else (f" · {len(audio)} pista(s) de audio" if audio else "")
         print(f"  {icon} [{r['id']}] {r['title']} — {r.get('specialty', 'General')}{extra}")
 
 
@@ -209,7 +251,15 @@ def main():
     p_add.add_argument("--id", help="Forzar un id específico (se slugifica)")
     p_add.set_defaults(func=cmd_add)
 
+    p_fill = sub.add_parser("fill", help="Rellenar un recurso pendiente del catálogo con sus archivos")
+    p_fill.add_argument("id", help="ID del recurso pendiente (ej: res_uci_g05)")
+    p_fill.add_argument("file", help="Archivo principal (.pdf para presentaciones, .md para guías)")
+    p_fill.add_argument("--audio", nargs="+", help="Archivos de audio (en orden)")
+    p_fill.add_argument("--description", "-d", default="", help="Descripción (opcional; reemplaza la del catálogo)")
+    p_fill.set_defaults(func=cmd_fill)
+
     p_list = sub.add_parser("list", help="Listar recursos")
+    p_list.add_argument("--pending", "-p", action="store_true", help="Solo los pendientes de subir")
     p_list.set_defaults(func=cmd_list)
 
     p_rm = sub.add_parser("remove", help="Quitar un recurso del índice")
